@@ -1,0 +1,17 @@
+{
+  "name": "learning-english-modules",
+  "version": "1.0.0",
+  "private": true,
+  "description": "He thong hoc tieng Anh ca nhan - Module 1: Chatbot sua loi dien dat",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.23.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

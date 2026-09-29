@@ -1,0 +1,1189 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Daily English</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&display=swap">
+<style>
+/* Layout: sticky glass header (brand, two tabs, theme toggle). Chatbot = conversation sidebar (drawer on phones) + one chat column. Writing = toolbar + sortable table (cards on phones). */
+:root {
+  --bg: #060A18;
+  --glow-a: rgba(59,130,246,.30);
+  --glow-b: rgba(255,138,61,.15);
+  --surface: rgba(255,255,255,.055);
+  --surface-2: rgba(255,255,255,.10);
+  --line: rgba(255,255,255,.12);
+  --fg: #EAF0FF;
+  --muted: #93A0C2;
+  --accent: #3B82F6;
+  --accent-ink: #9CC3FF;
+  --btn: #2F6BEA;
+  --warm: #FF8A3D;
+  --warm-ink: #FFB27D;
+  --good: #4ADE80;
+  --bad: #FB7185;
+  --glow: rgba(59,130,246,.55);
+  --shadow: 0 18px 50px -18px rgba(0,0,0,.6);
+  --scrim: rgba(2,5,14,.6);
+  --font-display: 'Bricolage Grotesque', 'Be Vietnam Pro', system-ui, sans-serif;
+  --font-body: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --spring: cubic-bezier(.34,1.56,.64,1);
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #EDF2FF; --glow-a: rgba(59,130,246,.22); --glow-b: rgba(255,138,61,.16);
+    --surface: rgba(255,255,255,.72); --surface-2: rgba(255,255,255,.95); --line: rgba(24,44,96,.13);
+    --fg: #0D1633; --muted: #55628A; --accent: #2563EB; --accent-ink: #1D4ED8; --btn: #2563EB;
+    --warm: #E8620C; --warm-ink: #B84B06; --good: #15803D; --bad: #BE123C;
+    --glow: rgba(37,99,235,.35); --shadow: 0 18px 44px -20px rgba(30,60,140,.35); --scrim: rgba(13,22,51,.35);
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bg: #EDF2FF; --glow-a: rgba(59,130,246,.22); --glow-b: rgba(255,138,61,.16);
+  --surface: rgba(255,255,255,.72); --surface-2: rgba(255,255,255,.95); --line: rgba(24,44,96,.13);
+  --fg: #0D1633; --muted: #55628A; --accent: #2563EB; --accent-ink: #1D4ED8; --btn: #2563EB;
+  --warm: #E8620C; --warm-ink: #B84B06; --good: #15803D; --bad: #BE123C;
+  --glow: rgba(37,99,235,.35); --shadow: 0 18px 44px -20px rgba(30,60,140,.35); --scrim: rgba(13,22,51,.35);
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+html { height: 100%; }
+body {
+  margin: 0; min-height: 100%;
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(60% 46% at 12% 0%, var(--glow-a), transparent 70%),
+    radial-gradient(46% 40% at 92% 8%, var(--glow-b), transparent 70%);
+}
+button, input, textarea, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.glass {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  backdrop-filter: blur(18px) saturate(140%);
+}
+
+/* Buttons: instant press, spring release */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 44px; padding: 0 20px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--surface-2); color: var(--fg);
+  font-weight: 600; font-size: 14px; cursor: pointer;
+  transition: transform .4s var(--spring), background-color .2s, box-shadow .25s, border-color .2s, filter .2s, opacity .2s;
+  -webkit-tap-highlight-color: transparent; touch-action: manipulation; user-select: none;
+}
+.btn:hover { border-color: color-mix(in srgb, var(--accent) 50%, var(--line)); box-shadow: 0 8px 26px -10px var(--glow); }
+.btn:active { transform: scale(.95); transition-duration: .07s, .2s, .25s, .2s, .2s, .2s; }
+.btn:disabled { opacity: .4; cursor: not-allowed; box-shadow: none; transform: none; }
+.btn svg { flex: none; }
+.btn-primary { background: var(--btn); border-color: transparent; color: #fff; box-shadow: 0 10px 28px -10px var(--glow); }
+.btn-primary:hover { filter: brightness(1.1); border-color: transparent; }
+.btn-ghost { background: transparent; }
+.btn-danger { color: var(--bad); }
+.btn-danger.armed { background: var(--bad); border-color: transparent; color: #fff; }
+.btn-sm { min-height: 36px; padding: 0 14px; font-size: 13px; }
+.btn-block { width: 100%; }
+.icon-btn { width: 44px; min-height: 44px; padding: 0; border-radius: 50%; }
+
+/* Header */
+.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+  background: color-mix(in srgb, var(--bg) 72%, transparent);
+  -webkit-backdrop-filter: blur(20px) saturate(150%); backdrop-filter: blur(20px) saturate(150%);
+  border-bottom: 1px solid var(--line);
+}
+.top-in { max-width: 1120px; margin: 0 auto; padding: 8px 16px; display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.brand { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.mark {
+  width: 34px; height: 34px; border-radius: 11px; display: grid; place-items: center; color: #fff; flex: none;
+  background: linear-gradient(135deg, var(--btn), var(--warm));
+  box-shadow: 0 8px 22px -8px var(--glow);
+}
+.name { font-family: var(--font-display); font-weight: 700; font-size: 18px; letter-spacing: -.01em; white-space: nowrap; }
+.tabs { position: relative; display: grid; grid-template-columns: 1fr 1fr; padding: 4px; width: min(230px, 56vw); border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+.pill {
+  position: absolute; top: 4px; bottom: 4px; left: 4px; width: calc(50% - 4px); border-radius: 999px; background: var(--btn);
+  box-shadow: 0 6px 20px -6px var(--glow);
+  transition: transform .5s cubic-bezier(.34,1.4,.64,1);
+}
+.tabs[data-active="writing"] .pill { transform: translateX(100%); }
+.tab {
+  position: relative; z-index: 1; min-height: 36px; border: 0; background: transparent; border-radius: 999px;
+  font-weight: 600; font-size: 14px; color: var(--muted); cursor: pointer;
+  transition: color .25s, transform .4s var(--spring); -webkit-tap-highlight-color: transparent; touch-action: manipulation;
+}
+.tab:active { transform: scale(.94); transition-duration: .07s; }
+.tab[aria-selected="true"] { color: #fff; }
+.theme-btn { width: 44px; min-height: 44px; }
+.theme-btn svg { transition: transform .5s var(--spring); }
+.theme-btn:active svg { transform: rotate(40deg) scale(.9); transition-duration: .07s; }
+
+/* Chat layout */
+#view-chat {
+  max-width: 1120px; margin: 0 auto; padding: 0 16px;
+  display: grid; grid-template-columns: minmax(0, 1fr); gap: 24px;
+}
+.chat-main {
+  min-width: 0; display: flex; flex-direction: column;
+  min-height: calc(100dvh - 60px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px));
+}
+.chat-bar { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding-top: 10px; }
+.bar-title { flex: 1; min-width: 0; text-align: center; font-weight: 600; font-size: 14px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* Sidebar (drawer on phones) */
+.side {
+  position: fixed; top: 0; bottom: 0; left: 0; z-index: 60; width: min(330px, 88vw);
+  display: flex; flex-direction: column; overflow: hidden;
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
+  border-right: 1px solid var(--line);
+  -webkit-backdrop-filter: blur(24px) saturate(150%); backdrop-filter: blur(24px) saturate(150%);
+  transform: translateX(-104%); visibility: hidden;
+  transition: transform .5s cubic-bezier(.34,1.2,.64,1), visibility 0s .5s;
+}
+.side.open { transform: none; visibility: visible; transition: transform .5s cubic-bezier(.34,1.2,.64,1), visibility 0s; }
+.backdrop { position: fixed; inset: 0; z-index: 55; background: var(--scrim); }
+.side-head { padding: 14px; display: grid; gap: 10px; border-bottom: 1px solid var(--line); }
+.field-sm { min-height: 40px; padding: 8px 16px; border-radius: 999px; font-size: 14px; }
+.conv-list { padding: 4px 8px 14px; overflow-y: auto; flex: 1; overscroll-behavior: contain; }
+.conv-group { font-size: 12px; font-weight: 600; color: var(--muted); padding: 14px 12px 4px; }
+.conv-empty { margin: 0; padding: 18px 12px; color: var(--muted); font-size: 14px; }
+.conv {
+  display: flex; align-items: center; border-radius: 14px; border: 1px solid transparent;
+  transition: background-color .2s, border-color .2s;
+}
+.conv:hover { background: var(--surface); }
+.conv.active { background: var(--surface-2); border-color: var(--line); }
+.conv-main {
+  flex: 1; min-width: 0; min-height: 44px; padding: 0 12px; text-align: left; background: none; border: 0; cursor: pointer;
+  font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; -webkit-tap-highlight-color: transparent;
+}
+.conv-tools { display: flex; align-items: center; gap: 2px; padding-right: 6px; opacity: 0; transition: opacity .2s; }
+.conv:hover .conv-tools, .conv:focus-within .conv-tools, .conv.armed .conv-tools { opacity: 1; }
+@media (hover: none) { .conv-tools { opacity: 1; } }
+.tool {
+  width: 34px; height: 34px; border-radius: 50%; border: 0; background: transparent; color: var(--muted); display: grid; place-items: center; cursor: pointer;
+  transition: background-color .2s, color .2s, transform .4s var(--spring);
+}
+.tool:hover { background: var(--surface-2); color: var(--fg); }
+.tool:active { transform: scale(.9); transition-duration: .07s; }
+.tool.danger { width: auto; padding: 0 12px; border-radius: 999px; color: var(--bad); font-size: 13px; font-weight: 600; }
+.conv-rename {
+  width: 100%; margin: 2px; min-height: 40px; padding: 0 12px; border-radius: 12px; outline: 0; font-size: 14px;
+  background: var(--surface-2); border: 1px solid color-mix(in srgb, var(--accent) 60%, var(--line));
+}
+
+@media (min-width: 900px) {
+  #view-chat { grid-template-columns: 290px minmax(0, 1fr); }
+  .chat-bar, .backdrop { display: none; }
+  .side {
+    position: sticky; top: calc(60px + env(safe-area-inset-top, 0px) + 16px); z-index: 1; align-self: start; width: auto;
+    max-height: calc(100dvh - 60px - env(safe-area-inset-top, 0px) - 32px); margin-top: 16px; padding: 0;
+    border: 1px solid var(--line); border-radius: 24px; transform: none; visibility: visible; transition: none;
+    background: var(--surface);
+  }
+}
+
+/* Chat */
+.intro { padding-block: 36px 4px; display: grid; gap: 16px; }
+.hero {
+  margin: 0; font-family: var(--font-display); font-weight: 700; letter-spacing: -.025em;
+  font-size: clamp(28px, 6.4vw, 44px); line-height: 1.08; text-wrap: balance;
+}
+.grad {
+  background: linear-gradient(95deg, var(--accent) 10%, var(--warm) 95%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.lead { margin: 0; color: var(--muted); max-width: 56ch; text-wrap: pretty; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  min-height: 40px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); cursor: pointer;
+  font-size: 13.5px; font-weight: 500;
+  transition: transform .4s var(--spring), border-color .2s, background-color .2s; -webkit-tap-highlight-color: transparent; touch-action: manipulation;
+}
+.chip:hover { border-color: color-mix(in srgb, var(--accent) 55%, var(--line)); background: var(--surface-2); }
+.chip:active { transform: scale(.95); transition-duration: .07s, .2s, .2s; }
+.example { display: grid; gap: 12px; margin-top: 8px; opacity: .92; }
+.badge {
+  justify-self: start; font-size: 12px; font-weight: 600; letter-spacing: .03em; padding: 4px 10px; border-radius: 999px;
+  color: var(--warm-ink); background: color-mix(in srgb, var(--warm) 16%, transparent);
+}
+#messages { display: flex; flex-direction: column; gap: 14px; padding-block: 16px; flex: 1; }
+.msg { max-width: min(92%, 700px); overflow-wrap: anywhere; }
+.msg-u {
+  align-self: flex-end; background: var(--btn); color: #fff; padding: 12px 16px; border-radius: 20px 20px 6px 20px;
+  white-space: pre-wrap; box-shadow: 0 10px 28px -14px var(--glow);
+}
+.msg-a { align-self: flex-start; width: min(100%, 700px); padding: 16px 18px; border-radius: 20px 20px 20px 6px; box-shadow: var(--shadow); }
+.label { font-size: 12.5px; font-weight: 700; letter-spacing: .04em; margin: 16px 0 6px; color: var(--muted); }
+.label:first-child { margin-top: 0; }
+.label-corrected { color: var(--good); }
+.label-mistakes { color: var(--warm-ink); }
+.label-tip { color: var(--accent-ink); }
+.p { margin: 0 0 8px; text-wrap: pretty; }
+.p:last-child { margin-bottom: 0; }
+.sec-corrected {
+  padding: 10px 14px; border-radius: 14px; font-weight: 500;
+  background: color-mix(in srgb, var(--good) 11%, transparent);
+  border: 1px solid color-mix(in srgb, var(--good) 28%, transparent);
+}
+.list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+.list li { padding: 10px 12px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); }
+del { color: var(--bad); text-decoration-thickness: 2px; }
+.list strong { color: var(--good); font-weight: 600; }
+.tag {
+  display: inline-block; margin-inline: 3px; padding: 3px 9px; border-radius: 999px; font-size: 11.5px; font-weight: 600; line-height: 1.2; vertical-align: 1px;
+  color: var(--accent-ink); background: color-mix(in srgb, var(--accent) 18%, transparent);
+}
+.note { margin: 10px 0 0; font-size: 13px; color: var(--muted); }
+.err {
+  margin-top: 10px; padding: 12px 14px; border-radius: 14px; display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  background: color-mix(in srgb, var(--bad) 12%, transparent); border: 1px solid color-mix(in srgb, var(--bad) 32%, transparent); font-size: 14px;
+}
+.dots { display: inline-flex; gap: 5px; padding: 6px 2px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--muted); animation: blink 1.2s infinite ease-in-out; }
+.dots i:nth-child(2) { animation-delay: .15s; }
+.dots i:nth-child(3) { animation-delay: .3s; }
+@keyframes blink { 0%, 80%, 100% { opacity: .25; transform: scale(.85); } 40% { opacity: 1; transform: scale(1); } }
+
+.composer {
+  position: sticky; bottom: 0; z-index: 10;
+  padding: 14px 0 calc(12px + env(safe-area-inset-bottom, 0px));
+  background: linear-gradient(to top, color-mix(in srgb, var(--bg) 94%, transparent) 60%, transparent);
+}
+.box { display: flex; align-items: flex-end; gap: 8px; padding: 8px 8px 8px 18px; border-radius: 28px; box-shadow: var(--shadow); transition: border-color .2s, box-shadow .25s; }
+.box:focus-within { border-color: color-mix(in srgb, var(--accent) 60%, var(--line)); box-shadow: var(--shadow), 0 0 0 4px color-mix(in srgb, var(--accent) 16%, transparent); }
+#chat-input {
+  flex: 1; min-width: 0; resize: none; max-height: 180px; padding: 10px 0; line-height: 1.5;
+  background: transparent; border: 0; outline: 0; color: var(--fg);
+}
+#chat-input::placeholder { color: var(--muted); }
+.opts { display: flex; align-items: center; gap: 8px 12px; flex-wrap: wrap; margin-top: 10px; }
+.opt-l { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.seg { display: inline-grid; grid-auto-flow: column; padding: 3px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); }
+.seg button {
+  min-height: 32px; padding: 0 14px; border: 0; border-radius: 999px; background: transparent; color: var(--muted); font-size: 13px; font-weight: 600; cursor: pointer;
+  transition: background-color .25s, color .25s, transform .4s var(--spring); -webkit-tap-highlight-color: transparent; touch-action: manipulation;
+}
+.seg button:active { transform: scale(.93); transition-duration: .07s; }
+.seg button[aria-pressed="true"] { background: var(--surface-2); color: var(--fg); box-shadow: inset 0 0 0 1px var(--line); }
+
+/* Writing */
+#view-writing { max-width: 1120px; margin: 0 auto; padding: 28px 16px calc(48px + env(safe-area-inset-bottom, 0px)); }
+.w-narrow { max-width: 820px; }
+.w-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+.w-title { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 6vw, 40px); letter-spacing: -.02em; line-height: 1.1; }
+.sub { margin: 4px 0 0; color: var(--muted); font-variant-numeric: tabular-nums; }
+.empty { padding: 36px 24px; border-radius: 24px; display: grid; gap: 14px; justify-items: start; }
+.empty h2 { margin: 0; font-family: var(--font-display); font-size: 24px; letter-spacing: -.015em; }
+.empty p { margin: 0; color: var(--muted); max-width: 48ch; }
+.skel { height: 64px; border-radius: 18px; background: var(--surface); border: 1px solid var(--line); margin-bottom: 10px; }
+.banner { margin-bottom: 16px; padding: 12px 16px; border-radius: 16px; font-size: 14px; background: color-mix(in srgb, var(--warm) 13%, transparent); border: 1px solid color-mix(in srgb, var(--warm) 32%, transparent); }
+.conv-note { margin: 8px; padding: 10px 12px; border-radius: 12px; font-size: 13px; background: color-mix(in srgb, var(--warm) 13%, transparent); border: 1px solid color-mix(in srgb, var(--warm) 32%, transparent); }
+
+.toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 14px; }
+.search { position: relative; flex: 1 1 260px; display: flex; align-items: center; }
+.search svg { position: absolute; left: 15px; color: var(--muted); pointer-events: none; }
+.search input {
+  width: 100%; min-height: 44px; padding: 0 16px 0 42px; border-radius: 999px; outline: 0;
+  background: var(--surface); border: 1px solid var(--line); transition: border-color .2s, box-shadow .25s;
+}
+.search input::placeholder { color: var(--muted); }
+.search input:focus { border-color: color-mix(in srgb, var(--accent) 60%, var(--line)); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 16%, transparent); }
+.sel {
+  width: auto; max-width: 100%; min-height: 44px; padding: 0 40px 0 16px; border-radius: 999px; cursor: pointer; appearance: none; -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2393A0C2' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 15px center;
+}
+.sort-sel { display: none; }
+
+.tbl-wrap { border-radius: 22px; overflow: hidden; }
+.tbl-scroll { overflow-x: auto; }
+.tbl { width: 100%; min-width: 760px; table-layout: fixed; border-collapse: collapse; }
+.tbl th { padding: 0; text-align: left; font-size: 12.5px; font-weight: 700; color: var(--muted); border-bottom: 1px solid var(--line); }
+.tbl th button {
+  width: 100%; display: flex; align-items: center; gap: 6px; padding: 14px 16px; background: none; border: 0; cursor: pointer; text-align: left; font-weight: 700; color: inherit;
+  transition: color .2s;
+}
+.tbl th button:hover { color: var(--fg); }
+.tbl th.num button { justify-content: flex-end; }
+.tbl th[aria-sort="ascending"], .tbl th[aria-sort="descending"] { color: var(--fg); }
+.sic { flex: none; opacity: 0; transition: transform .35s var(--spring), opacity .2s; }
+.tbl th:hover .sic { opacity: .45; }
+.tbl th[aria-sort="ascending"] .sic, .tbl th[aria-sort="descending"] .sic { opacity: 1; }
+.tbl th[aria-sort="descending"] .sic { transform: rotate(180deg); }
+.tbl td { padding: 14px 16px; border-bottom: 1px solid var(--line); vertical-align: top; overflow: hidden; }
+.tbl tbody tr { cursor: pointer; transition: background-color .2s; }
+.tbl tbody tr:hover { background: var(--surface-2); }
+.tbl tbody tr:last-child td { border-bottom: 0; }
+.row-title { display: block; padding: 0; margin: 0; border: 0; background: none; cursor: pointer; text-align: left; max-width: 100%; font-family: var(--font-display); font-weight: 600; font-size: 16.5px; letter-spacing: -.005em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.snip { display: block; margin-top: 2px; color: var(--muted); font-size: 13.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.date { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.dash { color: var(--muted); }
+.ptag {
+  display: inline-block; max-width: 100%; padding: 3px 11px; border-radius: 999px; font-size: 12.5px; font-weight: 600; line-height: 1.4;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; vertical-align: top;
+  color: var(--fg); background: var(--surface-2); border: 1px solid var(--line);
+}
+.ptag-type { color: var(--accent-ink); background: color-mix(in srgb, var(--accent) 16%, transparent); border-color: transparent; }
+.pager { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 12px 16px; border-top: 1px solid var(--line); font-size: 13.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.pager-btns { display: flex; align-items: center; gap: 8px; }
+
+.meta { display: flex; gap: 6px 16px; flex-wrap: wrap; margin-top: 12px; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.chiprow { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.doc { margin-top: 20px; }
+.doc h2 { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: clamp(26px, 5.4vw, 36px); line-height: 1.15; letter-spacing: -.02em; overflow-wrap: anywhere; text-wrap: balance; }
+.doc-body { margin-top: 20px; max-width: 65ch; white-space: pre-wrap; overflow-wrap: anywhere; font-size: 16.5px; line-height: 1.8; }
+.doc-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+.field {
+  width: 100%; display: block; padding: 13px 16px; border-radius: 18px; background: var(--surface); border: 1px solid var(--line); outline: 0;
+  transition: border-color .2s, box-shadow .25s;
+}
+.field::placeholder { color: var(--muted); }
+.field:focus { border-color: color-mix(in srgb, var(--accent) 60%, var(--line)); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 16%, transparent); }
+#w-title { font-family: var(--font-display); font-weight: 600; font-size: 22px; letter-spacing: -.01em; }
+#w-body { min-height: 46vh; resize: vertical; line-height: 1.75; font-size: 16.5px; }
+.form { display: grid; gap: 12px; margin-top: 20px; }
+.form-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.lab { display: grid; gap: 6px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.lab .field { font-weight: 400; color: var(--fg); }
+.form-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.count { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+
+.toast {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(92px + env(safe-area-inset-bottom, 0px)); z-index: 80;
+  max-width: calc(100vw - 32px); padding: 12px 18px; border-radius: 999px; font-size: 14px; box-shadow: var(--shadow);
+  background: var(--surface-2); border: 1px solid var(--line); -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px);
+}
+
+@media (max-width: 640px) {
+  .sort-sel { display: inline-block; }
+  .tbl-scroll { overflow: visible; }
+  .tbl, .tbl tbody { display: block; min-width: 0; }
+  .tbl colgroup, .tbl thead { display: none; }
+  .tbl tr { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; padding: 14px 16px; border-bottom: 1px solid var(--line); }
+  .tbl tbody tr:last-child { border-bottom: 0; }
+  .tbl td { display: block; padding: 0; border: 0; overflow: visible; }
+  .tbl td.c-title { flex: 0 0 100%; overflow: hidden; }
+  .tbl td.num { margin-left: auto; }
+  .tbl td.num::after { content: " words"; }
+}
+@media (max-width: 460px) {
+  .name { display: none; }
+  .brand { flex: none; }
+  .tabs { width: auto; flex: 1; }
+  .top-in { gap: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: .01ms !important; animation: none !important; }
+}
+</style>
+
+<div class="top">
+  <div class="top-in">
+    <div class="brand">
+      <span class="mark" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg></span>
+      <span class="name">Daily English</span>
+    </div>
+    <nav class="tabs" data-active="chatbot" role="tablist" aria-label="Các phần của trang">
+      <span class="pill" aria-hidden="true"></span>
+      <button type="button" class="tab" role="tab" id="tab-chatbot" data-tab="chatbot" aria-selected="true" aria-controls="view-chat">Chatbot</button>
+      <button type="button" class="tab" role="tab" id="tab-writing" data-tab="writing" aria-selected="false" aria-controls="view-writing">Writing</button>
+    </nav>
+    <button type="button" class="btn btn-ghost icon-btn theme-btn" id="theme" aria-label="Đổi giao diện"></button>
+  </div>
+</div>
+
+<main>
+  <section id="view-chat" role="tabpanel" aria-labelledby="tab-chatbot">
+    <div class="backdrop" id="backdrop" hidden></div>
+    <aside class="side" id="side" aria-label="Các cuộc trò chuyện">
+      <div class="side-head">
+        <button type="button" class="btn btn-primary btn-block" id="new-chat">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+          Cuộc trò chuyện mới
+        </button>
+        <input class="field field-sm" id="conv-search" type="search" placeholder="Tìm cuộc trò chuyện" autocomplete="off" aria-label="Tìm cuộc trò chuyện">
+      </div>
+      <nav class="conv-list" id="conv-list" aria-label="Danh sách cuộc trò chuyện"></nav>
+    </aside>
+
+    <div class="chat-main">
+      <div class="chat-bar">
+        <button type="button" class="btn btn-ghost icon-btn" id="menu" aria-label="Mở danh sách cuộc trò chuyện" aria-expanded="false" aria-controls="side">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+        </button>
+        <span class="bar-title" id="bar-title">Cuộc trò chuyện mới</span>
+        <button type="button" class="btn btn-ghost icon-btn" id="new-chat-bar" aria-label="Cuộc trò chuyện mới">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+        </button>
+      </div>
+
+      <div class="intro" id="intro">
+        <h1 class="hero grad">Viết một câu, nhận lại bản đã sửa.</h1>
+        <p class="lead">Dán câu hoặc đoạn văn tiếng Anh bạn tự viết. Chatbot trả lại bản đã sửa, gạch ra từng lỗi và giải thích ngắn gọn.</p>
+        <div class="chips" id="chips">
+          <button type="button" class="chip" data-fill="Sửa giúp mình đoạn này:&#10;">Sửa giúp mình đoạn này</button>
+          <button type="button" class="chip" data-fill="Viết lại câu này cho tự nhiên hơn:&#10;">Viết lại cho tự nhiên hơn</button>
+          <button type="button" class="chip" data-fill="Khác nhau giữa &quot;make&quot; và &quot;do&quot; là gì?">Hỏi về ngữ pháp, từ vựng</button>
+        </div>
+        <div class="example" id="example" aria-label="Ví dụ một lượt sửa lỗi"></div>
+      </div>
+
+      <div id="messages" aria-live="polite"></div>
+
+      <div class="composer">
+        <div class="box glass">
+          <textarea id="chat-input" rows="1" placeholder="Viết tiếng Anh ở đây…" enterkeyhint="send" autocomplete="off" autocorrect="off" autocapitalize="sentences" spellcheck="false" aria-label="Tin nhắn"></textarea>
+          <button type="button" class="btn btn-primary icon-btn" id="send" aria-label="Gửi" disabled>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+          </button>
+          <button type="button" class="btn icon-btn" id="stop" aria-label="Dừng" hidden>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="5" width="14" height="14" rx="3"/></svg>
+          </button>
+        </div>
+        <div class="opts">
+          <div class="opt-l">
+            <span id="lang-label">Giải thích bằng</span>
+            <div class="seg" role="group" aria-labelledby="lang-label">
+              <button type="button" data-lang="vi" aria-pressed="true">Tiếng Việt</button>
+              <button type="button" data-lang="en" aria-pressed="false">English</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-writing" role="tabpanel" aria-labelledby="tab-writing" hidden>
+    <div id="writing-root"></div>
+  </section>
+</main>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+<datalist id="dl-topic"></datalist>
+<datalist id="dl-qtype"></datalist>
+
+<script>
+(function () {
+  'use strict';
+  var $ = function (s, r) { return (r || document).querySelector(s); };
+  var esc = function (s) {
+    return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; });
+  };
+  var pref = {
+    get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  };
+  function cap(name) {
+    try {
+      var c = window.claude;
+      if (c && c.use) return Promise.resolve(c.use(name)).catch(function () { return null; });
+    } catch (e) {}
+    return Promise.resolve(null);
+  }
+  var ICON = {
+    plus: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>',
+    back: '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg>',
+    chat: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-5 4z"/></svg>',
+    edit: '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>',
+    trash: '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13"/></svg>',
+    pencil: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>',
+    bin: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13"/></svg>',
+    search: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>',
+    sort: '<svg class="sic" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15l6-6 6 6"/></svg>',
+    sun: '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+    moon: '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z"/></svg>'
+  };
+  var toastEl = $('#toast'), toastTimer = 0;
+  function flash(msg) {
+    toastEl.textContent = msg; toastEl.hidden = false;
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { toastEl.hidden = true; }, 3600);
+  }
+
+  /* ---------- Theme ---------- */
+  var htmlEl = document.documentElement, themeBtn = $('#theme');
+  var mq = window.matchMedia ? window.matchMedia('(prefers-color-scheme: light)') : null;
+  function effTheme() {
+    var t = htmlEl.getAttribute('data-theme');
+    if (t === 'light' || t === 'dark') return t;
+    return mq && mq.matches ? 'light' : 'dark';
+  }
+  function paintTheme() {
+    var t = effTheme();
+    themeBtn.innerHTML = t === 'dark' ? ICON.sun : ICON.moon;
+    var label = t === 'dark' ? 'Chuyển sang giao diện sáng' : 'Chuyển sang giao diện tối';
+    themeBtn.setAttribute('aria-label', label); themeBtn.title = label;
+  }
+  var savedTheme = pref.get('de-theme');
+  if (savedTheme === 'light' || savedTheme === 'dark') htmlEl.setAttribute('data-theme', savedTheme);
+  themeBtn.addEventListener('click', function () {
+    var next = effTheme() === 'dark' ? 'light' : 'dark';
+    htmlEl.setAttribute('data-theme', next); pref.set('de-theme', next); paintTheme();
+  });
+  if (mq && mq.addEventListener) mq.addEventListener('change', paintTheme);
+  paintTheme();
+
+  /* ---------- Tabs ---------- */
+  var tabsEl = $('.tabs');
+  var views = { chatbot: $('#view-chat'), writing: $('#view-writing') };
+  function showTab(name, remember) {
+    if (!views[name]) name = 'chatbot';
+    closeDrawer();
+    tabsEl.dataset.active = name;
+    document.querySelectorAll('.tab').forEach(function (b) { b.setAttribute('aria-selected', String(b.dataset.tab === name)); });
+    Object.keys(views).forEach(function (k) { views[k].hidden = k !== name; });
+    if (remember) { try { history.replaceState(null, '', '#' + name); } catch (e) {} }
+    window.scrollTo(0, 0);
+  }
+  document.querySelectorAll('.tab').forEach(function (b) {
+    b.addEventListener('click', function () { showTab(b.dataset.tab, true); });
+  });
+
+  /* ---------- Rich text for tutor replies ---------- */
+  function inline(raw) {
+    var s = esc(raw);
+    s = s.replace(/~~(.+?)~~/g, '<del>$1</del>');
+    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/\[([A-Za-z][A-Za-z ]{1,18})\]/g, '<span class="tag">$1</span>');
+    return s;
+  }
+  var LABELS = { corrected: 'Corrected', mistakes: 'Mistakes', tip: 'Tip' };
+  function renderRich(text) {
+    var html = '', sec = '', inList = false;
+    function close() { if (inList) { html += '</ul>'; inList = false; } }
+    text.split('\n').forEach(function (line) {
+      var t = line.trim();
+      if (!t) { close(); return; }
+      var m = t.match(/^\**\s*(Corrected|Mistakes|Tip)\s*\**:?$/i);
+      if (m) { close(); sec = m[1].toLowerCase(); html += '<div class="label label-' + sec + '">' + LABELS[sec] + '</div>'; return; }
+      var li = t.match(/^[-*•]\s+(.*)$/);
+      if (li) { if (!inList) { html += '<ul class="list">'; inList = true; } html += '<li>' + inline(li[1]) + '</li>'; return; }
+      close();
+      html += '<p class="p' + (sec ? ' sec-' + sec : '') + '">' + inline(t) + '</p>';
+    });
+    close();
+    return html;
+  }
+
+  /* ---------- Shared storage handle ---------- */
+  var dbPromise = cap('db');
+  var notice = '';
+
+  /* ---------- Conversations (sidebar) ---------- */
+  var S = { convs: [], cache: {}, ready: false, coll: null, logs: null, mode: 'db', q: '', renaming: null, renameVal: '', armed: null, timer: 0, queue: Promise.resolve() };
+  var chat = { cur: { id: null, turns: [], title: '' }, busy: false, loading: false, ctl: null, sample: undefined, lang: pref.get('de-lang') === 'en' ? 'en' : 'vi', dead: false };
+  var input = $('#chat-input'), sendBtn = $('#send'), stopBtn = $('#stop'), msgs = $('#messages');
+  var intro = $('#intro'), sideEl = $('#side'), backdrop = $('#backdrop'), menuBtn = $('#menu');
+  var convListEl = $('#conv-list');
+
+  function openDrawer() { sideEl.classList.add('open'); backdrop.hidden = false; menuBtn.setAttribute('aria-expanded', 'true'); }
+  function closeDrawer() { sideEl.classList.remove('open'); backdrop.hidden = true; menuBtn.setAttribute('aria-expanded', 'false'); }
+  menuBtn.addEventListener('click', openDrawer);
+  backdrop.addEventListener('click', closeDrawer);
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeDrawer(); });
+
+  function titleFrom(turns) {
+    var u = turns.find(function (t) { return t.role === 'user'; });
+    if (!u) return 'Cuộc trò chuyện mới';
+    var lines = u.content.split('\n').map(function (l) { return l.trim(); }).filter(Boolean);
+    var pick = lines.find(function (l) { return !/:$/.test(l); }) || lines[0] || 'Cuộc trò chuyện mới';
+    return pick.length > 48 ? pick.slice(0, 47).trim() + '…' : pick;
+  }
+  function group(ms) {
+    var d = new Date(); d.setHours(0, 0, 0, 0);
+    var t = d.getTime(), day = 86400000;
+    if (ms >= t) return 'Hôm nay';
+    if (ms >= t - day) return 'Hôm qua';
+    if (ms >= t - 7 * day) return '7 ngày qua';
+    if (ms >= t - 30 * day) return '30 ngày qua';
+    return 'Cũ hơn';
+  }
+  function renderConvs() {
+    var q = S.q.trim().toLowerCase();
+    var html = notice && S.mode === 'memory' ? '<div class="conv-note">' + esc(notice) + '</div>' : '';
+    if (!S.ready) { convListEl.innerHTML = html + '<p class="conv-empty">Đang tải…</p>'; return; }
+    var list = S.convs.filter(function (c) { return !q || (c.title || '').toLowerCase().indexOf(q) >= 0; })
+      .sort(function (a, b) { return (b.updatedAt || 0) - (a.updatedAt || 0); });
+    if (!list.length) {
+      convListEl.innerHTML = html + '<p class="conv-empty">' + (q ? 'Không có cuộc trò chuyện nào khớp.' : 'Chưa có cuộc trò chuyện nào. Gửi tin nhắn đầu tiên để bắt đầu.') + '</p>';
+      return;
+    }
+    var last = '';
+    list.forEach(function (c) {
+      var g = group(c.updatedAt || 0);
+      if (g !== last) { html += '<div class="conv-group">' + g + '</div>'; last = g; }
+      var active = chat.cur.id === c.id, id = esc(c.id);
+      if (S.renaming === c.id) {
+        html += '<div class="conv active"><input class="conv-rename" id="conv-rename" maxlength="80" aria-label="Tên mới" value="' + esc(S.renameVal) + '"></div>';
+      } else {
+        var armed = S.armed === c.id;
+        html += '<div class="conv' + (active ? ' active' : '') + (armed ? ' armed' : '') + '">' +
+          '<button type="button" class="conv-main" data-act="open-chat" data-id="' + id + '"' + (active ? ' aria-current="true"' : '') + ' title="' + esc(c.title || '') + '">' + esc(c.title || 'Không có tiêu đề') + '</button>' +
+          '<div class="conv-tools">' + (armed
+            ? '<button type="button" class="tool danger" data-act="del-chat" data-id="' + id + '">Xóa?</button>'
+            : '<button type="button" class="tool" data-act="rename" data-id="' + id + '" aria-label="Đổi tên">' + ICON.pencil + '</button>' +
+              '<button type="button" class="tool" data-act="del-chat" data-id="' + id + '" aria-label="Xóa cuộc trò chuyện">' + ICON.bin + '</button>') +
+          '</div></div>';
+      }
+    });
+    convListEl.innerHTML = html;
+    var r = $('#conv-rename'); if (r) { r.focus(); r.select(); }
+  }
+  function upsertConv(id, meta) {
+    var i = S.convs.findIndex(function (c) { return c.id === id; });
+    var rec = { id: id, title: meta.title, createdAt: meta.createdAt, updatedAt: meta.updatedAt, n: meta.n };
+    if (i >= 0) S.convs[i] = rec; else S.convs.push(rec);
+  }
+  function newId() { return S.coll ? S.coll.doc().id : 'c' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+  function persist(conv) {
+    if (!conv.turns.length) return;
+    var now = Date.now();
+    if (!conv.id) conv.id = newId();
+    var id = conv.id;
+    var ex = S.convs.find(function (c) { return c.id === id; });
+    var meta = { title: (ex && ex.title) || conv.title || titleFrom(conv.turns), createdAt: (ex && ex.createdAt) || now, updatedAt: now, n: conv.turns.length };
+    conv.title = meta.title;
+    var turns = conv.turns.map(function (t) { return { role: t.role, content: t.content }; });
+    S.cache[id] = turns;
+    upsertConv(id, meta); renderConvs(); updateBar();
+    S.queue = S.queue.then(function () {
+      if (S.mode === 'db' && S.coll) return S.logs.doc(id).set({ turns: turns }).then(function () { return S.coll.doc(id).set(meta); });
+    }).catch(function (e) {
+      flash(e && e.code === 'invalid_argument' ? 'Cuộc trò chuyện quá dài để lưu. Hãy mở một cuộc mới.' : 'Chưa lưu được cuộc trò chuyện. Hãy thử lại sau vài giây.');
+    });
+  }
+  function updateBar() { $('#bar-title').textContent = chat.cur.title || 'Cuộc trò chuyện mới'; }
+  function syncIntro() { intro.hidden = chat.cur.turns.length > 0 || chat.loading; }
+  function renderMessages(turns) {
+    msgs.innerHTML = '';
+    turns.forEach(function (t) {
+      if (t.role === 'user') addUser(t.content);
+      else { var a = addAssistant(); a.body.innerHTML = renderRich(t.content); }
+    });
+  }
+  function newChat() {
+    if (chat.ctl) chat.ctl.abort();
+    openToken++; chat.loading = false; setBusy(false);
+    chat.cur = { id: null, turns: [], title: '' };
+    msgs.innerHTML = ''; syncIntro(); updateBar(); renderConvs(); closeDrawer();
+  }
+  var openToken = 0;
+  async function openChat(id) {
+    closeDrawer();
+    if (chat.cur.id === id) return;
+    var c = S.convs.find(function (x) { return x.id === id; });
+    if (!c) return;
+    if (chat.ctl) chat.ctl.abort();
+    setBusy(false);
+    var tok = ++openToken;
+    var turns = S.cache[id];
+    if (!turns) {
+      chat.loading = true; chat.cur = { id: id, turns: [], title: c.title };
+      msgs.innerHTML = '<p class="note">Đang mở cuộc trò chuyện…</p>'; syncIntro(); renderConvs(); updateBar(); refreshSend();
+      try {
+        var snap = await S.logs.doc(id).get();
+        turns = snap.exists ? (snap.data().turns || []) : [];
+      } catch (e) {
+        if (tok === openToken) { flash('Chưa mở được cuộc trò chuyện này.'); newChat(); }
+        return;
+      }
+      if (tok !== openToken) return;
+      S.cache[id] = turns; chat.loading = false;
+    }
+    chat.cur = { id: id, turns: turns.map(function (t) { return { role: t.role, content: t.content }; }), title: c.title };
+    renderMessages(chat.cur.turns); syncIntro(); renderConvs(); updateBar(); refreshSend();
+    window.scrollTo({ top: document.documentElement.scrollHeight });
+  }
+  async function delChat(id) {
+    try {
+      if (S.mode === 'db' && S.coll) { await S.coll.doc(id).delete(); await S.logs.doc(id).delete(); }
+      S.convs = S.convs.filter(function (c) { return c.id !== id; });
+      delete S.cache[id];
+      if (chat.cur.id === id) newChat(); else renderConvs();
+      flash('Đã xóa cuộc trò chuyện.');
+    } catch (e) { flash('Chưa xóa được. Hãy thử lại sau vài giây.'); }
+  }
+  function commitRename() {
+    if (!S.renaming) return;
+    var id = S.renaming, v = S.renameVal.trim();
+    S.renaming = null;
+    var c = S.convs.find(function (x) { return x.id === id; });
+    if (v && c && v !== c.title) {
+      c.title = v;
+      if (chat.cur.id === id) { chat.cur.title = v; updateBar(); }
+      if (S.mode === 'db' && S.coll) S.coll.doc(id).update({ title: v }).catch(function () { flash('Chưa đổi được tên. Hãy thử lại.'); });
+    }
+    renderConvs();
+  }
+  convListEl.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-act]'); if (!b) return;
+    var act = b.dataset.act, id = b.dataset.id;
+    if (act === 'open-chat') openChat(id);
+    else if (act === 'rename') {
+      var c = S.convs.find(function (x) { return x.id === id; });
+      S.renaming = id; S.renameVal = c ? c.title || '' : ''; renderConvs();
+    } else if (act === 'del-chat') {
+      if (S.armed !== id) {
+        S.armed = id; renderConvs(); clearTimeout(S.timer);
+        S.timer = setTimeout(function () { S.armed = null; renderConvs(); }, 3500);
+      } else { clearTimeout(S.timer); S.armed = null; delChat(id); }
+    }
+  });
+  convListEl.addEventListener('input', function (e) { if (e.target.id === 'conv-rename') S.renameVal = e.target.value; });
+  convListEl.addEventListener('keydown', function (e) {
+    if (e.target.id !== 'conv-rename') return;
+    if (e.key === 'Enter' && !e.isComposing) { e.preventDefault(); commitRename(); }
+    else if (e.key === 'Escape') { e.stopPropagation(); S.renaming = null; renderConvs(); }
+  });
+  convListEl.addEventListener('focusout', function (e) { if (e.target.id === 'conv-rename') commitRename(); });
+  $('#conv-search').addEventListener('input', function (e) { S.q = e.target.value; renderConvs(); });
+  $('#new-chat').addEventListener('click', function () { newChat(); input.focus(); });
+  $('#new-chat-bar').addEventListener('click', function () { newChat(); input.focus(); });
+
+  /* ---------- Chat ---------- */
+  var samplePromise = cap('sample').then(function (s) {
+    chat.sample = s;
+    if (!s) lockChat('Chatbot cần Claude nhưng trang này chưa gọi được. Hãy mở lại trang trong Claude.');
+    return s;
+  });
+
+  function rules(lang) {
+    var L = lang === 'en' ? 'simple English (about CEFR B1, short sentences)' : 'Vietnamese';
+    return [
+      'You are a patient English tutor for a Vietnamese self-learner. Write every explanation in ' + L + '. Keep replies short.',
+      '',
+      'When the learner sends English text they wrote, reply in exactly this format, with nothing before or after it:',
+      '',
+      '**Corrected**',
+      '<the full text with mistakes fixed; change as little as possible and keep their meaning and voice>',
+      '',
+      '**Mistakes**',
+      '- ~~wrong part~~ → **fixed part** [Type]: one short explanation',
+      '(one bullet per mistake. Type is exactly one of: Tense, Article, Preposition, Word choice, Collocation, Spelling, Word order, Plural, Agreement, Punctuation, Other)',
+      '',
+      '**Tip**',
+      '<one short, useful tip about the most important mistake>',
+      '',
+      'If there are no mistakes: under **Corrected** repeat the text unchanged, under **Mistakes** write one line saying it is correct, and under **Tip** offer one more natural way to say it.',
+      'If the learner asks a question about English (grammar, vocabulary, usage), answer it directly with short English examples and do not use the format above.',
+      'If they write in Vietnamese and ask for a translation, give the English and one short note.',
+      'Use no other headings, no tables, no emoji.'
+    ].join('\n');
+  }
+
+  var EXAMPLE = [
+    '**Corrected**',
+    'Yesterday I went to school and met my friend. We talked about our weekend plans.',
+    '',
+    '**Mistakes**',
+    '- ~~go~~ → **went** [Tense]: "Yesterday" chỉ quá khứ, nên dùng quá khứ đơn.',
+    '- ~~meet~~ → **met** [Tense]: cùng lý do; meet là động từ bất quy tắc.',
+    '- ~~We talks~~ → **We talked** [Tense]: chủ ngữ "We" không đi với "talks", và câu đang kể chuyện đã qua.',
+    '- ~~the weekend plan~~ → **our weekend plans** [Word choice]: hai người cùng lên kế hoạch nên dùng "our", và "plans" tự nhiên hơn.',
+    '',
+    '**Tip**',
+    'Học 3 động từ bất quy tắc mỗi ngày (go, went, gone) là đủ để thuộc dần.'
+  ].join('\n');
+  $('#example').innerHTML = '<span class="badge">Ví dụ</span>' +
+    '<div class="msg msg-u">Yesterday I go to school and meet my friend. We talks about the weekend plan.</div>' +
+    '<div class="msg msg-a glass">' + renderRich(EXAMPLE) + '</div>';
+
+  function autosize() { input.style.height = 'auto'; input.style.height = Math.min(input.scrollHeight, 180) + 'px'; }
+  function refreshSend() { sendBtn.disabled = chat.dead || chat.busy || chat.loading || !input.value.trim(); }
+  function setBusy(b) { chat.busy = b; sendBtn.hidden = b; stopBtn.hidden = !b; refreshSend(); }
+  function lockChat(msg) { chat.dead = true; input.disabled = true; input.placeholder = msg; refreshSend(); }
+  function nearBottom() { return window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 240; }
+  function toBottom() { window.scrollTo({ top: document.documentElement.scrollHeight }); }
+
+  function addUser(text) {
+    var d = document.createElement('div'); d.className = 'msg msg-u'; d.textContent = text; msgs.append(d); return d;
+  }
+  function addAssistant() {
+    var el = document.createElement('div'); el.className = 'msg msg-a glass';
+    var body = document.createElement('div'); el.append(body); msgs.append(el);
+    return { el: el, body: body };
+  }
+  var ERR = {
+    not_granted: 'Trang chưa được phép dùng Claude. Tải lại trang và chọn Cho phép.',
+    sampling_disabled: 'Tài khoản này chưa dùng được Claude trong trang.',
+    rate_limited: 'Bạn gửi quá nhanh hoặc đã dùng hết lượt. Đợi một lúc rồi thử lại.',
+    session_expired: 'Phiên đăng nhập đã hết hạn. Đăng nhập lại rồi thử tiếp.',
+    refused: 'Claude không trả lời được tin nhắn này. Hãy sửa lại nội dung rồi gửi lại.',
+    prompt_too_large: 'Đoạn văn quá dài. Hãy chia nhỏ rồi gửi từng phần.'
+  };
+
+  async function ask(conv) {
+    var sample = chat.sample || await samplePromise;
+    if (!sample) return;
+    var live = function () { return chat.cur === conv; };
+    setBusy(true);
+    var a = addAssistant();
+    a.body.innerHTML = '<span class="dots" aria-label="Đang trả lời"><i></i><i></i><i></i></span>';
+    if (nearBottom()) toBottom();
+    var ctl = new AbortController(); chat.ctl = ctl;
+    var hist = conv.turns.slice(-10);
+    while (hist.length && hist[0].role !== 'user') hist.shift();
+    var partial = '';
+    try {
+      var res = await sample([{ role: 'user', content: rules(chat.lang) }].concat(hist), {
+        cache: false, signal: ctl.signal,
+        onText: function (u) {
+          partial = u.text;
+          var stick = live() && nearBottom();
+          a.body.innerHTML = renderRich(u.text);
+          if (stick) toBottom();
+        }
+      });
+      a.body.innerHTML = renderRich(res.text);
+      if (res.truncated) a.body.insertAdjacentHTML('beforeend', '<p class="note">Câu trả lời bị cắt ngắn. Hãy gửi ít nội dung hơn mỗi lần.</p>');
+      conv.turns.push({ role: 'assistant', content: res.text });
+      persist(conv);
+    } catch (e) {
+      var text = (e && e.text) || partial;
+      var code = e && e.code;
+      if (code === 'cancelled') {
+        if (text) { a.body.innerHTML = renderRich(text) + '<p class="note">Đã dừng.</p>'; conv.turns.push({ role: 'assistant', content: text }); persist(conv); }
+        else a.el.remove();
+      } else {
+        a.body.innerHTML = text ? renderRich(text) : '';
+        var box = document.createElement('div'); box.className = 'err';
+        var span = document.createElement('span');
+        span.textContent = ERR[code] || 'Không gọi được Claude lúc này. Bấm Thử lại để gửi lần nữa.';
+        box.append(span);
+        if (code === 'not_granted' || code === 'sampling_disabled') lockChat('Chatbot đang không dùng được.');
+        else {
+          var rb = document.createElement('button'); rb.type = 'button'; rb.className = 'btn btn-sm'; rb.textContent = 'Thử lại';
+          rb.addEventListener('click', function () { a.el.remove(); ask(conv); });
+          box.append(rb);
+        }
+        a.el.append(box);
+      }
+    } finally {
+      if (chat.ctl === ctl) { chat.ctl = null; setBusy(false); }
+      if (live()) syncIntro();
+    }
+  }
+
+  function send() {
+    var text = input.value.trim();
+    if (!text || chat.busy || chat.dead || chat.loading) return;
+    var conv = chat.cur;
+    conv.turns.push({ role: 'user', content: text });
+    addUser(text);
+    input.value = ''; autosize(); refreshSend(); syncIntro();
+    persist(conv);
+    toBottom();
+    ask(conv);
+  }
+  function startChatWith(text) {
+    newChat();
+    input.value = text; autosize(); refreshSend();
+    showTab('chatbot', true); input.focus();
+  }
+  input.addEventListener('input', function () { autosize(); refreshSend(); });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' && !e.shiftKey && !e.isComposing && e.keyCode !== 229) { e.preventDefault(); send(); }
+  });
+  sendBtn.addEventListener('click', send);
+  stopBtn.addEventListener('click', function () { if (chat.ctl) chat.ctl.abort(); });
+  document.querySelectorAll('.chip').forEach(function (c) {
+    c.addEventListener('click', function () {
+      input.value = c.dataset.fill; autosize(); refreshSend(); input.focus();
+      input.setSelectionRange(input.value.length, input.value.length);
+    });
+  });
+  document.querySelectorAll('.seg button').forEach(function (b) {
+    b.setAttribute('aria-pressed', String(b.dataset.lang === chat.lang));
+    b.addEventListener('click', function () {
+      chat.lang = b.dataset.lang; pref.set('de-lang', chat.lang);
+      document.querySelectorAll('.seg button').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+    });
+  });
+  refreshSend(); syncIntro(); renderConvs();
+
+  /* ---------- Writing ---------- */
+  var PAGE = 25;
+  var DEFAULT_TOPICS = ['Education', 'Technology', 'Environment', 'Work', 'Health', 'Travel', 'Family', 'Society'];
+  var DEFAULT_TYPES = ['Opinion (agree or disagree)', 'Discussion (both views)', 'Problem and solution', 'Advantages and disadvantages', 'Two-part question', 'Describe a chart or graph', 'Email or letter', 'Story or narrative', 'Free writing'];
+  var SORTS = [
+    ['updatedAt:desc', 'Mới nhất'], ['updatedAt:asc', 'Cũ nhất'], ['title:asc', 'Tiêu đề A đến Z'],
+    ['topic:asc', 'Topic A đến Z'], ['words:desc', 'Nhiều từ nhất'], ['words:asc', 'Ít từ nhất']
+  ];
+  var W = { items: [], ready: false, mode: 'db', coll: null, view: 'list', id: null, armed: false, timer: 0, q: '', ftopic: '', ftype: '', sort: { key: 'updatedAt', dir: 'desc' }, page: 1 };
+  var root = $('#writing-root');
+  function wc(t) { t = t.trim(); return t ? t.split(/\s+/).length : 0; }
+  function fmt(ms) { return new Date(ms).toLocaleDateString('vi-VN', { day: 'numeric', month: 'short', year: 'numeric' }); }
+  function fmtShort(ms) { return new Date(ms).toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' }); }
+  function find(id) { return W.items.find(function (x) { return x.id === id; }); }
+  function words(it) { return it.words || wc(it.body || ''); }
+  function stamp(it) { return it.updatedAt || it.createdAt || 0; }
+  function uniq(field) {
+    var seen = {}, out = [];
+    W.items.forEach(function (it) { var v = it[field]; if (v && !seen[v]) { seen[v] = 1; out.push(v); } });
+    return out.sort(function (a, b) { return a.localeCompare(b, 'vi', { sensitivity: 'base' }); });
+  }
+  function chip(v, cls) { return v ? '<span class="ptag' + (cls ? ' ' + cls : '') + '" title="' + esc(v) + '">' + esc(v) + '</span>' : ''; }
+
+  function filtered() {
+    var q = W.q.trim().toLowerCase();
+    var list = W.items.filter(function (it) {
+      if (W.ftopic && (W.ftopic === '__none' ? !!it.topic : it.topic !== W.ftopic)) return false;
+      if (W.ftype && (W.ftype === '__none' ? !!it.qtype : it.qtype !== W.ftype)) return false;
+      if (q && (it.title || '').toLowerCase().indexOf(q) < 0 && (it.body || '').toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    var k = W.sort.key, sign = W.sort.dir === 'asc' ? 1 : -1;
+    return list.sort(function (a, b) {
+      var r;
+      if (k === 'words') r = words(a) - words(b);
+      else if (k === 'updatedAt') r = stamp(a) - stamp(b);
+      else if (k === 'qtype') r = String(a.qtype || '').localeCompare(String(b.qtype || ''), 'vi', { sensitivity: 'base' });
+      else r = String(a[k] || '').localeCompare(String(b[k] || ''), 'vi', { sensitivity: 'base' });
+      return r * sign;
+    });
+  }
+  function optionsHtml(values, current, allLabel, noneLabel, hasNone) {
+    var h = '<option value="">' + allLabel + '</option>';
+    values.forEach(function (v) { h += '<option value="' + esc(v) + '"' + (v === current ? ' selected' : '') + '>' + esc(v) + '</option>'; });
+    if (hasNone) h += '<option value="__none"' + (current === '__none' ? ' selected' : '') + '>' + noneLabel + '</option>';
+    return h;
+  }
+  function fillSelects() {
+    var topics = uniq('topic'), types = uniq('qtype');
+    if (W.ftopic && W.ftopic !== '__none' && topics.indexOf(W.ftopic) < 0) W.ftopic = '';
+    if (W.ftype && W.ftype !== '__none' && types.indexOf(W.ftype) < 0) W.ftype = '';
+    var noTopic = W.items.some(function (it) { return !it.topic; }), noType = W.items.some(function (it) { return !it.qtype; });
+    $('#w-ft').innerHTML = optionsHtml(topics, W.ftopic, 'Tất cả topic', 'Chưa có topic', noTopic);
+    $('#w-fq').innerHTML = optionsHtml(types, W.ftype, 'Tất cả question type', 'Chưa có question type', noType);
+  }
+  function th(key, label, cls) {
+    var on = W.sort.key === key;
+    return '<th class="' + (cls || '') + '" aria-sort="' + (on ? (W.sort.dir === 'asc' ? 'ascending' : 'descending') : 'none') + '">' +
+      '<button type="button" data-act="sort" data-key="' + key + '">' + label + ICON.sort + '</button></th>';
+  }
+  function updateResults() {
+    var all = W.items.length, list = filtered();
+    var pages = Math.max(1, Math.ceil(list.length / PAGE));
+    if (W.page > pages) W.page = pages;
+    var start = (W.page - 1) * PAGE, rows = list.slice(start, start + PAGE);
+    $('#w-sub').textContent = list.length === all ? all + ' bài viết' : list.length + ' trong ' + all + ' bài';
+    $('#w-clear').hidden = !(W.q || W.ftopic || W.ftype);
+    $('#w-sort').value = W.sort.key + ':' + W.sort.dir;
+    var h;
+    if (!rows.length) {
+      h = '<div class="empty glass"><h2>Không có bài nào khớp</h2><p>Thử đổi từ khóa hoặc bỏ bớt bộ lọc.</p><button type="button" class="btn" data-act="clear">Xóa bộ lọc</button></div>';
+    } else {
+      h = '<div class="tbl-wrap glass"><div class="tbl-scroll"><table class="tbl">' +
+        '<colgroup><col style="width:38%"><col style="width:16%"><col style="width:22%"><col style="width:10%"><col style="width:14%"></colgroup>' +
+        '<thead><tr>' + th('title', 'Bài viết') + th('topic', 'Topic') + th('qtype', 'Question type') + th('words', 'Words', 'num') + th('updatedAt', 'Cập nhật') + '</tr></thead><tbody>' +
+        rows.map(function (it) {
+          return '<tr data-act="open" data-id="' + esc(it.id) + '">' +
+            '<td class="c-title"><button type="button" class="row-title" data-act="open" data-id="' + esc(it.id) + '">' + esc(it.title || 'Không có tiêu đề') + '</button><span class="snip">' + esc((it.body || '').replace(/\s+/g, ' ').slice(0, 140)) + '</span></td>' +
+            '<td class="c-topic">' + (it.topic ? chip(it.topic) : '<span class="dash">Chưa có</span>') + '</td>' +
+            '<td class="c-type">' + (it.qtype ? chip(it.qtype, 'ptag-type') : '<span class="dash">Chưa có</span>') + '</td>' +
+            '<td class="num">' + words(it) + '</td>' +
+            '<td class="date">' + fmtShort(stamp(it) || Date.now()) + '</td></tr>';
+        }).join('') + '</tbody></table></div>' +
+        '<div class="pager"><span>' + (start + 1) + ' đến ' + (start + rows.length) + ' trong ' + list.length + '</span>' +
+        '<div class="pager-btns"><button type="button" class="btn btn-sm" data-act="page" data-d="-1"' + (W.page <= 1 ? ' disabled' : '') + '>' + ICON.back + 'Trước</button>' +
+        '<span>Trang ' + W.page + ' / ' + pages + '</span>' +
+        '<button type="button" class="btn btn-sm" data-act="page" data-d="1"' + (W.page >= pages ? ' disabled' : '') + '>Sau<span style="display:inline-block;transform:rotate(180deg);line-height:0">' + ICON.back + '</span></button></div></div></div>';
+    }
+    $('#w-results').innerHTML = h;
+  }
+  function drawList() {
+    if ($('#w-results') && W.items.length) { fillSelects(); updateResults(); return; }
+    var h = '<div class="w-head"><div><h1 class="w-title">Writing</h1><p class="sub" id="w-sub">' + (W.ready ? (W.items.length ? W.items.length + ' bài viết' : 'Chưa có bài nào') : 'Đang mở sổ…') + '</p></div>' +
+      '<button type="button" class="btn btn-primary" data-act="new">' + ICON.plus + 'Viết bài mới</button></div>';
+    if (notice && W.mode === 'memory') h += '<div class="banner" role="note">' + esc(notice) + '</div>';
+    if (!W.ready) h += '<div><div class="skel"></div><div class="skel"></div><div class="skel"></div></div>';
+    else if (!W.items.length) {
+      h += '<div class="empty glass"><h2>Sổ viết của bạn còn trống</h2>' +
+        '<p>Viết một đoạn ngắn về ngày hôm nay hoặc một chủ đề bạn thích. Gắn topic và question type, lưu lại, rồi gửi sang Chatbot để sửa lỗi.</p>' +
+        '<button type="button" class="btn btn-primary" data-act="new">' + ICON.plus + 'Viết bài đầu tiên</button></div>';
+    } else {
+      h += '<div class="toolbar">' +
+        '<label class="search"><span class="sr">Tìm bài viết</span>' + ICON.search + '<input id="w-q" type="search" placeholder="Tìm theo tiêu đề hoặc nội dung" autocomplete="off" value="' + esc(W.q) + '"></label>' +
+        '<select class="field sel" id="w-ft" aria-label="Lọc theo topic"></select>' +
+        '<select class="field sel" id="w-fq" aria-label="Lọc theo question type"></select>' +
+        '<select class="field sel sort-sel" id="w-sort" aria-label="Sắp xếp">' + SORTS.map(function (s) { return '<option value="' + s[0] + '">' + s[1] + '</option>'; }).join('') + '</select>' +
+        '<button type="button" class="btn btn-ghost btn-sm" data-act="clear" id="w-clear" hidden>Xóa bộ lọc</button></div>' +
+        '<div id="w-results"></div>';
+    }
+    root.innerHTML = h;
+    if ($('#w-results')) { fillSelects(); updateResults(); }
+  }
+  function readHtml(it) {
+    return '<div class="w-narrow"><button type="button" class="btn btn-ghost btn-sm" data-act="list">' + ICON.back + 'Danh sách</button>' +
+      '<article class="doc"><h2>' + esc(it.title || 'Không có tiêu đề') + '</h2>' +
+      ((it.topic || it.qtype) ? '<div class="chiprow">' + chip(it.topic) + chip(it.qtype, 'ptag-type') + '</div>' : '') +
+      '<div class="meta"><span>' + fmt(stamp(it) || Date.now()) + '</span><span>' + words(it) + ' words</span></div>' +
+      '<div class="doc-body">' + esc(it.body || '') + '</div></article>' +
+      '<div class="doc-actions">' +
+      '<button type="button" class="btn btn-primary" data-act="tochat">' + ICON.chat + 'Gửi sang Chatbot để sửa</button>' +
+      '<button type="button" class="btn" data-act="edit">' + ICON.edit + 'Sửa</button>' +
+      '<button type="button" class="btn btn-danger' + (W.armed ? ' armed' : '') + '" data-act="delete">' + ICON.trash + (W.armed ? 'Bấm lần nữa để xóa' : 'Xóa') + '</button></div></div>';
+  }
+  function editHtml(it) {
+    var body = it ? it.body || '' : '';
+    return '<div class="w-narrow"><button type="button" class="btn btn-ghost btn-sm" data-act="cancel">' + ICON.back + 'Hủy</button>' +
+      '<div class="form">' +
+      '<input class="field" id="w-title" type="text" maxlength="120" placeholder="Tiêu đề (có thể bỏ trống)" aria-label="Tiêu đề" autocomplete="off" spellcheck="false" value="' + esc(it ? it.title || '' : '') + '">' +
+      '<div class="form-2">' +
+      '<label class="lab">Topic<input class="field" id="w-topic" type="text" list="dl-topic" maxlength="60" placeholder="Ví dụ: Education" autocomplete="off" spellcheck="false" value="' + esc(it ? it.topic || '' : '') + '"></label>' +
+      '<label class="lab">Question type<input class="field" id="w-qtype" type="text" list="dl-qtype" maxlength="80" placeholder="Ví dụ: Opinion" autocomplete="off" spellcheck="false" value="' + esc(it ? it.qtype || '' : '') + '"></label></div>' +
+      '<textarea class="field" id="w-body" placeholder="Viết tiếng Anh ở đây…" aria-label="Nội dung bài viết" autocomplete="off" autocorrect="off" spellcheck="false">' + esc(body) + '</textarea>' +
+      '<div class="form-foot"><span class="count" id="w-count">' + wc(body) + ' words</span>' +
+      '<button type="button" class="btn btn-primary" data-act="save"' + (body.trim() ? '' : ' disabled') + '>Lưu bài</button></div></div></div>';
+  }
+  function fillDatalists() {
+    function opts(used, defaults) {
+      var seen = {}, out = [];
+      used.concat(defaults).forEach(function (v) { if (v && !seen[v]) { seen[v] = 1; out.push(v); } });
+      return out.map(function (v) { return '<option value="' + esc(v) + '">'; }).join('');
+    }
+    $('#dl-topic').innerHTML = opts(uniq('topic'), DEFAULT_TOPICS);
+    $('#dl-qtype').innerHTML = opts(uniq('qtype'), DEFAULT_TYPES);
+  }
+  function draw(force) {
+    if (W.view === 'edit' && !force) return;
+    if (W.view === 'read') {
+      var it = find(W.id);
+      if (!it) W.view = 'list'; else { root.innerHTML = readHtml(it); return; }
+    }
+    if (W.view === 'edit') { fillDatalists(); root.innerHTML = editHtml(find(W.id)); return; }
+    drawList();
+  }
+  function go(view, id) {
+    W.view = view; W.id = id || null; W.armed = false; clearTimeout(W.timer);
+    draw(true); window.scrollTo(0, 0);
+    if (view === 'edit') { var f = $(W.id ? '#w-body' : '#w-title'); if (f) f.focus(); }
+  }
+  function upsert(id, data) {
+    var i = W.items.findIndex(function (x) { return x.id === id; });
+    var rec = Object.assign({ id: id }, data);
+    if (i >= 0) W.items[i] = rec; else W.items.push(rec);
+  }
+  async function save() {
+    var body = $('#w-body').value.trim();
+    if (!body) return;
+    var btn = $('[data-act="save"]'); btn.disabled = true;
+    var old = find(W.id), now = Date.now();
+    var title = $('#w-title').value.trim() || body.split(/\s+/).slice(0, 6).join(' ');
+    var data = {
+      title: title, body: body, words: wc(body),
+      topic: $('#w-topic').value.trim(), qtype: $('#w-qtype').value.trim(),
+      createdAt: old && old.createdAt || now, updatedAt: now
+    };
+    try {
+      var id = W.id || (W.coll ? W.coll.doc().id : 'm' + now);
+      if (W.mode === 'db' && W.coll) await W.coll.doc(id).set(data);
+      upsert(id, data);
+      go('read', id);
+      flash('Đã lưu bài viết.');
+    } catch (e) {
+      btn.disabled = false;
+      flash(e && e.code === 'invalid_argument' ? 'Bạn không có quyền lưu bài trong trang này.' : 'Chưa lưu được. Hãy thử lại sau vài giây.');
+    }
+  }
+  async function remove(id) {
+    try {
+      if (W.mode === 'db' && W.coll) await W.coll.doc(id).delete();
+      W.items = W.items.filter(function (x) { return x.id !== id; });
+      go('list'); flash('Đã xóa bài viết.');
+    } catch (e) { flash('Chưa xóa được. Hãy thử lại sau vài giây.'); }
+  }
+  function clearFilters() { W.q = ''; W.ftopic = ''; W.ftype = ''; W.page = 1; var q = $('#w-q'); if (q) q.value = ''; fillSelects(); updateResults(); }
+
+  root.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-act]'); if (!b) return;
+    var act = b.dataset.act;
+    if (act === 'new') go('edit');
+    else if (act === 'open') go('read', b.dataset.id);
+    else if (act === 'list') go('list');
+    else if (act === 'cancel') go(W.id ? 'read' : 'list', W.id);
+    else if (act === 'edit') go('edit', W.id);
+    else if (act === 'save') save();
+    else if (act === 'clear') clearFilters();
+    else if (act === 'page') { W.page += Number(b.dataset.d); updateResults(); var t = $('.toolbar'); if (t) t.scrollIntoView({ block: 'start' }); }
+    else if (act === 'sort') {
+      var key = b.dataset.key;
+      if (W.sort.key === key) W.sort.dir = W.sort.dir === 'asc' ? 'desc' : 'asc';
+      else W.sort = { key: key, dir: (key === 'words' || key === 'updatedAt') ? 'desc' : 'asc' };
+      W.page = 1; updateResults();
+    }
+    else if (act === 'tochat') {
+      var it = find(W.id); if (!it) return;
+      startChatWith(it.body);
+    } else if (act === 'delete') {
+      if (!W.armed) {
+        W.armed = true; draw(true);
+        W.timer = setTimeout(function () { W.armed = false; if (W.view === 'read') draw(true); }, 3500);
+      } else { clearTimeout(W.timer); W.armed = false; remove(W.id); }
+    }
+  });
+  root.addEventListener('input', function (e) {
+    var id = e.target.id;
+    if (id === 'w-body') {
+      $('#w-count').textContent = wc(e.target.value) + ' words';
+      $('[data-act="save"]').disabled = !e.target.value.trim();
+    } else if (id === 'w-q') { W.q = e.target.value; W.page = 1; updateResults(); }
+  });
+  root.addEventListener('change', function (e) {
+    var id = e.target.id;
+    if (id === 'w-ft') { W.ftopic = e.target.value; W.page = 1; updateResults(); }
+    else if (id === 'w-fq') { W.ftype = e.target.value; W.page = 1; updateResults(); }
+    else if (id === 'w-sort') { var p = e.target.value.split(':'); W.sort = { key: p[0], dir: p[1] }; W.page = 1; updateResults(); }
+  });
+
+  /* ---------- Storage init ---------- */
+  async function initStores() {
+    draw(true);
+    var db = await dbPromise;
+    if (!db) {
+      S.mode = 'memory'; W.mode = 'memory'; S.ready = true; W.ready = true;
+      notice = 'Lượt xem này chưa lưu được dữ liệu, nên mọi thứ sẽ mất khi bạn đóng tab.';
+      renderConvs(); draw(); return;
+    }
+    S.coll = db.collection('chats'); S.logs = db.collection('chatlogs'); W.coll = db.collection('writings');
+    S.coll.orderBy('updatedAt', 'desc').limit(300).onSnapshot(function (snap) {
+      var next = snap.docs.map(function (d) {
+        var x = d.data();
+        return { id: d.id, title: x.title, createdAt: x.createdAt, updatedAt: x.updatedAt || 0, n: x.n };
+      });
+      var cur = chat.cur.id;
+      if (cur && !next.some(function (c) { return c.id === cur; })) {
+        var local = S.convs.find(function (c) { return c.id === cur; });
+        if (local) next.push(local);
+      }
+      S.convs = next; S.ready = true; renderConvs();
+    }, function () {
+      S.mode = 'memory'; S.ready = true; notice = 'Mất kết nối với nơi lưu. Nội dung mới chỉ nằm trong tab này.'; renderConvs();
+    });
+    W.coll.orderBy('updatedAt', 'desc').limit(1000).onSnapshot(function (snap) {
+      W.items = snap.docs.map(function (d) { return Object.assign({ id: d.id }, d.data()); });
+      W.ready = true; draw();
+    }, function () {
+      W.mode = 'memory'; W.ready = true; notice = 'Mất kết nối với nơi lưu. Nội dung mới chỉ nằm trong tab này.'; draw();
+    });
+  }
+
+  showTab((location.hash || '').replace('#', ''), false);
+  initStores();
+})();
+</script>
+
+</body></html>

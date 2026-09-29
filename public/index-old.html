@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chatbot sửa lỗi diễn đạt</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="brand">
+          <span class="brand-dot"></span>
+          <div>
+            <h1>Chatbot sửa lỗi diễn đạt</h1>
+            <p class="brand-sub">Module học tiếng Anh</p>
+          </div>
+        </div>
+        <button id="newSessionBtn" class="btn-primary" type="button">+ Đoạn chat mới</button>
+      </div>
+
+      <div class="session-list" id="sessionList">
+        <p class="empty-hint">Chưa có cuộc trò chuyện nào.</p>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="theme-row">
+          <span>Giao diện</span>
+          <button id="themeToggleBtn" class="theme-toggle" type="button" title="Đổi sáng/tối">
+            <span id="themeIcon">🌙</span>
+          </button>
+        </div>
+        <div class="accent-row">
+          <span>Màu chủ đạo</span>
+          <div class="accent-swatches" id="accentSwatches">
+            <button class="swatch" data-accent="blue" style="--sw:#3b82f6" title="Xanh dương" type="button"></button>
+            <button class="swatch" data-accent="green" style="--sw:#22c55e" title="Xanh lá" type="button"></button>
+            <button class="swatch" data-accent="purple" style="--sw:#a855f7" title="Tím" type="button"></button>
+            <button class="swatch" data-accent="orange" style="--sw:#f97316" title="Cam" type="button"></button>
+            <button class="swatch" data-accent="pink" style="--sw:#ec4899" title="Hồng" type="button"></button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="chat-area">
+      <header class="chat-header">
+        <div>
+          <h2 id="chatTitle">Chọn hoặc tạo một cuộc trò chuyện</h2>
+          <p class="chat-sub">Nhập tiếng Việt, tiếng Anh, hoặc trộn cả hai — mình sẽ giúp sửa & gợi ý diễn đạt.</p>
+        </div>
+      </header>
+
+      <div class="messages" id="messages">
+        <div class="welcome">
+          <h3>👋 Xin chào!</h3>
+          <p>Bấm <strong>"+ Đoạn chat mới"</strong> để bắt đầu. Ví dụ bạn có thể nhập:</p>
+          <ul>
+            <li>"Tôi muốn nói rằng dự án này rất quan trọng với công ty"</li>
+            <li>"I am agree with your opinion about this topic"</li>
+            <li>"Mình nghĩ là we should tập trung vào cái này more"</li>
+          </ul>
+        </div>
+      </div>
+
+      <form class="composer" id="composerForm">
+        <textarea
+          id="messageInput"
+          placeholder="Nhập đoạn văn bản cần sửa / dịch..."
+          rows="2"
+          disabled
+        ></textarea>
+        <button type="submit" class="btn-primary" id="sendBtn" disabled>Gửi</button>
+      </form>
+    </main>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
