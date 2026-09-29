@@ -87,8 +87,12 @@
   /* ---------- Rich text for tutor replies ---------- */
   function inline(raw) {
     var s = esc(raw);
+    s = s.replace(/\$?\\(?:rightarrow|Rightarrow|longrightarrow|to)\$?/g, '→');
+    s = s.replace(/\$?\\(?:leftarrow|Leftarrow)\$?/g, '←');
+    s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
     s = s.replace(/~~(.+?)~~/g, '<del>$1</del>');
     s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(^|[^*\w])\*(?!\s)([^*]+?)\*(?![*\w])/g, '$1<em>$2</em>');
     return s;
   }
   function plain(s) {
