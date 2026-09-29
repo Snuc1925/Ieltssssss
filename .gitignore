@@ -5,3 +5,7 @@ npm-debug.log*
 # Lich su chat ca nhan - khong can dua len git
 server/data/**/sessions/*.json
 !server/data/**/sessions/.gitkeep
+
+# Bai viet + ket qua cham ca nhan (questions.json thi giu lai)
+server/data/writing-task2/essays/*.json
+server/data/writing-task2/essays/*.tmp

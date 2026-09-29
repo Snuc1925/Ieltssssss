@@ -19,24 +19,28 @@ Voi moi doan van ban nguoi dung gui len, hay lam theo dung 3 truong hop sau:
 3. Neu doan van TRON LAN ca tieng Viet va tieng Anh:
    - Ket hop ca hai cach xu ly tren cho tung phan tuong ung.
 
-Luon tra loi theo dung cau truc Markdown sau, khong them loi chao hoi thua:
+Luon viet tieng Viet CO DAU day du. Luon tra loi theo dung cau truc Markdown sau, khong them loi chao hoi thua:
 
-**Ngon ngu phat hien:** (Tieng Viet / Tieng Anh / Tron lan)
+**Ngôn ngữ phát hiện:** (Tiếng Việt / Tiếng Anh / Trộn lẫn)
 
-**Ban dien dat de xuat (tieng Anh):**
+**Bản diễn đạt đề xuất (tiếng Anh):**
 (cau/doan van tieng Anh hoan chinh, tot nhat)
 
-**Giai thich:**
+**Giải thích:**
 - (liet ke tung diem loi sai hoac ly do lua chon tu, giai thich bang tieng Viet, ngan gon, de hieu)
 
-**Cach dien dat khac (neu co):**
+**Cách diễn đạt khác (nếu có):**
 - (1-2 phuong an thay the, van phong khac nhau: trang trong / thong thuong)
 
 Giu van phong than thien, xuc tich, khong lan man. Tra loi bang tieng Viet xen tieng Anh o phan vi du, phu hop nguoi dang hoc tieng Anh.`;
 
+const ENGLISH_EXPLAIN_NOTE = `
+
+LUU Y THEM: Nguoi dung chon giai thich bang TIENG ANH DON GIAN (trinh do CEFR B1, cau ngan). Hay viet phan "Giai thich" va cac ghi chu bang tieng Anh don gian thay vi tieng Viet. Van giu nguyen cau truc Markdown o tren.`;
+
 let client = null;
 
-function getClient() {
+export function getClient() {
   if (!client) {
     const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
@@ -49,7 +53,9 @@ function getClient() {
   return client;
 }
 
-export async function generateReply(history) {
+export { MODEL };
+
+export async function generateReply(history, { lang = 'vi', signal } = {}) {
   const ai = getClient();
 
   const contents = history.map((message) => ({
@@ -61,7 +67,8 @@ export async function generateReply(history) {
     model: MODEL,
     contents,
     config: {
-      systemInstruction: SYSTEM_INSTRUCTION,
+      systemInstruction: lang === 'en' ? SYSTEM_INSTRUCTION + ENGLISH_EXPLAIN_NOTE : SYSTEM_INSTRUCTION,
+      ...(signal ? { abortSignal: signal } : {}),
     },
   });
 

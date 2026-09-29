@@ -77,7 +77,13 @@ router.post('/sessions/:id/messages', async (req, res, next) => {
       { role: 'user', content: content.trim() },
     ];
 
-    const replyText = await generateReply(historyForModel);
+    // Client bam "Dung" -> huy request: khong goi tiep Gemini, khong luu gi ca.
+    const ctl = new AbortController();
+    res.on('close', () => { if (!res.writableEnded) ctl.abort(); });
+    const lang = req.body.lang === 'en' ? 'en' : 'vi';
+
+    const replyText = await generateReply(historyForModel, { lang, signal: ctl.signal });
+    if (ctl.signal.aborted) return;
 
     const assistantMessage = {
       id: crypto.randomUUID(),

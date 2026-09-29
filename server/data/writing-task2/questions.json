@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "text": "In your opinion, should countries invest more in education? Explain why.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 2,
+  "text": "Some people believe that protecting the environment should be a top priority for governments. Others think that economic growth is more important. Discuss both views and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 3,
+  "text": "Some people prefer environmentally friendly products while others prefer cheaper alternatives. Discuss both views and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 4,
+  "text": "Discuss the role of technology in improving education.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 5,
+  "text": "What are the benefits for a country that focuses on health? Use examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 6,
+  "text": "Some argue that housing is the main reason for social problems. To what extent do you agree?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Extent"
+ },
+ {
+  "id": 7,
+  "text": "Some argue that the internet is the main reason for social problems. To what extent do you agree?",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 8,
+  "text": "Some people believe that science and technology improve people’s lives. Others think they cause problems. Discuss both views and give your opinion.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 9,
+  "text": "To what extent should media studies be taught in schools? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 10,
+  "text": "Should individuals be responsible for pollution, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 11,
+  "text": "In your opinion, should countries invest more in renewable energy? Explain why.",
+  "topic": "Environment & Energy",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 12,
+  "text": "What are the benefits for a country that focuses on technology? Use examples.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 13,
+  "text": "Do the advantages of online learning outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 14,
+  "text": "Many people think that public transport has improved people’s lives. Do you agree? Explain with examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 15,
+  "text": "Some believe public housing should be regulated by law. To what extent do you agree or disagree?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 16,
+  "text": "Discuss how urbanisation affects young people compared with older generations.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 17,
+  "text": "What are the benefits for a country that focuses on tourism? Use examples.",
+  "topic": "Travel & Tourism",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 18,
+  "text": "Some people prefer traditional classrooms while others prefer online learning. Discuss both views and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 19,
+  "text": "Do the advantages of globalization outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 20,
+  "text": "To what extent should critical thinking be taught in schools? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 21,
+  "text": "Some people say that fast food is a waste of time and money. Do you agree or disagree?",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 22,
+  "text": "How can governments encourage recycling? Suggest practical measures.",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 23,
+  "text": "Discuss the role of technology in improving healthcare.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 24,
+  "text": "Many feel that advertising harms traditional values. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 25,
+  "text": "Some people believe that sport plays a vital role in society. Others think it is overrated. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 26,
+  "text": "To what extent do you agree or disagree that social media causes loneliness?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 27,
+  "text": "Many people say that unemployment is a growing problem in their country. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 28,
+  "text": "Discuss the advantages and disadvantages of private healthcare.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 29,
+  "text": "What are the causes of obesity? What solutions can be proposed?",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 30,
+  "text": "Some argue that tourism is the main reason for economic growth. To what extent do you agree?",
+  "topic": "Travel & Tourism",
+  "qtype": "Extent"
+ },
+ {
+  "id": 31,
+  "text": "Is it better to focus government spending on education or on other priorities? Discuss and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 32,
+  "text": "Should individuals be responsible for conserving water, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 33,
+  "text": "How far do you think renewable energy will change in the next 20 years? Support your answer with reasons.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 34,
+  "text": "Many people think that automation has improved people’s lives. Do you agree? Explain with examples.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 35,
+  "text": "Some believe the arts should be funded by government. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 36,
+  "text": "Discuss how technology affects relationships between people.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 37,
+  "text": "What are the benefits for a country that focuses on science and research? Use examples.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 38,
+  "text": "Some people prefer small local shops while others prefer large supermarkets. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 39,
+  "text": "Do the advantages of electric cars outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 40,
+  "text": "To what extent should environmental protection influence government policy? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 41,
+  "text": "Some people say that children should learn coding at school. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 42,
+  "text": "How can governments reduce traffic congestion in cities? Suggest practical measures.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 43,
+  "text": "Discuss the role of sport in promoting a healthy lifestyle.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 44,
+  "text": "Many feel that celebrities have a negative influence on young people. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 45,
+  "text": "Some people believe that volunteering benefits society. Others think it primarily benefits volunteers. Discuss both views and give your opinion.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 46,
+  "text": "To what extent do you agree or disagree that homework should be banned?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 47,
+  "text": "Many people say that single-use plastics should be banned. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 48,
+  "text": "Discuss the advantages and disadvantages of remote working.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 49,
+  "text": "What are the causes of crime in large cities? What solutions can be proposed?",
+  "topic": "Crime & Law",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 50,
+  "text": "Some argue that public transport is the main way to reduce pollution. To what extent do you agree?",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 51,
+  "text": "Is it better to focus government spending on healthcare or on other priorities? Discuss and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 52,
+  "text": "Should individuals be responsible for healthy eating, or should society/government take action? Discuss.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 53,
+  "text": "How far do you think artificial intelligence will change the workplace in the next 20 years? Support your answer with reasons.",
+  "topic": "Work & Careers",
+  "qtype": "Extent"
+ },
+ {
+  "id": 54,
+  "text": "Many people think that smartphone use has improved people’s lives. Do you agree? Explain with examples.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 55,
+  "text": "Some believe that private companies should pay more taxes. To what extent do you agree or disagree?",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 56,
+  "text": "Discuss how education influences economic development.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 57,
+  "text": "What are the benefits for a country that focuses on cultural preservation? Use examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 58,
+  "text": "Some people prefer working for large corporations while others prefer small businesses. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 59,
+  "text": "Do the advantages of studying abroad outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 60,
+  "text": "To what extent should arts and music be compulsory in schools? Give reasons for your answer.",
+  "topic": "Arts & Culture",
+  "qtype": "Extent"
+ },
+ {
+  "id": 61,
+  "text": "Some people say that driver’s licenses should be harder to obtain. Do you agree or disagree?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 62,
+  "text": "How can governments encourage people to exercise more? Suggest practical measures.",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 63,
+  "text": "Discuss the role of the internet in promoting free speech.",
+  "topic": "Government & Politics",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 64,
+  "text": "Many feel that traditional media is less trustworthy than online sources. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 65,
+  "text": "Some people believe that space exploration is essential for human progress. Others think it is a waste of resources. Discuss both views and give your opinion.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 66,
+  "text": "To what extent do you agree or disagree that tests and exams accurately measure intelligence?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 67,
+  "text": "Many people say that migration benefits the host country. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 68,
+  "text": "Discuss the advantages and disadvantages of raising the minimum wage.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 69,
+  "text": "What are the causes of urban poverty? What solutions can be proposed?",
+  "topic": "Economy & Business",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 70,
+  "text": "Some argue that early childhood education is the most important stage. To what extent do you agree?",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 71,
+  "text": "Is it better to focus government spending on public transport or on roads? Discuss and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 72,
+  "text": "Should individuals be responsible for their retirement planning, or should society/government take action? Discuss.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 73,
+  "text": "How far do you think virtual reality will change entertainment in the next 20 years? Support your answer with reasons.",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 74,
+  "text": "Many people think that freelancing has improved people’s lives. Do you agree? Explain with examples.",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 75,
+  "text": "Some believe that genetically modified food is beneficial. To what extent do you agree or disagree?",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 76,
+  "text": "Discuss how media coverage affects public opinion during elections.",
+  "topic": "Government & Politics",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 77,
+  "text": "What are the benefits for a country that focuses on green technology? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 78,
+  "text": "Some people prefer city life while others prefer countryside life. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 79,
+  "text": "Do the advantages of longer working hours outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 80,
+  "text": "To what extent should mental health services be free? Give reasons for your answer.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 81,
+  "text": "Some people say that pets are as important as family members. Do you agree or disagree?",
+  "topic": "Family & Society",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 82,
+  "text": "How can governments reduce plastic waste? Suggest practical measures.",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 83,
+  "text": "Discuss the role of libraries in modern society.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 84,
+  "text": "Many feel that photos and posts on social media are misleading. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 85,
+  "text": "Some people believe that immigration brings economic and cultural benefits. Others think it causes problems. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 86,
+  "text": "To what extent do you agree or disagree that books are better than films?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 87,
+  "text": "Many people say that technology increases productivity. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 88,
+  "text": "Discuss the advantages and disadvantages of using drones in delivery services.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 89,
+  "text": "What are the causes of low birth rates in some countries? What solutions can be proposed?",
+  "topic": "Family & Society",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 90,
+  "text": "Some argue that stricter gun control reduces crime. To what extent do you agree?",
+  "topic": "Crime & Law",
+  "qtype": "Extent"
+ },
+ {
+  "id": 91,
+  "text": "Is it better to focus government spending on policing or on social services? Discuss and give your opinion.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 92,
+  "text": "Should individuals be responsible for reducing their carbon footprint, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 93,
+  "text": "How far do you think telemedicine will change healthcare in the next 20 years? Support your answer with reasons.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 94,
+  "text": "Many people think that online reviews influence buying decisions. Do you agree? Explain with examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 95,
+  "text": "Some believe that history should be taught from multiple perspectives. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 96,
+  "text": "Discuss how sports events can benefit local economies.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 97,
+  "text": "What are the benefits for a country that focuses on early childhood care? Use examples.",
+  "topic": "Family & Society",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 98,
+  "text": "Some people prefer public sector jobs while others prefer private sector jobs. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 99,
+  "text": "Do the advantages of vegetarian diets outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 100,
+  "text": "To what extent should corporations be responsible for environmental damage? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 101,
+  "text": "Some people say that university degrees are less valuable now. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 102,
+  "text": "How can governments encourage reading among children? Suggest practical measures.",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 103,
+  "text": "Discuss the role of museums in education.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 104,
+  "text": "Many feel that adverts target children inappropriately. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 105,
+  "text": "Some people believe that animal testing is acceptable for medical research. Others think it is unethical. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 106,
+  "text": "To what extent do you agree or disagree that social media increases political awareness?",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 107,
+  "text": "Many people say that public art improves cities. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 108,
+  "text": "Discuss the advantages and disadvantages of nuclear energy.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 109,
+  "text": "What are the causes of homelessness? What solutions can be proposed?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 110,
+  "text": "Some argue that technology in schools improves learning. To what extent do you agree?",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 111,
+  "text": "Is it better to focus government spending on childcare or on elder care? Discuss and give your opinion.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 112,
+  "text": "Should individuals be responsible for protecting wildlife, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 113,
+  "text": "How far do you think online shopping will change retail in the next 20 years? Support your answer with reasons.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 114,
+  "text": "Many people think that music education benefits children. Do you agree? Explain with examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 115,
+  "text": "Some believe that governments should limit advertising of unhealthy food. To what extent do you agree or disagree?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 116,
+  "text": "Discuss how the gig economy affects job security.",
+  "topic": "Work & Careers",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 117,
+  "text": "What are the benefits for a country that focuses on technological innovation? Use examples.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 118,
+  "text": "Some people prefer living in apartments while others prefer houses. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 119,
+  "text": "Do the advantages of studying multiple languages outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 120,
+  "text": "To what extent should governments regulate social media content? Give reasons for your answer.",
+  "topic": "Media & Advertising",
+  "qtype": "Extent"
+ },
+ {
+  "id": 121,
+  "text": "Some people say that public celebrations waste resources. Do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 122,
+  "text": "How can governments improve urban green spaces? Suggest practical measures.",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 123,
+  "text": "Discuss the role of parents in children’s academic success.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 124,
+  "text": "Many feel that food packaging is too wasteful. Do you agree? Explain your view.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 125,
+  "text": "Some people believe that work-life balance is essential. Others think long hours show commitment. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 126,
+  "text": "To what extent do you agree or disagree that examinations should be replaced by continuous assessment?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 127,
+  "text": "Many people say that online education is overpriced. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 128,
+  "text": "Discuss the advantages and disadvantages of tourism for rural areas.",
+  "topic": "Travel & Tourism",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 129,
+  "text": "What are the causes of traffic accidents? What solutions can be proposed?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 130,
+  "text": "Some argue that harsher penalties reduce crime. To what extent do you agree?",
+  "topic": "Crime & Law",
+  "qtype": "Extent"
+ },
+ {
+  "id": 131,
+  "text": "Is it better to focus government spending on roads or on public transport? Discuss and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 132,
+  "text": "Should individuals be responsible for their own health, or should society/government take action? Discuss.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 133,
+  "text": "How far do you think renewable energy will replace fossil fuels in the next 20 years? Support your answer with reasons.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 134,
+  "text": "Many people think that social networks increase cyberbullying. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 135,
+  "text": "Some believe that museums should be free to visit. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 136,
+  "text": "Discuss how technology influences voting behaviour.",
+  "topic": "Government & Politics",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 137,
+  "text": "What are the benefits for a country that focuses on public health campaigns? Use examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 138,
+  "text": "Some people prefer career stability while others prefer career flexibility. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 139,
+  "text": "Do the advantages of homeschooling outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 140,
+  "text": "To what extent should employers provide training for new workers? Give reasons for your answer.",
+  "topic": "Work & Careers",
+  "qtype": "Extent"
+ },
+ {
+  "id": 141,
+  "text": "Some people say that art classes should be optional, not compulsory. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 142,
+  "text": "How can governments reduce childhood obesity? Suggest practical measures.",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 143,
+  "text": "Discuss the role of documentaries in educating the public.",
+  "topic": "Media & Advertising",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 144,
+  "text": "Many feel that streaming services have reduced box office sales. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 145,
+  "text": "Some people believe that immigration benefits economies. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 146,
+  "text": "To what extent do you agree or disagree that children should not use smartphones?",
+  "topic": "Family & Society",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 147,
+  "text": "Many people say that electric scooters are dangerous in cities. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 148,
+  "text": "Discuss the advantages and disadvantages of genetically modified crops.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 149,
+  "text": "What are the causes of poor educational outcomes in inner cities? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 150,
+  "text": "Some argue that lowering taxes stimulates the economy. To what extent do you agree?",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 151,
+  "text": "Is it better to focus government spending on mental health or on physical health? Discuss and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 152,
+  "text": "Should individuals be responsible for recycling, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 153,
+  "text": "How far do you think driverless cars will become common in the next 20 years? Support your answer with reasons.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Extent"
+ },
+ {
+  "id": 154,
+  "text": "Many people think that reality TV encourages bad behaviour. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 155,
+  "text": "Some believe that school uniforms improve discipline. To what extent do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 156,
+  "text": "Discuss how corporate social responsibility affects consumer choices.",
+  "topic": "Economy & Business",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 157,
+  "text": "What are the benefits for a country that focuses on vocational training? Use examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 158,
+  "text": "Some people prefer morning work shifts while others prefer evening shifts. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 159,
+  "text": "Do the advantages of a cashless society outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 160,
+  "text": "To what extent should governments support small businesses? Give reasons for your answer.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 161,
+  "text": "Some people say that reducing the school week improves student wellbeing. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 162,
+  "text": "How can governments address the digital divide? Suggest practical measures.",
+  "topic": "Technology & Science",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 163,
+  "text": "Discuss the role of fashion in shaping cultural identity.",
+  "topic": "Arts & Culture",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 164,
+  "text": "Many feel that fake news spreads too easily online. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 165,
+  "text": "Some people believe that tax incentives encourage innovation. Others think not. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 166,
+  "text": "To what extent do you agree or disagree that children should learn a second language at primary school?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 167,
+  "text": "Many people say that homeschooling isolates children. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 168,
+  "text": "Discuss the advantages and disadvantages of working from home for families.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 169,
+  "text": "What are the causes of air pollution in industrial cities? What solutions can be proposed?",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 170,
+  "text": "Some argue that stricter immigration controls protect jobs. To what extent do you agree?",
+  "topic": "Work & Careers",
+  "qtype": "Extent"
+ },
+ {
+  "id": 171,
+  "text": "Is it better to focus government spending on research or on public services? Discuss and give your opinion.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 172,
+  "text": "Should individuals be responsible for digital privacy, or should society/government take action? Discuss.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 173,
+  "text": "How far do you think wearable technology will change personal health monitoring in the next 20 years? Support your answer with reasons.",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 174,
+  "text": "Many people think that influencer marketing misleads consumers. Do you agree? Explain with examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 175,
+  "text": "Some believe that the death penalty deters crime. To what extent do you agree or disagree?",
+  "topic": "Crime & Law",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 176,
+  "text": "Discuss how volunteering abroad benefits communities and volunteers.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 177,
+  "text": "What are the benefits for a country that focuses on public housing? Use examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 178,
+  "text": "Some people prefer flexible working hours while others prefer fixed hours. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 179,
+  "text": "Do the advantages of privatizing services outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 180,
+  "text": "To what extent should schools teach vocational skills? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 181,
+  "text": "Some people say that video games promote violence. Do you agree or disagree?",
+  "topic": "Crime & Law",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 182,
+  "text": "How can governments improve road safety for cyclists? Suggest practical measures.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 183,
+  "text": "Discuss the role of traditional crafts in preserving heritage.",
+  "topic": "Arts & Culture",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 184,
+  "text": "Many feel that streaming music has changed the music industry negatively. Do you agree? Explain your view.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 185,
+  "text": "Some people believe that climate change is mainly caused by human activity. Others think natural factors are more significant. Discuss both views and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 186,
+  "text": "To what extent do you agree or disagree that advertising should be banned from children’s programs?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 187,
+  "text": "Many people say that tackling poverty requires international cooperation. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 188,
+  "text": "Discuss the advantages and disadvantages of banking online.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 189,
+  "text": "What are the causes of student stress at university? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 190,
+  "text": "Some argue that cultural festivals boost tourism. To what extent do you agree?",
+  "topic": "Travel & Tourism",
+  "qtype": "Extent"
+ },
+ {
+  "id": 191,
+  "text": "Is it better to focus government spending on science or on arts funding? Discuss and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 192,
+  "text": "Should individuals be responsible for volunteering, or should society/government encourage it? Discuss.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 193,
+  "text": "How far do you think blockchain technology will affect banking in the next 20 years? Support your answer with reasons.",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 194,
+  "text": "Many people think that subscription services are good value. Do you agree? Explain with examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 195,
+  "text": "Some believe that public smoking bans improve public health. To what extent do you agree or disagree?",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 196,
+  "text": "Discuss how family traditions influence identity.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 197,
+  "text": "What are the benefits for a country that focuses on renewable resources? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 198,
+  "text": "Some people prefer teaching methods that emphasize exams while others prefer project-based learning. Discuss both views and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 199,
+  "text": "Do the advantages of bilingual education outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 200,
+  "text": "To what extent should tax revenue be used for cultural projects? Give reasons for your answer.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 201,
+  "text": "Some people say that advertising for unhealthy foods should be restricted. Do you agree or disagree?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 202,
+  "text": "How can governments promote ethical consumerism? Suggest practical measures.",
+  "topic": "Economy & Business",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 203,
+  "text": "Discuss the role of grandparents in child upbringing.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 204,
+  "text": "Many feel that photo editing apps create unrealistic beauty standards. Do you agree? Explain your view.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 205,
+  "text": "Some people believe that corporate mergers are good for the economy. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 206,
+  "text": "To what extent do you agree or disagree that college athletes should be paid?",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 207,
+  "text": "Many people say that public gardens should be protected from development. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 208,
+  "text": "Discuss the advantages and disadvantages of using surveillance cameras in public places.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 209,
+  "text": "What are the causes of teacher shortages? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 210,
+  "text": "Some argue that arts education improves creativity and problem solving. To what extent do you agree?",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 211,
+  "text": "Is it better to focus government spending on vocational education or on universities? Discuss and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 212,
+  "text": "Should individuals be responsible for digital wellbeing, or should society/government take action? Discuss.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 213,
+  "text": "How far do you think gene editing will affect healthcare in the next 20 years? Support your answer with reasons.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 214,
+  "text": "Many people think that binge-watching TV has negative effects. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 215,
+  "text": "Some believe that government surveillance is necessary for safety. To what extent do you agree or disagree?",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 216,
+  "text": "Discuss how cultural exchange programs benefit students.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 217,
+  "text": "What are the benefits for a country that focuses on renewable transport? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 218,
+  "text": "Some people prefer to save money while others prefer to spend freely. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 219,
+  "text": "Do the advantages of work automation outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 220,
+  "text": "To what extent should schools assess student wellbeing in addition to academics? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 221,
+  "text": "Some people say that mobile phones should be banned in classrooms. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 222,
+  "text": "How can governments support elderly people living alone? Suggest practical measures.",
+  "topic": "Family & Society",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 223,
+  "text": "Discuss the role of community centers in urban areas.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 224,
+  "text": "Many feel that online advertising is intrusive. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 225,
+  "text": "Some people believe that global trade benefits all countries. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 226,
+  "text": "To what extent do you agree or disagree that voting should be compulsory?",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 227,
+  "text": "Many people say that cultural appropriation is harmful. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 228,
+  "text": "Discuss the advantages and disadvantages of standardized testing.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 229,
+  "text": "What are the causes of student debt? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 230,
+  "text": "Some argue that free university tuition increases equality. To what extent do you agree?",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 231,
+  "text": "Is it better to focus government spending on emergency services or on prevention programs? Discuss and give your opinion.",
+  "topic": "Government & Politics",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 232,
+  "text": "Should individuals be responsible for preventing cybercrime, or should society/government take action? Discuss.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 233,
+  "text": "How far do you think 3D printing will change manufacturing in the next 20 years? Support your answer with reasons.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 234,
+  "text": "Many people think that online privacy is disappearing. Do you agree? Explain with examples.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 235,
+  "text": "Some believe that art is more important than science. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 236,
+  "text": "Discuss how language learning improves cultural understanding.",
+  "topic": "Arts & Culture",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 237,
+  "text": "What are the benefits for a country that focuses on public broadcasting? Use examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 238,
+  "text": "Some people prefer live concerts while others prefer recorded music. Discuss both views and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 239,
+  "text": "Do the advantages of living in high-density cities outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 240,
+  "text": "To what extent should animal welfare laws be strengthened? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 241,
+  "text": "Some people say that community service should be compulsory for students. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 242,
+  "text": "How can governments reduce littering in public places? Suggest practical measures.",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 243,
+  "text": "Discuss the role of advertising in shaping consumer culture.",
+  "topic": "Economy & Business",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 244,
+  "text": "Many feel that celebrity endorsements are misleading. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 245,
+  "text": "Some people believe that online dating benefits modern relationships. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 246,
+  "text": "To what extent do you agree or disagree that standardized tests are fair?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 247,
+  "text": "Many people say that human activity causes climate change. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 248,
+  "text": "Discuss the advantages and disadvantages of privatized healthcare systems.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 249,
+  "text": "What are the causes of rural depopulation? What solutions can be proposed?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 250,
+  "text": "Some argue that investing in sports facilities improves public health. To what extent do you agree?",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 251,
+  "text": "Is it better to focus government spending on cultural heritage or on new infrastructure? Discuss and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 252,
+  "text": "Should individuals be responsible for energy conservation, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 253,
+  "text": "How far do you think nanotechnology will influence medicine in the next 20 years? Support your answer with reasons.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 254,
+  "text": "Many people think that online forums spread misinformation. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 255,
+  "text": "Some believe that religious education should be part of the school curriculum. To what extent do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 256,
+  "text": "Discuss how family meals affect children’s development.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 257,
+  "text": "What are the benefits for a country that focuses on agricultural innovation? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 258,
+  "text": "Some people prefer public celebrations while others prefer private family events. Discuss both views and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 259,
+  "text": "Do the advantages of a shorter workweek outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 260,
+  "text": "To what extent should governments regulate fast-food outlets near schools? Give reasons for your answer.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 261,
+  "text": "Some people say that international sporting events are a waste of money. Do you agree or disagree?",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 262,
+  "text": "How can governments make voting more accessible? Suggest practical measures.",
+  "topic": "Government & Politics",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 263,
+  "text": "Discuss the role of local media in small communities.",
+  "topic": "Media & Advertising",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 264,
+  "text": "Many feel that online anonymity encourages bad behaviour. Do you agree? Explain your view.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 265,
+  "text": "Some people believe that technology reduces face-to-face interaction. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 266,
+  "text": "To what extent do you agree or disagree that governments should ban smoking in public places?",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 267,
+  "text": "Many people say that studying arts improves academic performance. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 268,
+  "text": "Discuss the advantages and disadvantages of home ownership.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 269,
+  "text": "What are the causes of traffic pollution in major cities? What solutions can be proposed?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 270,
+  "text": "Some argue that tuition fees limit access to higher education. To what extent do you agree?",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 271,
+  "text": "Is it better to focus government spending on policing or on education? Discuss and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 272,
+  "text": "Should individuals be responsible for preventing identity theft, or should society/government take action? Discuss.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 273,
+  "text": "How far do you think renewable energy technology will become cheaper in the next 20 years? Support your answer with reasons.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 274,
+  "text": "Many people think that celebrity culture encourages materialism. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 275,
+  "text": "Some believe that standardized uniforms improve student equality. To what extent do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 276,
+  "text": "Discuss how community gardens benefit neighborhoods.",
+  "topic": "Environment & Energy",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 277,
+  "text": "What are the benefits for a country that focuses on technological education? Use examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 278,
+  "text": "Some people prefer to use cash while others prefer digital payments. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 279,
+  "text": "Do the advantages of longer life expectancy outweigh the challenges? Give reasons and examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 280,
+  "text": "To what extent should product labelling include environmental impact information? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 281,
+  "text": "Some people say that homework improves learning outcomes. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 282,
+  "text": "How can governments increase access to clean drinking water? Suggest practical measures.",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 283,
+  "text": "Discuss the role of physical education in schools.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 284,
+  "text": "Many feel that advertising creates unrealistic expectations. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 285,
+  "text": "Some people believe that professional athletes earn too much. Others think they deserve it. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 286,
+  "text": "To what extent do you agree or disagree that reading fiction improves empathy?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 287,
+  "text": "Many people say that renewable energy investments create jobs. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 288,
+  "text": "Discuss the advantages and disadvantages of using social media for education.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 289,
+  "text": "What are the causes of low voter turnout? What solutions can be proposed?",
+  "topic": "Government & Politics",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 290,
+  "text": "Some argue that stricter environmental laws improve public health. To what extent do you agree?",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 291,
+  "text": "Is it better to focus government spending on birth rate initiatives or on healthcare? Discuss and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 292,
+  "text": "Some people believe that crime is mainly caused by poverty and lack of education. Others think criminals are personally responsible. Discuss both views and give your opinion.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 293,
+  "text": "Some people prefer crime prevention measures while others prefer stricter punishments. Discuss both views and give your opinion.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 294,
+  "text": "Discuss the role of technology in reducing unemployment.",
+  "topic": "Work & Careers",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 295,
+  "text": "What are the benefits for a country that focuses on agriculture? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 296,
+  "text": "Some argue that poor health is the main cause of social problems. To what extent do you agree?",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 297,
+  "text": "Some argue that private ownership is the main reason for social problems. To what extent do you agree?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Extent"
+ },
+ {
+  "id": 298,
+  "text": "Some people believe that nuclear energy is a safe and efficient power source. Others think it is dangerous. Discuss both views and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 299,
+  "text": "To what extent should schools teach crime prevention and civic responsibility? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 300,
+  "text": "Should individuals be responsible for education, or should society/government take action? Discuss.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 301,
+  "text": "In your opinion, should countries invest more in health? Explain why.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 302,
+  "text": "What are the benefits for a country that focuses on celebrity culture? Use examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 303,
+  "text": "Do the advantages of weight-loss interventions outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 304,
+  "text": "Many people think that wildlife conservation has improved people’s lives. Do you agree? Explain with examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 305,
+  "text": "Should individuals be responsible for upholding the law, or should society/government take primary responsibility? Discuss.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 306,
+  "text": "How far do you think animal testing will change in the next 20 years? Support your answer with reasons.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 307,
+  "text": "Some people prefer urban life while others prefer rural life. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 308,
+  "text": "To what extent should financial literacy be taught in schools? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 309,
+  "text": "Many people say that art galleries are elitist. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 310,
+  "text": "Discuss the advantages and disadvantages of encouraging tourism in fragile ecosystems.",
+  "topic": "Travel & Tourism",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 311,
+  "text": "What are the causes of teen substance abuse? What solutions can be proposed?",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 312,
+  "text": "Some argue that stricter traffic laws reduce accidents. To what extent do you agree?",
+  "topic": "Crime & Law",
+  "qtype": "Extent"
+ },
+ {
+  "id": 313,
+  "text": "Is it better to focus government spending on public libraries or on digital resources? Discuss and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 314,
+  "text": "Should individuals be responsible for wildlife conservation, or should society/government take action? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 315,
+  "text": "How far do you think personalized learning will change schooling in the next 20 years? Support your answer with reasons.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 316,
+  "text": "Many people think that fast delivery services harm local businesses. Do you agree? Explain with examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 317,
+  "text": "Some believe that museums should focus on local history. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 318,
+  "text": "Discuss how international trade affects domestic employment.",
+  "topic": "Work & Careers",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 319,
+  "text": "What are the benefits for a country that focuses on ethical manufacturing? Use examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 320,
+  "text": "Some people prefer solo travel while others prefer group tours. Discuss both views and give your opinion.",
+  "topic": "Travel & Tourism",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 321,
+  "text": "Do the advantages of nuclear power outweigh the environmental risks? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 322,
+  "text": "To what extent should governments subsidize cultural industries? Give reasons for your answer.",
+  "topic": "Arts & Culture",
+  "qtype": "Extent"
+ },
+ {
+  "id": 323,
+  "text": "Some people say that physical punishment by parents should be illegal. Do you agree or disagree?",
+  "topic": "Crime & Law",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 324,
+  "text": "How can governments support mental health in the workplace? Suggest practical measures.",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 325,
+  "text": "Discuss the role of school counsellors in student wellbeing.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 326,
+  "text": "Many feel that online influencers promote unhealthy lifestyles. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 327,
+  "text": "Some people believe that urban farming can solve food shortages. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 328,
+  "text": "To what extent do you agree or disagree that brand loyalty is declining?",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 329,
+  "text": "Many people say that apprenticeships provide better job prospects. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 330,
+  "text": "Discuss the advantages and disadvantages of same-day delivery for consumers.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 331,
+  "text": "What are the causes of corruption in public office? What solutions can be proposed?",
+  "topic": "Government & Politics",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 332,
+  "text": "Some argue that strict environmental controls limit economic growth. To what extent do you agree?",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 333,
+  "text": "Is it better to focus government spending on arts education or on science education? Discuss and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 334,
+  "text": "Should individuals be responsible for reporting wrongdoing, or should society/government enforce it? Discuss.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 335,
+  "text": "How far do you think remote learning will remain common after the pandemic? Support your answer with reasons.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 336,
+  "text": "Many people think that exploitative behaviour on social media is harmful. Do you agree? Explain with examples.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 337,
+  "text": "Some believe that international aid helps development. To what extent do you agree or disagree?",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 338,
+  "text": "Discuss how public transport improvements can reduce social inequality.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 339,
+  "text": "What are the benefits for a country that focuses on child nutrition programs? Use examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 340,
+  "text": "Some people prefer to live in gated communities while others prefer open neighborhoods. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 341,
+  "text": "Do the advantages of free trade outweigh the disadvantages? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 342,
+  "text": "To what extent should governments control online hate speech? Give reasons for your answer.",
+  "topic": "Government & Politics",
+  "qtype": "Extent"
+ },
+ {
+  "id": 343,
+  "text": "Some people say that museums should charge for entry to fund operations. Do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 344,
+  "text": "How can governments promote STEM careers among girls? Suggest practical measures.",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 345,
+  "text": "Discuss the role of apprenticeship programs in reducing youth unemployment.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 346,
+  "text": "Many feel that product packaging is wasteful and unnecessary. Do you agree? Explain your view.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 347,
+  "text": "Some people believe that public protests are a vital part of democracy. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Government & Politics",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 348,
+  "text": "To what extent do you agree or disagree that traditional newspapers will disappear?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 349,
+  "text": "Many people say that a healthy diet prevents illness. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 350,
+  "text": "Discuss the advantages and disadvantages of pesticide use in agriculture.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 351,
+  "text": "What are the causes of limited access to healthcare in rural areas? What solutions can be proposed?",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 352,
+  "text": "Some argue that stricter zoning laws improve city livability. To what extent do you agree?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Extent"
+ },
+ {
+  "id": 353,
+  "text": "Is it better to focus government spending on emergency response or on long-term prevention? Discuss and give your opinion.",
+  "topic": "Government & Politics",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 354,
+  "text": "Should individuals be responsible for their media consumption, or should society/government regulate content? Discuss.",
+  "topic": "Media & Advertising",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 355,
+  "text": "How far do you think micro-credentials will change higher education in the next 20 years? Support your answer with reasons.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 356,
+  "text": "Many people think that mobile apps have improved productivity. Do you agree? Explain with examples.",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 357,
+  "text": "Some believe that banning single-use plastics is effective. To what extent do you agree or disagree?",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 358,
+  "text": "Discuss how community policing impacts public safety.",
+  "topic": "Crime & Law",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 359,
+  "text": "What are the benefits for a country that focuses on early disease detection programs? Use examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 360,
+  "text": "Some people prefer to raise children with strict rules while others prefer permissive parenting. Discuss both views and give your opinion.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 361,
+  "text": "Do the advantages of urban renewal projects outweigh the displacement they cause? Give reasons and examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 362,
+  "text": "To what extent should students be involved in school governance? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 363,
+  "text": "Some people say that commercial advertising on public transport should be banned. Do you agree or disagree?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 364,
+  "text": "How can governments better support start-ups? Suggest practical measures.",
+  "topic": "Work & Careers",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 365,
+  "text": "Discuss the role of youth clubs in preventing crime.",
+  "topic": "Crime & Law",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 366,
+  "text": "Many feel that documentary films are more educational than fictional films. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 367,
+  "text": "Some people believe that healthy eating should be promoted through taxation on unhealthy foods. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 368,
+  "text": "To what extent do you agree or disagree that school is a place for students to discover passions rather than focus on exams?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 369,
+  "text": "Many people say that community festivals strengthen social bonds. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Family & Society",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 370,
+  "text": "Discuss the advantages and disadvantages of biofuels.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 371,
+  "text": "What are the causes of teacher burnout? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 372,
+  "text": "Some argue that shorter product life cycles harm the environment. To what extent do you agree?",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 373,
+  "text": "Is it better to focus government spending on public health campaigns or on hospital infrastructure? Discuss and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 374,
+  "text": "Should individuals be responsible for reporting environmental violations, or should society/government act proactively? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 375,
+  "text": "How far do you think smart cities will improve quality of life in the next 20 years? Support your answer with reasons.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Extent"
+ },
+ {
+  "id": 376,
+  "text": "Many people think that podcasting is a powerful educational tool. Do you agree? Explain with examples.",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 377,
+  "text": "Some believe that advertising to children should be tightly regulated. To what extent do you agree or disagree?",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 378,
+  "text": "Discuss how language policy can affect national unity.",
+  "topic": "Government & Politics",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 379,
+  "text": "What are the benefits for a country that focuses on lifelong learning programs? Use examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 380,
+  "text": "Some people prefer traditional medicine while others prefer modern medicine. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 381,
+  "text": "Do the advantages of state-funded childcare outweigh the cost? Give reasons and examples.",
+  "topic": "Family & Society",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 382,
+  "text": "To what extent should employees be allowed to unionize? Give reasons for your answer.",
+  "topic": "Work & Careers",
+  "qtype": "Extent"
+ },
+ {
+  "id": 383,
+  "text": "Some people say that recycling should be mandatory. Do you agree or disagree?",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 384,
+  "text": "How can governments ensure fair access to high-speed internet? Suggest practical measures.",
+  "topic": "Technology & Science",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 385,
+  "text": "Discuss the role of youth sports programs in physical and social development.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 386,
+  "text": "Many feel that influencer culture creates unrealistic lifestyles. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 387,
+  "text": "Some people believe that restoring historic buildings is more important than building new structures. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 388,
+  "text": "To what extent do you agree or disagree that electric vehicles should be subsidized?",
+  "topic": "Technology & Science",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 389,
+  "text": "Many people say that learning to drive improves independence. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 390,
+  "text": "Discuss the advantages and disadvantages of universal basic income.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 391,
+  "text": "What are the causes of overcrowded classrooms? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 392,
+  "text": "Some argue that stricter consumer protection laws improve safety. To what extent do you agree?",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 393,
+  "text": "Is it better to focus government spending on climate adaptation or climate mitigation? Discuss and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 394,
+  "text": "Should individuals be responsible for their own healthcare costs, or should society/government fund care? Discuss.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 395,
+  "text": "How far do you think digital currencies will affect global finance in the next 20 years? Support your answer with reasons.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 396,
+  "text": "Many people think that technology reduces manual labour jobs. Do you agree? Explain with examples.",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 397,
+  "text": "Some believe that compulsory military service benefits society. To what extent do you agree or disagree?",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 398,
+  "text": "Discuss how public campaigns can change health behaviours.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 399,
+  "text": "What are the benefits for a country that focuses on clean water access? Use examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 400,
+  "text": "Some people prefer to retire early while others prefer to work longer. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 401,
+  "text": "Do the advantages of shorter hospital stays outweigh the risks? Give reasons and examples.",
+  "topic": "Health & Sport",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 402,
+  "text": "To what extent should cultural diversity be promoted in schools? Give reasons for your answer.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 403,
+  "text": "Some people say that paid internships exploit young workers. Do you agree or disagree?",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 404,
+  "text": "How can governments foster responsible tourism? Suggest practical measures.",
+  "topic": "Travel & Tourism",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 405,
+  "text": "Discuss the role of tutors in supplementing education.",
+  "topic": "Education",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 406,
+  "text": "Many feel that fast fashion harms the environment. Do you agree? Explain your view.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 407,
+  "text": "Some people believe that space tourism will benefit humanity. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Travel & Tourism",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 408,
+  "text": "To what extent do you agree or disagree that parents should limit screen time for children?",
+  "topic": "Family & Society",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 409,
+  "text": "Many people say that bilingual signs in public places are helpful. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 410,
+  "text": "Discuss the advantages and disadvantages of privatizing utilities.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 411,
+  "text": "What are the causes of poor sanitation in urban slums? What solutions can be proposed?",
+  "topic": "Health & Sport",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 412,
+  "text": "Some argue that community policing builds trust. To what extent do you agree?",
+  "topic": "Crime & Law",
+  "qtype": "Extent"
+ },
+ {
+  "id": 413,
+  "text": "Is it better to focus government spending on cultural exchange programs or on infrastructure? Discuss and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 414,
+  "text": "Should individuals be responsible for reporting misinformation, or should society/government act? Discuss.",
+  "topic": "Media & Advertising",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 415,
+  "text": "How far do you think autonomous delivery robots will become common in the next 20 years? Support your answer with reasons.",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 416,
+  "text": "Many people think that youth activism is important for social change. Do you agree? Explain with examples.",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 417,
+  "text": "Some believe that art education should be prioritized over competitive sports. To what extent do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 418,
+  "text": "Discuss how microfinance impacts small entrepreneurs.",
+  "topic": "Economy & Business",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 419,
+  "text": "What are the benefits for a country that focuses on public safety education? Use examples.",
+  "topic": "Education",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 420,
+  "text": "Some people prefer to travel by train while others prefer air travel. Discuss both views and give your opinion.",
+  "topic": "Travel & Tourism",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 421,
+  "text": "Do the advantages of a cashless economy outweigh privacy concerns? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 422,
+  "text": "To what extent should governments intervene in housing markets to control prices? Give reasons for your answer.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 423,
+  "text": "Some people say that children should learn ethics in school. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 424,
+  "text": "How can governments improve access to affordable childcare? Suggest practical measures.",
+  "topic": "Family & Society",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 425,
+  "text": "Discuss the role of arts festivals in promoting tourism.",
+  "topic": "Travel & Tourism",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 426,
+  "text": "Many feel that television news is biased. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 427,
+  "text": "Some people believe that home ownership is a sign of success. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 428,
+  "text": "To what extent do you agree or disagree that technology should replace human teachers?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 429,
+  "text": "Many people say that public beaches should be preserved from development. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 430,
+  "text": "Discuss the advantages and disadvantages of telecommuting for employers.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 431,
+  "text": "What are the causes of youth unemployment in some countries? What solutions can be proposed?",
+  "topic": "Work & Careers",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 432,
+  "text": "Some argue that higher taxes on luxury goods reduce inequality. To what extent do you agree?",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 433,
+  "text": "Is it better to focus government spending on preventive healthcare or on treatment services? Discuss and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 434,
+  "text": "Should individuals be responsible for ensuring fair trade, or should society/government enforce it? Discuss.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 435,
+  "text": "How far do you think quantum computing will affect industry in the next 20 years? Support your answer with reasons.",
+  "topic": "Technology & Science",
+  "qtype": "Extent"
+ },
+ {
+  "id": 436,
+  "text": "Many people think that public monuments should remain even if controversial. Do you agree? Explain with examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 437,
+  "text": "Some believe that ocean conservation should be a global priority. To what extent do you agree or disagree?",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 438,
+  "text": "Discuss how family leave policies affect gender equality.",
+  "topic": "Family & Society",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 439,
+  "text": "What are the benefits for a country that focuses on disaster preparedness? Use examples.",
+  "topic": "Government & Politics",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 440,
+  "text": "Some people prefer buying local produce while others prefer imported goods. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 441,
+  "text": "Do the advantages of space exploration outweigh its high cost? Give reasons and examples.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 442,
+  "text": "To what extent should governments limit single-use packaging? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 443,
+  "text": "Some people say that multilingual education is difficult for teachers. Do you agree or disagree?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 444,
+  "text": "How can governments reduce corporate tax avoidance? Suggest practical measures.",
+  "topic": "Economy & Business",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 445,
+  "text": "Discuss the role of arts therapy in mental health treatment.",
+  "topic": "Health & Sport",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 446,
+  "text": "Many feel that product warranties should be longer to reduce waste. Do you agree? Explain your view.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 447,
+  "text": "Some people believe that public parks should be open 24 hours. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 448,
+  "text": "To what extent do you agree or disagree that school sports should be competitive?",
+  "topic": "Education",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 449,
+  "text": "Many people say that open-plan offices harm productivity. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 450,
+  "text": "Discuss the advantages and disadvantages of using biometric ID systems.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 451,
+  "text": "What are the causes of food waste in developed countries? What solutions can be proposed?",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 452,
+  "text": "Some argue that stricter animal protection laws benefit society. To what extent do you agree?",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 453,
+  "text": "Is it better to focus government spending on digital infrastructure or on traditional infrastructure? Discuss and give your opinion.",
+  "topic": "Technology & Science",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 454,
+  "text": "Should individuals be responsible for reporting corruption, or should society/government ensure transparency? Discuss.",
+  "topic": "Crime & Law",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 455,
+  "text": "How far do you think wearable health tech will change patient monitoring in the next 20 years? Support your answer with reasons.",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 456,
+  "text": "Many people think that DIY culture encourages sustainability. Do you agree? Explain with examples.",
+  "topic": "Environment & Energy",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 457,
+  "text": "Some believe that national service improves civic responsibility. To what extent do you agree or disagree?",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 458,
+  "text": "Discuss how citizen science projects can benefit research.",
+  "topic": "Technology & Science",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 459,
+  "text": "What are the benefits for a country that focuses on affordable housing programs? Use examples.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 460,
+  "text": "Some people prefer to commute by bicycle while others prefer motor vehicles. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 461,
+  "text": "Do the advantages of mass tourism outweigh environmental damage? Give reasons and examples.",
+  "topic": "Travel & Tourism",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 462,
+  "text": "To what extent should governments subsidize electric vehicle purchases? Give reasons for your answer.",
+  "topic": "Economy & Business",
+  "qtype": "Extent"
+ },
+ {
+  "id": 463,
+  "text": "Some people say that public holidays should be reduced to increase productivity. Do you agree or disagree?",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 464,
+  "text": "How can governments encourage homeowners to improve insulation? Suggest practical measures.",
+  "topic": "Environment & Energy",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 465,
+  "text": "Discuss the role of community radio in rural areas.",
+  "topic": "Media & Advertising",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 466,
+  "text": "Many feel that celebrity judges on talent shows are unfair. Do you agree? Explain your view.",
+  "topic": "Media & Advertising",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 467,
+  "text": "Some people believe that school libraries are outdated. Others disagree. Discuss both views and give your opinion.",
+  "topic": "Education",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 468,
+  "text": "To what extent do you agree or disagree that remote work reduces urban congestion?",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 469,
+  "text": "Many people say that listening to music helps concentration. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 470,
+  "text": "Discuss the advantages and disadvantages of mass digitization of public records.",
+  "topic": "Technology & Science",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 471,
+  "text": "What are the causes of low participation in adult education? What solutions can be proposed?",
+  "topic": "Education",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 472,
+  "text": "Some argue that stricter food safety regulations protect public health. To what extent do you agree?",
+  "topic": "Health & Sport",
+  "qtype": "Extent"
+ },
+ {
+  "id": 473,
+  "text": "Is it better to focus government spending on arts or on sports development? Discuss and give your opinion.",
+  "topic": "Arts & Culture",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 474,
+  "text": "Should individuals be responsible for reducing e-waste, or should society/government enforce recycling? Discuss.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 475,
+  "text": "How far do you think AI tutors will change education in the next 20 years? Support your answer with reasons.",
+  "topic": "Education",
+  "qtype": "Extent"
+ },
+ {
+  "id": 476,
+  "text": "Many people think that DIY healthcare information online is risky. Do you agree? Explain with examples.",
+  "topic": "Health & Sport",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 477,
+  "text": "Some believe that national museums should display artifacts from other countries. To what extent do you agree or disagree?",
+  "topic": "Arts & Culture",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 478,
+  "text": "Discuss how cultural festivals support local economies.",
+  "topic": "Arts & Culture",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 479,
+  "text": "What are the benefits for a country that focuses on family-friendly policies? Use examples.",
+  "topic": "Family & Society",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 480,
+  "text": "Some people prefer to buy second-hand goods while others prefer new items. Discuss both views and give your opinion.",
+  "topic": "Economy & Business",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 481,
+  "text": "Do the advantages of higher retirement ages outweigh the social costs? Give reasons and examples.",
+  "topic": "Work & Careers",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 482,
+  "text": "To what extent should food origin be labelled on products? Give reasons for your answer.",
+  "topic": "Environment & Energy",
+  "qtype": "Extent"
+ },
+ {
+  "id": 483,
+  "text": "Some people say that career switching is essential in modern economies. Do you agree or disagree?",
+  "topic": "Work & Careers",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 484,
+  "text": "How can governments support creative industries during economic downturns? Suggest practical measures.",
+  "topic": "Economy & Business",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 485,
+  "text": "Discuss the role of local markets in preserving food diversity.",
+  "topic": "Economy & Business",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 486,
+  "text": "Is it better to focus government spending on organic farming or on other priorities? Discuss and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 487,
+  "text": "Should individuals be responsible for preventing child labour, or should society/government take action? Discuss.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 488,
+  "text": "Should individuals be responsible for ensuring equal opportunities, or should society/government take action? Discuss.",
+  "topic": "Family & Society",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 489,
+  "text": "What are the causes of high renting rates? What solutions can be proposed?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Causes / Solutions"
+ },
+ {
+  "id": 490,
+  "text": "Many people say that quality control in manufacturing is insufficient. Do you agree or disagree? Give reasons and examples.",
+  "topic": "Economy & Business",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 491,
+  "text": "In your opinion, should countries invest more in law enforcement and the legal system? Explain why.",
+  "topic": "Crime & Law",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 492,
+  "text": "Discuss the role of technology in improving free speech.",
+  "topic": "Government & Politics",
+  "qtype": "Opinion"
+ },
+ {
+  "id": 493,
+  "text": "Some people prefer animal testing while others prefer alternatives. Discuss both views and give your opinion.",
+  "topic": "Health & Sport",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 494,
+  "text": "Some people think that housing is a private matter, while others believe it is a public concern. Discuss both views and give your opinion.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 495,
+  "text": "Some people say that censorship is a waste of time and money. Do you agree or disagree?",
+  "topic": "Government & Politics",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 496,
+  "text": "Some people believe that remote work increases productivity and job satisfaction. Others think it harms companies and teamwork. Discuss both views and give your opinion.",
+  "topic": "Work & Careers",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 497,
+  "text": "Discuss the advantages and disadvantages of public transport.",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Advantages / Disadvantages"
+ },
+ {
+  "id": 498,
+  "text": "Is it better to focus government spending on climate change or on other priorities? Discuss and give your opinion.",
+  "topic": "Environment & Energy",
+  "qtype": "Discuss both views"
+ },
+ {
+  "id": 499,
+  "text": "To what extent do you agree or disagree that housing affordability is a government responsibility?",
+  "topic": "Transport, Housing & Cities",
+  "qtype": "Agree / Disagree"
+ },
+ {
+  "id": 500,
+  "text": "Some people prefer social media while others prefer alternatives. Discuss both views and give your opinion.",
+  "topic": "Media & Advertising",
+  "qtype": "Discuss both views"
+ }
+]

@@ -3,6 +3,7 @@ import express from 'express';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import writingFixRoutes from './modules/writing-fix/routes.js';
+import writingTask2Routes from './modules/writing-task2/routes.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PORT = process.env.PORT || 3000;
@@ -13,6 +14,7 @@ app.use(express.json({ limit: '1mb' }));
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 app.use('/api/writing-fix', writingFixRoutes);
+app.use('/api/writing-task2', writingTask2Routes);
 
 app.use((err, _req, res, _next) => {
   console.error(err);
