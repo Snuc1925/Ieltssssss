@@ -1,0 +1,58 @@
+{
+  "questionId": 288,
+  "text": "Platforms such as Facebook, YouTube and WhatsApp are now part of students' daily lives, and many teachers have begun to use them for learning. This essay will discuss the main advantages and disadvantages of this trend.\n\nOn the positive side, social media makes collaboration and access to resources easier. Students can create study groups, share notes and ask questions outside class hours, while teachers can post explanations or video lessons that pupils watch at their own pace. Because these platforms are already familiar, learners often engage with them more readily than with formal systems, and communication feels quick and informal. Teachers can also reach quieter pupils, who may find it easier to ask a question in a message than in front of the whole class. During school closures, for example, many classes continued through messaging groups when other tools were unavailable.\n\nOn the negative side, social media carries the risk of distraction and misinformation. Notifications, games and entertaining videos offer endless temptations, so a student who opens a study group may end up scrolling for an hour. In addition, false claims often spread faster than corrections, and pupils who cannot check sources or spot bias may be misled. Privacy and cyberbullying are further concerns, since personal details and comments are visible to a wide audience. Without clear rules, these problems can outweigh the educational benefits.\n\nIn conclusion, social media can strengthen collaboration and widen access to learning materials, but its distractions and risks are serious. On balance, I believe that it should be used in education only in moderation, with clear guidelines, teacher supervision and lessons in evaluating information.",
+  "analysis": {
+    "type_vi": "Advantages / Disadvantages (không hỏi outweigh): mạng xã hội trong giáo dục",
+    "plan": [
+      {
+        "step": "1. Khung ưu / nhược + kiến nghị cân bằng",
+        "think": "Dùng lại khung của đề 228: không bắt buộc chọn phe nhưng kết bài nêu hướng dùng hợp lý (vừa phải, có giám sát).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will",
+          "CN-firstPoint-on-the-positive-side",
+          "CN-nextPoint-on-the-negative-side"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm — cộng tác và tiếp cận",
+        "think": "Ý mới riêng cho mạng xã hội: nhóm học, chia sẻ ghi chú, hỏi ngoài giờ, nền tảng quen thuộc. Ví dụ lớp học duy trì bằng nhóm nhắn tin khi trường đóng cửa.",
+        "refs": [
+          "ID-socialmedia-collab",
+          "PH-study-groups",
+          "EX-messaging-closures",
+          "ID-edtech-access"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm — xao nhãng, tin sai, riêng tư",
+        "think": "Tái dùng ý xao nhãng từ các đề công nghệ trước và ý tin giả của đề media studies; thêm riêng tư và bắt nạt mạng.",
+        "refs": [
+          "ID-edtech-distraction",
+          "ID-media-misinformation",
+          "PH-endless-temptations",
+          "PH-endless-scrolling",
+          "PH-spread-faster",
+          "CN-result-as-a-result"
+        ]
+      },
+      {
+        "step": "4. Kiến nghị",
+        "think": "Dùng vừa phải, có hướng dẫn, giáo viên giám sát, dạy đánh giá thông tin.",
+        "refs": [
+          "PH-single-source",
+          "PH-evaluate-critically",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-socialmedia-collab",
+      "PH-study-groups",
+      "PH-endless-scrolling",
+      "PH-spread-faster",
+      "EX-messaging-closures"
+    ]
+  },
+  "revisionNote": "Thêm 1 câu (học sinh nhút nhát dễ hỏi bài qua tin nhắn) để vượt 250 từ an toàn."
+}

@@ -1,0 +1,47 @@
+{
+  "questionId": 428,
+  "text": "Advances in artificial intelligence and online platforms have led some people to suggest that technology could replace human teachers altogether. I strongly disagree with this view, since teachers provide motivation, guidance and human understanding that machines cannot offer, and an over-reliance on technology would deepen existing inequalities.\n\nTo begin with, good teaching depends on human relationships. A teacher can notice when a pupil is confused, anxious or struggling at home, adjust an explanation instantly and offer encouragement at the right moment. Teachers also act as role models, showing students how to argue respectfully, work with others and persevere when tasks are difficult. These qualities motivate learners in ways that software cannot reproduce. A shy pupil who finally speaks in class because a teacher patiently encouraged her, for example, gains a confidence that no automated system would have inspired. Teachers also adapt lessons to the mood and needs of a particular class, something that a pre-programmed system cannot do.\n\nFurthermore, replacing teachers with technology would widen inequality and carry practical risks. Not every family can afford a modern device or a reliable internet connection, so children from low-income or rural households would fall further behind. Devices also offer endless temptations such as games and social media, and learners who study alone on a screen miss the discipline and immediate feedback that a teacher provides. Admittedly, technology can help with marking and practice, but this is a reason to use it as a tool, not as a substitute.\n\nIn conclusion, technology should complement rather than replace teachers, because education relies on human motivation, understanding and fairness that machines cannot provide.",
+  "analysis": {
+    "type_vi": "Agree / Disagree (extent): 'technology should replace human teachers' → phản đối mạnh",
+    "plan": [
+      {
+        "step": "1. Phản đối bằng hai lý do khác loại",
+        "think": "(1) bản chất dạy học là quan hệ con người, (2) rủi ro thực tế: bất bình đẳng và xao nhãng. Nhượng bộ ngắn: công nghệ giúp chấm bài và luyện tập nhưng là công cụ.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-strongly-disagree-with-this-view",
+          "FR-open-it-is-sometimes-suggested-that"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — quan hệ con người",
+        "think": "Ý mới: giáo viên nhận ra bối rối, lo âu, hoàn cảnh gia đình, động viên đúng lúc, làm hình mẫu. Tái dùng cụm 'adjust an explanation instantly' của đề 18.",
+        "refs": [
+          "ID-teacher-human",
+          "PH-read-confusion",
+          "PH-role-model-persevere",
+          "EX-shy-pupil-encouraged",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — bất bình đẳng và xao nhãng (tái dùng)",
+        "think": "Tái dùng nguyên hai ý: khoảng cách số (thiếu thiết bị / internet) và xao nhãng khi học một mình. Kết bằng câu 'công cụ chứ không thay thế'.",
+        "refs": [
+          "ID-edtech-divide",
+          "ID-edtech-distraction",
+          "PH-endless-temptations",
+          "PH-complement-not-replace",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-teacher-human",
+      "PH-role-model-persevere",
+      "EX-shy-pupil-encouraged"
+    ]
+  },
+  "revisionNote": "Thêm 1 câu (giáo viên điều chỉnh bài học theo không khí lớp) để vượt 250 từ an toàn."
+}

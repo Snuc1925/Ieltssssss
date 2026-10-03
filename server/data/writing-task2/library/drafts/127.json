@@ -1,0 +1,45 @@
+{
+  "questionId": 127,
+  "text": "As online degrees and courses multiply, some people complain that they are overpriced. I disagree with this view, since online education generally costs learners far less than campus study and offers a flexibility that more than justifies the fees that remain.\n\nTo begin with, online study is often considerably cheaper than the traditional alternative. Learners avoid expenses such as commuting, accommodation and printed textbooks, while institutions save on buildings and staff because one recorded lecture can reach thousands of students, so fees can be kept lower. Many platforms also offer free introductory courses or monthly subscriptions that cost a fraction of a university term. A university course delivered online, for example, may cost a fraction of its on-campus equivalent.\n\nFurthermore, the flexibility of online learning adds real value for money. Students can attend lessons from any location, replay difficult explanations and study around jobs or family responsibilities, so they do not have to give up their income to gain a qualification. People who would otherwise be excluded, such as rural residents and working parents, are able to study at all. Learners who study part-time can even spread payments over several months, which makes qualifications affordable to people on modest incomes. Admittedly, a few commercial providers charge high fees for little teaching support, and learners should check accreditation, tutor access and graduate outcomes before paying. Such cases, however, are exceptions rather than the rule, and they do not justify the claim that online education as a whole is overpriced.\n\nIn conclusion, I do not agree that online education is overpriced, because it lowers costs for both learners and institutions while widening access to qualifications.",
+  "analysis": {
+    "type_vi": "Agree / Disagree: 'online education is overpriced' → phản đối",
+    "plan": [
+      {
+        "step": "1. Hiểu từ khoá 'overpriced'",
+        "think": "Phải nói về GIÁ so với GIÁ TRỊ: lý do 1 là chi phí thấp hơn (cho cả người học lẫn trường), lý do 2 là giá trị nhận được (linh hoạt, tiếp cận). Nhượng bộ: một số nhà cung cấp thương mại thật sự đắt.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view",
+          "FR-open-it-is-sometimes-suggested-that"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — chi phí thấp hơn",
+        "think": "Tái dùng ý chi phí học online từ đề 13 (đi lại, chỗ ở, giáo trình) và thêm ý mới: một bài giảng ghi hình phục vụ hàng nghìn người.",
+        "refs": [
+          "ID-online-cost",
+          "PH-save-costs",
+          "PH-fraction-of-cost",
+          "SY-cheap",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — giá trị nhận được + nhượng bộ",
+        "think": "Tái dùng ý linh hoạt / tiếp cận; thừa nhận vài nhà cung cấp thương mại đắt rồi dùng 'exceptions rather than the rule'.",
+        "refs": [
+          "ID-edtech-access",
+          "PH-accreditation",
+          "PH-exceptions-not-rule",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      }
+    ],
+    "newEntries": [
+      "PH-fraction-of-cost",
+      "PH-accreditation"
+    ]
+  },
+  "revisionNote": "Thêm 1 câu (trả góp học phí) để vượt 250 từ an toàn."
+}

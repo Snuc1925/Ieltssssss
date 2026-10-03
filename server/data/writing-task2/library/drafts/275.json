@@ -1,0 +1,43 @@
+{
+  "questionId": 275,
+  "text": "Some educators argue that requiring all pupils to wear the same uniform promotes equality among students. I largely agree, since uniforms hide visible differences in family wealth and reduce the pressure to compete over clothing, but they cannot remove deeper inequalities.\n\nTo begin with, a common uniform masks differences in income that would otherwise be obvious. Without it, pupils from wealthy families can arrive in expensive branded clothes, while those from low-income households may feel embarrassed by worn or secondhand items, and this contrast is a frequent cause of teasing and bullying. When everyone dresses the same, children are judged by their behaviour and effort rather than by labels, and over time this atmosphere of equal treatment helps pupils from different backgrounds to become friends. A pupil who cannot afford fashionable trainers, for example, no longer stands out as different.\n\nFurthermore, uniforms ease the financial burden on families. Parents no longer face constant demands for the latest fashion, and a few durable items cost less than a wardrobe of everyday clothes, so households with limited budgets are spared an unfair expense. Pupils also gain a stronger sense of belonging, which supports cooperation across social groups. Nevertheless, uniforms have limits. Good-quality uniforms can themselves be expensive, and equality in appearance does not remove inequality in resources, home support or opportunity. They should therefore be affordable and supported by subsidies for poorer families, such as loan schemes for pupils whose households face financial hardship.\n\nIn conclusion, I believe that uniforms promote equality to a large extent by concealing wealth and reducing competition, although genuine equality also requires fair funding and support.",
+  "analysis": {
+    "type_vi": "Extent: 'standardized uniforms improve student equality' → largely agree (khác đề 155 ở trọng tâm: bình đẳng chứ không phải kỷ luật)",
+    "plan": [
+      {
+        "step": "1. Phân biệt với đề 155",
+        "think": "Cùng chủ đề đồng phục nhưng từ khoá khác (equality). Dùng ý che khác biệt giàu nghèo làm ý chính, ý tiết kiệm cho gia đình làm ý thứ hai; ý kỷ luật không dùng ở đây.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — che khác biệt thu nhập",
+        "think": "Giảm xấu hổ, trêu chọc, bắt nạt vì quần áo; trẻ được đánh giá qua hành vi. Tái dùng ví dụ giày thể thao theo hướng bình đẳng.",
+        "refs": [
+          "ID-uniform-equality",
+          "PH-mask-income",
+          "SY-poor",
+          "SY-rich",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Đỡ gánh nặng tài chính cho gia đình; sau đó 'Nevertheless' nêu giới hạn: đồng phục có thể đắt và không xoá bất bình đẳng sâu hơn, nên cần trợ giá.",
+        "refs": [
+          "PH-sense-of-belonging",
+          "PH-deepen-inequalities",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-uniform-equality",
+      "PH-mask-income"
+    ]
+  },
+  "revisionNote": "Thêm 2 câu để vượt 250 từ an toàn (bản đầu 242 từ)."
+}

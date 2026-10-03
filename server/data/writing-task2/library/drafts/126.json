@@ -1,0 +1,56 @@
+{
+  "questionId": 126,
+  "text": "Final examinations have long dominated education, but a growing number of educators argue that they should give way to continuous assessment. I largely agree with this view, since assessment spread over the year measures learning more fairly and puts less pressure on students.\n\nTo begin with, continuous assessment tracks progress over time and rewards steady work instead of last-minute cramming. Coursework, projects, presentations and regular quizzes show what a student can do in different situations, whereas a single paper mainly rewards memory and speed under timed conditions. Teachers can also give feedback while there is still time to improve, so assessment becomes part of learning rather than its conclusion. A pupil who struggles with fractions in October, for example, can be helped immediately instead of discovering the problem in a final paper the following summer.\n\nFurthermore, replacing high-stakes exams would reduce the excessive pressure that damages wellbeing and distorts results. When one afternoon decides a young person's future, anxiety, illness or a bad day can lower the performance of even very capable candidates, and pupils whose families can afford private tutors enjoy a clear advantage. Spreading assessment over many months makes results more reliable and fairer. Admittedly, coursework brings its own risks, such as plagiarism, extra workload for teachers and inconsistent marking, so it needs clear moderation rules and perhaps a short final test to verify the work. These problems are manageable, however, and do not outweigh the benefits.\n\nIn conclusion, I believe that continuous assessment should largely replace final examinations because it is fairer, less stressful and more useful for learning, provided that it is carefully moderated.",
+  "analysis": {
+    "type_vi": "Agree / Disagree (extent): 'examinations should be replaced by continuous assessment' → largely agree + điều kiện",
+    "plan": [
+      {
+        "step": "1. Lập trường và khung",
+        "think": "Đề hỏi mức độ đồng ý nên chọn 'largely agree' và để một câu nhượng bộ về rủi ro của coursework. Hai lý do khác loại: (1) học đều và phản hồi, (2) giảm áp lực và bất công.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — theo dõi tiến bộ",
+        "think": "Ý mới riêng cho đánh giá liên tục; đối lập với thi một bài (tái dùng ý 'thưởng trí nhớ và tốc độ' từ đề 66). Ví dụ phân số tháng 10.",
+        "refs": [
+          "ID-continuous-assess",
+          "ID-exam-narrow",
+          "PH-cramming",
+          "PH-feedback-in-time",
+          "EX-fractions-october",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — áp lực và công bằng (tái dùng)",
+        "think": "Tái dùng nguyên ý 'áp lực làm sai lệch kết quả, gia sư tạo bất công' của đề 66 nhưng chuyển thành lập luận ủng hộ phương án thay thế.",
+        "refs": [
+          "ID-exam-pressure-bias",
+          "PH-high-stakes",
+          "PH-tutor-advantage",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Nhượng bộ + điều kiện",
+        "think": "Thừa nhận gian lận, khối lượng cho giáo viên, chấm không nhất quán rồi đề xuất quy tắc kiểm duyệt và bài kiểm tra ngắn cuối kỳ.",
+        "refs": [
+          "FR-concede-cost",
+          "PH-moderation",
+          "CN-concession-admittedly",
+          "PH-insurmountable"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-continuous-assess",
+      "PH-cramming",
+      "PH-feedback-in-time",
+      "PH-moderation",
+      "EX-fractions-october"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "questionId": 155,
+  "text": "Many schools around the world require pupils to wear uniforms, partly in the belief that they improve discipline. I largely agree with this view, since uniforms reduce distractions and encourage a shared sense of responsibility, although they are only one part of good discipline.\n\nTo begin with, uniforms remove many sources of distraction and conflict. When everyone dresses alike, pupils spend less time competing over fashionable brands or being judged for what they wear, and teachers spend less time enforcing complicated dress codes. Attention can therefore shift towards lessons. A single, clear dress standard is also easy to enforce, so pupils know exactly where the boundaries lie. Uniforms also make it easy to recognise outsiders on school grounds, which helps staff to maintain safety and order. A school in which pupils arrive in expensive trainers and designer jackets, for example, often has to deal with comparisons, teasing and even theft.\n\nFurthermore, wearing a uniform fosters a sense of belonging and responsibility. Pupils who represent their school in a recognisable outfit tend to behave more carefully in public, because their conduct reflects on the whole community, and they learn to follow rules as a routine part of the day. These habits of punctuality, neatness and respect carry over into later life. However, uniforms alone cannot create discipline. Clear expectations, consistent consequences and good relationships with teachers matter more, and uniforms that are costly or uncomfortable may breed resentment instead.\n\nIn conclusion, I largely agree that uniforms support discipline by reducing distraction and strengthening group identity, provided that they are affordable and combined with fair, consistent school rules.",
+  "analysis": {
+    "type_vi": "Extent: 'school uniforms improve discipline' → largely agree + giới hạn",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "'To what extent' nên chọn 'largely agree' và nói rõ giới hạn: đồng phục chỉ là một phần của kỷ luật.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bớt xao nhãng và xung đột",
+        "think": "Cơ chế: bớt cạnh tranh nhãn hiệu, giáo viên bớt phải kiểm tra quy định ăn mặc, dễ nhận ra người lạ. Ví dụ trường học đầy giày đắt tiền.",
+        "refs": [
+          "ID-uniform-discipline",
+          "PH-brand-competition",
+          "EX-expensive-trainers",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — cảm giác thuộc về + giới hạn",
+        "think": "Học sinh đại diện cho trường nên cư xử cẩn thận hơn; thói quen đúng giờ, gọn gàng, tôn trọng lan sang đời sống. Sau đó 'However' để giới hạn: kỷ luật còn cần kỳ vọng rõ, hậu quả nhất quán, quan hệ tốt.",
+        "refs": [
+          "PH-sense-of-belonging",
+          "PH-carry-over",
+          "ID-hw-discipline-rebuttal",
+          "CN-nextPoint-furthermore"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-uniform-discipline",
+      "PH-brand-competition",
+      "PH-sense-of-belonging",
+      "EX-expensive-trainers"
+    ]
+  },
+  "revisionNote": "Thêm 1 câu để vượt 250 từ an toàn (bản đầu 248 từ)."
+}
