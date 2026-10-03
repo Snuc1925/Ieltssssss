@@ -1,0 +1,689 @@
+{
+  "version": 1,
+  "note": "Thu vien dung chung: the y (cards), tu dien cum (phraseBank), tu thay the (upgrades). Slot: {act} = cum danh dong (gerund) lam chu ngu, {who} = nhom nguoi (so nhieu), {problem} = cum danh tu van de. {field} = linh vuc (mac dinh education).",
+  "cards": {
+    "P1": {
+      "kind": "pro",
+      "label": "Kỹ năng việc làm và kinh tế",
+      "short": "stronger job prospects and economic growth",
+      "pred": "builds the job-ready skills that employers look for",
+      "s": [
+        "{act} equips {who} with the competencies that modern employers actively seek.",
+        "Today's labour market rewards individuals who combine solid knowledge with adaptability and initiative, and such an approach nurtures precisely these qualities.",
+        "As a result, graduates are better placed to secure stable, well-paid employment, which in turn boosts productivity and drives long-term economic growth.",
+        "Employers also spend less on retraining new recruits, which makes the country a more attractive destination for investment."
+      ],
+      "ex": "A case in point is South Korea, whose sustained investment in schooling underpinned its rise to a high-income economy."
+    },
+    "P2": {
+      "kind": "pro",
+      "label": "Cơ hội bình đẳng, thăng tiến xã hội",
+      "short": "greater equality of opportunity",
+      "pred": "narrows the gap between rich and poor",
+      "s": [
+        "{act} plays a pivotal role in levelling the playing field between wealthy and disadvantaged families.",
+        "Without adequate public support, quality learning tends to become a privilege reserved for those who can afford it, leaving talented children from poorer backgrounds with limited prospects.",
+        "When opportunities are widely accessible, young people can progress on merit rather than family wealth, which narrows the social divide and strengthens social mobility.",
+        "In this way, talent is discovered wherever it exists, instead of being wasted through lack of funds."
+      ],
+      "ex": "Finland's free, publicly funded system, which delivers consistently strong results regardless of family income, illustrates this effect."
+    },
+    "P3": {
+      "kind": "pro",
+      "label": "Phát triển toàn diện, sức khỏe tinh thần",
+      "short": "healthier all-round development",
+      "pred": "nurtures well-rounded and confident individuals",
+      "s": [
+        "{act} contributes to the all-round development of {who}, not merely their academic results.",
+        "Experiences of this kind nurture creativity, self-confidence and emotional resilience, qualities that conventional lessons often neglect.",
+        "Learners who feel motivated and mentally balanced tend to concentrate better and perform more consistently across the curriculum.",
+        "Schools that value this wider growth therefore produce graduates who are healthier in mind as well as stronger in exams."
+      ],
+      "ex": "For instance, a pupil who gains confidence by performing in a school concert is likely to speak up more readily in other lessons."
+    },
+    "P4": {
+      "kind": "pro",
+      "label": "Giá trị xã hội, làm việc nhóm",
+      "short": "stronger social values",
+      "pred": "fosters responsibility and respect for others",
+      "s": [
+        "{act} fosters social and moral values that classroom lessons alone rarely instil.",
+        "Through teamwork, shared responsibility and contact with peers who hold different viewpoints, {who} learn to cooperate, show tolerance and respect rules.",
+        "These habits carry over into adult life, producing citizens who are more considerate and more willing to contribute to their communities.",
+        "Such an environment also lowers the risk of bullying and exclusion, because pupils learn early to value one another."
+      ],
+      "ex": "For example, pupils who complete a group project learn to negotiate disagreements rather than avoid them."
+    },
+    "P5": {
+      "kind": "pro",
+      "label": "Tư duy phản biện, hiểu sâu",
+      "short": "deeper critical thinking",
+      "pred": "promotes independent and critical thinking",
+      "s": [
+        "{act} encourages {who} to think analytically instead of merely memorising facts.",
+        "When learners are expected to question, compare and justify their ideas, they grasp concepts more thoroughly and retain them for far longer.",
+        "This capacity for independent reasoning is invaluable at university and in the workplace, where problems rarely come with a ready-made answer.",
+        "Employers and universities alike prize graduates who can evaluate evidence critically instead of simply repeating it."
+      ],
+      "ex": "A student who has debated a social issue in class, for instance, will find it easier to construct a coherent argument in an essay or a meeting."
+    },
+    "P6": {
+      "kind": "pro",
+      "label": "Linh hoạt, dễ tiếp cận (công nghệ/online)",
+      "short": "greater flexibility and access",
+      "pred": "makes study flexible and widely accessible",
+      "s": [
+        "{act} makes learning considerably more flexible and accessible.",
+        "With a laptop and an internet connection, {who} are able to attend lessons from remote areas, revisit recorded explanations and study at times that suit their personal circumstances.",
+        "This convenience widens participation, particularly among working adults, rural residents and people with health conditions who might otherwise be excluded.",
+        "At the same time, institutions are able to serve far larger cohorts without constructing additional buildings."
+      ],
+      "ex": "Platforms such as Coursera and Khan Academy, for example, now offer university-level material to millions of users free of charge."
+    },
+    "P7": {
+      "kind": "pro",
+      "label": "Cá nhân hóa việc học",
+      "short": "more personalised support",
+      "pred": "tailors teaching to individual needs",
+      "s": [
+        "{act} allows teaching to be tailored to the needs of each individual learner.",
+        "In a crowded classroom, a teacher rarely has time to adjust the pace for every child, whereas adaptive software or one-to-one guidance can pinpoint weaknesses and offer targeted practice.",
+        "Consequently, struggling students receive timely support while quicker learners are stretched, so overall progress becomes noticeably more even.",
+        "Teachers, freed from repetitive marking, are then able to devote more attention to discussion and encouragement."
+      ],
+      "ex": "A pupil who repeatedly makes the same grammar mistake, for instance, receives tailored exercises the same day instead of waiting weeks for feedback."
+    },
+    "P8": {
+      "kind": "pro",
+      "label": "Tầm nhìn toàn cầu, ngôn ngữ, văn hóa",
+      "short": "a wider global outlook",
+      "pred": "opens doors in a globalised job market",
+      "s": [
+        "{act} broadens the horizons of {who} and prepares them for an increasingly interconnected world.",
+        "Exposure to other languages and cultures builds communication skills and open-mindedness, both of which multinational employers value highly.",
+        "It also weakens prejudice, since people who understand different traditions are less likely to rely on stereotypes.",
+        "In the long run, such connections between nations also strengthen trade, tourism and diplomatic goodwill."
+      ],
+      "ex": "For example, a graduate who is fluent in two languages may apply for roles in several countries, which multiplies their career options."
+    },
+    "P9": {
+      "kind": "pro",
+      "label": "Lợi ích xã hội (sức khỏe, tội phạm)",
+      "short": "wider benefits for health and public safety",
+      "pred": "brings wider benefits for public health and community safety",
+      "s": [
+        "Beyond personal advancement, {act} brings wider benefits to society as a whole.",
+        "Educated individuals are statistically more inclined to make healthier lifestyle choices and less prone to criminal behaviour.",
+        "This ultimately yields safer communities and eases the burden on healthcare and law enforcement, freeing public money for other priorities.",
+        "Society therefore recoups a sizeable part of what it spends, often many times over."
+      ],
+      "ex": "A community in which most residents have completed secondary school, for example, typically reports lower crime and healthier habits."
+    },
+    "P10": {
+      "kind": "pro",
+      "label": "Tiết kiệm chi phí",
+      "short": "lower costs",
+      "pred": "reduces costs for learners and providers",
+      "s": [
+        "{act} is often considerably cheaper than the traditional alternative.",
+        "Learners avoid expenses such as commuting, accommodation and printed textbooks, while institutions save on buildings and staff, so fees can be kept lower.",
+        "The same content therefore reaches far more people at a fraction of the price.",
+        "Savings of this kind can be redirected towards better materials or extra support for struggling learners."
+      ],
+      "ex": "A university course delivered online, for example, may cost a fraction of its on-campus equivalent."
+    },
+    "P11": {
+      "kind": "pro",
+      "label": "Chuẩn đánh giá khách quan, tạo động lực",
+      "short": "a fair, objective standard",
+      "pred": "gives a clear and objective measure of achievement",
+      "s": [
+        "{act} provides a clear and objective standard of achievement.",
+        "Standardised results allow teachers, parents and employers to compare performance fairly, and the prospect of an exam motivates many students to revise systematically.",
+        "Without such benchmarks, standards could vary widely from school to school.",
+        "Employers and universities can also treat grades as a trustworthy signal of what a candidate has actually mastered."
+      ],
+      "ex": "A national examination, for instance, lets a university compare applicants from different regions on equal terms."
+    },
+    "P12": {
+      "kind": "pro",
+      "label": "An ninh, trật tự công cộng",
+      "short": "public safety",
+      "pred": "protects public safety",
+      "s": [
+        "{act} safeguards public safety, which is the foundation of everyday life.",
+        "Residents who feel secure are more likely to work, invest and send their children to school, whereas high crime discourages business and drives people away.",
+        "Visible, well-resourced policing can therefore deter offences before they occur and shorten emergency response times.",
+        "Confidence in public safety, in turn, encourages investment and keeps communities cohesive."
+      ],
+      "ex": "A neighbourhood with regular patrols, for instance, tends to experience fewer break-ins."
+    },
+    "C1": {
+      "kind": "con",
+      "label": "Chi phí công, chi phí cơ hội",
+      "short": "high public cost",
+      "pred": "drains limited public funds",
+      "s": [
+        "{act} would demand considerable public funds, and these are never unlimited.",
+        "Governments must also finance hospitals, transport and social care, so every extra pound committed to one area inevitably leaves less for the others.",
+        "Unless the benefits are clearly proven, such spending is difficult to justify and may offer poor value for taxpayers.",
+        "Poorer regions, which can least afford such expenditure, would be the first to feel the strain."
+      ],
+      "ex": "A new national programme, for instance, can cost millions before a single pupil sees any improvement."
+    },
+    "C2": {
+      "kind": "con",
+      "label": "Chương trình quá tải, thiếu thời gian",
+      "short": "an overcrowded timetable",
+      "pred": "overloads an already crowded timetable",
+      "s": [
+        "{act} risks overloading a timetable that is already full.",
+        "Schools have only a limited number of hours each week, so adding new demands inevitably reduces the time available for core subjects such as literacy, mathematics and science.",
+        "As a result, pupils may end up with a superficial understanding of many topics instead of a solid grasp of the essentials.",
+        "Teachers would also face pressure to cover more material without any extension of lesson time."
+      ],
+      "ex": "A teacher who must squeeze one more compulsory unit into the term, for example, will have to hurry through material that students find difficult."
+    },
+    "C3": {
+      "kind": "con",
+      "label": "Áp lực, căng thẳng, kiệt sức",
+      "short": "excessive pressure on learners",
+      "pred": "puts excessive pressure on learners",
+      "s": [
+        "{act} tends to place {who} under excessive and prolonged pressure.",
+        "Constant deadlines, comparison with classmates and fear of failure often lead to anxiety, sleepless nights and, in severe cases, burnout.",
+        "Under such strain, learners gradually lose their curiosity and motivation, which undermines the very results the system is trying to achieve.",
+        "Left unchecked, chronic stress may even damage physical and mental health well beyond the school years."
+      ],
+      "ex": "South Korea, where competition for exam results is intense, has long struggled with high stress levels among its teenagers."
+    },
+    "C4": {
+      "kind": "con",
+      "label": "Xao nhãng, thiếu tương tác trực tiếp",
+      "short": "distraction and reduced human contact",
+      "pred": "invites distraction and weakens human contact",
+      "s": [
+        "{act} carries the danger of distraction and reduced human contact.",
+        "Devices offer endless temptations such as games and social media, and learners who study alone on a screen miss the encouragement, discipline and immediate feedback that a face-to-face teacher provides.",
+        "Over time, this may weaken concentration as well as communication skills, both of which are essential for study and work.",
+        "Teachers, meanwhile, spend valuable lesson time managing devices instead of explaining ideas."
+      ],
+      "ex": "A student who is supposed to be watching an online lecture, for instance, may find it all too easy to switch to a video platform instead."
+    },
+    "C5": {
+      "kind": "con",
+      "label": "Khoảng cách số, bất bình đẳng",
+      "short": "deeper inequality",
+      "pred": "widens existing inequalities",
+      "s": [
+        "{act} may deepen existing inequalities.",
+        "Not every family can afford a modern device or a reliable internet connection, so children from low-income or rural households are likely to fall further behind.",
+        "Instead of narrowing the gap, such reliance on technology risks creating a two-tier system in which advantage is determined by wealth.",
+        "The very pupils who most need support are therefore the ones least likely to receive it."
+      ],
+      "ex": "During school closures, for example, many pupils without a laptop at home struggled to follow lessons at all."
+    },
+    "C6": {
+      "kind": "con",
+      "label": "Trách nhiệm của gia đình, nhà nước can thiệp",
+      "short": "intrusion into family matters",
+      "pred": "intrudes on matters that belong to the family",
+      "s": [
+        "{act} intrudes on matters that arguably belong to the family.",
+        "Parents are best placed to pass on their own values, beliefs and financial habits, and these differ widely between households.",
+        "When the state steps in, it may clash with parental wishes and weaken the sense of personal accountability that young people need to develop.",
+        "Public money would be better spent on ensuring that families have the resources to fulfil this role themselves."
+      ],
+      "ex": "A family with strong religious convictions, for instance, may object to a standardised lesson on the subject."
+    },
+    "C7": {
+      "kind": "con",
+      "label": "Đánh giá hẹp, học vẹt",
+      "short": "a narrow measure of ability",
+      "pred": "gives only a narrow picture of ability",
+      "s": [
+        "{act} gives only a narrow picture of ability.",
+        "Such assessments mainly reward memory and speed under timed conditions, while creativity, teamwork and practical skills go unmeasured.",
+        "Consequently, talented individuals who simply perform poorly in exam halls may be unfairly labelled as weak, and teaching tends to drift towards test preparation.",
+        "A fairer picture would combine several forms of evidence gathered over a longer period."
+      ],
+      "ex": "A gifted artist or entrepreneur, for example, may leave school with unimpressive grades despite exceptional real-world potential."
+    },
+    "C8": {
+      "kind": "con",
+      "label": "Gánh nặng tài chính, cảm xúc cá nhân",
+      "short": "heavy financial and emotional costs",
+      "pred": "places a heavy financial and emotional burden on individuals",
+      "s": [
+        "{act} places a heavy burden on individuals, both financially and emotionally.",
+        "Tuition, accommodation and living expenses can consume a family's savings, while unfamiliar surroundings leave some students isolated and struggling.",
+        "Consequently, those who cannot cope may finish with debts and disappointing results instead of the advantages they had anticipated.",
+        "Such pressure is hard to justify when less costly alternatives are available."
+      ],
+      "ex": "A student who borrows heavily to study overseas, for instance, may spend years repaying the loan."
+    },
+    "C9": {
+      "kind": "con",
+      "label": "Cô lập xã hội",
+      "short": "social isolation",
+      "pred": "risks social isolation",
+      "s": [
+        "{act} risks leaving {who} socially isolated.",
+        "School is where children learn to make friends, resolve disagreements and work in groups, and studying mostly at home limits these everyday interactions.",
+        "Without such experience, some may struggle with confidence and teamwork later in life.",
+        "Parents who teach at home, however dedicated, can seldom replicate the diversity of a school community."
+      ],
+      "ex": "A child taught entirely at home, for instance, may find a first job interview or group project unusually daunting."
+    },
+    "C10": {
+      "kind": "con",
+      "label": "Thiếu chuyên môn, cơ sở vật chất",
+      "short": "limited expertise and facilities",
+      "pred": "cannot match the expertise and facilities of schools",
+      "s": [
+        "{act} cannot match the expertise and facilities that schools provide.",
+        "Few parents are qualified to teach every subject to a high standard, and laboratories, sports grounds and specialist equipment are rarely available at home.",
+        "As a result, pupils may leave with gaps in their knowledge that are difficult to repair later.",
+        "Few families can afford the private tutors needed to fill every gap."
+      ],
+      "ex": "A parent with no scientific background, for example, may struggle to guide a teenager through chemistry experiments."
+    },
+    "C12": {
+      "kind": "con",
+      "label": "Gánh nặng cho giáo viên",
+      "short": "heavy demands on teachers",
+      "pred": "places considerable demands on teachers",
+      "s": [
+        "{act} places considerable demands on teachers.",
+        "Staff must prepare materials in several languages, hold advanced language qualifications and adapt lessons for pupils at very different levels, all within the same working day.",
+        "Without extra training and support, this additional workload leaves many teachers exhausted and weakens the quality of lessons.",
+        "Over time, this pressure contributes to high staff turnover and a shortage of experienced instructors."
+      ],
+      "ex": "A science teacher required to deliver chemistry in a second language, for example, must first master the specialist vocabulary herself."
+    },
+    "K1": {
+      "kind": "cause",
+      "label": "Thiếu ngân sách",
+      "short": "underfunding",
+      "s": [
+        "Chronic underfunding is a major contributor to {problem}.",
+        "When budgets are tight, schools cannot recruit enough qualified staff, maintain their buildings or purchase up-to-date materials.",
+        "The resulting strain on existing resources makes the situation steadily worse.",
+        "Ultimately, it is pupils from the poorest areas who suffer most from this neglect."
+      ]
+    },
+    "K2": {
+      "kind": "cause",
+      "label": "Quá tải công việc, lương thấp",
+      "short": "heavy workloads and low pay",
+      "s": [
+        "Heavy workloads combined with modest pay are a significant source of {problem}.",
+        "Teachers who face long hours, endless paperwork and relatively low salaries often feel undervalued and exhausted, and many either leave the profession or never enter it.",
+        "This vicious circle leaves the remaining staff with even more to handle.",
+        "Recruitment becomes harder year by year, and standards inevitably slip."
+      ]
+    },
+    "K3": {
+      "kind": "cause",
+      "label": "Hoàn cảnh kinh tế, xã hội khó khăn",
+      "short": "social and economic disadvantage",
+      "s": [
+        "Social and economic disadvantage lies behind {problem} in many communities.",
+        "Children from low-income households often lack a quiet place to study, adequate nutrition or parental support, which holds back their attainment from an early age.",
+        "Without outside assistance, these gaps tend to widen as the years pass.",
+        "Such inequality at the starting line is extremely difficult to correct later."
+      ]
+    },
+    "K4": {
+      "kind": "cause",
+      "label": "Rào cản tài chính (học phí, chi phí sống)",
+      "short": "financial barriers",
+      "s": [
+        "Financial barriers play a substantial part in {problem}.",
+        "Rising tuition fees, living costs and the loss of income while studying discourage many people from continuing their education or push them into heavy borrowing.",
+        "This is particularly true for those from modest backgrounds.",
+        "As a result, talented people are lost to education simply because they cannot afford it."
+      ]
+    },
+    "K5": {
+      "kind": "cause",
+      "label": "Thiếu nhận thức, động lực, định kiến",
+      "short": "low awareness and motivation",
+      "s": [
+        "Low awareness and motivation contribute to {problem}.",
+        "Where people see little connection between study and tangible rewards, or are held back by stereotypes and busy schedules, they simply do not engage.",
+        "Women in technical fields and working adults with family commitments are typical examples.",
+        "Unless attitudes shift, even generous provision will go unused."
+      ]
+    },
+    "K6": {
+      "kind": "cause",
+      "label": "Áp lực học tập, cạnh tranh",
+      "short": "intense academic pressure",
+      "s": [
+        "Intense academic pressure is a leading cause of {problem}.",
+        "Heavy workloads, frequent deadlines and competition for good grades leave little time for rest, and students fear that poor results will damage their career prospects.",
+        "The constant strain accumulates over months and eventually affects both health and performance.",
+        "In the worst cases, it drives students to abandon their courses altogether."
+      ]
+    },
+    "K7": {
+      "kind": "cause",
+      "label": "Dân số tăng, di cư đô thị",
+      "short": "rapid population growth",
+      "s": [
+        "Rapid population growth and urban migration contribute to {problem}.",
+        "When families move to cities faster than new schools are built, existing classrooms must absorb additional children.",
+        "Over time, this pushes class sizes well beyond a manageable level.",
+        "The quality of teaching inevitably suffers when each pupil receives less individual attention."
+      ]
+    },
+    "S1": {
+      "kind": "solution",
+      "label": "Tăng đầu tư, xây dựng",
+      "short": "greater investment",
+      "s": [
+        "Governments should commit more funding to {field}, since this tackles the problem at its source.",
+        "Extra money can be channelled into recruiting teachers, constructing classrooms and modernising equipment, which relieves pressure where it is felt most.",
+        "Over time, such investment pays for itself through a better-educated and more productive workforce.",
+        "Public confidence in the system is likely to rise as visible improvements follow."
+      ]
+    },
+    "S2": {
+      "kind": "solution",
+      "label": "Ưu đãi, đào tạo, lộ trình nghề nghiệp",
+      "short": "attractive incentives",
+      "s": [
+        "Authorities should offer attractive incentives such as higher salaries, scholarships and structured career pathways.",
+        "Such measures encourage talented individuals to enter and remain in the field, and ongoing training keeps them confident in their roles.",
+        "A stable, motivated workforce in turn raises standards for everyone.",
+        "Retention improves as well, because satisfied professionals are less inclined to leave."
+      ]
+    },
+    "S3": {
+      "kind": "solution",
+      "label": "Linh hoạt, chi phí thấp, hỗ trợ tài chính",
+      "short": "flexible and affordable provision",
+      "s": [
+        "Provision should be made more flexible and affordable.",
+        "Subsidised fees, evening and online courses, and grants towards living costs allow people with limited money or time to participate without sacrificing their income.",
+        "Barriers fall as a result, and participation rises among groups that were previously excluded.",
+        "Society benefits twice over, from higher qualifications and from the extra tax paid by better-paid workers."
+      ]
+    },
+    "S4": {
+      "kind": "solution",
+      "label": "Truyền thông, hình mẫu, tiếp xúc sớm",
+      "short": "awareness campaigns and role models",
+      "s": [
+        "Awareness campaigns and visible role models would change attitudes towards the subject.",
+        "Media campaigns, mentoring by successful professionals and early exposure through school clubs show young people that study leads to rewarding careers.",
+        "Once these links become clear, motivation tends to follow.",
+        "Over a generation, such campaigns can shift the national mindset more effectively than regulation."
+      ]
+    },
+    "S5": {
+      "kind": "solution",
+      "label": "Hỗ trợ tâm lý, giảm tải",
+      "short": "stronger support systems",
+      "s": [
+        "Stronger support systems would reduce the strain on both learners and staff.",
+        "Counselling services, mentoring schemes and reasonable limits on workload ensure that problems are identified early instead of escalating into crises.",
+        "Prevention of this kind is far less costly than dealing with the consequences later.",
+        "Healthier, better supported people also perform more consistently in their studies and jobs."
+      ]
+    },
+    "C13": {
+      "kind": "con",
+      "label": "Gian lận, bắt nạt, lạm dụng thiết bị",
+      "short": "misuse such as cheating and cyberbullying",
+      "pred": "invites misuse such as cheating and cyberbullying",
+      "s": [
+        "{act} exposes {who} to misuse, from cheating to cyberbullying.",
+        "Phones make it easy to cheat in tests, record classmates without consent or circulate hurtful messages, and teachers cannot monitor every screen at once.",
+        "A clear ban removes these temptations and gives schools a simple, enforceable rule.",
+        "Maintaining discipline in such an environment consumes energy that should be spent on teaching."
+      ],
+      "ex": "A student who photographs a test paper and shares it with friends, for example, undermines fairness for everyone."
+    },
+    "S6": {
+      "kind": "solution",
+      "label": "Phối hợp trường - gia đình - cộng đồng",
+      "short": "closer cooperation between schools and families",
+      "s": [
+        "Closer cooperation between schools, families and local organisations would reinforce these efforts.",
+        "Parents who model good habits at home, teachers who reinforce them in class and community groups that offer activities outside school together create a consistent environment.",
+        "When all three pull in the same direction, change becomes lasting rather than temporary.",
+        "Responsibility is then shared instead of falling on a single institution."
+      ]
+    }
+  },
+  "phraseBank": {
+    "openers": [
+      "It is widely argued that …",
+      "A growing number of people believe that …",
+      "Opinions are divided as to whether …",
+      "It is sometimes suggested that …",
+      "People hold different views on whether …"
+    ],
+    "stance": [
+      "I firmly agree with this view",
+      "I largely agree with this view",
+      "In my opinion, this is entirely justified",
+      "I disagree with this view",
+      "I strongly disagree with this view",
+      "both positions have their merits; nevertheless, I believe that …"
+    ],
+    "thesisFrame": [
+      "…, since {act} {pred} and {pred}.",
+      "…, as {act} {pred} and {pred}.",
+      "…, given that {act} {pred} and {pred}."
+    ],
+    "connectors": {
+      "firstPoint": [
+        "To begin with,",
+        "First and foremost,",
+        "On the one hand,",
+        "On the positive side,"
+      ],
+      "nextPoint": [
+        "Furthermore,",
+        "In addition,",
+        "Moreover,",
+        "On the other hand,",
+        "On the negative side,"
+      ],
+      "result": [
+        "As a result,",
+        "Consequently,",
+        "This ultimately yields …",
+        "Thus,"
+      ],
+      "example": [
+        "For instance,",
+        "For example,",
+        "A case in point is …",
+        "… illustrates this effect."
+      ],
+      "concession": [
+        "Admittedly,",
+        "Nevertheless,",
+        "That said,"
+      ],
+      "concluding": [
+        "In conclusion,",
+        "To sum up,",
+        "All things considered,",
+        "Taking everything into account,"
+      ]
+    },
+    "modals": [
+      "should",
+      "ought to",
+      "must",
+      "it would be wise to",
+      "it is advisable to"
+    ],
+    "synonyms": {
+      "government": [
+        "governments",
+        "authorities",
+        "policymakers",
+        "the state",
+        "national leaders"
+      ],
+      "school": [
+        "schools",
+        "educational institutions",
+        "the education system",
+        "classrooms"
+      ],
+      "student": [
+        "students",
+        "pupils",
+        "learners",
+        "young people",
+        "children",
+        "the younger generation"
+      ],
+      "teacher": [
+        "teachers",
+        "educators",
+        "instructors",
+        "school staff"
+      ],
+      "invest in": [
+        "allocate funds to",
+        "channel resources into",
+        "commit funding to",
+        "pour money into",
+        "prioritise spending on"
+      ],
+      "improve": [
+        "enhance",
+        "upgrade",
+        "strengthen",
+        "raise standards in",
+        "boost"
+      ],
+      "cause": [
+        "lead to",
+        "give rise to",
+        "result in",
+        "contribute to",
+        "trigger"
+      ],
+      "reduce": [
+        "alleviate",
+        "mitigate",
+        "curb",
+        "lessen",
+        "ease"
+      ],
+      "provide with": [
+        "equip with",
+        "furnish with",
+        "supply with",
+        "give access to"
+      ]
+    },
+    "upgrades": {
+      "can": [
+        "is able to",
+        "is capable of",
+        "enables … to",
+        "allows … to",
+        "may well"
+      ],
+      "help": [
+        "assist",
+        "enable",
+        "support",
+        "equip … with",
+        "contribute to"
+      ],
+      "increase": [
+        "boost",
+        "raise",
+        "expand",
+        "heighten",
+        "escalate",
+        "rise sharply"
+      ],
+      "important": [
+        "vital",
+        "essential",
+        "crucial",
+        "pivotal",
+        "indispensable",
+        "of great significance"
+      ],
+      "good": [
+        "beneficial",
+        "advantageous",
+        "favourable",
+        "worthwhile",
+        "valuable"
+      ],
+      "bad": [
+        "detrimental",
+        "harmful",
+        "damaging",
+        "adverse",
+        "counterproductive"
+      ],
+      "many": [
+        "numerous",
+        "a wide range of",
+        "a growing number of",
+        "a substantial proportion of"
+      ],
+      "big": [
+        "substantial",
+        "considerable",
+        "significant",
+        "far-reaching"
+      ],
+      "show": [
+        "demonstrate",
+        "illustrate",
+        "reveal",
+        "indicate",
+        "highlight"
+      ],
+      "think": [
+        "argue",
+        "contend",
+        "maintain",
+        "hold the view",
+        "be convinced"
+      ],
+      "problem": [
+        "issue",
+        "challenge",
+        "concern",
+        "difficulty",
+        "obstacle"
+      ],
+      "get": [
+        "obtain",
+        "acquire",
+        "secure",
+        "gain",
+        "attain"
+      ],
+      "because": [
+        "since",
+        "as",
+        "given that",
+        "owing to the fact that"
+      ],
+      "people": [
+        "individuals",
+        "citizens",
+        "members of the public",
+        "the population"
+      ]
+    }
+  }
+}
