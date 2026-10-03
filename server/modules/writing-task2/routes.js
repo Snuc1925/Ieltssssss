@@ -2,7 +2,7 @@ import { Router } from 'express';
 import { getQuestions, getQuestion } from './questionBank.js';
 import { getEssay, listSummaries, saveDraft, appendGrading, deleteEssay, summarize, countWords } from './essayStore.js';
 import { gradeEssay } from './grader.js';
-import { getStudy, setProgress } from './study.js';
+import { getLibrary, setProgress } from './library.js';
 
 const router = Router();
 const MAX_BODY_CHARS = 20000;
@@ -27,15 +27,15 @@ async function requireQuestion(req, res) {
   return question;
 }
 
-router.get('/study/education', async (_req, res, next) => {
+router.get('/library/education', async (_req, res, next) => {
   try {
-    res.json(await getStudy('education'));
+    res.json(await getLibrary('education'));
   } catch (err) {
     next(err);
   }
 });
 
-router.put('/study/progress/:id', async (req, res, next) => {
+router.put('/library/progress/:id', async (req, res, next) => {
   try {
     const id = parseId(req, res);
     if (!id) return;

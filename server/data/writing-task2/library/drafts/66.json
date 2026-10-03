@@ -1,0 +1,72 @@
+{
+  "questionId": 66,
+  "text": "Examinations have been the main way of judging students for generations, and some people claim that they give an accurate measure of intelligence. I strongly disagree with this view, since tests capture only a narrow range of abilities and their results are easily distorted by pressure and unequal preparation.\n\nTo begin with, relying on examinations gives only a narrow picture of ability. Written tests mainly reward memory and speed under timed conditions, while creativity, teamwork, leadership and practical skills go unmeasured. Consequently, talented individuals who simply perform poorly in exam halls may be unfairly labelled as weak, and teaching tends to drift towards test preparation instead of genuine understanding. Over time, such a system rewards the best-prepared pupils rather than the most capable ones. A gifted artist or entrepreneur, for example, may leave school with unimpressive grades despite exceptional real-world potential.\n\nFurthermore, exam results are heavily influenced by factors that have little to do with intelligence. High-stakes tests tend to place students under excessive and prolonged pressure, so anxiety, sleepless nights and fear of failure can lower the performance of even very capable candidates. In addition, pupils whose families can afford private tutors enjoy a clear advantage over equally able classmates who cannot. Admittedly, examinations provide a standard that is easy to compare, but being easy to compare is not the same as being accurate. Assessment that combines coursework, projects and presentations over a longer period would give a fairer and fuller picture of what each student can actually do.\n\nIn conclusion, I cannot accept that exams accurately measure intelligence, given their narrow focus and their sensitivity to stress and family wealth.",
+  "analysis": {
+    "type_vi": "Agree / Disagree: 'tests and exams accurately measure intelligence' → phản đối",
+    "plan": [
+      {
+        "step": "1. Phản đối bằng hai lý do khác loại",
+        "think": "Chọn disagree và hai lý do không trùng nhau: (1) bài thi đo hẹp (nội dung), (2) kết quả bị méo bởi áp lực và bất công (yếu tố ngoài trí tuệ). Cả hai đều bám vào chữ 'accurately' trong đề.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-strongly-disagree-with-this-view",
+          "FR-open-it-is-sometimes-suggested-that"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — đo hẹp",
+        "think": "Bài thi thưởng trí nhớ và tốc độ, bỏ qua sáng tạo, làm việc nhóm. Hệ quả: người giỏi bị gán 'yếu', việc dạy trượt sang luyện thi. Ví dụ nghệ sĩ/doanh nhân có điểm thấp nhưng tiềm năng cao.",
+        "refs": [
+          "ID-exam-narrow",
+          "PH-narrow-picture",
+          "PH-reward-memory-speed",
+          "PH-drift-test-prep",
+          "SY-test",
+          "SY-ability",
+          "EX-gifted-artist",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — áp lực và bất công",
+        "think": "Áp lực làm giảm điểm của cả người giỏi; gia đình có tiền thuê gia sư thì có lợi thế. Đây là ý chung với đề bài tập về nhà (áp lực, bất bình đẳng) nên diễn đạt tái sử dụng được.",
+        "refs": [
+          "ID-exam-pressure-bias",
+          "ID-hw-rest",
+          "PH-high-stakes",
+          "PH-tutor-advantage",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Nhượng bộ + đề xuất thay thế",
+        "think": "Thừa nhận ưu điểm duy nhất của thi cử (dễ so sánh) rồi phản bác bằng cấu trúc 'being easy to compare is not the same as being accurate'. Kết thúc đoạn bằng giải pháp (coursework, dự án) để bài có tính xây dựng.",
+        "refs": [
+          "FR-not-same-as",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "5. Kết bài",
+        "think": "Nhắc lại hai lý do bằng hai cụm danh từ (narrow focus, sensitivity to stress and family wealth).",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "FR-not-same-as",
+      "PH-narrow-picture",
+      "PH-reward-memory-speed",
+      "PH-drift-test-prep",
+      "PH-high-stakes",
+      "PH-tutor-advantage",
+      "SY-test",
+      "SY-ability",
+      "ID-exam-narrow",
+      "ID-exam-pressure-bias",
+      "EX-gifted-artist"
+    ]
+  },
+  "revisionNote": "Nới thêm 2 câu để bài chắc chắn trên 250 từ (bản đầu đúng 250 từ)."
+}

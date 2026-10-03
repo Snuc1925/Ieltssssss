@@ -1,0 +1,67 @@
+{
+  "questionId": 31,
+  "text": "Opinions are divided as to whether education should be the priority for public spending or whether other sectors deserve a larger share of the budget. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who put education first argue that it is the foundation of long-term national development. A well-funded school system produces graduates with the skills that modern industries require, which raises productivity, attracts investment and widens the tax base. Education also narrows the gap between rich and poor, since talented children from low-income families can progress on merit rather than family wealth. Countries that expanded access to schooling after the Second World War, such as South Korea, later enjoyed rapid economic growth.\n\nOn the other hand, critics point out that governments have limited funds and many equally urgent responsibilities. Hospitals, public transport, housing and social care all demand substantial investment, and a shortage of hospital beds or a failing road network can cost lives and damage the economy immediately. Moreover, spending more on education does not guarantee better results if money is wasted on poorly designed programmes, whereas a modest sum directed at the right area, such as healthcare for an ageing population, may bring greater benefit. A rural region with no emergency hospital, for example, has more pressing needs than new school equipment.\n\nIn conclusion, although other public services deserve adequate funding, I believe that education should come first, because a well-educated population ultimately generates the revenue and expertise that sustain every other service. Governments should, of course, continue to protect essential public services; the point is that long-term prosperity ultimately rests on the knowledge and skills of the people.",
+  "analysis": {
+    "type_vi": "Discuss both views: 'Is it better to focus government spending on education or on other priorities? Discuss and give your opinion.'",
+    "plan": [
+      {
+        "step": "1. Nhận diện dạng",
+        "think": "Dù đề viết dạng câu hỏi 'Is it better…?', yêu cầu 'Discuss and give your opinion' cho biết đây là dạng Discuss both views. Dùng đúng khung hai phe: phe ưu tiên giáo dục (thân bài 1), phe ưu tiên lĩnh vực khác (thân bài 2), ý kiến riêng ở kết bài.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether"
+        ]
+      },
+      {
+        "step": "2. Phe 1 — ưu tiên giáo dục (tái sử dụng bài đề 1)",
+        "think": "Không phải nghĩ ý mới: dùng lại hai ý đã có trong thư viện (kỹ năng → kinh tế, bất bình đẳng) nhưng diễn đạt bằng từ khác (widen the tax base, low-income families, progress on merit) và thêm vế thu thuế để hợp với chủ đề 'chi tiêu công'. Ví dụ Hàn Quốc dùng bản biến thể.",
+        "refs": [
+          "ID-edu-economy-skills",
+          "ID-edu-equality-mobility",
+          "PH-foundation-development",
+          "PH-widen-tax-base",
+          "PH-progress-merit",
+          "SY-poor",
+          "SY-invest-heavily",
+          "EX-post-war-korea",
+          "CN-firstPoint-on-the-one-hand"
+        ]
+      },
+      {
+        "step": "3. Phe 2 — ngân sách hạn hẹp, lĩnh vực khác cấp bách",
+        "think": "Ý chi phí cơ hội (opportunity cost): y tế, giao thông, nhà ở đều cần tiền và hậu quả của thiếu hụt xảy ra ngay. Thêm ý 'chi nhiều không đảm bảo hiệu quả' để phe này có hai vế như phe 1. Ví dụ giả định về bệnh viện vùng nông thôn.",
+        "refs": [
+          "ID-opportunity-cost",
+          "PH-limited-funds",
+          "PH-pressing-needs",
+          "EX-rural-hospital",
+          "SY-funds",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "4. Ý kiến riêng",
+        "think": "Chọn 'giáo dục đi trước' vì lý do dài hạn: dân số được giáo dục tạo ra nguồn thu và chuyên môn nuôi các dịch vụ khác. Câu kết vẫn thừa nhận lĩnh vực khác cần được tài trợ đầy đủ, để không bị coi là cực đoan.",
+        "refs": [
+          "PH-sustain-every-service",
+          "SY-priority",
+          "CN-concluding-in-conclusion",
+          "CN-concession-nevertheless"
+        ]
+      }
+    ],
+    "newEntries": [
+      "PH-foundation-development",
+      "PH-widen-tax-base",
+      "PH-limited-funds",
+      "PH-pressing-needs",
+      "PH-sustain-every-service",
+      "SY-priority",
+      "SY-funds",
+      "ID-opportunity-cost",
+      "EX-rural-hospital",
+      "EX-post-war-korea"
+    ]
+  },
+  "revisionNote": "Thêm câu cuối kết bài để vượt 250 từ an toàn và làm rõ rằng vẫn bảo vệ dịch vụ thiết yếu."
+}

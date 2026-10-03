@@ -11,5 +11,5 @@ server/data/writing-task2/essays/*.json
 server/data/writing-task2/essays/*.tmp
 
 # Tien do hoc thuoc (Study) la du lieu ca nhan
-server/data/writing-task2/study/progress.json
-server/data/writing-task2/study/progress.json.*.tmp
+server/data/writing-task2/library/progress.json
+server/data/writing-task2/library/progress.json.*.tmp

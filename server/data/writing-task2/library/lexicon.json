@@ -1,0 +1,3823 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "FR-open-it-is-widely-argued-that",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "It is widely argued that …",
+      "use_vi": "Câu mở bài: nhắc lại đề bằng cách diễn đạt khác."
+    },
+    {
+      "id": "FR-open-a-growing-number-of-people-believe-that",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "A growing number of people believe that …",
+      "use_vi": "Câu mở bài: nhắc lại đề bằng cách diễn đạt khác."
+    },
+    {
+      "id": "FR-open-opinions-are-divided-as-to-whether",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "Opinions are divided as to whether …",
+      "use_vi": "Câu mở bài: nhắc lại đề bằng cách diễn đạt khác."
+    },
+    {
+      "id": "FR-open-it-is-sometimes-suggested-that",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "It is sometimes suggested that …",
+      "use_vi": "Câu mở bài: nhắc lại đề bằng cách diễn đạt khác."
+    },
+    {
+      "id": "FR-open-people-hold-different-views-on-whether",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "People hold different views on whether …",
+      "use_vi": "Câu mở bài: nhắc lại đề bằng cách diễn đạt khác."
+    },
+    {
+      "id": "FR-stance-i-firmly-agree-with-this-view",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "I firmly agree with this view",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "FR-stance-i-largely-agree-with-this-view",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "I largely agree with this view",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "FR-stance-in-my-opinion-this-is-entirely-justified",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "In my opinion, this is entirely justified",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "FR-stance-i-disagree-with-this-view",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "I disagree with this view",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "FR-stance-i-strongly-disagree-with-this-view",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "I strongly disagree with this view",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "FR-stance-both-positions-have-their-merits-neverth",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "thesis",
+      "text": "both positions have their merits; nevertheless, I believe that …",
+      "use_vi": "Nêu lập trường / ý kiến cá nhân."
+    },
+    {
+      "id": "CN-firstPoint-to-begin-with",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "firstPoint",
+      "text": "To begin with,",
+      "use_vi": "Từ nối: mở ý thứ nhất."
+    },
+    {
+      "id": "CN-firstPoint-first-and-foremost",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "firstPoint",
+      "text": "First and foremost,",
+      "use_vi": "Từ nối: mở ý thứ nhất."
+    },
+    {
+      "id": "CN-firstPoint-on-the-one-hand",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "firstPoint",
+      "text": "On the one hand,",
+      "use_vi": "Từ nối: mở ý thứ nhất."
+    },
+    {
+      "id": "CN-firstPoint-on-the-positive-side",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "firstPoint",
+      "text": "On the positive side,",
+      "use_vi": "Từ nối: mở ý thứ nhất."
+    },
+    {
+      "id": "CN-nextPoint-furthermore",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "nextPoint",
+      "text": "Furthermore,",
+      "use_vi": "Từ nối: mở ý tiếp theo / đối lập."
+    },
+    {
+      "id": "CN-nextPoint-in-addition",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "nextPoint",
+      "text": "In addition,",
+      "use_vi": "Từ nối: mở ý tiếp theo / đối lập."
+    },
+    {
+      "id": "CN-nextPoint-moreover",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "nextPoint",
+      "text": "Moreover,",
+      "use_vi": "Từ nối: mở ý tiếp theo / đối lập."
+    },
+    {
+      "id": "CN-nextPoint-on-the-other-hand",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "nextPoint",
+      "text": "On the other hand,",
+      "use_vi": "Từ nối: mở ý tiếp theo / đối lập."
+    },
+    {
+      "id": "CN-nextPoint-on-the-negative-side",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "nextPoint",
+      "text": "On the negative side,",
+      "use_vi": "Từ nối: mở ý tiếp theo / đối lập."
+    },
+    {
+      "id": "CN-result-as-a-result",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "result",
+      "text": "As a result,",
+      "use_vi": "Từ nối: nêu kết quả."
+    },
+    {
+      "id": "CN-result-consequently",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "result",
+      "text": "Consequently,",
+      "use_vi": "Từ nối: nêu kết quả."
+    },
+    {
+      "id": "CN-result-this-ultimately-yields",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "result",
+      "text": "This ultimately yields …",
+      "use_vi": "Từ nối: nêu kết quả."
+    },
+    {
+      "id": "CN-result-thus",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "result",
+      "text": "Thus,",
+      "use_vi": "Từ nối: nêu kết quả."
+    },
+    {
+      "id": "CN-example-for-instance",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "example",
+      "text": "For instance,",
+      "use_vi": "Từ nối: dẫn ví dụ."
+    },
+    {
+      "id": "CN-example-for-example",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "example",
+      "text": "For example,",
+      "use_vi": "Từ nối: dẫn ví dụ."
+    },
+    {
+      "id": "CN-example-a-case-in-point-is",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "example",
+      "text": "A case in point is …",
+      "use_vi": "Từ nối: dẫn ví dụ."
+    },
+    {
+      "id": "CN-example-illustrates-this-effect",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "example",
+      "text": "… illustrates this effect.",
+      "use_vi": "Từ nối: dẫn ví dụ."
+    },
+    {
+      "id": "CN-concession-admittedly",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concession",
+      "text": "Admittedly,",
+      "use_vi": "Từ nối: nhượng bộ."
+    },
+    {
+      "id": "CN-concession-nevertheless",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concession",
+      "text": "Nevertheless,",
+      "use_vi": "Từ nối: nhượng bộ."
+    },
+    {
+      "id": "CN-concession-that-said",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concession",
+      "text": "That said,",
+      "use_vi": "Từ nối: nhượng bộ."
+    },
+    {
+      "id": "CN-concluding-in-conclusion",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concluding",
+      "text": "In conclusion,",
+      "use_vi": "Từ nối: mở kết bài."
+    },
+    {
+      "id": "CN-concluding-to-sum-up",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concluding",
+      "text": "To sum up,",
+      "use_vi": "Từ nối: mở kết bài."
+    },
+    {
+      "id": "CN-concluding-all-things-considered",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concluding",
+      "text": "All things considered,",
+      "use_vi": "Từ nối: mở kết bài."
+    },
+    {
+      "id": "CN-concluding-taking-everything-into-account",
+      "type": "connector",
+      "topics": [
+        "general"
+      ],
+      "role": "concluding",
+      "text": "Taking everything into account,",
+      "use_vi": "Từ nối: mở kết bài."
+    },
+    {
+      "id": "PH-modal-should",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "modal",
+      "text": "should",
+      "meaning_vi": "nên / cần phải"
+    },
+    {
+      "id": "PH-modal-ought-to",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "modal",
+      "text": "ought to",
+      "meaning_vi": "nên / cần phải"
+    },
+    {
+      "id": "PH-modal-must",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "modal",
+      "text": "must",
+      "meaning_vi": "nên / cần phải"
+    },
+    {
+      "id": "PH-modal-it-would-be-wise-to",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "modal",
+      "text": "it would be wise to",
+      "meaning_vi": "nên / cần phải"
+    },
+    {
+      "id": "PH-modal-it-is-advisable-to",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "modal",
+      "text": "it is advisable to",
+      "meaning_vi": "nên / cần phải"
+    },
+    {
+      "id": "SY-government",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "government",
+      "alts": [
+        "governments",
+        "authorities",
+        "policymakers",
+        "the state",
+        "national leaders"
+      ]
+    },
+    {
+      "id": "SY-school",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "school",
+      "alts": [
+        "schools",
+        "educational institutions",
+        "the education system",
+        "classrooms"
+      ]
+    },
+    {
+      "id": "SY-student",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "student",
+      "alts": [
+        "students",
+        "pupils",
+        "learners",
+        "young people",
+        "children",
+        "the younger generation"
+      ]
+    },
+    {
+      "id": "SY-teacher",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "teacher",
+      "alts": [
+        "teachers",
+        "educators",
+        "instructors",
+        "school staff"
+      ]
+    },
+    {
+      "id": "SY-invest-in",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "invest in",
+      "alts": [
+        "allocate funds to",
+        "channel resources into",
+        "commit funding to",
+        "pour money into",
+        "prioritise spending on"
+      ]
+    },
+    {
+      "id": "SY-improve",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "improve",
+      "alts": [
+        "enhance",
+        "upgrade",
+        "strengthen",
+        "raise standards in",
+        "boost"
+      ]
+    },
+    {
+      "id": "SY-cause",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "cause",
+      "alts": [
+        "lead to",
+        "give rise to",
+        "result in",
+        "contribute to",
+        "trigger"
+      ]
+    },
+    {
+      "id": "SY-reduce",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "reduce",
+      "alts": [
+        "alleviate",
+        "mitigate",
+        "curb",
+        "lessen",
+        "ease"
+      ]
+    },
+    {
+      "id": "SY-provide-with",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "provide with",
+      "alts": [
+        "equip with",
+        "furnish with",
+        "supply with",
+        "give access to"
+      ]
+    },
+    {
+      "id": "SY-up-can",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "can",
+      "alts": [
+        "is able to",
+        "is capable of",
+        "enables … to",
+        "allows … to",
+        "may well"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-help",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "help",
+      "alts": [
+        "assist",
+        "enable",
+        "support",
+        "equip … with",
+        "contribute to"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-increase",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "increase",
+      "alts": [
+        "boost",
+        "raise",
+        "expand",
+        "heighten",
+        "escalate",
+        "rise sharply"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-important",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "important",
+      "alts": [
+        "vital",
+        "essential",
+        "crucial",
+        "pivotal",
+        "indispensable",
+        "of great significance"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-good",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "good",
+      "alts": [
+        "beneficial",
+        "advantageous",
+        "favourable",
+        "worthwhile",
+        "valuable"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-bad",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "bad",
+      "alts": [
+        "detrimental",
+        "harmful",
+        "damaging",
+        "adverse",
+        "counterproductive"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-many",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "many",
+      "alts": [
+        "numerous",
+        "a wide range of",
+        "a growing number of",
+        "a substantial proportion of"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-big",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "big",
+      "alts": [
+        "substantial",
+        "considerable",
+        "significant",
+        "far-reaching"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-show",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "show",
+      "alts": [
+        "demonstrate",
+        "illustrate",
+        "reveal",
+        "indicate",
+        "highlight"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-think",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "think",
+      "alts": [
+        "argue",
+        "contend",
+        "maintain",
+        "hold the view",
+        "be convinced"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-problem",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "problem",
+      "alts": [
+        "issue",
+        "challenge",
+        "concern",
+        "difficulty",
+        "obstacle"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-get",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "get",
+      "alts": [
+        "obtain",
+        "acquire",
+        "secure",
+        "gain",
+        "attain"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-because",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "because",
+      "alts": [
+        "since",
+        "as",
+        "given that",
+        "owing to the fact that"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "SY-up-people",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "people",
+      "alts": [
+        "individuals",
+        "citizens",
+        "members of the public",
+        "the population"
+      ],
+      "note_vi": "Từ cơ bản dễ bị lặp: thay bằng nhóm bên phải."
+    },
+    {
+      "id": "FR-struct-opinion",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Opinion",
+        "Agree / Disagree"
+      ],
+      "text": "Intro (paraphrase đề + lập trường + 2 lý do) → Body 1 (lý do 1) → Body 2 (lý do 2) → Conclusion (nhắc lại + ý nghĩa rộng hơn)",
+      "use_vi": "Khung cho đề hỏi ý kiến: In your opinion…, Do you agree…?"
+    },
+    {
+      "id": "FR-struct-discuss-role",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Opinion"
+      ],
+      "text": "Intro (bối cảnh + báo trước 2 vai trò) → Body 1 (vai trò 1) → Body 2 (vai trò 2) → Conclusion (tóm tắt + lưu ý / điều kiện)",
+      "use_vi": "Khung cho đề Discuss the role of X / how X affects Y."
+    },
+    {
+      "id": "FR-struct-extent",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Extent"
+      ],
+      "text": "Intro (largely agree + 2 lý do) → Body 1 (lý do 1) → Body 2 (lý do 2 + 1 câu giới hạn / nhượng bộ) → Conclusion (kết luận kèm điều kiện)",
+      "use_vi": "Khung cho đề To what extent…: câu nhượng bộ trả lời đúng chữ 'extent'."
+    },
+    {
+      "id": "FR-struct-advdis",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Advantages / Disadvantages"
+      ],
+      "text": "Intro (có cả ưu và nhược + chọn phe) → Body 1 (On the positive side: ưu điểm) → Body 2 (On the negative side: nhược điểm + phản bác bằng giải pháp) → Conclusion (on balance…)",
+      "use_vi": "Khung cho đề Do the advantages outweigh the disadvantages?"
+    },
+    {
+      "id": "FR-struct-both",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Discuss both views"
+      ],
+      "text": "Intro (2 quan điểm + báo sẽ xem cả hai) → Body 1 (On the one hand) → Body 2 (On the other hand) → Conclusion (cả hai đều có giá trị + ý kiến riêng)",
+      "use_vi": "Khung cho đề Discuss both views and give your opinion."
+    },
+    {
+      "id": "FR-develop-point",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "paragraph",
+      "text": "Câu chủ đề (claim) → cơ chế (vì sao / như thế nào) → kết quả (As a result, …) → ví dụ (For instance, …)",
+      "use_vi": "Công thức phát triển MỌI đoạn thân bài: 4 câu, đủ sâu để đạt Task Response cao."
+    },
+    {
+      "id": "FR-far-from-being",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "conclusion",
+      "text": "Far from being {a mere X}, {Y} {does Z}.",
+      "use_vi": "Câu kết đảo ngược quan niệm thông thường, nghe 'đắt' mà đơn giản."
+    },
+    {
+      "id": "FR-this-essay-will",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-outline",
+      "text": "This essay will explain two key ways in which {X} {verb phrase}: by {A} and by {B}.",
+      "use_vi": "Báo trước cấu trúc ở cuối mở bài (Coherence)."
+    },
+    {
+      "id": "FR-on-balance",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "conclusion",
+      "text": "Despite {drawback}, {X} is, on balance, more beneficial than harmful, thanks to {benefit}.",
+      "use_vi": "Kết bài cho đề ưu/nhược điểm (chọn phe 'ưu điểm thắng')."
+    },
+    {
+      "id": "PH-commit-share",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "general"
+      ],
+      "role": "verb-phrase",
+      "text": "devote a larger share of public spending to",
+      "meaning_vi": "dành phần ngân sách công lớn hơn cho",
+      "replaces": [
+        "spend more money on"
+      ]
+    },
+    {
+      "id": "PH-fuel-growth",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "general"
+      ],
+      "role": "verb-phrase",
+      "text": "fuel economic growth",
+      "meaning_vi": "thúc đẩy tăng trưởng kinh tế",
+      "replaces": [
+        "help the economy",
+        "increase growth"
+      ]
+    },
+    {
+      "id": "PH-close-gap",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "general"
+      ],
+      "role": "verb-phrase",
+      "text": "close the gap between rich and poor",
+      "meaning_vi": "thu hẹp khoảng cách giàu nghèo",
+      "replaces": [
+        "reduce inequality"
+      ]
+    },
+    {
+      "id": "PH-skilled-workforce",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "the skilled workforce on which a modern economy depends",
+      "meaning_vi": "lực lượng lao động có kỹ năng mà nền kinh tế hiện đại cần",
+      "replaces": [
+        "people with good skills"
+      ]
+    },
+    {
+      "id": "PH-labour-market",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "noun-phrase",
+      "text": "the competencies that the labour market actually demands",
+      "meaning_vi": "năng lực mà thị trường lao động thực sự cần",
+      "replaces": [
+        "skills for jobs"
+      ]
+    },
+    {
+      "id": "PH-allocate-resources",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "government"
+      ],
+      "role": "verb-phrase",
+      "text": "allocate substantial resources to",
+      "meaning_vi": "phân bổ nguồn lực đáng kể cho",
+      "replaces": [
+        "spend a lot of money on"
+      ]
+    },
+    {
+      "id": "PH-privilege-reserved",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "noun-phrase",
+      "text": "a privilege reserved for wealthy families",
+      "meaning_vi": "đặc quyền chỉ dành cho gia đình giàu",
+      "replaces": [
+        "only rich people can get it"
+      ]
+    },
+    {
+      "id": "PH-progress-merit",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "progress on merit rather than family income",
+      "meaning_vi": "tiến thân nhờ năng lực chứ không phải thu nhập gia đình"
+    },
+    {
+      "id": "PH-social-mobility",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "strengthen social mobility",
+      "meaning_vi": "tăng khả năng thăng tiến xã hội"
+    },
+    {
+      "id": "PH-sustained-investment",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "sustained investment in",
+      "meaning_vi": "đầu tư liên tục, bền vững vào"
+    },
+    {
+      "id": "PH-key-factor",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "hedge",
+      "text": "is widely seen as a key factor in",
+      "meaning_vi": "được xem rộng rãi là yếu tố then chốt trong",
+      "note_vi": "Dùng khi dẫn ví dụ lịch sử mà không muốn khẳng định tuyệt đối."
+    },
+    {
+      "id": "PH-flexible-accessible",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "makes learning considerably more flexible and accessible",
+      "meaning_vi": "khiến việc học linh hoạt và dễ tiếp cận hơn nhiều"
+    },
+    {
+      "id": "PH-attend-remote",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "attend live lessons from remote villages",
+      "meaning_vi": "dự giờ học trực tuyến từ vùng xa"
+    },
+    {
+      "id": "PH-revisit-recorded",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "revisit recorded explanations",
+      "meaning_vi": "xem lại bài giảng đã ghi hình",
+      "replaces": [
+        "watch again"
+      ]
+    },
+    {
+      "id": "PH-widen-participation",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "widen participation",
+      "meaning_vi": "mở rộng đối tượng tham gia"
+    },
+    {
+      "id": "PH-tailored-needs",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "adapt teaching to the needs of each learner",
+      "meaning_vi": "điều chỉnh việc dạy theo nhu cầu từng người học",
+      "replaces": [
+        "personalised learning"
+      ]
+    },
+    {
+      "id": "PH-pinpoint-weaknesses",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "identify weaknesses and provide targeted practice",
+      "meaning_vi": "chỉ ra điểm yếu và cho luyện tập đúng chỗ"
+    },
+    {
+      "id": "PH-complement-not-replace",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "caveat",
+      "text": "complement rather than replace teachers",
+      "meaning_vi": "bổ trợ chứ không thay thế giáo viên",
+      "note_vi": "Câu giới hạn an toàn cho mọi đề về công nghệ trong giáo dục."
+    },
+    {
+      "id": "PH-distinguish-reliable",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "role": "verb-phrase",
+      "text": "distinguish reliable information from misleading content",
+      "meaning_vi": "phân biệt thông tin đáng tin với nội dung gây hiểu lầm"
+    },
+    {
+      "id": "PH-evaluate-critically",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "role": "verb-phrase",
+      "text": "evaluate information critically",
+      "meaning_vi": "đánh giá thông tin một cách phản biện",
+      "replaces": [
+        "think about information"
+      ]
+    },
+    {
+      "id": "PH-media-driven",
+      "type": "phrase",
+      "topics": [
+        "media",
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "a media-driven world",
+      "meaning_vi": "thế giới bị truyền thông chi phối"
+    },
+    {
+      "id": "PH-employable-skills",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "noun-phrase",
+      "text": "practical skills with clear career value",
+      "meaning_vi": "kỹ năng thực hành có giá trị nghề nghiệp rõ ràng"
+    },
+    {
+      "id": "PH-balanced-timetable",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "caveat",
+      "text": "a balanced timetable",
+      "meaning_vi": "thời khoá biểu cân đối",
+      "note_vi": "Dùng để nhượng bộ khi đề xuất thêm môn mới: 'không thay thế môn cốt lõi'."
+    },
+    {
+      "id": "PH-risk-distraction",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "carries the risk of distraction and reduced human contact",
+      "meaning_vi": "tiềm ẩn nguy cơ xao nhãng và ít tiếp xúc trực tiếp"
+    },
+    {
+      "id": "PH-endless-temptations",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "noun-phrase",
+      "text": "endless temptations such as games and social media",
+      "meaning_vi": "vô số cám dỗ như trò chơi và mạng xã hội"
+    },
+    {
+      "id": "PH-face-to-face",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "general"
+      ],
+      "role": "noun-phrase",
+      "text": "face-to-face interaction",
+      "meaning_vi": "tương tác trực tiếp"
+    },
+    {
+      "id": "PH-read-confusion",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "read facial expressions, notice confusion and adjust an explanation instantly",
+      "meaning_vi": "đọc nét mặt, nhận ra học sinh bối rối và điều chỉnh lời giảng ngay"
+    },
+    {
+      "id": "PH-foster-teamwork",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "foster teamwork, shared responsibility and contact with peers who hold different viewpoints",
+      "meaning_vi": "nuôi dưỡng làm việc nhóm, trách nhiệm chung và tiếp xúc với bạn bè khác quan điểm"
+    },
+    {
+      "id": "PH-blended-model",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "opinion",
+      "text": "a blended model, with face-to-face teaching as its foundation",
+      "meaning_vi": "mô hình kết hợp, lấy dạy trực tiếp làm nền tảng",
+      "note_vi": "Ý kiến riêng 'an toàn' cho đề so sánh hai hình thức học."
+    },
+    {
+      "id": "PH-save-costs",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "role": "verb-phrase",
+      "text": "save on commuting, accommodation and printed textbooks",
+      "meaning_vi": "tiết kiệm tiền đi lại, chỗ ở và sách in"
+    },
+    {
+      "id": "PH-deepen-inequalities",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "deepen existing inequalities",
+      "meaning_vi": "làm sâu sắc thêm bất bình đẳng sẵn có",
+      "replaces": [
+        "make inequality worse"
+      ]
+    },
+    {
+      "id": "PH-insurmountable",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "rebuttal",
+      "text": "these problems are far from insurmountable",
+      "meaning_vi": "những vấn đề này hoàn toàn có thể vượt qua",
+      "note_vi": "Câu phản bác mở đầu cho phần giải pháp trong đoạn nhược điểm."
+    },
+    {
+      "id": "PH-loan-schemes",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "noun-phrase",
+      "text": "loan schemes for laptops",
+      "meaning_vi": "chương trình cho mượn laptop"
+    },
+    {
+      "id": "SY-invest-heavily",
+      "type": "synonyms",
+      "topics": [
+        "general",
+        "economy"
+      ],
+      "base": "invest heavily in",
+      "alts": [
+        "allocate substantial resources to",
+        "channel funds into",
+        "devote a larger share of public spending to",
+        "pour money into"
+      ]
+    },
+    {
+      "id": "SY-economic-growth",
+      "type": "synonyms",
+      "topics": [
+        "economy"
+      ],
+      "base": "economic growth",
+      "alts": [
+        "national prosperity",
+        "economic expansion",
+        "rising output"
+      ]
+    },
+    {
+      "id": "SY-poor",
+      "type": "synonyms",
+      "topics": [
+        "society"
+      ],
+      "base": "poor",
+      "alts": [
+        "disadvantaged",
+        "low-income",
+        "from poorer backgrounds",
+        "less well-off"
+      ]
+    },
+    {
+      "id": "SY-rich",
+      "type": "synonyms",
+      "topics": [
+        "society"
+      ],
+      "base": "rich",
+      "alts": [
+        "wealthy",
+        "affluent",
+        "well-off"
+      ]
+    },
+    {
+      "id": "SY-skills",
+      "type": "synonyms",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "base": "skills",
+      "alts": [
+        "competencies",
+        "expertise",
+        "abilities",
+        "know-how"
+      ]
+    },
+    {
+      "id": "SY-widen",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "widen",
+      "alts": [
+        "broaden",
+        "extend",
+        "expand access to"
+      ]
+    },
+    {
+      "id": "SY-drawback",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "drawback",
+      "alts": [
+        "disadvantage",
+        "downside",
+        "shortcoming",
+        "limitation"
+      ]
+    },
+    {
+      "id": "SY-cheap",
+      "type": "synonyms",
+      "topics": [
+        "general",
+        "economy"
+      ],
+      "base": "cheap",
+      "alts": [
+        "affordable",
+        "low-cost",
+        "inexpensive"
+      ],
+      "note_vi": "'cheap' nghe hơi tiêu cực khi nói về giáo dục; 'affordable' tự nhiên hơn."
+    },
+    {
+      "id": "SY-flexible",
+      "type": "synonyms",
+      "topics": [
+        "education"
+      ],
+      "base": "flexible",
+      "alts": [
+        "adaptable",
+        "convenient",
+        "self-paced"
+      ]
+    },
+    {
+      "id": "ID-edu-economy-skills",
+      "type": "idea",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "tags": [
+        "investment"
+      ],
+      "stance": "pro",
+      "label_vi": "Đầu tư giáo dục → lực lượng lao động có kỹ năng → kinh tế phát triển",
+      "claim": "A well-funded education system produces the skilled workforce on which a modern economy depends.",
+      "because": "Employers in engineering, healthcare and finance seek technical knowledge, digital literacy and problem-solving; funding for classrooms and teacher training builds them.",
+      "result": "Companies recruit more easily, unemployment falls and productivity rises.",
+      "example_ids": [
+        "EX-korea-investment"
+      ],
+      "fits": [
+        "Opinion",
+        "Agree / Disagree",
+        "Extent",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề về chi tiêu công, giáo dục nghề, đại học, học phí, kỹ năng."
+    },
+    {
+      "id": "ID-edu-equality-mobility",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "tags": [
+        "investment",
+        "equality"
+      ],
+      "stance": "pro",
+      "label_vi": "Đầu tư công vào giáo dục → thu hẹp bất bình đẳng, tăng thăng tiến xã hội",
+      "claim": "Public investment in education narrows social inequality.",
+      "because": "Where schools are poorly funded, good learning becomes a privilege of the wealthy; state-guaranteed access lets children progress on merit.",
+      "result": "Social mobility strengthens and long-term dependence on welfare falls.",
+      "example_ids": [
+        "EX-finland-free"
+      ],
+      "fits": [
+        "Opinion",
+        "Agree / Disagree",
+        "Extent",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Dùng cho đề học phí, giáo dục miễn phí, ngân sách công, trường tư."
+    },
+    {
+      "id": "ID-edtech-access",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "edtech"
+      ],
+      "stance": "pro",
+      "label_vi": "Công nghệ / học online → linh hoạt và dễ tiếp cận",
+      "claim": "Digital technology makes learning considerably more flexible and accessible.",
+      "because": "Students in remote areas attend live lessons, replay recordings and study around their circumstances; institutions serve larger cohorts without new buildings.",
+      "result": "Participation widens among working adults, rural residents and people with disabilities.",
+      "example_ids": [
+        "EX-coursera-khan"
+      ],
+      "fits": [
+        "Opinion",
+        "Advantages / Disadvantages",
+        "Discuss both views",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho mọi đề về online learning, remote learning, podcast, mạng xã hội trong học tập."
+    },
+    {
+      "id": "ID-edtech-personalise",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "edtech"
+      ],
+      "stance": "pro",
+      "label_vi": "Công nghệ → cá nhân hoá việc dạy",
+      "claim": "Technology allows teaching to be adapted to the needs of each learner.",
+      "because": "A teacher cannot adjust the pace for every pupil, but adaptive software identifies weaknesses and provides targeted practice at once.",
+      "result": "Struggling students get timely support, faster ones are stretched, and teachers are freed for discussion.",
+      "example_ids": [
+        "EX-grammar-feedback"
+      ],
+      "fits": [
+        "Opinion",
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề AI tutor, personalised learning, gia sư, lớp đông."
+    },
+    {
+      "id": "ID-edtech-distraction",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "edtech"
+      ],
+      "stance": "con",
+      "label_vi": "Học online / thiết bị → xao nhãng, thiếu tương tác",
+      "claim": "Online study carries the risk of distraction and reduced human contact.",
+      "because": "Devices offer endless temptations such as games and social media; solitary learners miss the encouragement, discipline and immediate feedback of a teacher.",
+      "result": "Concentration and communication skills may weaken.",
+      "example_ids": [],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Discuss both views",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng làm nhược điểm / phe phản đối trong đề công nghệ, điện thoại, mạng xã hội."
+    },
+    {
+      "id": "ID-edtech-divide",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology",
+        "society"
+      ],
+      "tags": [
+        "edtech",
+        "equality"
+      ],
+      "stance": "con",
+      "label_vi": "Phụ thuộc công nghệ → khoảng cách số, bất bình đẳng",
+      "claim": "Reliance on online learning may deepen existing inequalities.",
+      "because": "Families without a reliable connection or suitable device fall behind.",
+      "result": "A two-tier system in which advantage depends on wealth.",
+      "rebuttal": "Schools can offer laptop loan schemes and live check-ins.",
+      "example_ids": [],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Nhược điểm thứ hai của công nghệ; luôn kèm rebuttal để giữ lập trường."
+    },
+    {
+      "id": "ID-online-cost",
+      "type": "idea",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "tags": [
+        "edtech",
+        "cost"
+      ],
+      "stance": "pro",
+      "label_vi": "Học online rẻ hơn và linh hoạt cho người đi làm",
+      "claim": "Online study is cheaper and more flexible for learners and institutions.",
+      "because": "Learners save on commuting, accommodation and printed textbooks; institutions save on buildings and staff.",
+      "result": "Fees fall and people otherwise excluded, such as rural residents and working parents, gain qualifications.",
+      "example_ids": [
+        "EX-nurse-evening-degree"
+      ],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Discuss both views",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho đề học phí / online overpriced / học từ xa."
+    },
+    {
+      "id": "ID-class-interaction",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "tags": [
+        "classroom"
+      ],
+      "stance": "pro",
+      "label_vi": "Lớp học truyền thống → tương tác trực tiếp, làm việc nhóm, kỷ luật",
+      "claim": "Physical classrooms foster teamwork and social skills.",
+      "because": "Pupils work with peers who hold different viewpoints and share responsibility; a present teacher reads confusion and adjusts instantly.",
+      "result": "Stronger discipline and cooperation, especially among younger children.",
+      "example_ids": [
+        "EX-group-project"
+      ],
+      "fits": [
+        "Discuss both views",
+        "Agree / Disagree",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề lớp học vs online, homeschooling, giờ thể dục, hoạt động nhóm."
+    },
+    {
+      "id": "ID-media-misinformation",
+      "type": "idea",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "tags": [
+        "media",
+        "critical-thinking"
+      ],
+      "stance": "pro",
+      "label_vi": "Dạy truyền thông → học sinh phân biệt thông tin thật / giả",
+      "claim": "Media studies teaches pupils to distinguish reliable information from misleading content.",
+      "because": "Social media spreads rumour faster than corrections; pupils who check sources and recognise bias are harder to deceive.",
+      "result": "Better-informed citizens and voters.",
+      "example_ids": [
+        "EX-election-headline"
+      ],
+      "fits": [
+        "Extent",
+        "Agree / Disagree",
+        "Opinion"
+      ],
+      "reuse_vi": "Dùng cho đề dạy tư duy phản biện, fake news, mạng xã hội, môn công dân."
+    },
+    {
+      "id": "ID-media-career",
+      "type": "idea",
+      "topics": [
+        "education",
+        "media",
+        "work"
+      ],
+      "tags": [
+        "media",
+        "career"
+      ],
+      "stance": "pro",
+      "label_vi": "Dạy truyền thông → kỹ năng nghề nghiệp, người tiêu dùng thông thái",
+      "claim": "Media studies builds practical skills with clear career value.",
+      "because": "Advertising, journalism, film and digital marketing are major industries and every job now involves communicating through digital media; producing films and campaigns trains planning and collaboration.",
+      "result": "Employable skills and more informed consumer choices.",
+      "example_ids": [],
+      "fits": [
+        "Extent",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho đề thêm môn học thực hành / nghề / công nghệ vào chương trình."
+    },
+    {
+      "id": "ID-curriculum-balance",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "curriculum"
+      ],
+      "stance": "caveat",
+      "label_vi": "Giới hạn: môn mới không được thay môn cốt lõi",
+      "claim": "A new subject should not replace core subjects such as mathematics and literacy.",
+      "because": "School hours are limited.",
+      "result": "It works best as a focused course within a balanced timetable.",
+      "example_ids": [],
+      "fits": [
+        "Extent"
+      ],
+      "reuse_vi": "Câu nhượng bộ trong đề To what extent should X be taught…"
+    },
+    {
+      "id": "EX-korea-investment",
+      "type": "example",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "text": "South Korea is a case in point: its sustained investment in schooling over several decades is widely seen as a key factor in its transformation into a high-income economy.",
+      "caution_vi": "Nhận định chung, không số liệu; có thể kiểm chứng."
+    },
+    {
+      "id": "EX-finland-free",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "Finland, which offers free education and consistently achieves strong results, illustrates how equal access can benefit society as a whole.",
+      "caution_vi": "Nhận định chung, không số liệu."
+    },
+    {
+      "id": "EX-coursera-khan",
+      "type": "example",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "text": "Platforms such as Coursera and Khan Academy, for example, now give millions of users access to everything from school mathematics to university-level courses, often free of charge.",
+      "caution_vi": "Khan Academy thiên về kiến thức phổ thông; Coursera có nhiều khoá miễn phí để học thử."
+    },
+    {
+      "id": "EX-nurse-evening-degree",
+      "type": "example",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "text": "A nurse who studies for a master's degree in the evenings, for instance, can improve her career prospects without giving up her income.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-grammar-feedback",
+      "type": "example",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "text": "A pupil who repeatedly makes the same grammatical error, for instance, can receive tailored exercises the same day instead of waiting weeks for feedback.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-election-headline",
+      "type": "example",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "text": "A teenager who has analysed how a misleading headline is constructed, for example, will find it easier to question a viral post during an election campaign.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-group-project",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "For example, pupils who complete a group project learn to negotiate disagreements rather than avoid them.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "FR-concede-cost",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "concession",
+      "text": "Admittedly, {X} must {requirement}, but this cost is modest compared with the benefits.",
+      "use_vi": "Nhượng bộ ngắn về chi phí / khó khăn rồi quay lại lập trường (cuối thân bài 2)."
+    },
+    {
+      "id": "FR-some-argue-but",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "rebuttal",
+      "text": "Some argue that {X}, but this {skill / aim} can equally be achieved through {Y}.",
+      "use_vi": "Phản bác phe đối lập trong 1 câu mà không làm yếu lập trường."
+    },
+    {
+      "id": "FR-beyond-personal",
+      "type": "frame",
+      "topics": [
+        "general",
+        "education"
+      ],
+      "role": "topic-sentence",
+      "text": "Beyond personal advancement, {X} brings wider benefits to society as a whole.",
+      "use_vi": "Câu chủ đề chuyển từ lợi ích cá nhân sang lợi ích xã hội."
+    },
+    {
+      "id": "PH-question-compare-justify",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "question, compare and justify their views",
+      "meaning_vi": "đặt câu hỏi, so sánh và biện hộ cho quan điểm của mình"
+    },
+    {
+      "id": "PH-ready-made-answer",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "clause",
+      "text": "problems rarely come with a ready-made answer",
+      "meaning_vi": "vấn đề hiếm khi có sẵn đáp án"
+    },
+    {
+      "id": "PH-spot-bias",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "role": "verb-phrase",
+      "text": "check sources, spot bias and test an argument for logical weaknesses",
+      "meaning_vi": "kiểm tra nguồn, nhận ra thiên kiến và soi lỗi logic của lập luận"
+    },
+    {
+      "id": "PH-defence-against",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "media"
+      ],
+      "role": "noun-phrase",
+      "text": "the best defence against misleading information",
+      "meaning_vi": "tấm khiên tốt nhất chống lại thông tin sai lệch"
+    },
+    {
+      "id": "PH-woven-into",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "caveat",
+      "text": "woven into everyday teaching rather than added as another burden",
+      "meaning_vi": "lồng ghép vào việc dạy hằng ngày thay vì thêm một gánh nặng",
+      "note_vi": "Câu điều kiện cho đề đề xuất thêm nội dung vào chương trình."
+    },
+    {
+      "id": "PH-foundation-development",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "the foundation of long-term national development",
+      "meaning_vi": "nền tảng của phát triển quốc gia lâu dài"
+    },
+    {
+      "id": "PH-widen-tax-base",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "government"
+      ],
+      "role": "verb-phrase",
+      "text": "raise productivity, attract investment and widen the tax base",
+      "meaning_vi": "tăng năng suất, thu hút đầu tư và mở rộng nguồn thu thuế"
+    },
+    {
+      "id": "PH-limited-funds",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "clause",
+      "text": "governments have limited funds and many equally urgent responsibilities",
+      "meaning_vi": "chính phủ có ngân sách hạn hẹp và nhiều trách nhiệm cấp bách ngang nhau"
+    },
+    {
+      "id": "PH-pressing-needs",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "noun-phrase",
+      "text": "more pressing needs than",
+      "meaning_vi": "có nhu cầu cấp thiết hơn"
+    },
+    {
+      "id": "PH-sustain-every-service",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "role": "clause",
+      "text": "generates the revenue and expertise that sustain every other service",
+      "meaning_vi": "tạo ra nguồn thu và chuyên môn nuôi sống mọi dịch vụ khác"
+    },
+    {
+      "id": "PH-computational-thinking",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "noun-phrase",
+      "text": "computational thinking",
+      "meaning_vi": "tư duy máy tính (chia nhỏ vấn đề thành các bước logic)"
+    },
+    {
+      "id": "PH-break-problem",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "break a complex problem into smaller, logical steps",
+      "meaning_vi": "chia vấn đề phức tạp thành các bước nhỏ, hợp lý"
+    },
+    {
+      "id": "PH-trace-logic",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "verb-phrase",
+      "text": "trace their own logic to discover why it fails",
+      "meaning_vi": "lần theo logic của chính mình để tìm ra nguyên nhân lỗi"
+    },
+    {
+      "id": "PH-transfer-skills",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "skills that transfer to mathematics, science and everyday decision-making",
+      "meaning_vi": "kỹ năng áp dụng được sang toán, khoa học và quyết định hằng ngày"
+    },
+    {
+      "id": "PH-software-underpins",
+      "type": "phrase",
+      "topics": [
+        "technology",
+        "work"
+      ],
+      "role": "clause",
+      "text": "software underpins almost every industry",
+      "meaning_vi": "phần mềm là nền tảng của gần như mọi ngành"
+    },
+    {
+      "id": "PH-automate-routine",
+      "type": "phrase",
+      "topics": [
+        "technology",
+        "work"
+      ],
+      "role": "verb-phrase",
+      "text": "analyse data and automate routine tasks",
+      "meaning_vi": "phân tích dữ liệu và tự động hoá việc lặp lại"
+    },
+    {
+      "id": "PH-rob-rest",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "health"
+      ],
+      "role": "verb-phrase",
+      "text": "robs children of the rest, play and family time that healthy development depends on",
+      "meaning_vi": "cướp đi thời gian nghỉ, chơi và ở bên gia đình mà sự phát triển lành mạnh cần"
+    },
+    {
+      "id": "PH-defeat-purpose",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "education"
+      ],
+      "role": "clause",
+      "text": "which defeats the purpose of the extra work",
+      "meaning_vi": "làm mất ý nghĩa của khối lượng việc thêm"
+    },
+    {
+      "id": "PH-same-conditions",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "clause",
+      "text": "gives everyone the same conditions and the same support",
+      "meaning_vi": "mang lại cho mọi người cùng điều kiện và cùng sự hỗ trợ"
+    },
+    {
+      "id": "PH-unaided",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "what each pupil can do unaided",
+      "meaning_vi": "mỗi học sinh tự làm được gì mà không cần trợ giúp"
+    },
+    {
+      "id": "PH-human-capital",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "the human capital that modern economies need",
+      "meaning_vi": "vốn con người mà nền kinh tế hiện đại cần"
+    },
+    {
+      "id": "PH-drain-budgets",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "government"
+      ],
+      "role": "verb-phrase",
+      "text": "reduces costs that would otherwise drain public budgets",
+      "meaning_vi": "giảm những chi phí vốn làm cạn ngân sách công"
+    },
+    {
+      "id": "PH-ease-burden",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "eases the burden on hospitals, police and prisons",
+      "meaning_vi": "giảm gánh nặng cho bệnh viện, cảnh sát và nhà tù"
+    },
+    {
+      "id": "PH-start-companies",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "start companies and develop new technologies",
+      "meaning_vi": "lập doanh nghiệp và phát triển công nghệ mới"
+    },
+    {
+      "id": "SY-memorise",
+      "type": "synonyms",
+      "topics": [
+        "education"
+      ],
+      "base": "memorise",
+      "alts": [
+        "learn by rote",
+        "commit to memory",
+        "simply repeat what they have been taught"
+      ]
+    },
+    {
+      "id": "SY-analyse",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "think about",
+      "alts": [
+        "analyse",
+        "evaluate",
+        "scrutinise",
+        "weigh up"
+      ]
+    },
+    {
+      "id": "SY-employer",
+      "type": "synonyms",
+      "topics": [
+        "work"
+      ],
+      "base": "employers",
+      "alts": [
+        "recruiters",
+        "companies",
+        "businesses",
+        "firms"
+      ]
+    },
+    {
+      "id": "SY-priority",
+      "type": "synonyms",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "base": "priority",
+      "alts": [
+        "top priority",
+        "foremost concern",
+        "first call on public funds"
+      ]
+    },
+    {
+      "id": "SY-exhausted",
+      "type": "synonyms",
+      "topics": [
+        "general",
+        "health"
+      ],
+      "base": "tired",
+      "alts": [
+        "exhausted",
+        "drained",
+        "worn out"
+      ]
+    },
+    {
+      "id": "SY-funds",
+      "type": "synonyms",
+      "topics": [
+        "economy",
+        "government"
+      ],
+      "base": "money",
+      "alts": [
+        "funds",
+        "funding",
+        "resources",
+        "public expenditure"
+      ]
+    },
+    {
+      "id": "SY-jobs",
+      "type": "synonyms",
+      "topics": [
+        "work"
+      ],
+      "base": "jobs",
+      "alts": [
+        "employment",
+        "positions",
+        "careers",
+        "work opportunities"
+      ]
+    },
+    {
+      "id": "ID-critical-deeper-learning",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "critical-thinking",
+        "learning"
+      ],
+      "stance": "pro",
+      "label_vi": "Dạy tư duy phản biện → hiểu sâu thay vì học vẹt, hữu ích ở đại học và công việc",
+      "claim": "Teaching critical thinking encourages pupils to understand ideas instead of merely memorising facts.",
+      "because": "When learners question, compare and justify their views, they grasp concepts more thoroughly and retain them for longer.",
+      "result": "Independent reasoning is invaluable at university and at work, where problems rarely come with a ready-made answer.",
+      "example_ids": [
+        "EX-debate-history"
+      ],
+      "fits": [
+        "Extent",
+        "Agree / Disagree",
+        "Opinion"
+      ],
+      "reuse_vi": "Dùng cho đề dạy tư duy phản biện, thi cử vs dự án, tranh luận, nghệ thuật, khoa học."
+    },
+    {
+      "id": "ID-integrate-existing",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "curriculum"
+      ],
+      "stance": "caveat",
+      "label_vi": "Giới hạn: lồng ghép vào các môn sẵn có thay vì thêm môn riêng",
+      "claim": "The skill is best developed within existing lessons such as science, history and literature.",
+      "because": "A separate subject would overload the timetable.",
+      "result": "Pupils practise it daily without losing core teaching time.",
+      "example_ids": [],
+      "fits": [
+        "Extent"
+      ],
+      "reuse_vi": "Câu giới hạn cho mọi đề 'nên dạy X ở trường không' (tài chính, đạo đức, công dân…)."
+    },
+    {
+      "id": "ID-opportunity-cost",
+      "type": "idea",
+      "topics": [
+        "government",
+        "economy"
+      ],
+      "tags": [
+        "spending"
+      ],
+      "stance": "con",
+      "label_vi": "Ngân sách hạn hẹp: các lĩnh vực khác cũng cấp bách (y tế, giao thông, nhà ở)",
+      "claim": "Governments have limited funds and many equally urgent responsibilities.",
+      "because": "Hospitals, transport, housing and social care all need substantial investment, and failures there can cost lives and damage the economy immediately.",
+      "result": "Spending more on one sector may leave a more pressing need unmet.",
+      "example_ids": [
+        "EX-rural-hospital"
+      ],
+      "fits": [
+        "Discuss both views",
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Phe 'ưu tiên lĩnh vực khác' trong mọi đề chi tiêu công (nghệ thuật, thể thao, thư viện, nghiên cứu…)."
+    },
+    {
+      "id": "ID-coding-thinking",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "coding",
+        "critical-thinking"
+      ],
+      "stance": "pro",
+      "label_vi": "Lập trình → tư duy giải quyết vấn đề từng bước, kiên nhẫn",
+      "claim": "Coding cultivates computational thinking.",
+      "because": "Pupils must spell out every instruction and trace their own logic to find why a program fails, which builds patience, attention to detail and cause-and-effect reasoning.",
+      "result": "Skills transfer to mathematics, science and everyday decisions, and learners see mistakes as normal.",
+      "example_ids": [
+        "EX-game-freezing"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng riêng cho đề dạy lập trình / STEM / máy tính."
+    },
+    {
+      "id": "ID-coding-jobs",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "coding",
+        "career"
+      ],
+      "stance": "pro",
+      "label_vi": "Lập trình → chuẩn bị cho thị trường việc làm do phần mềm chi phối",
+      "claim": "Coding prepares children for a world in which software underpins almost every industry.",
+      "because": "Finance, healthcare, design and farming rely on programs that analyse data and automate routine tasks, so employees who understand them have an advantage.",
+      "result": "Even pupils who never become engineers can use, question and adapt technology at work.",
+      "example_ids": [
+        "EX-accountant-script"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề công nghệ, STEM, tự động hoá, kỹ năng số, AI."
+    },
+    {
+      "id": "ID-hw-rest",
+      "type": "idea",
+      "topics": [
+        "education",
+        "health"
+      ],
+      "tags": [
+        "homework",
+        "wellbeing"
+      ],
+      "stance": "con",
+      "label_vi": "Bài tập về nhà → mất thời gian nghỉ, chơi, gia đình; mệt mỏi",
+      "claim": "Setting homework robs children of rest, play and family time.",
+      "because": "After six hours in class, many pupils face two or three more hours of written work, so sleep is cut short and hobbies abandoned.",
+      "result": "Tired pupils absorb less the next day, which defeats the purpose; resentment turns learning into a chore.",
+      "example_ids": [
+        "EX-late-worksheets"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề bài tập về nhà, tuần học ngắn hơn, áp lực học tập, giờ ngủ, thể thao."
+    },
+    {
+      "id": "ID-hw-fair",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "tags": [
+        "homework",
+        "equality"
+      ],
+      "stance": "pro",
+      "label_vi": "Học hết ở lớp → công bằng hơn giữa các gia đình",
+      "claim": "Restricting learning to school hours would make education fairer.",
+      "because": "At home, children from crowded households or with parents who cannot help are at a disadvantage against classmates with a quiet desk and a private tutor.",
+      "result": "Everyone has the same conditions, and teachers see what each pupil can do unaided.",
+      "example_ids": [
+        "EX-night-shift-parents"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề bài tập về nhà, gia sư, trường tư, thi cử."
+    },
+    {
+      "id": "ID-hw-discipline-rebuttal",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "homework"
+      ],
+      "stance": "rebuttal",
+      "label_vi": "Phản bác: 'bài tập về nhà dạy kỷ luật' → kỷ luật cũng rèn được qua tự học có giám sát",
+      "claim": "Some argue that homework teaches self-discipline, but this skill can equally be developed through supervised independent study at school.",
+      "because": "Independent work during school hours also demands self-management.",
+      "result": "The benefit is kept without the costs.",
+      "example_ids": [],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Câu phản bác cho đề cấm bài tập."
+    },
+    {
+      "id": "ID-edu-innovation",
+      "type": "idea",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "tags": [
+        "economy",
+        "innovation"
+      ],
+      "stance": "pro",
+      "label_vi": "Giáo dục → đổi mới, lập doanh nghiệp, công nghệ mới → việc làm và đầu tư",
+      "claim": "Educated citizens are more likely to start companies and develop new technologies.",
+      "because": "Advanced knowledge and training make research and entrepreneurship possible.",
+      "result": "New jobs and investment, and a wider tax base.",
+      "example_ids": [
+        "EX-singapore-schools"
+      ],
+      "fits": [
+        "Opinion",
+        "Advantages / Disadvantages",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho đề đại học, nghiên cứu khoa học, STEM, đầu tư công vào giáo dục."
+    },
+    {
+      "id": "ID-edu-social-savings",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society",
+        "health"
+      ],
+      "tags": [
+        "economy",
+        "health",
+        "crime"
+      ],
+      "stance": "pro",
+      "label_vi": "Giáo dục → khoẻ mạnh hơn, ít tội phạm → tiết kiệm ngân sách công",
+      "claim": "Education reduces costs that would otherwise drain public budgets.",
+      "because": "Educated individuals make healthier choices and are less prone to crime, and better-informed citizens plan their finances and rely less on welfare.",
+      "result": "A lighter burden on hospitals, police and prisons, freeing public money for investment.",
+      "example_ids": [
+        "EX-secondary-school-community"
+      ],
+      "fits": [
+        "Opinion",
+        "Advantages / Disadvantages",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho mọi đề 'lợi ích xã hội của giáo dục' và ngân sách công."
+    },
+    {
+      "id": "EX-debate-history",
+      "type": "example",
+      "topics": [
+        "education"
+      ],
+      "text": "A student who has debated two sides of a historical event in class will find it easier to build a coherent argument in a later essay or meeting.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-rural-hospital",
+      "type": "example",
+      "topics": [
+        "government",
+        "health"
+      ],
+      "text": "A rural region with no emergency hospital, for example, has more pressing needs than new school equipment.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-game-freezing",
+      "type": "example",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "text": "A pupil whose simple game keeps freezing, for instance, has to examine the code line by line instead of guessing at the cause.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-accountant-script",
+      "type": "example",
+      "topics": [
+        "technology",
+        "work"
+      ],
+      "text": "An accountant who can write a short script to process thousands of invoices, for example, finishes in minutes what once took days.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-late-worksheets",
+      "type": "example",
+      "topics": [
+        "education",
+        "health"
+      ],
+      "text": "A child who finishes worksheets at ten o'clock at night, for example, arrives at school exhausted the next morning.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-night-shift-parents",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "A pupil whose parents work night shifts, for instance, has no one to explain a confusing mathematics exercise.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-singapore-schools",
+      "type": "example",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "text": "Singapore, a small country with few natural resources, is often cited as a nation that built its prosperity chiefly on the quality of its schools and universities.",
+      "caution_vi": "Nhận định chung, được nhắc nhiều; không số liệu."
+    },
+    {
+      "id": "EX-secondary-school-community",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "A community in which most residents have completed secondary school, for example, typically reports lower crime and healthier habits.",
+      "caution_vi": "Nhận định chung: dùng 'typically' để giảm mức khẳng định."
+    },
+    {
+      "id": "EX-post-war-korea",
+      "type": "example",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "text": "Countries that expanded access to schooling after the Second World War, such as South Korea, later enjoyed rapid economic growth.",
+      "caution_vi": "Nhận định chung; biến thể của EX-korea-investment."
+    },
+    {
+      "id": "FR-dismissed-yet",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "intro-opening",
+      "text": "{X} is sometimes dismissed as {a relic / a luxury / outdated}, yet it remains {a familiar / essential feature of …}.",
+      "use_vi": "Mở bài cho đề 'role of X in modern society': nêu quan niệm sai rồi đảo ngược."
+    },
+    {
+      "id": "FR-not-same-as",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "rebuttal",
+      "text": "Admittedly, {X} is {easy to compare / convenient}, but being {easy to compare} is not the same as being {accurate}.",
+      "use_vi": "Nhượng bộ rồi phản bác bằng cấu trúc 'is not the same as'."
+    },
+    {
+      "id": "PH-broaden-horizons",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "broadens students' horizons and improves their employability",
+      "meaning_vi": "mở rộng tầm nhìn và tăng khả năng có việc làm",
+      "replaces": [
+        "makes students smarter"
+      ]
+    },
+    {
+      "id": "PH-immerse-language",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "language"
+      ],
+      "role": "verb-phrase",
+      "text": "immerses them in a foreign language every day",
+      "meaning_vi": "đặt họ vào môi trường ngoại ngữ hằng ngày"
+    },
+    {
+      "id": "PH-adapt-unfamiliar",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "adapt to unfamiliar customs and solve everyday problems independently",
+      "meaning_vi": "thích nghi với phong tục lạ và tự giải quyết việc hằng ngày"
+    },
+    {
+      "id": "PH-professional-networks",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "noun-phrase",
+      "text": "friendships and professional networks that often lead to opportunities later",
+      "meaning_vi": "tình bạn và mạng lưới nghề nghiệp thường mở ra cơ hội sau này"
+    },
+    {
+      "id": "PH-consume-savings",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "consume a family's savings",
+      "meaning_vi": "ngốn hết tiền tiết kiệm của gia đình"
+    },
+    {
+      "id": "PH-homesick-isolated",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "clause",
+      "text": "homesickness and unfamiliar surroundings leave some students isolated and struggling",
+      "meaning_vi": "nhớ nhà và môi trường lạ khiến một số sinh viên cô lập, vất vả"
+    },
+    {
+      "id": "PH-support-services",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "rebuttal",
+      "text": "offer scholarships, part-time work permits and counselling services",
+      "meaning_vi": "cung cấp học bổng, giấy phép làm thêm và dịch vụ tư vấn"
+    },
+    {
+      "id": "PH-narrow-picture",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "relying on examinations gives only a narrow picture of ability",
+      "meaning_vi": "dựa vào thi cử chỉ cho một bức tranh hẹp về năng lực"
+    },
+    {
+      "id": "PH-reward-memory-speed",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "mainly reward memory and speed under timed conditions",
+      "meaning_vi": "chủ yếu thưởng cho trí nhớ và tốc độ trong điều kiện giới hạn thời gian"
+    },
+    {
+      "id": "PH-drift-test-prep",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "teaching tends to drift towards test preparation instead of genuine understanding",
+      "meaning_vi": "việc dạy có xu hướng trượt sang luyện thi thay vì hiểu thật sự"
+    },
+    {
+      "id": "PH-high-stakes",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "high-stakes tests",
+      "meaning_vi": "bài thi quyết định (áp lực cao)"
+    },
+    {
+      "id": "PH-tutor-advantage",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "clause",
+      "text": "pupils whose families can afford private tutors enjoy a clear advantage over equally able classmates",
+      "meaning_vi": "học sinh có gia đình trả được gia sư có lợi thế rõ so với bạn cùng năng lực"
+    },
+    {
+      "id": "PH-lay-foundations",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "lay the foundations for all later learning",
+      "meaning_vi": "đặt nền móng cho mọi việc học về sau"
+    },
+    {
+      "id": "PH-brain-speed",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "health"
+      ],
+      "role": "clause",
+      "text": "young children's brains develop with extraordinary speed",
+      "meaning_vi": "não trẻ nhỏ phát triển cực nhanh"
+    },
+    {
+      "id": "PH-catch-up",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "struggle to catch up and lose confidence in their own ability",
+      "meaning_vi": "vất vả bắt kịp và mất tự tin vào năng lực bản thân"
+    },
+    {
+      "id": "PH-equal-footing",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "noun-phrase",
+      "text": "start on an equal footing",
+      "meaning_vi": "bắt đầu trên cùng vạch xuất phát"
+    },
+    {
+      "id": "PH-remedial",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "remedial programmes in later years",
+      "meaning_vi": "chương trình phụ đạo, khắc phục ở các năm sau"
+    },
+    {
+      "id": "PH-foundation-not-whole",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "caveat",
+      "text": "the foundation rather than the whole structure",
+      "meaning_vi": "nền móng chứ không phải cả toà nhà",
+      "note_vi": "Câu giới hạn cho đề 'X là quan trọng nhất' (extent)."
+    },
+    {
+      "id": "PH-regardless-income",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "adverbial",
+      "text": "regardless of income",
+      "meaning_vi": "bất kể thu nhập"
+    },
+    {
+      "id": "PH-free-of-charge",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "economy"
+      ],
+      "role": "adverbial",
+      "text": "available free of charge",
+      "meaning_vi": "có sẵn miễn phí",
+      "replaces": [
+        "free"
+      ]
+    },
+    {
+      "id": "PH-reliable-sources",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "media"
+      ],
+      "role": "verb-phrase",
+      "text": "help visitors to find reliable sources",
+      "meaning_vi": "giúp người dùng tìm nguồn đáng tin cậy"
+    },
+    {
+      "id": "PH-community-hub",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "general"
+      ],
+      "role": "noun-phrase",
+      "text": "a community hub that brings people together",
+      "meaning_vi": "trung tâm cộng đồng gắn kết mọi người"
+    },
+    {
+      "id": "PH-social-bonds",
+      "type": "phrase",
+      "topics": [
+        "society"
+      ],
+      "role": "verb-phrase",
+      "text": "strengthen social bonds across generations",
+      "meaning_vi": "củng cố gắn kết xã hội giữa các thế hệ"
+    },
+    {
+      "id": "PH-gateway-professions",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "noun-phrase",
+      "text": "the gateway to many professions",
+      "meaning_vi": "cánh cửa vào nhiều ngành nghề"
+    },
+    {
+      "id": "PH-screen-applicants",
+      "type": "phrase",
+      "topics": [
+        "work"
+      ],
+      "role": "verb-phrase",
+      "text": "use a degree to screen applicants when hundreds apply for a single vacancy",
+      "meaning_vi": "dùng bằng cấp để sàng lọc khi hàng trăm người nộp cho một vị trí"
+    },
+    {
+      "id": "PH-outweigh-cost",
+      "type": "phrase",
+      "topics": [
+        "economy",
+        "education"
+      ],
+      "role": "clause",
+      "text": "the financial benefit usually outweighs the cost in the long term",
+      "meaning_vi": "lợi ích tài chính thường vượt chi phí về lâu dài"
+    },
+    {
+      "id": "PH-exceptions-not-rule",
+      "type": "phrase",
+      "topics": [
+        "general"
+      ],
+      "role": "rebuttal",
+      "text": "these examples are exceptions rather than the rule",
+      "meaning_vi": "những ví dụ này là ngoại lệ chứ không phải quy luật",
+      "note_vi": "Dùng sau khi nhượng bộ bằng ví dụ ngược chiều."
+    },
+    {
+      "id": "SY-abroad",
+      "type": "synonyms",
+      "topics": [
+        "general",
+        "travel"
+      ],
+      "base": "abroad",
+      "alts": [
+        "overseas",
+        "in another country",
+        "in a foreign country"
+      ]
+    },
+    {
+      "id": "SY-hard",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "difficult",
+      "alts": [
+        "challenging",
+        "demanding",
+        "daunting",
+        "taxing"
+      ]
+    },
+    {
+      "id": "SY-ability",
+      "type": "synonyms",
+      "topics": [
+        "education"
+      ],
+      "base": "intelligence",
+      "alts": [
+        "ability",
+        "aptitude",
+        "potential",
+        "capability"
+      ]
+    },
+    {
+      "id": "SY-test",
+      "type": "synonyms",
+      "topics": [
+        "education"
+      ],
+      "base": "exam",
+      "alts": [
+        "examination",
+        "test",
+        "assessment",
+        "evaluation"
+      ]
+    },
+    {
+      "id": "SY-young-children",
+      "type": "synonyms",
+      "topics": [
+        "education"
+      ],
+      "base": "young children",
+      "alts": [
+        "infants",
+        "pre-schoolers",
+        "early learners",
+        "children in their early years"
+      ]
+    },
+    {
+      "id": "SY-qualification",
+      "type": "synonyms",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "base": "degree",
+      "alts": [
+        "qualification",
+        "credential",
+        "university education"
+      ]
+    },
+    {
+      "id": "ID-abroad-outlook",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society",
+        "work"
+      ],
+      "tags": [
+        "abroad",
+        "career"
+      ],
+      "stance": "pro",
+      "label_vi": "Du học → ngoại ngữ, thích nghi, tầm nhìn quốc tế, mạng lưới nghề nghiệp",
+      "claim": "Studying abroad broadens horizons and improves employability.",
+      "because": "Daily immersion accelerates language fluency; students learn to adapt, work with diverse people and solve problems alone, which multinational employers value; contacts become networks.",
+      "result": "A wider range of careers, including positions in several countries.",
+      "example_ids": [
+        "EX-bilingual-graduate"
+      ],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Opinion",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho đề du học, trao đổi văn hoá, học ngoại ngữ, song ngữ, đa văn hoá."
+    },
+    {
+      "id": "ID-abroad-burden",
+      "type": "idea",
+      "topics": [
+        "education",
+        "economy",
+        "society"
+      ],
+      "tags": [
+        "abroad",
+        "cost"
+      ],
+      "stance": "con",
+      "label_vi": "Du học → gánh nặng tài chính và cảm xúc (nhớ nhà, cô lập)",
+      "claim": "Studying overseas places a heavy burden on individuals, both financially and emotionally.",
+      "because": "Tuition, accommodation and living costs consume savings, while homesickness leaves some students isolated.",
+      "result": "Those who cannot cope may return with debts and disappointing results.",
+      "rebuttal": "Scholarships, part-time work permits, counselling and careful budgeting reduce the risk.",
+      "example_ids": [],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Nhược điểm cho đề du học, học phí đại học, nợ sinh viên."
+    },
+    {
+      "id": "ID-exam-narrow",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "assessment"
+      ],
+      "stance": "con",
+      "label_vi": "Thi cử đo hẹp: trí nhớ và tốc độ, bỏ qua sáng tạo và kỹ năng thực hành",
+      "claim": "Relying on examinations gives only a narrow picture of ability.",
+      "because": "Written tests mainly reward memory and speed, while creativity, teamwork and practical skills go unmeasured.",
+      "result": "Talented people are mislabelled as weak and teaching drifts towards test preparation.",
+      "example_ids": [
+        "EX-gifted-artist"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Advantages / Disadvantages",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Dùng cho đề thi cử, bài kiểm tra chuẩn hoá, đánh giá liên tục, dạy theo dự án."
+    },
+    {
+      "id": "ID-exam-pressure-bias",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society",
+        "health"
+      ],
+      "tags": [
+        "assessment",
+        "wellbeing",
+        "equality"
+      ],
+      "stance": "con",
+      "label_vi": "Thi cử → áp lực làm sai lệch kết quả; gia sư tạo bất công",
+      "claim": "Exam results are distorted by pressure and unequal preparation.",
+      "because": "High-stakes tests cause anxiety that lowers the performance of capable candidates, and families that can afford private tutors give their children an advantage.",
+      "result": "Results reflect stress and wealth as much as ability.",
+      "example_ids": [],
+      "fits": [
+        "Agree / Disagree",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề thi cử, bài tập về nhà, gia sư, áp lực học tập."
+    },
+    {
+      "id": "ID-early-foundation",
+      "type": "idea",
+      "topics": [
+        "education",
+        "health"
+      ],
+      "tags": [
+        "early-years"
+      ],
+      "stance": "pro",
+      "label_vi": "Giáo dục sớm → nền móng cho mọi việc học (não phát triển nhanh, thói quen học)",
+      "claim": "The early years lay the foundations for all later learning.",
+      "because": "Young children's brains develop extremely quickly; play and stories build language, curiosity and concentration.",
+      "result": "Children enter primary school ready to learn instead of struggling to catch up.",
+      "example_ids": [
+        "EX-read-daily"
+      ],
+      "fits": [
+        "Extent",
+        "Agree / Disagree",
+        "Opinion"
+      ],
+      "reuse_vi": "Dùng cho đề giáo dục mầm non, trẻ nhỏ, đọc sách, chăm sóc trẻ, trợ cấp nhà trẻ."
+    },
+    {
+      "id": "ID-early-equal-start",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society",
+        "economy"
+      ],
+      "tags": [
+        "early-years",
+        "equality"
+      ],
+      "stance": "pro",
+      "label_vi": "Giáo dục sớm → hiệu quả nhất để thu hẹp khoảng cách giàu nghèo, rẻ hơn phụ đạo",
+      "claim": "High-quality early education is the most efficient way to close the gap between rich and poor.",
+      "because": "Disadvantaged children start school behind in vocabulary and social skills and the gap widens each year.",
+      "result": "Affordable nurseries give an equal start and cost less than remedial programmes.",
+      "example_ids": [],
+      "fits": [
+        "Extent",
+        "Opinion",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Dùng cho đề chi tiêu công cho trẻ em, nhà trẻ, bất bình đẳng."
+    },
+    {
+      "id": "ID-library-free-access",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society",
+        "media"
+      ],
+      "tags": [
+        "library",
+        "equality"
+      ],
+      "stance": "pro",
+      "label_vi": "Thư viện → tiếp cận thông tin miễn phí cho mọi người (sách, máy tính, internet, nguồn tin cậy)",
+      "claim": "Libraries give everyone access to information regardless of income.",
+      "because": "Books, e-books and databases are free, public computers serve residents without internet at home, and librarians help find reliable sources.",
+      "result": "Job seekers, low-income students and older people are not excluded from the digital world.",
+      "example_ids": [
+        "EX-textbooks-database"
+      ],
+      "fits": [
+        "Opinion",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Dùng cho đề thư viện, bảo tàng, nguồn tài nguyên số, khoảng cách số."
+    },
+    {
+      "id": "ID-library-community-hub",
+      "type": "idea",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "tags": [
+        "library",
+        "community"
+      ],
+      "stance": "pro",
+      "label_vi": "Thư viện → trung tâm cộng đồng (không gian học, hoạt động trẻ em, lớp ngoại ngữ, CLB sách)",
+      "claim": "Libraries function as community hubs that bring people together.",
+      "because": "They provide quiet study spaces, story sessions, language classes and workshops, nurturing a reading habit and social bonds across generations.",
+      "result": "Isolated residents gain company and libraries stay relevant by adapting (digital lending, flexible hours).",
+      "example_ids": [
+        "EX-book-club-elderly"
+      ],
+      "fits": [
+        "Opinion",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Dùng cho đề thư viện, bảo tàng, trung tâm cộng đồng, nghệ thuật công cộng, lễ hội."
+    },
+    {
+      "id": "ID-degree-gateway",
+      "type": "idea",
+      "topics": [
+        "education",
+        "work",
+        "economy"
+      ],
+      "tags": [
+        "university",
+        "career"
+      ],
+      "stance": "pro",
+      "label_vi": "Bằng đại học vẫn là cánh cửa vào nhiều nghề và thu nhập cao hơn",
+      "claim": "A degree remains the gateway to many professions.",
+      "because": "Doctors, engineers and teachers need recognised qualifications, and employers use degrees to screen hundreds of applicants; graduates generally earn more and face lower unemployment.",
+      "result": "The financial benefit usually outweighs the cost in the long term.",
+      "example_ids": [
+        "EX-graduate-engineer"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề giá trị của đại học, học phí, học nghề vs đại học, học bổng."
+    },
+    {
+      "id": "ID-degree-transferable",
+      "type": "idea",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "tags": [
+        "university",
+        "skills"
+      ],
+      "stance": "pro",
+      "label_vi": "Đại học dạy kỹ năng chuyển giao được và tạo mạng lưới quan hệ",
+      "claim": "University teaches skills that go beyond a particular subject.",
+      "because": "Students learn to research independently, analyse evidence, meet deadlines and communicate clearly, and they form professional networks.",
+      "result": "These abilities stay useful when technology changes the content of jobs.",
+      "rebuttal": "Entrepreneurs who dropped out and skilled trades are exceptions rather than the rule.",
+      "example_ids": [],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề đại học, nghiên cứu, học thuật vs nghề."
+    },
+    {
+      "id": "EX-bilingual-graduate",
+      "type": "example",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "text": "A graduate who is fluent in two languages and has lived abroad, for example, may apply for positions in several countries, which multiplies her career options.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-gifted-artist",
+      "type": "example",
+      "topics": [
+        "education"
+      ],
+      "text": "A gifted artist or entrepreneur, for example, may leave school with unimpressive grades despite exceptional real-world potential.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-read-daily",
+      "type": "example",
+      "topics": [
+        "education"
+      ],
+      "text": "A child who has been read to daily and encouraged to ask questions, for example, usually learns to read earlier and with greater enjoyment.",
+      "caution_vi": "Ví dụ giả định, dùng 'usually'."
+    },
+    {
+      "id": "EX-textbooks-database",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "A student who cannot afford textbooks, for example, can still complete a research project by borrowing materials and using the library's databases.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-book-club-elderly",
+      "type": "example",
+      "topics": [
+        "society"
+      ],
+      "text": "For many isolated residents, such as retired people living alone, a weekly book club may be their main source of company.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-graduate-engineer",
+      "type": "example",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "text": "A graduate engineer, for instance, can expect far wider opportunities than someone who left school without a technical qualification.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "FR-struct-solutions",
+      "type": "frame",
+      "topics": [
+        "general"
+      ],
+      "role": "structure",
+      "forms": [
+        "Causes / Solutions"
+      ],
+      "text": "Intro (vấn đề + báo trước các biện pháp) → Body 1 (nhóm biện pháp 1: mỗi biện pháp = đề xuất → vì sao hiệu quả → ví dụ) → Body 2 (nhóm biện pháp 2) → Conclusion (tóm tắt biện pháp thực tế nhất)",
+      "use_vi": "Khung cho đề 'How can governments…? Suggest practical measures.'"
+    },
+    {
+      "id": "PH-make-obtain",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "government"
+      ],
+      "role": "verb-phrase",
+      "text": "make books easy to obtain for every child",
+      "meaning_vi": "làm cho mọi trẻ em dễ dàng có sách"
+    },
+    {
+      "id": "PH-mobile-libraries",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "role": "noun-phrase",
+      "text": "mobile libraries could reach rural communities",
+      "meaning_vi": "thư viện lưu động có thể đến cộng đồng nông thôn"
+    },
+    {
+      "id": "PH-enjoyment-not-obligation",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "enjoyment, not obligation, creates lasting habits",
+      "meaning_vi": "niềm thích thú chứ không phải bắt buộc mới tạo thói quen lâu dài"
+    },
+    {
+      "id": "PH-role-models",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "media"
+      ],
+      "role": "noun-phrase",
+      "text": "popular sportspeople or celebrities as role models",
+      "meaning_vi": "vận động viên / người nổi tiếng làm hình mẫu"
+    },
+    {
+      "id": "PH-imitate-adults",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "clause",
+      "text": "children who see adults reading are more likely to imitate them",
+      "meaning_vi": "trẻ thấy người lớn đọc sách có nhiều khả năng bắt chước"
+    },
+    {
+      "id": "PH-tangible",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "make abstract subjects tangible",
+      "meaning_vi": "làm môn trừu tượng trở nên hữu hình, dễ nắm bắt"
+    },
+    {
+      "id": "PH-engage-senses",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "seeing and touching engages several senses at once",
+      "meaning_vi": "nhìn và chạm cùng lúc huy động nhiều giác quan"
+    },
+    {
+      "id": "PH-draw-conclusions",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "ask questions and draw their own conclusions",
+      "meaning_vi": "đặt câu hỏi và tự rút ra kết luận"
+    },
+    {
+      "id": "PH-appreciate-traditions",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "culture"
+      ],
+      "role": "verb-phrase",
+      "text": "appreciate traditions other than their own",
+      "meaning_vi": "trân trọng những truyền thống khác với của mình"
+    },
+    {
+      "id": "PH-weaken-prejudice",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "culture"
+      ],
+      "role": "verb-phrase",
+      "text": "weaken prejudice and strengthen respect between communities",
+      "meaning_vi": "làm giảm định kiến và củng cố tôn trọng giữa các cộng đồng"
+    },
+    {
+      "id": "PH-lifelong-learning",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "adults who wish to learn after leaving school",
+      "meaning_vi": "người lớn muốn học tiếp sau khi rời ghế nhà trường"
+    },
+    {
+      "id": "PH-grasp-difficult",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "grasp difficult concepts",
+      "meaning_vi": "nắm được khái niệm khó"
+    },
+    {
+      "id": "PH-instant-feedback",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "noun-phrase",
+      "text": "instant feedback",
+      "meaning_vi": "phản hồi tức thì"
+    },
+    {
+      "id": "PH-keep-motivated",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "keeps many reluctant learners motivated",
+      "meaning_vi": "giữ động lực cho nhiều học sinh vốn ngại học"
+    },
+    {
+      "id": "PH-expensive-distractions",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "caveat",
+      "text": "may become expensive distractions",
+      "meaning_vi": "có thể trở thành thứ gây xao nhãng tốn kém"
+    },
+    {
+      "id": "PH-tool-not-cure",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "role": "caveat",
+      "text": "technology is only a tool",
+      "meaning_vi": "công nghệ chỉ là công cụ",
+      "note_vi": "Câu giới hạn cho đề công nghệ: 'đúng nếu dùng có mục đích'."
+    },
+    {
+      "id": "PH-sustained-concentration",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "noun-phrase",
+      "text": "sustained concentration",
+      "meaning_vi": "sự tập trung kéo dài"
+    },
+    {
+      "id": "PH-patient-effort",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "clause",
+      "text": "improvement comes from patient, repeated effort",
+      "meaning_vi": "tiến bộ đến từ nỗ lực kiên nhẫn, lặp lại"
+    },
+    {
+      "id": "PH-carry-over",
+      "type": "phrase",
+      "topics": [
+        "general",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "carry over into other subjects",
+      "meaning_vi": "chuyển sang các môn khác"
+    },
+    {
+      "id": "PH-shared-responsibility",
+      "type": "phrase",
+      "topics": [
+        "society",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "take shared responsibility for the final performance",
+      "meaning_vi": "cùng chịu trách nhiệm về kết quả chung"
+    },
+    {
+      "id": "PH-relieve-stress",
+      "type": "phrase",
+      "topics": [
+        "health",
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "express feelings and relieve stress",
+      "meaning_vi": "bày tỏ cảm xúc và giải toả căng thẳng"
+    },
+    {
+      "id": "PH-multilingual-graduates",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "work"
+      ],
+      "role": "noun-phrase",
+      "text": "multilingual graduates",
+      "meaning_vi": "sinh viên tốt nghiệp biết nhiều ngôn ngữ"
+    },
+    {
+      "id": "PH-competitive-labour-market",
+      "type": "phrase",
+      "topics": [
+        "work",
+        "economy"
+      ],
+      "role": "noun-phrase",
+      "text": "a clear advantage in a competitive labour market",
+      "meaning_vi": "lợi thế rõ rệt trên thị trường lao động cạnh tranh"
+    },
+    {
+      "id": "PH-original-form",
+      "type": "phrase",
+      "topics": [
+        "culture",
+        "education"
+      ],
+      "role": "adverbial",
+      "text": "in their original form",
+      "meaning_vi": "ở dạng gốc (không qua bản dịch)"
+    },
+    {
+      "id": "PH-overload-timetable",
+      "type": "phrase",
+      "topics": [
+        "education"
+      ],
+      "role": "verb-phrase",
+      "text": "risks overloading a timetable that is already full",
+      "meaning_vi": "có nguy cơ làm quá tải thời khoá biểu vốn đã dày"
+    },
+    {
+      "id": "PH-absorb-easily",
+      "type": "phrase",
+      "topics": [
+        "education",
+        "language"
+      ],
+      "role": "clause",
+      "text": "children absorb sounds and structures easily",
+      "meaning_vi": "trẻ nhỏ tiếp thu âm thanh và cấu trúc rất dễ"
+    },
+    {
+      "id": "SY-encourage",
+      "type": "synonyms",
+      "topics": [
+        "general",
+        "government"
+      ],
+      "base": "encourage",
+      "alts": [
+        "promote",
+        "foster",
+        "stimulate",
+        "motivate"
+      ]
+    },
+    {
+      "id": "SY-children-enjoy",
+      "type": "synonyms",
+      "topics": [
+        "general"
+      ],
+      "base": "like / enjoy",
+      "alts": [
+        "take pleasure in",
+        "be keen on",
+        "be enthusiastic about",
+        "find appealing"
+      ]
+    },
+    {
+      "id": "SY-learn-language",
+      "type": "synonyms",
+      "topics": [
+        "education",
+        "language"
+      ],
+      "base": "learn a language",
+      "alts": [
+        "acquire a language",
+        "master a language",
+        "become fluent in a language"
+      ]
+    },
+    {
+      "id": "ID-reading-access",
+      "type": "idea",
+      "topics": [
+        "education",
+        "government",
+        "society"
+      ],
+      "tags": [
+        "reading",
+        "access"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp: đảm bảo mọi trẻ có sách (thư viện, thư viện lưu động, tặng sách)",
+      "claim": "Governments should make books easy to obtain for every child.",
+      "because": "Low-income families cannot afford books; funded libraries, mobile libraries and free book-gifting schemes put books where there are few.",
+      "result": "Children who read widely generally achieve better results across subjects, so the investment pays back.",
+      "example_ids": [
+        "EX-bookstart"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Dùng cho đề khuyến khích đọc sách, thư viện, tài nguyên học tập cho vùng nghèo."
+    },
+    {
+      "id": "ID-reading-habit-enjoy",
+      "type": "idea",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "tags": [
+        "reading",
+        "habit"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp: biến đọc sách thành niềm vui (giờ đọc, tự chọn sách, hình mẫu, cha mẹ cùng đọc)",
+      "claim": "Authorities should help children to enjoy reading rather than treat it as a chore.",
+      "because": "Daily reading time with free choice of books, author visits, reading challenges, celebrity role models and parental involvement make reading attractive.",
+      "result": "Enjoyment, not obligation, creates lasting habits.",
+      "example_ids": [
+        "EX-football-book"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Dùng cho mọi đề 'khuyến khích hành vi lâu dài' ở trẻ em (đọc, vận động, ăn uống lành mạnh)."
+    },
+    {
+      "id": "ID-museum-handson",
+      "type": "idea",
+      "topics": [
+        "education",
+        "culture"
+      ],
+      "tags": [
+        "museum"
+      ],
+      "stance": "pro",
+      "label_vi": "Bảo tàng → học bằng vật thật, tương tác, làm môn trừu tượng trở nên hữu hình",
+      "claim": "Museums make abstract subjects tangible.",
+      "because": "Handling replicas, watching demonstrations and examining genuine artefacts engages several senses; interactive exhibits encourage questions and independent conclusions; guides adapt explanations to different ages.",
+      "result": "Pupils understand and remember history and science far better than from textbooks alone.",
+      "example_ids": [
+        "EX-egypt-class"
+      ],
+      "fits": [
+        "Opinion",
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Dùng cho đề bảo tàng, chuyến đi thực tế, thí nghiệm, học thực hành."
+    },
+    {
+      "id": "ID-museum-culture-lifelong",
+      "type": "idea",
+      "topics": [
+        "education",
+        "culture",
+        "society"
+      ],
+      "tags": [
+        "museum",
+        "culture"
+      ],
+      "stance": "pro",
+      "label_vi": "Bảo tàng → hiểu văn hoá khác, học suốt đời, tiếp cận mọi lứa tuổi",
+      "claim": "Museums promote cultural understanding and lifelong learning.",
+      "because": "Collections from different regions and periods let visitors appreciate other traditions; many are free or cheap and offer online resources.",
+      "result": "Less prejudice, more respect between communities, and learning for adults after school.",
+      "example_ids": [
+        "EX-retired-lecture"
+      ],
+      "fits": [
+        "Opinion",
+        "Discuss both views"
+      ],
+      "reuse_vi": "Dùng cho đề bảo tàng, di sản, lễ hội, trao đổi văn hoá, đa dạng văn hoá."
+    },
+    {
+      "id": "ID-edtech-engage",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "edtech"
+      ],
+      "stance": "pro",
+      "label_vi": "Công nghệ trong lớp → bài học sinh động, hiểu khái niệm khó, phản hồi tức thì",
+      "claim": "Digital tools make lessons more engaging and help pupils to grasp difficult concepts.",
+      "because": "Simulations, animations and 3D models show what diagrams cannot; interactive quizzes give instant feedback and keep reluctant learners motivated.",
+      "result": "Involved students concentrate longer and remember more.",
+      "example_ids": [
+        "EX-volcano-model"
+      ],
+      "fits": [
+        "Extent",
+        "Agree / Disagree",
+        "Opinion"
+      ],
+      "reuse_vi": "Dùng cho đề công nghệ trong lớp học, game giáo dục, mô phỏng, podcast."
+    },
+    {
+      "id": "ID-tech-tool-caveat",
+      "type": "idea",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "tags": [
+        "edtech"
+      ],
+      "stance": "caveat",
+      "label_vi": "Giới hạn: công nghệ chỉ là công cụ; cần đào tạo giáo viên và mục tiêu rõ",
+      "claim": "Technology is only a tool; without teacher training and clear goals it may become an expensive distraction.",
+      "because": "Benefits depend on how it is used.",
+      "result": "Purposeful use is what improves learning.",
+      "example_ids": [],
+      "fits": [
+        "Extent",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Câu giới hạn cho mọi đề 'công nghệ cải thiện học tập'."
+    },
+    {
+      "id": "ID-music-cognitive",
+      "type": "idea",
+      "topics": [
+        "education",
+        "arts"
+      ],
+      "tags": [
+        "music",
+        "learning"
+      ],
+      "stance": "pro",
+      "label_vi": "Học nhạc → rèn tập trung, trí nhớ, kỷ luật, sự kiên trì (lan sang các môn khác)",
+      "claim": "Learning an instrument trains the mind.",
+      "because": "Reading notation, memorising pieces and coordinating hands, eyes and ears demand sustained concentration; regular practice teaches patient, repeated effort.",
+      "result": "Focus and self-discipline carry over into other subjects, and children approach homework with more persistence.",
+      "example_ids": [
+        "EX-difficult-piece"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề nghệ thuật / âm nhạc / thể thao giúp học tập, môn tự chọn."
+    },
+    {
+      "id": "ID-music-emotional-team",
+      "type": "idea",
+      "topics": [
+        "education",
+        "arts",
+        "health"
+      ],
+      "tags": [
+        "music",
+        "wellbeing"
+      ],
+      "stance": "pro",
+      "label_vi": "Âm nhạc → tự tin, hợp tác, bày tỏ cảm xúc, giải toả căng thẳng",
+      "claim": "Music contributes to emotional wellbeing and teamwork.",
+      "because": "Playing in a band or choir requires listening, adjusting one's part and sharing responsibility; performing builds confidence; music offers a healthy outlet for feelings.",
+      "result": "Cooperation, mutual respect and confidence grow.",
+      "rebuttal": "Instruments cost money, but schools can begin with singing and percussion.",
+      "example_ids": [
+        "EX-shy-concert"
+      ],
+      "fits": [
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề nghệ thuật, thể thao đồng đội, hoạt động ngoại khoá, sức khoẻ tinh thần."
+    },
+    {
+      "id": "ID-languages-career-cognitive",
+      "type": "idea",
+      "topics": [
+        "education",
+        "work",
+        "culture"
+      ],
+      "tags": [
+        "languages"
+      ],
+      "stance": "pro",
+      "label_vi": "Học nhiều ngôn ngữ → cơ hội nghề nghiệp, trí nhớ và chú ý, hiểu văn hoá gốc",
+      "claim": "Studying several languages broadens career prospects and intellectual abilities.",
+      "because": "Multilingual graduates can work in international companies and apply abroad; switching languages exercises memory and attention; learners access literature and culture in the original.",
+      "result": "A clear advantage in a competitive labour market and greater open-mindedness.",
+      "example_ids": [
+        "EX-spanish-french"
+      ],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Agree / Disagree",
+        "Extent"
+      ],
+      "reuse_vi": "Dùng cho đề song ngữ, đa ngôn ngữ, ngoại ngữ ở tiểu học, du học."
+    },
+    {
+      "id": "ID-languages-time-effort",
+      "type": "idea",
+      "topics": [
+        "education"
+      ],
+      "tags": [
+        "languages",
+        "curriculum"
+      ],
+      "stance": "con",
+      "label_vi": "Học nhiều ngôn ngữ → tốn thời gian, dễ nhầm lẫn, quá tải thời khoá biểu",
+      "claim": "Mastering several languages demands a great deal of time and effort.",
+      "because": "Hours of vocabulary and grammar reduce time for other subjects, and similar languages cause confusion; extra classes risk overloading the timetable.",
+      "result": "Workload and stress.",
+      "rebuttal": "Starting at primary level spreads the load over many years; apps and online partners make practice flexible.",
+      "example_ids": [],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Nhược điểm cho đề thêm môn học mới / ngoại ngữ / lập trình."
+    },
+    {
+      "id": "EX-bookstart",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "Schemes such as Bookstart in the United Kingdom, for instance, give free books to families with young children to encourage reading from an early age.",
+      "caution_vi": "Bookstart do Book Trust (Anh) điều hành; nêu chung chung, không số liệu."
+    },
+    {
+      "id": "EX-football-book",
+      "type": "example",
+      "topics": [
+        "education"
+      ],
+      "text": "A boy who dislikes novels, for example, may become an enthusiastic reader once offered a book about his favourite football team.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-egypt-class",
+      "type": "example",
+      "topics": [
+        "education",
+        "culture"
+      ],
+      "text": "A class studying ancient Egypt, for example, will remember the daily lives of ordinary people far more vividly after seeing real tools, jewellery and mummies than after a lesson based on text.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-retired-lecture",
+      "type": "example",
+      "topics": [
+        "education",
+        "society"
+      ],
+      "text": "A retired visitor attending a weekend lecture on local history, for instance, may gain as much from the museum as any schoolchild.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-volcano-model",
+      "type": "example",
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "text": "A geography class that explores a volcano through a three-dimensional model, for instance, gains a clearer picture than one that relies solely on a textbook photograph.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-difficult-piece",
+      "type": "example",
+      "topics": [
+        "education",
+        "arts"
+      ],
+      "text": "A pupil who has spent months mastering a difficult piece, for example, learns that perseverance eventually produces results.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-shy-concert",
+      "type": "example",
+      "topics": [
+        "education",
+        "arts"
+      ],
+      "text": "A shy pupil who gains confidence by performing in a school concert is likely to speak up more readily in other lessons.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    },
+    {
+      "id": "EX-spanish-french",
+      "type": "example",
+      "topics": [
+        "education",
+        "language"
+      ],
+      "text": "For example, a student who speaks Spanish and French can read news and literature from dozens of countries without relying on translations.",
+      "caution_vi": "Ví dụ giả định, an toàn."
+    }
+  ]
+}

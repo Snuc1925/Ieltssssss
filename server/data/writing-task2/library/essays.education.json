@@ -1,0 +1,2509 @@
+{
+  "topic": "education",
+  "passScore": 7,
+  "essays": [
+    {
+      "questionId": 1,
+      "qtype": "Opinion",
+      "question": "In your opinion, should countries invest more in education? Explain why.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:33:08.741Z",
+          "words": 269,
+          "text": "It is widely argued that national governments ought to devote a larger share of public spending to schooling. In my opinion, this is entirely justified, since greater investment in education fuels economic growth and helps to close the gap between rich and poor.\n\nTo begin with, a well-funded education system produces the skilled workforce on which a modern economy depends. Employers in sectors such as engineering, healthcare and finance increasingly seek graduates with advanced technical knowledge, digital literacy and sound problem-solving abilities. When governments allocate substantial resources to modernising classrooms and training teachers, young people acquire the competencies that the labour market actually demands. As a result, companies can recruit qualified staff more easily, unemployment falls and productivity rises. South Korea is a case in point: its sustained investment in schooling over several decades is widely seen as a key factor in its transformation into a high-income economy.\n\nFurthermore, public investment in education plays a pivotal role in narrowing social inequality. Where schools are poorly funded, good-quality learning tends to become a privilege reserved for wealthy families, leaving talented children from disadvantaged backgrounds with limited prospects. By contrast, when the state guarantees accessible, high-quality schooling for all, young people can progress on merit rather than family income. This, in turn, strengthens social mobility and reduces long-term dependence on welfare. Finland, which offers free education and consistently achieves strong results, illustrates how equal access can benefit society as a whole.\n\nIn conclusion, I firmly believe that countries should invest more in education. Far from being a mere expense, such spending drives prosperity and creates a fairer society for future generations.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 8,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết xuất sắc, đạt chất lượng cao về cả nội dung lẫn hình thức trình bày. Bài viết thể hiện khả năng lập luận sắc bén, vốn từ vựng phong phú và ngữ pháp vững chắc ở mức độ cao.",
+            "weaknesses": [
+              "Bài viết ở mức độ hoàn thiện cao, hầu như không có điểm yếu đáng kể nào cần khắc phục đối với một bài viết band 8.0."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp và toàn diện câu hỏi của đề bài bằng cách đưa ra lập trường rõ ràng ngay từ phần mở đầu. Các ý kiến được phát triển rất tốt với các lập luận chặt chẽ và ví dụ thực tế cụ thể như Hàn Quốc và Phần Lan.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, tuân thủ cấu trúc 4 đoạn chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp các đoạn văn chuyển ý mượt mà và giữ vững tính logic xuyên suốt.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều collocation tự nhiên và học thuật như 'skilled workforce', 'digital literacy', 'social mobility', và 'high-income economy'. Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức với các mệnh đề quan hệ và trạng ngữ chỉ điều kiện, nguyên nhân. Ngữ pháp chuẩn xác, không có lỗi sai về cấu trúc hay thì."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion: 'In your opinion, should…? Explain why.' → chọn 1 lập trường + 2 lý do",
+        "plan": [
+          {
+            "step": "1. Đọc đề, chọn khung",
+            "think": "Đề hỏi ý kiến trực tiếp (should countries invest more…?). Chọn lập trường ủng hộ rõ ràng ngay mở bài, và chỉ 2 lý do để mỗi lý do được phát triển đủ sâu (bám Task Response), thay vì liệt kê 4–5 ý nông.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Mở bài: paraphrase + thesis",
+            "think": "Không chép lại đề: invest more in education → devote a larger share of public spending to schooling (đổi động từ, danh từ và chủ ngữ countries → national governments). Thesis nêu luôn 2 lý do theo đúng thứ tự sẽ triển khai (kinh tế rồi bất bình đẳng) để người đọc đi theo dễ dàng.",
+            "refs": [
+              "FR-open-it-is-widely-argued-that",
+              "FR-stance-in-my-opinion-this-is-entirely-justified",
+              "PH-commit-share",
+              "SY-invest-heavily",
+              "PH-fuel-growth",
+              "PH-close-gap",
+              "SY-economic-growth"
+            ]
+          },
+          {
+            "step": "3. Lý do 1 — kinh tế",
+            "think": "Chọn ý phổ quát nhất cho đề đầu tư công: giáo dục → lao động có kỹ năng → doanh nghiệp tuyển dễ, thất nghiệp giảm. Đoạn đi đủ 4 bước: claim → cơ chế (ngành nào cần kỹ năng gì) → kết quả (As a result) → ví dụ. Từ 'skills' được đổi thành competencies / expertise để tránh lặp.",
+            "refs": [
+              "ID-edu-economy-skills",
+              "PH-skilled-workforce",
+              "PH-allocate-resources",
+              "PH-labour-market",
+              "SY-skills",
+              "CN-firstPoint-to-begin-with",
+              "CN-result-as-a-result"
+            ]
+          },
+          {
+            "step": "4. Lý do 2 — công bằng xã hội",
+            "think": "Cân bằng ý kinh tế bằng ý xã hội để bài không bị một chiều. Cơ chế: trường thiếu tiền → học tốt trở thành đặc quyền người giàu → trẻ nghèo mất cơ hội; nhà nước bảo đảm → tiến thân nhờ năng lực. Dùng 'By contrast' tạo đối lập rõ để mạch lập luận chặt (Coherence).",
+            "refs": [
+              "ID-edu-equality-mobility",
+              "PH-privilege-reserved",
+              "PH-progress-merit",
+              "PH-social-mobility",
+              "SY-poor",
+              "SY-rich",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "5. Ví dụ",
+            "think": "Dùng quốc gia có thật nhưng chỉ nói nhận định chung, không số liệu, để tránh sai sự thật. Mỗi đoạn một ví dụ khác nhau.",
+            "refs": [
+              "EX-korea-investment",
+              "EX-finland-free",
+              "CN-example-a-case-in-point-is",
+              "PH-key-factor",
+              "PH-sustained-investment"
+            ]
+          },
+          {
+            "step": "6. Kết bài",
+            "think": "Nhắc lại lập trường bằng từ khác rồi đóng bằng câu đảo ngược quan niệm 'chi tiêu là gánh nặng' để kết bài có ý nghĩa rộng hơn, thay vì chỉ lặp thân bài.",
+            "refs": [
+              "CN-concluding-in-conclusion",
+              "FR-far-from-being"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-opinion",
+          "FR-develop-point",
+          "FR-far-from-being",
+          "PH-commit-share",
+          "PH-fuel-growth",
+          "PH-close-gap",
+          "PH-skilled-workforce",
+          "PH-labour-market",
+          "PH-allocate-resources",
+          "PH-privilege-reserved",
+          "PH-progress-merit",
+          "PH-social-mobility",
+          "PH-sustained-investment",
+          "PH-key-factor",
+          "SY-invest-heavily",
+          "SY-economic-growth",
+          "SY-poor",
+          "SY-rich",
+          "SY-skills",
+          "ID-edu-economy-skills",
+          "ID-edu-equality-mobility",
+          "EX-korea-investment",
+          "EX-finland-free"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:43:22.247Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức band 8.0, trả lời trọn vẹn đề bài với lập luận chặt chẽ và ví dụ thuyết phục. Điểm mạnh nổi bật là từ vựng học thuật và khả năng liên kết ý. Để tiến lên band 8.5-9, bạn cần tinh chỉnh collocation và tránh lặp từ 'schooling'.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên (sound problem-solving abilities, good-quality learning).",
+          "Từ 'schooling' bị lặp lại vài lần, có thể thay bằng 'education', 'the education system', 'schools'.",
+          "Ví dụ Hàn Quốc và Phần Lan còn khá chung chung, chưa có số liệu cụ thể để tăng tính thuyết phục."
+        ]
+      }
+    },
+    {
+      "questionId": 4,
+      "qtype": "Opinion",
+      "question": "Discuss the role of technology in improving education.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:33:08.962Z",
+          "words": 267,
+          "text": "Technology has become a familiar presence in modern classrooms, from interactive whiteboards to online learning platforms. This essay will explain two key ways in which it improves education: by widening access to learning and by allowing teaching to be tailored to individual needs.\n\nFirst and foremost, digital technology makes learning considerably more flexible and accessible. With only a laptop and an internet connection, students in remote villages can attend live lessons, revisit recorded explanations and study at times that suit their circumstances. This convenience is particularly valuable for working adults, people with disabilities and those who live far from a university. Moreover, institutions are able to serve far larger cohorts without constructing additional buildings. Platforms such as Coursera and Khan Academy, for example, now give millions of users access to everything from school mathematics to university-level courses, often free of charge.\n\nIn addition, technology allows teaching to be adapted to the needs of each learner. In a crowded classroom, a teacher rarely has time to adjust the pace for every pupil, whereas adaptive software can identify a student's weaknesses and provide targeted practice immediately. Consequently, struggling learners receive timely support while faster ones are stretched, so overall progress becomes more even. Teachers, freed from repetitive marking, can then devote more attention to discussion and encouragement. A pupil who repeatedly makes the same grammatical error, for instance, can receive tailored exercises the same day instead of waiting weeks for feedback.\n\nTo sum up, technology improves education chiefly by broadening access and by personalising instruction. Nevertheless, it should complement rather than replace teachers, whose guidance and encouragement remain irreplaceable.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn đạt chất lượng tốt, bố cục chuẩn mực, lập luận sắc bén và từ vựng phong phú. Bạn đã đáp ứng hoàn toàn yêu cầu của đề bài IELTS Writing Task 2 với độ dài và nội dung thuyết phục.",
+            "weaknesses": [
+              "Một số câu có xu hướng hơi dài, đôi khi có thể gây loãng nhịp nếu không ngắt nghỉ đúng chỗ.",
+              "Ví dụ về lỗi ngữ pháp ở đoạn 3 mang tính cá nhân hóa cao nhưng có thể được khái quát hóa tốt hơn để làm nổi bật luận điểm chính."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi thảo luận về vai trò của công nghệ trong giáo dục, đưa ra hai luận điểm rõ ràng là mở rộng khả năng tiếp cận và cá nhân hóa việc học. Các ý được phát triển mạch lạc với ví dụ cụ thể như Coursera và Khan Academy.",
+              "coherenceCohesion": "Bố cục bài viết hoàn chỉnh với 4 đoạn rõ ràng. Các liên kết từ (First and foremost, Moreover, In addition, Consequently, To sum up) được sử dụng linh hoạt và tự nhiên giúp người đọc theo dõi mạch văn tốt.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ học thuật chính xác (accessible, tailored to individual needs, flexible, adaptive software, targeted practice). Chính tả và cách kết hợp từ (collocations) rất tốt.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức (whereas, while, whose). Các lỗi ngữ pháp rất hiếm và câu văn trôi chảy, đúng chuẩn văn phong nghị luận học thuật."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion dạng 'Discuss the role of X in Y' → trình bày 2 vai trò (không phải tranh luận hai phe)",
+        "plan": [
+          {
+            "step": "1. Nhận diện dạng đề",
+            "think": "'Discuss the role of technology in improving education' không hỏi đồng ý hay không, mà hỏi công nghệ đóng vai trò gì. Vì vậy dùng khung vai trò: mở bài báo trước 2 vai trò, mỗi thân bài một vai trò, kết bài thêm một lưu ý để bài cân bằng.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Mở bài",
+            "think": "Câu 1 đặt bối cảnh bằng hình ảnh cụ thể (bảng tương tác, nền tảng học online) thay vì câu sáo 'In today's world'. Câu 2 báo trước đúng 2 vai trò theo đúng thứ tự sẽ viết.",
+            "refs": [
+              "FR-this-essay-will"
+            ]
+          },
+          {
+            "step": "3. Vai trò 1 — mở rộng tiếp cận",
+            "think": "Ý phổ quát nhất của edtech: linh hoạt thời gian / địa điểm, phục vụ nhóm bị loại trừ (người đi làm, vùng xa, người khuyết tật). Thêm cơ chế phía tổ chức (phục vụ nhiều học viên không cần xây thêm), rồi ví dụ nền tảng có thật.",
+            "refs": [
+              "ID-edtech-access",
+              "PH-flexible-accessible",
+              "PH-attend-remote",
+              "PH-revisit-recorded",
+              "PH-widen-participation",
+              "SY-widen",
+              "SY-flexible",
+              "EX-coursera-khan",
+              "CN-firstPoint-first-and-foremost"
+            ]
+          },
+          {
+            "step": "4. Vai trò 2 — cá nhân hoá",
+            "think": "Đối lập lớp đông (giáo viên không chỉnh nhịp cho từng em) với phần mềm thích ứng. Kết quả hai chiều: em yếu được hỗ trợ kịp, em nhanh được thử thách, giáo viên thoát khỏi chấm bài lặp lại.",
+            "refs": [
+              "ID-edtech-personalise",
+              "PH-tailored-needs",
+              "PH-pinpoint-weaknesses",
+              "EX-grammar-feedback",
+              "CN-nextPoint-in-addition",
+              "CN-result-consequently"
+            ]
+          },
+          {
+            "step": "5. Kết bài có lưu ý",
+            "think": "Tóm tắt 2 vai trò rồi thêm 1 câu 'nhưng': công nghệ bổ trợ chứ không thay thế giáo viên. Câu lưu ý này làm bài trông cân nhắc và an toàn với mọi đề về công nghệ.",
+            "refs": [
+              "CN-concluding-to-sum-up",
+              "PH-complement-not-replace",
+              "CN-concession-nevertheless"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "PH-flexible-accessible",
+          "PH-attend-remote",
+          "PH-revisit-recorded",
+          "PH-widen-participation",
+          "PH-tailored-needs",
+          "PH-pinpoint-weaknesses",
+          "PH-complement-not-replace",
+          "SY-widen",
+          "SY-flexible",
+          "ID-edtech-access",
+          "ID-edtech-personalise",
+          "EX-coursera-khan",
+          "EX-grammar-feedback"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:43:19.595Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, đưa ra hai luận điểm rõ ràng và có tính thuyết phục. Từ vựng và ngữ pháp ở mức tốt, bố cục mạch lạc. Để đạt band cao hơn, có thể bổ sung phân tích sâu hơn về vai trò bổ trợ của công nghệ và mở rộng góc nhìn phản biện nếu đề bài yêu cầu.",
+        "weaknesses": [
+          "Chưa thảo luận sâu các hạn chế hoặc quan điểm đối lập (nếu đề yêu cầu discuss).",
+          "Một vài lựa chọn từ chưa tối ưu về sắc thái học thuật ('faster ones', 'convenience').",
+          "Liên kết từ còn hơi lặp lại, có thể đa dạng hơn."
+        ]
+      }
+    },
+    {
+      "questionId": 9,
+      "qtype": "Extent",
+      "question": "To what extent should media studies be taught in schools? Give reasons for your answer.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:33:09.207Z",
+          "words": 280,
+          "text": "Young people today spend a large part of their lives consuming news, advertisements and entertainment through screens. I largely agree that media studies should form part of the school curriculum, since it teaches pupils to evaluate information critically and prepares them for a media-driven world of work.\n\nTo begin with, media studies equips pupils to distinguish reliable information from misleading content. Social media platforms deliver a constant stream of news, opinion and rumour, and false claims often spread faster than corrections. Pupils who learn to check sources, identify bias and recognise emotional manipulation are far less likely to be deceived or to share misinformation. Such analytical habits also protect them as future voters, who must judge political messages that are designed to persuade rather than inform. A teenager who has analysed how a misleading headline is constructed, for example, will find it easier to question a viral post during an election campaign.\n\nFurthermore, the subject builds practical skills with clear career value. Advertising, journalism, film and digital marketing are major industries, and even employees in unrelated fields must now communicate effectively through video, social media and online platforms. By producing short films, blogs or campaigns, pupils learn to plan, collaborate and present ideas to an audience. They also begin to understand how advertisers target young consumers, which helps them to make more informed choices about what they buy. However, media studies should not replace core subjects such as mathematics and literacy; it works best as a focused course within a balanced timetable.\n\nIn conclusion, I believe that schools should teach media studies because it develops critical judgement and employable skills, provided that it is integrated sensibly into the existing curriculum.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, lập luận chặt chẽ, bố cục rõ ràng và ngôn ngữ tự nhiên. Người viết đã trả lời trọn vẹn yêu cầu đề bài với văn phong học thuật phù hợp.",
+            "weaknesses": [
+              "Một số từ vựng mang tính phổ biến cao, thiếu các thành ngữ hoặc cụm từ học thuật cực kỳ hiếm gặp.",
+              "Cách diễn đạt đôi khi hơi an toàn, chưa thực sự bứt phá lên mức band 8.5-9.0 về từ vựng."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi 'To what extent' bằng cách đưa ra quan điểm đồng tình phần lớn và cân bằng bằng việc giới hạn phạm vi môn học ở đoạn 3. Các ý được phát triển đầy đủ và có ví dụ minh họa rõ ràng.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở đầu, các đoạn thân bài có câu chủ đề rõ ràng và phần kết luận tóm tắt tốt. Các từ nối được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ chủ đề như 'misinformation', 'emotional manipulation', 'media-driven world of work'. Tuy nhiên, có thể bổ sung thêm một số từ vựng nâng cao hơn nữa để đạt band 8+.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức được sử dụng linh hoạt với độ chính xác cao. Ngữ pháp không có lỗi lớn, thể hiện sự kiểm soát cấu trúc tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: 'To what extent should X be taught in schools?' → lập trường 'largely agree' + giới hạn",
+        "plan": [
+          {
+            "step": "1. Đọc chữ 'to what extent'",
+            "think": "Đề hỏi mức độ, nên không nói 'tuyệt đối đồng ý' mà chọn 'largely agree' và dành một câu giới hạn ở thân bài 2 (không thay môn cốt lõi). Câu giới hạn này chính là câu trả lời cho 'extent', giúp Task Response đủ điểm.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Mở bài",
+            "think": "Mở bằng bối cảnh gần gũi (giới trẻ tiêu thụ tin tức qua màn hình), không chép đề. Thesis nêu 2 lý do: đánh giá thông tin phản biện + chuẩn bị cho thế giới việc làm bị truyền thông chi phối.",
+            "refs": [
+              "PH-evaluate-critically",
+              "PH-media-driven"
+            ]
+          },
+          {
+            "step": "3. Lý do 1 — phân biệt thông tin",
+            "think": "Ý cốt lõi của môn truyền thông: thông tin giả lan nhanh hơn đính chính → học sinh biết kiểm tra nguồn thì khó bị lừa → cử tri tốt hơn. Ví dụ giả định về tiêu đề gây hiểu lầm trong mùa bầu cử.",
+            "refs": [
+              "ID-media-misinformation",
+              "PH-distinguish-reliable",
+              "EX-election-headline",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "4. Lý do 2 — kỹ năng nghề nghiệp + giới hạn",
+            "think": "Ngành quảng cáo, báo chí, tiếp thị số là ngành lớn; mọi nghề giờ đều cần giao tiếp qua kênh số. Sau đó thêm 'However' để giới hạn: môn này không thay toán và ngôn ngữ, chỉ là khoá tập trung trong thời khoá biểu cân đối.",
+            "refs": [
+              "ID-media-career",
+              "PH-employable-skills",
+              "ID-curriculum-balance",
+              "PH-balanced-timetable",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "5. Kết bài có điều kiện",
+            "think": "Lặp lại lập trường kèm điều kiện 'provided that…' khớp với câu giới hạn ở thân bài 2.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-extent",
+          "PH-distinguish-reliable",
+          "PH-evaluate-critically",
+          "PH-media-driven",
+          "PH-employable-skills",
+          "PH-balanced-timetable",
+          "ID-media-misinformation",
+          "ID-media-career",
+          "ID-curriculum-balance",
+          "EX-election-headline"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:43:09.045Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết tốt, đạt mức 8.0 tổng thể. Lập luận rõ ràng, từ vựng và ngữ pháp vững. Để lên band 8.5, thí sinh cần tăng thêm độ tinh tế trong lập luận và dùng từ vựng đặc sắc hơn.",
+        "weaknesses": [
+          "Chưa khai thác sâu phản biện hoặc mức độ 'to what extent' bằng cách cân nhắc các quan điểm trái chiều",
+          "Từ vựng tuy tốt nhưng chưa có nhiều cụm từ đặc sắc band 8.5+",
+          "Một số cụm từ có thể trau chuốt thêm để tự nhiên hơn"
+        ]
+      }
+    },
+    {
+      "questionId": 13,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Do the advantages of online learning outweigh the disadvantages? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:33:13.586Z",
+          "words": 255,
+          "text": "Online learning has expanded rapidly over the past decade, and many students now follow entire degrees through a screen. Although it has certain drawbacks, I believe that its benefits clearly outweigh them.\n\nOn the positive side, online learning makes education far more flexible and affordable. Students can attend lessons from any location, replay difficult explanations and arrange their studies around jobs or family responsibilities. In addition, learners save on commuting, accommodation and printed textbooks, while institutions save on buildings and staff, so fees can be kept lower. As a result, people who might otherwise be excluded, such as rural residents and working parents, are able to gain qualifications. A nurse who studies for a master's degree in the evenings, for instance, can improve her career prospects without giving up her income.\n\nOn the negative side, online study carries the risk of distraction and reduced human contact. Devices offer endless temptations such as games and social media, and learners who study alone miss the encouragement, discipline and immediate feedback that a teacher provides in person. Furthermore, families without a reliable internet connection or a suitable device may fall behind, which could deepen existing inequalities. Nevertheless, these problems are far from insurmountable. Schools can arrange live sessions, regular check-ins and loan schemes for laptops, and learners can develop self-discipline through structured timetables.\n\nIn conclusion, despite the risks of distraction and unequal access, online learning is, on balance, more beneficial than harmful, thanks to its flexibility and lower cost. With proper support, its drawbacks can largely be overcome.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết hoàn chỉnh và xuất sắc về mặt cấu trúc cũng như lập luận cho dạng đề Advantages / Disadvantages. Bài viết đạt độ dài trên 255 từ, thể hiện khả năng tư duy mạch lạc và vốn từ vựng, ngữ pháp vững chắc ở mức band 7.5-8.0.",
+            "weaknesses": [
+              "Một số ý ở phần thân bài có thể được đào sâu hơn nữa về mặt phân tích tác động dài hạn.",
+              "Cách diễn đạt đôi chỗ còn hơi an toàn, chưa có nhiều từ vựng thực sự học thuật bậc cao (C1/C2)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi của đề bài, có lập trường rõ ràng từ đầu đến cuối. Các ưu và nhược điểm được phân tích đầy đủ kèm theo ví dụ thực tế.",
+              "coherenceCohesion": "Bố cục bài viết rất rành mạch với các đoạn văn rõ ràng. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến giáo dục trực tuyến. Chính tả và cách kết hợp từ (collocation) rất tốt.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác gần như tuyệt đối, không có lỗi lặp cấu trúc đáng kể."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Advantages / Disadvantages: 'Do the advantages outweigh the disadvantages?' → chọn phe 'ưu điểm thắng'",
+        "plan": [
+          {
+            "step": "1. Chọn phe và khung",
+            "think": "Đề hỏi 'outweigh' nên phải chọn một phe rõ ràng ngay mở bài (benefits outweigh). Khung: ưu điểm ở thân bài 1; nhược điểm ở thân bài 2 nhưng kết thúc bằng phản bác, để thân bài 2 không làm yếu lập trường.",
+            "refs": [
+              "FR-struct-advdis"
+            ]
+          },
+          {
+            "step": "2. Mở bài",
+            "think": "Câu 1 nêu bối cảnh (online learning mở rộng nhanh, nhiều người học cả bằng cấp qua màn hình). Câu 2 vừa thừa nhận có nhược điểm (although…) vừa chốt phe: lợi ích vượt trội.",
+            "refs": [
+              "SY-drawback"
+            ]
+          },
+          {
+            "step": "3. Ưu điểm — linh hoạt và rẻ",
+            "think": "Hai lợi ích gói trong một đoạn: linh hoạt thời gian / địa điểm, và chi phí thấp cho cả người học lẫn trường. Kết quả: nhóm bị loại trừ (người ở nông thôn, phụ huynh đi làm) có bằng cấp. Ví dụ giả định cô y tá học thạc sĩ buổi tối.",
+            "refs": [
+              "ID-online-cost",
+              "PH-save-costs",
+              "SY-cheap",
+              "SY-flexible",
+              "EX-nurse-evening-degree",
+              "CN-firstPoint-on-the-positive-side"
+            ]
+          },
+          {
+            "step": "4. Nhược điểm + phản bác",
+            "think": "Hai nhược điểm hay dùng nhất của công nghệ: xao nhãng / thiếu tương tác và khoảng cách số. Sau mỗi nhược điểm là một giải pháp cụ thể (buổi học trực tiếp, cho mượn laptop, thời khoá biểu có cấu trúc) mở đầu bằng 'Nevertheless, these problems are far from insurmountable'.",
+            "refs": [
+              "ID-edtech-distraction",
+              "ID-edtech-divide",
+              "PH-risk-distraction",
+              "PH-endless-temptations",
+              "PH-deepen-inequalities",
+              "PH-insurmountable",
+              "PH-loan-schemes",
+              "CN-nextPoint-on-the-negative-side",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Công thức 'despite X, … on balance … thanks to Y' vừa nhắc nhược điểm vừa chốt ưu điểm, kèm một câu điều kiện (with proper support).",
+            "refs": [
+              "FR-on-balance",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "PH-risk-distraction",
+          "PH-endless-temptations",
+          "PH-save-costs",
+          "PH-deepen-inequalities",
+          "PH-insurmountable",
+          "PH-loan-schemes",
+          "SY-drawback",
+          "SY-cheap",
+          "ID-edtech-distraction",
+          "ID-edtech-divide",
+          "ID-online-cost",
+          "EX-nurse-evening-degree"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:43:45.927Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết mạch lạc, trả lời đúng đề và có lập luận cân bằng. Vốn từ và ngữ pháp tốt, chỉ cần trau chuốt một vài cách diễn đạt và thêm ví dụ cho mặt bất lợi để đạt band 8+. Tổng thể khoảng 8.0.",
+        "weaknesses": [
+          "Phần bất lợi chưa có ví dụ minh họa cụ thể như phần lợi ích",
+          "Một số câu còn dùng từ chưa tối ưu (follow entire degrees, save on buildings)",
+          "Luận điểm về tiết kiệm chi phí cho trường dẫn đến học phí thấp hơi chung, cần dẫn chứng hoặc giải thích thêm"
+        ]
+      }
+    },
+    {
+      "questionId": 18,
+      "qtype": "Discuss both views",
+      "question": "Some people prefer traditional classrooms while others prefer online learning. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:33:13.919Z",
+          "words": 256,
+          "text": "People hold different views on whether traditional classrooms provide the better learning environment or whether online learning is preferable. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of traditional classrooms emphasise the value of face-to-face interaction. Learning in a physical classroom fosters teamwork, shared responsibility and contact with peers who hold different viewpoints, qualities that are difficult to develop through a screen. A teacher who is present can read facial expressions, notice confusion and adjust an explanation instantly. Moreover, a fixed timetable and a dedicated learning space encourage discipline, particularly among younger children who lack the self-control to study alone. For example, pupils who complete a group project learn to negotiate disagreements rather than avoid them.\n\nOn the other hand, advocates of online learning point to its flexibility and accessibility. With a laptop and an internet connection, students can attend lessons from remote areas, revisit recorded explanations and study at times that suit their personal circumstances. This convenience widens participation, especially among working adults and people with health conditions who might otherwise be excluded. In addition, online courses are often more affordable, since learners save on travel and accommodation. Platforms such as Coursera and Khan Academy, for instance, give millions of users access to lessons at little or no cost.\n\nIn conclusion, both approaches have genuine merits. Personally, I believe that a blended model, with face-to-face teaching as its foundation and online tools as a supplement, offers the most effective approach, since it combines human interaction with flexibility.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, bố cục mạch lạc, lập luận thuyết phục và từ vựng phong phú. Người viết đã hoàn thành tốt yêu cầu của một bài Discuss both views.",
+            "weaknesses": [
+              "Độ dài bài viết vừa đủ tối thiểu (256 từ), có thể mở rộng thêm một chút chi tiết ở phần quan điểm cá nhân.",
+              "Ví dụ về các nền tảng trực tuyến chưa phân tích sâu thêm tác động của chúng đối với người học."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận đầy đủ cả hai quan điểm về lớp học truyền thống và học trực tuyến, đồng thời đưa ra quan điểm cá nhân rõ ràng ở phần mở bài và kết bài. Các ý chính được phát triển hợp lý và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các liên kết từ (On the one hand, On the other hand, In conclusion, Moreover, In addition) được sử dụng mạch lạc và tự nhiên.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ học thuật chính xác (face-to-face interaction, fosters teamwork, fixed timetable, accessibility, personal circumstances). Không có lỗi chính tả.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, sử dụng linh hoạt các mệnh đề quan hệ và câu phức. Các thì được dùng chính xác, câu văn trôi chảy và chuẩn ngữ pháp."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views + give your opinion → mỗi phe một đoạn, ý kiến riêng ở mở bài (ngầm) và kết bài",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Đề yêu cầu hai việc: thảo luận cả hai phe và nêu ý kiến. Mở bài báo sẽ xem cả hai; hai thân bài dùng 'On the one hand' / 'On the other hand' để người chấm thấy ngay cấu trúc; ý kiến riêng đặt ở kết bài (có thể gợi ý sớm ở mở bài nếu muốn).",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-people-hold-different-views-on-whether"
+            ]
+          },
+          {
+            "step": "2. Phe lớp học truyền thống",
+            "think": "Dùng lại ý tương tác trực tiếp: làm việc nhóm, tiếp xúc quan điểm khác nhau, giáo viên đọc được sự bối rối của học sinh, kỷ luật cho trẻ nhỏ. Mỗi ý có cơ chế rõ ràng, không chỉ liệt kê tính từ.",
+            "refs": [
+              "ID-class-interaction",
+              "PH-face-to-face",
+              "PH-foster-teamwork",
+              "PH-read-confusion",
+              "EX-group-project",
+              "CN-firstPoint-on-the-one-hand"
+            ]
+          },
+          {
+            "step": "3. Phe học online",
+            "think": "Tái sử dụng ý linh hoạt, tiếp cận từ bài về công nghệ (không phải nghĩ ý mới) và thêm chi phí thấp. Giữ nhất quán: người đi làm, người có vấn đề sức khoẻ là nhóm hưởng lợi.",
+            "refs": [
+              "ID-edtech-access",
+              "ID-online-cost",
+              "PH-revisit-recorded",
+              "PH-widen-participation",
+              "SY-cheap",
+              "EX-coursera-khan",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "4. Ý kiến riêng",
+            "think": "Chọn đáp án 'blended' vì an toàn và hợp lý: trong đề so sánh hai hình thức học, mô hình kết hợp luôn bảo vệ được bằng chính các lý do đã viết ở hai thân bài.",
+            "refs": [
+              "PH-blended-model",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-both",
+          "PH-face-to-face",
+          "PH-read-confusion",
+          "PH-foster-teamwork",
+          "PH-blended-model",
+          "ID-class-interaction",
+          "EX-group-project"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:44:09.672Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết Band 8 toàn diện, đáp ứng tốt yêu cầu đề và có lập luận chặt chẽ. Người viết kiểm soát tốt ngôn ngữ học thuật và có thể mở rộng ý một chút để đạt 8.5. Cần chú ý một vài collocation và tính chính xác khi tham chiếu để giữ vững band.",
+        "weaknesses": [
+          "Một số cụm từ chưa chính xác về collocation (convenience/flexibility, personal circumstances/schedules).",
+          "Câu liệt kê sử dụng 'qualities' chưa bao quát hết các yếu tố.",
+          "Có thể phát triển sâu hơn quan điểm cá nhân thay vì chỉ nêu trong kết luận.",
+          "Chưa có câu phản biện hoặc đánh giá hạn chế của từng phương thức để tăng chiều sâu."
+        ]
+      }
+    },
+    {
+      "questionId": 20,
+      "qtype": "Extent",
+      "question": "To what extent should critical thinking be taught in schools? Give reasons for your answer.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:36:43.601Z",
+          "words": 289,
+          "text": "Critical thinking, the ability to question assumptions and weigh evidence, is often praised but rarely taught explicitly. I largely agree that it should be a core element of schooling, since it deepens learning and equips young people to cope with an overload of information.\n\nTo begin with, teaching critical thinking encourages pupils to understand ideas instead of merely memorising facts. When learners are expected to question, compare and justify their views, they grasp concepts more thoroughly and retain them for far longer. This capacity for independent reasoning is invaluable at university and in the workplace, where problems rarely come with a ready-made answer. Recruiters, for instance, consistently seek graduates who can analyse a situation, evaluate alternatives and defend a decision, rather than those who can only repeat what they have been taught. A student who has debated two sides of a historical event in class will find it easier to build a coherent argument in a later essay or meeting.\n\nFurthermore, critical thinking is the best defence against misleading information. Pupils today encounter news, rumours and advertisements online every day, and false claims often spread faster than corrections. Those who have learned to check sources, spot bias and test an argument for logical weaknesses are far less likely to be deceived, and they become more responsible citizens when they vote or share content. However, schools need not create a separate subject: the skill is best developed within existing lessons such as science, history and literature, so that the timetable is not overloaded.\n\nIn conclusion, I believe that critical thinking deserves a central place in the curriculum because it improves understanding and protects pupils from manipulation, provided that it is woven into everyday teaching rather than added as another burden.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết mẫu mực, đạt chuẩn band 8 với lập luận sắc sảo, từ vựng phong phú và ngữ pháp vững chắc. Bài viết đáp ứng hoàn hảo yêu cầu của đề bài về cả nội dung lẫn hình thức.",
+            "weaknesses": [
+              "Một số câu có xu hướng khá dài, nếu không cẩn thận có thể gây rối cho người đọc (tuy bài này vẫn kiểm soát tốt).",
+              "Phạm vi từ vựng đôi chỗ có thể nâng cấp thêm một số từ đồng nghĩa mang tính học thuật cao hơn nữa."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất xuất sắc câu hỏi 'to what extent', nêu rõ quan điểm đồng tình phần lớn và đưa ra các lý do thuyết phục kèm ví dụ cụ thể. Các luận điểm về mặt học thuật và thông tin sai lệch trên mạng được phát triển đầy đủ và hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết rất chặt chẽ với phần mở bài, thân bài và kết luận rõ ràng. Các câu nối và từ chuyển ý (To begin with, Furthermore, However, In conclusion) được sử dụng linh hoạt, giúp mạch văn trôi chảy.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ học thuật và collocations tự nhiên như 'question assumptions', 'overload of information', 'independent reasoning'. Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp uyển chuyển giữa câu đơn, câu phức và câu ghép mà không mắc lỗi ngữ pháp nào đáng kể. Các mệnh đề quan hệ và điều kiện được sử dụng rất tự nhiên."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: 'To what extent should critical thinking be taught in schools?' → largely agree + giới hạn",
+        "plan": [
+          {
+            "step": "1. Nhận diện: cùng dạng với đề 9 (media studies)",
+            "think": "Hai đề đều là 'To what extent should X be taught?'. Dùng lại đúng khung: largely agree + 2 lý do + 1 câu giới hạn ở thân bài 2. Chỉ cần thay phần nội dung cụ thể của X; phần giới hạn có sẵn trong thư viện.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view",
+              "FR-open-a-growing-number-of-people-believe-that"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — hiểu sâu thay vì học vẹt",
+            "think": "Ý riêng của tư duy phản biện: hiểu sâu, nhớ lâu, dùng được ở đại học và công việc. Thêm ví dụ về nhà tuyển dụng (đổi 'employers' thành 'recruiters') để đoạn gắn với thực tế, rồi ví dụ lớp học tranh luận lịch sử.",
+            "refs": [
+              "ID-critical-deeper-learning",
+              "PH-question-compare-justify",
+              "PH-ready-made-answer",
+              "SY-memorise",
+              "SY-analyse",
+              "SY-employer",
+              "EX-debate-history",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — chống thông tin sai lệch (tái sử dụng)",
+            "think": "Tái sử dụng ý của bài media studies: thông tin giả lan nhanh hơn đính chính, học sinh biết kiểm tra nguồn thì khó bị lừa. Chỉ đổi cách diễn đạt (spot bias, logical weaknesses), không phải nghĩ ý mới.",
+            "refs": [
+              "ID-media-misinformation",
+              "PH-spot-bias",
+              "PH-defence-against",
+              "PH-evaluate-critically",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Giới hạn (câu trả lời cho 'extent')",
+            "think": "Dùng 'However' để giới hạn: không cần môn riêng, lồng vào các môn sẵn có để thời khoá biểu không quá tải. Câu này nằm cuối thân bài 2 và được nhắc lại ở kết bài (provided that…).",
+            "refs": [
+              "ID-integrate-existing",
+              "ID-curriculum-balance",
+              "PH-woven-into",
+              "PH-balanced-timetable"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Nhắc lại lập trường + điều kiện bằng 'provided that', khớp với phần giới hạn ở thân bài.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-concede-cost",
+          "PH-question-compare-justify",
+          "PH-ready-made-answer",
+          "PH-spot-bias",
+          "PH-defence-against",
+          "PH-woven-into",
+          "SY-memorise",
+          "SY-analyse",
+          "SY-employer",
+          "ID-critical-deeper-learning",
+          "ID-integrate-existing",
+          "EX-debate-history"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:44:30.659Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn chỉnh, lập luận thuyết phục và bám sát yêu cầu đề. Từ vựng, ngữ pháp và bố cục đều ở mức tốt, xứng đáng band 8. Để tiến xa hơn, người viết nên trau chuốt collocation và bổ sung ví dụ cụ thể ở phần lồng ghép môn học.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên như 'an overload of information'.",
+          "Phần đề xuất lồng ghép vào môn học còn hơi chung, chưa có ví dụ cụ thể về hoạt động trong lớp.",
+          "Ví dụ về tuyển dụng có thể chưa đủ sức nặng vì mang tính liệt kê chung.",
+          "Đoạn thân bài thứ hai có thể khai thác sâu hơn hậu quả của việc thiếu tư duy phản biện."
+        ]
+      }
+    },
+    {
+      "questionId": 31,
+      "qtype": "Discuss both views",
+      "question": "Is it better to focus government spending on education or on other priorities? Discuss and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:36:43.818Z",
+          "words": 254,
+          "text": "Opinions are divided as to whether education should be the priority for public spending or whether other sectors deserve a larger share of the budget. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who put education first argue that it is the foundation of long-term national development. A well-funded school system produces graduates with the skills that modern industries require, which raises productivity, attracts investment and widens the tax base. Education also narrows the gap between rich and poor, since talented children from low-income families can progress on merit rather than family wealth. Countries that expanded access to schooling after the Second World War, such as South Korea, later enjoyed rapid economic growth.\n\nOn the other hand, critics point out that governments have limited funds and many equally urgent responsibilities. Hospitals, public transport, housing and social care all demand substantial investment, and a shortage of hospital beds or a failing road network can cost lives and damage the economy immediately. Moreover, spending more on education does not guarantee better results if money is wasted on poorly designed programmes, whereas a modest sum directed at the right area, such as healthcare for an ageing population, may bring greater benefit. A rural region with no emergency hospital, for example, has more pressing needs than new school equipment.\n\nIn conclusion, although other public services deserve adequate funding, I believe that education should come first, because a well-educated population ultimately generates the revenue and expertise that sustain every other service.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng tốt với bố cục rõ ràng, lập luận chặt chẽ và văn phong học thuật. Người viết đã trả lời đúng trọng tâm đề bài và đưa ra các dẫn chứng thuyết phục.",
+            "weaknesses": [
+              "Một số câu ghép khá dài, có thể gây khó đọc nếu cấu trúc phức tạp hơn nữa.",
+              "Phần phát triển ý kiến cá nhân ở kết bài còn hơi ngắn gọn, chưa mở rộng thêm hệ quả."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận cả hai quan điểm và đưa ra ý kiến cá nhân rất rõ ràng ở phần mở bài và kết bài. Các ý chính được phát triển hợp lý với các ví dụ cụ thể như Hàn Quốc.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ theo dõi mạch lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng tốt các cụm từ học thuật và collocation tự nhiên như 'long-term national development', 'widens the tax base', 'substantial investment'.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Các lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền đạt ý nghĩa."
+            }
+          }
+        },
+        {
+          "n": 2,
+          "at": "2026-10-03T17:42:10.876Z",
+          "words": 280,
+          "text": "Opinions are divided as to whether education should be the priority for public spending or whether other sectors deserve a larger share of the budget. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who put education first argue that it is the foundation of long-term national development. A well-funded school system produces graduates with the skills that modern industries require, which raises productivity, attracts investment and widens the tax base. Education also narrows the gap between rich and poor, since talented children from low-income families can progress on merit rather than family wealth. Countries that expanded access to schooling after the Second World War, such as South Korea, later enjoyed rapid economic growth.\n\nOn the other hand, critics point out that governments have limited funds and many equally urgent responsibilities. Hospitals, public transport, housing and social care all demand substantial investment, and a shortage of hospital beds or a failing road network can cost lives and damage the economy immediately. Moreover, spending more on education does not guarantee better results if money is wasted on poorly designed programmes, whereas a modest sum directed at the right area, such as healthcare for an ageing population, may bring greater benefit. A rural region with no emergency hospital, for example, has more pressing needs than new school equipment.\n\nIn conclusion, although other public services deserve adequate funding, I believe that education should come first, because a well-educated population ultimately generates the revenue and expertise that sustain every other service. Governments should, of course, continue to protect essential public services; the point is that long-term prosperity ultimately rests on the knowledge and skills of the people.",
+          "note": "Thêm câu cuối kết bài để vượt 250 từ an toàn và làm rõ rằng vẫn bảo vệ dịch vụ thiết yếu.",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn đạt chất lượng tốt với tư duy lập luận rõ ràng, cấu trúc mạch lạc và ngữ pháp vững chắc. Việc cải thiện thêm một số lựa chọn từ vựng học thuật sẽ giúp bài viết đạt band điểm cao hơn.",
+            "weaknesses": [
+              "Một số từ vựng diễn đạt còn mang tính thông thường, chưa đạt mức tinh tế tối đa.",
+              "Thiếu các cụm từ đồng nghĩa phong phú hơn khi lặp lại một số khái niệm về ngân sách."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận cả hai quan điểm và đưa ra ý kiến cá nhân rõ ràng. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể như trường hợp của Hàn Quốc.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng, sử dụng linh hoạt các từ nối chuyển ý như 'On the one hand', 'On the other hand' và 'In conclusion'. Các ý trong đoạn được liên kết chặt chẽ.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng chính xác nhiều từ và cụm từ học thuật phù hợp với chủ đề ngân sách chính phủ và giáo dục. Tuy nhiên, một số cụm từ có thể được nâng cấp thêm độ tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt và sử dụng dấu câu chính xác. Ngữ pháp nhìn chung chắc chắn và không có lỗi nghiêm trọng."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: 'Is it better to focus government spending on education or on other priorities? Discuss and give your opinion.'",
+        "plan": [
+          {
+            "step": "1. Nhận diện dạng",
+            "think": "Dù đề viết dạng câu hỏi 'Is it better…?', yêu cầu 'Discuss and give your opinion' cho biết đây là dạng Discuss both views. Dùng đúng khung hai phe: phe ưu tiên giáo dục (thân bài 1), phe ưu tiên lĩnh vực khác (thân bài 2), ý kiến riêng ở kết bài.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether"
+            ]
+          },
+          {
+            "step": "2. Phe 1 — ưu tiên giáo dục (tái sử dụng bài đề 1)",
+            "think": "Không phải nghĩ ý mới: dùng lại hai ý đã có trong thư viện (kỹ năng → kinh tế, bất bình đẳng) nhưng diễn đạt bằng từ khác (widen the tax base, low-income families, progress on merit) và thêm vế thu thuế để hợp với chủ đề 'chi tiêu công'. Ví dụ Hàn Quốc dùng bản biến thể.",
+            "refs": [
+              "ID-edu-economy-skills",
+              "ID-edu-equality-mobility",
+              "PH-foundation-development",
+              "PH-widen-tax-base",
+              "PH-progress-merit",
+              "SY-poor",
+              "SY-invest-heavily",
+              "EX-post-war-korea",
+              "CN-firstPoint-on-the-one-hand"
+            ]
+          },
+          {
+            "step": "3. Phe 2 — ngân sách hạn hẹp, lĩnh vực khác cấp bách",
+            "think": "Ý chi phí cơ hội (opportunity cost): y tế, giao thông, nhà ở đều cần tiền và hậu quả của thiếu hụt xảy ra ngay. Thêm ý 'chi nhiều không đảm bảo hiệu quả' để phe này có hai vế như phe 1. Ví dụ giả định về bệnh viện vùng nông thôn.",
+            "refs": [
+              "ID-opportunity-cost",
+              "PH-limited-funds",
+              "PH-pressing-needs",
+              "EX-rural-hospital",
+              "SY-funds",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "4. Ý kiến riêng",
+            "think": "Chọn 'giáo dục đi trước' vì lý do dài hạn: dân số được giáo dục tạo ra nguồn thu và chuyên môn nuôi các dịch vụ khác. Câu kết vẫn thừa nhận lĩnh vực khác cần được tài trợ đầy đủ, để không bị coi là cực đoan.",
+            "refs": [
+              "PH-sustain-every-service",
+              "SY-priority",
+              "CN-concluding-in-conclusion",
+              "CN-concession-nevertheless"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-foundation-development",
+          "PH-widen-tax-base",
+          "PH-limited-funds",
+          "PH-pressing-needs",
+          "PH-sustain-every-service",
+          "SY-priority",
+          "SY-funds",
+          "ID-opportunity-cost",
+          "EX-rural-hospital",
+          "EX-post-war-korea"
+        ]
+      },
+      "final": 2,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T17:44:40.467Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt mức điểm 8.0 tổng thể, trình bày rõ ràng và thuyết phục cả hai quan điểm với vị trí cá nhân vững chắc. Từ vựng và ngữ pháp đa dạng, mạch lạc; một số điểm chưa tự nhiên có thể cải thiện để tiến tới band cao hơn.",
+        "weaknesses": [
+          "Một vài cụm từ chưa đạt độ tự nhiên của người bản ngữ (widen the tax base, failing road network).",
+          "Có thể bổ sung thêm một câu phản bác nhẹ để thể hiện rõ hơn sự so sánh giữa giáo dục và các ưu tiên khác.",
+          "Phần kết luận hơi lặp lại ý ở đoạn một; có thể tổng kết bằng ngôn ngữ mới.",
+          "Chưa có mối liên hệ rõ ràng giữa ví dụ Hàn Quốc và việc tập trung ngân sách hiện tại."
+        ]
+      }
+    },
+    {
+      "questionId": 41,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that children should learn coding at school. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:36:43.229Z",
+          "words": 291,
+          "text": "Programming is no longer a specialist skill confined to software companies, and a growing number of people believe that children should learn to code at school. I firmly agree with this view, since coding develops logical problem-solving and prepares young people for a job market driven by software.\n\nTo begin with, learning to code cultivates computational thinking, that is, the habit of breaking a complex problem into smaller, logical steps. When pupils write a program, they must spell out every instruction precisely and then trace their own logic to discover why it fails. Debugging in this way builds patience, attention to detail and cause-and-effect reasoning, skills that transfer to mathematics, science and everyday decision-making. Unlike memorising facts, it shows learners that mistakes are a normal and useful part of reaching a solution. A pupil whose simple game keeps freezing, for instance, has to examine the code line by line instead of guessing at the cause.\n\nFurthermore, coding prepares children for a world in which software underpins almost every industry. Finance, healthcare, design and even farming now rely on programs that analyse data and automate routine tasks, so employees who understand how such tools work have a clear advantage. Even pupils who never become software engineers will be better able to use, question and adapt the technology that shapes their working lives. An accountant who can write a short script to process thousands of invoices, for example, finishes in minutes what once took days. Admittedly, schools must provide trained teachers and suitable equipment, but this cost is modest compared with the benefits.\n\nIn conclusion, I am convinced that coding deserves a place in the school curriculum because it builds both a logical mind and the digital competence that the future will demand.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 8,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết xuất sắc, lập luận chặt chẽ, từ vựng học thuật phong phú và ngữ pháp vững chắc. Bài viết đáp ứng hoàn hảo các tiêu chí của IELTS Writing Task 2 ở mức band 8.0.",
+            "weaknesses": [
+              "Bài viết hầu như không có điểm yếu lớn nào về cấu trúc hay nội dung.",
+              "Một số câu có độ phức tạp cao có thể được tinh chỉnh đôi chút để đạt độ hoàn mỹ tuyệt đối."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi thảo luận theo dạng Agree/Disagree. Lập trường được giữ vững xuyên suốt và các luận điểm phát triển sâu sắc, thuyết phục.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng theo từng ý chính. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các thuật ngữ chuyên môn và collocation tự nhiên như 'computational thinking', 'cause-and-effect reasoning', và 'digital competence'.",
+              "grammar": "Cấu trúc ngữ pháp rất đa dạng, bao gồm câu phức, câu điều kiện và phân từ hoàn thành được sử dụng chính xác gần như tuyệt đối."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree / Disagree: 'children should learn coding at school' → đồng ý; ý PHẢI riêng cho coding (bài học từ lần chấm bị 'lạc đề')",
+        "plan": [
+          {
+            "step": "1. Bài học: ý phải gắn với từ khoá của đề",
+            "think": "Lần trước bài về coding bị trừ điểm vì dùng thẻ chung 'tư duy phản biện' kèm ví dụ tranh luận xã hội. Quy tắc mới: trong mỗi đoạn thân bài phải xuất hiện từ khoá của đề (coding, program, code, software) ở cả luận điểm, cơ chế lẫn ví dụ. Ý chung chỉ là 'khung xương'; nội dung phải thuộc chủ đề.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — tư duy giải quyết vấn đề của lập trình",
+            "think": "Cơ chế rất riêng của coding: viết chương trình → phải chỉ rõ từng lệnh → gỡ lỗi (debug) → rèn kiên nhẫn và tư duy nguyên nhân–kết quả. Ví dụ 'trò chơi bị treo' bám sát lập trình.",
+            "refs": [
+              "ID-coding-thinking",
+              "PH-computational-thinking",
+              "PH-break-problem",
+              "PH-trace-logic",
+              "PH-transfer-skills",
+              "EX-game-freezing",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — thị trường việc làm do phần mềm chi phối",
+            "think": "Gắn với từ khoá software: nhiều ngành (tài chính, y tế, thiết kế, nông nghiệp) dùng chương trình phân tích dữ liệu và tự động hoá. Ngay cả học sinh không làm kỹ sư cũng hưởng lợi. Ví dụ giả định kế toán viết script xử lý hoá đơn.",
+            "refs": [
+              "ID-coding-jobs",
+              "PH-software-underpins",
+              "PH-automate-routine",
+              "SY-skills",
+              "EX-accountant-script",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Nhượng bộ ngắn",
+            "think": "Một câu thừa nhận chi phí đào tạo giáo viên và thiết bị rồi quay lại lập trường. Khung này dùng lại được cho mọi đề đề xuất môn học mới.",
+            "refs": [
+              "FR-concede-cost",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Nhắc lại lập trường, thêm hình ảnh 'logical mind' và 'digital competence' để khớp hai lý do.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-computational-thinking",
+          "PH-break-problem",
+          "PH-trace-logic",
+          "PH-transfer-skills",
+          "PH-software-underpins",
+          "PH-automate-routine",
+          "ID-coding-thinking",
+          "ID-coding-jobs",
+          "EX-game-freezing",
+          "EX-accountant-script"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:45:24.675Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn chỉnh, đúng trọng tâm đề, lập luận chặt chẽ, từ vựng tốt và ít lỗi. Tổng thể đạt khoảng 8.0; nếu cải thiện một số collocation, độ rõ ràng của đại từ và bổ sung cấu trúc câu đặc biệt, bài có thể lên 8.5.",
+        "weaknesses": [
+          "Một số cụm diễn đạt còn gượng hoặc chưa đạt collocation tự nhiên (ví dụ: 'logical problem-solving', 'builds a logical mind').",
+          "Dùng đại từ 'it' ở vài chỗ khiến câu hơi mơ hồ, cần làm rõ chủ ngữ.",
+          "Phần phản biện 'Admittedly' còn sơ lược, chưa khai thác sâu để tăng tính thuyết phục.",
+          "Chưa có nhiều cấu trúc ngữ pháp nâng cao như đảo ngữ, câu điều kiện."
+        ]
+      }
+    },
+    {
+      "questionId": 46,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that homework should be banned?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:36:47.366Z",
+          "words": 280,
+          "text": "Whether homework should be abolished is a question that divides parents, teachers and researchers alike. I agree that it should be banned, since it deprives children of rest and play and puts pupils from disadvantaged homes at a further disadvantage.\n\nTo begin with, setting homework robs children of the rest, play and family time that healthy development depends on. After six hours in class, many pupils face another two or three hours of written tasks, so sleep is cut short and hobbies are abandoned. Exhausted children absorb less in the following day's lessons, which defeats the purpose of the extra work. Resentment also builds, and some come to associate learning with chores rather than curiosity. A child who finishes worksheets at ten o'clock at night, for example, arrives at school drained the next morning.\n\nFurthermore, restricting learning to school hours would make education fairer. At home, children from crowded or noisy households, or with parents who cannot explain difficult tasks, are at a clear disadvantage compared with classmates who have a quiet desk and a private tutor. Completing work in class, under the teacher's supervision, gives everyone the same conditions and the same support, and teachers receive an accurate picture of what each pupil can do unaided. Some argue that homework teaches self-discipline, but this skill can equally be developed through supervised independent study during the school day. A pupil whose parents work night shifts, for instance, has no one to explain a confusing mathematics exercise.\n\nIn conclusion, I believe that homework should be abolished, provided that schools use the time saved for supervised practice, because this approach protects children's wellbeing and gives every pupil an equal chance to succeed.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết luận hoàn chỉnh, mạch lạc và có lập luận sắc bén bảo vệ quan điểm cấm bài tập về nhà. Ngôn ngữ sử dụng tự nhiên, linh hoạt và đáp ứng tốt các tiêu chí chấm điểm IELTS ở mức điểm khá cao.",
+            "weaknesses": [
+              "Một số câu ví dụ có thể được mở rộng sâu hơn về mặt hệ quả.",
+              "Lập luận phản biện (counter-argument) ở đoạn 3 hơi ngắn, có thể khai thác sâu hơn một chút.",
+              "Độ dài vừa phải nhưng đôi chỗ diễn đạt có thể cô đọng hơn nữa."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài với một lập trường rất rõ ràng ngay từ mở bài. Các luận điểm chính được phát triển tốt, có ví dụ và lý giải cụ thể để hỗ trợ quan điểm.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, các đoạn được phân chia rõ ràng và logic. Việc sử dụng các từ nối như 'To begin with', 'Furthermore', và 'In conclusion' giúp chuyển ý mượt mà.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ học thuật và collocation tự nhiên. Chính tả và cách kết hợp từ đều đạt độ chuẩn xác cao.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng từ câu đơn đến câu phức, được kiểm soát tốt và không có lỗi sai nghiêm trọng. Các thì và sự hòa hợp chủ ngữ được sử dụng chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree / Disagree (extent): 'homework should be banned' → đồng ý có điều kiện",
+        "plan": [
+          {
+            "step": "1. Chọn lập trường + biến nó thành có điều kiện",
+            "think": "Cấm hoàn toàn nghe cực đoan nên chọn 'agree' kèm điều kiện (dùng thời gian tiết kiệm cho luyện tập có giám sát). Điều kiện này xuất hiện ở thân bài 2 (phản bác) và kết bài, giúp lập trường vừa rõ vừa dễ bảo vệ.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — sức khoẻ và nghỉ ngơi",
+            "think": "Ý riêng cho bài tập về nhà: sau 6 giờ ở lớp còn 2–3 giờ làm bài → thiếu ngủ → học kém hơn hôm sau (mâu thuẫn với mục đích của bài tập) → mất hứng thú. Ví dụ cụ thể: làm worksheet lúc 10 giờ đêm. Từ 'tired' được đổi thành exhausted / drained.",
+            "refs": [
+              "ID-hw-rest",
+              "PH-rob-rest",
+              "PH-defeat-purpose",
+              "SY-exhausted",
+              "EX-late-worksheets",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — công bằng giữa các gia đình",
+            "think": "Ý riêng thứ hai và khác loại với ý 1 (ý 1 về sức khoẻ, ý 2 về công bằng) nên hai đoạn không trùng. Ở nhà điều kiện khác nhau (nhà chật, bố mẹ không giải thích được, có gia sư); học ở lớp thì ai cũng như nhau.",
+            "refs": [
+              "ID-hw-fair",
+              "ID-edu-equality-mobility",
+              "PH-same-conditions",
+              "PH-unaided",
+              "EX-night-shift-parents",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Phản bác ngay trong thân bài 2",
+            "think": "Phe đối lập mạnh nhất là 'bài tập dạy kỷ luật'. Dùng khung 'Some argue that…, but… can equally be achieved through…' để trả lời trong một câu, rồi giữ nguyên lập trường.",
+            "refs": [
+              "FR-some-argue-but",
+              "ID-hw-discipline-rebuttal"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Nhắc lập trường + điều kiện 'provided that…', chốt bằng hai lợi ích: sức khoẻ và công bằng (khớp hai lý do).",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-some-argue-but",
+          "PH-rob-rest",
+          "PH-defeat-purpose",
+          "PH-same-conditions",
+          "PH-unaided",
+          "SY-exhausted",
+          "ID-hw-rest",
+          "ID-hw-fair",
+          "ID-hw-discipline-rebuttal",
+          "EX-late-worksheets",
+          "EX-night-shift-parents"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:45:19.342Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng band 8.0: lập luận rõ, mạch lạc, từ vựng tốt và ngữ pháp gần như không lỗi. Cần chú ý tránh lặp từ và có thể mở rộng phân tích mức độ đồng ý để hướng tới band cao hơn.",
+        "weaknesses": [
+          "Có lặp từ 'disadvantage' và 'same' trong bài.",
+          "Một vài cụm từ chưa hoàn toàn tự nhiên như 'restricting learning to school hours'.",
+          "Chưa thảo luận sâu về mức độ đồng ý (dù đề hỏi 'to what extent').",
+          "Độ dài vừa đủ, có thể mở rộng thêm ý phản biện để tăng chiều sâu."
+        ]
+      }
+    },
+    {
+      "questionId": 56,
+      "qtype": "Opinion",
+      "question": "Discuss how education influences economic development.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:36:48.208Z",
+          "words": 269,
+          "text": "Education is widely regarded as a cornerstone of economic progress. This essay will outline two principal ways in which schooling influences a country's development: by creating a productive workforce and by reducing the social costs that hold economies back.\n\nFirst and foremost, education supplies the human capital that modern economies need. Employers in sectors such as engineering, healthcare and finance increasingly seek workers with advanced technical knowledge, digital literacy and sound judgement, and each additional year of schooling generally makes an employee more productive and better paid. As a result, businesses grow, tax revenues rise and governments can finance infrastructure and public services. In addition, educated citizens are more likely to start companies and develop new technologies, which creates jobs and attracts investment. Singapore, a small country with few natural resources, is often cited as a nation that built its prosperity chiefly on the quality of its schools and universities.\n\nBeyond personal advancement, education also reduces costs that would otherwise drain public budgets. Educated individuals are statistically more inclined to make healthier lifestyle choices and less prone to criminal behaviour, which eases the burden on hospitals, police and prisons. Moreover, better-informed citizens are able to plan their finances, save for retirement and avoid long-term unemployment, so fewer rely on welfare. A community in which most residents have completed secondary school, for example, typically reports lower crime and healthier habits, leaving more public money available for investment.\n\nTo sum up, education drives economic development both by building a skilled, innovative workforce and by lowering the social costs of ill health and crime. For these reasons, it deserves sustained public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm khá cao nhờ bố cục mạch lạc, lập luận thuyết phục và từ vựng phong phú. Tuy nhiên, người học có thể nâng cao hơn nữa bằng cách mở rộng thêm một chút về góc độ vĩ mô hoặc đào sâu vào các khía cạnh đổi mới sáng tạo.",
+            "weaknesses": [
+              "Một số câu khá dài và chứa nhiều mệnh đề phụ, đôi khi có thể làm người đọc mỏi nếu không ngắt nhịp tốt.",
+              "Độ dài bài viết ở mức vừa đủ (269 từ), có thể phát triển sâu hơn một chút ở phần ví dụ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi thảo luận về cách giáo dục ảnh hưởng đến phát triển kinh tế. Lập trường rõ ràng và được minh chứng bằng các ý tưởng phát triển hợp lý như vốn con người và giảm chi phí xã hội.",
+              "coherenceCohesion": "Bố cục bài viết rất chặt chẽ với phần mở bài, hai đoạn thân bài nêu rõ hai khía cạnh khác nhau, và phần kết bài ngắn gọn. Các từ nối và phương tiện liên kết được sử dụng mượt mà, tự nhiên.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các thuật ngữ chuyên môn kinh tế và xã hội như 'human capital', 'digital literacy', 'tax revenues', và 'drain public budgets'. Việc kết hợp từ (collocations) rất tự nhiên.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu ghép đến câu phức, được kiểm soát tốt với độ chính xác cao. Không có lỗi ngữ pháp lớn nào ảnh hưởng đến việc truyền đạt ý nghĩa."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion dạng 'Discuss how X influences Y' → 2 cách ảnh hưởng",
+        "plan": [
+          {
+            "step": "1. Nhận diện: cùng khung với đề 4",
+            "think": "'Discuss how education influences economic development' là dạng 'role / influence' giống đề công nghệ. Dùng lại khung: mở bài báo trước 2 cách, mỗi thân bài một cách. Tách 2 cách ảnh hưởng không trùng nhau: (1) tạo lao động năng suất và đổi mới, (2) giảm chi phí xã hội.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — vốn con người và đổi mới",
+            "think": "Dùng lại ý kỹ năng → năng suất (đề 1) nhưng đổi góc nhìn sang kết quả vĩ mô: doanh nghiệp lớn lên, thuế tăng, chính phủ có tiền làm hạ tầng. Thêm ý mới 'khởi nghiệp và công nghệ mới' và ví dụ Singapore.",
+            "refs": [
+              "ID-edu-economy-skills",
+              "ID-edu-innovation",
+              "PH-human-capital",
+              "PH-start-companies",
+              "SY-employer",
+              "SY-jobs",
+              "EX-singapore-schools",
+              "CN-firstPoint-first-and-foremost",
+              "CN-result-as-a-result"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — giảm chi phí xã hội",
+            "think": "Ý quen thuộc từ bài mẫu của người học: giáo dục → khoẻ mạnh hơn, ít tội phạm. Biến nó thành lập luận kinh tế: giảm gánh nặng cho bệnh viện, cảnh sát, phúc lợi → có tiền đầu tư. Dùng khung 'Beyond personal advancement…' để chuyển từ cá nhân sang xã hội.",
+            "refs": [
+              "ID-edu-social-savings",
+              "FR-beyond-personal",
+              "PH-drain-budgets",
+              "PH-ease-burden",
+              "EX-secondary-school-community",
+              "CN-nextPoint-moreover"
+            ]
+          },
+          {
+            "step": "4. Kết bài",
+            "think": "Tóm tắt 2 cách ảnh hưởng bằng hai danh từ song song (building … and lowering …), thêm câu ngắn kêu gọi đầu tư công.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-beyond-personal",
+          "PH-human-capital",
+          "PH-drain-budgets",
+          "PH-ease-burden",
+          "PH-start-companies",
+          "SY-jobs",
+          "ID-edu-innovation",
+          "ID-edu-social-savings",
+          "EX-singapore-schools",
+          "EX-secondary-school-community"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:45:55.955Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức khá, đáp ứng tốt yêu cầu đề bài và có lập luận rõ ràng. Điểm mạnh là từ vựng và tổ chức ý; điểm cần cải thiện là độ cụ thể của dẫn chứng và một số diễn đạt collocation.",
+        "weaknesses": [
+          "Phần phát triển ý còn hơi chung chung, thiếu số liệu hoặc ví dụ cụ thể hơn (ngoài Singapore).",
+          "Một số diễn đạt chưa chuẩn collocation: 'reports lower crime', 'fewer rely on welfare'.",
+          "Cấu trúc song song ở câu 'more inclined ... and less prone' bị thiếu động từ to be.",
+          "Có thể bị coi là chỉ nêu mặt tích cực, chưa bàn đến các ảnh hưởng tiêu cực hoặc điều kiện cần thiết."
+        ]
+      }
+    },
+    {
+      "questionId": 59,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Do the advantages of studying abroad outweigh the disadvantages? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:39:05.045Z",
+          "words": 255,
+          "text": "Increasing numbers of students now choose to complete part or all of their degree overseas. Although studying abroad involves financial and emotional challenges, I believe that its advantages outweigh them.\n\nOn the positive side, studying abroad broadens students' horizons and improves their employability. Living in another country immerses them in a foreign language every day, so their fluency develops far more quickly than it would in a classroom at home. They also learn to adapt to unfamiliar customs, work with people from different backgrounds and solve everyday problems independently, qualities that multinational employers value highly. In addition, the friendships and professional networks formed overseas often lead to opportunities later in life. A graduate who is fluent in two languages and has lived abroad, for example, may apply for positions in several countries, which multiplies her career options.\n\nOn the negative side, studying overseas places a heavy burden on individuals, both financially and emotionally. Tuition, accommodation and living expenses can consume a family's savings, while homesickness and unfamiliar surroundings leave some students isolated and struggling. Consequently, those who cannot cope may return with debts and disappointing results. Nevertheless, these difficulties can be reduced. Many universities offer scholarships, part-time work permits and counselling services for international students, and those who choose their destination carefully and plan their budget in advance are far better prepared to cope.\n\nIn conclusion, despite the high costs and the emotional strain, studying abroad is, on balance, more beneficial than harmful, thanks to the language skills, independence and career opportunities that it offers.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7.5,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm khá cao nhờ lập luận chặt chẽ, từ vựng tự nhiên và ngữ pháp vững chắc. Bố cục bài rõ ràng giúp người đọc dễ theo dõi quan điểm của tác giả.",
+            "weaknesses": [
+              "Một số ví dụ còn mang tính lý thuyết, có thể đưa thêm ví dụ thực tế hoặc cụ thể hơn để tăng sức thuyết phục.",
+              "Độ dài bài viết vừa đủ tối thiểu, cần phát triển sâu hơn ở một số ý phụ để đạt band cao hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi của đề bài, đưa ra quan điểm rõ ràng rằng lợi ích vượt trội hơn bất lợi. Các ý được phát triển đầy đủ với lý lẽ và ví dụ hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn mở bài, thân bài và kết luận rõ ràng. Sử dụng các từ nối hiệu quả để chuyển ý giữa các đoạn và các câu.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác như 'broadens students' horizons', 'multinational employers', và 'emotional strain'. Không có lỗi chính tả đáng kể.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Ngữ pháp chính xác, thể hiện khả năng kiểm soát tốt các thì và mệnh đề quan hệ."
+            }
+          }
+        },
+        {
+          "n": 2,
+          "at": "2026-10-03T17:42:10.180Z",
+          "words": 282,
+          "text": "Increasing numbers of students now choose to complete part or all of their degree overseas. Although studying abroad involves financial and emotional challenges, I believe that its advantages outweigh them.\n\nOn the positive side, studying abroad broadens students' horizons and improves their employability. Living in another country immerses them in a foreign language every day, so their fluency develops far more quickly than it would in a classroom at home. They also learn to adapt to unfamiliar customs, work with people from different backgrounds and solve everyday problems independently, qualities that multinational employers value highly. Such confidence is hard to acquire in a lecture hall at home. In addition, the friendships and professional networks formed overseas often lead to opportunities later in life. A graduate who is fluent in two languages and has lived abroad, for example, may apply for positions in several countries, which multiplies her career options.\n\nOn the negative side, studying overseas places a heavy burden on individuals, both financially and emotionally. Tuition, accommodation and living expenses can consume a family's savings, while homesickness and unfamiliar surroundings leave some students isolated and struggling. Consequently, those who cannot cope may return with debts and disappointing results. Nevertheless, these difficulties can be reduced. Many universities offer scholarships, part-time work permits and counselling services for international students, and those who choose their destination carefully and plan their budget in advance are far better prepared to cope. Careful research into courses, living costs and available support before departure also reduces unpleasant surprises.\n\nIn conclusion, despite the high costs and the emotional strain, studying abroad is, on balance, more beneficial than harmful, thanks to the language skills, independence and career opportunities that it offers.",
+          "note": "Thêm 2 câu (độ tự tin do du học + chuẩn bị trước khi đi) để vượt 250 từ an toàn.",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt với bố cục chặt chẽ, từ vựng phong phú và ngữ pháp vững chắc. Người viết đã phân tích rõ cả hai mặt của việc du học và đưa ra kết luận thuyết phục.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài hơi dài và dày đặc ý, có thể được chắt lọc lại để tăng tính sắc bén.",
+              "Ví dụ đưa ra còn ở mức chung chung, chưa có ví dụ cụ thể về một tình huống thực tế hoặc số liệu."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi của đề bài, có lập trường rõ ràng từ phần mở bài và duy trì xuyên suốt. Các ý kiến về lợi ích và bất lợi được phát triển đầy đủ kèm theo ví dụ minh họa hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng, chuyển ý mượt mà nhờ các từ nối như 'On the positive side', 'On the negative side', và 'In conclusion'. Các câu trong đoạn liên kết chặt chẽ với nhau.",
+              "lexicalResource": "Sử dụng từ vựng đa dạng, tự nhiên và chính xác theo chủ đề giáo dục quốc tế (như 'immerses', 'employability', 'multinational employers', 'homesickness'). Collocation được dùng khá linh hoạt.",
+              "grammar": "Cấu trúc ngữ pháp phong phú, kết hợp tốt giữa câu đơn và câu phức. Các thì và sự hòa hợp chủ ngữ - động từ được sử dụng chính xác hầu như tuyệt đối."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Advantages / Disadvantages: 'Do the advantages of studying abroad outweigh the disadvantages?' → chọn phe 'ưu điểm thắng'",
+        "plan": [
+          {
+            "step": "1. Dùng lại khung của đề 13 (online learning)",
+            "think": "Cùng dạng 'Do the advantages outweigh…?'. Giữ nguyên khung: mở bài chốt phe, thân bài 1 ưu điểm (On the positive side), thân bài 2 nhược điểm + phản bác (On the negative side… Nevertheless), kết bài 'despite… on balance… thanks to…'. Chỉ thay nội dung.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance",
+              "CN-firstPoint-on-the-positive-side",
+              "CN-nextPoint-on-the-negative-side",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm: tầm nhìn + khả năng có việc làm",
+            "think": "Gói một ý lớn (broaden horizons, employability) với ba bằng chứng cụ thể: ngoại ngữ nhờ tiếp xúc hằng ngày, kỹ năng thích nghi và làm việc với người khác nền tảng, mạng lưới quan hệ. Từ khoá 'abroad/overseas' xuất hiện ở mọi câu chính, tránh lạc đề.",
+            "refs": [
+              "ID-abroad-outlook",
+              "PH-broaden-horizons",
+              "PH-immerse-language",
+              "PH-adapt-unfamiliar",
+              "PH-professional-networks",
+              "SY-abroad",
+              "EX-bilingual-graduate"
+            ]
+          },
+          {
+            "step": "3. Nhược điểm + phản bác",
+            "think": "Nhược điểm gồm chi phí và cảm xúc (nhớ nhà). Ngay sau đó là phản bác bằng giải pháp thực tế (học bổng, giấy phép làm thêm, tư vấn, lập ngân sách), giống cách làm ở đề 13 để thân bài 2 không làm yếu lập trường. Tái sử dụng cách diễn đạt 'consume savings' thay vì 'spend a lot'.",
+            "refs": [
+              "ID-abroad-burden",
+              "ID-edtech-divide",
+              "PH-consume-savings",
+              "PH-homesick-isolated",
+              "PH-support-services",
+              "SY-hard",
+              "SY-drawback"
+            ]
+          },
+          {
+            "step": "4. Kết bài",
+            "think": "Công thức on balance + liệt kê ba lợi ích đã nêu (language skills, independence, career opportunities) để khớp thân bài 1.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-broaden-horizons",
+          "PH-immerse-language",
+          "PH-adapt-unfamiliar",
+          "PH-professional-networks",
+          "PH-consume-savings",
+          "PH-homesick-isolated",
+          "PH-support-services",
+          "SY-abroad",
+          "SY-hard",
+          "ID-abroad-outlook",
+          "ID-abroad-burden",
+          "EX-bilingual-graduate"
+        ]
+      },
+      "final": 2,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T17:46:26.366Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề bài, lập luận rõ ràng và vốn từ/ngữ pháp khá. Điểm yếu chính nằm ở việc thiếu ví dụ cụ thể và một vài collocation chưa tự nhiên. Nhìn chung đạt khoảng 7.5.",
+        "weaknesses": [
+          "Ví dụ còn giả định, chưa thực tế và cụ thể.",
+          "Một số collocation chưa tự nhiên (multiplies options, reduces surprises).",
+          "Một vài lỗi hoà hợp số ít/số nhiều và đại từ mơ hồ.",
+          "Câu dài đôi khi hơi khó theo dõi do nhiều ý gộp lại."
+        ]
+      }
+    },
+    {
+      "questionId": 66,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that tests and exams accurately measure intelligence?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:39:04.636Z",
+          "words": 250,
+          "text": "Examinations have been the main way of judging students for generations, and some people claim that they give an accurate measure of intelligence. I strongly disagree with this view, since tests capture only a narrow range of abilities and their results are easily distorted by pressure and unequal preparation.\n\nTo begin with, relying on examinations gives only a narrow picture of ability. Written tests mainly reward memory and speed under timed conditions, while creativity, teamwork, leadership and practical skills go unmeasured. Consequently, talented individuals who simply perform poorly in exam halls may be unfairly labelled as weak, and teaching tends to drift towards test preparation instead of genuine understanding. A gifted artist or entrepreneur, for example, may leave school with unimpressive grades despite exceptional real-world potential.\n\nFurthermore, exam results are heavily influenced by factors that have little to do with intelligence. High-stakes tests tend to place students under excessive and prolonged pressure, so anxiety, sleepless nights and fear of failure can lower the performance of even very capable candidates. In addition, pupils whose families can afford private tutors enjoy a clear advantage over equally able classmates who cannot. Admittedly, examinations provide a standard that is easy to compare, but being easy to compare is not the same as being accurate. Assessment that combines coursework, projects and presentations over a longer period would give a fairer and fuller picture.\n\nIn conclusion, I cannot accept that exams accurately measure intelligence, given their narrow focus and their sensitivity to stress and family wealth.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của một bài luận dạng Agree/Disgree với lập trường vững chắc, lập luận thuyết phục và cấu trúc ngữ pháp lẫn từ vựng đạt chất lượng cao.",
+            "weaknesses": [
+              "Một số luận điểm có thể được đào sâu hơn nữa về mặt lý luận.",
+              "Độ dài bài viết vừa đủ tối thiểu (250 từ), có thể mở rộng thêm một chút chi tiết để bài viết sâu sắc hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài với lập trường 'strongly disagree' rất rõ ràng xuyên suốt bài. Các ý tưởng được phát triển tốt, bao gồm cả việc phản biện góc nhìn ngược lại (concession) ở đoạn thân bài thứ hai.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với phần mở bài, hai thân bài và kết bài rõ ràng. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp bài viết có mạch lạc cao.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác như 'narrow range of abilities', 'high-stakes tests', 'prolonged pressure'. Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, kết hợp mệnh đề quan hệ và cấu trúc trạng ngữ linh hoạt. Ngữ pháp chính xác và không có lỗi cấu trúc nặng."
+            }
+          }
+        },
+        {
+          "n": 2,
+          "at": "2026-10-03T17:42:09.544Z",
+          "words": 272,
+          "text": "Examinations have been the main way of judging students for generations, and some people claim that they give an accurate measure of intelligence. I strongly disagree with this view, since tests capture only a narrow range of abilities and their results are easily distorted by pressure and unequal preparation.\n\nTo begin with, relying on examinations gives only a narrow picture of ability. Written tests mainly reward memory and speed under timed conditions, while creativity, teamwork, leadership and practical skills go unmeasured. Consequently, talented individuals who simply perform poorly in exam halls may be unfairly labelled as weak, and teaching tends to drift towards test preparation instead of genuine understanding. Over time, such a system rewards the best-prepared pupils rather than the most capable ones. A gifted artist or entrepreneur, for example, may leave school with unimpressive grades despite exceptional real-world potential.\n\nFurthermore, exam results are heavily influenced by factors that have little to do with intelligence. High-stakes tests tend to place students under excessive and prolonged pressure, so anxiety, sleepless nights and fear of failure can lower the performance of even very capable candidates. In addition, pupils whose families can afford private tutors enjoy a clear advantage over equally able classmates who cannot. Admittedly, examinations provide a standard that is easy to compare, but being easy to compare is not the same as being accurate. Assessment that combines coursework, projects and presentations over a longer period would give a fairer and fuller picture of what each student can actually do.\n\nIn conclusion, I cannot accept that exams accurately measure intelligence, given their narrow focus and their sensitivity to stress and family wealth.",
+          "note": "Nới thêm 2 câu để bài chắc chắn trên 250 từ (bản đầu đúng 250 từ).",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt với cấu trúc chặt chẽ, lập luận sắc bén và từ vựng phong phú. Người viết hoàn thành tốt việc phân tích lý do tại sao các bài kiểm tra không thể đo lường chính xác trí thông minh.",
+            "weaknesses": [
+              "Một số luận điểm phụ trong đoạn 3 có thể được mở rộng sâu hơn một chút.",
+              "Giải pháp thay thế ở đoạn 3 hơi lan man sang vấn đề phương pháp đánh giá thay vì tập trung hoàn toàn vào việc đo lường trí thông minh."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài và giữ lập trường bất đồng mạnh mẽ xuyên suốt. Các ý tưởng được phát triển tốt, có ví dụ minh họa rõ ràng và đáp ứng đầy đủ yêu cầu về độ dài trên 250 từ.",
+              "coherenceCohesion": "Bố cục bài viết rất logic với phần mở đầu, các đoạn thân bài phân tích từng khía cạnh cụ thể, và kết bài súc tích. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp bài đọc trôi chảy.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng chính xác nhiều cụm từ học thuật và collocations tự nhiên như 'narrow range of abilities', 'high-stakes tests', 'excessive and prolonged pressure'. Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Ngữ pháp và các thì được sử dụng chính xác, không mắc lỗi cấu trúc cơ bản nào."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree / Disagree: 'tests and exams accurately measure intelligence' → phản đối",
+        "plan": [
+          {
+            "step": "1. Phản đối bằng hai lý do khác loại",
+            "think": "Chọn disagree và hai lý do không trùng nhau: (1) bài thi đo hẹp (nội dung), (2) kết quả bị méo bởi áp lực và bất công (yếu tố ngoài trí tuệ). Cả hai đều bám vào chữ 'accurately' trong đề.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-strongly-disagree-with-this-view",
+              "FR-open-it-is-sometimes-suggested-that"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — đo hẹp",
+            "think": "Bài thi thưởng trí nhớ và tốc độ, bỏ qua sáng tạo, làm việc nhóm. Hệ quả: người giỏi bị gán 'yếu', việc dạy trượt sang luyện thi. Ví dụ nghệ sĩ/doanh nhân có điểm thấp nhưng tiềm năng cao.",
+            "refs": [
+              "ID-exam-narrow",
+              "PH-narrow-picture",
+              "PH-reward-memory-speed",
+              "PH-drift-test-prep",
+              "SY-test",
+              "SY-ability",
+              "EX-gifted-artist",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — áp lực và bất công",
+            "think": "Áp lực làm giảm điểm của cả người giỏi; gia đình có tiền thuê gia sư thì có lợi thế. Đây là ý chung với đề bài tập về nhà (áp lực, bất bình đẳng) nên diễn đạt tái sử dụng được.",
+            "refs": [
+              "ID-exam-pressure-bias",
+              "ID-hw-rest",
+              "PH-high-stakes",
+              "PH-tutor-advantage",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Nhượng bộ + đề xuất thay thế",
+            "think": "Thừa nhận ưu điểm duy nhất của thi cử (dễ so sánh) rồi phản bác bằng cấu trúc 'being easy to compare is not the same as being accurate'. Kết thúc đoạn bằng giải pháp (coursework, dự án) để bài có tính xây dựng.",
+            "refs": [
+              "FR-not-same-as",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Nhắc lại hai lý do bằng hai cụm danh từ (narrow focus, sensitivity to stress and family wealth).",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-not-same-as",
+          "PH-narrow-picture",
+          "PH-reward-memory-speed",
+          "PH-drift-test-prep",
+          "PH-high-stakes",
+          "PH-tutor-advantage",
+          "SY-test",
+          "SY-ability",
+          "ID-exam-narrow",
+          "ID-exam-pressure-bias",
+          "EX-gifted-artist"
+        ]
+      },
+      "final": 2,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T17:46:18.211Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8.0. Lập luận rõ ràng, phát triển ý tốt và từ vựng học thuật. Điểm trừ chủ yếu nằm ở một số collocation chưa thật tự nhiên và phần nhượng bộ có thể sâu hơn.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên (provide a standard that is easy to compare)",
+          "Phần nhượng bộ (Admittedly) còn ngắn và chưa được phản biện sâu",
+          "Kết luận dùng 'sensitivity to family wealth' hơi khiên cưỡng"
+        ]
+      }
+    },
+    {
+      "questionId": 70,
+      "qtype": "Extent",
+      "question": "Some argue that early childhood education is the most important stage. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:39:05.084Z",
+          "words": 270,
+          "text": "Many educationalists argue that early childhood education is the most crucial stage of schooling. I largely agree with this view, since the early years lay the foundations for all later learning and offer the most effective way of reducing inequality.\n\nTo begin with, young children's brains develop with extraordinary speed, so the experiences they have before the age of six shape their later ability to learn. Through play, stories and simple group activities, children acquire language, curiosity and the habit of concentrating, and these skills allow them to benefit fully from primary school. By contrast, those who start formal schooling without them often struggle to catch up and lose confidence in their own ability. A child who has been read to daily and encouraged to ask questions, for example, usually learns to read earlier and with greater enjoyment.\n\nFurthermore, high-quality early education is the most efficient tool for closing the gap between rich and poor. Children from disadvantaged families often begin school already behind their peers in vocabulary and social skills, and the gap tends to widen each year unless something is done early. Providing affordable nurseries and trained staff therefore helps all children to start on an equal footing, and it costs far less than remedial programmes in later years. That said, later stages remain essential: secondary and university education provide the specialist knowledge that careers require, so early learning should be seen as the foundation rather than the whole structure.\n\nIn conclusion, early childhood education is, to a large extent, the most important stage because it shapes a child's future learning and gives every child a fair start.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng rất tốt, bố cục chặt chẽ, lập luận sắc bén và sử dụng ngôn ngữ học thuật tự nhiên. Học viên đã trả lời trọn vẹn yêu cầu đề bài với độ dài phù hợp và văn phong chuẩn mực.",
+            "weaknesses": [
+              "Một số ý tưởng trong phần thân bài có thể được mở rộng sâu hơn về mặt hệ quả lâu dài.",
+              "Thiếu một số từ vựng nâng cao hơn ở cấp độ band 8.5+ về mặt sắc thái biểu cảm."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi 'To what extent', đưa ra quan điểm đồng tình phần lớn và có lý giải cân bằng ở đoạn thân bài thứ hai. Các luận điểm được phát triển logic, có ví dụ minh họa cụ thể và rõ ràng.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng theo đúng chuẩn văn phong học thuật với phần mở bài, các đoạn thân bài có câu chủ đề tốt và kết bài tóm lược hiệu quả. Các từ nối được sử dụng tự nhiên và chính xác.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ học thuật chính xác và tự nhiên như 'lay the foundations', 'closing the gap', 'equal footing'. Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt với độ chính xác cao. Việc sử dụng các mệnh đề quan hệ và cấu trúc điều kiện, nhượng bộ rất linh hoạt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: 'Some argue that early childhood education is the most important stage. To what extent do you agree?' → largely agree + giới hạn",
+        "plan": [
+          {
+            "step": "1. Chữ 'most important' cần câu giới hạn",
+            "think": "'The most important' là khẳng định tuyệt đối nên không nên đồng ý 100%. Dùng khung Extent: largely agree + 2 lý do + câu 'That said, later stages remain essential' để trả lời đúng 'to what extent'.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view",
+              "CN-concession-that-said",
+              "PH-foundation-not-whole"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — não phát triển nhanh, nền móng học tập",
+            "think": "Ý riêng cho giáo dục sớm: não trẻ phát triển rất nhanh; vui chơi, truyện, hoạt động nhóm xây ngôn ngữ, tò mò, khả năng tập trung; ai thiếu sẽ phải bắt kịp và mất tự tin. Ví dụ đứa trẻ được đọc sách mỗi ngày.",
+            "refs": [
+              "ID-early-foundation",
+              "PH-lay-foundations",
+              "PH-brain-speed",
+              "PH-catch-up",
+              "SY-young-children",
+              "EX-read-daily",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — bình đẳng và chi phí (tái sử dụng ý bất bình đẳng)",
+            "think": "Tái sử dụng ý 'thu hẹp khoảng cách giàu nghèo' nhưng đổi góc nhìn sang thời điểm: can thiệp sớm hiệu quả nhất và rẻ hơn phụ đạo về sau. Dùng lại cụm close the gap between rich and poor và disadvantaged.",
+            "refs": [
+              "ID-early-equal-start",
+              "ID-edu-equality-mobility",
+              "PH-close-gap",
+              "PH-equal-footing",
+              "PH-remedial",
+              "SY-poor",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Kết bài",
+            "think": "'to a large extent' trong câu kết nhắc lại mức độ đồng ý, khớp với phần giới hạn trong thân bài.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-lay-foundations",
+          "PH-brain-speed",
+          "PH-catch-up",
+          "PH-equal-footing",
+          "PH-remedial",
+          "PH-foundation-not-whole",
+          "SY-young-children",
+          "ID-early-foundation",
+          "ID-early-equal-start",
+          "EX-read-daily"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:47:06.349Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8 về tổng thể với lập luận chặt chẽ, từ vựng tốt và câu cú linh hoạt. Một vài điều chỉnh nhỏ về collocation và độ chính xác diễn đạt sẽ giúp bài viết tiến gần band 8.5-9.",
+        "weaknesses": [
+          "Một số cụm từ có thể chính xác hơn về collocation (ví dụ 'develop with speed' nên là 'at a speed').",
+          "Đại từ 'them' trong 'without them' gây mơ hồ, nên thay bằng cụm danh từ rõ ràng.",
+          "Khẳng định 'the most efficient tool' hơi tuyệt đối, nên dùng 'one of the most efficient tools' để thuyết phục hơn.",
+          "Có thể cân nhắc thêm một câu so sánh trực tiếp hơn giữa tầm quan trọng của giáo dục sớm và giai đoạn sau để củng cố lập trường."
+        ]
+      }
+    },
+    {
+      "questionId": 83,
+      "qtype": "Opinion",
+      "question": "Discuss the role of libraries in modern society.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:39:09.336Z",
+          "words": 274,
+          "text": "Libraries are sometimes dismissed as relics of the pre-internet age, yet they remain a familiar feature of most towns and cities. This essay will outline two roles that they continue to play in modern society: providing free access to knowledge and acting as a hub for the community.\n\nFirst and foremost, libraries give everyone access to information regardless of income. Books, newspapers, e-books and databases that would cost a great deal to buy individually are available free of charge, while public computers and internet connections serve residents who have none at home. This is especially valuable for job seekers, students from low-income families and older people, who might otherwise be excluded from the digital world. Moreover, librarians help visitors to find reliable sources, a skill that becomes more important as online misinformation spreads. A student who cannot afford textbooks, for example, can still complete a research project by borrowing materials and using the library's databases.\n\nIn addition, libraries function as community hubs that bring people together. They provide quiet study spaces, children's story sessions, language classes for newcomers and workshops on subjects ranging from computing to health, so they nurture a reading habit from an early age and strengthen social bonds across generations. For many isolated residents, such as retired people living alone, a weekly book club may be their main source of company. By adapting to modern needs, through digital lending and flexible opening hours, libraries therefore remain relevant rather than obsolete.\n\nTo sum up, libraries play a vital role by offering equal access to knowledge and by serving as meeting places that strengthen communities. For these reasons, they deserve continued public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm cao nhờ bố cục rõ ràng, lập luận sắc bén và vốn từ vựng, ngữ pháp vững vàng. Người viết đã thành công trong việc bảo vệ quan điểm về vai trò không thể thay thế của thư viện trong kỷ nguyên số.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài khá dài và chứa nhiều ý, có thể được ngắt nhỏ để tăng tính nhấn mạnh.",
+              "Ví dụ đưa ra đôi khi chưa được khai thác triệt để để làm rõ hơn nữa luận điểm."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách thảo luận hai vai trò chính của thư viện trong xã hội hiện đại. Lập luận và ví dụ được phát triển rõ ràng, thuyết phục và có chiều sâu.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn được phân chia hợp lý. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ dàng theo dõi mạch suy nghĩ.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ theo chủ đề như 'relics of the pre-internet age', 'free of charge', 'community hubs'. Chính tả và cách kết hợp từ (collocation) rất chuẩn xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức với độ chính xác cao. Ngữ pháp không có lỗi lớn, thể hiện sự kiểm soát tốt cấu trúc câu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion dạng 'Discuss the role of X in modern society' → 2 vai trò (đề gốc từng bị chấm TR thấp vì lạc sang bình đẳng giáo dục chung)",
+        "plan": [
+          {
+            "step": "1. Bài học từ lần bị trừ điểm: nói đúng 'vai trò của thư viện'",
+            "think": "Bài mẫu cũ lạc vì dùng thẻ chung về giáo dục. Quy tắc: mỗi đoạn phải nhắc đến đối tượng của đề (libraries, librarians, book club) ở luận điểm, cơ chế lẫn ví dụ. Dạng 'role' nên dùng khung vai trò: mở bài báo 2 vai trò, mỗi thân bài một vai trò.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Mở bài: đảo ngược quan niệm",
+            "think": "Đề nhấn mạnh 'modern society' nên mở bằng quan niệm 'thư viện là di tích thời trước internet' rồi đảo ngược bằng 'yet they remain'. Khung này tái sử dụng được cho đề bảo tàng, nghệ thuật, thủ công truyền thống…",
+            "refs": [
+              "FR-dismissed-yet"
+            ]
+          },
+          {
+            "step": "3. Vai trò 1 — tiếp cận thông tin miễn phí",
+            "think": "Ba lớp lập luận cụ thể cho thư viện: sách/CSDL miễn phí; máy tính và internet công cộng cho người không có ở nhà; thủ thư giúp tìm nguồn đáng tin (nối với chủ đề thông tin sai lệch của thời hiện đại). Ví dụ sinh viên không mua nổi giáo trình.",
+            "refs": [
+              "ID-library-free-access",
+              "PH-regardless-income",
+              "PH-free-of-charge",
+              "PH-reliable-sources",
+              "PH-widen-participation",
+              "EX-textbooks-database",
+              "CN-firstPoint-first-and-foremost"
+            ]
+          },
+          {
+            "step": "4. Vai trò 2 — trung tâm cộng đồng",
+            "think": "Không gian học yên tĩnh, truyện cho trẻ, lớp ngoại ngữ cho người mới đến, workshop. Ví dụ CLB sách cho người già sống một mình. Kết thúc bằng ý 'thích nghi (cho mượn số, giờ mở cửa linh hoạt) nên không lỗi thời', trả lời trực tiếp chữ 'modern'.",
+            "refs": [
+              "ID-library-community-hub",
+              "PH-community-hub",
+              "PH-social-bonds",
+              "EX-book-club-elderly",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Tóm tắt hai vai trò rồi thêm câu kêu gọi hỗ trợ công (cùng khuôn với đề 56).",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-dismissed-yet",
+          "PH-regardless-income",
+          "PH-free-of-charge",
+          "PH-reliable-sources",
+          "PH-community-hub",
+          "PH-social-bonds",
+          "ID-library-free-access",
+          "ID-library-community-hub",
+          "EX-textbooks-database",
+          "EX-book-club-elderly"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:47:07.883Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết chất lượng tốt, trả lời trúng đề và đủ độ dài. Học viên có vốn từ và ngữ pháp vững, diễn đạt rõ ràng. Chỉ cần tinh chỉnh một số collocation và câu dài để đạt mức 8.0 trở lên.",
+        "weaknesses": [
+          "Một số câu hơi dài, dễ gây khó theo dõi khi liệt kê nhiều hoạt động.",
+          "Dùng 'so they nurture...' làm ý kết quả chưa chặt chẽ.",
+          "Cụm 'source of company' chưa tự nhiên bằng 'source of companionship'.",
+          "Chưa đề cập đến ý kiến trái chiều hoặc thách thức của thư viện trong thời đại số để tăng chiều sâu."
+        ]
+      }
+    },
+    {
+      "questionId": 101,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that university degrees are less valuable now. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:39:10.099Z",
+          "words": 262,
+          "text": "Rising tuition fees and the success of entrepreneurs who never graduated have led some people to claim that university degrees are less valuable than they once were. I disagree with this view, since a degree still opens doors to well-paid careers and develops abilities that employers continue to demand.\n\nTo begin with, a degree remains the gateway to many professions. Doctors, engineers, architects and teachers cannot practise without recognised qualifications, and in other fields employers routinely use a degree to screen applicants when hundreds apply for a single vacancy. Statistically, graduates also tend to earn more and face lower unemployment over their working lives than those with only school-level qualifications. As a result, the financial benefit usually outweighs the cost in the long term. A graduate engineer, for instance, can expect far wider opportunities than someone who left school without a technical qualification.\n\nFurthermore, university teaches skills that go beyond a particular subject. Students learn to research independently, analyse evidence, meet deadlines and communicate ideas clearly, abilities that remain useful when technology changes the content of jobs. They also form friendships and professional networks that often lead to opportunities later. Admittedly, some successful people in the technology industry left university early, and trades such as plumbing offer secure incomes without a degree, but these examples are exceptions rather than the rule. For most young people, a degree still provides the most reliable route to a stable career.\n\nIn conclusion, I do not believe that degrees have lost their value, because they continue to unlock professions and to build skills that employers prize.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng khá tốt, bố cục chặt chẽ, lập luận thuyết phục và dùng từ tự nhiên. Người viết đã hoàn thành tốt yêu cầu của dạng bài Agree/Disagree trong khoảng thời gian và giới hạn từ hợp lý.",
+            "weaknesses": [
+              "Một số từ vựng mang tính phổ biến cao, thiếu các cụm từ học thuật sắc bén hơn.",
+              "Phần phản biện (concession) ở thân bài 2 hơi ngắn, có thể khai thác sâu hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài và duy trì một lập trường rõ ràng (không đồng tình) xuyên suốt. Các luận điểm được phát triển tốt với các ví dụ cụ thể như kỹ sư hay các ngành nghề chuyên môn.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng, sử dụng tốt các từ nối chuyển ý như 'To begin with', 'Furthermore', và 'In conclusion'. Sự liên kết giữa các câu trong đoạn rất chặt chẽ.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề học thuật (như 'tuition fees', 'recognised qualifications', 'screen applicants'). Tuy nhiên, cần thêm một số cụm từ nâng cao hơn để đạt band điểm cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, được sử dụng chính xác hầu như tuyệt đối. Lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền tải thông tin."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree / Disagree: 'university degrees are less valuable now' → phản đối",
+        "plan": [
+          {
+            "step": "1. Mở bài: nêu lý do người ta nghĩ vậy rồi phản đối",
+            "think": "Nêu hai nguồn gốc của quan điểm (học phí tăng, doanh nhân bỏ học thành công) cho thấy hiểu đề, rồi 'I disagree' với 2 lý do: cánh cửa nghề nghiệp và kỹ năng.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-disagree-with-this-view",
+              "FR-open-it-is-sometimes-suggested-that"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — bằng cấp là cánh cửa",
+            "think": "Nghề bắt buộc có bằng (bác sĩ, kỹ sư…), nhà tuyển dụng dùng bằng để sàng lọc, người tốt nghiệp thường thu nhập cao hơn. Kết quả: lợi ích tài chính vượt chi phí về lâu dài. Dùng 'tend to / usually / statistically' để lời khẳng định an toàn.",
+            "refs": [
+              "ID-degree-gateway",
+              "PH-gateway-professions",
+              "PH-screen-applicants",
+              "PH-outweigh-cost",
+              "ID-edu-economy-skills",
+              "SY-qualification",
+              "SY-employer",
+              "EX-graduate-engineer",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — kỹ năng chuyển giao + mạng lưới",
+            "think": "Đại học dạy nghiên cứu độc lập, phân tích bằng chứng, kỷ luật, giao tiếp: dùng lại ý 'hiểu sâu, tư duy độc lập' của đề 20 nhưng gắn với 'khi công nghệ thay đổi nội dung công việc'. Thêm mạng lưới quan hệ (cụm từ từ đề 59).",
+            "refs": [
+              "ID-degree-transferable",
+              "ID-critical-deeper-learning",
+              "PH-professional-networks",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Nhượng bộ + ngoại lệ",
+            "think": "Thừa nhận người bỏ học vẫn thành công và nghề thủ công không cần bằng, rồi dùng 'exceptions rather than the rule' để giữ lập trường. Đây chính là cách trả lời phe đối lập mà không làm yếu bài.",
+            "refs": [
+              "PH-exceptions-not-rule",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Nhắc lại hai ý bằng hai động từ song song (unlock professions, build skills).",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-gateway-professions",
+          "PH-screen-applicants",
+          "PH-outweigh-cost",
+          "PH-exceptions-not-rule",
+          "SY-qualification",
+          "ID-degree-gateway",
+          "ID-degree-transferable",
+          "EX-graduate-engineer"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:47:27.698Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Đây là một bài viết band 8.0 nhìn chung tốt, trả lời trúng đề, lập luận chặt chẽ và vốn từ khá. Điểm yếu chủ yếu nằm ở một vài lựa chọn từ/collocation chưa thật tự nhiên và có thể tăng tính cụ thể của bằng chứng để đạt mức cao hơn nữa.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên ('unlock professions', 'face lower unemployment').",
+          "Chủ ngữ 'university teaches' hơi không chính xác, nên dùng 'a university education'.",
+          "Bằng chứng còn mang tính khái quát, chưa có số liệu hoặc ví dụ chi tiết để tăng độ thuyết phục.",
+          "Kết luận hơi lặp từ 'opens doors' ở mở bài; có thể diễn đạt đa dạng hơn."
+        ]
+      }
+    },
+    {
+      "questionId": 102,
+      "qtype": "Causes / Solutions",
+      "question": "How can governments encourage reading among children? Suggest practical measures.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:41:27.894Z",
+          "words": 294,
+          "text": "Reading for pleasure has declined among children in many countries, as screens compete for their attention. This essay will suggest practical measures that governments could take, focusing on access to books and on building a lasting reading habit.\n\nFirst and foremost, governments should make books easy to obtain for every child. Many families on low incomes cannot afford to buy books regularly, so funding for well-stocked school and public libraries is essential, and mobile libraries could reach rural communities where there are no bookshops. Free book-gifting schemes, in which every newborn or school starter receives age-appropriate titles, would also put books into homes where there are few. Schemes such as Bookstart in the United Kingdom, for instance, give free books to families with young children to encourage reading from an early age. Such investment is modest compared with the long-term benefits, since children who read widely generally achieve better results across all subjects.\n\nIn addition, authorities should help children to enjoy reading rather than treat it as a chore. Schools could be required to set aside a short daily reading period and to let pupils choose books that match their interests, since enjoyment, not obligation, creates lasting habits. Authors' visits, reading challenges with small rewards and national campaigns featuring popular sportspeople as role models would make reading appear attractive. Furthermore, parents should be encouraged, through workshops and free advice, to read with their children at home, as children who see adults reading are more likely to imitate them. A boy who dislikes novels, for example, may become an enthusiastic reader once offered a book about his favourite football team.\n\nIn conclusion, expanding access to books and making reading enjoyable through schools, campaigns and families offer the most realistic way of encouraging children to read.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết xuất sắc, đạt chất lượng cao về cả nội dung lẫn hình thức. Bài viết triển khai ý tưởng logic, từ vựng phong phú và ngữ pháp chuẩn xác, đáp ứng rất tốt tiêu chí của IELTS Writing Task 2.",
+            "weaknesses": [
+              "Một số câu có xu hướng khá dài, đôi khi có thể gây loãng mạch đọc nếu người đọc không chú ý kỹ.",
+              "Thiếu một chút sự tập trung vào từ vựng mang tính chuyên ngành cao hơn về giáo dục trẻ em."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách đưa ra các giải pháp thực tế từ phía chính phủ để khuyến khích trẻ em đọc sách. Các luận điểm được phát triển rõ ràng với ví dụ cụ thể như chương trình Bookstart.",
+              "coherenceCohesion": "Bài viết có bố cục mạch lạc, các đoạn văn được phân chia hợp lý theo từng nhóm giải pháp. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ học thuật và collocation tự nhiên như 'age-appropriate titles', 'lasting reading habit', 'modest compared with'. Chính tả và cách dùng từ chính xác.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu ghép đến câu phức, được kiểm soát tốt với độ chính xác cao. Việc sử dụng mệnh đề quan hệ và các cấu trúc điều kiện/nhượng bộ rất mượt mà."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Solutions only: 'How can governments encourage reading among children? Suggest practical measures.' (đề gốc từng bị chấm thấp vì quá ngắn)",
+        "plan": [
+          {
+            "step": "1. Dạng đề chỉ cần giải pháp",
+            "think": "Đề không hỏi nguyên nhân nên không viết nguyên nhân. Chia biện pháp thành 2 nhóm logic: (1) tiếp cận sách (nguồn lực) và (2) tạo thói quen (động lực). Mỗi nhóm có 2–3 biện pháp cụ thể, mỗi biện pháp nói vì sao hiệu quả. Lần trước bài chỉ khoảng 240 từ nên bị trừ Task Response: bài này cố ý dài hơn 270 từ.",
+            "refs": [
+              "FR-struct-solutions",
+              "FR-develop-point"
+            ]
+          },
+          {
+            "step": "2. Mở bài: nêu vấn đề + báo trước hai nhóm biện pháp",
+            "think": "Một câu nêu vấn đề (màn hình cạnh tranh sự chú ý) và một câu báo trước hai hướng, giữ cho người đọc biết cấu trúc ngay từ đầu.",
+            "refs": [
+              "FR-this-essay-will",
+              "SY-encourage"
+            ]
+          },
+          {
+            "step": "3. Nhóm 1 — tiếp cận sách",
+            "think": "Ba biện pháp: thư viện trường và công cộng được cấp vốn, thư viện lưu động cho nông thôn, chương trình tặng sách. Lý do: gia đình thu nhập thấp không đủ tiền mua sách. Ví dụ Bookstart (Anh) nêu chung chung. Kết đoạn bằng lập luận chi phí–lợi ích (đầu tư nhỏ, lợi ích dài hạn).",
+            "refs": [
+              "ID-reading-access",
+              "ID-library-free-access",
+              "PH-make-obtain",
+              "PH-mobile-libraries",
+              "PH-free-of-charge",
+              "EX-bookstart",
+              "CN-firstPoint-first-and-foremost"
+            ]
+          },
+          {
+            "step": "4. Nhóm 2 — làm cho việc đọc thành niềm vui",
+            "think": "Giờ đọc hằng ngày ở trường với quyền tự chọn sách; gặp tác giả, thử thách đọc; chiến dịch truyền thông với hình mẫu; hướng dẫn phụ huynh đọc cùng con. Nền lập luận: 'enjoyment, not obligation'. Ví dụ cậu bé ghét tiểu thuyết đọc sách về đội bóng yêu thích.",
+            "refs": [
+              "ID-reading-habit-enjoy",
+              "PH-enjoyment-not-obligation",
+              "PH-role-models",
+              "PH-imitate-adults",
+              "EX-football-book",
+              "CN-nextPoint-in-addition",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Tóm tắt hai nhóm biện pháp thành một câu: mở rộng tiếp cận và làm cho đọc sách thú vị.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "FR-struct-solutions",
+          "PH-make-obtain",
+          "PH-mobile-libraries",
+          "PH-enjoyment-not-obligation",
+          "PH-role-models",
+          "PH-imitate-adults",
+          "SY-encourage",
+          "ID-reading-access",
+          "ID-reading-habit-enjoy",
+          "EX-bookstart",
+          "EX-football-book"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:48:25.060Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đáp ứng tốt đề bài, trình bày mạch lạc các biện pháp khuyến khích đọc sách với vốn từ khá và ngữ pháp chính xác. Điểm yếu chính nằm ở việc một số biện pháp chưa được gắn chặt với vai trò điều phối của chính phủ và một vài lỗi mơ hồ về đại từ/cấu trúc. Với độ dài 294 từ, bài không bị trừ điểm độ dài; ước tính overall Writing Task 2 khoảng 7.5–8.0, tùy cách làm tròn bốn tiêu chí.",
+        "weaknesses": [
+          "Một vài biện pháp chưa nêu rõ chính phủ sẽ thực hiện bằng cơ chế nào, hơi lệch sang nhà trường/gia đình.",
+          "Có hiện tượng đại từ mơ hồ và cấu trúc so sánh không song song.",
+          "Một số cụm từ dùng còn rút gọn, thiếu bổ ngữ khiến nghĩa chưa thật sự rõ ràng.",
+          "Liên kết từ hơi máy móc, chưa linh hoạt."
+        ]
+      }
+    },
+    {
+      "questionId": 103,
+      "qtype": "Opinion",
+      "question": "Discuss the role of museums in education.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:41:28.537Z",
+          "words": 279,
+          "text": "Museums are sometimes seen as places for tourists rather than for learners, yet they play a valuable part in education. This essay will outline two key contributions: bringing subjects to life through real objects, and promoting cultural understanding among people of all ages.\n\nFirst and foremost, museums make abstract subjects tangible. Pupils who handle replicas, watch demonstrations and examine genuine artefacts understand history and science far better than those who only read about them in textbooks, because seeing and touching engages several senses at once. Interactive exhibits also encourage visitors to ask questions and draw their own conclusions, which develops curiosity and independent thinking. Moreover, trained guides can adapt explanations to different ages, so that a single exhibition serves both young children and university students. A class studying ancient Egypt, for example, will remember the daily lives of ordinary people far more vividly after seeing real tools, jewellery and mummies than after a lesson based on text.\n\nIn addition, museums promote cultural understanding and lifelong learning. Collections drawn from different regions and periods let visitors appreciate traditions other than their own, which weakens prejudice and strengthens respect between communities. Because many museums are free or inexpensive, and increasingly offer online tours and resources, they are accessible to people of all ages and incomes, including adults who wish to learn after leaving school. By contrast, a classroom reaches only its enrolled students. A retired visitor attending a weekend lecture on local history, for instance, may gain as much from the museum as any schoolchild.\n\nTo sum up, museums contribute to education by making learning vivid and by encouraging cultural awareness throughout life. For these reasons, they deserve continued public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn đạt chất lượng rất tốt, bố cục rõ ràng, văn phong tự nhiên và lập luận chặt chẽ. Với việc tinh chỉnh một vài lỗi nhỏ về diễn đạt và mở rộng thêm góc nhìn, bạn hoàn toàn có thể đạt mức band cao hơn.",
+            "weaknesses": [
+              "Một số ví dụ hơi mang tính liệt kê thay vì phân tích sâu hơn tác động.",
+              "Cách diễn đạt ở phần kết luận có phần hơi khái quát, chưa đúc kết lại sắc thái riêng của từng luận điểm."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách thảo luận rõ ràng hai vai trò giáo dục chính của bảo tàng. Các luận điểm được phát triển logic, có ví dụ cụ thể minh họa, tuy nhiên việc đào sâu hơn vào khía cạnh giáo dục cộng đồng có thể giúp bài viết toàn diện hơn.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc 4 đoạn rõ ràng. Các liên kết từ (First and foremost, In addition, To sum up) và từ quy chiếu được sử dụng hiệu quả, giúp dẫn dắt người đọc mượt mà qua các ý.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ học thuật và collocations tự nhiên như 'bring subjects to life', 'tangible', 'genuine artefacts', và 'lifelong learning'. Lỗi chính tả gần như không có.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng và vững chắc với nhiều câu phức được kiểm soát tốt. Các mệnh đề quan hệ và cấu trúc so sánh được sử dụng chính xác, mang lại điểm số cao ở tiêu chí này."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion dạng 'Discuss the role of X in education' → 2 vai trò (cùng khung với đề thư viện 83)",
+        "plan": [
+          {
+            "step": "1. Tái sử dụng nguyên khung của đề 83 (thư viện)",
+            "think": "Đề 'role of museums in education' giống 'role of libraries in modern society'. Dùng lại: mở bài dạng 'X is sometimes seen as…, yet…', báo trước 2 vai trò, 2 thân bài, kết bài kêu gọi hỗ trợ công. Chỉ phải nghĩ nội dung riêng cho bảo tàng.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-dismissed-yet",
+              "FR-this-essay-will"
+            ]
+          },
+          {
+            "step": "2. Vai trò 1 — học bằng vật thật",
+            "think": "Điểm riêng của bảo tàng là vật thật và tương tác: chạm, nhìn, thử nghiệm huy động nhiều giác quan; câu hỏi và tự kết luận phát triển tư duy; hướng dẫn viên điều chỉnh theo độ tuổi. Ví dụ lớp học Ai Cập cổ đại. Tái sử dụng ý 'tư duy độc lập' từ đề 20.",
+            "refs": [
+              "ID-museum-handson",
+              "ID-critical-deeper-learning",
+              "PH-tangible",
+              "PH-engage-senses",
+              "PH-draw-conclusions",
+              "EX-egypt-class",
+              "CN-firstPoint-first-and-foremost"
+            ]
+          },
+          {
+            "step": "3. Vai trò 2 — hiểu văn hoá và học suốt đời",
+            "think": "Bộ sưu tập từ nhiều vùng, thời kỳ giúp trân trọng truyền thống khác, giảm định kiến. Tiếp cận mọi lứa tuổi (nhiều bảo tàng miễn/thấp phí, có tài nguyên online). Dùng 'By contrast' để so với lớp học chỉ phục vụ học sinh ghi danh.",
+            "refs": [
+              "ID-museum-culture-lifelong",
+              "ID-library-free-access",
+              "PH-appreciate-traditions",
+              "PH-weaken-prejudice",
+              "PH-lifelong-learning",
+              "PH-regardless-income",
+              "EX-retired-lecture",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "4. Kết bài",
+            "think": "Lặp lại khuôn kết bài của đề 83 và 56: tóm tắt 2 vai trò + 'deserve continued public support'.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-tangible",
+          "PH-engage-senses",
+          "PH-draw-conclusions",
+          "PH-appreciate-traditions",
+          "PH-weaken-prejudice",
+          "PH-lifelong-learning",
+          "ID-museum-handson",
+          "ID-museum-culture-lifelong",
+          "EX-egypt-class",
+          "EX-retired-lecture"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:48:07.538Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết chất lượng tốt, trả lời đúng đề và có lập luận rõ ràng với ví dụ thuyết phục. Điểm yếu chính nằm ở một lỗi ngữ pháp nhỏ và vài cụm collocation chưa tự nhiên. Nhìn chung bài viết tương đương band 8.0 nếu khắc phục lỗi ngữ pháp.",
+        "weaknesses": [
+          "Còn lỗi hòa hợp chủ ngữ - động từ ('seeing and touching engages').",
+          "Một vài cụm từ chưa thật tự nhiên chuẩn collocation ('weakens prejudice', 'based on text').",
+          "Chưa đề cập đến hạn chế hoặc khía cạnh khác của vai trò bảo tàng, khiến lập luận hơi một chiều.",
+          "Đại từ 'them' trong câu so sánh hơi mơ hồ."
+        ]
+      }
+    },
+    {
+      "questionId": 110,
+      "qtype": "Extent",
+      "question": "Some argue that technology in schools improves learning. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:41:28.591Z",
+          "words": 262,
+          "text": "Computers, tablets and interactive whiteboards are now standard equipment in many schools. I largely agree that this technology improves learning, provided that it is used purposefully rather than for its own sake.\n\nTo begin with, digital tools make lessons more engaging and help pupils to grasp difficult concepts. Simulations allow a physics class to test how a bridge behaves under different loads, and animations can show a chemical reaction or a historical battle in ways that diagrams on a page cannot. Interactive quizzes and educational games provide instant feedback, so pupils see immediately what they have misunderstood, and the element of competition keeps many reluctant learners motivated. Students who are involved in a lesson tend to concentrate longer and remember more. A geography class that explores a volcano through a three-dimensional model, for instance, gains a clearer picture than one that relies solely on a textbook photograph.\n\nFurthermore, technology allows teachers to tailor instruction to individual pupils. In a crowded classroom, a teacher rarely has time to adjust the pace for every child, whereas adaptive software can identify weaknesses and provide targeted practice at once. As a result, struggling pupils receive timely support while faster ones are stretched, and teachers, freed from repetitive marking, can devote more attention to discussion. However, technology is only a tool: without proper teacher training and clear learning goals, tablets may become expensive distractions. Its benefits therefore depend on how it is used.\n\nIn conclusion, technology improves learning by making lessons more vivid and more personalised, but only when teachers use it with a clear educational purpose.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn rất xuất sắc, có bố cục rõ ràng, lập luận thuyết phục và ngữ pháp vững chắc. Bạn đã trả lời đúng trọng tâm đề bài và đưa ra các dẫn chứng thực tế rất phù hợp.",
+            "weaknesses": [
+              "Một số từ vựng có thể được nâng cấp lên mức học thuật cao hơn (Academic).",
+              "Cách diễn đạt ở phần kết bài hơi lặp lại ý của phần mở bài và thân bài."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng đồng ý phần lớn (largely agree), đưa ra lập trường rõ ràng ngay từ đầu và duy trì suốt bài. Các luận điểm về sự hứng thú và cá nhân hóa việc học được phát triển chi tiết với ví dụ cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết rất chặt chẽ với cấu trúc 4 đoạn rõ ràng. Các liên kết từ như 'To begin with', 'Furthermore', 'As a result', 'However' được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ chính xác và tự nhiên trong chủ đề giáo dục và công nghệ. Tuy nhiên, vẫn thiếu một số từ vựng nâng cao (C1/C2) mang tính học thuật cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Độ chính xác rất cao, không có lỗi ngữ pháp nghiêm trọng nào ảnh hưởng đến việc đọc hiểu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: 'technology in schools improves learning. To what extent do you agree?' → largely agree + giới hạn",
+        "plan": [
+          {
+            "step": "1. Khung Extent + câu giới hạn quen thuộc",
+            "think": "Đề Extent (giống 9, 20, 70) nên dùng 'largely agree' và câu giới hạn ở thân bài 2. Với công nghệ, giới hạn chuẩn là 'chỉ là công cụ, cần đào tạo giáo viên và mục tiêu rõ'.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view",
+              "ID-tech-tool-caveat",
+              "PH-tool-not-cure"
+            ]
+          },
+          {
+            "step": "3. Lý do 1 — bài học sinh động, hiểu khái niệm khó (ý mới, riêng cho lớp học)",
+            "think": "Đề nói 'in schools' nên ý phải ở trong lớp: mô phỏng vật lý, hoạt hình hoá học, quiz phản hồi tức thì, yếu tố cạnh tranh giữ động lực. Khác với đề 4/13 (học online, tiếp cận) nên không bị lặp ý.",
+            "refs": [
+              "ID-edtech-engage",
+              "PH-grasp-difficult",
+              "PH-instant-feedback",
+              "PH-keep-motivated",
+              "EX-volcano-model",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "4. Lý do 2 — cá nhân hoá (tái sử dụng từ đề 4)",
+            "think": "Tái sử dụng nguyên ý và gần như nguyên cụm từ của đề 4 (adaptive software, targeted practice, teachers freed from repetitive marking), chỉ đổi 'student' thành 'pupil' để đa dạng từ. Sau đó 'However' chuyển sang phần giới hạn.",
+            "refs": [
+              "ID-edtech-personalise",
+              "PH-tailored-needs",
+              "PH-pinpoint-weaknesses",
+              "PH-expensive-distractions",
+              "CN-nextPoint-furthermore",
+              "CN-result-as-a-result"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Khớp với phần giới hạn: 'only when teachers use it with a clear educational purpose'.",
+            "refs": [
+              "CN-concluding-in-conclusion",
+              "PH-complement-not-replace"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-grasp-difficult",
+          "PH-instant-feedback",
+          "PH-keep-motivated",
+          "PH-expensive-distractions",
+          "PH-tool-not-cure",
+          "ID-edtech-engage",
+          "ID-tech-tool-caveat",
+          "EX-volcano-model"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:48:25.739Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt mức band 8.0, trả lời tốt đề bài, lập luận rõ ràng và có ví dụ thuyết phục. Từ vựng và ngữ pháp đều ở mức khá cao, bố cục mạch lạc. Điểm cần cải thiện chủ yếu là tăng độ tự nhiên trong diễn đạt, làm rõ quy chiếu đại từ và có thể mở rộng thêm một phản biện thực sự.",
+        "weaknesses": [
+          "Một vài cụm từ hơi công thức hoặc chưa hoàn toàn tự nhiên.",
+          "Quy chiếu đại từ 'this technology' và 'Its benefits' có thể gây mơ hồ nhẹ.",
+          "Đoạn thứ ba chuyển sang nêu hạn chế hơi đột ngột, chưa phải là một phản biện thực sự.",
+          "Kết bài hơi ngắn, chưa mở rộng hàm ý hoặc tóm lược đầy đủ."
+        ]
+      }
+    },
+    {
+      "questionId": 114,
+      "qtype": "Agree / Disagree",
+      "question": "Many people think that music education benefits children. Do you agree? Explain with examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:41:31.882Z",
+          "words": 261,
+          "text": "Music is often regarded as an optional extra in the school timetable, but I firmly agree that music education benefits children, since it strengthens their intellectual skills and supports their emotional and social development.\n\nTo begin with, learning an instrument trains the mind. Reading notation, memorising pieces and coordinating hands, eyes and ears demand sustained concentration, and regular practice teaches pupils that improvement comes from patient, repeated effort. These habits of focus and self-discipline carry over into other subjects, and research has associated musical training with stronger memory and language skills. As a result, children who play an instrument often approach homework and revision with greater persistence. A pupil who has spent months mastering a difficult piece, for example, learns that perseverance eventually produces results.\n\nFurthermore, music contributes to emotional wellbeing and teamwork. Playing in a band or singing in a choir requires children to listen to others, adjust their own part and take shared responsibility for the final performance, so it fosters cooperation and mutual respect. Performing in front of an audience also builds self-confidence, and music gives young people a healthy way to express feelings and relieve stress. Admittedly, instruments and specialist teachers cost money, but schools can begin with inexpensive options such as singing and percussion. A shy pupil who gains confidence by performing in a school concert is likely to speak up more readily in other lessons.\n\nIn conclusion, I am convinced that music education benefits children by sharpening their concentration and by nurturing confidence and cooperation, and it should therefore remain part of every school's programme.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 8,
+              "coherenceCohesion": 8,
+              "lexicalResource": 8,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết xuất sắc, đạt chuẩn band 8.0 với lập luận chặt chẽ, từ vựng phong phú và ngữ pháp vững chắc. Bài viết đáp ứng hoàn hảo các yêu cầu của một bài luận IELTS Writing Task 2 dạng Agree/Disagree.",
+            "weaknesses": [
+              "Một số câu khá dài, có thể được chắt lọc thêm để tăng tính súc tích.",
+              "Ví dụ đưa ra chủ yếu mang tính minh họa chung chung thay vì ví dụ thực tế cụ thể."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi, lập trường đồng tình được thể hiện rõ ràng và xuyên suốt. Các luận điểm về trí tuệ, cảm xúc và xã hội được phát triển đầy đủ cùng với các ví dụ cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc 4 đoạn rõ ràng. Các liên từ và phương tiện liên kết được sử dụng tự nhiên và hiệu quả, giúp dẫn dắt người đọc mượt mà.",
+              "lexicalResource": "Vốn từ vựng rất phong phú và tự nhiên, sử dụng nhiều cụm từ chính xác (collocations) như 'strengthens their intellectual skills', 'sustained concentration', 'emotional wellbeing'. Không có lỗi chính tả.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu phức và câu ghép với độ chính xác cao. Ngữ pháp sử dụng chuẩn xác, không có lỗi lặp cấu trúc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree / Disagree: 'music education benefits children' → đồng ý",
+        "plan": [
+          {
+            "step": "1. Đề nghệ thuật dùng được khung 'lợi ích kép'",
+            "think": "Đề 'X benefits children' là Agree dạng đơn giản: hai lợi ích khác loại nhau: trí tuệ (tập trung, trí nhớ, kỷ luật) và cảm xúc–xã hội (tự tin, hợp tác, giải toả căng thẳng). Hai nhóm này cũng dùng được cho thể thao, hội hoạ, sân khấu.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Mở bài",
+            "think": "Mở bằng quan niệm thông thường (âm nhạc chỉ là phần thêm) rồi phản bác bằng lập trường; thesis nêu 2 lợi ích đúng thứ tự thân bài.",
+            "refs": [
+              "FR-dismissed-yet"
+            ]
+          },
+          {
+            "step": "3. Lý do 1 — rèn trí tuệ",
+            "think": "Cơ chế đặc thù của âm nhạc: đọc nốt, thuộc bài, phối hợp tay–mắt–tai → tập trung kéo dài; tập đều → kiên nhẫn. Đưa 'research has associated…' ở mức phỏng đoán an toàn (không số liệu). Ví dụ học sinh luyện một bản nhạc khó trong nhiều tháng.",
+            "refs": [
+              "ID-music-cognitive",
+              "PH-sustained-concentration",
+              "PH-patient-effort",
+              "PH-carry-over",
+              "EX-difficult-piece",
+              "CN-firstPoint-to-begin-with",
+              "CN-result-as-a-result"
+            ]
+          },
+          {
+            "step": "4. Lý do 2 — tự tin, hợp tác + nhượng bộ chi phí",
+            "think": "Tái sử dụng ý làm việc nhóm (cụm 'shared responsibility'), thêm tự tin khi biểu diễn và giải toả căng thẳng. Một câu nhượng bộ chi phí (nhạc cụ, giáo viên) rồi giải pháp (bắt đầu bằng hát và gõ nhịp), dùng đúng khung 'Admittedly… but…'.",
+            "refs": [
+              "ID-music-emotional-team",
+              "ID-class-interaction",
+              "FR-concede-cost",
+              "PH-shared-responsibility",
+              "PH-relieve-stress",
+              "EX-shy-concert",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "5. Kết bài",
+            "think": "Hai động từ song song (sharpening concentration, nurturing confidence and cooperation) + kiến nghị giữ môn này.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-sustained-concentration",
+          "PH-patient-effort",
+          "PH-carry-over",
+          "PH-shared-responsibility",
+          "PH-relieve-stress",
+          "ID-music-cognitive",
+          "ID-music-emotional-team",
+          "EX-difficult-piece",
+          "EX-shy-concert"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:49:06.355Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8.0 nhờ lập luận chặt chẽ, từ vựng tốt và ngữ pháp chính xác. Để lên band 8.5-9, cần trau chuốt một số collocation và phát triển ví dụ cụ thể hơn.",
+        "weaknesses": [
+          "Một số cụm từ chưa thật tự nhiên như 'coordinating hands, eyes and ears' hay 'research has associated...'",
+          "Ví dụ chưa thật cụ thể về nghiên cứu hoặc số liệu, có thể phát triển thêm để đạt band 9.",
+          "Từ nối hơi đơn giản, có thể dùng linh hoạt hơn (although, whereas, however...).",
+          "Ít cấu trúc đảo ngữ hoặc câu nhấn mạnh để tăng ấn tượng ngữ pháp."
+        ]
+      }
+    },
+    {
+      "questionId": 119,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Do the advantages of studying multiple languages outweigh the disadvantages? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-03T17:41:33.715Z",
+          "words": 262,
+          "text": "As globalisation brings people closer together, more and more students learn two or three foreign languages alongside their mother tongue. Although this requires considerable time and effort, I believe that the advantages outweigh the disadvantages.\n\nOn the positive side, studying several languages broadens career prospects and intellectual abilities. Multilingual graduates are able to work in international companies, deal directly with clients abroad and apply for positions in several countries, which gives them a clear advantage in a competitive labour market. Beyond employability, switching between languages exercises memory and attention, and learners often develop a deeper understanding of how language itself works, which makes each new language easier to acquire. They also gain access to literature, films and cultures in their original form, which promotes open-mindedness. For example, a student who speaks Spanish and French can read news and literature from dozens of countries without relying on translations.\n\nOn the negative side, mastering several languages demands a great deal of time and effort. Learners must spend hours on vocabulary and grammar, which may reduce the time available for other subjects, and confusion between similar languages is common. Moreover, adding language classes risks overloading a timetable that is already full. Nevertheless, these difficulties are manageable. Starting at primary level, when children absorb sounds and structures easily, spreads the workload over many years, and modern apps and online conversation partners make practice more flexible and enjoyable.\n\nIn conclusion, despite the heavy workload, learning several languages is, on balance, more beneficial than harmful, thanks to the career opportunities, mental agility and cultural understanding that it brings.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, đáp ứng đầy đủ yêu cầu của đề bài về mặt nội dung và cấu trúc. Ngôn ngữ được sử dụng trôi chảy, tự nhiên và có độ chính xác cao.",
+            "weaknesses": [
+              "Một số ví dụ còn hơi chung chung, có thể đào sâu hơn vào khía cạnh thực tế.",
+              "Cách diễn đạt ở phần thân bài đôi khi lặp lại các cấu trúc mệnh đề quan hệ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi của đề bài, đưa ra lập trường rõ ràng và phân tích cả hai mặt lợi - hại trước khi đi đến kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn được phân chia rõ ràng theo chức năng. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ hay liên quan đến chủ đề học ngôn ngữ và việc làm. Tuy nhiên, có thể bổ sung thêm một số cấu trúc từ vựng nâng cao hơn để đạt điểm cao hơn ở tiêu chí này.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, được sử dụng rất chính xác với tỷ lệ lỗi ngữ pháp cực kỳ thấp. Ngữ pháp thể hiện sự kiểm soát tốt của người viết."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Advantages / Disadvantages: 'Do the advantages of studying multiple languages outweigh the disadvantages?' → ưu điểm thắng",
+        "plan": [
+          {
+            "step": "1. Dạng thứ ba cùng khung 'outweigh' (13, 59, 119)",
+            "think": "Ba đề cùng khung nên học khung này một lần: mở bài chốt phe, thân bài 1 (On the positive side), thân bài 2 (On the negative side… Nevertheless… phản bác), kết bài 'despite… on balance… thanks to…'. Chỉ thay nội dung riêng của ngoại ngữ.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance",
+              "CN-firstPoint-on-the-positive-side",
+              "CN-nextPoint-on-the-negative-side",
+              "CN-concession-nevertheless",
+              "PH-insurmountable"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm: nghề nghiệp + trí tuệ + văn hoá",
+            "think": "Ba lớp: cơ hội làm việc quốc tế (dùng lại cụm 'apply for positions in several countries' từ đề 59), trí nhớ và chú ý khi chuyển ngôn ngữ, tiếp cận văn hoá ở dạng gốc. Ví dụ tiếng Tây Ban Nha và Pháp (hai ngôn ngữ phổ biến). Tái sử dụng ý của đề 59 nhưng nhấn vào ngôn ngữ.",
+            "refs": [
+              "ID-languages-career-cognitive",
+              "ID-abroad-outlook",
+              "PH-multilingual-graduates",
+              "PH-competitive-labour-market",
+              "PH-original-form",
+              "SY-learn-language",
+              "EX-spanish-french",
+              "EX-bilingual-graduate"
+            ]
+          },
+          {
+            "step": "3. Nhược điểm + phản bác",
+            "think": "Nhược điểm: tốn thời gian, dễ nhầm lẫn, quá tải thời khoá biểu (dùng lại ý 'crowded timetable' từ đề 9 và 20). Phản bác: bắt đầu từ tiểu học khi trẻ tiếp thu dễ; ứng dụng và đối tác trò chuyện online.",
+            "refs": [
+              "ID-languages-time-effort",
+              "ID-curriculum-balance",
+              "PH-overload-timetable",
+              "PH-absorb-easily",
+              "SY-hard"
+            ]
+          },
+          {
+            "step": "4. Kết bài",
+            "think": "Ba lợi ích nêu ở thân bài 1 (career opportunities, mental agility, cultural understanding) được nhắc lại đúng thứ tự.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-multilingual-graduates",
+          "PH-competitive-labour-market",
+          "PH-original-form",
+          "PH-overload-timetable",
+          "PH-absorb-easily",
+          "SY-learn-language",
+          "ID-languages-career-cognitive",
+          "ID-languages-time-effort",
+          "EX-spanish-french"
+        ]
+      },
+      "final": 1,
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T17:49:33.615Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, trình bày quan điểm rõ ràng và phát triển ý mạch lạc với ví dụ phù hợp. Từ vựng và ngữ pháp ở mức khá tốt, tuy còn một vài điểm cần chỉnh chu về collocation và cấu trúc câu. Với những cải thiện nhỏ về độ tự nhiên của câu và bổ sung ví dụ cho phần bất lợi, bài có thể đạt band cao hơn.",
+        "weaknesses": [
+          "Phần nhược điểm chưa có ví dụ minh họa riêng, làm giảm độ cân bằng của lập luận.",
+          "Một số cụm từ chưa tự nhiên (ví dụ 'exercises memory').",
+          "Câu 'Starting at primary level...' có chủ ngữ dài, gây khó hiểu.",
+          "Lặp lại cấu trúc mệnh đề quan hệ 'which' trong nhiều câu."
+        ]
+      }
+    }
+  ]
+}

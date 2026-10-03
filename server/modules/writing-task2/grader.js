@@ -63,24 +63,66 @@ function extractJson(text) {
   }
 }
 
-export async function gradeEssay(question, body) {
+// ---- Engine: Gemini mặc định, tự chuyển sang DeepSeek khi hết quota / quá tải ----
+const DEEPSEEK_URL = 'https://api.deepseek.com/chat/completions';
+const GEMINI_FALLBACK_RE = /429|quota|RESOURCE_EXHAUSTED|UNAVAILABLE|503|overloaded|GEMINI_API_KEY/i;
+let geminiCooldownUntil = 0;
+
+async function callGemini(prompt) {
   const ai = getClient();
-  const words = countWords(body);
-
-  const prompt = `ĐỀ BÀI (${question.qtype}):\n${question.text}\n\nBÀI VIẾT CỦA HỌC VIÊN (${words} từ):\n${body}`;
-
   const response = await ai.models.generateContent({
     model: MODEL,
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
-    config: {
-      systemInstruction: SYSTEM_INSTRUCTION,
-      responseMimeType: 'application/json',
-      temperature: 0.3,
-    },
+    config: { systemInstruction: SYSTEM_INSTRUCTION, responseMimeType: 'application/json', temperature: 0.3 },
   });
+  if (!response.text) throw new Error('Gemini không trả về kết quả chấm. Vui lòng thử lại.');
+  return response.text;
+}
 
-  const text = response.text;
-  if (!text) throw new Error('Gemini không trả về kết quả chấm. Vui lòng thử lại.');
+async function callDeepSeek(prompt) {
+  const key = process.env.DEEPSEEK_API_KEY;
+  if (!key) throw new Error('Thiếu DEEPSEEK_API_KEY để dùng bộ chấm dự phòng.');
+  const res = await fetch(DEEPSEEK_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+    body: JSON.stringify({
+      model: process.env.DEEPSEEK_MODEL || 'deepseek-v4-pro',
+      messages: [
+        { role: 'system', content: SYSTEM_INSTRUCTION },
+        { role: 'user', content: prompt },
+      ],
+      response_format: { type: 'json_object' },
+      temperature: 0.3,
+      stream: false,
+    }),
+  });
+  if (!res.ok) throw new Error(`DeepSeek lỗi ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  const data = await res.json();
+  const text = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+  if (!text) throw new Error('DeepSeek không trả về kết quả chấm. Vui lòng thử lại.');
+  return text;
+}
+
+// GRADER_ENGINE = gemini | deepseek | auto (mặc định)
+async function generate(prompt) {
+  const mode = (process.env.GRADER_ENGINE || 'auto').toLowerCase();
+  if (mode === 'deepseek') return { engine: 'deepseek', text: await callDeepSeek(prompt) };
+  if (mode === 'gemini') return { engine: 'gemini', text: await callGemini(prompt) };
+  if (Date.now() >= geminiCooldownUntil) {
+    try {
+      return { engine: 'gemini', text: await callGemini(prompt) };
+    } catch (err) {
+      if (!GEMINI_FALLBACK_RE.test(err.message)) throw err;
+      geminiCooldownUntil = Date.now() + 10 * 60 * 1000;
+    }
+  }
+  return { engine: 'deepseek', text: await callDeepSeek(prompt) };
+}
+
+async function gradeOnce(question, body) {
+  const words = countWords(body);
+  const prompt = `ĐỀ BÀI (${question.qtype}):\n${question.text}\n\nBÀI VIẾT CỦA HỌC VIÊN (${words} từ):\n${body}`;
+  const { engine, text } = await generate(prompt);
 
   const raw = extractJson(text);
   const b = raw.bands || {};
@@ -95,6 +137,7 @@ export async function gradeEssay(question, body) {
 
   const f = raw.feedback || {};
   return {
+    engine,
     overall: roundHalf(values.reduce((a, c) => a + c, 0) / values.length),
     bands,
     feedback: {
@@ -113,4 +156,18 @@ export async function gradeEssay(question, body) {
     improvedVersion: str(raw.improvedVersion),
     nextSteps: strList(raw.nextSteps, 5),
   };
+}
+
+// Model đôi khi trả JSON hỏng -> thử lại tối đa 3 lần trước khi báo lỗi.
+export async function gradeEssay(question, body) {
+  let lastErr;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      return await gradeOnce(question, body);
+    } catch (err) {
+      lastErr = err;
+      if (!/JSON|json|thiếu điểm|không trả về/.test(err.message)) throw err;
+    }
+  }
+  throw lastErr;
 }

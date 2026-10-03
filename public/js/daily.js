@@ -844,182 +844,227 @@
     else if (id === 'w-sort') { var p = e.target.value.split(':'); W.sort = { key: p[0], dir: p[1] }; W.page = 1; updateResults(); }
   });
 
-  /* ---------- Study: the y + tu dien cum -> cong thuc -> bai mau ---------- */
-  var KIND_LABEL = { pro: 'Thẻ ủng hộ', con: 'Thẻ phản đối', cause: 'Thẻ nguyên nhân', solution: 'Thẻ giải pháp' };
-  var KIND_HINT = {
-    pro: 'Lý do để ủng hộ một chính sách / hành động. Dùng cho đề đồng ý, lợi ích, vai trò, hoặc phe "ủng hộ" trong đề hai quan điểm.',
-    con: 'Lý do để phản đối, hoặc nhược điểm. Dùng cho đề phản đối, nhược điểm, hoặc phe "phản đối".',
-    cause: 'Nguyên nhân của một vấn đề (dùng với đề Causes / Solutions).',
-    solution: 'Giải pháp cho một vấn đề (Causes / Solutions, hoặc "How can governments…?").'
-  };
-  var KIND_ORDER = ['pro', 'con', 'cause', 'solution'];
-  var SHAPE = {
-    AGREE: ['Đồng ý', 'Mở bài: nêu quan điểm chung + lập trường + 2 lý do → Thân bài 1: thẻ A → Thân bài 2: thẻ B → Kết bài: nhắc lại 2 lý do bằng danh từ.'],
-    DISAGREE: ['Phản đối', 'Mở bài: nêu quan điểm bị phản đối + lập trường + 2 lý do phản bác → Thân bài 1: thẻ A → Thân bài 2: thẻ B → Kết bài.'],
-    BOTH: ['Hai quan điểm', 'Mở bài: nêu 2 quan điểm → Thân bài 1 (On the one hand): quan điểm 1 → Thân bài 2 (On the other hand): quan điểm 2 → Kết bài: ý kiến riêng.'],
-    ADVDIS: ['Ưu / nhược điểm', 'Mở bài: có cả ưu và nhược + kết luận sơ bộ → Thân bài 1: ưu điểm → Thân bài 2: nhược điểm → Kết bài: cân nhắc.'],
-    BENEFITS: ['Lợi ích / vai trò', 'Mở bài: câu dẫn + báo trước 2 lợi ích → Thân bài 1: lợi ích A → Thân bài 2: lợi ích B → Kết bài.'],
-    CAUSESOL: ['Nguyên nhân + giải pháp', 'Mở bài: vấn đề + báo trước → Thân bài 1: 2 nguyên nhân → Thân bài 2: 2 giải pháp → Kết bài.'],
-    SOLUTIONS: ['Giải pháp', 'Mở bài: câu dẫn → Thân bài 1: giải pháp 1 và 2 → Thân bài 2: giải pháp 3 và 4 → Kết bài.']
-  };
-  var FILL_LABEL = { claim: 'Luận điểm (claim)', view1: 'Quan điểm 1', view2: 'Quan điểm 2', own: 'Ý kiến riêng', topic: 'Chủ đề', lead: 'Câu dẫn', verdict: 'Nghiêng về', act: 'Hành động (act)', who: 'Đối tượng (who)', problem: 'Vấn đề' };
-  var ROLE = ['Mở bài', 'Thân bài 1', 'Thân bài 2', 'Kết bài'];
+  /* ---------- Study: bài mẫu đã chấm + thư viện dùng chung ---------- */
+  var TYPE_VI = { frame: 'Khung câu / bài', phrase: 'Cụm từ', synonyms: 'Từ đồng nghĩa', idea: 'Ý (lập luận)', example: 'Ví dụ', connector: 'Từ nối' };
+  var TYPE_ORDER = ['frame', 'connector', 'phrase', 'synonyms', 'idea', 'example'];
+  var STANCE_VI = { pro: 'ủng hộ', con: 'phản đối / nhược điểm', cause: 'nguyên nhân', solution: 'giải pháp', caveat: 'giới hạn / nhượng bộ', rebuttal: 'phản bác' };
   var MASTERY = ['Chưa nhớ', 'Mơ hồ', 'Đã thuộc'];
-  var CONN_LABEL = { firstPoint: 'Ý đầu tiên', nextPoint: 'Ý tiếp theo / đối lập', result: 'Kết quả', example: 'Ví dụ', concession: 'Nhượng bộ', concluding: 'Kết bài' };
-  var ST = { loaded: false, loading: false, error: '', lib: null, items: [], byId: {}, usage: {}, progress: {}, tab: 'cards', q: '', ftype: '', fshape: '', fcard: '', fmastery: '', sel: null, color: true, practice: false, reveal: false, recall: '' };
+  var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'education',
+    tab: 'essays', q: '', ftype: '', fpass: '', sel: null, ver: null, color: true, practice: false, reveal: false, recall: '', openRef: null,
+    lq: '', ltype: '', ltopic: '', luse: '', lshow: 60 };
   var sroot = $('#study-root');
 
-  function kindOf(cid) { var c = ST.lib && ST.lib.cards[cid]; return c ? c.kind : 'frame'; }
   function level(id) { return (ST.progress[id] && ST.progress[id].level) || 0; }
-  function slots(s) { return esc(s).replace(/\{(\w+)\}/g, '<em class="slot">{$1}</em>'); }
-  function cardChip(cid, extra) {
-    var c = ST.lib.cards[cid];
-    return '<span class="mini sk-' + c.kind + '" title="' + esc(c.label) + '">' + cid + (extra || '') + '</span>';
+  function latest(rec) { return rec.versions[rec.versions.length - 1]; }
+  function shortText(s, n) { s = String(s || ''); return s.length > n ? s.slice(0, n - 1).trim() + '…' : s; }
+  function entryLabel(e) {
+    if (e.type === 'synonyms') return e.base;
+    if (e.type === 'idea') return e.label_vi;
+    return e.text;
+  }
+  function refChip(id, cls) {
+    var e = ST.byId[id]; if (!e) return '<span class="mini ty-missing">' + esc(id) + '?</span>';
+    return '<button type="button" class="refchip ty-' + e.type + (cls || '') + '" data-act="sref" data-id="' + esc(id) + '" title="' + esc(TYPE_VI[e.type] + ': ' + entryLabel(e)) + '">' + esc(shortText(entryLabel(e), 44)) + '</button>';
   }
 
   async function ensureStudy() {
     if (ST.loaded || ST.loading) return;
     ST.loading = true; drawStudy();
     try {
-      var data = await req('GET', WRITE_API + '/study/education');
-      ST.lib = data.library; ST.items = data.items; ST.byId = {}; ST.usage = {};
-      data.items.forEach(function (it) {
-        ST.byId[it.id] = it;
-        it.cards.forEach(function (c) { (ST.usage[c.id] = ST.usage[c.id] || []).push(it.id); });
+      var d = await req('GET', WRITE_API + '/library/education');
+      ST.entries = d.entries; ST.essays = d.essays; ST.progress = d.progress || {}; ST.pass = d.passScore || 7; ST.topic = d.topic;
+      ST.byId = {}; d.entries.forEach(function (e) { ST.byId[e.id] = e; });
+      ST.byQ = {}; ST.usage = {};
+      d.essays.forEach(function (r) {
+        ST.byQ[r.questionId] = r;
+        var a = r.analysis || {}, seen = {};
+        (a.plan || []).forEach(function (s) { (s.refs || []).forEach(function (x) { seen[x] = 1; }); });
+        Object.keys(seen).forEach(function (x) { (ST.usage[x] = ST.usage[x] || []).push(r.questionId); });
       });
-      ST.progress = data.progress || {}; ST.loaded = true; ST.error = '';
+      ST.loaded = true; ST.error = '';
     } catch (e) { ST.error = e.message; }
     ST.loading = false; drawStudy();
   }
 
-  function studyKpis() {
-    var c = [0, 0, 0];
-    ST.items.forEach(function (it) { c[level(it.id)]++; });
-    var total = ST.items.length;
+  function bandCells(g) {
+    return ['overall', 'taskResponse', 'coherenceCohesion', 'lexicalResource', 'grammar'].map(function (k) {
+      var v = k === 'overall' ? g.overall : g.bands[k];
+      return '<td class="' + (k === 'overall' ? 'ov' : '') + '">' + band(v) + '</td>';
+    }).join('');
+  }
+  function stKpis() {
+    var rs = ST.essays, n = rs.length;
+    var passed = rs.filter(function (r) { return r.versions.length && latest(r).grade.overall >= ST.pass; }).length;
+    var avg = function (f) { var xs = rs.map(f).filter(function (x) { return x != null; }); return xs.length ? (xs.reduce(function (a, b) { return a + b; }, 0) / xs.length).toFixed(1) : '–'; };
+    var mastered = rs.filter(function (r) { return level(r.questionId) === 2; }).length;
+    var used = Object.keys(ST.usage).length;
     return '<div class="kpis">' +
-      '<div class="kpi glass"><b>' + c[2] + '<small>/' + total + '</small></b><span>Đã thuộc</span></div>' +
-      '<div class="kpi glass"><b>' + c[1] + '</b><span>Mơ hồ</span></div>' +
-      '<div class="kpi glass"><b>' + c[0] + '</b><span>Chưa nhớ</span></div>' +
-      '<div class="kpi glass"><b>' + Object.keys(ST.lib.cards).length + '</b><span>thẻ ý cho ' + total + ' đề</span></div></div>';
+      '<div class="kpi glass"><b>' + passed + '<small>/' + n + '</small></b><span>Bài đạt ≥ ' + ST.pass.toFixed(1) + '</span></div>' +
+      '<div class="kpi glass"><b>' + avg(function (r) { return latest(r).grade.overall; }) + '</b><span>Điểm TB (bộ chấm chính)</span></div>' +
+      '<div class="kpi glass"><b>' + avg(function (r) { return r.crossCheck ? r.crossCheck.overall : null; }) + '</b><span>Điểm TB (DeepSeek, chấm chéo)</span></div>' +
+      '<div class="kpi glass"><b>' + ST.entries.length + '</b><span>mục thư viện (' + used + ' đã được bài dùng)</span></div>' +
+      '<div class="kpi glass"><b>' + mastered + '<small>/' + n + '</small></b><span>Bài đã thuộc</span></div></div>';
   }
 
-  function cardsHtml() {
-    var cards = ST.lib.cards, h = '';
-    KIND_ORDER.forEach(function (kind) {
-      var ids = Object.keys(cards).filter(function (k) { return cards[k].kind === kind; });
-      h += '<div class="s-group"><h3>' + KIND_LABEL[kind] + ' (' + ids.length + ')</h3><span>' + KIND_HINT[kind] + '</span></div><div class="cards-grid">';
-      ids.forEach(function (cid) {
-        var c = cards[cid], used = ST.usage[cid] || [];
-        h += '<article class="scard glass sk-' + kind + '"><header><span class="cid">' + cid + '</span><h4>' + esc(c.label) + '</h4></header>' +
-          '<p class="cuse">Dùng trong <b>' + used.length + '</b> đề' + (used.length ? '' : ' (chưa đề nào)') + '</p>' +
-          '<details><summary>Xem ' + c.s.length + ' câu mẫu' + (c.ex ? ' + ví dụ' : '') + '</summary><ol class="clines">' +
-          c.s.map(function (s) { return '<li>' + slots(s) + '</li>'; }).join('') + (c.ex ? '<li><i>Ví dụ:</i> ' + esc(c.ex) + '</li>' : '') + '</ol></details>' +
-          '<div class="chips-q">' + used.map(function (id) { return '<button type="button" class="qchip" data-act="sopen" data-id="' + id + '" title="' + esc(ST.byId[id].text) + '">#' + id + '</button>'; }).join('') + '</div>' +
-          (used.length ? '<button type="button" class="btn btn-sm" data-act="sfcard" data-id="' + cid + '">Lọc các đề dùng thẻ này</button>' : '') +
-          '</article>';
-      });
-      h += '</div>';
-    });
-    return h;
-  }
-
-  function phrasesHtml() {
-    var pb = ST.lib.phraseBank;
-    function list(arr) { return '<div class="phr-list">' + arr.map(function (p) { return '<span class="phr">' + esc(p) + '</span>'; }).join('') + '</div>'; }
-    function rows(obj, plain) {
-      return Object.keys(obj).map(function (k) {
-        return '<div class="phr-row"><div class="phr-key' + (plain ? ' plain' : '') + '">' + esc(k) + '</div>' + list(obj[k]) + '</div>';
-      }).join('');
-    }
-    var h = '<section class="phr-sec glass"><h3>Câu mở bài</h3><p class="hint">Nhắc lại đề bằng cách diễn đạt khác. Chọn 1.</p>' + list(pb.openers) + '</section>' +
-      '<section class="phr-sec glass"><h3>Nêu lập trường</h3><p class="hint">Đặt ngay sau câu mở bài, theo sau là lý do: <i>, since/as {hành động} {vị ngữ} and {vị ngữ}.</i></p>' + list(pb.stance) + '</section>' +
-      '<section class="phr-sec glass"><h3>Từ nối</h3>' + Object.keys(pb.connectors).map(function (k) {
-        return '<div class="phr-sub">' + (CONN_LABEL[k] || k) + '</div>' + list(pb.connectors[k]);
-      }).join('') + '</section>' +
-      '<section class="phr-sec glass"><h3>Động từ khuyết thiếu (nên / phải)</h3>' + list(pb.modals) + '</section>' +
-      '<section class="phr-sec glass"><h3>Từ đồng nghĩa dùng thay nhau</h3><p class="hint">Mỗi lần viết đổi một từ khác nhau để bài không lặp từ.</p>' + rows(pb.synonyms, true) + '</section>' +
-      '<section class="phr-sec glass"><h3>Đừng lạm dụng từ cơ bản</h3><p class="hint">Từ gạch đỏ là từ dễ bị lặp. Dùng nhóm thay thế bên phải.</p>' + rows(pb.upgrades, false) + '</section>';
-    return h;
-  }
-
+  /* --- danh sách bài mẫu --- */
   function sFiltered() {
     var q = ST.q.trim().toLowerCase().replace(/^#/, '');
-    return ST.items.filter(function (it) {
-      if (ST.ftype && it.qtype !== ST.ftype) return false;
-      if (ST.fshape && it.shape !== ST.fshape) return false;
-      if (ST.fcard && !it.cards.some(function (c) { return c.id === ST.fcard; })) return false;
-      if (ST.fmastery !== '' && String(level(it.id)) !== ST.fmastery) return false;
-      if (q && it.text.toLowerCase().indexOf(q) < 0 && String(it.id) !== q) return false;
+    return ST.essays.filter(function (r) {
+      if (ST.ftype && r.qtype !== ST.ftype) return false;
+      if (ST.fpass === 'ok' && latest(r).grade.overall < ST.pass) return false;
+      if (ST.fpass === 'no' && latest(r).grade.overall >= ST.pass) return false;
+      if (q && r.question.toLowerCase().indexOf(q) < 0 && String(r.questionId) !== q) return false;
       return true;
     });
   }
-  function qrowHtml(it) {
-    return '<button type="button" class="qrow" data-act="sopen" data-id="' + it.id + '"><span class="qn">#' + it.id + '</span>' +
-      '<span class="qt">' + esc(it.text) + '</span>' +
-      '<span class="qm">' + chip(SHAPE[it.shape][0], 'ptag-type') + it.cards.map(function (c) { return cardChip(c.id); }).join('') + '</span>' +
-      '<span class="mdot m' + level(it.id) + '" title="' + MASTERY[level(it.id)] + '"></span></button>';
+  function essayRowHtml(r) {
+    var v = latest(r), g = v.grade, x = r.crossCheck;
+    return '<button type="button" class="qrow" data-act="sopen" data-id="' + r.questionId + '"><span class="qn">#' + r.questionId + '</span>' +
+      '<span class="qt">' + esc(r.question) + '</span>' +
+      '<span class="qm">' + chip(r.qtype, 'ptag-type') + '<span class="scorepill' + (g.overall >= ST.pass ? ' ok' : ' no') + '" title="' + esc(g.engine) + '">' + band(g.overall) + '</span>' +
+      (x ? '<span class="scorepill alt' + (x.overall >= ST.pass ? ' ok' : ' no') + '" title="DeepSeek chấm chéo">' + band(x.overall) + '</span>' : '') +
+      '<span class="mini">' + v.words + ' từ</span>' + (r.versions.length > 1 ? '<span class="mini">v' + r.versions.length + '</span>' : '') + '</span>' +
+      '<span class="mdot m' + level(r.questionId) + '" title="' + MASTERY[level(r.questionId)] + '"></span></button>';
   }
-  function updateStudyList() {
+  function updateStList() {
     var list = sFiltered(), el = $('#s-list'); if (!el) return;
-    $('#s-count').textContent = list.length + ' / ' + ST.items.length + ' đề';
-    $('#s-clear').hidden = !(ST.q || ST.ftype || ST.fshape || ST.fcard || ST.fmastery !== '');
-    el.innerHTML = list.length ? list.map(qrowHtml).join('') : '<div class="empty"><h2>Không có đề nào khớp</h2><p>Thử bỏ bớt bộ lọc.</p></div>';
+    $('#s-count').textContent = list.length + ' / ' + ST.essays.length + ' bài';
+    $('#s-clear').hidden = !(ST.q || ST.ftype || ST.fpass);
+    el.innerHTML = list.length ? list.map(essayRowHtml).join('') : '<div class="empty"><h2>Không có bài nào khớp</h2><p>Thử bỏ bớt bộ lọc.</p></div>';
   }
-  function questionsListHtml() {
-    var types = {}, shapes = {};
-    ST.items.forEach(function (it) { types[it.qtype] = 1; shapes[it.shape] = 1; });
-    var opt = function (arr, cur, all, lab) { return '<option value="">' + all + '</option>' + arr.map(function (v) { return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(lab ? lab(v) : v) + '</option>'; }).join(''); };
-    var cardIds = Object.keys(ST.lib.cards);
-    return '<div class="toolbar">' +
-      '<label class="search"><span class="sr">Tìm đề</span>' + ICON.search + '<input id="s-q" type="search" placeholder="Tìm theo nội dung hoặc số đề" autocomplete="off" value="' + esc(ST.q) + '"></label>' +
+  function essaysTabHtml() {
+    var types = {}; ST.essays.forEach(function (r) { types[r.qtype] = 1; });
+    var opt = function (arr, cur, all) { return '<option value="">' + all + '</option>' + arr.map(function (v) { return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(v) + '</option>'; }).join(''); };
+    return '<p class="hint" style="padding:0;margin:0 0 12px">Mỗi bài được viết từ thư viện, chấm bằng bộ chấm (Gemini, tự chuyển DeepSeek khi hết quota), chưa đạt thì viết lại. Ô điểm đầu là bộ chấm chính, ô thứ hai là DeepSeek chấm chéo.</p>' +
+      '<div class="toolbar"><label class="search"><span class="sr">Tìm bài</span>' + ICON.search + '<input id="s-q" type="search" placeholder="Tìm theo nội dung hoặc số đề" autocomplete="off" value="' + esc(ST.q) + '"></label>' +
       '<select class="field sel" id="s-ft" aria-label="Question type">' + opt(Object.keys(types), ST.ftype, 'Tất cả question type') + '</select>' +
-      '<select class="field sel" id="s-fs" aria-label="Khung bài">' + opt(Object.keys(shapes), ST.fshape, 'Tất cả khung bài', function (v) { return SHAPE[v][0]; }) + '</select>' +
-      '<select class="field sel" id="s-fc" aria-label="Thẻ ý">' + opt(cardIds, ST.fcard, 'Tất cả thẻ ý', function (v) { return v + ' · ' + ST.lib.cards[v].label; }) + '</select>' +
-      '<select class="field sel" id="s-fm" aria-label="Mức nhớ"><option value="">Mọi mức nhớ</option>' + MASTERY.map(function (m, i) { return '<option value="' + i + '"' + (ST.fmastery === String(i) ? ' selected' : '') + '>' + m + '</option>'; }).join('') + '</select>' +
+      '<select class="field sel" id="s-fp" aria-label="Kết quả"><option value="">Mọi kết quả</option><option value="ok"' + (ST.fpass === 'ok' ? ' selected' : '') + '>Đạt</option><option value="no"' + (ST.fpass === 'no' ? ' selected' : '') + '>Chưa đạt</option></select>' +
       '<button type="button" class="btn btn-ghost btn-sm" data-act="sclear" id="s-clear" hidden>Xóa bộ lọc</button></div>' +
       '<p class="sub" id="s-count" style="margin:0 0 10px"></p><div class="tbl-wrap glass" id="s-list"></div>';
   }
 
-  function essayHtml(it) {
-    var used = {};
-    it.cards.forEach(function (c) { used[c.id] = 1; });
-    var legend = '<div class="legend-c"><span>Màu = thẻ nguồn:</span>' + Object.keys(used).map(function (cid) { return cardChip(cid, ' · ' + esc(ST.lib.cards[cid].label)); }).join('') + '<span class="mini sk-frame" style="border-style:dashed">khung cố định</span></div>';
-    var paras = it.essay.segments.map(function (segs, i) {
-      return '<div class="pa"><span class="role">' + ROLE[i] + '</span><p>' + segs.map(function (s) {
-        var k = s.c === 'frame' ? 'frame' : kindOf(s.c);
-        return '<span class="seg-c sk-' + k + '" data-c="' + s.c + '"' + (s.c !== 'frame' ? ' title="' + esc(s.c + ' · ' + ST.lib.cards[s.c].label) + '"' : '') + '>' + esc(s.t) + '</span>';
-      }).join(' ') + '</p></div>';
-    }).join('');
-    return '<section class="model glass' + (ST.color ? ' colored' : '') + '"><h3>Bài mẫu <span class="sub" style="font-weight:400">· ' + it.essay.words + ' từ</span></h3>' + legend + paras + '</section>';
+  /* --- chi tiết một mục thư viện --- */
+  function usageChips(id) {
+    var u = ST.usage[id] || [];
+    return u.length ? '<div class="usage"><span>Dùng trong bài:</span>' + u.map(function (q) { return '<button type="button" class="qchip" data-act="sopen" data-id="' + q + '">#' + q + '</button>'; }).join('') + '</div>' : '<div class="usage"><span>Chưa bài nào dùng.</span></div>';
   }
-  function studyDetailHtml(it) {
-    var list = sFiltered(), i = list.findIndex(function (x) { return x.id === it.id; });
+  function entryCardHtml(e, compact) {
+    var h = '<article class="lcard glass ty-' + e.type + '"><header><span class="tybadge">' + TYPE_VI[e.type] + '</span>' +
+      (e.stance ? '<span class="mini st-' + e.stance + '">' + (STANCE_VI[e.stance] || e.stance) + '</span>' : '') +
+      (e.topics || []).map(function (t) { return '<span class="topic">' + esc(t) + '</span>'; }).join('') + '</header>';
+    if (e.type === 'idea') {
+      h += '<h4>' + esc(e.label_vi) + '</h4><dl class="idea">' +
+        '<div><dt>Luận điểm</dt><dd>' + esc(e.claim) + '</dd></div><div><dt>Vì sao</dt><dd>' + esc(e.because) + '</dd></div><div><dt>Kết quả</dt><dd>' + esc(e.result) + '</dd></div>' +
+        (e.rebuttal ? '<div><dt>Phản bác</dt><dd>' + esc(e.rebuttal) + '</dd></div>' : '') +
+        ((e.example_ids || []).length ? '<div><dt>Ví dụ</dt><dd>' + e.example_ids.map(function (x) { return ST.byId[x] ? esc(ST.byId[x].text) : esc(x); }).join('<br>') + '</dd></div>' : '') +
+        ((e.fits || []).length ? '<div><dt>Hợp với đề</dt><dd>' + esc(e.fits.join(' · ')) + '</dd></div>' : '') +
+        (e.reuse_vi ? '<div><dt>Tái dùng</dt><dd>' + esc(e.reuse_vi) + '</dd></div>' : '') + '</dl>';
+    } else if (e.type === 'synonyms') {
+      h += '<h4>' + esc(e.base) + '</h4><div class="phr-list">' + e.alts.map(function (a) { return '<span class="phr">' + esc(a) + '</span>'; }).join('') + '</div>' + (e.note_vi ? '<p class="hint" style="padding:0">' + esc(e.note_vi) + '</p>' : '');
+    } else {
+      h += '<h4 class="plain">' + esc(e.text) + '</h4>' +
+        (e.meaning_vi ? '<p class="meaning">' + esc(e.meaning_vi) + '</p>' : '') + (e.use_vi ? '<p class="meaning">' + esc(e.use_vi) + '</p>' : '') +
+        ((e.replaces || []).length ? '<p class="meaning"><b>Thay cho:</b> ' + esc(e.replaces.join(', ')) + '</p>' : '') +
+        (e.note_vi ? '<p class="meaning">' + esc(e.note_vi) + '</p>' : '') + (e.caution_vi ? '<p class="meaning"><i>' + esc(e.caution_vi) + '</i></p>' : '');
+    }
+    return h + (compact ? '' : usageChips(e.id)) + '</article>';
+  }
+
+  /* --- tab thư viện --- */
+  function lFiltered() {
+    var q = ST.lq.trim().toLowerCase();
+    return ST.entries.filter(function (e) {
+      if (ST.ltype && e.type !== ST.ltype) return false;
+      if (ST.ltopic && (e.topics || []).indexOf(ST.ltopic) < 0) return false;
+      var used = !!(ST.usage[e.id] && ST.usage[e.id].length);
+      if (ST.luse === 'used' && !used) return false;
+      if (ST.luse === 'unused' && used) return false;
+      if (q) {
+        var hay = [e.id, e.text, e.base, (e.alts || []).join(' '), e.label_vi, e.claim, e.meaning_vi, (e.replaces || []).join(' ')].join(' ').toLowerCase();
+        if (hay.indexOf(q) < 0) return false;
+      }
+      return true;
+    }).sort(function (a, b) { return TYPE_ORDER.indexOf(a.type) - TYPE_ORDER.indexOf(b.type); });
+  }
+  function updateLibList() {
+    var list = lFiltered(), el = $('#l-list'); if (!el) return;
+    $('#l-count').textContent = list.length + ' / ' + ST.entries.length + ' mục';
+    $('#l-clear').hidden = !(ST.lq || ST.ltype || ST.ltopic || ST.luse);
+    el.innerHTML = list.slice(0, ST.lshow).map(function (e) { return entryCardHtml(e); }).join('') || '<div class="empty"><h2>Không có mục nào khớp</h2></div>';
+    $('#l-more').hidden = list.length <= ST.lshow;
+  }
+  function libTabHtml() {
+    var topics = {}; ST.entries.forEach(function (e) { (e.topics || []).forEach(function (t) { topics[t] = 1; }); });
+    var counts = {}; ST.entries.forEach(function (e) { counts[e.type] = (counts[e.type] || 0) + 1; });
+    var opt = function (arr, cur, all, lab) { return '<option value="">' + all + '</option>' + arr.map(function (v) { return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(lab ? lab(v) : v) + '</option>'; }).join(''); };
+    return '<p class="hint" style="padding:0;margin:0 0 12px">Kho dùng chung (cũng dùng được cho Speaking sau này): khung bài, từ nối, cụm từ, nhóm từ đồng nghĩa, ý lập luận và ví dụ, gắn nhãn theo topic.</p>' +
+      '<div class="toolbar"><label class="search"><span class="sr">Tìm trong thư viện</span>' + ICON.search + '<input id="l-q" type="search" placeholder="Tìm cụm từ, ý, từ đồng nghĩa…" autocomplete="off" value="' + esc(ST.lq) + '"></label>' +
+      '<select class="field sel" id="l-t" aria-label="Loại">' + opt(TYPE_ORDER.filter(function (t) { return counts[t]; }), ST.ltype, 'Mọi loại', function (v) { return TYPE_VI[v] + ' (' + counts[v] + ')'; }) + '</select>' +
+      '<select class="field sel" id="l-tp" aria-label="Topic">' + opt(Object.keys(topics).sort(), ST.ltopic, 'Mọi topic') + '</select>' +
+      '<select class="field sel" id="l-u" aria-label="Mức dùng"><option value="">Dùng / chưa dùng</option><option value="used"' + (ST.luse === 'used' ? ' selected' : '') + '>Đã được bài dùng</option><option value="unused"' + (ST.luse === 'unused' ? ' selected' : '') + '>Chưa bài nào dùng</option></select>' +
+      '<button type="button" class="btn btn-ghost btn-sm" data-act="lclear" id="l-clear" hidden>Xóa bộ lọc</button></div>' +
+      '<p class="sub" id="l-count" style="margin:0 0 10px"></p><div class="cards-grid" id="l-list"></div>' +
+      '<div style="text-align:center;margin-top:16px"><button type="button" class="btn" data-act="lmore" id="l-more" hidden>Hiện thêm</button></div>';
+  }
+
+  /* --- chi tiết bài mẫu --- */
+  function highlightEssay(text, entries) {
+    var low = text.toLowerCase(), ranges = [];
+    entries.forEach(function (e) {
+      var t = (e.text || '').toLowerCase();
+      if (!t || t.length < 6 || t.indexOf('{') >= 0 || t.indexOf('…') >= 0 || t.indexOf('→') >= 0) return;
+      var from = 0, i;
+      while ((i = low.indexOf(t, from)) >= 0) { ranges.push({ s: i, e: i + t.length, id: e.id, type: e.type }); from = i + t.length; }
+    });
+    ranges.sort(function (a, b) { return a.s - b.s || (b.e - b.s) - (a.e - a.s); });
+    var out = '', pos = 0;
+    ranges.forEach(function (r) {
+      if (r.s < pos) return;
+      out += esc(text.slice(pos, r.s)) + '<span class="hl ty-' + r.type + '" data-act="sref" data-id="' + esc(r.id) + '" title="' + esc(TYPE_VI[r.type]) + '">' + esc(text.slice(r.s, r.e)) + '</span>';
+      pos = r.e;
+    });
+    return out + esc(text.slice(pos));
+  }
+  function stDetailHtml(rec) {
+    var list = sFiltered(), i = list.findIndex(function (x) { return x.questionId === rec.questionId; });
     var prev = i > 0 ? list[i - 1] : null, next = i >= 0 && i < list.length - 1 ? list[i + 1] : null;
-    var lv = level(it.id);
-    var fills = Object.keys(it.fills).filter(function (k) { return k !== 'note'; }).map(function (k) {
-      var v = it.fills[k]; if (k === 'verdict') v = v === 'outweigh' ? 'ưu điểm vượt trội' : 'nhược điểm vượt trội';
-      return '<div><dt>' + (FILL_LABEL[k] || k) + '</dt><dd>' + esc(v) + '</dd></div>';
-    }).join('');
-    var h = '<div class="w-narrow"><div class="q-nav"><button type="button" class="btn btn-ghost btn-sm" data-act="sback">' + ICON.back + 'Danh sách đề</button>' +
-      '<div class="q-step"><button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (prev ? prev.id : '') + '"' + (prev ? '' : ' disabled') + '>' + ICON.back + 'Trước</button>' +
-      '<button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (next ? next.id : '') + '"' + (next ? '' : ' disabled') + '>Sau' + ICON.next + '</button></div></div>' +
-      '<article class="doc"><div class="chiprow"><span class="ptag">#' + it.id + '</span>' + chip(it.qtype, 'ptag-type') + chip(SHAPE[it.shape][0]) + '</div><h2 class="q-h">' + esc(it.text) + '</h2></article>' +
-      '<section class="recipe glass"><h3>Công thức của đề này</h3><p class="frame-line"><b>Khung ' + SHAPE[it.shape][0] + ':</b> ' + SHAPE[it.shape][1] + '</p><div class="rcards">' +
-      it.cards.map(function (c, n) { var d = ST.lib.cards[c.id]; return '<div class="rcard sk-' + d.kind + '"><span><span class="cid">' + c.id + '</span></span><span>' + esc(d.label) + '</span>' + (c.act ? '<span class="fill">act = ' + esc(c.act) + '</span>' : '') + '</div>'; }).join('') +
-      '</div><dl class="fills">' + fills + '</dl></section>' +
-      '<div class="s-actions">' +
-      '<button type="button" class="tgl" data-act="scolor" aria-pressed="' + ST.color + '">Tô màu theo thẻ</button>' +
+    var vi = ST.ver != null && rec.versions[ST.ver] ? ST.ver : rec.versions.length - 1;
+    var v = rec.versions[vi], g = v.grade, a = rec.analysis || { plan: [], newEntries: [] }, lv = level(rec.questionId);
+    var refIds = {}; (a.plan || []).forEach(function (s) { (s.refs || []).forEach(function (x) { refIds[x] = 1; }); });
+    var hlEntries = Object.keys(refIds).map(function (x) { return ST.byId[x]; }).filter(Boolean);
+    var h = '<div class="w-narrow"><div class="q-nav"><button type="button" class="btn btn-ghost btn-sm" data-act="sback">' + ICON.back + 'Danh sách bài</button>' +
+      '<div class="q-step"><button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (prev ? prev.questionId : '') + '"' + (prev ? '' : ' disabled') + '>' + ICON.back + 'Trước</button>' +
+      '<button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (next ? next.questionId : '') + '"' + (next ? '' : ' disabled') + '>Sau' + ICON.next + '</button></div></div>' +
+      '<article class="doc"><div class="chiprow"><span class="ptag">#' + rec.questionId + '</span>' + chip(rec.qtype, 'ptag-type') + '<span class="ptag">' + v.words + ' từ</span></div><h2 class="q-h">' + esc(rec.question) + '</h2></article>';
+    // điểm
+    h += '<section class="recipe glass"><h3>Điểm</h3><div class="vers" role="group" aria-label="Các phiên bản">' + rec.versions.map(function (x, n) {
+      return '<button type="button" class="seg-btn" data-act="sver" data-i="' + n + '" aria-pressed="' + (n === vi) + '">v' + x.n + ' · ' + band(x.grade.overall) + '</button>'; }).join('') + '</div>' +
+      '<table class="scoretbl"><thead><tr><th></th><th>Overall</th><th>TR</th><th>CC</th><th>LR</th><th>GRA</th></tr></thead><tbody>' +
+      '<tr><th>' + esc(g.engine) + ' · v' + v.n + '</th>' + bandCells(g) + '</tr>' +
+      (rec.crossCheck ? '<tr><th>' + esc(rec.crossCheck.engine) + ' (chấm chéo v' + rec.crossCheck.version + ')</th>' + bandCells(rec.crossCheck) + '</tr>' : '') + '</tbody></table>' +
+      (v.note ? '<p class="frame-line"><b>Ghi chú phiên bản:</b> ' + esc(v.note) + '</p>' : '') +
+      '<p class="frame-line">' + esc(g.summary) + '</p>' +
+      ((g.weaknesses || []).length ? '<p class="frame-line"><b>Bộ chấm góp ý:</b> ' + g.weaknesses.slice(0, 3).map(esc).join(' · ') + '</p>' : '') + '</section>';
+    // bài viết
+    h += '<div class="s-actions"><button type="button" class="tgl" data-act="scolor" aria-pressed="' + ST.color + '">Tô màu cụm từ thư viện</button>' +
       '<button type="button" class="tgl" data-act="spractice" aria-pressed="' + ST.practice + '">Chế độ tập nhớ</button>' +
-      '<button type="button" class="btn btn-sm" data-act="gowrite" data-id="' + it.id + '">Viết bài thật cho đề này</button></div>';
+      '<button type="button" class="btn btn-sm" data-act="gowrite" data-id="' + rec.questionId + '">Viết bài thật cho đề này</button></div>';
     if (ST.practice && !ST.reveal) {
-      h += '<div class="form"><p class="sub" style="margin:0">Nhìn công thức ở trên, viết lại bài từ trí nhớ (không nhìn bài mẫu), rồi bấm hiện bài mẫu để so sánh.</p>' +
+      h += '<div class="form"><p class="sub" style="margin:0">Xem phần "Tư duy xử lý bài" bên dưới, viết lại bài từ trí nhớ (không nhìn bài mẫu), rồi bấm hiện bài mẫu để so sánh.</p>' +
         '<textarea class="field recall" id="s-recall" placeholder="Viết lại bài từ trí nhớ…" spellcheck="false">' + esc(ST.recall) + '</textarea>' +
         '<div class="form-foot"><span class="count" id="s-rcount">' + wc(ST.recall) + ' words</span><button type="button" class="btn btn-primary" data-act="sreveal">Hiện bài mẫu để so sánh</button></div></div>';
     } else {
       if (ST.practice && ST.recall.trim()) h += '<section class="model glass" style="margin-bottom:14px"><h3>Bài bạn vừa viết lại <span class="sub" style="font-weight:400">· ' + wc(ST.recall) + ' từ</span></h3><div class="doc-body" style="margin:0">' + esc(ST.recall) + '</div></section>';
-      h += essayHtml(it);
+      h += '<section class="model glass' + (ST.color ? ' colored' : '') + '"><h3>Bài mẫu</h3>' + v.text.split(/\n\n/).map(function (p) {
+        return '<p class="essay-p">' + (ST.color ? highlightEssay(p, hlEntries) : esc(p)) + '</p>'; }).join('') + '</section>';
     }
-    h += '<div class="s-actions" style="margin-top:20px"><span class="sub" style="margin:0">Mức nhớ đề này:</span><div class="mastery" role="group" aria-label="Mức nhớ">' +
+    // mục thư viện đang chọn
+    h += '<aside class="refpanel" id="s-refpanel">' + (ST.openRef && ST.byId[ST.openRef] ? entryCardHtml(ST.byId[ST.openRef]) : '<p class="hint" style="padding:0">Bấm vào một chip hoặc một cụm được tô màu để xem chi tiết mục thư viện ở đây.</p>') + '</aside>';
+    // tư duy xử lý
+    h += '<section class="recipe glass"><h3>Tư duy xử lý bài</h3><p class="frame-line">' + esc(a.type_vi || '') + '</p>' + (a.plan || []).map(function (s) {
+      return '<div class="step"><div class="step-h">' + esc(s.step) + '</div><p class="think">' + esc(s.think) + '</p><div class="chips-q">' + (s.refs || []).map(function (x) { return refChip(x); }).join('') + '</div></div>'; }).join('') + '</section>';
+    if ((a.newEntries || []).length) h += '<section class="recipe glass"><h3>Mục mới bài này đưa vào thư viện (' + a.newEntries.length + ')</h3><div class="chips-q">' + a.newEntries.map(function (x) { return refChip(x); }).join('') + '</div></section>';
+    h += '<div class="s-actions" style="margin-top:20px"><span class="sub" style="margin:0">Mức nhớ bài này:</span><div class="mastery" role="group" aria-label="Mức nhớ">' +
       MASTERY.map(function (m, n) { return '<button type="button" class="seg-btn l' + n + '" data-act="smastery" data-l="' + n + '" aria-pressed="' + (lv === n) + '">' + m + '</button>'; }).join('') + '</div></div></div>';
     return h;
   }
@@ -1030,13 +1075,13 @@
         (ST.error ? '<div class="empty glass"><h2>Chưa tải được dữ liệu Study</h2><p>' + esc(ST.error) + '</p><button type="button" class="btn btn-primary" data-act="sreload">Thử lại</button></div>' : '<div><div class="skel"></div><div class="skel"></div></div>');
       return;
     }
-    if (ST.sel != null && ST.byId[ST.sel] && ST.tab === 'questions') { sroot.innerHTML = studyDetailHtml(ST.byId[ST.sel]); return; }
-    var tabs = [['cards', 'Thẻ ý'], ['phrases', 'Từ điển cụm'], ['questions', 'Đề → công thức']];
-    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">Education · mỗi bài là các thẻ ý ghép lại theo một khung cố định</p></div></div>' +
-      studyKpis() + '<div class="study-seg" role="group" aria-label="Chế độ xem" style="margin-top:18px">' +
+    if (ST.sel != null && ST.byQ[ST.sel] && ST.tab === 'essays') { sroot.innerHTML = stDetailHtml(ST.byQ[ST.sel]); return; }
+    var tabs = [['essays', 'Bài mẫu đã chấm'], ['library', 'Thư viện']];
+    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">Education · bài mẫu viết từ thư viện, chấm bằng AI, kèm tư duy xử lý từng bài</p></div></div>' +
+      stKpis() + '<div class="study-seg" role="group" aria-label="Chế độ xem" style="margin-top:18px">' +
       tabs.map(function (t) { return '<button type="button" data-act="stab" data-t="' + t[0] + '" aria-pressed="' + (ST.tab === t[0]) + '">' + t[1] + '</button>'; }).join('') + '</div>' +
-      '<div id="s-body">' + (ST.tab === 'cards' ? cardsHtml() : ST.tab === 'phrases' ? phrasesHtml() : questionsListHtml()) + '</div>';
-    if (ST.tab === 'questions') updateStudyList();
+      '<div id="s-body">' + (ST.tab === 'essays' ? essaysTabHtml() : libTabHtml()) + '</div>';
+    if (ST.tab === 'essays') updateStList(); else updateLibList();
   }
 
   function setLevel(id, lv) {
@@ -1044,20 +1089,28 @@
     if (lv === prev) lv = 0;
     if (lv === 0) delete ST.progress[id]; else ST.progress[id] = { level: lv };
     drawStudy();
-    req('PUT', WRITE_API + '/study/progress/' + id, { level: lv }).catch(function () {
+    req('PUT', WRITE_API + '/library/progress/' + id, { level: lv }).catch(function () {
       if (prev === 0) delete ST.progress[id]; else ST.progress[id] = { level: prev };
       drawStudy(); flash('Chưa lưu được mức nhớ. Hãy thử lại.');
     });
+  }
+  function showRef(id) {
+    ST.openRef = id;
+    var p = $('#s-refpanel');
+    if (p && ST.byId[id]) { p.innerHTML = entryCardHtml(ST.byId[id]); p.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }
   }
 
   sroot.addEventListener('click', function (e) {
     var b = e.target.closest('[data-act]'); if (!b || b.disabled) return;
     var act = b.dataset.act;
     if (act === 'stab') { ST.tab = b.dataset.t; ST.sel = null; drawStudy(); }
-    else if (act === 'sopen') { var id = Number(b.dataset.id); if (id) { ST.tab = 'questions'; ST.sel = id; ST.reveal = false; ST.recall = ''; drawStudy(); window.scrollTo(0, 0); } }
+    else if (act === 'sopen') { var id = Number(b.dataset.id); if (id && ST.byQ[id]) { ST.tab = 'essays'; ST.sel = id; ST.ver = null; ST.reveal = false; ST.recall = ''; ST.openRef = null; drawStudy(); window.scrollTo(0, 0); } }
     else if (act === 'sback') { ST.sel = null; drawStudy(); }
-    else if (act === 'sfcard') { ST.fcard = b.dataset.id; ST.q = ''; ST.ftype = ''; ST.fshape = ''; ST.fmastery = ''; ST.tab = 'questions'; ST.sel = null; drawStudy(); window.scrollTo(0, 0); }
-    else if (act === 'sclear') { ST.q = ST.ftype = ST.fshape = ST.fcard = ST.fmastery = ''; drawStudy(); }
+    else if (act === 'sref') showRef(b.dataset.id);
+    else if (act === 'sver') { ST.ver = Number(b.dataset.i); drawStudy(); }
+    else if (act === 'sclear') { ST.q = ST.ftype = ST.fpass = ''; drawStudy(); }
+    else if (act === 'lclear') { ST.lq = ST.ltype = ST.ltopic = ST.luse = ''; ST.lshow = 60; drawStudy(); }
+    else if (act === 'lmore') { ST.lshow += 60; updateLibList(); }
     else if (act === 'scolor') { ST.color = !ST.color; drawStudy(); }
     else if (act === 'spractice') { ST.practice = !ST.practice; ST.reveal = false; drawStudy(); }
     else if (act === 'sreveal') { ST.reveal = true; drawStudy(); }
@@ -1066,17 +1119,17 @@
     else if (act === 'sreload') { ST.loaded = false; ST.error = ''; ensureStudy(); }
   });
   sroot.addEventListener('input', function (e) {
-    if (e.target.id === 's-q') { ST.q = e.target.value; updateStudyList(); }
+    if (e.target.id === 's-q') { ST.q = e.target.value; updateStList(); }
+    else if (e.target.id === 'l-q') { ST.lq = e.target.value; ST.lshow = 60; updateLibList(); }
     else if (e.target.id === 's-recall') { ST.recall = e.target.value; var c = $('#s-rcount'); if (c) c.textContent = wc(ST.recall) + ' words'; }
   });
   sroot.addEventListener('change', function (e) {
     var id = e.target.id;
-    if (id === 's-ft') ST.ftype = e.target.value;
-    else if (id === 's-fs') ST.fshape = e.target.value;
-    else if (id === 's-fc') ST.fcard = e.target.value;
-    else if (id === 's-fm') ST.fmastery = e.target.value;
-    else return;
-    updateStudyList(); var clr = $('#s-clear'); if (clr) clr.hidden = !(ST.q || ST.ftype || ST.fshape || ST.fcard || ST.fmastery !== '');
+    if (id === 's-ft') { ST.ftype = e.target.value; updateStList(); }
+    else if (id === 's-fp') { ST.fpass = e.target.value; updateStList(); }
+    else if (id === 'l-t') { ST.ltype = e.target.value; ST.lshow = 60; updateLibList(); }
+    else if (id === 'l-tp') { ST.ltopic = e.target.value; ST.lshow = 60; updateLibList(); }
+    else if (id === 'l-u') { ST.luse = e.target.value; ST.lshow = 60; updateLibList(); }
   });
 
   /* ---------- Init ---------- */

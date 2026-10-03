@@ -521,6 +521,43 @@ del { color: var(--bad); text-decoration-thickness: 2px; }
 .mastery .seg-btn[aria-pressed="true"].l1 { background: var(--warm); border-color: transparent; color: #fff; }
 .mastery .seg-btn[aria-pressed="true"].l2 { background: var(--good); border-color: transparent; color: #fff; }
 
+/* Study v2: bai mau + thu vien */
+.ty-frame { --kc: #A78BFA; } .ty-phrase { --kc: var(--accent); } .ty-synonyms { --kc: var(--good); } .ty-idea { --kc: var(--warm); } .ty-example { --kc: #F472B6; } .ty-connector { --kc: #38BDF8; } .ty-missing { --kc: var(--bad); }
+.lcard { padding: 16px 18px; border-radius: 20px; display: grid; gap: 8px; align-content: start; border-left: 4px solid var(--kc); }
+.lcard header { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.lcard h4 { margin: 0; font-size: 15.5px; line-height: 1.4; font-family: var(--font-display); }
+.lcard h4.plain { font-family: var(--font-body); font-weight: 600; }
+.tybadge { padding: 2px 10px; border-radius: 999px; font-size: 12px; font-weight: 700; background: color-mix(in srgb, var(--kc) 20%, transparent); border: 1px solid color-mix(in srgb, var(--kc) 45%, transparent); }
+.topic { font-size: 11.5px; color: var(--muted); padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); }
+.meaning { margin: 0; font-size: 13.5px; color: var(--muted); line-height: 1.55; }
+.idea { display: grid; gap: 6px; margin: 0; font-size: 13.5px; }
+.idea div { display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 8px; }
+.idea dt { color: var(--muted); font-weight: 600; } .idea dd { margin: 0; overflow-wrap: anywhere; line-height: 1.5; }
+.usage { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; font-size: 12px; color: var(--muted); }
+.st-pro { --kc: var(--good); } .st-con { --kc: var(--warm); } .st-cause { --kc: var(--accent); } .st-solution { --kc: #A78BFA; } .st-caveat { --kc: var(--muted); } .st-rebuttal { --kc: var(--bad); }
+.refchip { max-width: 100%; min-height: 28px; padding: 2px 11px; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--kc) 55%, transparent); background: color-mix(in srgb, var(--kc) 14%, transparent); color: var(--fg); font-size: 12.5px; font-weight: 500; cursor: pointer; text-align: left; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: background-color .2s, transform .3s var(--spring); }
+.refchip:hover { background: color-mix(in srgb, var(--kc) 28%, transparent); }
+.refchip:active { transform: scale(.96); transition-duration: .07s; }
+.hl { border-radius: 5px; padding: 0 2px; cursor: pointer; background: color-mix(in srgb, var(--kc) 20%, transparent); box-shadow: inset 0 -2px 0 color-mix(in srgb, var(--kc) 65%, transparent); }
+.hl:hover { background: color-mix(in srgb, var(--kc) 34%, transparent); }
+.essay-p { margin: 0 0 14px; font-size: 16px; line-height: 1.9; text-wrap: pretty; }
+.essay-p:last-child { margin-bottom: 0; }
+.refpanel { margin: 14px 0; scroll-margin-top: 80px; }
+.step { padding: 12px 0; border-top: 1px solid var(--line); display: grid; gap: 6px; }
+.step:first-of-type { border-top: 0; }
+.step-h { font-weight: 700; font-size: 14.5px; color: var(--accent-ink); }
+.think { margin: 0; font-size: 14.5px; line-height: 1.7; }
+.vers { display: flex; flex-wrap: wrap; gap: 6px; }
+.scoretbl { width: 100%; border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; }
+.scoretbl th, .scoretbl td { padding: 8px 10px; text-align: center; border-bottom: 1px solid var(--line); }
+.scoretbl th:first-child { text-align: left; color: var(--muted); font-weight: 600; white-space: nowrap; }
+.scoretbl thead th { color: var(--muted); font-size: 12px; font-weight: 700; }
+.scoretbl td.ov { font-family: var(--font-display); font-weight: 700; font-size: 17px; color: var(--accent-ink); }
+.scorepill { padding: 1px 9px; border-radius: 999px; font-size: 12.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.scorepill.ok { background: color-mix(in srgb, var(--good) 20%, transparent); color: var(--good); }
+.scorepill.no { background: color-mix(in srgb, var(--bad) 20%, transparent); color: var(--bad); }
+.scorepill.alt { box-shadow: inset 0 0 0 1px currentColor; background: transparent; }
+
 @media (max-width: 640px) {
   .qrow { grid-template-columns: 38px minmax(0, 1fr) 14px; }
   .qrow .qm { grid-column: 2 / 3; justify-content: flex-start; max-width: none; }

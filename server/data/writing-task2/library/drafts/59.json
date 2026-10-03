@@ -1,0 +1,68 @@
+{
+  "questionId": 59,
+  "text": "Increasing numbers of students now choose to complete part or all of their degree overseas. Although studying abroad involves financial and emotional challenges, I believe that its advantages outweigh them.\n\nOn the positive side, studying abroad broadens students' horizons and improves their employability. Living in another country immerses them in a foreign language every day, so their fluency develops far more quickly than it would in a classroom at home. They also learn to adapt to unfamiliar customs, work with people from different backgrounds and solve everyday problems independently, qualities that multinational employers value highly. Such confidence is hard to acquire in a lecture hall at home. In addition, the friendships and professional networks formed overseas often lead to opportunities later in life. A graduate who is fluent in two languages and has lived abroad, for example, may apply for positions in several countries, which multiplies her career options.\n\nOn the negative side, studying overseas places a heavy burden on individuals, both financially and emotionally. Tuition, accommodation and living expenses can consume a family's savings, while homesickness and unfamiliar surroundings leave some students isolated and struggling. Consequently, those who cannot cope may return with debts and disappointing results. Nevertheless, these difficulties can be reduced. Many universities offer scholarships, part-time work permits and counselling services for international students, and those who choose their destination carefully and plan their budget in advance are far better prepared to cope. Careful research into courses, living costs and available support before departure also reduces unpleasant surprises.\n\nIn conclusion, despite the high costs and the emotional strain, studying abroad is, on balance, more beneficial than harmful, thanks to the language skills, independence and career opportunities that it offers.",
+  "analysis": {
+    "type_vi": "Advantages / Disadvantages: 'Do the advantages of studying abroad outweigh the disadvantages?' → chọn phe 'ưu điểm thắng'",
+    "plan": [
+      {
+        "step": "1. Dùng lại khung của đề 13 (online learning)",
+        "think": "Cùng dạng 'Do the advantages outweigh…?'. Giữ nguyên khung: mở bài chốt phe, thân bài 1 ưu điểm (On the positive side), thân bài 2 nhược điểm + phản bác (On the negative side… Nevertheless), kết bài 'despite… on balance… thanks to…'. Chỉ thay nội dung.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-firstPoint-on-the-positive-side",
+          "CN-nextPoint-on-the-negative-side",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm: tầm nhìn + khả năng có việc làm",
+        "think": "Gói một ý lớn (broaden horizons, employability) với ba bằng chứng cụ thể: ngoại ngữ nhờ tiếp xúc hằng ngày, kỹ năng thích nghi và làm việc với người khác nền tảng, mạng lưới quan hệ. Từ khoá 'abroad/overseas' xuất hiện ở mọi câu chính, tránh lạc đề.",
+        "refs": [
+          "ID-abroad-outlook",
+          "PH-broaden-horizons",
+          "PH-immerse-language",
+          "PH-adapt-unfamiliar",
+          "PH-professional-networks",
+          "SY-abroad",
+          "EX-bilingual-graduate"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Nhược điểm gồm chi phí và cảm xúc (nhớ nhà). Ngay sau đó là phản bác bằng giải pháp thực tế (học bổng, giấy phép làm thêm, tư vấn, lập ngân sách), giống cách làm ở đề 13 để thân bài 2 không làm yếu lập trường. Tái sử dụng cách diễn đạt 'consume savings' thay vì 'spend a lot'.",
+        "refs": [
+          "ID-abroad-burden",
+          "ID-edtech-divide",
+          "PH-consume-savings",
+          "PH-homesick-isolated",
+          "PH-support-services",
+          "SY-hard",
+          "SY-drawback"
+        ]
+      },
+      {
+        "step": "4. Kết bài",
+        "think": "Công thức on balance + liệt kê ba lợi ích đã nêu (language skills, independence, career opportunities) để khớp thân bài 1.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "PH-broaden-horizons",
+      "PH-immerse-language",
+      "PH-adapt-unfamiliar",
+      "PH-professional-networks",
+      "PH-consume-savings",
+      "PH-homesick-isolated",
+      "PH-support-services",
+      "SY-abroad",
+      "SY-hard",
+      "ID-abroad-outlook",
+      "ID-abroad-burden",
+      "EX-bilingual-graduate"
+    ]
+  },
+  "revisionNote": "Thêm 2 câu (độ tự tin do du học + chuẩn bị trước khi đi) để vượt 250 từ an toàn."
+}
