@@ -64,6 +64,7 @@ node server/scripts/library-run.mjs merge server/data/writing-task2/library/patc
 node server/scripts/library-run.mjs grade <id> [<id>...]    # chấm, lưu phiên bản vào library/essays.education.json (đạt khi overall >= 7.0)
 node server/scripts/library-run.mjs verify <id> [<id>...]   # chấm chéo bằng DeepSeek
 node server/scripts/library-run.mjs check                   # kiểm tra mọi ref đều tồn tại
+node server/scripts/library-run.mjs chunks server/data/writing-task2/library/chunks/<file>.json   # thêm cụm (nguyên văn trong bài + nghĩa) → mục phrase mới; vùng tô màu tự tính từ toàn bộ thư viện (modules/writing-task2/marks.js)
 ```
 
 Chưa đạt thì sửa draft rồi chạy `grade` lại: mỗi lần thành một phiên bản mới (v1, v2…), kèm ghi chú sửa gì.

@@ -1008,30 +1008,37 @@
   }
 
   /* --- chi tiết bài mẫu --- */
-  function highlightEssay(text, entries) {
-    var low = text.toLowerCase(), ranges = [];
-    entries.forEach(function (e) {
-      var t = (e.text || '').toLowerCase();
-      if (!t || t.length < 6 || t.indexOf('{') >= 0 || t.indexOf('…') >= 0 || t.indexOf('→') >= 0) return;
-      var from = 0, i;
-      while ((i = low.indexOf(t, from)) >= 0) { ranges.push({ s: i, e: i + t.length, id: e.id, type: e.type }); from = i + t.length; }
-    });
-    ranges.sort(function (a, b) { return a.s - b.s || (b.e - b.s) - (a.e - a.s); });
+  // Vẽ các vùng tô: "level 0" = cả câu ý / ví dụ (nền nhạt), "level 1" = cụm nằm trong câu (đậm).
+  function highlightPara(text, marks, base) {
+    var m = marks.filter(function (r) { return r.s >= base && r.e <= base + text.length; })
+      .map(function (r) { return { s: r.s - base, e: r.e - base, id: r.id, type: r.type, level: r.level }; });
+    var sent = m.filter(function (r) { return r.level === 0; }).sort(function (a, b) { return a.s - b.s; });
+    var word = m.filter(function (r) { return r.level === 1; }).sort(function (a, b) { return a.s - b.s; });
+    function span(r, inner, extra) {
+      return '<span class="hl ty-' + r.type + (extra || '') + '" data-act="sref" data-id="' + esc(r.id) + '" title="' + esc(TYPE_VI[r.type]) + '">' + inner + '</span>';
+    }
+    function words(from, to) {
+      var out = '', pos = from;
+      word.forEach(function (r) {
+        if (r.s < pos || r.e > to) return;
+        out += esc(text.slice(pos, r.s)) + span(r, esc(text.slice(r.s, r.e)));
+        pos = r.e;
+      });
+      return out + esc(text.slice(pos, to));
+    }
     var out = '', pos = 0;
-    ranges.forEach(function (r) {
+    sent.forEach(function (r) {
       if (r.s < pos) return;
-      out += esc(text.slice(pos, r.s)) + '<span class="hl ty-' + r.type + '" data-act="sref" data-id="' + esc(r.id) + '" title="' + esc(TYPE_VI[r.type]) + '">' + esc(text.slice(r.s, r.e)) + '</span>';
+      out += words(pos, r.s) + span(r, words(r.s, r.e), ' sent');
       pos = r.e;
     });
-    return out + esc(text.slice(pos));
+    return out + words(pos, text.length);
   }
   function stDetailHtml(rec) {
     var list = sFiltered(), i = list.findIndex(function (x) { return x.questionId === rec.questionId; });
     var prev = i > 0 ? list[i - 1] : null, next = i >= 0 && i < list.length - 1 ? list[i + 1] : null;
     var vi = ST.ver != null && rec.versions[ST.ver] ? ST.ver : rec.versions.length - 1;
     var v = rec.versions[vi], g = v.grade, a = rec.analysis || { plan: [], newEntries: [] }, lv = level(rec.questionId);
-    var refIds = {}; (a.plan || []).forEach(function (s) { (s.refs || []).forEach(function (x) { refIds[x] = 1; }); });
-    var hlEntries = Object.keys(refIds).map(function (x) { return ST.byId[x]; }).filter(Boolean);
     var h = '<div class="w-narrow"><div class="q-nav"><button type="button" class="btn btn-ghost btn-sm" data-act="sback">' + ICON.back + 'Danh sách bài</button>' +
       '<div class="q-step"><button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (prev ? prev.questionId : '') + '"' + (prev ? '' : ' disabled') + '>' + ICON.back + 'Trước</button>' +
       '<button type="button" class="btn btn-ghost btn-sm" data-act="sopen" data-id="' + (next ? next.questionId : '') + '"' + (next ? '' : ' disabled') + '>Sau' + ICON.next + '</button></div></div>' +
@@ -1055,8 +1062,12 @@
         '<div class="form-foot"><span class="count" id="s-rcount">' + wc(ST.recall) + ' words</span><button type="button" class="btn btn-primary" data-act="sreveal">Hiện bài mẫu để so sánh</button></div></div>';
     } else {
       if (ST.practice && ST.recall.trim()) h += '<section class="model glass" style="margin-bottom:14px"><h3>Bài bạn vừa viết lại <span class="sub" style="font-weight:400">· ' + wc(ST.recall) + ' từ</span></h3><div class="doc-body" style="margin:0">' + esc(ST.recall) + '</div></section>';
-      h += '<section class="model glass' + (ST.color ? ' colored' : '') + '"><h3>Bài mẫu</h3>' + v.text.split(/\n\n/).map(function (p) {
-        return '<p class="essay-p">' + (ST.color ? highlightEssay(p, hlEntries) : esc(p)) + '</p>'; }).join('') + '</section>';
+      var off = 0, nW = (v.marks || []).filter(function (r) { return r.level === 1; }).length, nS = (v.marks || []).length - nW;
+      var legend = ST.color ? '<div class="hl-legend"><span class="ty-phrase"><i>Cụm từ</i></span><span class="ty-synonyms"><i>Từ đồng nghĩa</i></span><span class="ty-connector"><i>Từ nối</i></span><span class="ty-frame"><i>Khung câu</i></span><span class="ty-idea"><i>Câu mang ý</i></span><span class="ty-example"><i>Câu ví dụ</i></span><span>· ' + nW + ' cụm, ' + nS + ' câu được tô · bấm để xem nghĩa</span></div>' : '';
+      h += '<section class="model glass' + (ST.color ? ' colored' : '') + '"><h3>Bài mẫu</h3>' + legend +v.text.split(/\n\n/).map(function (p) {
+        var html = ST.color ? highlightPara(p, v.marks || [], off) : esc(p);
+        off += p.length + 2;
+        return '<p class="essay-p">' + html + '</p>'; }).join('') + '</section>';
     }
     // mục thư viện đang chọn
     h += '<aside class="refpanel" id="s-refpanel">' + (ST.openRef && ST.byId[ST.openRef] ? entryCardHtml(ST.byId[ST.openRef]) : '<p class="hint" style="padding:0">Bấm vào một chip hoặc một cụm được tô màu để xem chi tiết mục thư viện ở đây.</p>') + '</aside>';

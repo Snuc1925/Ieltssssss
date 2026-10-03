@@ -107,6 +107,38 @@ async function verify(ids) {
   await Promise.all([worker(), worker(), worker()]);
 }
 
+// chunks <file.json>: {"<questionId>": [["cụm nguyên văn trong bài", "nghĩa tiếng Việt", "role?"], ...]}
+// Mỗi cụm phải có nguyên văn trong bài (không phân biệt hoa/thường) → tạo mục phrase mới; trùng thì bỏ qua.
+function chunks(file) {
+  const lex = loadLexicon();
+  const store = readJson(ESSAYS, { essays: [] });
+  const norm = (x) => x.toLowerCase().replace(/[’‘]/g, "'").replace(/^[\s,;.]+|[\s,;.]+$/g, '');
+  const have = new Set();
+  lex.entries.forEach((e) => { if (e.text) String(e.text).split(/\s+\/\s+/).forEach((v) => have.add(norm(v))); });
+  const ids = new Set(lex.entries.map((e) => e.id));
+  const data = readJson(path.resolve(file), {});
+  let added = 0, dup = 0, bad = 0;
+  for (const [qid, items] of Object.entries(data)) {
+    const rec = store.essays.find((x) => x.questionId === Number(qid));
+    if (!rec) { console.log(`#${qid}: không có bài`); continue; }
+    const text = rec.versions.at(-1).text.toLowerCase().replace(/[’‘]/g, "'");
+    for (const [raw, vi, role] of items) {
+      const t = norm(raw);
+      if (!text.includes(t)) { console.log(`#${qid}: KHÔNG có trong bài: "${raw}"`); bad++; continue; }
+      if (have.has(t)) { dup++; continue; }
+      let id = 'PH-' + t.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 44).replace(/-$/, '');
+      for (let n = 2; ids.has(id); n++) id = id.replace(/-\d+$/, '') + '-' + n;
+      const topics = role === 'g' ? ['general'] : ['education', 'general'];
+      lex.entries.push({ id, type: 'phrase', topics, role: role && role !== 'g' ? role : 'collocation', text: raw.replace(/^[\s,;.]+|[\s,;.]+$/g, ''), meaning_vi: vi, from: Number(qid) });
+      ids.add(id); have.add(t); added++;
+      rec.analysis = rec.analysis || { plan: [], newEntries: [] };
+      (rec.analysis.newEntries = rec.analysis.newEntries || []).push(id);
+    }
+  }
+  writeJson(LEXICON, lex); writeJson(ESSAYS, store);
+  console.log(`Chunks: +${added} cụm mới, ${dup} trùng, ${bad} lỗi. Tổng entry: ${lex.entries.length}`);
+}
+
 function check() {
   const lex = loadLexicon(); const ids = new Set(lex.entries.map((e) => e.id));
   const store = readJson(ESSAYS, { essays: [] });
@@ -130,5 +162,6 @@ if (cmd === 'merge') merge(args[0]);
 else if (cmd === 'grade') await grade(args.map(Number));
 else if (cmd === 'verify') await verify(args.map(Number));
 else if (cmd === 'check') check();
+else if (cmd === 'chunks') chunks(args[0]);
 else if (cmd === 'list') list(args[0]);
 else console.log('Lệnh: merge <patch> | grade <id...> | verify <id...> | check | list [type]');

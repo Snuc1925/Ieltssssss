@@ -1,6 +1,7 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { computeMarks } from './marks.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, '..', '..', 'data', 'writing-task2', 'library');
@@ -38,5 +39,10 @@ export async function getLibrary(topic = 'education') {
     readJson(path.join(DIR, `essays.${topic}.json`), { topic, passScore: 7, essays: [] }),
     readJson(PROGRESS, {}),
   ]);
-  return { topic: store.topic || topic, passScore: store.passScore || 7, entries: lexicon.entries, essays: store.essays, progress };
+  // Vùng tô màu tính từ toàn bộ thư viện (không chỉ các ref gắn tay), nên cụm mới thêm vào lexicon tự hiện trong mọi bài.
+  const essays = store.essays.map((rec) => ({
+    ...rec,
+    versions: rec.versions.map((v) => ({ ...v, marks: computeMarks(v.text, lexicon.entries) })),
+  }));
+  return { topic: store.topic || topic, passScore: store.passScore || 7, entries: lexicon.entries, essays, progress };
 }
