@@ -9,3 +9,7 @@ server/data/**/sessions/*.json
 # Bai viet + ket qua cham ca nhan (questions.json thi giu lai)
 server/data/writing-task2/essays/*.json
 server/data/writing-task2/essays/*.tmp
+
+# Tien do hoc thuoc (Study) la du lieu ca nhan
+server/data/writing-task2/study/progress.json
+server/data/writing-task2/study/progress.json.*.tmp

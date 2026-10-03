@@ -1,5 +1,6 @@
 // Lap bai mau tu: khung (shape) + the y (cards) + cac cho dien trong recipe.
 // Khong goi AI: bai nao cung duoc "ghep" tu cung mot thu vien nho -> van phong dong nhat.
+// Ket qua gom paragraphs (chuoi) va segments (tung doan nho kem nhan the nguon 'c') de UI to mau.
 
 const upperFirst = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 const lowerFirst = (s) => s.charAt(0).toLowerCase() + s.slice(1);
@@ -26,6 +27,9 @@ function shorts(cards, lib) {
   return `${lib.cards[cards[0].id].short}, as well as ${lib.cards[cards[1].id].short}`;
 }
 
+const frame = (t) => [{ t, c: 'frame' }];
+
+// Tra ve mang segment: [{t:'To begin with,', c:'frame'}, {t:'cau 1', c:'P1'}, ...]
 function body(card, lib, recipe, connector, opts = {}) {
   const def = lib.cards[card.id];
   if (!def) throw new Error(`Khong co the ${card.id}`);
@@ -36,10 +40,16 @@ function body(card, lib, recipe, connector, opts = {}) {
     field: recipe.field || 'education',
   };
   const sentences = def.s.slice(0, opts.n || 4).map((s) => fill(s, slots));
-  const first = connector ? `${connector} ${lowerFirst(sentences[0])}` : upperFirst(sentences[0]);
-  const out = [first, ...sentences.slice(1)];
-  if (opts.ex !== false && def.ex) out.push(def.ex);
-  return out.join(' ');
+  const segs = [];
+  if (connector) {
+    segs.push({ t: connector, c: 'frame' });
+    segs.push({ t: lowerFirst(sentences[0]), c: card.id });
+  } else {
+    segs.push({ t: upperFirst(sentences[0]), c: card.id });
+  }
+  sentences.slice(1).forEach((t) => segs.push({ t, c: card.id }));
+  if (opts.ex !== false && def.ex) segs.push({ t: def.ex, c: card.id });
+  return segs;
 }
 
 export function assemble(recipe, lib, qtype) {
@@ -54,78 +64,78 @@ export function assemble(recipe, lib, qtype) {
     case 'AGREE': {
       const open = odd ? `A growing number of people believe that ${recipe.claim}.` : `It is widely argued that ${recipe.claim}.`;
       const lead = { OP: 'In my opinion, this is entirely justified', AD: 'I firmly agree with this view', EX: 'I largely agree with this view' }[t];
-      P.intro = `${open} ${lead}, ${odd ? 'as' : 'since'} ${reasons(cards, lib)}. I will outline my two main reasons below.`;
+      P.intro = frame(`${open} ${lead}, ${odd ? 'as' : 'since'} ${reasons(cards, lib)}. I will outline my two main reasons below.`);
       P.body1 = body(cards[0], lib, recipe, first);
       P.body2 = body(cards[1], lib, recipe, second);
-      P.concl = odd
+      P.concl = frame(odd
         ? `To sum up, I firmly maintain that ${recipe.claim}, chiefly because of ${shorts(cards, lib)}.`
-        : `In conclusion, I remain convinced that ${recipe.claim}, given the importance of ${shorts(cards, lib)}.`;
+        : `In conclusion, I remain convinced that ${recipe.claim}, given the importance of ${shorts(cards, lib)}.`);
       break;
     }
     case 'DISAGREE': {
       const open = odd ? `It is sometimes suggested that ${recipe.claim}.` : `Some people claim that ${recipe.claim}.`;
       const lead = { OP: 'I do not share this view', AD: 'I disagree with this view', EX: 'I strongly disagree with this view' }[t];
-      P.intro = `${open} ${lead}, ${odd ? 'as' : 'since'} ${reasons(cards, lib)}. I will explain my two main reasons below.`;
+      P.intro = frame(`${open} ${lead}, ${odd ? 'as' : 'since'} ${reasons(cards, lib)}. I will explain my two main reasons below.`);
       P.body1 = body(cards[0], lib, recipe, first);
       P.body2 = body(cards[1], lib, recipe, second);
-      P.concl = odd
+      P.concl = frame(odd
         ? `All things considered, I remain unconvinced that ${recipe.claim}, mainly because of ${shorts(cards, lib)}.`
-        : `In conclusion, I cannot accept that ${recipe.claim}, given the weight of ${shorts(cards, lib)}.`;
+        : `In conclusion, I cannot accept that ${recipe.claim}, given the weight of ${shorts(cards, lib)}.`);
       break;
     }
     case 'BOTH': {
-      P.intro = odd
+      P.intro = frame(odd
         ? `People hold different views on whether ${recipe.view1} or ${recipe.view2}. This essay will consider both perspectives before explaining my own opinion.`
-        : `Opinions are divided as to whether ${recipe.view1} or whether ${recipe.view2}. This essay will consider both perspectives before explaining my own opinion.`;
+        : `Opinions are divided as to whether ${recipe.view1} or whether ${recipe.view2}. This essay will consider both perspectives before explaining my own opinion.`);
       P.body1 = body(cards[0], lib, recipe, 'On the one hand,');
       P.body2 = body(cards[1], lib, recipe, 'On the other hand,');
-      P.concl = `To sum up, both positions have their merits; nevertheless, I believe that ${recipe.own}.`;
+      P.concl = frame(`To sum up, both positions have their merits; nevertheless, I believe that ${recipe.own}.`);
       break;
     }
     case 'ADVDIS': {
-      const topicCap = upperFirst(recipe.topic);
       const verdict = recipe.verdict === 'outweigh'
         ? 'In my opinion, the advantages clearly outweigh the disadvantages.'
         : 'In my view, the drawbacks outweigh the benefits.';
-      P.intro = `${topicCap} has become increasingly common, but it brings drawbacks as well as benefits. ${verdict} This essay will examine both sides.`;
+      P.intro = frame(`${upperFirst(recipe.topic)} has become increasingly common, but it brings drawbacks as well as benefits. ${verdict} This essay will examine both sides.`);
       P.body1 = body(cards[0], lib, recipe, 'On the positive side,');
       P.body2 = body(cards[1], lib, recipe, 'On the negative side,');
-      P.concl = recipe.verdict === 'outweigh'
+      P.concl = frame(recipe.verdict === 'outweigh'
         ? `In conclusion, despite ${lib.cards[cards[1].id].short}, ${recipe.topic} is, on balance, more beneficial than harmful, thanks to ${lib.cards[cards[0].id].short}, which is why I regard it as a worthwhile development.`
-        : `In conclusion, although ${recipe.topic} offers ${lib.cards[cards[0].id].short}, its drawbacks are more serious, since ${cards[1].act} ${lib.cards[cards[1].id].pred}.`;
+        : `In conclusion, although ${recipe.topic} offers ${lib.cards[cards[0].id].short}, its drawbacks are more serious, since ${cards[1].act} ${lib.cards[cards[1].id].pred}, which is why caution is warranted.`);
       break;
     }
     case 'BENEFITS': {
-      P.intro = `${recipe.lead} ${odd ? `In this essay, I will explain two principal benefits of ${recipe.topic}.` : `This essay will outline two key ways in which ${recipe.topic} makes a positive difference.`}`;
+      P.intro = frame(`${recipe.lead} ${odd ? `In this essay, I will explain two principal benefits of ${recipe.topic}.` : `This essay will outline two key ways in which ${recipe.topic} makes a positive difference.`}`);
       P.body1 = body(cards[0], lib, recipe, first);
       P.body2 = body(cards[1], lib, recipe, second);
-      P.concl = odd
+      P.concl = frame(odd
         ? `To sum up, there are compelling reasons to value ${recipe.topic}, namely ${shorts(cards, lib)}. For these reasons, it deserves sustained public support.`
-        : `In conclusion, ${recipe.topic} brings clear benefits, above all ${shorts(cards, lib)}. For these reasons, it deserves sustained public support.`;
+        : `In conclusion, ${recipe.topic} brings clear benefits, above all ${shorts(cards, lib)}. For these reasons, it deserves sustained public support.`);
       break;
     }
     case 'CAUSESOL': {
       const [k1, k2, s1, s2] = cards;
-      P.intro = `The issue of ${recipe.problem} is ${odd ? 'a matter of growing concern' : 'a growing concern in many countries'}. This essay will ${odd ? 'analyse the principal causes and propose realistic solutions' : 'examine its main causes and suggest practical solutions'}.`;
-      P.body1 = `${body(k1, lib, recipe, null, { ex: false, n: 3 })} ${body(k2, lib, recipe, 'In addition,', { ex: false, n: 3, problem: 'this problem' })}`;
-      P.body2 = `${body(s1, lib, recipe, 'To address this issue,', { ex: false, n: 3 })} ${body(s2, lib, recipe, 'In addition,', { ex: false, n: 3 })}`;
-      P.concl = `In conclusion, the issue of ${recipe.problem} stems mainly from ${lib.cards[k1.id].short} and ${lib.cards[k2.id].short}, but ${lib.cards[s1.id].short} and ${lib.cards[s2.id].short} offer a realistic way forward.`;
+      P.intro = frame(`The issue of ${recipe.problem} is ${odd ? 'a matter of growing concern' : 'a growing concern in many countries'}. This essay will ${odd ? 'analyse the principal causes and propose realistic solutions' : 'examine its main causes and suggest practical solutions'}.`);
+      P.body1 = [...body(k1, lib, recipe, null, { ex: false, n: 3 }), ...body(k2, lib, recipe, 'In addition,', { ex: false, n: 3, problem: 'this problem' })];
+      P.body2 = [...body(s1, lib, recipe, 'To address this issue,', { ex: false, n: 3 }), ...body(s2, lib, recipe, 'In addition,', { ex: false, n: 3 })];
+      P.concl = frame(`In conclusion, the issue of ${recipe.problem} stems mainly from ${lib.cards[k1.id].short} and ${lib.cards[k2.id].short}, but ${lib.cards[s1.id].short} and ${lib.cards[s2.id].short} offer a realistic way forward.`);
       break;
     }
     case 'SOLUTIONS': {
       const [s1, s2, s3, s4] = cards;
-      P.intro = `${recipe.lead} This essay will suggest several practical measures.`;
-      P.body1 = `${body(s1, lib, recipe, 'To address this issue,', { ex: false, n: 3 })} ${body(s2, lib, recipe, 'In addition,', { ex: false, n: 3 })}`;
-      P.body2 = `${body(s3, lib, recipe, 'Equally important,', { ex: false, n: 3 })} ${body(s4, lib, recipe, 'Finally,', { ex: false, n: 3 })}`;
-      P.concl = `In conclusion, ${lib.cards[s1.id].short}, ${lib.cards[s2.id].short}, ${lib.cards[s3.id].short} and ${lib.cards[s4.id].short} together offer the most realistic way forward.`;
+      P.intro = frame(`${recipe.lead} This essay will suggest several practical measures.`);
+      P.body1 = [...body(s1, lib, recipe, 'To address this issue,', { ex: false, n: 3 }), ...body(s2, lib, recipe, 'In addition,', { ex: false, n: 3 })];
+      P.body2 = [...body(s3, lib, recipe, 'Equally important,', { ex: false, n: 3 }), ...body(s4, lib, recipe, 'Finally,', { ex: false, n: 3 })];
+      P.concl = frame(`In conclusion, ${lib.cards[s1.id].short}, ${lib.cards[s2.id].short}, ${lib.cards[s3.id].short} and ${lib.cards[s4.id].short} together offer the most realistic way forward.`);
       break;
     }
     default:
       throw new Error(`Shape khong ho tro: ${recipe.shape}`);
   }
 
-  const paragraphs = [P.intro, P.body1, P.body2, P.concl];
+  const segments = [P.intro, P.body1, P.body2, P.concl];
+  const paragraphs = segments.map((p) => p.map((s) => s.t).join(' '));
   const text = paragraphs.join('\n\n');
   if (/[{}]/.test(text)) throw new Error(`Con slot chua dien trong recipe ${recipe.id}`);
-  return { paragraphs, text, words: text.trim().split(/\s+/).length, cardIds: cards.map((c) => c.id) };
+  return { paragraphs, segments, text, words: text.trim().split(/\s+/).length, cardIds: cards.map((c) => c.id) };
 }
