@@ -1,0 +1,128 @@
+{
+  "questionId": 206,
+  "text": "In some countries, university sports teams attract huge crowds and television audiences, but the players are not paid. I largely agree that college athletes should be paid, since they generate large revenues but receive little in return, although payment must be organised carefully.\n\nTo begin with, college athletes generate large revenues but receive little in return. Universities and broadcasters earn millions from matches, advertising and merchandise, while players train for many hours, risk injury and struggle to study, and a scholarship may not cover their real costs. A student athlete who injures a knee in a televised match, for example, may lose both his place on the team and his scholarship, leaving him with no income and an uncertain future. Coaches and administrators are often paid very high salaries, and it seems unfair that those who create the entertainment receive nothing. Their sport is effectively a full-time job.\n\nFurthermore, payment would recognise the time and risk involved and reduce pressure to accept illegal rewards. Many players come from poor families and cannot afford basic expenses, which makes them vulnerable to secret payments from agents. However, there are difficulties. Payment may create inequality with other students who also work hard, and smaller sports that do not earn money might lose funding if budgets are redirected. Universities may also become more concerned with winning than with education. These problems can be reduced by paying a fair share of revenue, protecting academic standards, and keeping support for sports that do not make a profit.\n\nIn conclusion, college athletes should be paid to a large extent, because they create wealth and carry real risks, provided that safeguards protect education and smaller sports.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): vận động viên đại học có nên được trả lương — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu bối cảnh (đội đại học thu hút đám đông, truyền hình nhưng người chơi không được trả lương) rồi largely agree + lý do ngắn + giới hạn (cần tổ chức cẩn thận).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tạo doanh thu lớn mà nhận ít",
+        "think": "Trường và đài truyền hình kiếm hàng triệu; cầu thủ tập nhiều giờ, rủi ro chấn thương, khó học; học bổng có thể không đủ; huấn luyện viên, quản lý lương cao. Ví dụ sinh viên chấn thương gối trong trận truyền hình mất cả suất đội và học bổng.",
+        "refs": [
+          "ID-sport-college-pay",
+          "EX-sport-injured-student",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Trả lương công nhận thời gian và rủi ro, giảm áp lực nhận tiền bất hợp pháp; nhiều cầu thủ nghèo. Giới hạn: bất bình đẳng với sinh viên khác; môn nhỏ mất kinh phí; trường quan tâm thắng hơn học; cách giảm: chia sẻ doanh thu hợp lý, bảo vệ chuẩn học thuật, giữ hỗ trợ môn không sinh lời.",
+        "refs": [
+          "ID-health-private-con",
+          "ID-env-polluter-pays",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên trả lương ở mức độ lớn, có biện pháp bảo vệ giáo dục và môn nhỏ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-college-pay",
+      "EX-sport-injured-student"
+    ]
+  },
+  "chunks": [
+    [
+      "university sports teams",
+      "đội thể thao đại học"
+    ],
+    [
+      "attract huge crowds and television audiences",
+      "thu hút đám đông và khán giả truyền hình lớn"
+    ],
+    [
+      "college athletes should be paid",
+      "vận động viên đại học nên được trả lương"
+    ],
+    [
+      "generate large revenues but receive little in return",
+      "tạo doanh thu lớn nhưng nhận lại ít"
+    ],
+    [
+      "merchandise",
+      "hàng hoá lưu niệm"
+    ],
+    [
+      "train for many hours",
+      "tập luyện nhiều giờ"
+    ],
+    [
+      "risk injury",
+      "đối mặt nguy cơ chấn thương"
+    ],
+    [
+      "struggle to study",
+      "vật lộn để học"
+    ],
+    [
+      "cover their real costs",
+      "đủ chi phí thực tế của họ"
+    ],
+    [
+      "injures a knee in a televised match",
+      "bị thương đầu gối trong trận đấu truyền hình"
+    ],
+    [
+      "lose both his place on the team and his scholarship",
+      "mất cả vị trí trong đội và học bổng"
+    ],
+    [
+      "an uncertain future",
+      "tương lai bất định"
+    ],
+    [
+      "very high salaries",
+      "mức lương rất cao"
+    ],
+    [
+      "effectively a full-time job",
+      "thực chất là công việc toàn thời gian"
+    ],
+    [
+      "recognise the time and risk involved",
+      "ghi nhận thời gian và rủi ro liên quan"
+    ],
+    [
+      "secret payments from agents",
+      "khoản tiền bí mật từ người môi giới"
+    ],
+    [
+      "smaller sports",
+      "các môn thể thao nhỏ hơn"
+    ],
+    [
+      "lose funding",
+      "mất kinh phí"
+    ],
+    [
+      "a fair share of revenue",
+      "phần doanh thu công bằng"
+    ],
+    [
+      "protecting academic standards",
+      "bảo vệ chuẩn mực học thuật"
+    ]
+  ]
+}

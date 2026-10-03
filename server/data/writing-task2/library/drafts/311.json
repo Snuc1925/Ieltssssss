@@ -1,0 +1,132 @@
+{
+  "questionId": 311,
+  "text": "Alcohol, tobacco and illegal drugs are used by a worrying number of teenagers, and the habit can damage their health and education for years. This essay will analyse the principal causes and propose realistic solutions.\n\nTeenagers turn to drugs and alcohol because of peer pressure, stress and easy access. Friends who use substances make it seem normal, family problems and school pressure create a wish to escape, and curiosity combined with a lack of knowledge about the risks leads some young people to experiment. A fifteen-year-old at a party where everyone is drinking, for example, may accept a drink simply to avoid being left out. In addition, substances are often cheap and easy to obtain, and advertising, films and social media can make them look glamorous. Teenage brains are still developing, which makes young people more impulsive and more vulnerable to addiction. Early use can then develop into dependence and damage health, relationships and exam results.\n\nTo address this issue, prevention should combine education, support and strict control of sales. Schools can explain the real risks, and sessions led by former users can be more convincing than warnings from adults. Counselling helps teenagers with stress and family difficulties, and enforcement stops shops from selling to minors. Clubs, sport and youth centres give young people healthy alternatives and a sense of belonging. In addition, treatment services must be available for those who already have a problem, and parents need advice on how to talk to their children without anger. Prevention is far less costly than dealing with addiction later, and it protects the futures of young people.\n\nIn conclusion, teenage substance abuse stems mainly from peer pressure, stress and easy access, but education, family support and firm enforcement offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp lạm dụng chất ở thanh thiếu niên",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu số lượng đáng lo và hậu quả kéo dài; thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Áp lực bạn bè khiến việc dùng chất có vẻ bình thường; vấn đề gia đình và áp lực học tạo mong muốn trốn tránh; tò mò và thiếu hiểu biết về rủi ro; dễ mua và rẻ; quảng cáo, phim, mạng xã hội; não thiếu niên còn phát triển nên bốc đồng, dễ nghiện. Ví dụ cậu 15 tuổi ở bữa tiệc nhận ly rượu để khỏi bị lạc lõng.",
+        "refs": [
+          "ID-health-teen-substance",
+          "EX-health-party-pressure",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Giáo dục về rủi ro thực (người từng dùng chia sẻ thuyết phục hơn người lớn cảnh báo); tư vấn cho căng thẳng và gia đình; thực thi cấm bán cho người chưa đủ tuổi; câu lạc bộ, thể thao, trung tâm thanh niên; dịch vụ điều trị; hướng dẫn phụ huynh nói chuyện với con.",
+        "refs": [
+          "ID-health-teen-solutions",
+          "ID-health-gov-tools",
+          "ID-health-prevention-cheaper",
+          "PH-prevention-costly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-teen-substance",
+      "ID-health-teen-solutions",
+      "EX-health-party-pressure"
+    ]
+  },
+  "chunks": [
+    [
+      "Alcohol, tobacco and illegal drugs",
+      "rượu, thuốc lá và ma tuý"
+    ],
+    [
+      "a worrying number of teenagers",
+      "số lượng thiếu niên đáng lo"
+    ],
+    [
+      "damage their health and education for years",
+      "làm hại sức khoẻ và học tập trong nhiều năm"
+    ],
+    [
+      "peer pressure",
+      "áp lực bạn bè"
+    ],
+    [
+      "easy access",
+      "dễ tiếp cận"
+    ],
+    [
+      "make it seem normal",
+      "khiến nó có vẻ bình thường"
+    ],
+    [
+      "a wish to escape",
+      "mong muốn trốn tránh"
+    ],
+    [
+      "curiosity combined with a lack of knowledge about the risks",
+      "tò mò cộng với thiếu hiểu biết về rủi ro"
+    ],
+    [
+      "experiment",
+      "thử nghiệm"
+    ],
+    [
+      "to avoid being left out",
+      "để khỏi bị bỏ rơi"
+    ],
+    [
+      "cheap and easy to obtain",
+      "rẻ và dễ kiếm"
+    ],
+    [
+      "look glamorous",
+      "trông hào nhoáng"
+    ],
+    [
+      "Teenage brains are still developing",
+      "não thiếu niên vẫn đang phát triển"
+    ],
+    [
+      "impulsive and more vulnerable to addiction",
+      "bốc đồng và dễ nghiện hơn"
+    ],
+    [
+      "develop into dependence",
+      "phát triển thành phụ thuộc"
+    ],
+    [
+      "Schools can explain the real risks",
+      "trường có thể giải thích rủi ro thực sự"
+    ],
+    [
+      "former users",
+      "người từng dùng"
+    ],
+    [
+      "selling to minors",
+      "bán cho người chưa đủ tuổi"
+    ],
+    [
+      "healthy alternatives and a sense of belonging",
+      "lựa chọn lành mạnh và cảm giác thuộc về"
+    ],
+    [
+      "treatment services",
+      "dịch vụ điều trị"
+    ]
+  ]
+}

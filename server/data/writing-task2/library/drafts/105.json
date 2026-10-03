@@ -1,0 +1,131 @@
+{
+  "questionId": 105,
+  "text": "Opinions are divided as to whether animal testing is acceptable for medical research or whether it is unethical. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of animal testing argue that it has contributed to many life-saving medical advances. Vaccines, insulin and surgical techniques were developed with the help of animal research, and a living body is so complex that a drug cannot be judged safe from isolated cells alone. Testing on animals first also protects human volunteers from unknown dangers. A new drug for heart disease, for example, is usually tested on animals first to check for harmful effects before any person takes it. For many serious diseases, researchers argue that no alternative is yet good enough.\n\nOn the other hand, critics argue that animals suffer in experiments, and that results do not always apply to people. Creatures that feel pain are confined and harmed for human benefit, and a drug that works safely in a mouse can fail in humans, which means that animals can be both a cause of suffering and a poor guide. Cell cultures, computer models and tiny lab-grown organs are improving, and many people argue that these should replace animal tests wherever possible. Public attitudes are also changing, as more people believe that animals have rights. This shift in opinion puts pressure on researchers to justify every experiment.\n\nIn conclusion, both views have merit. Personally, I believe that animal testing is acceptable only when no alternative exists, and only under strict rules that minimise suffering, while governments and scientists should work hard to develop and use alternatives.",
+  "analysis": {
+    "type_vi": "Discuss both views: thử nghiệm trên động vật cho nghiên cứu y học — chấp nhận được hay phi đạo đức",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài giữ hai tính từ của đề (acceptable / unethical); hai thân bài một phía mỗi; ý kiến riêng 'chỉ chấp nhận khi không có phương án thay thế'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Góp phần vào vaccine, insulin, kỹ thuật mổ; cơ thể sống phức tạp; thử trên động vật trước bảo vệ tình nguyện viên. Ví dụ thuốc tim mới được thử trên động vật trước khi người dùng.",
+        "refs": [
+          "ID-health-animal-test-pro",
+          "EX-health-new-drug-trial"
+        ]
+      },
+      {
+        "step": "3. Phe phản đối",
+        "think": "Động vật cảm nhận đau bị nhốt và làm hại vì lợi ích con người; thuốc an toàn trên chuột vẫn có thể hỏng trên người; mô nuôi cấy, mô hình máy tính, cơ quan thu nhỏ đang cải thiện; thái độ công chúng đổi.",
+        "refs": [
+          "ID-health-animal-test-con",
+          "ID-env-animal-welfare"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chấp nhận chỉ khi không có phương án thay thế và dưới quy tắc nghiêm để giảm đau khổ; thúc đẩy phát triển phương án thay thế.",
+        "refs": [
+          "ID-health-3rs",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-animal-test-pro",
+      "ID-health-animal-test-con",
+      "ID-health-3rs",
+      "EX-health-new-drug-trial"
+    ]
+  },
+  "chunks": [
+    [
+      "animal testing",
+      "thử nghiệm trên động vật"
+    ],
+    [
+      "acceptable for medical research",
+      "chấp nhận được cho nghiên cứu y học"
+    ],
+    [
+      "unethical",
+      "phi đạo đức"
+    ],
+    [
+      "supporters of animal testing",
+      "người ủng hộ thử nghiệm trên động vật"
+    ],
+    [
+      "life-saving medical advances",
+      "tiến bộ y học cứu người"
+    ],
+    [
+      "a living body is so complex",
+      "cơ thể sống quá phức tạp"
+    ],
+    [
+      "isolated cells alone",
+      "chỉ tế bào riêng lẻ"
+    ],
+    [
+      "protects human volunteers from unknown dangers",
+      "bảo vệ tình nguyện viên khỏi nguy hiểm chưa biết"
+    ],
+    [
+      "check for harmful effects",
+      "kiểm tra tác dụng có hại"
+    ],
+    [
+      "no alternative is yet good enough",
+      "chưa có phương án nào đủ tốt"
+    ],
+    [
+      "animals suffer in experiments",
+      "động vật chịu đau khổ trong thí nghiệm"
+    ],
+    [
+      "do not always apply to people",
+      "không phải lúc nào cũng áp dụng cho người"
+    ],
+    [
+      "feel pain",
+      "cảm nhận đau"
+    ],
+    [
+      "confined and harmed for human benefit",
+      "bị nhốt và làm hại vì lợi ích con người"
+    ],
+    [
+      "a poor guide",
+      "chỉ dẫn kém"
+    ],
+    [
+      "Cell cultures, computer models",
+      "mô nuôi cấy, mô hình máy tính"
+    ],
+    [
+      "tiny lab-grown organs",
+      "cơ quan thu nhỏ nuôi trong phòng thí nghiệm"
+    ],
+    [
+      "replace animal tests wherever possible",
+      "thay thế thử nghiệm động vật bất cứ khi nào có thể"
+    ],
+    [
+      "animals have rights",
+      "động vật có quyền"
+    ],
+    [
+      "under strict rules that minimise suffering",
+      "dưới quy tắc nghiêm để giảm đau khổ"
+    ]
+  ]
+}

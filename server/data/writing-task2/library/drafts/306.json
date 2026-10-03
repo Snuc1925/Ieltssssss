@@ -1,0 +1,125 @@
+{
+  "questionId": 306,
+  "text": "Animal testing has long been a controversial part of medical and product research, and I believe that it will change considerably over the next twenty years, becoming less common as alternatives improve, although it will probably not disappear completely.\n\nFirst and foremost, new technology is providing alternatives to animal experiments. Scientists can now grow tiny organs from human cells, use computer models to predict how drugs behave in the body and test substances on chips that copy the function of organs. These methods are often cheaper and faster, and they use human cells, which may predict human reactions better than animals do. A cosmetic company that tests safety on lab-grown skin, for example, no longer needs to use rabbits. As artificial intelligence improves, such predictions will become even more reliable.\n\nIn addition, rules and public opinion are moving in the same direction. Many governments already ban animal testing for cosmetics, and research bodies follow the principle of replacing animals where possible, using fewer of them and treating them humanely. Companies know that customers increasingly dislike animal experiments, which gives them a reason to switch. However, change will have limits. A whole living body is far more complex than any model, and regulators may continue to require animal studies for the safety of new medicines until alternatives are proven. Progress will therefore be steady rather than sudden. Even so, the direction of change is clear.\n\nIn conclusion, animal testing is likely to change to a large extent over the next twenty years because of better technology and stronger rules, although some use for complex medical research will probably remain.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): thử nghiệm trên động vật sẽ thay đổi đến đâu trong 20 năm tới",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán",
+        "think": "Lập trường 'thay đổi đáng kể, ít phổ biến hơn' + 'although' (không biến mất hoàn toàn). Góc khác đề 105 (đạo đức) và 493 (so sánh phương pháp): tập trung vào xu hướng tương lai.",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực 1 — công nghệ thay thế",
+        "think": "Mô cơ quan thu nhỏ nuôi từ tế bào người, mô hình máy tính dự đoán thuốc, chip mô phỏng cơ quan; rẻ hơn, nhanh hơn, dùng tế bào người. Ví dụ công ty mỹ phẩm thử độ an toàn trên da nuôi trong phòng thí nghiệm thay vì thỏ.",
+        "refs": [
+          "ID-health-animal-test-con",
+          "ID-health-tech-diagnosis",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Động lực 2 và giới hạn",
+        "think": "Luật và dư luận cùng hướng: nhiều chính phủ cấm thử mỹ phẩm trên động vật; nguyên tắc thay thế, giảm, cải thiện; khách hàng không thích. Giới hạn: cơ thể sống phức tạp hơn mọi mô hình; cơ quan quản lý có thể vẫn yêu cầu nghiên cứu trên động vật.",
+        "refs": [
+          "ID-health-3rs",
+          "ID-health-animal-test-pro",
+          "CN-nextPoint-in-addition",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi lớn nhờ công nghệ và luật nhưng vẫn còn trong nghiên cứu y học phức tạp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "a controversial part of medical and product research",
+      "phần gây tranh cãi của nghiên cứu y học và sản phẩm"
+    ],
+    [
+      "become less common",
+      "trở nên ít phổ biến hơn"
+    ],
+    [
+      "alternatives improve",
+      "các phương án thay thế tiến bộ"
+    ],
+    [
+      "disappear completely",
+      "biến mất hoàn toàn"
+    ],
+    [
+      "alternatives to animal experiments",
+      "phương án thay cho thí nghiệm trên động vật"
+    ],
+    [
+      "grow tiny organs from human cells",
+      "nuôi cơ quan nhỏ từ tế bào người"
+    ],
+    [
+      "computer models",
+      "mô hình máy tính"
+    ],
+    [
+      "predict how drugs behave in the body",
+      "dự đoán thuốc hoạt động trong cơ thể thế nào"
+    ],
+    [
+      "chips that copy the function of organs",
+      "chip mô phỏng chức năng cơ quan"
+    ],
+    [
+      "cheaper and faster",
+      "rẻ hơn và nhanh hơn"
+    ],
+    [
+      "predict human reactions better",
+      "dự đoán phản ứng của người tốt hơn"
+    ],
+    [
+      "lab-grown skin",
+      "da nuôi trong phòng thí nghiệm"
+    ],
+    [
+      "rules and public opinion",
+      "luật lệ và dư luận"
+    ],
+    [
+      "ban animal testing for cosmetics",
+      "cấm thử nghiệm mỹ phẩm trên động vật"
+    ],
+    [
+      "treating them humanely",
+      "đối xử nhân đạo với chúng"
+    ],
+    [
+      "dislike animal experiments",
+      "không thích thí nghiệm trên động vật"
+    ],
+    [
+      "more complex than any model",
+      "phức tạp hơn bất kỳ mô hình nào"
+    ],
+    [
+      "require animal studies",
+      "yêu cầu nghiên cứu trên động vật"
+    ],
+    [
+      "until alternatives are proven",
+      "cho đến khi phương án thay thế được chứng minh"
+    ],
+    [
+      "steady rather than sudden",
+      "đều đặn thay vì đột ngột"
+    ]
+  ]
+}

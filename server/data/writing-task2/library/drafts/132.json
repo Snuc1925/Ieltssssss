@@ -1,0 +1,128 @@
+{
+  "questionId": 132,
+  "text": "Heart disease, diabetes and many other illnesses have been linked to the way people live, and opinions differ on who should be responsible for health: individuals themselves, or society and the government. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that people make the daily choices that shape their own health. Smoking, drinking too much alcohol, eating badly, sleeping too little and avoiding exercise account for a large share of preventable illness, and no doctor can undo years of unhealthy habits. Motivation also has to come from within: a person who is determined to stop smoking and walks every day is far more likely to stay well than one who waits to be told what to do. Individuals who look after themselves also reduce the burden on the health service and save money. A man who quits cigarettes at forty, for example, may add years to his life and avoid costly treatment later.\n\nOn the other hand, advocates of government action point out that individuals cannot control many of the things that affect their health. Clean water, vaccination, safe workplaces and cleaner air depend on public policy, and screening programmes and hospitals require national planning and funding. Poorer people often face higher risks, since they may live in damp housing or have less access to doctors. A vaccination programme, for example, protects a whole community in a way that no individual could arrange alone. Governments can also restrict tobacco sales and give reliable health information.\n\nIn conclusion, both views have merit. Personally, I believe that governments should provide the system and the safeguards, while individuals use them wisely and take care of themselves.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm sức khoẻ của mình (góc khác đề 52: lối sống và hệ thống)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Đề 132 rộng hơn 52 (sức khoẻ nói chung, không chỉ ăn uống) nên chọn ví dụ khác: hút thuốc, rượu, giấc ngủ, vận động ở phía cá nhân; nước sạch, tiêm chủng, sàng lọc ở phía chính phủ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Lối sống chiếm phần lớn bệnh có thể phòng; động lực phải đến từ bên trong; cá nhân giữ gìn giảm gánh nặng cho hệ thống y tế. Ví dụ người đàn ông bỏ thuốc ở tuổi bốn mươi.",
+        "refs": [
+          "ID-health-personal-choice"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Nước sạch, tiêm chủng, nơi làm việc an toàn phụ thuộc chính sách công; sàng lọc và bệnh viện cần quy hoạch; người nghèo rủi ro cao hơn. Ví dụ chương trình tiêm chủng.",
+        "refs": [
+          "ID-health-gov-tools",
+          "ID-env-ind-limits",
+          "EX-health-vaccination"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ cung cấp hệ thống và các biện pháp an toàn; cá nhân sử dụng khôn ngoan.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "EX-health-vaccination"
+    ]
+  },
+  "chunks": [
+    [
+      "linked to the way people live",
+      "liên quan đến cách con người sống"
+    ],
+    [
+      "responsible for health",
+      "chịu trách nhiệm về sức khoẻ"
+    ],
+    [
+      "drinking too much alcohol",
+      "uống quá nhiều rượu"
+    ],
+    [
+      "sleeping too little",
+      "ngủ quá ít"
+    ],
+    [
+      "a large share of preventable illness",
+      "phần lớn bệnh có thể phòng tránh"
+    ],
+    [
+      "undo years of unhealthy habits",
+      "xoá bỏ nhiều năm thói quen xấu"
+    ],
+    [
+      "come from within",
+      "đến từ bên trong"
+    ],
+    [
+      "is determined to stop smoking",
+      "quyết tâm bỏ thuốc"
+    ],
+    [
+      "stay well",
+      "giữ được sức khoẻ"
+    ],
+    [
+      "reduce the burden on the health service",
+      "giảm gánh nặng cho hệ thống y tế"
+    ],
+    [
+      "add years to his life",
+      "kéo dài thêm tuổi thọ"
+    ],
+    [
+      "costly treatment",
+      "điều trị tốn kém"
+    ],
+    [
+      "cannot control",
+      "không thể kiểm soát"
+    ],
+    [
+      "safe workplaces",
+      "nơi làm việc an toàn"
+    ],
+    [
+      "depend on public policy",
+      "phụ thuộc chính sách công"
+    ],
+    [
+      "screening programmes",
+      "chương trình sàng lọc"
+    ],
+    [
+      "national planning and funding",
+      "quy hoạch và tài trợ quốc gia"
+    ],
+    [
+      "damp housing",
+      "nhà ẩm thấp"
+    ],
+    [
+      "less access to doctors",
+      "ít tiếp cận bác sĩ hơn"
+    ],
+    [
+      "reliable health information",
+      "thông tin sức khoẻ đáng tin cậy"
+    ]
+  ]
+}

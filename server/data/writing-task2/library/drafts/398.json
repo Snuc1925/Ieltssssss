@@ -1,0 +1,126 @@
+{
+  "questionId": 398,
+  "text": "Advertisements for soap, soft drinks and cars change what people buy, and governments hope that public health campaigns can change behaviour in the same way. This essay will explain two key ways in which public campaigns change health behaviours: by spreading simple messages widely and by changing what people see as normal.\n\nFirst and foremost, public health campaigns reach millions of people at a low cost per person. Television, social media, schools and posters can spread simple, repeated messages about smoking, handwashing, vaccination or diet, and well-known figures and real stories make the advice memorable. A campaign that shows the real story of a former smoker, for example, can persuade more people to quit than a list of statistics. Messages that give a clear, easy action, such as washing hands for twenty seconds, are more likely to be remembered and followed than general warnings.\n\nIn addition, campaigns change social attitudes. When wearing a seat belt or avoiding smoking in public is shown as normal and responsible, people tend to follow the example of those around them, and young people learn what is expected. However, information alone does not change behaviour if people cannot act on it. People may know that vegetables are healthy but lack the money or time to buy them, and messages that lecture or frighten can be ignored. Campaigns therefore work best when combined with services, rules and prices that support the advice, such as free vaccination, taxes on tobacco or healthier school meals. Evaluating results and adjusting the message also improves success.\n\nTo sum up, public campaigns can change health behaviours by spreading memorable messages and shaping social norms, but they are most effective when supported by practical measures. For these reasons, they should be one part of a wider strategy.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: chiến dịch công cộng thay đổi hành vi sức khoẻ như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài so sánh với quảng cáo thương mại (xà phòng, nước ngọt, ô tô) để dẫn vào ý chiến dịch y tế; báo trước hai cách: lan truyền thông điệp rộng, thay đổi chuẩn mực.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — thông điệp rộng, đơn giản",
+        "think": "Tái dùng ý đề 137 (tiếp cận rộng, chi phí thấp) nhưng chuyển sang góc 'thay đổi hành vi': thông điệp cho hành động rõ ràng, dễ như rửa tay 20 giây dễ nhớ hơn cảnh báo chung. Ví dụ câu chuyện người từng hút thuốc.",
+        "refs": [
+          "ID-health-campaign-reach",
+          "EX-health-smoking-campaign"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — chuẩn mực xã hội + giới hạn",
+        "think": "Khi thắt dây an toàn hoặc không hút thuốc nơi công cộng được thể hiện là bình thường, người ta bắt chước; thanh thiếu niên học cái được kỳ vọng. Giới hạn: thông tin không đủ khi thiếu tiền hoặc thời gian; thông điệp giáo huấn hoặc doạ dẫm có thể bị phớt lờ; cần dịch vụ, luật, giá hỗ trợ.",
+        "refs": [
+          "ID-health-campaign-limits",
+          "ID-health-gov-tools",
+          "ID-health-environment-shapes"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chiến dịch thay đổi hành vi nhưng hiệu quả nhất khi có biện pháp hỗ trợ; nên là một phần của chiến lược rộng hơn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Advertisements for soap, soft drinks and cars",
+      "quảng cáo xà phòng, nước ngọt và ô tô"
+    ],
+    [
+      "change what people buy",
+      "thay đổi thứ người ta mua"
+    ],
+    [
+      "change behaviour",
+      "thay đổi hành vi"
+    ],
+    [
+      "change health behaviours",
+      "thay đổi hành vi sức khoẻ"
+    ],
+    [
+      "spreading simple messages widely",
+      "lan truyền thông điệp đơn giản rộng rãi"
+    ],
+    [
+      "what people see as normal",
+      "điều người ta coi là bình thường"
+    ],
+    [
+      "well-known figures and real stories",
+      "người nổi tiếng và câu chuyện thật"
+    ],
+    [
+      "persuade more people to quit",
+      "thuyết phục nhiều người bỏ thuốc hơn"
+    ],
+    [
+      "a clear, easy action",
+      "hành động rõ ràng, dễ làm"
+    ],
+    [
+      "washing hands for twenty seconds",
+      "rửa tay trong hai mươi giây"
+    ],
+    [
+      "general warnings",
+      "cảnh báo chung chung"
+    ],
+    [
+      "change social attitudes",
+      "thay đổi thái độ xã hội"
+    ],
+    [
+      "wearing a seat belt",
+      "thắt dây an toàn"
+    ],
+    [
+      "responsible",
+      "có trách nhiệm"
+    ],
+    [
+      "follow the example of those around them",
+      "làm theo tấm gương của người xung quanh"
+    ],
+    [
+      "information alone does not change behaviour",
+      "thông tin đơn thuần không thay đổi hành vi"
+    ],
+    [
+      "lack the money or time",
+      "thiếu tiền hoặc thời gian"
+    ],
+    [
+      "lecture or frighten",
+      "giáo huấn hoặc doạ dẫm"
+    ],
+    [
+      "services, rules and prices that support the advice",
+      "dịch vụ, quy định và giá cả hỗ trợ lời khuyên"
+    ],
+    [
+      "a wider strategy",
+      "chiến lược rộng hơn"
+    ]
+  ]
+}

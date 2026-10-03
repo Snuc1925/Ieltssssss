@@ -1,0 +1,130 @@
+{
+  "questionId": 373,
+  "text": "Opinions are divided as to whether public money should be spent mainly on public health campaigns or on hospital infrastructure. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of public health campaigns argue that preventing illness is cheaper and kinder than treating it. Campaigns against smoking, poor diet and infectious disease reach millions of people at a relatively low cost and can change habits that cause serious illness. Vaccination drives and health education stop disease before it starts, so fewer people ever need a hospital bed. A campaign that teaches handwashing, for example, can reduce infections in schools at very little cost. Over time, a healthier population also means lower spending on treatment and more people able to work. Campaigns can also be adjusted quickly when new health threats appear.\n\nOn the other hand, advocates of hospital infrastructure point out that people who are already ill need treatment now. Campaigns cannot cure disease, accidents and genetic conditions cannot be prevented, and hospitals need modern buildings, equipment and staff to cope with emergencies and an ageing population. A rural hospital without a scanner, for instance, must send patients on long journeys that can delay diagnosis. Old, overcrowded facilities also put staff under pressure and increase waiting times. A health system that neglects treatment loses public trust, however good its campaigns may be.\n\nIn conclusion, both views have merit. Overall, I believe that prevention deserves a growing share of the budget because it offers the best long-term value, while hospitals must still receive enough money to provide safe, modern care for those who need it today.",
+  "analysis": {
+    "type_vi": "Discuss both views: chiến dịch y tế công cộng hay hạ tầng bệnh viện",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Đề này khác đề 433 ở chỗ so sánh chiến dịch truyền thông và cơ sở vật chất bệnh viện (hai loại chi tiêu cụ thể), nên dùng ý chiến dịch rẻ, tiếp cận hàng triệu người vs bệnh viện cần thiết bị, nhân lực.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe chiến dịch",
+        "think": "Phòng bệnh rẻ và nhân văn hơn chữa bệnh; chiến dịch chống thuốc lá, ăn uống kém, bệnh truyền nhiễm tiếp cận hàng triệu người; tiêm chủng. Ví dụ chiến dịch rửa tay giảm nhiễm trùng ở trường.",
+        "refs": [
+          "ID-health-prevention-cheaper",
+          "EX-health-handwashing"
+        ]
+      },
+      {
+        "step": "3. Phe hạ tầng bệnh viện",
+        "think": "Người ốm cần điều trị ngay; chiến dịch không chữa được bệnh; tai nạn và bệnh di truyền không phòng được; bệnh viện cần toà nhà, thiết bị, nhân viên. Ví dụ bệnh viện nông thôn không có máy quét.",
+        "refs": [
+          "ID-health-treatment-now",
+          "EX-health-rural-scanner"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phòng bệnh nhận phần ngày càng lớn vì giá trị dài hạn, nhưng bệnh viện vẫn đủ tiền cho chăm sóc hiện đại an toàn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-prevention-cheaper",
+      "ID-health-treatment-now",
+      "EX-health-handwashing",
+      "EX-health-rural-scanner"
+    ]
+  },
+  "chunks": [
+    [
+      "public health campaigns",
+      "chiến dịch y tế công cộng"
+    ],
+    [
+      "hospital infrastructure",
+      "hạ tầng bệnh viện"
+    ],
+    [
+      "preventing illness is cheaper and kinder than treating it",
+      "phòng bệnh rẻ hơn và nhân văn hơn chữa bệnh"
+    ],
+    [
+      "reach millions of people",
+      "tiếp cận hàng triệu người"
+    ],
+    [
+      "relatively low cost",
+      "chi phí tương đối thấp"
+    ],
+    [
+      "change habits",
+      "thay đổi thói quen"
+    ],
+    [
+      "infectious disease",
+      "bệnh truyền nhiễm"
+    ],
+    [
+      "Vaccination drives",
+      "các đợt tiêm chủng"
+    ],
+    [
+      "stop disease before it starts",
+      "ngăn bệnh trước khi bắt đầu"
+    ],
+    [
+      "a hospital bed",
+      "giường bệnh"
+    ],
+    [
+      "reduce infections",
+      "giảm nhiễm trùng"
+    ],
+    [
+      "lower spending on treatment",
+      "chi ít hơn cho điều trị"
+    ],
+    [
+      "need treatment now",
+      "cần điều trị ngay"
+    ],
+    [
+      "cannot cure disease",
+      "không chữa được bệnh"
+    ],
+    [
+      "genetic conditions",
+      "bệnh di truyền"
+    ],
+    [
+      "modern buildings, equipment and staff",
+      "toà nhà, thiết bị và nhân viên hiện đại"
+    ],
+    [
+      "a rural hospital without a scanner",
+      "bệnh viện nông thôn không có máy quét"
+    ],
+    [
+      "delay diagnosis",
+      "làm chậm chẩn đoán"
+    ],
+    [
+      "overcrowded facilities",
+      "cơ sở quá tải"
+    ],
+    [
+      "loses public trust",
+      "mất lòng tin của công chúng"
+    ]
+  ]
+}

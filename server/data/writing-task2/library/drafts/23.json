@@ -1,0 +1,129 @@
+{
+  "questionId": 23,
+  "text": "Hospitals today use machines and software that were unknown a generation ago, from scanners to electronic records. This essay will explain two key ways in which technology improves healthcare: by helping doctors to diagnose and treat illness more accurately, and by making care more accessible and efficient.\n\nFirst and foremost, technology helps doctors to diagnose illness earlier and more accurately. Computer programs can analyse scans in seconds, electronic records let specialists share information, and surgical robots allow smaller, more precise operations. A program that checks thousands of chest scans, for example, can spot early signs of cancer that a tired doctor might miss. As a result, patients are treated sooner and recover faster, and mistakes caused by missing information are reduced. Smaller operations also mean less pain, smaller scars and shorter stays in hospital.\n\nIn addition, technology makes care more accessible and efficient. Video consultations bring advice to people who cannot easily reach a clinic, so a farmer who speaks to a heart specialist by video, for example, saves a day's travel and may receive advice weeks earlier. Online appointment systems reduce waiting and paperwork, and wearable devices allow patients with long-term conditions to be monitored at home. These tools free doctors and nurses to spend more time with patients who need them most. Of course, technology must be used carefully, since it is expensive, can fail and requires protection for patients' private data. Staff also need training to use it well.\n\nTo sum up, technology improves healthcare by supporting better diagnosis and treatment and by widening access, provided that it is used safely and fairly. For these reasons, it deserves sustained investment.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của công nghệ trong cải thiện chăm sóc sức khoẻ",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role' (như đề 4 về công nghệ giáo dục)",
+        "think": "Mở bài nêu bối cảnh (bệnh viện dùng máy móc, phần mềm chưa có cách đây một thế hệ) rồi báo hai cách công nghệ cải thiện y tế; mỗi thân bài một cách.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — chẩn đoán và điều trị chính xác",
+        "think": "Chương trình phân tích ảnh chụp trong vài giây; hồ sơ điện tử cho chuyên gia chia sẻ; robot phẫu thuật mổ nhỏ chính xác. Ví dụ chương trình kiểm tra hàng nghìn phim chụp phổi phát hiện dấu hiệu ung thư sớm mà bác sĩ mệt có thể bỏ sót.",
+        "refs": [
+          "ID-health-tech-diagnosis",
+          "EX-health-scan-ai"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — dễ tiếp cận và hiệu quả",
+        "think": "Tư vấn video cho người xa phòng khám; hệ thống đặt lịch trực tuyến giảm chờ đợi; thiết bị đeo theo dõi bệnh mạn tính tại nhà. Nhượng bộ: đắt, có thể hỏng, cần bảo vệ dữ liệu, cần đào tạo nhân viên.",
+        "refs": [
+          "ID-health-telemedicine",
+          "ID-health-wearables",
+          "EX-health-video-consult"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện y tế nếu dùng an toàn và công bằng; xứng đáng được đầu tư lâu dài.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-tech-diagnosis",
+      "EX-health-scan-ai"
+    ]
+  },
+  "chunks": [
+    [
+      "unknown a generation ago",
+      "chưa từng có cách đây một thế hệ"
+    ],
+    [
+      "electronic records",
+      "hồ sơ điện tử"
+    ],
+    [
+      "improves healthcare",
+      "cải thiện chăm sóc sức khoẻ"
+    ],
+    [
+      "diagnose and treat illness more accurately",
+      "chẩn đoán và điều trị bệnh chính xác hơn"
+    ],
+    [
+      "more accessible and efficient",
+      "dễ tiếp cận và hiệu quả hơn"
+    ],
+    [
+      "analyse scans in seconds",
+      "phân tích ảnh chụp trong vài giây"
+    ],
+    [
+      "share information",
+      "chia sẻ thông tin"
+    ],
+    [
+      "surgical robots",
+      "robot phẫu thuật"
+    ],
+    [
+      "smaller, more precise operations",
+      "ca mổ nhỏ hơn, chính xác hơn"
+    ],
+    [
+      "early signs of cancer",
+      "dấu hiệu sớm của ung thư"
+    ],
+    [
+      "a tired doctor might miss",
+      "bác sĩ mệt mỏi có thể bỏ sót"
+    ],
+    [
+      "treated sooner and recover faster",
+      "được điều trị sớm hơn và hồi phục nhanh hơn"
+    ],
+    [
+      "mistakes caused by missing information",
+      "sai sót do thiếu thông tin"
+    ],
+    [
+      "smaller scars",
+      "sẹo nhỏ hơn"
+    ],
+    [
+      "Video consultations",
+      "tư vấn qua video"
+    ],
+    [
+      "saves a day's travel",
+      "tiết kiệm một ngày đi lại"
+    ],
+    [
+      "Online appointment systems",
+      "hệ thống đặt lịch hẹn trực tuyến"
+    ],
+    [
+      "monitored at home",
+      "được theo dõi tại nhà"
+    ],
+    [
+      "protection for patients' private data",
+      "bảo vệ dữ liệu riêng tư của bệnh nhân"
+    ],
+    [
+      "staff also need training",
+      "nhân viên cũng cần được đào tạo"
+    ]
+  ]
+}

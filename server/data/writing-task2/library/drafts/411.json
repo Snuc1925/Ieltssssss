@@ -1,0 +1,132 @@
+{
+  "questionId": 411,
+  "text": "In many fast-growing cities, millions of people live in crowded slums where toilets, drains and rubbish collection are inadequate, and diseases such as cholera and diarrhoea spread easily. This essay will analyse the principal causes and propose realistic solutions.\n\nRapid migration into cities outpaces the building of basic services. People who cannot afford housing settle in informal areas outside official planning, where there are no sewers, toilets or rubbish collection, and weak local governments lack the money or authority to provide them. In a settlement where hundreds of people share a few toilets, for example, waste can easily reach drinking water. In addition, residents without legal rights to their land fear eviction, so neither they nor the authorities invest in permanent improvements. High housing costs and low incomes keep people in these conditions for years, and children suffer most from the resulting illnesses.\n\nTo address this issue, upgrading existing settlements is faster and fairer than clearing them. Toilets, drains and rubbish collection can be added step by step, legal recognition gives residents a reason to invest in their own homes, and community participation keeps facilities clean and maintained. Governments should also build affordable housing and extend water and sewerage networks as cities grow, so that new arrivals are not forced into informal areas. Hygiene education, for instance on handwashing and safe waste disposal, helps families to protect their health at little cost. Health improves without forcing families to move, and the economy benefits from healthier workers.\n\nIn conclusion, poor sanitation in urban slums stems mainly from rapid migration and a lack of planning and secure land rights, but upgrading, legal recognition and community involvement offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp vệ sinh kém ở khu ổ chuột đô thị",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài mô tả cụ thể tình trạng (nhà vệ sinh, cống, thu gom rác không đủ; dịch tả, tiêu chảy lan nhanh); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Di cư nhanh vượt tốc độ xây dịch vụ cơ bản; khu định cư phi chính thức ngoài quy hoạch; chính quyền yếu; người dân không có quyền pháp lý về đất sợ bị đuổi nên không ai đầu tư; nhà ở đắt, thu nhập thấp. Ví dụ hàng trăm người dùng chung vài nhà vệ sinh.",
+        "refs": [
+          "ID-health-slum-causes",
+          "EX-health-shared-toilet",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Nâng cấp khu hiện có nhanh và công bằng hơn việc phá dỡ; thêm nhà vệ sinh, cống, thu rác từng bước; công nhận pháp lý khuyến khích đầu tư; cộng đồng tham gia giữ gìn; xây nhà giá phải chăng và mở rộng mạng nước, cống; giáo dục vệ sinh.",
+        "refs": [
+          "ID-health-slum-solutions",
+          "ID-health-water-solutions",
+          "ID-env-gov-infrastructure",
+          "PH-tackle-source"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-slum-causes",
+      "ID-health-slum-solutions",
+      "EX-health-shared-toilet"
+    ]
+  },
+  "chunks": [
+    [
+      "fast-growing cities",
+      "các thành phố tăng trưởng nhanh"
+    ],
+    [
+      "crowded slums",
+      "khu ổ chuột đông đúc"
+    ],
+    [
+      "toilets, drains and rubbish collection",
+      "nhà vệ sinh, cống thoát và thu gom rác"
+    ],
+    [
+      "diseases such as cholera and diarrhoea spread easily",
+      "bệnh như tả và tiêu chảy lan dễ dàng"
+    ],
+    [
+      "Rapid migration",
+      "di cư nhanh"
+    ],
+    [
+      "outpaces the building of basic services",
+      "vượt nhanh hơn việc xây dịch vụ cơ bản"
+    ],
+    [
+      "informal areas outside official planning",
+      "khu phi chính thức ngoài quy hoạch chính thức"
+    ],
+    [
+      "weak local governments",
+      "chính quyền địa phương yếu"
+    ],
+    [
+      "lack the money or authority",
+      "thiếu tiền hoặc thẩm quyền"
+    ],
+    [
+      "waste can easily reach drinking water",
+      "chất thải dễ dàng tới nguồn nước uống"
+    ],
+    [
+      "legal rights to their land",
+      "quyền pháp lý đối với đất của họ"
+    ],
+    [
+      "fear eviction",
+      "sợ bị đuổi"
+    ],
+    [
+      "permanent improvements",
+      "cải tạo lâu dài"
+    ],
+    [
+      "High housing costs and low incomes",
+      "chi phí nhà ở cao và thu nhập thấp"
+    ],
+    [
+      "upgrading existing settlements",
+      "nâng cấp các khu định cư hiện có"
+    ],
+    [
+      "step by step",
+      "từng bước"
+    ],
+    [
+      "legal recognition",
+      "sự công nhận pháp lý"
+    ],
+    [
+      "community participation",
+      "sự tham gia của cộng đồng"
+    ],
+    [
+      "affordable housing",
+      "nhà ở giá phải chăng"
+    ],
+    [
+      "safe waste disposal",
+      "xử lý rác an toàn"
+    ]
+  ]
+}

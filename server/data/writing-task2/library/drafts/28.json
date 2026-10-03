@@ -1,0 +1,129 @@
+{
+  "questionId": 28,
+  "text": "In many countries patients can choose between public hospitals and private clinics paid for by insurance or by themselves. This essay will discuss the main advantages and disadvantages of private healthcare before explaining my own view.\n\nOn the positive side, private healthcare offers shorter waiting times and more choice. Patients who pay can often see a specialist within days, choose their doctor and enjoy comfortable facilities, and competition encourages clinics to adopt new equipment and improve service. A patient who needs a knee replacement, for example, may be treated within weeks in a private hospital but wait a year in a public one. The public system is also relieved of some pressure, because privately treated patients do not use its beds. In addition, private hospitals often invest quickly in modern machines and training, which can benefit the whole medical field.\n\nOn the negative side, however, a profit-driven system can leave the poor behind. Those who can pay receive faster and better care while others wait, which creates a two-tier system. Companies may encourage unnecessary tests or neglect conditions that make little profit, and private clinics can draw doctors away from public hospitals, making shortages worse where they are most serious. A family without insurance, for example, may delay taking a sick child to a doctor until the illness becomes serious. Private care can also be very expensive, and insurance premiums rise sharply with age and illness.\n\nIn conclusion, private healthcare brings speed and choice, but it risks inequality and weaker public services. On balance, I believe that it is acceptable as a supplement to a strong public system, but it should not replace it.",
+  "analysis": {
+    "type_vi": "A/D: ưu và nhược điểm của y tế tư nhân",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài mô tả thực tế (bệnh nhân chọn bệnh viện công hay phòng khám tư trả bằng bảo hiểm hoặc tự trả) rồi báo thảo luận ưu và nhược điểm; kết luận 'bổ trợ, không thay thế'.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Chờ ngắn hơn, chọn bác sĩ, cơ sở thoải mái; cạnh tranh thúc đẩy thiết bị mới; giảm áp lực lên hệ thống công. Ví dụ thay khớp gối trong vài tuần ở bệnh viện tư so với một năm ở bệnh viện công.",
+        "refs": [
+          "ID-health-private-pro",
+          "EX-health-knee-wait"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Hệ thống hai tầng: người trả được chăm sóc nhanh hơn, người khác chờ; lợi nhuận thúc đẩy xét nghiệm thừa, bỏ qua bệnh không sinh lời; hút bác sĩ khỏi bệnh viện công; phí bảo hiểm tăng theo tuổi. Ví dụ gia đình không có bảo hiểm trì hoãn đưa con ốm đi khám.",
+        "refs": [
+          "ID-health-private-con",
+          "ID-health-cost-sharing",
+          "EX-health-no-insurance"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Y tế tư nhanh và có lựa chọn nhưng nguy cơ bất bình đẳng; chấp nhận như phần bổ sung cho hệ thống công mạnh.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-private-pro",
+      "ID-health-private-con",
+      "EX-health-knee-wait",
+      "EX-health-no-insurance"
+    ]
+  },
+  "chunks": [
+    [
+      "public hospitals and private clinics",
+      "bệnh viện công và phòng khám tư"
+    ],
+    [
+      "paid for by insurance",
+      "được trả bằng bảo hiểm"
+    ],
+    [
+      "private healthcare",
+      "y tế tư nhân"
+    ],
+    [
+      "shorter waiting times and more choice",
+      "thời gian chờ ngắn hơn và nhiều lựa chọn hơn"
+    ],
+    [
+      "see a specialist within days",
+      "gặp chuyên gia trong vài ngày"
+    ],
+    [
+      "comfortable facilities",
+      "cơ sở vật chất thoải mái"
+    ],
+    [
+      "adopt new equipment",
+      "áp dụng thiết bị mới"
+    ],
+    [
+      "a knee replacement",
+      "ca thay khớp gối"
+    ],
+    [
+      "relieved of some pressure",
+      "bớt một phần áp lực"
+    ],
+    [
+      "invest quickly in modern machines and training",
+      "nhanh chóng đầu tư máy móc hiện đại và đào tạo"
+    ],
+    [
+      "a profit-driven system",
+      "hệ thống chạy theo lợi nhuận"
+    ],
+    [
+      "leave the poor behind",
+      "bỏ lại người nghèo"
+    ],
+    [
+      "a two-tier system",
+      "hệ thống hai tầng"
+    ],
+    [
+      "unnecessary tests",
+      "xét nghiệm không cần thiết"
+    ],
+    [
+      "make little profit",
+      "ít lợi nhuận"
+    ],
+    [
+      "draw doctors away from public hospitals",
+      "kéo bác sĩ rời bệnh viện công"
+    ],
+    [
+      "shortages worse",
+      "thiếu hụt tệ hơn"
+    ],
+    [
+      "delay taking a sick child to a doctor",
+      "trì hoãn đưa đứa trẻ ốm đi khám"
+    ],
+    [
+      "insurance premiums rise sharply",
+      "phí bảo hiểm tăng mạnh"
+    ],
+    [
+      "a supplement to a strong public system",
+      "phần bổ sung cho hệ thống công mạnh"
+    ]
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "questionId": 261,
+  "text": "The Olympic Games, the football World Cup and other international sporting events cost host countries enormous sums, and some people say that they are a waste of money. I disagree with this view, since they can inspire people and promote understanding between nations, although careful planning is essential.\n\nTo begin with, international sporting events can inspire people and promote understanding between nations. They create national pride, encourage young people to take up sport, and bring visitors and cultural exchange. Athletes from rival countries share a stage and a set of rules, and the sight of peaceful competition can reduce prejudice. When a local athlete wins a medal, for example, thousands of children may be inspired to join clubs, which improves health for years afterwards. Events also give nations a chance to show their culture to a worldwide audience. The shared experience of watching and celebrating can unite people across social divisions.\n\nFurthermore, events can bring economic benefits. Visitors spend money on hotels, restaurants and transport, jobs are created in construction and tourism, and new stadiums, roads and rail links may remain after the event and be used by residents. However, the costs are real. Some stadiums built for large tournaments are rarely used afterwards, leaving cities with debts, and money spent on a sporting festival might otherwise have funded schools or hospitals. For this reason, hosts should use existing venues, share events between cities and control budgets strictly. When planned carefully, international events can be a sound investment rather than a waste.\n\nIn conclusion, I disagree that international sporting events are a waste of money, because they inspire people and bring lasting benefits, provided that they are carefully planned and costs are controlled.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: sự kiện thể thao quốc tế là lãng phí tiền — disagree (có điều kiện)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu ví dụ quen thuộc (Thế vận hội, World Cup) và tốn kém khổng lồ rồi disagree + lý do + nhượng bộ (cần lập kế hoạch cẩn thận).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — truyền cảm hứng và thấu hiểu",
+        "think": "Tự hào quốc gia, khuyến khích người trẻ tập thể thao, du khách và giao lưu văn hoá; vận động viên từ nước đối thủ chia sẻ sân chơi, giảm định kiến. Ví dụ vận động viên địa phương thắng huy chương truyền cảm hứng hàng nghìn trẻ vào câu lạc bộ.",
+        "refs": [
+          "ID-sport-intl-events",
+          "ID-sport-society",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — lợi ích kinh tế + chi phí",
+        "think": "Du khách chi tiêu, việc làm xây dựng và du lịch, cơ sở hạ tầng còn lại. Giới hạn: sân vận động ít dùng gây nợ; tiền có thể dùng cho trường học, bệnh viện; cách giảm: dùng địa điểm sẵn có, chia sẻ giữa các thành phố, kiểm soát ngân sách.",
+        "refs": [
+          "ID-sport-events-economy",
+          "ID-env-other-priorities",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không lãng phí nếu lập kế hoạch cẩn thận và kiểm soát chi phí.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-intl-events"
+    ]
+  },
+  "chunks": [
+    [
+      "The Olympic Games, the football World Cup",
+      "Thế vận hội, World Cup bóng đá"
+    ],
+    [
+      "international sporting events",
+      "sự kiện thể thao quốc tế"
+    ],
+    [
+      "cost host countries enormous sums",
+      "tiêu tốn của nước chủ nhà khoản tiền khổng lồ"
+    ],
+    [
+      "a waste of money",
+      "lãng phí tiền bạc"
+    ],
+    [
+      "inspire people",
+      "truyền cảm hứng cho mọi người"
+    ],
+    [
+      "promote understanding between nations",
+      "thúc đẩy sự hiểu biết giữa các quốc gia"
+    ],
+    [
+      "encourage young people to take up sport",
+      "khuyến khích người trẻ chơi thể thao"
+    ],
+    [
+      "cultural exchange",
+      "giao lưu văn hoá"
+    ],
+    [
+      "rival countries",
+      "các nước đối thủ"
+    ],
+    [
+      "peaceful competition",
+      "cạnh tranh hoà bình"
+    ],
+    [
+      "reduce prejudice",
+      "giảm định kiến"
+    ],
+    [
+      "wins a medal",
+      "giành huy chương"
+    ],
+    [
+      "a worldwide audience",
+      "khán giả toàn thế giới"
+    ],
+    [
+      "unite people across social divisions",
+      "đoàn kết mọi người vượt qua chia rẽ xã hội"
+    ],
+    [
+      "bring economic benefits",
+      "mang lại lợi ích kinh tế"
+    ],
+    [
+      "jobs are created in construction and tourism",
+      "việc làm được tạo ra trong xây dựng và du lịch"
+    ],
+    [
+      "rarely used afterwards",
+      "hiếm khi được dùng sau đó"
+    ],
+    [
+      "use existing venues",
+      "dùng địa điểm sẵn có"
+    ],
+    [
+      "control budgets strictly",
+      "kiểm soát ngân sách chặt chẽ"
+    ],
+    [
+      "a sound investment rather than a waste",
+      "khoản đầu tư hợp lý thay vì lãng phí"
+    ]
+  ]
+}

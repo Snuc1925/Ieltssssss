@@ -1,0 +1,131 @@
+{
+  "questionId": 324,
+  "text": "Stress, depression and burnout are among the leading reasons for absence from work, and many employees are afraid to admit that they are struggling. This essay will suggest practical measures that governments could take, focusing on laws and standards for employers and on services and awareness.\n\nTo begin with, governments should require and encourage mentally healthy workplaces. Laws on working hours and workload, free counselling, training for managers, flexible hours and campaigns against stigma help employees to cope before stress becomes illness. An employee who is expected to answer emails late at night, for example, may develop anxiety long before anyone notices, so limits on out-of-hours contact can protect wellbeing. Employers could be required to assess psychological risks, just as they must assess physical hazards, and tax benefits or public recognition could reward companies that do this well. Small firms need advice and templates, since they rarely have specialist staff.\n\nIn addition, authorities should provide accessible services and promote awareness. Affordable counselling and helplines, available outside working hours, give employees somewhere to turn, and mental health first-aid training enables colleagues to recognise warning signs. Public campaigns that present mental illness as a health condition, not a weakness, make workers more willing to ask for help early. Equally important, support for people returning to work after illness, such as gradual return plans, prevents relapse. Such measures cost less than the loss of productivity and the sick pay that result from untreated problems, and they help to retain experienced staff.\n\nIn conclusion, setting clear workplace standards and providing accessible services and awareness campaigns offer the most realistic way of supporting mental health in the workplace.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ hỗ trợ sức khoẻ tâm thần nơi làm việc",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Hai nhóm: luật và chuẩn mực cho nhà tuyển dụng; dịch vụ và nâng cao nhận thức. Mở bài nêu vấn đề (căng thẳng, trầm cảm, kiệt sức là lý do nghỉ việc hàng đầu; nhân viên sợ thừa nhận).",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — luật và chuẩn mực",
+        "think": "Luật về giờ làm và khối lượng, tư vấn miễn phí, đào tạo quản lý, giờ linh hoạt; ví dụ nhân viên phải trả lời email muộn có thể lo âu sớm nên hạn chế liên lạc ngoài giờ; yêu cầu đánh giá rủi ro tâm lý như rủi ro thể chất; ưu đãi thuế hoặc ghi nhận công khai; hỗ trợ doanh nghiệp nhỏ bằng mẫu và lời khuyên.",
+        "refs": [
+          "ID-health-workplace-mental",
+          "EX-health-overworked-employee",
+          "ID-env-gov-rules",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — dịch vụ và nhận thức",
+        "think": "Tư vấn và đường dây nóng giá phải chăng ngoài giờ làm; đào tạo sơ cứu tâm thần cho đồng nghiệp; chiến dịch coi bệnh tâm thần là tình trạng sức khoẻ; kế hoạch trở lại làm việc dần dần chống tái phát; chi phí thấp hơn mất năng suất.",
+        "refs": [
+          "ID-health-mental-neglected",
+          "ID-health-campaign-reach",
+          "ID-health-free-mental",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-workplace-mental",
+      "EX-health-overworked-employee"
+    ]
+  },
+  "chunks": [
+    [
+      "Stress, depression and burnout",
+      "căng thẳng, trầm cảm và kiệt sức"
+    ],
+    [
+      "leading reasons for absence from work",
+      "lý do nghỉ làm hàng đầu"
+    ],
+    [
+      "afraid to admit that they are struggling",
+      "sợ thừa nhận rằng mình đang gặp khó khăn"
+    ],
+    [
+      "mental health in the workplace",
+      "sức khoẻ tâm thần nơi làm việc"
+    ],
+    [
+      "mentally healthy workplaces",
+      "nơi làm việc lành mạnh về tinh thần"
+    ],
+    [
+      "Laws on working hours and workload",
+      "luật về giờ làm và khối lượng công việc"
+    ],
+    [
+      "training for managers",
+      "đào tạo cho quản lý"
+    ],
+    [
+      "campaigns against stigma",
+      "chiến dịch chống kỳ thị"
+    ],
+    [
+      "before stress becomes illness",
+      "trước khi căng thẳng trở thành bệnh"
+    ],
+    [
+      "answer emails late at night",
+      "trả lời email vào đêm muộn"
+    ],
+    [
+      "develop anxiety",
+      "phát sinh lo âu"
+    ],
+    [
+      "out-of-hours contact",
+      "liên lạc ngoài giờ làm"
+    ],
+    [
+      "assess psychological risks",
+      "đánh giá rủi ro tâm lý"
+    ],
+    [
+      "physical hazards",
+      "mối nguy thể chất"
+    ],
+    [
+      "tax benefits or public recognition",
+      "ưu đãi thuế hoặc sự ghi nhận công khai"
+    ],
+    [
+      "Affordable counselling and helplines",
+      "tư vấn và đường dây nóng giá phải chăng"
+    ],
+    [
+      "mental health first-aid training",
+      "đào tạo sơ cứu tâm thần"
+    ],
+    [
+      "recognise warning signs",
+      "nhận ra dấu hiệu cảnh báo"
+    ],
+    [
+      "a health condition, not a weakness",
+      "một tình trạng sức khoẻ chứ không phải điểm yếu"
+    ],
+    [
+      "gradual return plans",
+      "kế hoạch quay lại làm việc dần dần"
+    ]
+  ]
+}

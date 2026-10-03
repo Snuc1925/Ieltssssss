@@ -1,0 +1,128 @@
+{
+  "questionId": 266,
+  "text": "Smoking harms not only the smoker but also the people around, and governments in many countries are deciding how far to restrict it. I agree that governments should ban smoking in public places, since people have a right to breathe clean air, although some flexibility may be needed outdoors.\n\nTo begin with, non-smokers have a right to breathe clean air. When smoking is allowed in enclosed places such as restaurants, offices and public transport, people who have not chosen to smoke are forced to inhale harmful smoke, which can cause asthma, heart disease and lung cancer. A waiter who works eight hours a day in a smoky restaurant, for example, breathes in harmful smoke even though he has never smoked, and he cannot easily change jobs. Children are especially at risk, since their lungs are still developing. Public places are shared by everyone, so the right to clean air should take priority over the habit of a few.\n\nFurthermore, bans change habits and save money. They make it easier for smokers to cut down or quit, reduce litter from cigarette ends and lower the healthcare costs of smoke-related illness. Admittedly, a total ban limits personal freedom and may be difficult to enforce, particularly in open areas, and many smokers are addicted rather than careless. However, freedom to smoke does not extend to harming others, and designated outdoor areas, away from entrances and children, can balance the rights of smokers and non-smokers. Fines should be reasonable, and help for people who want to stop smoking should be widely available, so that the policy is seen as fair rather than punitive.\n\nIn conclusion, I agree that governments should ban smoking in public places, because it protects non-smokers and improves health, provided that the ban is fair and combined with support for smokers.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: chính phủ nên cấm hút thuốc nơi công cộng — agree (góc quyền và tự do, khác đề 195 là bằng chứng y tế)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu vấn đề (hút thuốc hại cả người xung quanh) rồi agree + lý do (quyền hít không khí sạch) + nhượng bộ (linh hoạt ngoài trời).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — quyền của người không hút thuốc",
+        "think": "Ở nơi kín (nhà hàng, văn phòng, giao thông công cộng) người không hút bị buộc hít khói gây hen, tim, ung thư phổi; trẻ em phổi đang phát triển; nơi công cộng là của mọi người nên quyền không khí sạch ưu tiên hơn thói quen của số ít. Ví dụ người phục vụ nhà hàng.",
+        "refs": [
+          "ID-health-smoking-ban-health",
+          "EX-health-restaurant-smoke",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — thay đổi thói quen, tiết kiệm + nhượng bộ",
+        "think": "Dễ cắt giảm hoặc bỏ thuốc; giảm tàn thuốc vứt bừa; giảm chi phí y tế. Nhượng bộ: hạn chế tự do cá nhân, khó thực thi ngoài trời, nhiều người nghiện; tự do hút không kéo dài đến làm hại người khác; khu vực chỉ định ngoài trời xa lối vào và trẻ em; phạt hợp lý và hỗ trợ bỏ thuốc.",
+        "refs": [
+          "ID-health-smoking-freedom",
+          "ID-health-gov-tools",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý cấm, với điều kiện công bằng và kèm hỗ trợ người hút thuốc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-smoking-freedom"
+    ]
+  },
+  "chunks": [
+    [
+      "harms not only the smoker but also the people around",
+      "hại không chỉ người hút mà cả người xung quanh"
+    ],
+    [
+      "ban smoking in public places",
+      "cấm hút thuốc nơi công cộng"
+    ],
+    [
+      "a right to breathe clean air",
+      "quyền được hít không khí sạch"
+    ],
+    [
+      "some flexibility",
+      "một chút linh hoạt"
+    ],
+    [
+      "enclosed places",
+      "nơi kín"
+    ],
+    [
+      "public transport",
+      "giao thông công cộng"
+    ],
+    [
+      "forced to inhale harmful smoke",
+      "bị buộc hít khói độc hại"
+    ],
+    [
+      "asthma, heart disease and lung cancer",
+      "hen, bệnh tim và ung thư phổi"
+    ],
+    [
+      "cannot easily change jobs",
+      "không dễ đổi việc"
+    ],
+    [
+      "especially at risk",
+      "đặc biệt có nguy cơ"
+    ],
+    [
+      "their lungs are still developing",
+      "phổi của chúng vẫn đang phát triển"
+    ],
+    [
+      "take priority over the habit of a few",
+      "được ưu tiên hơn thói quen của một số ít"
+    ],
+    [
+      "cut down or quit",
+      "giảm hoặc bỏ thuốc"
+    ],
+    [
+      "litter from cigarette ends",
+      "rác từ tàn thuốc"
+    ],
+    [
+      "smoke-related illness",
+      "bệnh liên quan khói thuốc"
+    ],
+    [
+      "limits personal freedom",
+      "hạn chế tự do cá nhân"
+    ],
+    [
+      "addicted rather than careless",
+      "nghiện chứ không phải cẩu thả"
+    ],
+    [
+      "designated outdoor areas",
+      "khu vực ngoài trời được chỉ định"
+    ],
+    [
+      "balance the rights of smokers and non-smokers",
+      "cân bằng quyền của người hút và không hút"
+    ],
+    [
+      "fair rather than punitive",
+      "công bằng thay vì mang tính trừng phạt"
+    ]
+  ]
+}

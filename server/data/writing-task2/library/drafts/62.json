@@ -1,0 +1,131 @@
+{
+  "questionId": 62,
+  "text": "Many adults spend most of the day sitting, and physical inactivity is linked to heart disease, diabetes and depression. This essay will suggest practical measures that governments could take, focusing on making exercise easier in everyday life and on encouraging people through schools, workplaces and campaigns.\n\nTo begin with, governments should make exercise easy, affordable and enjoyable. Free or cheap facilities, safe cycle lanes and walkable neighbourhoods remove the barriers of cost, time and safety. A city that builds safe cycle lanes, for example, makes it easy for workers to exercise on the way to the office, without needing to set aside extra time. Parks, public gyms and pools in every district give people choices near their homes, and subsidised club fees help low-income families. Planning rules can also require new housing to include green space and paths for walking and cycling.\n\nIn addition, authorities should encourage activity through schools, workplaces and communication. Daily physical education, with enjoyable activities rather than only competitive games, builds habits that last into adulthood. Companies can be given tax benefits for offering sports facilities or active breaks, and public campaigns can show how small amounts of exercise, such as a brisk walk, bring real health benefits. Equally important, local clubs, walking groups and community events help people to exercise together, which makes it easier to stay motivated. These measures cost much less than treating the diseases caused by inactivity, and they also improve mental health. Small changes repeated by millions of people add up to a healthier country.\n\nIn conclusion, improving facilities and everyday environments and encouraging activity in schools and workplaces offer the most realistic way of getting people to exercise more.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ khuyến khích người dân tập thể dục nhiều hơn",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu vấn đề (người lớn ngồi cả ngày, ít vận động liên quan bệnh tim, tiểu đường, trầm cảm); hai nhóm: làm cho vận động dễ trong đời sống hằng ngày; khuyến khích qua trường, nơi làm việc, truyền thông.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — dễ, rẻ, thú vị",
+        "think": "Cơ sở miễn phí hoặc rẻ, làn xe đạp an toàn, khu phố dễ đi bộ gỡ rào cản chi phí, thời gian, an toàn. Ví dụ thành phố xây làn xe đạp giúp người đi làm tập thể dục trên đường. Công viên, phòng tập công, hồ bơi mỗi quận; trợ giá phí câu lạc bộ; quy hoạch bắt buộc không gian xanh.",
+        "refs": [
+          "ID-sport-encourage",
+          "EX-sport-cycle-commute",
+          "ID-env-gov-infrastructure",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — trường, nơi làm việc, truyền thông",
+        "think": "Thể dục hằng ngày thú vị; ưu đãi thuế cho công ty có cơ sở thể thao hoặc giờ nghỉ vận động; chiến dịch cho thấy đi bộ nhanh cũng có lợi; câu lạc bộ địa phương, nhóm đi bộ giúp duy trì động lực; chi phí thấp hơn điều trị bệnh do ít vận động.",
+        "refs": [
+          "ID-health-campaign-reach",
+          "ID-health-gov-tools",
+          "ID-health-prevention-cheaper",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-encourage",
+      "EX-sport-cycle-commute"
+    ]
+  },
+  "chunks": [
+    [
+      "spend most of the day sitting",
+      "ngồi gần hết cả ngày"
+    ],
+    [
+      "physical inactivity",
+      "lười vận động"
+    ],
+    [
+      "linked to heart disease, diabetes and depression",
+      "liên quan đến bệnh tim, tiểu đường và trầm cảm"
+    ],
+    [
+      "encourage people to exercise more",
+      "khuyến khích mọi người tập thể dục nhiều hơn"
+    ],
+    [
+      "make exercise easy, affordable and enjoyable",
+      "làm tập thể dục dễ, rẻ và thú vị"
+    ],
+    [
+      "Free or cheap facilities",
+      "cơ sở miễn phí hoặc giá rẻ"
+    ],
+    [
+      "safe cycle lanes",
+      "làn xe đạp an toàn"
+    ],
+    [
+      "walkable neighbourhoods",
+      "khu phố dễ đi bộ"
+    ],
+    [
+      "the barriers of cost, time and safety",
+      "rào cản về chi phí, thời gian và an toàn"
+    ],
+    [
+      "set aside extra time",
+      "dành thêm thời gian"
+    ],
+    [
+      "public gyms and pools",
+      "phòng tập và hồ bơi công cộng"
+    ],
+    [
+      "subsidised club fees",
+      "phí câu lạc bộ được trợ giá"
+    ],
+    [
+      "green space and paths for walking and cycling",
+      "không gian xanh và lối đi bộ, đi xe đạp"
+    ],
+    [
+      "Daily physical education",
+      "giáo dục thể chất hằng ngày"
+    ],
+    [
+      "build habits that last into adulthood",
+      "xây thói quen kéo dài đến tuổi trưởng thành"
+    ],
+    [
+      "tax benefits",
+      "ưu đãi thuế"
+    ],
+    [
+      "active breaks",
+      "giờ nghỉ vận động"
+    ],
+    [
+      "a brisk walk",
+      "một cuộc đi bộ nhanh"
+    ],
+    [
+      "walking groups",
+      "nhóm đi bộ"
+    ],
+    [
+      "stay motivated",
+      "giữ động lực"
+    ]
+  ]
+}

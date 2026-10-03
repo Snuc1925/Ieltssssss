@@ -1,0 +1,128 @@
+{
+  "questionId": 195,
+  "text": "Many countries have banned smoking in restaurants, offices and other public places, and some people believe that these bans improve public health. I largely agree, since they reduce exposure to smoke and help people to quit, although the size of the effect depends on how well the bans are enforced.\n\nTo begin with, smoking bans reduce exposure to harmful smoke and encourage people to quit. Second-hand smoke causes heart disease, lung disease and asthma among non-smokers, and when smoking is no longer allowed in public it becomes less normal and harder to continue. A waiter who works eight hours a day in a smoky restaurant, for example, breathes in harmful smoke even though he has never smoked, and a ban removes that risk completely. After bans were introduced in several countries, hospitals reported fewer admissions for heart attacks and breathing problems, which suggests that the policy works. Fewer opportunities to smoke also help smokers who are trying to cut down.\n\nFurthermore, bans protect groups who cannot choose. Children, pregnant women and people with asthma suffer most from smoky air, and employees often cannot avoid it. Bans also change social attitudes, so that young people are less likely to see smoking as normal and start the habit. However, bans cannot work on their own. Smokers who are addicted need support, such as help with quitting and higher taxes on tobacco, and rules must be enforced fairly or they will be ignored. Smoking at home, where children may still be exposed, is also hard to control and needs education rather than law.\n\nIn conclusion, public smoking bans improve public health to a large extent by reducing exposure and encouraging quitting, provided that they are enforced and supported by help for smokers.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): cấm hút thuốc nơi công cộng cải thiện sức khoẻ cộng đồng — largely agree (góc bằng chứng y tế)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu thực tế (nhiều nước cấm ở nhà hàng, văn phòng) rồi largely agree + lý do + giới hạn (phụ thuộc thực thi). Góc bằng chứng sức khoẻ, khác đề 266 (quyền và tự do).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giảm khói và khuyến khích bỏ thuốc",
+        "think": "Khói thuốc thụ động gây bệnh tim, phổi, hen ở người không hút; cấm làm hút thuốc kém bình thường. Ví dụ người phục vụ làm tám giờ trong nhà hàng đầy khói. Sau khi một số nước cấm, bệnh viện báo giảm nhập viện vì nhồi máu cơ tim và vấn đề hô hấp.",
+        "refs": [
+          "ID-health-smoking-ban-health",
+          "EX-health-restaurant-smoke",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — bảo vệ nhóm không chọn được + giới hạn",
+        "think": "Trẻ em, phụ nữ có thai, người hen chịu nhiều nhất; nhân viên không tránh được; thay đổi thái độ xã hội. Giới hạn: người nghiện cần hỗ trợ bỏ thuốc và thuế cao; thực thi công bằng; hút ở nhà khó kiểm soát, cần giáo dục.",
+        "refs": [
+          "ID-health-gov-tools",
+          "ID-health-smoking-freedom",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện sức khoẻ ở mức độ lớn nếu được thực thi và hỗ trợ người hút thuốc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-smoking-ban-health",
+      "EX-health-restaurant-smoke"
+    ]
+  },
+  "chunks": [
+    [
+      "banned smoking in restaurants, offices and other public places",
+      "cấm hút thuốc ở nhà hàng, văn phòng và nơi công cộng khác"
+    ],
+    [
+      "improve public health",
+      "cải thiện sức khoẻ cộng đồng"
+    ],
+    [
+      "reduce exposure to harmful smoke",
+      "giảm tiếp xúc với khói độc hại"
+    ],
+    [
+      "help people to quit",
+      "giúp người ta bỏ thuốc"
+    ],
+    [
+      "Second-hand smoke",
+      "khói thuốc thụ động"
+    ],
+    [
+      "heart disease, lung disease and asthma",
+      "bệnh tim, bệnh phổi và hen"
+    ],
+    [
+      "non-smokers",
+      "người không hút thuốc"
+    ],
+    [
+      "less normal and harder to continue",
+      "kém bình thường và khó tiếp tục hơn"
+    ],
+    [
+      "a smoky restaurant",
+      "nhà hàng đầy khói"
+    ],
+    [
+      "breathes in harmful smoke",
+      "hít khói độc hại"
+    ],
+    [
+      "fewer admissions for heart attacks",
+      "ít ca nhập viện vì nhồi máu cơ tim hơn"
+    ],
+    [
+      "breathing problems",
+      "vấn đề hô hấp"
+    ],
+    [
+      "cut down",
+      "giảm bớt"
+    ],
+    [
+      "groups who cannot choose",
+      "những nhóm không thể lựa chọn"
+    ],
+    [
+      "Children, pregnant women and people with asthma",
+      "trẻ em, phụ nữ có thai và người bị hen"
+    ],
+    [
+      "change social attitudes",
+      "thay đổi thái độ xã hội"
+    ],
+    [
+      "higher taxes on tobacco",
+      "thuế thuốc lá cao hơn"
+    ],
+    [
+      "enforced fairly",
+      "được thực thi công bằng"
+    ],
+    [
+      "hard to control",
+      "khó kiểm soát"
+    ],
+    [
+      "supported by help for smokers",
+      "được hỗ trợ bằng sự giúp đỡ cho người hút thuốc"
+    ]
+  ]
+}

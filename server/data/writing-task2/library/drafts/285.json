@@ -1,0 +1,127 @@
+{
+  "questionId": 285,
+  "text": "Footballers, tennis players and basketball stars can earn more in a week than most people earn in a lifetime, and opinions differ on whether this is fair. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who think that professional athletes deserve their pay argue that top athletes are paid according to the revenue they create. Their careers are short, often ending before the age of forty, and injury is a constant risk. Rare talent attracts huge audiences and sponsorship, so clubs, broadcasters and advertisers earn far more than the players, and it seems reasonable that the athletes share in these profits. A player who spends fifteen years training and sacrifices a normal childhood, for example, has earned the right to be well rewarded when success comes. In a free market, pay reflects what people are willing to pay to watch.\n\nOn the other hand, critics point out that nurses and teachers, who serve society directly, earn far less. The market rewards entertainment more than public service, which many people find unfair. Enormous salaries can also distort priorities, encouraging clubs to spend huge sums on single players and pushing ticket prices out of reach of ordinary fans. Athletes are role models, and critics argue that extreme wealth may set an unhealthy example to young people about what matters in life. A nurse who saves lives every day on a modest salary, for instance, may feel undervalued next to a player paid millions to kick a ball.\n\nIn conclusion, both views have merit. Personally, I believe that top athletes are paid fairly by market standards, but that societies should do more to reward essential jobs such as nursing and teaching.",
+  "analysis": {
+    "type_vi": "Discuss both views: vận động viên chuyên nghiệp có kiếm quá nhiều không",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế gây chú ý (kiếm trong một tuần nhiều hơn người thường cả đời); mỗi thân bài một phía.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe 'xứng đáng'",
+        "think": "Được trả theo doanh thu tạo ra; sự nghiệp ngắn, thường kết thúc trước bốn mươi tuổi; chấn thương luôn rình rập; tài năng hiếm thu hút khán giả và nhà tài trợ nên câu lạc bộ, đài truyền hình, nhà quảng cáo kiếm nhiều hơn cầu thủ; thị trường tự do. Ví dụ cầu thủ tập mười lăm năm hy sinh tuổi thơ bình thường.",
+        "refs": [
+          "ID-sport-athlete-pay",
+          "ID-sport-society"
+        ]
+      },
+      {
+        "step": "3. Phe phê phán",
+        "think": "Y tá và giáo viên phục vụ xã hội trực tiếp lương thấp hơn nhiều; thị trường thưởng giải trí hơn phục vụ công; lương khổng lồ bóp méo ưu tiên, đẩy giá vé khỏi tầm với; vận động viên là hình mẫu nên giàu có cực đoan có thể truyền ý tưởng không lành mạnh. Ví dụ y tá cứu người mỗi ngày với lương khiêm tốn.",
+        "refs": [
+          "ID-sport-overrated",
+          "ID-health-foundation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vận động viên hàng đầu được trả hợp lý theo tiêu chuẩn thị trường nhưng xã hội nên thưởng nhiều hơn cho nghề thiết yếu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-athlete-pay"
+    ]
+  },
+  "chunks": [
+    [
+      "earn more in a week than most people earn in a lifetime",
+      "kiếm trong một tuần nhiều hơn người thường kiếm cả đời"
+    ],
+    [
+      "deserve their pay",
+      "xứng đáng với mức lương của họ"
+    ],
+    [
+      "paid according to the revenue they create",
+      "được trả theo doanh thu họ tạo ra"
+    ],
+    [
+      "Their careers are short",
+      "sự nghiệp của họ ngắn"
+    ],
+    [
+      "a constant risk",
+      "rủi ro thường trực"
+    ],
+    [
+      "Rare talent attracts huge audiences and sponsorship",
+      "tài năng hiếm thu hút lượng khán giả và tài trợ lớn"
+    ],
+    [
+      "share in these profits",
+      "chia sẻ lợi nhuận này"
+    ],
+    [
+      "sacrifices a normal childhood",
+      "hy sinh tuổi thơ bình thường"
+    ],
+    [
+      "well rewarded",
+      "được thưởng xứng đáng"
+    ],
+    [
+      "a free market",
+      "thị trường tự do"
+    ],
+    [
+      "willing to pay to watch",
+      "sẵn sàng trả tiền để xem"
+    ],
+    [
+      "serve society directly",
+      "phục vụ xã hội trực tiếp"
+    ],
+    [
+      "rewards entertainment more than public service",
+      "thưởng cho giải trí nhiều hơn phục vụ cộng đồng"
+    ],
+    [
+      "distort priorities",
+      "làm méo mó các ưu tiên"
+    ],
+    [
+      "out of reach of ordinary fans",
+      "ngoài tầm với của cổ động viên bình thường"
+    ],
+    [
+      "role models",
+      "hình mẫu"
+    ],
+    [
+      "an unhealthy example",
+      "tấm gương không lành mạnh"
+    ],
+    [
+      "saves lives every day",
+      "cứu mạng người mỗi ngày"
+    ],
+    [
+      "undervalued",
+      "không được trân trọng"
+    ],
+    [
+      "paid fairly by market standards",
+      "được trả công bằng theo chuẩn thị trường"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "questionId": 213,
+  "text": "Gene editing, which allows scientists to change the DNA of living cells, has moved quickly from the laboratory towards the clinic. I believe that it will affect healthcare considerably over the next twenty years, mainly by treating inherited diseases, although its impact will be limited by safety, cost and ethical concerns.\n\nFirst and foremost, gene editing could cure inherited diseases at their source. Scientists can already change faulty genes in blood and other cells, which may allow treatments for conditions such as sickle cell disease, and trials are exploring therapies for eye disorders and some cancers. Instead of managing symptoms for life, doctors may be able to correct the cause with a single treatment. A child born with a serious blood disorder, for example, might one day be treated once and live a normal life. As techniques become more precise, the range of treatable conditions is likely to grow, and new medicines may be developed more quickly.\n\nHowever, the impact will be limited. Early treatments are extremely expensive, so only wealthy patients and countries may benefit unless prices fall or public systems pay. Editing the wrong place in the genome could cause new illnesses, and long-term effects are still unknown. There are also ethical worries, especially about changing genes that pass to future generations, or using the technology to choose children's characteristics rather than to treat disease. Strict rules and open debate will therefore be needed.\n\nIn conclusion, gene editing is likely to affect healthcare to a large extent by treating some inherited diseases, but safety, expense and ethics will determine how widely and how fairly its benefits are shared.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): chỉnh sửa gen ảnh hưởng chăm sóc sức khoẻ đến đâu trong 20 năm tới",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán",
+        "think": "Lập trường 'ảnh hưởng đáng kể, chủ yếu qua bệnh di truyền' + 'although' (giới hạn an toàn, chi phí, đạo đức).",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực — chữa bệnh di truyền",
+        "think": "Có thể sửa gen lỗi trong tế bào máu, mở ra điều trị bệnh hồng cầu hình liềm, thử nghiệm bệnh mắt và một số ung thư; thay vì kiểm soát triệu chứng cả đời có thể sửa nguyên nhân bằng một lần điều trị. Ví dụ đứa trẻ rối loạn máu nặng được điều trị một lần.",
+        "refs": [
+          "ID-health-gene-editing",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Điều trị ban đầu rất đắt; sửa nhầm vị trí có thể gây bệnh mới; chưa biết tác động dài hạn; lo ngại đạo đức: thay gen truyền cho thế hệ sau, chọn đặc điểm của con. Cần quy tắc chặt và tranh luận công khai.",
+        "refs": [
+          "ID-health-gene-editing",
+          "ID-health-cost-sharing",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng ở mức độ lớn với một số bệnh di truyền; an toàn, chi phí và đạo đức quyết định mức độ và sự công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-gene-editing"
+    ]
+  },
+  "chunks": [
+    [
+      "Gene editing",
+      "chỉnh sửa gen"
+    ],
+    [
+      "change the DNA of living cells",
+      "thay đổi DNA của tế bào sống"
+    ],
+    [
+      "from the laboratory towards the clinic",
+      "từ phòng thí nghiệm tiến tới phòng khám"
+    ],
+    [
+      "inherited diseases",
+      "bệnh di truyền"
+    ],
+    [
+      "safety, cost and ethical concerns",
+      "lo ngại về an toàn, chi phí và đạo đức"
+    ],
+    [
+      "at their source",
+      "tại nguồn gốc"
+    ],
+    [
+      "faulty genes",
+      "gen lỗi"
+    ],
+    [
+      "sickle cell disease",
+      "bệnh hồng cầu hình liềm"
+    ],
+    [
+      "therapies for eye disorders",
+      "liệu pháp cho rối loạn về mắt"
+    ],
+    [
+      "managing symptoms for life",
+      "kiểm soát triệu chứng suốt đời"
+    ],
+    [
+      "correct the cause with a single treatment",
+      "sửa nguyên nhân bằng một lần điều trị"
+    ],
+    [
+      "a serious blood disorder",
+      "rối loạn máu nghiêm trọng"
+    ],
+    [
+      "more precise",
+      "chính xác hơn"
+    ],
+    [
+      "the range of treatable conditions",
+      "phạm vi bệnh có thể điều trị"
+    ],
+    [
+      "extremely expensive",
+      "cực kỳ đắt"
+    ],
+    [
+      "Editing the wrong place in the genome",
+      "chỉnh sửa nhầm chỗ trong bộ gen"
+    ],
+    [
+      "long-term effects are still unknown",
+      "tác động dài hạn vẫn chưa rõ"
+    ],
+    [
+      "pass to future generations",
+      "truyền sang thế hệ sau"
+    ],
+    [
+      "choose children's characteristics",
+      "chọn đặc điểm của con cái"
+    ],
+    [
+      "open debate",
+      "tranh luận công khai"
+    ]
+  ]
+}

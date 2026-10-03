@@ -1,0 +1,128 @@
+{
+  "questionId": 455,
+  "text": "Watches that count heartbeats and patches that measure blood sugar are becoming common, and I believe that wearable health technology will change patient monitoring considerably over the next twenty years, although it will not replace regular medical care.\n\nFirst and foremost, wearable devices allow continuous monitoring outside hospital. Watches and patches record heart rate, blood sugar and sleep all day, warn of problems early and let patients with long-term illness manage their condition at home. A watch that detects an irregular heartbeat, for example, may prompt its wearer to see a doctor before a stroke occurs. Instead of a single reading in a clinic every few months, doctors will see trends over weeks, which gives a far more accurate picture of a patient's health. Hospitals could then send patients home earlier, with their condition watched remotely.\n\nIn addition, wearables will become smaller, cheaper and more powerful. Artificial intelligence will analyse the data and alert doctors only when something changes, so that patients get help in time and doctors are not overwhelmed. This approach is especially valuable for older people and those with heart disease or diabetes. However, there are limits. Some devices are not accurate enough for medical decisions, large amounts of data may overload doctors, and privacy and security of personal information are serious concerns. Older or poorer patients may also find the technology difficult or too costly to use. Training and subsidies would help to prevent a gap between those who benefit and those who do not.\n\nIn conclusion, wearable health technology is likely to change patient monitoring to a large extent by enabling continuous, remote and early detection, provided that accuracy, privacy and fair access are ensured.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): thiết bị đeo thay đổi theo dõi bệnh nhân đến đâu trong 20 năm tới",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán",
+        "think": "Mở bài bằng hình ảnh quen thuộc (đồng hồ đếm nhịp tim, miếng dán đo đường huyết) rồi lập trường 'thay đổi đáng kể' + 'although' (không thay thế chăm sóc thường xuyên).",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực 1 — theo dõi liên tục",
+        "think": "Ghi nhịp tim, đường huyết, giấc ngủ suốt ngày, cảnh báo sớm, bệnh nhân mạn tính quản lý tại nhà; bác sĩ thấy xu hướng nhiều tuần thay vì một chỉ số mỗi vài tháng; bệnh nhân về nhà sớm hơn. Ví dụ đồng hồ phát hiện nhịp tim không đều.",
+        "refs": [
+          "ID-health-wearables",
+          "EX-health-heart-alert",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Động lực 2 và giới hạn",
+        "think": "Thiết bị nhỏ hơn, rẻ hơn; AI phân tích dữ liệu và chỉ báo khi có thay đổi; giá trị với người già, bệnh tim, tiểu đường. Giới hạn: độ chính xác, quá tải dữ liệu, riêng tư, người già hoặc nghèo khó dùng.",
+        "refs": [
+          "ID-health-tech-diagnosis",
+          "ID-health-telemedicine",
+          "CN-nextPoint-in-addition",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi ở mức độ lớn nếu đảm bảo chính xác, riêng tư và tiếp cận công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-wearables",
+      "EX-health-heart-alert"
+    ]
+  },
+  "chunks": [
+    [
+      "wearable health technology",
+      "công nghệ sức khoẻ đeo được"
+    ],
+    [
+      "patient monitoring",
+      "theo dõi bệnh nhân"
+    ],
+    [
+      "measure blood sugar",
+      "đo đường huyết"
+    ],
+    [
+      "become common",
+      "trở nên phổ biến"
+    ],
+    [
+      "continuous monitoring outside hospital",
+      "theo dõi liên tục ngoài bệnh viện"
+    ],
+    [
+      "heart rate, blood sugar and sleep",
+      "nhịp tim, đường huyết và giấc ngủ"
+    ],
+    [
+      "all day",
+      "cả ngày"
+    ],
+    [
+      "warn of problems early",
+      "cảnh báo vấn đề sớm"
+    ],
+    [
+      "long-term illness",
+      "bệnh mạn tính"
+    ],
+    [
+      "manage their condition at home",
+      "quản lý bệnh tình tại nhà"
+    ],
+    [
+      "an irregular heartbeat",
+      "nhịp tim không đều"
+    ],
+    [
+      "before a stroke occurs",
+      "trước khi đột quỵ xảy ra"
+    ],
+    [
+      "a single reading in a clinic",
+      "một chỉ số đo duy nhất ở phòng khám"
+    ],
+    [
+      "trends over weeks",
+      "xu hướng qua nhiều tuần"
+    ],
+    [
+      "a far more accurate picture",
+      "bức tranh chính xác hơn nhiều"
+    ],
+    [
+      "watched remotely",
+      "được theo dõi từ xa"
+    ],
+    [
+      "smaller, cheaper and more powerful",
+      "nhỏ hơn, rẻ hơn và mạnh hơn"
+    ],
+    [
+      "alert doctors only when something changes",
+      "chỉ báo bác sĩ khi có thay đổi"
+    ],
+    [
+      "not accurate enough for medical decisions",
+      "không đủ chính xác để quyết định y khoa"
+    ],
+    [
+      "overload doctors",
+      "làm bác sĩ quá tải"
+    ]
+  ]
+}

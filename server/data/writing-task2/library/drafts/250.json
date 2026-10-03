@@ -1,0 +1,129 @@
+{
+  "questionId": 250,
+  "text": "Councils and governments spend large sums on sports centres, swimming pools and playing fields, and some argue that such investment improves public health. I largely agree, since good facilities make it easier to be active, although facilities alone are not enough.\n\nTo begin with, local sports facilities increase participation, especially among children and low-income families. A nearby, safe and affordable pitch, pool or gym removes obstacles of distance and cost, and people exercise more when it is convenient. A new public swimming pool in a poorer district, for example, can give hundreds of children a place to exercise that their families could not otherwise afford. More activity means lower rates of obesity, heart disease and diabetes, as well as better mental health, and children who learn to enjoy sport are likely to stay active as adults. Facilities also provide meeting places that reduce loneliness, particularly for older people.\n\nHowever, investment improves health only when it is combined with activities and good management. Facilities that are poorly maintained, unsafe or too expensive are rarely used, and a gleaming stadium built for elite competition does little for ordinary residents. People also need encouragement, such as classes, coaching and programmes for beginners, older people and those with disabilities. Facilities in the wrong places may not reach the groups who need them most. Spending should therefore focus on accessible, community-level facilities, along with cycling routes, parks and education about exercise, so that activity becomes part of normal life.\n\nIn conclusion, investing in sports facilities improves public health to a large extent, provided that they are accessible, well run and supported by programmes that attract the least active.",
+  "analysis": {
+    "type_vi": "Extent: đầu tư cơ sở thể thao cải thiện sức khoẻ cộng đồng — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu bối cảnh (hội đồng và chính phủ chi nhiều cho trung tâm thể thao, hồ bơi, sân) rồi largely agree + giới hạn (cơ sở một mình chưa đủ).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do — tăng tham gia",
+        "think": "Sân, hồ bơi, phòng tập gần, an toàn, giá phải chăng gỡ rào cản khoảng cách và chi phí; người ta tập nhiều hơn khi tiện. Ví dụ hồ bơi công mới ở khu nghèo; ít béo phì, tim, tiểu đường, tâm thần tốt hơn; trẻ yêu thể thao duy trì khi lớn; nơi gặp gỡ giảm cô đơn cho người già.",
+        "refs": [
+          "ID-sport-facilities",
+          "EX-sport-new-pool",
+          "ID-sport-healthy-lifestyle",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chỉ cải thiện sức khoẻ khi kết hợp hoạt động và quản lý tốt; cơ sở bảo trì kém, không an toàn, đắt hiếm được dùng; sân vận động thi đấu đỉnh cao ít giúp người thường; cần lớp học, huấn luyện, chương trình cho người mới, người già, người khuyết tật; đặt đúng nơi; kết hợp đường xe đạp, công viên, giáo dục.",
+        "refs": [
+          "ID-sport-encourage",
+          "ID-health-campaign-limits",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện ở mức độ lớn nếu cơ sở dễ tiếp cận, quản lý tốt và có chương trình thu hút người ít vận động nhất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-facilities",
+      "EX-sport-new-pool"
+    ]
+  },
+  "chunks": [
+    [
+      "sports centres, swimming pools and playing fields",
+      "trung tâm thể thao, hồ bơi và sân chơi"
+    ],
+    [
+      "improves public health",
+      "cải thiện sức khoẻ cộng đồng"
+    ],
+    [
+      "make it easier to be active",
+      "làm việc vận động dễ dàng hơn"
+    ],
+    [
+      "increase participation",
+      "tăng sự tham gia"
+    ],
+    [
+      "low-income families",
+      "gia đình thu nhập thấp"
+    ],
+    [
+      "safe and affordable",
+      "an toàn và vừa túi tiền"
+    ],
+    [
+      "obstacles of distance and cost",
+      "rào cản về khoảng cách và chi phí"
+    ],
+    [
+      "convenient",
+      "thuận tiện"
+    ],
+    [
+      "a poorer district",
+      "khu nghèo hơn"
+    ],
+    [
+      "lower rates of obesity, heart disease and diabetes",
+      "tỷ lệ béo phì, bệnh tim và tiểu đường thấp hơn"
+    ],
+    [
+      "stay active as adults",
+      "giữ vận động khi trưởng thành"
+    ],
+    [
+      "meeting places",
+      "nơi gặp gỡ"
+    ],
+    [
+      "reduce loneliness",
+      "giảm cô đơn"
+    ],
+    [
+      "poorly maintained",
+      "bảo trì kém"
+    ],
+    [
+      "too expensive",
+      "quá đắt"
+    ],
+    [
+      "a gleaming stadium built for elite competition",
+      "sân vận động bóng loáng xây cho thi đấu đỉnh cao"
+    ],
+    [
+      "ordinary residents",
+      "cư dân bình thường"
+    ],
+    [
+      "classes, coaching and programmes for beginners",
+      "lớp học, huấn luyện và chương trình cho người mới"
+    ],
+    [
+      "accessible, community-level facilities",
+      "cơ sở dễ tiếp cận ở cấp cộng đồng"
+    ],
+    [
+      "attract the least active",
+      "thu hút những người ít vận động nhất"
+    ]
+  ]
+}

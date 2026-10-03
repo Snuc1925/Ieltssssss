@@ -1,0 +1,134 @@
+{
+  "questionId": 52,
+  "text": "Opinions are divided as to whether individuals should be responsible for healthy eating or whether society and governments should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that people make the daily choices that shape their own health. Nobody can eat on someone else's behalf, and many illnesses linked to diet, such as type 2 diabetes and heart disease, are largely preventable through sensible habits. Adults can read labels, cook simple meals and limit sweets and fried food, and parents set the example for their children at home. A person who chooses fruit and water instead of biscuits and fizzy drinks, for example, lowers their own risk of illness without needing any law. Taking responsibility also respects personal freedom and encourages independence.\n\nOn the other hand, advocates of government action point out that individual choices are shaped by the environment in which people live. Cheap, heavily advertised, high-calorie food is available on every street, while fresh produce can be expensive or hard to find in poorer areas. People who work long hours or live on low incomes may have little time or money to cook healthy meals. Governments can use education, clear labelling, advertising rules, school meal standards and taxes to make the healthy option the easy and affordable one. A child who is offered a nutritious school lunch every day, for instance, develops better habits without depending on family income.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, since governments should shape the food environment while individuals make the daily choices that determine their health.",
+  "analysis": {
+    "type_vi": "Discuss both views: ăn uống lành mạnh — cá nhân hay xã hội / chính phủ chịu trách nhiệm",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm (dùng lại mô hình đề 10, 32, 92)",
+        "think": "Cùng khung 'Opinions are divided as to whether…' đã dùng cho đề môi trường; chỉ đổi nội dung sang ăn uống. Đây là ví dụ tái sử dụng khung giữa các chủ đề.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Thân bài 1 — cá nhân",
+        "think": "Ý chính: lựa chọn hằng ngày quyết định sức khoẻ; bệnh liên quan ăn uống phần lớn phòng ngừa được; tôn trọng tự do cá nhân. Ví dụ chọn trái cây và nước thay bánh quy và nước ngọt.",
+        "refs": [
+          "ID-health-personal-choice",
+          "ID-env-ind-habits",
+          "EX-health-fruit-water"
+        ]
+      },
+      {
+        "step": "3. Thân bài 2 — chính phủ",
+        "think": "Lựa chọn bị môi trường chi phối: đồ ăn rẻ và quảng cáo dày ở khắp nơi, thực phẩm tươi đắt ở khu nghèo; công cụ của chính phủ: giáo dục, nhãn, quy tắc quảng cáo, bữa ăn học đường, thuế. Ví dụ bữa trưa dinh dưỡng ở trường.",
+        "refs": [
+          "ID-health-environment-shapes",
+          "ID-health-gov-tools",
+          "EX-health-school-lunch"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Mô hình kết hợp: chính phủ định hình môi trường thực phẩm, cá nhân chọn hằng ngày.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-personal-choice",
+      "ID-health-environment-shapes",
+      "ID-health-gov-tools",
+      "EX-health-fruit-water",
+      "EX-health-school-lunch"
+    ]
+  },
+  "chunks": [
+    [
+      "healthy eating",
+      "ăn uống lành mạnh"
+    ],
+    [
+      "supporters of personal responsibility",
+      "người ủng hộ trách nhiệm cá nhân"
+    ],
+    [
+      "make the daily choices that shape their own health",
+      "đưa ra những lựa chọn hằng ngày định hình sức khoẻ của mình"
+    ],
+    [
+      "on someone else's behalf",
+      "thay cho người khác"
+    ],
+    [
+      "illnesses linked to diet",
+      "bệnh liên quan đến chế độ ăn"
+    ],
+    [
+      "type 2 diabetes and heart disease",
+      "tiểu đường type 2 và bệnh tim"
+    ],
+    [
+      "largely preventable",
+      "phần lớn có thể phòng ngừa"
+    ],
+    [
+      "sensible habits",
+      "thói quen hợp lý"
+    ],
+    [
+      "read labels",
+      "đọc nhãn"
+    ],
+    [
+      "limit sweets and fried food",
+      "hạn chế đồ ngọt và đồ chiên"
+    ],
+    [
+      "set the example",
+      "làm gương"
+    ],
+    [
+      "lowers their own risk of illness",
+      "giảm nguy cơ mắc bệnh của chính mình"
+    ],
+    [
+      "respects personal freedom",
+      "tôn trọng tự do cá nhân"
+    ],
+    [
+      "shaped by the environment",
+      "bị môi trường định hình"
+    ],
+    [
+      "Cheap, heavily advertised, high-calorie food",
+      "đồ ăn rẻ, quảng cáo dày, nhiều calo"
+    ],
+    [
+      "hard to find in poorer areas",
+      "khó tìm ở khu nghèo"
+    ],
+    [
+      "work long hours",
+      "làm việc nhiều giờ"
+    ],
+    [
+      "advertising rules",
+      "quy định về quảng cáo"
+    ],
+    [
+      "school meal standards",
+      "tiêu chuẩn bữa ăn học đường"
+    ],
+    [
+      "the healthy option the easy and affordable one",
+      "biến lựa chọn lành mạnh thành lựa chọn dễ và vừa túi tiền"
+    ]
+  ]
+}

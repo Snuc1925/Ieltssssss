@@ -1,0 +1,129 @@
+{
+  "questionId": 96,
+  "text": "Cities compete fiercely to host major sports events, from championship matches to international tournaments, and they expect the events to boost their economies. This essay will explain two key ways in which sports events can benefit local economies: through visitor spending and jobs, and through investment and long-term reputation.\n\nFirst and foremost, major sports events bring visitors, jobs and spending to the host area. Fans and teams spend money on hotels, restaurants and transport, and temporary and permanent jobs are created in security, catering, tourism and construction. A town that hosts a championship match, for example, may fill its hotels and restaurants for a whole weekend. Local shops, taxi drivers and small businesses all gain from the extra customers, and media coverage can bring publicity worth far more than the cost of advertising. Because visitors often stay longer than planned to see the sights, the benefit extends beyond the stadium.\n\nIn addition, events encourage investment and improve the city's image. New stadiums, roads, rail links and hotels may remain after the event and be used by residents, and a successful event can attract future visitors and companies. However, the benefits are not guaranteed. Hosting is expensive, and some stadiums built for large tournaments are rarely used afterwards, leaving cities with debts. Jobs are often temporary, and local people sometimes see little of the profit. The economic gains are greatest when facilities are planned for lasting use and when local businesses are involved from the start.\n\nTo sum up, sports events can benefit local economies through visitor spending, jobs and investment, provided that they are carefully planned. For these reasons, they deserve support when costs are controlled.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: sự kiện thể thao đem lại lợi ích cho kinh tế địa phương như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how… benefit' (như đề 276 vườn cộng đồng)",
+        "think": "Mở bài nêu cạnh tranh giữa các thành phố để đăng cai và kỳ vọng kinh tế; báo hai cách: chi tiêu của du khách và việc làm; đầu tư và hình ảnh dài hạn.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — du khách, việc làm, chi tiêu",
+        "think": "Cổ động viên và đội chi cho khách sạn, nhà hàng, giao thông; việc làm tạm thời và lâu dài (an ninh, ăn uống, du lịch, xây dựng); cửa hàng nhỏ, taxi hưởng lợi; truyền thông tạo quảng bá. Ví dụ thị trấn đăng cai trận chung kết đầy khách sạn cả cuối tuần.",
+        "refs": [
+          "ID-sport-events-economy",
+          "EX-sport-match-weekend"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — đầu tư, hình ảnh + giới hạn",
+        "think": "Sân vận động, đường, đường sắt, khách sạn mới còn lại sau sự kiện; sự kiện thành công thu hút du khách và công ty. Giới hạn: tốn kém, sân vận động ít dùng gây nợ; việc làm tạm thời, người địa phương ít được chia lợi; lợi ích lớn nhất khi lập kế hoạch dùng lâu dài và có doanh nghiệp địa phương tham gia.",
+        "refs": [
+          "ID-sport-intl-events",
+          "ID-env-other-priorities",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi nếu lập kế hoạch cẩn thận và kiểm soát chi phí.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-events-economy",
+      "EX-sport-match-weekend"
+    ]
+  },
+  "chunks": [
+    [
+      "compete fiercely to host",
+      "cạnh tranh gay gắt để đăng cai"
+    ],
+    [
+      "boost their economies",
+      "thúc đẩy nền kinh tế của họ"
+    ],
+    [
+      "benefit local economies",
+      "mang lại lợi ích cho kinh tế địa phương"
+    ],
+    [
+      "visitor spending and jobs",
+      "chi tiêu của du khách và việc làm"
+    ],
+    [
+      "investment and long-term reputation",
+      "đầu tư và danh tiếng dài hạn"
+    ],
+    [
+      "bring visitors, jobs and spending",
+      "mang lại du khách, việc làm và chi tiêu"
+    ],
+    [
+      "hotels, restaurants and transport",
+      "khách sạn, nhà hàng và giao thông"
+    ],
+    [
+      "security, catering, tourism and construction",
+      "an ninh, ăn uống, du lịch và xây dựng"
+    ],
+    [
+      "fill its hotels and restaurants",
+      "lấp đầy khách sạn và nhà hàng"
+    ],
+    [
+      "small businesses all gain",
+      "các doanh nghiệp nhỏ đều hưởng lợi"
+    ],
+    [
+      "extra customers",
+      "khách hàng bổ sung"
+    ],
+    [
+      "publicity worth far more than the cost of advertising",
+      "quảng bá giá trị hơn nhiều so với chi phí quảng cáo"
+    ],
+    [
+      "encourage investment",
+      "khuyến khích đầu tư"
+    ],
+    [
+      "improve the city's image",
+      "cải thiện hình ảnh thành phố"
+    ],
+    [
+      "New stadiums, roads, rail links",
+      "sân vận động, đường, tuyến đường sắt mới"
+    ],
+    [
+      "attract future visitors and companies",
+      "thu hút du khách và công ty tương lai"
+    ],
+    [
+      "rarely used afterwards",
+      "hiếm khi được dùng sau đó"
+    ],
+    [
+      "leaving cities with debts",
+      "để lại cho các thành phố nợ nần"
+    ],
+    [
+      "planned for lasting use",
+      "được lên kế hoạch để dùng lâu dài"
+    ],
+    [
+      "involved from the start",
+      "được tham gia ngay từ đầu"
+    ]
+  ]
+}

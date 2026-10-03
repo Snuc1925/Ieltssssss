@@ -1,0 +1,125 @@
+{
+  "questionId": 380,
+  "text": "Many people turn to herbal remedies, acupuncture and other traditional methods, while others rely entirely on hospitals and modern drugs. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of traditional medicine value its gentle, holistic approach and cultural roots. Remedies such as herbal teas and massage have been used for centuries, are often cheaper and may cause fewer obvious side effects, and practitioners usually spend time listening to patients and considering their whole lifestyle. For many communities, traditional practices are familiar and trusted, and some, such as acupuncture for certain kinds of pain, have been supported by research. A person with mild stomach trouble, for example, may find relief from a simple herbal tea and prefer it to a strong tablet. Traditional medicine can also be an important part of cultural identity.\n\nOn the other hand, supporters of modern medicine point out that it is tested and proven. Treatments such as vaccines, antibiotics and surgery have been checked in trials and save millions of lives, whereas many herbal remedies have not been properly studied and may be ineffective or harmful in the wrong dose. A person with a serious infection, for instance, may become dangerously ill if they rely only on herbs and delay proper treatment. Modern medicine can be expensive and sometimes impersonal, but its evidence base is far stronger, and it can deal with emergencies and serious conditions.\n\nIn conclusion, both views have merit. Personally, I believe that modern medicine should be the main choice for serious illness, while traditional methods can be used alongside it for comfort and minor complaints, provided that they are safe.",
+  "analysis": {
+    "type_vi": "Discuss both views: y học cổ truyền hay y học hiện đại",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài đặt hai nhóm người (dùng thảo dược, châm cứu / chỉ tin bệnh viện, thuốc hiện đại); mỗi thân bài một phía.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe cổ truyền",
+        "think": "Nhẹ nhàng, toàn diện, gốc văn hoá; dùng hàng thế kỷ, rẻ, ít tác dụng phụ rõ; thầy thuốc dành thời gian lắng nghe; một số (châm cứu cho một số cơn đau) có nghiên cứu ủng hộ. Ví dụ người đau dạ dày nhẹ chọn trà thảo mộc.",
+        "refs": [
+          "ID-health-trad-modern"
+        ]
+      },
+      {
+        "step": "3. Phe hiện đại",
+        "think": "Được thử nghiệm và chứng minh: vaccine, kháng sinh, phẫu thuật cứu hàng triệu mạng; nhiều bài thuốc thảo dược chưa được nghiên cứu, có thể không hiệu quả hoặc hại nếu sai liều. Ví dụ người nhiễm trùng nặng chỉ dùng thảo dược có thể nguy hiểm. Nhận xét: y học hiện đại đắt và đôi khi vô cảm nhưng bằng chứng mạnh hơn.",
+        "refs": [
+          "ID-health-trad-modern",
+          "ID-health-treatment-now"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hiện đại là lựa chọn chính cho bệnh nặng; cổ truyền dùng kèm cho thoải mái và bệnh nhẹ nếu an toàn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-trad-modern"
+    ]
+  },
+  "chunks": [
+    [
+      "herbal remedies, acupuncture and other traditional methods",
+      "bài thuốc thảo dược, châm cứu và các phương pháp cổ truyền khác"
+    ],
+    [
+      "rely entirely on hospitals and modern drugs",
+      "hoàn toàn dựa vào bệnh viện và thuốc hiện đại"
+    ],
+    [
+      "supporters of traditional medicine",
+      "người ủng hộ y học cổ truyền"
+    ],
+    [
+      "gentle, holistic approach",
+      "cách tiếp cận nhẹ nhàng, toàn diện"
+    ],
+    [
+      "cultural roots",
+      "gốc rễ văn hoá"
+    ],
+    [
+      "used for centuries",
+      "được dùng hàng thế kỷ"
+    ],
+    [
+      "fewer obvious side effects",
+      "ít tác dụng phụ rõ rệt hơn"
+    ],
+    [
+      "considering their whole lifestyle",
+      "xem xét toàn bộ lối sống"
+    ],
+    [
+      "familiar and trusted",
+      "quen thuộc và được tin cậy"
+    ],
+    [
+      "supported by research",
+      "được nghiên cứu ủng hộ"
+    ],
+    [
+      "mild stomach trouble",
+      "rối loạn dạ dày nhẹ"
+    ],
+    [
+      "find relief from",
+      "thấy dịu bớt nhờ"
+    ],
+    [
+      "cultural identity",
+      "bản sắc văn hoá"
+    ],
+    [
+      "tested and proven",
+      "được thử nghiệm và chứng minh"
+    ],
+    [
+      "checked in trials",
+      "được kiểm tra trong thử nghiệm"
+    ],
+    [
+      "save millions of lives",
+      "cứu hàng triệu mạng"
+    ],
+    [
+      "not been properly studied",
+      "chưa được nghiên cứu đầy đủ"
+    ],
+    [
+      "ineffective or harmful in the wrong dose",
+      "vô hiệu hoặc có hại khi sai liều"
+    ],
+    [
+      "impersonal",
+      "thiếu tính cá nhân"
+    ],
+    [
+      "alongside it for comfort and minor complaints",
+      "dùng cùng để thoải mái và chữa bệnh nhẹ"
+    ]
+  ]
+}

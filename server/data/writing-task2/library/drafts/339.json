@@ -1,0 +1,129 @@
+{
+  "questionId": 339,
+  "text": "Hunger and poor nutrition still hold back millions of children, even in countries that are not poor. This essay will outline two principal benefits for a country that focuses on child nutrition programmes: healthier, better-performing children, and long-term savings and opportunity.\n\nFirst and foremost, child nutrition programmes help children to grow, learn and stay healthy. Well-fed children concentrate better, attend school more regularly and suffer fewer illnesses, so they are more likely to finish their education. A child who receives a free school breakfast, for example, is less likely to feel tired and distracted in morning lessons. Programmes that provide meals, milk, fruit or vitamins also reduce stunting and anaemia, which can harm a child's development for life. Teachers report that children who eat properly behave better, and parents on low incomes are relieved of a daily worry.\n\nIn addition, nutrition programmes bring long-term savings and opportunity. Healthier children grow into healthier adults who work more productively and need less medical care, so the cost of the programme is repaid many times over. Because poor children benefit most, the programmes help to break the cycle of poverty, since education and health are the main routes out of it. They can also support local farmers if schools buy fresh produce from nearby farms, and they teach children about food and cooking. Although providing meals requires organisation and money, careful targeting and local sourcing can keep costs under control. Countries such as Brazil and India have run large school meal schemes, which suggests that this approach is practical.\n\nTo sum up, child nutrition programmes bring clear benefits to a country, above all healthier, better-educated children and long-term savings. For these reasons, they deserve sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chương trình dinh dưỡng trẻ em — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Cùng khung các đề benefits trước; mở bài nêu vấn đề (đói và dinh dưỡng kém vẫn kìm hãm hàng triệu trẻ).",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — trẻ khoẻ và học tốt",
+        "think": "Trẻ được ăn đầy đủ tập trung tốt hơn, đi học đều, ít ốm; ví dụ bữa sáng miễn phí ở trường; sữa, trái cây, vitamin giảm còi cọc và thiếu máu; hành vi tốt hơn; phụ huynh thu nhập thấp bớt lo.",
+        "refs": [
+          "ID-health-child-nutrition",
+          "EX-health-school-breakfast",
+          "ID-health-school-food"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — tiết kiệm dài hạn và cơ hội",
+        "think": "Người lớn khoẻ làm việc hiệu quả và cần ít y tế nên chi phí được hoàn nhiều lần; trẻ nghèo hưởng lợi nhất nên phá vòng nghèo; hỗ trợ nông dân địa phương; nhượng bộ chi phí tổ chức nhưng kiểm soát được; ví dụ Brazil và Ấn Độ.",
+        "refs": [
+          "ID-health-child-nutrition",
+          "ID-health-invest-more",
+          "ID-env-food-security"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm lợi ích: trẻ khoẻ và học tốt hơn và tiết kiệm dài hạn; cụm 'deserve sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-child-nutrition",
+      "EX-health-school-breakfast"
+    ]
+  },
+  "chunks": [
+    [
+      "Hunger and poor nutrition",
+      "đói và dinh dưỡng kém"
+    ],
+    [
+      "hold back millions of children",
+      "kìm hãm hàng triệu trẻ em"
+    ],
+    [
+      "child nutrition programmes",
+      "chương trình dinh dưỡng trẻ em"
+    ],
+    [
+      "healthier, better-performing children",
+      "trẻ khoẻ mạnh và học tốt hơn"
+    ],
+    [
+      "long-term savings and opportunity",
+      "tiết kiệm dài hạn và cơ hội"
+    ],
+    [
+      "grow, learn and stay healthy",
+      "lớn lên, học tập và giữ sức khoẻ"
+    ],
+    [
+      "Well-fed children concentrate better",
+      "trẻ được ăn đủ tập trung tốt hơn"
+    ],
+    [
+      "attend school more regularly",
+      "đi học đều hơn"
+    ],
+    [
+      "suffer fewer illnesses",
+      "ít bị bệnh hơn"
+    ],
+    [
+      "a free school breakfast",
+      "bữa sáng miễn phí ở trường"
+    ],
+    [
+      "feel tired and distracted",
+      "thấy mệt và mất tập trung"
+    ],
+    [
+      "stunting and anaemia",
+      "còi cọc và thiếu máu"
+    ],
+    [
+      "harm a child's development for life",
+      "gây hại sự phát triển của trẻ suốt đời"
+    ],
+    [
+      "relieved of a daily worry",
+      "được giải toả nỗi lo hằng ngày"
+    ],
+    [
+      "repaid many times over",
+      "được hoàn trả nhiều lần"
+    ],
+    [
+      "break the cycle of poverty",
+      "phá vỡ vòng nghèo"
+    ],
+    [
+      "the main routes out of it",
+      "con đường chính để thoát khỏi nó"
+    ],
+    [
+      "buy fresh produce from nearby farms",
+      "mua nông sản tươi từ trang trại gần đó"
+    ],
+    [
+      "careful targeting and local sourcing",
+      "nhắm đúng đối tượng và mua nguồn địa phương"
+    ],
+    [
+      "school meal schemes",
+      "chương trình bữa ăn học đường"
+    ]
+  ]
+}

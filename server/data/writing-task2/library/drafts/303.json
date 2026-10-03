@@ -1,0 +1,127 @@
+{
+  "questionId": 303,
+  "text": "Obesity has become a serious health problem in many countries, and interventions to help people lose weight, from surgery and drugs to structured programmes, are increasingly common. This essay will discuss the advantages and disadvantages before explaining whether the advantages outweigh the disadvantages.\n\nOn the positive side, weight-loss interventions can greatly reduce the risk of serious disease. Losing weight lowers the risk of diabetes, heart disease and joint problems and improves mobility, while surgery, drugs and structured programmes help people who have failed with dieting alone. A patient with severe obesity who has stomach surgery, for example, may lose enough weight to control diabetes and walk without pain. Improved health also brings psychological benefits, as people often feel more confident and energetic, and healthcare costs fall over time. For some patients, these treatments are the only realistic path to a healthier life. Their success shows how much suffering can be avoided when treatment is available.\n\nOn the negative side, however, there are real risks and costs. Surgery carries the danger of complications and requires permanent changes to eating habits, and drugs may have side effects and be very expensive. Many people regain weight after stopping a programme, and an excessive focus on appearance can lead to unhealthy attitudes to food and even eating disorders. Nevertheless, these problems can be reduced if interventions are supervised by qualified professionals, offered to those with a genuine medical need and combined with advice on diet, exercise and mental health.\n\nIn conclusion, the advantages of weight-loss interventions outweigh the disadvantages for people at serious medical risk, provided that treatment is carefully supervised and supported over the long term.",
+  "analysis": {
+    "type_vi": "A/D: can thiệp giảm cân — lợi thế có lớn hơn bất lợi không (advantages outweigh cho người có nguy cơ y tế)",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Phán quyết có điều kiện (người có nguy cơ y tế nghiêm trọng); thân bài 2 dùng Nevertheless để phản bác.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Giảm nguy cơ tiểu đường, tim, khớp; cải thiện vận động; phẫu thuật, thuốc, chương trình giúp người không giảm được bằng ăn kiêng; lợi ích tâm lý; chi phí y tế giảm. Ví dụ bệnh nhân béo phì nặng mổ dạ dày kiểm soát được tiểu đường.",
+        "refs": [
+          "ID-health-weight-loss",
+          "EX-health-weight-surgery"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm và phản bác",
+        "think": "Phẫu thuật có biến chứng, đòi hỏi thay đổi ăn uống vĩnh viễn; thuốc có tác dụng phụ, đắt; nhiều người tăng cân lại; quá tập trung vào ngoại hình gây rối loạn ăn uống. Nevertheless: giám sát bởi chuyên gia, chỉ cho người có nhu cầu y tế thật, kèm tư vấn.",
+        "refs": [
+          "ID-health-weight-loss",
+          "ID-health-gov-tools"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn cho người có nguy cơ nghiêm trọng nếu được giám sát và hỗ trợ lâu dài.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-weight-loss",
+      "EX-health-weight-surgery"
+    ]
+  },
+  "chunks": [
+    [
+      "a serious health problem",
+      "một vấn đề sức khoẻ nghiêm trọng"
+    ],
+    [
+      "weight-loss interventions",
+      "can thiệp giảm cân"
+    ],
+    [
+      "structured programmes",
+      "chương trình có cấu trúc"
+    ],
+    [
+      "reduce the risk of serious disease",
+      "giảm nguy cơ bệnh nặng"
+    ],
+    [
+      "Losing weight lowers the risk of",
+      "giảm cân làm giảm nguy cơ"
+    ],
+    [
+      "joint problems",
+      "vấn đề về khớp"
+    ],
+    [
+      "improves mobility",
+      "cải thiện khả năng vận động"
+    ],
+    [
+      "failed with dieting alone",
+      "thất bại khi chỉ ăn kiêng"
+    ],
+    [
+      "severe obesity",
+      "béo phì nặng"
+    ],
+    [
+      "stomach surgery",
+      "phẫu thuật dạ dày"
+    ],
+    [
+      "control diabetes",
+      "kiểm soát tiểu đường"
+    ],
+    [
+      "walk without pain",
+      "đi lại không đau"
+    ],
+    [
+      "psychological benefits",
+      "lợi ích tâm lý"
+    ],
+    [
+      "confident and energetic",
+      "tự tin và tràn đầy năng lượng"
+    ],
+    [
+      "healthcare costs fall over time",
+      "chi phí y tế giảm dần theo thời gian"
+    ],
+    [
+      "the danger of complications",
+      "nguy cơ biến chứng"
+    ],
+    [
+      "permanent changes to eating habits",
+      "thay đổi vĩnh viễn thói quen ăn"
+    ],
+    [
+      "regain weight",
+      "tăng cân trở lại"
+    ],
+    [
+      "eating disorders",
+      "rối loạn ăn uống"
+    ],
+    [
+      "a genuine medical need",
+      "nhu cầu y tế thật sự"
+    ]
+  ]
+}

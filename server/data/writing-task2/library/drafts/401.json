@@ -1,0 +1,128 @@
+{
+  "questionId": 401,
+  "text": "Hospital stays have become much shorter in many countries, with some patients going home on the day of an operation. This essay will discuss the advantages and the risks before explaining whether the advantages outweigh them.\n\nOn the positive side, shorter hospital stays lower costs and free beds for other patients. Modern techniques such as keyhole surgery and better pain relief allow earlier recovery, and patients at home avoid hospital infections and recover in comfort, surrounded by family. A patient who has a hip replacement and walks home within two days, for example, frees a bed for someone else on the waiting list. Hospitals can therefore treat more people with the same resources, and waiting lists become shorter. Many patients also report that they sleep better and feel less anxious in their own homes.\n\nOn the negative side, patients sent home too early may suffer complications. Problems can go unnoticed without nurses nearby, older people who live alone may lack help, and family members often have to act as unpaid carers. Some patients return to hospital, which cancels out the savings. Nevertheless, these risks can be managed. Hospitals can use clear criteria to decide who is safe to leave, arrange follow-up phone calls and home visits by nurses, and provide remote monitoring for those at greater risk. Good information for patients and families, with a number to call if something seems wrong, also gives reassurance. Taken together, these steps allow hospitals to treat more people safely.\n\nIn conclusion, the advantages of shorter hospital stays outweigh the risks, provided that patients are carefully selected and given proper support at home.",
+  "analysis": {
+    "type_vi": "A/D: nằm viện ngắn hơn — lợi thế có lớn hơn rủi ro không (advantages outweigh)",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Đề hỏi 'outweigh' nên cần phán quyết rõ; thân bài 2 dùng Nevertheless để phản bác rủi ro bằng giải pháp hỗ trợ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Chi phí thấp hơn, giải phóng giường; kỹ thuật hiện đại (mổ nội soi, giảm đau tốt hơn); ở nhà tránh nhiễm khuẩn bệnh viện, thoải mái. Ví dụ thay khớp háng về nhà sau hai ngày.",
+        "refs": [
+          "ID-health-short-stay-pro",
+          "EX-health-hip-home"
+        ]
+      },
+      {
+        "step": "3. Rủi ro và phản bác",
+        "think": "Xuất viện sớm có thể có biến chứng bị bỏ sót; người già sống một mình thiếu giúp đỡ; người nhà làm người chăm không lương; nhập viện lại triệt tiêu tiết kiệm. Phản bác: tiêu chí rõ ràng, gọi điện, y tá đến nhà, giám sát từ xa.",
+        "refs": [
+          "ID-health-short-stay-risk",
+          "ID-health-rural-solutions"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn rủi ro nếu bệnh nhân được chọn cẩn thận và hỗ trợ tại nhà.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-short-stay-pro",
+      "ID-health-short-stay-risk",
+      "EX-health-hip-home"
+    ]
+  },
+  "chunks": [
+    [
+      "Hospital stays have become much shorter",
+      "thời gian nằm viện đã ngắn hơn nhiều"
+    ],
+    [
+      "on the day of an operation",
+      "ngay trong ngày phẫu thuật"
+    ],
+    [
+      "outweigh them",
+      "lớn hơn chúng"
+    ],
+    [
+      "lower costs and free beds for other patients",
+      "giảm chi phí và giải phóng giường cho bệnh nhân khác"
+    ],
+    [
+      "keyhole surgery",
+      "phẫu thuật nội soi"
+    ],
+    [
+      "better pain relief",
+      "giảm đau tốt hơn"
+    ],
+    [
+      "earlier recovery",
+      "hồi phục sớm hơn"
+    ],
+    [
+      "avoid hospital infections",
+      "tránh nhiễm trùng bệnh viện"
+    ],
+    [
+      "recover in comfort",
+      "hồi phục trong sự thoải mái"
+    ],
+    [
+      "a hip replacement",
+      "ca thay khớp háng"
+    ],
+    [
+      "on the waiting list",
+      "trong danh sách chờ"
+    ],
+    [
+      "treat more people with the same resources",
+      "chữa cho nhiều người hơn với cùng nguồn lực"
+    ],
+    [
+      "sent home too early",
+      "được cho về nhà quá sớm"
+    ],
+    [
+      "suffer complications",
+      "gặp biến chứng"
+    ],
+    [
+      "go unnoticed",
+      "không được chú ý"
+    ],
+    [
+      "unpaid carers",
+      "người chăm sóc không lương"
+    ],
+    [
+      "cancels out the savings",
+      "triệt tiêu khoản tiết kiệm"
+    ],
+    [
+      "clear criteria",
+      "tiêu chí rõ ràng"
+    ],
+    [
+      "follow-up phone calls and home visits",
+      "cuộc gọi theo dõi và thăm khám tại nhà"
+    ],
+    [
+      "remote monitoring",
+      "giám sát từ xa"
+    ]
+  ]
+}

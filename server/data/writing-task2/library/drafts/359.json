@@ -1,0 +1,129 @@
+{
+  "questionId": 359,
+  "text": "Many serious diseases are easier to treat if they are found early, and some countries run programmes to test large numbers of people before symptoms appear. This essay will outline two principal benefits for a country that focuses on early disease detection programmes: better survival and health, and savings for the health system and economy.\n\nFirst and foremost, detecting disease early makes treatment simpler, cheaper and more successful. Screening for cancer, diabetes and heart disease finds problems before symptoms appear, when a small operation or medicine may be enough, whereas late discovery needs long and costly care. A woman whose breast cancer is found at a routine scan, for example, may need only a small operation and be back at work within weeks. As a result, more people survive, suffer less and keep their independence. Children can also be checked for hearing and vision problems, so that they receive help before they fall behind at school.\n\nIn addition, early detection brings savings and economic benefits. Treating advanced disease requires long hospital stays, expensive drugs and sometimes lifelong care, while early treatment costs much less. Healthy workers remain productive, and families are spared the loss of income and the emotional strain of serious illness. Although screening programmes require equipment, trained staff and public awareness, and sometimes produce false alarms, these costs are small compared with the benefits. Wider use of simple tests, such as blood pressure checks, can also be extended to rural areas through mobile services, so that everyone benefits and inequalities in health are reduced.\n\nTo sum up, early disease detection programmes bring clear benefits to a country, above all better survival and lower costs. For these reasons, they deserve sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chương trình phát hiện bệnh sớm — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài mô tả chương trình (xét nghiệm số đông trước khi có triệu chứng); báo trước hai lợi ích: sống sót và sức khoẻ tốt hơn; tiết kiệm cho hệ thống y tế và kinh tế.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — điều trị đơn giản, hiệu quả",
+        "think": "Sàng lọc ung thư, tiểu đường, tim phát hiện trước triệu chứng khi một ca mổ nhỏ hoặc thuốc là đủ; phát hiện muộn cần chăm sóc dài và tốn kém. Ví dụ phụ nữ phát hiện ung thư vú trong lần chụp định kỳ chỉ cần mổ nhỏ rồi đi làm lại sau vài tuần. Kiểm tra thính lực và thị lực cho trẻ.",
+        "refs": [
+          "ID-health-early-detection",
+          "EX-health-breast-screening",
+          "ID-health-prevention-cheaper"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — tiết kiệm và kinh tế",
+        "think": "Bệnh muộn cần nằm viện lâu, thuốc đắt; điều trị sớm rẻ hơn; công nhân khoẻ, gia đình tránh mất thu nhập. Nhượng bộ: cần thiết bị, nhân viên, nhận thức công chúng và đôi khi báo động giả nhưng chi phí nhỏ; dịch vụ lưu động đưa xét nghiệm đơn giản đến nông thôn.",
+        "refs": [
+          "ID-health-invest-more",
+          "ID-health-rural-solutions",
+          "ID-health-cost-sharing"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích: sống sót tốt hơn và chi phí thấp hơn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-early-detection",
+      "EX-health-breast-screening"
+    ]
+  },
+  "chunks": [
+    [
+      "easier to treat if they are found early",
+      "dễ điều trị hơn nếu phát hiện sớm"
+    ],
+    [
+      "before symptoms appear",
+      "trước khi triệu chứng xuất hiện"
+    ],
+    [
+      "early disease detection programmes",
+      "chương trình phát hiện bệnh sớm"
+    ],
+    [
+      "better survival and health",
+      "khả năng sống sót và sức khoẻ tốt hơn"
+    ],
+    [
+      "savings for the health system and economy",
+      "tiết kiệm cho hệ thống y tế và kinh tế"
+    ],
+    [
+      "simpler, cheaper and more successful",
+      "đơn giản, rẻ và thành công hơn"
+    ],
+    [
+      "Screening for cancer, diabetes and heart disease",
+      "sàng lọc ung thư, tiểu đường và bệnh tim"
+    ],
+    [
+      "a small operation or medicine may be enough",
+      "một ca mổ nhỏ hoặc thuốc có thể là đủ"
+    ],
+    [
+      "late discovery",
+      "phát hiện muộn"
+    ],
+    [
+      "long and costly care",
+      "chăm sóc dài và tốn kém"
+    ],
+    [
+      "a routine scan",
+      "lần chụp định kỳ"
+    ],
+    [
+      "back at work within weeks",
+      "đi làm lại trong vài tuần"
+    ],
+    [
+      "keep their independence",
+      "giữ được sự tự lập"
+    ],
+    [
+      "hearing and vision problems",
+      "vấn đề thính lực và thị lực"
+    ],
+    [
+      "fall behind at school",
+      "tụt lại ở trường"
+    ],
+    [
+      "Treating advanced disease",
+      "điều trị bệnh giai đoạn muộn"
+    ],
+    [
+      "lifelong care",
+      "chăm sóc suốt đời"
+    ],
+    [
+      "spared the loss of income",
+      "tránh được mất thu nhập"
+    ],
+    [
+      "false alarms",
+      "báo động giả"
+    ],
+    [
+      "inequalities in health",
+      "bất bình đẳng về sức khoẻ"
+    ]
+  ]
+}

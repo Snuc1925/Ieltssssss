@@ -1,0 +1,126 @@
+{
+  "questionId": 99,
+  "text": "More people are choosing to give up meat, whether for health, environmental or ethical reasons. This essay will discuss the advantages and disadvantages of vegetarian diets before explaining whether the advantages outweigh the disadvantages.\n\nOn the positive side, a well-planned vegetarian diet is good for health and the environment. People who eat more vegetables, fruit, beans and whole grains tend to have lower risks of heart disease and some other illnesses, and producing plant foods generally uses less land, water and energy than producing meat. Vegetarian diets also reduce the number of animals raised and slaughtered for food, which appeals to many people on ethical grounds. A person who replaces red meat with lentils and vegetables several times a week, for example, can reduce both their fat intake and their carbon footprint. Many vegetarians also report that they feel lighter and more energetic.\n\nOn the negative side, there are some risks. Vegetarians must make sure that they get enough vitamin B12, iron, protein and other nutrients that are plentiful in meat, otherwise they may become tired or ill. Poorly planned diets, such as those relying on chips and cheese, can be unhealthy. Eating out or sharing meals with others can also be inconvenient, and choice may be limited in some places. Nevertheless, these problems are easily managed with knowledge, careful planning and, where necessary, supplements. Dieticians and clear labels can help people to build a balanced diet. With these supports, a vegetarian diet can suit people of all ages.\n\nIn conclusion, the advantages of vegetarian diets outweigh the disadvantages, provided that meals are carefully planned to include all the nutrients that the body needs.",
+  "analysis": {
+    "type_vi": "A/D: chế độ ăn chay — lợi thế có lớn hơn bất lợi không (advantages outweigh)",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Mở bài nêu bối cảnh (nhiều người bỏ thịt vì sức khoẻ, môi trường, đạo đức) rồi phán quyết có điều kiện (lên kế hoạch kỹ bữa ăn).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Rau, trái cây, đậu, ngũ cốc nguyên hạt giảm nguy cơ bệnh tim; sản xuất thực vật dùng ít đất, nước, năng lượng hơn thịt; ít động vật bị nuôi và giết; ví dụ thay thịt đỏ bằng đậu lăng và rau vài lần mỗi tuần giảm chất béo và dấu chân carbon.",
+        "refs": [
+          "ID-health-vegetarian",
+          "ID-env-food-waste-causes"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm và phản bác",
+        "think": "Phải đủ B12, sắt, đạm; chế độ kém kế hoạch (khoai chiên, phô mai) không lành mạnh; ăn ngoài bất tiện, ít lựa chọn. Nevertheless: kiến thức, kế hoạch, thực phẩm bổ sung, chuyên gia dinh dưỡng và nhãn rõ ràng.",
+        "refs": [
+          "ID-health-vegetarian",
+          "ID-health-gov-tools"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn bất lợi nếu bữa ăn được lên kế hoạch đủ chất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-vegetarian"
+    ]
+  },
+  "chunks": [
+    [
+      "give up meat",
+      "bỏ ăn thịt"
+    ],
+    [
+      "vegetarian diets",
+      "chế độ ăn chay"
+    ],
+    [
+      "health, environmental or ethical reasons",
+      "lý do sức khoẻ, môi trường hoặc đạo đức"
+    ],
+    [
+      "a well-planned vegetarian diet",
+      "chế độ ăn chay được lên kế hoạch tốt"
+    ],
+    [
+      "vegetables, fruit, beans and whole grains",
+      "rau, trái cây, đậu và ngũ cốc nguyên hạt"
+    ],
+    [
+      "lower risks of heart disease",
+      "nguy cơ bệnh tim thấp hơn"
+    ],
+    [
+      "uses less land, water and energy",
+      "dùng ít đất, nước và năng lượng hơn"
+    ],
+    [
+      "animals raised and slaughtered for food",
+      "động vật bị nuôi và giết để lấy thức ăn"
+    ],
+    [
+      "on ethical grounds",
+      "vì lý do đạo đức"
+    ],
+    [
+      "replaces red meat with lentils and vegetables",
+      "thay thịt đỏ bằng đậu lăng và rau"
+    ],
+    [
+      "fat intake",
+      "lượng chất béo nạp vào"
+    ],
+    [
+      "carbon footprint",
+      "dấu chân carbon"
+    ],
+    [
+      "feel lighter and more energetic",
+      "cảm thấy nhẹ nhàng và đầy năng lượng"
+    ],
+    [
+      "vitamin B12, iron, protein",
+      "vitamin B12, sắt, đạm"
+    ],
+    [
+      "plentiful in meat",
+      "dồi dào trong thịt"
+    ],
+    [
+      "become tired or ill",
+      "trở nên mệt mỏi hoặc ốm"
+    ],
+    [
+      "Poorly planned diets",
+      "chế độ ăn lên kế hoạch kém"
+    ],
+    [
+      "Eating out",
+      "ăn ngoài"
+    ],
+    [
+      "choice may be limited",
+      "lựa chọn có thể bị hạn chế"
+    ],
+    [
+      "a balanced diet",
+      "chế độ ăn cân bằng"
+    ]
+  ]
+}

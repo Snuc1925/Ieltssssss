@@ -1,0 +1,129 @@
+{
+  "questionId": 282,
+  "text": "Hundreds of millions of people still lack a safe supply of drinking water, and unsafe water causes serious diseases, particularly among children. This essay will suggest practical measures that governments could take, focusing on building and maintaining infrastructure and on making water affordable, safe and well managed.\n\nTo begin with, governments should invest in water infrastructure and keep it working. Pipes, wells and treatment plants bring safe water to homes, simple filters and community-run boreholes suit remote areas, and fixing leaks and testing quality protect supplies. In many cities, a large share of water is lost through damaged pipes, so repairs can increase supply without new sources. A village that is given a protected well and a trained local committee to look after it, for example, can enjoy clean water for years, whereas an unmanaged pump soon breaks down. Planning for maintenance from the start is essential, because many projects fail when the money for repairs runs out.\n\nIn addition, authorities should make clean water affordable and protect its sources. Subsidised connections and public taps for poorer households prevent families from drinking unsafe water because they cannot pay, and clear rules with regular inspection make sure that water is tested and that polluters are punished. Equally important, education campaigns on boiling, storing and handling water, together with protection of rivers and groundwater from sewage and waste, reduce disease and keep supplies clean. International aid and partnerships with local firms can help to fund projects in poorer regions.\n\nIn conclusion, investing in reliable infrastructure and ensuring that water is affordable and protected offer the most realistic way of increasing access to clean drinking water.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ tăng khả năng tiếp cận nước uống sạch",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Chia hai nhóm: xây dựng và bảo trì hạ tầng; làm cho nước vừa túi tiền, an toàn và được quản lý tốt. Mở bài nêu quy mô vấn đề (hàng trăm triệu người thiếu nước an toàn, bệnh ở trẻ em).",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — hạ tầng",
+        "think": "Đường ống, giếng, nhà máy xử lý; bộ lọc đơn giản và giếng khoan do cộng đồng quản lý cho vùng xa; sửa rò rỉ và kiểm tra chất lượng; lên kế hoạch bảo trì ngay từ đầu vì nhiều dự án thất bại khi hết tiền sửa chữa. Ví dụ làng có giếng được bảo vệ và uỷ ban địa phương trông coi.",
+        "refs": [
+          "ID-health-water-solutions",
+          "ID-env-clean-water",
+          "ID-env-gov-infrastructure",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — giá cả, an toàn, quản lý",
+        "think": "Kết nối trợ giá và vòi công cộng cho hộ nghèo; quy định, thanh tra và xử phạt người gây ô nhiễm; giáo dục về đun sôi, bảo quản; bảo vệ nguồn nước khỏi nước thải; viện trợ quốc tế.",
+        "refs": [
+          "ID-health-gov-tools",
+          "ID-env-gov-rules",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm biện pháp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-water-solutions"
+    ]
+  },
+  "chunks": [
+    [
+      "a safe supply of drinking water",
+      "nguồn nước uống an toàn"
+    ],
+    [
+      "unsafe water causes serious diseases",
+      "nước không an toàn gây bệnh nghiêm trọng"
+    ],
+    [
+      "particularly among children",
+      "đặc biệt ở trẻ em"
+    ],
+    [
+      "building and maintaining infrastructure",
+      "xây dựng và bảo trì hạ tầng"
+    ],
+    [
+      "affordable, safe and well managed",
+      "vừa túi tiền, an toàn và được quản lý tốt"
+    ],
+    [
+      "Pipes, wells and treatment plants",
+      "đường ống, giếng và nhà máy xử lý"
+    ],
+    [
+      "simple filters",
+      "bộ lọc đơn giản"
+    ],
+    [
+      "community-run boreholes",
+      "giếng khoan do cộng đồng quản lý"
+    ],
+    [
+      "fixing leaks and testing quality",
+      "sửa rò rỉ và kiểm tra chất lượng"
+    ],
+    [
+      "lost through damaged pipes",
+      "thất thoát qua đường ống hỏng"
+    ],
+    [
+      "without new sources",
+      "không cần nguồn mới"
+    ],
+    [
+      "a protected well",
+      "giếng được bảo vệ"
+    ],
+    [
+      "a trained local committee",
+      "uỷ ban địa phương được đào tạo"
+    ],
+    [
+      "an unmanaged pump soon breaks down",
+      "máy bơm không ai quản lý sớm hỏng"
+    ],
+    [
+      "Planning for maintenance from the start",
+      "lên kế hoạch bảo trì ngay từ đầu"
+    ],
+    [
+      "Subsidised connections and public taps",
+      "kết nối trợ giá và vòi nước công cộng"
+    ],
+    [
+      "polluters are punished",
+      "người gây ô nhiễm bị phạt"
+    ],
+    [
+      "boiling, storing and handling water",
+      "đun sôi, bảo quản và xử lý nước"
+    ],
+    [
+      "sewage and waste",
+      "nước thải và chất thải"
+    ],
+    [
+      "international aid",
+      "viện trợ quốc tế"
+    ]
+  ]
+}

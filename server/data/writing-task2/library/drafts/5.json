@@ -1,0 +1,125 @@
+{
+  "questionId": 5,
+  "text": "Health is often treated as a private matter, yet a country's wealth depends heavily on the wellbeing of its people. This essay will outline two principal benefits for a country that focuses on health: a stronger economy and a better quality of life.\n\nFirst and foremost, a focus on health strengthens the economy. Healthier people are more productive and cost less in the long run. A healthy workforce takes fewer sick days, works more efficiently and supports economic growth, and fewer families are pushed into poverty by medical bills. Prevention and early treatment are also much cheaper than emergency care, so spending on health frees money for other uses. A country that provides vaccination and clean water, for example, spends far less on treating diseases that could have been avoided. Healthy children also learn better at school, which builds a more skilled population for the future.\n\nIn addition, a focus on health improves quality of life and social stability. People live longer and enjoy their later years in better condition, and families are spared the grief and burden of preventable illness. Strong health services also make the country safer, since they can respond quickly to epidemics and disasters. Where health care is available to everyone, people feel more secure and more equal, which supports trust in public institutions. Although providing good health services is expensive, a nation that invests in the wellbeing of its people gains a more productive, more cohesive society, and the returns continue across generations.\n\nTo sum up, focusing on health brings clear benefits to a country, above all a stronger economy and a better, more secure quality of life. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào sức khoẻ — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Cùng khung với các đề benefits trước (157, 277, 197, 77, 217, 257, 295, 399): báo trước hai lợi ích; mỗi thân bài một lợi ích; kết 'deserves sustained public support'.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — kinh tế",
+        "think": "Người khoẻ năng suất hơn và tốn ít chi phí hơn về lâu dài; ít ngày nghỉ ốm; ít gia đình nghèo vì hoá đơn y tế; phòng bệnh rẻ hơn cấp cứu. Ví dụ nước cung cấp tiêm chủng và nước sạch chi ít hơn cho bệnh có thể tránh.",
+        "refs": [
+          "ID-health-invest-more",
+          "ID-health-prevention-cheaper",
+          "ID-env-clean-water"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — chất lượng sống và ổn định",
+        "think": "Sống lâu hơn và khoẻ hơn lúc về già; gia đình tránh đau buồn vì bệnh phòng được; dịch vụ y tế mạnh ứng phó dịch bệnh; tiếp cận bình đẳng tăng tin cậy vào thể chế.",
+        "refs": [
+          "ID-health-foundation",
+          "ID-health-cost-sharing"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm cuối quen thuộc của dạng 'benefits'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "a private matter",
+      "chuyện riêng tư"
+    ],
+    [
+      "depends heavily on the wellbeing of its people",
+      "phụ thuộc nhiều vào sức khoẻ tinh thần và thể chất của người dân"
+    ],
+    [
+      "a stronger economy",
+      "nền kinh tế mạnh hơn"
+    ],
+    [
+      "a better quality of life",
+      "chất lượng sống tốt hơn"
+    ],
+    [
+      "strengthens the economy",
+      "củng cố nền kinh tế"
+    ],
+    [
+      "pushed into poverty by medical bills",
+      "bị đẩy vào cảnh nghèo vì hoá đơn y tế"
+    ],
+    [
+      "frees money for other uses",
+      "giải phóng tiền cho mục đích khác"
+    ],
+    [
+      "vaccination and clean water",
+      "tiêm chủng và nước sạch"
+    ],
+    [
+      "diseases that could have been avoided",
+      "bệnh có thể tránh được"
+    ],
+    [
+      "learn better at school",
+      "học tốt hơn ở trường"
+    ],
+    [
+      "a more skilled population",
+      "dân số có tay nghề hơn"
+    ],
+    [
+      "social stability",
+      "sự ổn định xã hội"
+    ],
+    [
+      "live longer",
+      "sống lâu hơn"
+    ],
+    [
+      "enjoy their later years",
+      "tận hưởng những năm cuối đời"
+    ],
+    [
+      "spared the grief and burden of preventable illness",
+      "tránh được đau buồn và gánh nặng của bệnh phòng được"
+    ],
+    [
+      "respond quickly to epidemics and disasters",
+      "ứng phó nhanh với dịch bệnh và thiên tai"
+    ],
+    [
+      "feel more secure and more equal",
+      "cảm thấy an toàn và bình đẳng hơn"
+    ],
+    [
+      "trust in public institutions",
+      "niềm tin vào các thể chế công"
+    ],
+    [
+      "a more productive, more cohesive society",
+      "xã hội năng suất và gắn kết hơn"
+    ],
+    [
+      "across generations",
+      "qua nhiều thế hệ"
+    ]
+  ]
+}

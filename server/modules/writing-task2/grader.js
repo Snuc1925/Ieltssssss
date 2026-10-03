@@ -86,7 +86,7 @@ async function callDeepSeek(prompt) {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
     body: JSON.stringify({
-      model: process.env.DEEPSEEK_MODEL || 'deepseek-v4-pro',
+      model: process.env.DEEPSEEK_MODEL || 'deepseek-v4-flash',
       messages: [
         { role: 'system', content: SYSTEM_INSTRUCTION },
         { role: 'user', content: prompt },

@@ -1,0 +1,128 @@
+{
+  "questionId": 296,
+  "text": "Unemployment, poverty, crime and family breakdown are often blamed on economic or political failure, but some argue that poor health is the main cause of social problems. I partly agree with this view, since illness can trigger a chain of difficulties, although it is not the only or even the main cause in every case.\n\nTo begin with, poor health can trigger a chain of social problems. Illness reduces the ability to work and earn, leads to debt and family stress, and may cause isolation or substance abuse. A father who falls ill and cannot work, for example, may plunge his family into debt and stress, and his children may miss out on education and opportunities. Mental illness that is untreated can also lead to homelessness, broken relationships and, in some cases, crime. In poorer countries, widespread disease holds back whole communities, since sick people cannot farm, study or run businesses.\n\nHowever, poor health is rarely the only cause. Inequality, weak education and unemployment also create social problems independently, and they often cause poor health in the first place, so cause and effect run in both directions. A person who loses a job, for instance, may fall into poverty and then become ill because of stress, bad housing or poor diet. Social problems such as corruption, discrimination and lack of opportunity cannot be explained by health alone. Tackling them requires fair economic policies, good schools and strong institutions as well as health services. Health is therefore a major cause but part of a wider cycle.\n\nIn conclusion, poor health is an important cause of social problems, but it interacts with poverty, education and inequality, so I agree only partly that it is the main cause.",
+  "analysis": {
+    "type_vi": "Extent: sức khoẻ kém là nguyên nhân chính của vấn đề xã hội — đồng ý một phần",
+    "plan": [
+      {
+        "step": "1. Khung Extent với lập trường 'một phần'",
+        "think": "Đề nêu 'main cause' nên đồng ý một phần là hợp lý: sức khoẻ kém là nguyên nhân quan trọng nhưng không phải duy nhất hay chính trong mọi trường hợp.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đồng ý",
+        "think": "Bệnh làm giảm khả năng làm việc và kiếm tiền, dẫn đến nợ và căng thẳng gia đình, cô lập hay lạm dụng chất; bệnh tâm thần không điều trị dẫn đến vô gia cư, đổ vỡ quan hệ, đôi khi phạm tội; nước nghèo bệnh tật kìm hãm cả cộng đồng. Ví dụ người cha ốm không làm việc được đẩy gia đình vào nợ.",
+        "refs": [
+          "ID-health-health-social",
+          "EX-health-breadwinner-ill",
+          "ID-health-mental-neglected",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phần không đồng ý",
+        "think": "Bất bình đẳng, giáo dục yếu, thất nghiệp tự gây vấn đề xã hội và thường gây sức khoẻ kém từ đầu: nhân quả hai chiều. Ví dụ mất việc rồi nghèo rồi ốm vì căng thẳng, nhà ở tệ. Tham nhũng, phân biệt đối xử không giải thích bằng sức khoẻ; cần chính sách kinh tế công bằng, trường tốt, thể chế mạnh.",
+        "refs": [
+          "ID-health-social-determinants",
+          "ID-health-environment-shapes",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Sức khoẻ là nguyên nhân quan trọng nhưng tương tác với nghèo, giáo dục, bất bình đẳng; đồng ý một phần.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-health-social",
+      "EX-health-breadwinner-ill"
+    ]
+  },
+  "chunks": [
+    [
+      "Unemployment, poverty, crime and family breakdown",
+      "thất nghiệp, nghèo, tội phạm và đổ vỡ gia đình"
+    ],
+    [
+      "economic or political failure",
+      "thất bại kinh tế hoặc chính trị"
+    ],
+    [
+      "the main cause of social problems",
+      "nguyên nhân chính của các vấn đề xã hội"
+    ],
+    [
+      "trigger a chain of difficulties",
+      "kích hoạt chuỗi khó khăn"
+    ],
+    [
+      "reduces the ability to work and earn",
+      "giảm khả năng làm việc và kiếm tiền"
+    ],
+    [
+      "leads to debt and family stress",
+      "dẫn đến nợ nần và căng thẳng gia đình"
+    ],
+    [
+      "isolation or substance abuse",
+      "cô lập hoặc lạm dụng chất"
+    ],
+    [
+      "plunge his family into debt",
+      "đẩy gia đình anh ta vào nợ nần"
+    ],
+    [
+      "miss out on education and opportunities",
+      "bỏ lỡ giáo dục và cơ hội"
+    ],
+    [
+      "homelessness, broken relationships",
+      "vô gia cư, đổ vỡ quan hệ"
+    ],
+    [
+      "widespread disease holds back whole communities",
+      "bệnh tật lan rộng kìm hãm cả cộng đồng"
+    ],
+    [
+      "rarely the only cause",
+      "hiếm khi là nguyên nhân duy nhất"
+    ],
+    [
+      "Inequality, weak education and unemployment",
+      "bất bình đẳng, giáo dục yếu kém và thất nghiệp"
+    ],
+    [
+      "independently",
+      "một cách độc lập"
+    ],
+    [
+      "cause and effect run in both directions",
+      "nhân quả chạy theo cả hai chiều"
+    ],
+    [
+      "fall into poverty",
+      "rơi vào nghèo đói"
+    ],
+    [
+      "corruption, discrimination and lack of opportunity",
+      "tham nhũng, phân biệt đối xử và thiếu cơ hội"
+    ],
+    [
+      "fair economic policies, good schools and strong institutions",
+      "chính sách kinh tế công bằng, trường tốt và thể chế vững"
+    ],
+    [
+      "a major cause but part of a wider cycle",
+      "nguyên nhân lớn nhưng chỉ là một phần của vòng rộng hơn"
+    ],
+    [
+      "interacts with poverty, education and inequality",
+      "tương tác với nghèo đói, giáo dục và bất bình đẳng"
+    ]
+  ]
+}

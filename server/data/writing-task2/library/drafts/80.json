@@ -1,0 +1,127 @@
+{
+  "questionId": 80,
+  "text": "Many people suffer from depression, anxiety and other mental health problems, yet professional help is often expensive or hard to reach. I largely agree that mental health services should be free, since cost prevents many people from getting early treatment, although there are practical limits to what can be provided.\n\nTo begin with, free mental health services remove the cost barrier to early treatment. Therapy and medication are expensive, so many people go without help until their condition becomes severe, while early support keeps them working and out of hospital. A student with anxiety who can see a counsellor for free, for example, may recover quickly and finish her studies, whereas one who cannot afford help may drop out. Untreated problems also tend to get worse, which makes later care more complicated and more costly for everyone.\n\nFurthermore, free services bring wider benefits to society. People who recover are able to work, look after their families and take part in community life, which raises productivity and reduces pressure on hospitals, welfare and even the justice system. Free access also helps to reduce stigma, because seeking help becomes a normal part of healthcare. However, there are limits. Free services cost taxpayers a great deal, demand may increase sharply, waiting lists can grow long and there is often a shortage of trained therapists. Governments may therefore need to introduce them in stages, starting with those in greatest need, and train more professionals.\n\nIn conclusion, mental health services should be free to a large extent, because this allows early treatment and benefits society, provided that governments plan carefully for staffing and demand.",
+  "analysis": {
+    "type_vi": "Extent: dịch vụ sức khoẻ tâm thần có nên miễn phí — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu thực tế (nhiều người bị trầm cảm, lo âu nhưng giúp đỡ chuyên nghiệp đắt hoặc khó tiếp cận) rồi largely agree + lý do + giới hạn thực tế.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bỏ rào cản chi phí",
+        "think": "Trị liệu và thuốc đắt nên nhiều người chờ đến khi nặng mới đi; hỗ trợ sớm giữ họ làm việc và ngoài bệnh viện. Ví dụ sinh viên lo âu gặp cố vấn miễn phí hồi phục nhanh.",
+        "refs": [
+          "ID-health-free-mental",
+          "ID-health-mental-neglected",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — lợi ích xã hội + giới hạn",
+        "think": "Người hồi phục làm việc, chăm gia đình, giảm áp lực lên bệnh viện, phúc lợi, tư pháp; giảm kỳ thị. Giới hạn: chi phí thuế, nhu cầu tăng, danh sách chờ, thiếu nhà trị liệu; áp dụng theo giai đoạn, ưu tiên người cần nhất.",
+        "refs": [
+          "ID-health-free-mental",
+          "ID-health-cost-sharing",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Miễn phí ở mức độ lớn, với điều kiện chính phủ lên kế hoạch kỹ về nhân sự và nhu cầu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-free-mental"
+    ]
+  },
+  "chunks": [
+    [
+      "mental health problems",
+      "vấn đề sức khoẻ tâm thần"
+    ],
+    [
+      "professional help",
+      "sự giúp đỡ chuyên nghiệp"
+    ],
+    [
+      "hard to reach",
+      "khó tiếp cận"
+    ],
+    [
+      "mental health services should be free",
+      "dịch vụ sức khoẻ tâm thần nên miễn phí"
+    ],
+    [
+      "prevents many people from getting early treatment",
+      "ngăn nhiều người được điều trị sớm"
+    ],
+    [
+      "the cost barrier",
+      "rào cản chi phí"
+    ],
+    [
+      "go without help",
+      "không được giúp đỡ"
+    ],
+    [
+      "becomes severe",
+      "trở nên nghiêm trọng"
+    ],
+    [
+      "keeps them working and out of hospital",
+      "giúp họ tiếp tục làm việc và tránh bệnh viện"
+    ],
+    [
+      "see a counsellor for free",
+      "gặp cố vấn miễn phí"
+    ],
+    [
+      "drop out",
+      "bỏ học"
+    ],
+    [
+      "get worse",
+      "trở nên tệ hơn"
+    ],
+    [
+      "more complicated and more costly",
+      "phức tạp và tốn kém hơn"
+    ],
+    [
+      "look after their families",
+      "chăm sóc gia đình"
+    ],
+    [
+      "take part in community life",
+      "tham gia đời sống cộng đồng"
+    ],
+    [
+      "reduce stigma",
+      "giảm kỳ thị"
+    ],
+    [
+      "a normal part of healthcare",
+      "phần bình thường của chăm sóc sức khoẻ"
+    ],
+    [
+      "demand may increase sharply",
+      "nhu cầu có thể tăng mạnh"
+    ],
+    [
+      "waiting lists",
+      "danh sách chờ"
+    ],
+    [
+      "a shortage of trained therapists",
+      "thiếu nhà trị liệu được đào tạo"
+    ]
+  ]
+}

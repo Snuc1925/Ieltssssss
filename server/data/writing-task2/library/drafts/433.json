@@ -1,0 +1,123 @@
+{
+  "questionId": 433,
+  "text": "Opinions are divided as to whether public money should be spent mainly on preventive healthcare or on treatment services. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of prevention argue that stopping illness before it develops is cheaper and kinder than curing it. Regular screening, vaccination and advice on diet, exercise and smoking identify problems early, when they are simple and inexpensive to deal with. A cancer found at an early stage, for example, may be treated with minor surgery, whereas the same disease found late may require years of costly care. Preventive measures also keep people productive and independent, and each unit of money spent on prevention can save several times as much on treatment later. Healthy habits learned in childhood can last a lifetime. Prevention therefore offers benefits that extend across a person's entire life.\n\nOn the other hand, supporters of treatment services point out that illness cannot always be prevented. Accidents, genetic conditions and infections strike even careful people, and those who are already sick need skilled help immediately, not advice about their future. Hospitals, emergency teams and specialist doctors save lives every day, and the public rightly expects the state to provide them. A patient with a broken spine, for instance, depends on emergency treatment and long-term rehabilitation, not on prevention campaigns. Reducing treatment budgets would cause suffering and anger.\n\nIn conclusion, both views have merit. Personally, I believe that prevention should receive a larger share than it does now because it offers better long-term value, but treatment must remain well funded so that nobody is left without care.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho chăm sóc dự phòng hay dịch vụ điều trị",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm (khác đề 373 ở góc chi phí / không thể phòng được)",
+        "think": "Đề 433 tập trung vào phòng vs chữa nói chung; làm rõ qua ví dụ ung thư phát hiện sớm vs muộn và tai nạn / bệnh di truyền không phòng được.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe phòng bệnh",
+        "think": "Sàng lọc, tiêm chủng, tư vấn về ăn uống, vận động, thuốc lá phát hiện sớm khi còn đơn giản và rẻ; mỗi đồng chi cho phòng bệnh tiết kiệm nhiều lần cho điều trị sau. Ví dụ ung thư phát hiện sớm mổ nhỏ.",
+        "refs": [
+          "ID-health-prevention-cheaper"
+        ]
+      },
+      {
+        "step": "3. Phe điều trị",
+        "think": "Bệnh không phải lúc nào cũng phòng được: tai nạn, bệnh di truyền, nhiễm trùng; người đã ốm cần giúp ngay; công chúng kỳ vọng nhà nước cung cấp. Ví dụ bệnh nhân gãy cột sống.",
+        "refs": [
+          "ID-health-treatment-now"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phòng bệnh nên có phần lớn hơn hiện nay vì giá trị dài hạn nhưng điều trị vẫn được tài trợ tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "preventive healthcare",
+      "chăm sóc sức khoẻ dự phòng"
+    ],
+    [
+      "treatment services",
+      "dịch vụ điều trị"
+    ],
+    [
+      "stopping illness before it develops",
+      "ngăn bệnh trước khi phát triển"
+    ],
+    [
+      "Regular screening, vaccination",
+      "sàng lọc định kỳ, tiêm chủng"
+    ],
+    [
+      "identify problems early",
+      "phát hiện vấn đề sớm"
+    ],
+    [
+      "simple and inexpensive to deal with",
+      "đơn giản và rẻ để xử lý"
+    ],
+    [
+      "found at an early stage",
+      "được phát hiện ở giai đoạn sớm"
+    ],
+    [
+      "minor surgery",
+      "phẫu thuật nhỏ"
+    ],
+    [
+      "years of costly care",
+      "nhiều năm chăm sóc tốn kém"
+    ],
+    [
+      "keep people productive and independent",
+      "giúp người ta làm việc hiệu quả và tự lập"
+    ],
+    [
+      "Healthy habits learned in childhood",
+      "thói quen lành mạnh học từ nhỏ"
+    ],
+    [
+      "last a lifetime",
+      "kéo dài suốt đời"
+    ],
+    [
+      "cannot always be prevented",
+      "không phải lúc nào cũng phòng được"
+    ],
+    [
+      "strike even careful people",
+      "tấn công cả người cẩn thận"
+    ],
+    [
+      "need skilled help immediately",
+      "cần sự giúp đỡ có tay nghề ngay lập tức"
+    ],
+    [
+      "save lives every day",
+      "cứu mạng người mỗi ngày"
+    ],
+    [
+      "emergency teams",
+      "đội cấp cứu"
+    ],
+    [
+      "long-term rehabilitation",
+      "phục hồi chức năng dài hạn"
+    ],
+    [
+      "good long-term value",
+      "giá trị dài hạn tốt"
+    ],
+    [
+      "nobody is left without care",
+      "không ai bị bỏ lại không được chăm sóc"
+    ]
+  ]
+}

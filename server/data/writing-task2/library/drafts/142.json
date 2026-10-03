@@ -1,0 +1,131 @@
+{
+  "questionId": 142,
+  "text": "Overweight children are now seen in schools around the world, and they face a higher risk of diabetes, heart problems and low self-esteem. This essay will suggest practical measures that governments could take, focusing on healthy food and activity at school and on changing the wider environment in which children grow up.\n\nTo begin with, governments should make healthy eating and activity part of children's everyday lives at school. School meal standards, daily physical education, limits on advertising to children and safe play areas shape habits at an age when they are easiest to form. A school that serves fresh meals and gives every pupil a daily sports lesson, for instance, helps children to build habits that last into adulthood. Vending machines selling sugary snacks can be replaced with water and fruit, and cooking and nutrition lessons can teach children how to prepare simple, healthy meals. Because children spend much of the day at school, these steps reach almost every child, regardless of family income.\n\nIn addition, authorities should change the environment outside school and support parents. Taxes on sugary drinks, restrictions on promoting unhealthy products to children and stricter rules on fast-food outlets near schools reduce temptation, while safe parks, cycle lanes and affordable sports clubs make activity easy and enjoyable. Equally important, health workers can give advice and support to families when a child begins to gain weight, and campaigns can help parents to understand portion sizes and screen time. These measures cost much less than treating obesity-related disease in adulthood, and they bring lasting benefits for health and education.\n\nIn conclusion, improving school food and exercise and creating a healthier environment for families offer the most realistic way of reducing childhood obesity.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ giảm béo phì ở trẻ em",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Hai nhóm: ăn uống và vận động ở trường; môi trường bên ngoài trường và hỗ trợ phụ huynh. Mở bài nêu hậu quả (tiểu đường, bệnh tim, tự ti thấp).",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — ở trường",
+        "think": "Tiêu chuẩn bữa ăn, thể dục hằng ngày, hạn chế quảng cáo cho trẻ, sân chơi an toàn; thay máy bán đồ ngọt bằng nước và trái cây; bài học nấu ăn và dinh dưỡng; trẻ ở trường nhiều nên chạm tới gần như mọi trẻ không phân biệt thu nhập. Ví dụ trường phục vụ bữa ăn tươi và tiết thể thao hằng ngày.",
+        "refs": [
+          "ID-health-obesity-solutions",
+          "EX-health-school-garden",
+          "ID-health-school-food",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — môi trường và gia đình",
+        "think": "Thuế đồ uống đường, hạn chế quảng cáo, quy định quán ăn nhanh gần trường; công viên, làn xe đạp, câu lạc bộ thể thao giá rẻ; nhân viên y tế tư vấn khi trẻ bắt đầu tăng cân; chiến dịch cho phụ huynh về khẩu phần và thời gian màn hình.",
+        "refs": [
+          "ID-health-tax-pro",
+          "ID-health-gov-tools",
+          "ID-health-environment-shapes",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm: cải thiện thức ăn và vận động ở trường, tạo môi trường lành mạnh cho gia đình.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-obesity-solutions",
+      "EX-health-school-garden"
+    ]
+  },
+  "chunks": [
+    [
+      "Overweight children",
+      "trẻ thừa cân"
+    ],
+    [
+      "a higher risk of diabetes, heart problems and low self-esteem",
+      "nguy cơ cao hơn về tiểu đường, tim và lòng tự trọng thấp"
+    ],
+    [
+      "healthy food and activity at school",
+      "thức ăn lành mạnh và vận động ở trường"
+    ],
+    [
+      "the wider environment in which children grow up",
+      "môi trường rộng hơn nơi trẻ lớn lên"
+    ],
+    [
+      "part of children's everyday lives",
+      "một phần cuộc sống hằng ngày của trẻ"
+    ],
+    [
+      "at an age when they are easiest to form",
+      "ở độ tuổi dễ hình thành nhất"
+    ],
+    [
+      "serves fresh meals",
+      "phục vụ bữa ăn tươi"
+    ],
+    [
+      "a daily sports lesson",
+      "tiết thể thao hằng ngày"
+    ],
+    [
+      "habits that last into adulthood",
+      "thói quen kéo dài đến tuổi trưởng thành"
+    ],
+    [
+      "Vending machines selling sugary snacks",
+      "máy bán đồ ăn vặt có đường"
+    ],
+    [
+      "cooking and nutrition lessons",
+      "bài học nấu ăn và dinh dưỡng"
+    ],
+    [
+      "regardless of family income",
+      "bất kể thu nhập gia đình"
+    ],
+    [
+      "restrictions on promoting unhealthy products to children",
+      "hạn chế quảng bá sản phẩm không lành mạnh cho trẻ"
+    ],
+    [
+      "reduce temptation",
+      "giảm cám dỗ"
+    ],
+    [
+      "affordable sports clubs",
+      "câu lạc bộ thể thao giá phải chăng"
+    ],
+    [
+      "begins to gain weight",
+      "bắt đầu tăng cân"
+    ],
+    [
+      "portion sizes and screen time",
+      "khẩu phần và thời gian dùng màn hình"
+    ],
+    [
+      "obesity-related disease",
+      "bệnh liên quan béo phì"
+    ],
+    [
+      "lasting benefits",
+      "lợi ích lâu dài"
+    ],
+    [
+      "a healthier environment for families",
+      "môi trường lành mạnh hơn cho gia đình"
+    ]
+  ]
+}

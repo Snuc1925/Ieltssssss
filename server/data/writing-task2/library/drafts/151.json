@@ -1,0 +1,130 @@
+{
+  "questionId": 151,
+  "text": "Opinions are divided as to whether public money should be directed mainly at mental health or at physical health. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of mental health spending argue that mental illness is common but often neglected. Conditions such as depression and anxiety are hidden, carry stigma and cost society through lost work, broken relationships and, in the worst cases, suicide. Early help is far cheaper than late treatment, yet many people wait months for therapy. An employee with untreated depression, for example, may be absent from work for months and strain relationships at home. Young people are especially at risk, and good support at school can prevent problems that last for decades. For these reasons, mental health deserves a larger share of spending than it usually receives.\n\nOn the other hand, critics point out that physical illness is often more visible and immediately life-threatening. Cancer, heart disease and injuries need hospitals, equipment and trained staff at once, and their results are easier to measure. A heart patient who cannot get an operation, for instance, may die within weeks, whatever else the government spends on. Mental health also tends to improve when physical needs are met, since people who are free from pain and disease are better able to cope. Funding for physical care therefore cannot be allowed to fall. Both forms of care are essential to a healthy society.\n\nIn conclusion, both views have merit. Personally, I believe that mental and physical health are closely connected and that mental health should receive a larger share than at present, while life-saving physical care remains well funded.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi tiêu cho sức khoẻ tâm thần hay thể chất",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hai đối tượng của đề (mental / physical health); mỗi thân bài một phía.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe tâm thần",
+        "think": "Bệnh tâm thần phổ biến nhưng bị bỏ quên, chi phí ẩn; điều trị sớm rẻ hơn; người trẻ dễ tổn thương. Ví dụ nhân viên trầm cảm không điều trị nghỉ việc hàng tháng.",
+        "refs": [
+          "ID-health-mental-neglected",
+          "EX-health-untreated-depression"
+        ]
+      },
+      {
+        "step": "3. Phe thể chất",
+        "think": "Bệnh thể chất rõ và đe doạ tính mạng; cần bệnh viện, thiết bị, nhân lực ngay; kết quả đo được; tinh thần khá hơn khi thể chất ổn. Ví dụ bệnh nhân tim không mổ được.",
+        "refs": [
+          "ID-health-physical-urgent",
+          "EX-health-heart-patient"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hai loại sức khoẻ gắn chặt; tâm thần nên nhận phần lớn hơn hiện nay, thể chất vẫn được tài trợ tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-mental-neglected",
+      "ID-health-physical-urgent",
+      "EX-health-untreated-depression",
+      "EX-health-heart-patient"
+    ]
+  },
+  "chunks": [
+    [
+      "directed mainly at mental health",
+      "chủ yếu dành cho sức khoẻ tâm thần"
+    ],
+    [
+      "mental illness",
+      "bệnh tâm thần"
+    ],
+    [
+      "common but often neglected",
+      "phổ biến nhưng thường bị bỏ quên"
+    ],
+    [
+      "depression and anxiety",
+      "trầm cảm và lo âu"
+    ],
+    [
+      "carry stigma",
+      "mang tiếng xấu xã hội"
+    ],
+    [
+      "lost work, broken relationships",
+      "mất việc làm, đổ vỡ quan hệ"
+    ],
+    [
+      "in the worst cases",
+      "trong trường hợp tệ nhất"
+    ],
+    [
+      "Early help is far cheaper than late treatment",
+      "giúp đỡ sớm rẻ hơn nhiều so với điều trị muộn"
+    ],
+    [
+      "wait months for therapy",
+      "chờ nhiều tháng để trị liệu"
+    ],
+    [
+      "untreated depression",
+      "trầm cảm không được điều trị"
+    ],
+    [
+      "strain relationships",
+      "làm căng thẳng các mối quan hệ"
+    ],
+    [
+      "especially at risk",
+      "đặc biệt có nguy cơ"
+    ],
+    [
+      "last for decades",
+      "kéo dài hàng chục năm"
+    ],
+    [
+      "immediately life-threatening",
+      "đe doạ tính mạng ngay lập tức"
+    ],
+    [
+      "need hospitals, equipment and trained staff at once",
+      "cần bệnh viện, thiết bị và nhân viên được đào tạo ngay"
+    ],
+    [
+      "easier to measure",
+      "dễ đo lường hơn"
+    ],
+    [
+      "die within weeks",
+      "chết trong vài tuần"
+    ],
+    [
+      "free from pain and disease",
+      "không đau đớn và bệnh tật"
+    ],
+    [
+      "better able to cope",
+      "đối phó tốt hơn"
+    ],
+    [
+      "closely connected",
+      "gắn bó chặt chẽ"
+    ]
+  ]
+}

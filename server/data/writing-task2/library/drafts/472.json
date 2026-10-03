@@ -1,0 +1,129 @@
+{
+  "questionId": 472,
+  "text": "Contaminated food can make large numbers of people ill within a few hours, and some argue that stricter food safety regulations protect public health. I largely agree, since strong rules prevent outbreaks and build trust, although they must be fair and enforceable.\n\nTo begin with, strict food safety rules protect public health. Inspections, hygiene standards and traceability reduce outbreaks of food poisoning and allow contaminated products to be recalled quickly, which builds trust in the food industry. A restaurant that stores raw meat next to salad, for example, can cause an outbreak of food poisoning that affects dozens of customers. Rules about cooking temperatures, cleaning, storage and labelling of allergens remove many of these risks. Because consumers cannot see bacteria or check a factory for themselves, they depend on regulation to keep food safe, and children, older people and pregnant women are particularly vulnerable.\n\nFurthermore, regulations create a level playing field and support trade. Honest producers are not undercut by careless ones who save money by ignoring hygiene, and exporters need to meet high standards to sell in other countries. After a serious scandal, the damage to an entire industry can be far greater than the cost of prevention. However, strict rules also have costs. Small farmers and local sellers may find paperwork and equipment expensive, and enforcement requires well-trained inspectors. Authorities should therefore apply proportionate rules, give advice and time to small businesses, and focus inspections on the highest risks, so that safety is improved without destroying livelihoods.\n\nIn conclusion, stricter food safety regulations protect public health to a large extent, because they prevent illness and build trust, provided that they are proportionate and well enforced.",
+  "analysis": {
+    "type_vi": "Extent: quy định an toàn thực phẩm nghiêm hơn bảo vệ sức khoẻ cộng đồng — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu hiểm hoạ (thực phẩm nhiễm bẩn làm nhiều người ốm trong vài giờ) rồi largely agree + lý do + giới hạn (công bằng, khả thi).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bảo vệ sức khoẻ",
+        "think": "Thanh tra, tiêu chuẩn vệ sinh, truy xuất nguồn gốc giảm ngộ độc, thu hồi sản phẩm nhanh, xây lòng tin; quy tắc về nhiệt độ nấu, vệ sinh, bảo quản, nhãn dị ứng; người tiêu dùng không tự kiểm tra được; trẻ em, người già, phụ nữ có thai dễ tổn thương. Ví dụ nhà hàng để thịt sống cạnh salad.",
+        "refs": [
+          "ID-health-food-safety",
+          "EX-health-outbreak",
+          "ID-health-gov-tools",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — sân chơi bình đẳng + giới hạn",
+        "think": "Nhà sản xuất trung thực không bị người cẩu thả cạnh tranh giá; xuất khẩu cần tiêu chuẩn cao; sau bê bối thiệt hại lớn hơn chi phí phòng ngừa. Giới hạn: giấy tờ và thiết bị đắt với nông dân nhỏ; cần thanh tra được đào tạo; quy tắc tương xứng, tư vấn, thời gian, tập trung vào rủi ro cao.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-health-private-con",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Bảo vệ ở mức độ lớn nếu quy định tương xứng và được thực thi tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-food-safety",
+      "EX-health-outbreak"
+    ]
+  },
+  "chunks": [
+    [
+      "Contaminated food",
+      "thực phẩm bị nhiễm bẩn"
+    ],
+    [
+      "stricter food safety regulations",
+      "quy định an toàn thực phẩm nghiêm hơn"
+    ],
+    [
+      "prevent outbreaks and build trust",
+      "ngăn bùng phát và xây lòng tin"
+    ],
+    [
+      "Inspections, hygiene standards and traceability",
+      "thanh tra, tiêu chuẩn vệ sinh và truy xuất nguồn gốc"
+    ],
+    [
+      "outbreaks of food poisoning",
+      "các vụ bùng phát ngộ độc thực phẩm"
+    ],
+    [
+      "recalled quickly",
+      "được thu hồi nhanh chóng"
+    ],
+    [
+      "stores raw meat next to salad",
+      "để thịt sống cạnh salad"
+    ],
+    [
+      "cooking temperatures",
+      "nhiệt độ nấu"
+    ],
+    [
+      "labelling of allergens",
+      "dán nhãn chất gây dị ứng"
+    ],
+    [
+      "check a factory for themselves",
+      "tự kiểm tra một nhà máy"
+    ],
+    [
+      "particularly vulnerable",
+      "đặc biệt dễ tổn thương"
+    ],
+    [
+      "a level playing field",
+      "sân chơi bình đẳng"
+    ],
+    [
+      "undercut by careless ones",
+      "bị người cẩu thả cạnh tranh giá"
+    ],
+    [
+      "ignoring hygiene",
+      "phớt lờ vệ sinh"
+    ],
+    [
+      "a serious scandal",
+      "một bê bối nghiêm trọng"
+    ],
+    [
+      "paperwork and equipment",
+      "giấy tờ và thiết bị"
+    ],
+    [
+      "well-trained inspectors",
+      "thanh tra được đào tạo tốt"
+    ],
+    [
+      "proportionate rules",
+      "quy định tương xứng"
+    ],
+    [
+      "focus inspections on the highest risks",
+      "tập trung thanh tra vào rủi ro cao nhất"
+    ],
+    [
+      "destroying livelihoods",
+      "phá huỷ sinh kế"
+    ]
+  ]
+}

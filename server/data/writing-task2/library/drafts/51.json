@@ -1,0 +1,131 @@
+{
+  "questionId": 51,
+  "text": "Opinions are divided as to whether public money should be focused on healthcare or on other priorities such as education, housing and transport. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of healthcare spending argue that good health is the foundation on which everything else depends. A sick population cannot learn, work or care for children, ageing societies need more care each year, and emergencies such as pandemics show how quickly weak health systems fail. Spending on hospitals, doctors and medicines therefore saves lives and protects the economy. A patient who waits two years for surgery, for example, may lose the ability to work and need far more care later. Delays like this are costly in both human and financial terms. Investing early in staff and equipment can prevent such delays.\n\nOn the other hand, critics point out that governments have limited funds and many equally urgent responsibilities. Many illnesses are caused by conditions that hospitals cannot change: damp housing, poor education, pollution and poverty all damage health, so spending on housing, schools and clean air can reduce hospital visits. Families living in damp homes, for example, suffer more asthma, so better housing can reduce visits to hospital. A narrow focus on treatment therefore neglects the causes of illness, and transport and education also improve lives.\n\nIn conclusion, both views have merit. Overall, I believe that healthcare should receive a large share of public money, because it is essential and growing in demand, but not at the expense of the housing, education and environmental measures that prevent illness in the first place.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi tiêu chính phủ cho y tế hay ưu tiên khác",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Dùng lại cấu trúc các đề 'chi tiêu chính phủ' đã làm (31, 498, 486): phe 'ưu tiên khác' dùng ý ngân sách có hạn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe y tế",
+        "think": "Sức khoẻ là nền tảng: người ốm không học, làm việc, chăm sóc con; dân số già; đại dịch. Ví dụ bệnh nhân chờ phẫu thuật hai năm mất khả năng làm việc.",
+        "refs": [
+          "ID-health-foundation",
+          "EX-health-surgery-wait"
+        ]
+      },
+      {
+        "step": "3. Phe ưu tiên khác",
+        "think": "Ngân sách có hạn; nhiều bệnh do nhà ẩm, nghèo, ô nhiễm mà bệnh viện không thay đổi được; chi cho nhà ở và trường học giảm số lần đến bệnh viện. Ví dụ gia đình nhà ẩm bị hen suyễn nhiều hơn.",
+        "refs": [
+          "ID-env-other-priorities",
+          "ID-health-social-determinants",
+          "EX-health-damp-homes"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Y tế nhận phần lớn nhưng không đánh đổi các biện pháp phòng bệnh về nhà ở, giáo dục, môi trường.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-foundation",
+      "ID-health-social-determinants",
+      "EX-health-surgery-wait",
+      "EX-health-damp-homes"
+    ]
+  },
+  "chunks": [
+    [
+      "public money",
+      "tiền công"
+    ],
+    [
+      "focused on healthcare",
+      "tập trung vào y tế"
+    ],
+    [
+      "supporters of healthcare spending",
+      "người ủng hộ chi cho y tế"
+    ],
+    [
+      "the foundation on which everything else depends",
+      "nền tảng mà mọi thứ khác dựa vào"
+    ],
+    [
+      "care for children",
+      "chăm sóc con cái"
+    ],
+    [
+      "ageing societies",
+      "xã hội già hoá"
+    ],
+    [
+      "weak health systems fail",
+      "hệ thống y tế yếu sụp đổ"
+    ],
+    [
+      "saves lives and protects the economy",
+      "cứu mạng người và bảo vệ nền kinh tế"
+    ],
+    [
+      "waits two years for surgery",
+      "chờ hai năm để phẫu thuật"
+    ],
+    [
+      "lose the ability to work",
+      "mất khả năng làm việc"
+    ],
+    [
+      "in both human and financial terms",
+      "cả về con người lẫn tài chính"
+    ],
+    [
+      "limited funds",
+      "nguồn lực hạn chế"
+    ],
+    [
+      "equally urgent responsibilities",
+      "trách nhiệm cấp bách ngang nhau"
+    ],
+    [
+      "conditions that hospitals cannot change",
+      "những điều kiện mà bệnh viện không thể thay đổi"
+    ],
+    [
+      "damp housing",
+      "nhà ẩm thấp"
+    ],
+    [
+      "reduce hospital visits",
+      "giảm số lần đến bệnh viện"
+    ],
+    [
+      "suffer more asthma",
+      "bị hen suyễn nhiều hơn"
+    ],
+    [
+      "a narrow focus on treatment",
+      "chỉ tập trung vào điều trị"
+    ],
+    [
+      "neglects the causes of illness",
+      "bỏ qua nguyên nhân gây bệnh"
+    ],
+    [
+      "prevent illness in the first place",
+      "ngăn bệnh ngay từ đầu"
+    ]
+  ]
+}

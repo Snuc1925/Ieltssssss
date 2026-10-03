@@ -1,0 +1,129 @@
+{
+  "questionId": 43,
+  "text": "Doctors recommend at least half an hour of exercise on most days, yet many people find it hard to stay active. This essay will outline two key ways in which sport promotes a healthy lifestyle: by improving physical and mental health and by building habits and communities that last.\n\nFirst and foremost, regular sport lowers the risk of serious disease and improves mood. Exercise strengthens the heart, controls weight, reduces stress and improves sleep, and it lowers the risk of diabetes and some cancers. Playing sport also releases chemicals in the brain that make people feel happier, so it helps with anxiety and low mood. An office worker who plays football with friends every weekend, for example, gets regular exercise without having to force himself, because he enjoys the game. As a result, people who play sport tend to have more energy and fewer health problems as they get older.\n\nIn addition, sport builds habits and communities that last. Team sports give people friends and routines that make it easier to keep going, since nobody wants to let teammates down, and the competition gives a clear goal to work towards. Children who learn to enjoy sport are more likely to stay active as adults. Clubs also bring neighbours together, reducing loneliness. However, sport is not suitable for everyone in the same way. Competitive games may discourage those who are less talented, and injuries and costs can be barriers, so a range of options, from walking groups to casual games, is needed to include all ages and abilities.\n\nTo sum up, sport promotes a healthy lifestyle by improving health and by creating lasting habits and friendships. For these reasons, it deserves encouragement at every age.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của thể thao trong thúc đẩy lối sống lành mạnh",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu khuyến cáo của bác sĩ (ít nhất nửa giờ vận động hầu hết các ngày) và thực tế nhiều người khó duy trì; báo hai vai trò: cải thiện sức khoẻ thể chất và tinh thần; xây thói quen và cộng đồng lâu dài.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — sức khoẻ",
+        "think": "Thể thao giảm nguy cơ bệnh nặng và cải thiện tâm trạng: tim khoẻ, kiểm soát cân nặng, giảm căng thẳng, ngủ tốt, giảm nguy cơ tiểu đường và một số ung thư; hoá chất não làm vui hơn, giúp lo âu. Ví dụ nhân viên văn phòng đá bóng với bạn cuối tuần.",
+        "refs": [
+          "ID-sport-healthy-lifestyle",
+          "EX-sport-weekend-football"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — thói quen và cộng đồng + giới hạn",
+        "think": "Thể thao đồng đội cho bạn bè và thói quen; mục tiêu rõ; trẻ yêu thể thao dễ duy trì khi lớn; câu lạc bộ gắn kết hàng xóm. Giới hạn: không phù hợp mọi người như nhau; trò chơi cạnh tranh làm nản người kém tài; chấn thương và chi phí; cần nhiều lựa chọn từ nhóm đi bộ đến trò chơi thoải mái.",
+        "refs": [
+          "ID-sport-society",
+          "ID-sport-youth",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai vai trò; cụm 'deserves encouragement at every age'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-healthy-lifestyle",
+      "EX-sport-weekend-football"
+    ]
+  },
+  "chunks": [
+    [
+      "half an hour of exercise on most days",
+      "nửa giờ tập thể dục hầu hết các ngày"
+    ],
+    [
+      "stay active",
+      "giữ vận động"
+    ],
+    [
+      "promotes a healthy lifestyle",
+      "thúc đẩy lối sống lành mạnh"
+    ],
+    [
+      "improving physical and mental health",
+      "cải thiện sức khoẻ thể chất và tinh thần"
+    ],
+    [
+      "building habits and communities that last",
+      "xây dựng thói quen và cộng đồng bền lâu"
+    ],
+    [
+      "lowers the risk of serious disease",
+      "giảm nguy cơ bệnh nặng"
+    ],
+    [
+      "improves mood",
+      "cải thiện tâm trạng"
+    ],
+    [
+      "strengthens the heart, controls weight",
+      "làm khoẻ tim, kiểm soát cân nặng"
+    ],
+    [
+      "reduces stress and improves sleep",
+      "giảm căng thẳng và cải thiện giấc ngủ"
+    ],
+    [
+      "release chemicals in the brain",
+      "giải phóng chất hoá học trong não"
+    ],
+    [
+      "feel happier",
+      "cảm thấy vui hơn"
+    ],
+    [
+      "anxiety and low mood",
+      "lo âu và tâm trạng thấp"
+    ],
+    [
+      "force himself",
+      "ép mình"
+    ],
+    [
+      "more energy and fewer health problems",
+      "nhiều năng lượng hơn và ít vấn đề sức khoẻ hơn"
+    ],
+    [
+      "let teammates down",
+      "làm đồng đội thất vọng"
+    ],
+    [
+      "a clear goal to work towards",
+      "mục tiêu rõ ràng để hướng tới"
+    ],
+    [
+      "stay active as adults",
+      "giữ vận động khi trưởng thành"
+    ],
+    [
+      "bring neighbours together",
+      "gắn kết hàng xóm"
+    ],
+    [
+      "discourage those who are less talented",
+      "làm nản người kém tài hơn"
+    ],
+    [
+      "a range of options",
+      "một loạt lựa chọn"
+    ]
+  ]
+}

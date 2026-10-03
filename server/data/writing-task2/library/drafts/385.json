@@ -1,0 +1,130 @@
+{
+  "questionId": 385,
+  "text": "Football clubs, swimming squads and school teams give millions of young people the chance to play, and their value goes beyond winning matches. This essay will outline two key roles that youth sports programmes play in young people's development: building physical fitness and health, and developing social and personal skills.\n\nFirst and foremost, youth sports programmes build fitness and good habits. Regular training develops strength, coordination and stamina, and children who enjoy sport are more likely to stay active for life, which lowers the risk of obesity, diabetes and heart disease. Sport also offers a healthy way to use energy and improves sleep and concentration, which helps pupils at school. A child who struggles to sit still in class, for example, may benefit from a daily run around a playing field. As children spend more time on screens, organised sport offers an important counterbalance.\n\nIn addition, youth sports programmes develop social and personal skills. Team play teaches cooperation, discipline and how to cope with winning and losing, and clubs give young people friends and positive role models. A shy teenager who joins a basketball team, for example, often gains confidence and makes friends. Coaches and teammates can also give support to those who face difficulties at home, and young people who are busy with training have less time to get into trouble. However, programmes must be managed carefully. Excessive pressure to win, injuries, high costs and the exclusion of weaker players can discourage children, so clubs should welcome all abilities and emphasise enjoyment and fair play.\n\nTo sum up, youth sports programmes play a valuable role in physical and social development by building fitness and by teaching teamwork and confidence. For these reasons, they deserve continued support.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của chương trình thể thao thanh thiếu niên trong phát triển thể chất và xã hội",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu bối cảnh (câu lạc bộ bóng đá, đội bơi, đội trường cho hàng triệu trẻ chơi); báo hai vai trò: thể lực và sức khoẻ; kỹ năng xã hội và cá nhân (khớp với đề: physical and social development).",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — thể chất",
+        "think": "Tập luyện đều phát triển sức mạnh, phối hợp, sức bền; trẻ thích thể thao dễ duy trì cả đời, giảm nguy cơ béo phì, tiểu đường, tim; xả năng lượng, ngủ và tập trung tốt hơn; đối trọng với màn hình. Ví dụ trẻ khó ngồi yên trong lớp có thể chạy mỗi ngày.",
+        "refs": [
+          "ID-sport-youth",
+          "ID-sport-healthy-lifestyle",
+          "ID-health-obesity-solutions"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — xã hội + giới hạn",
+        "think": "Chơi đội dạy hợp tác, kỷ luật, đối phó thắng thua; câu lạc bộ cho bạn bè và hình mẫu; huấn luyện viên và đồng đội hỗ trợ trẻ gặp khó ở nhà; bận tập ít thời gian gây rắc rối. Ví dụ thiếu niên nhút nhát vào đội bóng rổ tự tin hơn. Giới hạn: áp lực thắng, chấn thương, chi phí, loại trừ người yếu; câu lạc bộ chào đón mọi khả năng, nhấn mạnh niềm vui và chơi đúng luật.",
+        "refs": [
+          "ID-sport-society",
+          "EX-sport-shy-teen",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai vai trò; cụm 'deserve continued support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-youth",
+      "EX-sport-shy-teen"
+    ]
+  },
+  "chunks": [
+    [
+      "youth sports programmes",
+      "chương trình thể thao thanh thiếu niên"
+    ],
+    [
+      "physical and social development",
+      "phát triển thể chất và xã hội"
+    ],
+    [
+      "give millions of young people the chance to play",
+      "cho hàng triệu người trẻ cơ hội chơi"
+    ],
+    [
+      "building physical fitness and health",
+      "xây dựng thể lực và sức khoẻ"
+    ],
+    [
+      "developing social and personal skills",
+      "phát triển kỹ năng xã hội và cá nhân"
+    ],
+    [
+      "build fitness and good habits",
+      "xây dựng thể lực và thói quen tốt"
+    ],
+    [
+      "strength, coordination and stamina",
+      "sức mạnh, sự phối hợp và sức bền"
+    ],
+    [
+      "stay active for life",
+      "giữ vận động suốt đời"
+    ],
+    [
+      "a healthy way to use energy",
+      "cách lành mạnh để dùng năng lượng"
+    ],
+    [
+      "improves sleep and concentration",
+      "cải thiện giấc ngủ và sự tập trung"
+    ],
+    [
+      "struggles to sit still in class",
+      "khó ngồi yên trong lớp"
+    ],
+    [
+      "an important counterbalance",
+      "đối trọng quan trọng"
+    ],
+    [
+      "cooperation, discipline",
+      "hợp tác, kỷ luật"
+    ],
+    [
+      "cope with winning and losing",
+      "đối mặt thắng và thua"
+    ],
+    [
+      "positive role models",
+      "hình mẫu tích cực"
+    ],
+    [
+      "gains confidence and makes friends",
+      "tự tin hơn và kết bạn"
+    ],
+    [
+      "give support to those who face difficulties at home",
+      "hỗ trợ những người gặp khó khăn ở nhà"
+    ],
+    [
+      "get into trouble",
+      "gặp rắc rối"
+    ],
+    [
+      "Excessive pressure to win",
+      "áp lực thắng quá mức"
+    ],
+    [
+      "welcome all abilities",
+      "chào đón mọi khả năng"
+    ]
+  ]
+}

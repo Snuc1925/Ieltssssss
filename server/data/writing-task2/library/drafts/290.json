@@ -1,0 +1,128 @@
+{
+  "questionId": 290,
+  "text": "Smog over cities, polluted rivers and chemicals in the soil are not only environmental issues but also health issues, and some argue that stricter environmental laws improve public health. I largely agree, although the benefits depend on enforcement and on other health measures.\n\nTo begin with, stricter environmental laws protect people from pollution-related disease. Limits on factory and vehicle emissions and on contaminated water reduce asthma, heart disease and infections, and removing lead from petrol lowered lead poisoning in children. Air pollution contributes to millions of early deaths worldwide, and cleaner air means fewer hospital admissions and longer lives. A city that bans the dirtiest vehicles from its centre, for example, may see fewer children treated for breathing problems within a few years. Safe water laws similarly prevent outbreaks of disease such as cholera, which spread quickly when drinking water is contaminated.\n\nFurthermore, environmental laws prevent long-term harm that is hard to reverse. Controls on dangerous chemicals and waste protect farmland, rivers and food supplies, and the healthcare savings can outweigh the costs of compliance. However, the benefits are not automatic. Laws that are not enforced do little, and strict rules can raise costs for businesses and consumers, which may cause resistance. Health also depends on many other factors, such as diet, exercise, income and access to doctors, so environmental laws are only one part of the picture. They should be combined with support for industries that need to adapt.\n\nIn conclusion, stricter environmental laws improve public health to a large extent, because they reduce exposure to pollution, but their success depends on enforcement and on wider health policies.",
+  "analysis": {
+    "type_vi": "Extent: luật môi trường nghiêm hơn cải thiện sức khoẻ cộng đồng — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nối môi trường với sức khoẻ (khói bụi, sông ô nhiễm, hoá chất trong đất) rồi largely agree + giới hạn (phụ thuộc thực thi và các yếu tố khác).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bảo vệ khỏi bệnh do ô nhiễm",
+        "think": "Giới hạn khí thải nhà máy, xe, nước nhiễm bẩn giảm hen, tim, nhiễm trùng; bỏ chì khỏi xăng giảm ngộ độc chì ở trẻ; ô nhiễm không khí gây hàng triệu cái chết sớm; luật nước an toàn ngăn dịch tả. Ví dụ thành phố cấm xe bẩn nhất vào trung tâm.",
+        "refs": [
+          "ID-health-env-laws",
+          "ID-env-pollution-solutions",
+          "ID-env-econ-longterm",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — ngăn tác hại dài hạn + giới hạn",
+        "think": "Kiểm soát hoá chất nguy hiểm và chất thải bảo vệ đất, sông, thực phẩm; tiết kiệm y tế có thể lớn hơn chi phí tuân thủ. Giới hạn: luật không thực thi ít tác dụng; quy định nghiêm có thể làm tăng chi phí doanh nghiệp và người tiêu dùng; sức khoẻ còn phụ thuộc ăn uống, vận động, thu nhập, tiếp cận bác sĩ; hỗ trợ ngành cần thích ứng.",
+        "refs": [
+          "ID-env-econ-cost",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện ở mức độ lớn, thành công phụ thuộc thực thi và chính sách y tế rộng hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-env-laws"
+    ]
+  },
+  "chunks": [
+    [
+      "Smog over cities",
+      "khói bụi che phủ thành phố"
+    ],
+    [
+      "polluted rivers",
+      "sông ô nhiễm"
+    ],
+    [
+      "chemicals in the soil",
+      "hoá chất trong đất"
+    ],
+    [
+      "health issues",
+      "vấn đề sức khoẻ"
+    ],
+    [
+      "stricter environmental laws",
+      "luật môi trường nghiêm hơn"
+    ],
+    [
+      "pollution-related disease",
+      "bệnh liên quan ô nhiễm"
+    ],
+    [
+      "Limits on factory and vehicle emissions",
+      "giới hạn khí thải nhà máy và xe cộ"
+    ],
+    [
+      "contaminated water",
+      "nước nhiễm bẩn"
+    ],
+    [
+      "asthma, heart disease and infections",
+      "hen, bệnh tim và nhiễm trùng"
+    ],
+    [
+      "removing lead from petrol",
+      "loại chì khỏi xăng"
+    ],
+    [
+      "lead poisoning in children",
+      "ngộ độc chì ở trẻ em"
+    ],
+    [
+      "millions of early deaths worldwide",
+      "hàng triệu ca tử vong sớm trên thế giới"
+    ],
+    [
+      "fewer hospital admissions and longer lives",
+      "ít nhập viện hơn và sống lâu hơn"
+    ],
+    [
+      "bans the dirtiest vehicles from its centre",
+      "cấm các xe bẩn nhất vào trung tâm"
+    ],
+    [
+      "Safe water laws",
+      "luật nước an toàn"
+    ],
+    [
+      "long-term harm that is hard to reverse",
+      "tác hại dài hạn khó đảo ngược"
+    ],
+    [
+      "the costs of compliance",
+      "chi phí tuân thủ"
+    ],
+    [
+      "not automatic",
+      "không tự động"
+    ],
+    [
+      "Laws that are not enforced do little",
+      "luật không được thực thi ít tác dụng"
+    ],
+    [
+      "only one part of the picture",
+      "chỉ là một phần của bức tranh"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "questionId": 253,
+  "text": "Nanotechnology, which works with materials thousands of times thinner than a human hair, is attracting growing attention in medicine. I believe that it will influence medicine to a moderate but important extent over the next twenty years, mainly through better drug delivery and detection of disease, although most applications are still at an early stage.\n\nFirst and foremost, nanotechnology could deliver drugs exactly where they are needed. Tiny particles can carry medicine directly to a tumour, sparing healthy tissue, and tiny sensors may detect disease much earlier than current tests. Chemotherapy, for example, damages healthy cells as well as cancer cells, so a treatment aimed only at the tumour could reduce side effects such as hair loss and weakness. Researchers are also developing coatings that help implants to resist infection and fabrics that can protect wounds. If these ideas succeed, patients will suffer less and recover faster.\n\nHowever, the influence will be limited in the near future. Many nano treatments remain at the laboratory stage, and testing for safety takes a long time, because very small particles may behave unpredictably inside the body. Costs are high, so new products may reach wealthy patients first, and regulators will require clear evidence that the benefits outweigh the risks. Some effects on the environment when particles are released are also unknown. Progress is therefore likely to be gradual, with a few important treatments arriving rather than a sudden revolution. Patients will still gain from each success.\n\nIn conclusion, nanotechnology is likely to influence medicine to a moderate extent through more targeted treatment and earlier detection, but safety testing and cost will slow its spread.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): công nghệ nano ảnh hưởng y học đến đâu trong 20 năm tới — mức độ vừa phải",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán với lập trường 'vừa phải'",
+        "think": "Công nghệ này còn sớm nên chọn 'moderate but important' thay vì 'rất lớn'; mở bài định nghĩa ngắn công nghệ nano.",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực — thuốc nhắm đích",
+        "think": "Hạt nhỏ đưa thuốc thẳng đến khối u, bảo vệ mô lành; cảm biến siêu nhỏ phát hiện bệnh sớm; ví dụ hoá trị hiện làm hại cả tế bào khoẻ nên nhắm đích giảm tác dụng phụ; lớp phủ chống nhiễm trùng cho cấy ghép.",
+        "refs": [
+          "ID-health-nanotech",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Nhiều ứng dụng còn ở phòng thí nghiệm; kiểm tra an toàn lâu vì hạt nhỏ hành xử khó đoán; chi phí cao; tác động môi trường chưa rõ; tiến bộ dần dần chứ không phải cách mạng đột ngột.",
+        "refs": [
+          "ID-health-nanotech",
+          "ID-health-cost-sharing",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng vừa phải thông qua điều trị nhắm đích và phát hiện sớm; an toàn và chi phí làm chậm sự lan rộng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-nanotech"
+    ]
+  },
+  "chunks": [
+    [
+      "Nanotechnology",
+      "công nghệ nano"
+    ],
+    [
+      "thousands of times thinner than a human hair",
+      "mỏng hơn sợi tóc hàng nghìn lần"
+    ],
+    [
+      "influence medicine",
+      "ảnh hưởng đến y học"
+    ],
+    [
+      "a moderate but important extent",
+      "mức độ vừa phải nhưng quan trọng"
+    ],
+    [
+      "drug delivery",
+      "phân phối thuốc"
+    ],
+    [
+      "detection of disease",
+      "phát hiện bệnh"
+    ],
+    [
+      "at an early stage",
+      "ở giai đoạn đầu"
+    ],
+    [
+      "deliver drugs exactly where they are needed",
+      "đưa thuốc đúng nơi cần"
+    ],
+    [
+      "carry medicine directly to a tumour",
+      "mang thuốc thẳng tới khối u"
+    ],
+    [
+      "sparing healthy tissue",
+      "chừa mô lành"
+    ],
+    [
+      "detect disease much earlier",
+      "phát hiện bệnh sớm hơn nhiều"
+    ],
+    [
+      "damages healthy cells",
+      "làm hại tế bào khoẻ"
+    ],
+    [
+      "side effects such as hair loss and weakness",
+      "tác dụng phụ như rụng tóc và yếu sức"
+    ],
+    [
+      "resist infection",
+      "chống nhiễm trùng"
+    ],
+    [
+      "recover faster",
+      "hồi phục nhanh hơn"
+    ],
+    [
+      "remain at the laboratory stage",
+      "vẫn ở giai đoạn phòng thí nghiệm"
+    ],
+    [
+      "behave unpredictably inside the body",
+      "hành xử khó đoán trong cơ thể"
+    ],
+    [
+      "clear evidence that the benefits outweigh the risks",
+      "bằng chứng rõ ràng rằng lợi ích vượt rủi ro"
+    ],
+    [
+      "gradual",
+      "từ từ"
+    ],
+    [
+      "a sudden revolution",
+      "cuộc cách mạng đột ngột"
+    ]
+  ]
+}

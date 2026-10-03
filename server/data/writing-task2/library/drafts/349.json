@@ -1,0 +1,128 @@
+{
+  "questionId": 349,
+  "text": "Doctors and health campaigns constantly advise people to eat well, and many people say that a healthy diet prevents illness. I largely agree with this view, since good food lowers the risk of many serious diseases, although a healthy diet cannot guarantee good health on its own.\n\nTo begin with, a healthy diet lowers the risk of many serious illnesses. Eating plenty of vegetables, fruit and whole grains and little processed food reduces the chance of heart disease, type 2 diabetes and some cancers. Such foods supply vitamins, fibre and minerals that keep the body working properly, while diets high in salt, sugar and fat are linked to high blood pressure and obesity. A person who replaces fried snacks and fizzy drinks with fruit, nuts and water, for example, may lower their blood pressure within months and reduce the chance of needing medication later. Good nutrition also strengthens the immune system, so the body fights infections more effectively.\n\nFurthermore, the effect on children can last a lifetime. Children who learn to enjoy balanced meals are likely to carry those habits into adulthood and to avoid weight problems. However, diet is only one factor. Genes, infections, accidents, air pollution and stress also affect health, so a person can eat well and still become ill. Exercise, sleep, avoiding smoking and regular medical checks are equally important. Diet should therefore be seen as an important part of prevention, not a guarantee. People should not blame themselves too harshly when illness occurs despite careful eating.\n\nIn conclusion, I largely agree that a healthy diet prevents illness, because it reduces the risk of major diseases, although it works best alongside other healthy habits and cannot remove every risk.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: ăn uống lành mạnh ngăn ngừa bệnh tật — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài bằng bối cảnh quen thuộc (bác sĩ và chiến dịch luôn khuyên ăn uống tốt) rồi largely agree + nhượng bộ (không đảm bảo).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giảm nguy cơ",
+        "think": "Nhiều rau, trái cây, ngũ cốc nguyên hạt, ít đồ chế biến giảm bệnh tim, tiểu đường type 2, một số ung thư; thực phẩm cung cấp vitamin, chất xơ, khoáng chất; ăn nhiều muối đường béo liên quan huyết áp cao và béo phì. Ví dụ thay đồ chiên và nước ngọt bằng trái cây, hạt, nước hạ huyết áp.",
+        "refs": [
+          "ID-health-diet-prevents",
+          "ID-health-personal-choice",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — ảnh hưởng suốt đời + giới hạn",
+        "think": "Trẻ quen bữa ăn cân bằng mang thói quen vào tuổi trưởng thành. Giới hạn: gen, nhiễm trùng, tai nạn, ô nhiễm, căng thẳng cũng ảnh hưởng; vận động, ngủ, tránh thuốc lá, khám định kỳ cũng quan trọng; ăn uống là phần quan trọng của phòng bệnh chứ không đảm bảo.",
+        "refs": [
+          "ID-health-gov-tools",
+          "ID-health-obesity-causes",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree: ăn uống giảm nguy cơ bệnh chính nhưng hiệu quả nhất khi kèm thói quen khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-diet-prevents"
+    ]
+  },
+  "chunks": [
+    [
+      "a healthy diet prevents illness",
+      "chế độ ăn lành mạnh ngăn ngừa bệnh"
+    ],
+    [
+      "lowers the risk of many serious illnesses",
+      "giảm nguy cơ nhiều bệnh nặng"
+    ],
+    [
+      "plenty of vegetables, fruit and whole grains",
+      "nhiều rau, trái cây và ngũ cốc nguyên hạt"
+    ],
+    [
+      "little processed food",
+      "ít thực phẩm chế biến"
+    ],
+    [
+      "reduces the chance of heart disease",
+      "giảm khả năng mắc bệnh tim"
+    ],
+    [
+      "some cancers",
+      "một số loại ung thư"
+    ],
+    [
+      "vitamins, fibre and minerals",
+      "vitamin, chất xơ và khoáng chất"
+    ],
+    [
+      "keep the body working properly",
+      "giữ cho cơ thể hoạt động bình thường"
+    ],
+    [
+      "high in salt, sugar and fat",
+      "nhiều muối, đường và chất béo"
+    ],
+    [
+      "linked to high blood pressure and obesity",
+      "liên quan đến huyết áp cao và béo phì"
+    ],
+    [
+      "fried snacks and fizzy drinks",
+      "đồ ăn vặt chiên và nước có ga"
+    ],
+    [
+      "fruit, nuts and water",
+      "trái cây, hạt và nước"
+    ],
+    [
+      "lower their blood pressure",
+      "hạ huyết áp"
+    ],
+    [
+      "needing medication later",
+      "cần dùng thuốc về sau"
+    ],
+    [
+      "strengthens the immune system",
+      "tăng cường hệ miễn dịch"
+    ],
+    [
+      "fights infections more effectively",
+      "chống nhiễm trùng hiệu quả hơn"
+    ],
+    [
+      "last a lifetime",
+      "kéo dài suốt đời"
+    ],
+    [
+      "carry those habits into adulthood",
+      "mang thói quen đó sang tuổi trưởng thành"
+    ],
+    [
+      "Genes, infections, accidents",
+      "gen, nhiễm trùng, tai nạn"
+    ],
+    [
+      "not a guarantee",
+      "không phải đảm bảo"
+    ]
+  ]
+}

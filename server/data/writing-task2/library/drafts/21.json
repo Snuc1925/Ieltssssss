@@ -1,0 +1,129 @@
+{
+  "questionId": 21,
+  "text": "Fast food is sold on almost every high street and advertised as cheap and convenient, and some people say that it is a waste of time and money. I partly agree with this view, since fast food offers poor value for money once health is considered, although it can save time in a busy day.\n\nTo begin with, fast food offers poor value for money once health is considered. A meal may be cheap and quick, but it usually contains a lot of salt, sugar and fat and little fibre, and regular eating raises the risk of obesity, diabetes and heart disease, which cost far more later in medical bills and lost working days. A family that eats takeaway meals every evening, for example, may spend twice as much as one that cooks simple dishes at home, and gain less nutrition. Cooking at home with basic ingredients such as rice, beans and vegetables is usually cheaper and healthier, and it takes little more time than queueing for a takeaway.\n\nHowever, the claim that fast food wastes time is less convincing. For people who work long shifts or have young children, a quick meal can be a sensible solution on a day when there is no time to shop and cook. Eating occasionally at a fast-food restaurant is unlikely to harm a healthy person, and some outlets now offer salads, fruit and smaller portions. The problem is not the food itself but eating it too often. Governments and companies can help by publishing calorie information, reducing salt and sugar and promoting healthier options, so that busy people are not forced to choose between speed and health.\n\nIn conclusion, fast food is a poor use of money when eaten regularly, but it can save time in moments of need, so I agree only partly with the statement.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: đồ ăn nhanh là lãng phí thời gian và tiền — đồng ý một phần",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến tách hai vế",
+        "think": "Đề có hai vế (thời gian, tiền) nên có thể đồng ý khác nhau từng vế: đồng ý về tiền (giá trị thấp khi tính cả sức khoẻ), không đồng ý hoàn toàn về thời gian. Lập trường 'partly agree' ngay mở bài.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Phần đồng ý — tiền",
+        "think": "Bữa ăn rẻ nhanh nhưng nhiều muối, đường, chất béo, ít chất xơ; ăn thường xuyên tăng nguy cơ béo phì, tiểu đường, bệnh tim tốn kém sau này; nấu ở nhà rẻ và lành mạnh hơn. Ví dụ gia đình ăn đồ mang đi mỗi tối chi gấp đôi.",
+        "refs": [
+          "ID-health-fastfood-cost",
+          "EX-health-takeaway-week",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phần không đồng ý — thời gian",
+        "think": "Với người làm ca dài hoặc có con nhỏ, bữa ăn nhanh hợp lý khi không có thời gian; ăn thỉnh thoảng không hại; vấn đề là tần suất; chính phủ và công ty công khai calo, giảm muối đường, bán lựa chọn lành mạnh.",
+        "refs": [
+          "ID-health-gov-tools",
+          "ID-health-environment-shapes",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lãng phí tiền nếu ăn thường xuyên nhưng tiết kiệm thời gian khi cần; đồng ý một phần.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-fastfood-cost",
+      "EX-health-takeaway-week"
+    ]
+  },
+  "chunks": [
+    [
+      "on almost every high street",
+      "ở hầu hết mọi con phố chính"
+    ],
+    [
+      "cheap and convenient",
+      "rẻ và tiện lợi"
+    ],
+    [
+      "a waste of time and money",
+      "lãng phí thời gian và tiền"
+    ],
+    [
+      "poor value for money",
+      "giá trị đồng tiền thấp"
+    ],
+    [
+      "once health is considered",
+      "khi tính cả sức khoẻ"
+    ],
+    [
+      "a lot of salt, sugar and fat and little fibre",
+      "nhiều muối, đường, chất béo và ít chất xơ"
+    ],
+    [
+      "raises the risk of obesity, diabetes and heart disease",
+      "làm tăng nguy cơ béo phì, tiểu đường và bệnh tim"
+    ],
+    [
+      "medical bills and lost working days",
+      "hoá đơn y tế và ngày công mất đi"
+    ],
+    [
+      "takeaway meals",
+      "đồ ăn mang đi"
+    ],
+    [
+      "gain less nutrition",
+      "nhận được ít dinh dưỡng hơn"
+    ],
+    [
+      "basic ingredients",
+      "nguyên liệu cơ bản"
+    ],
+    [
+      "queueing for a takeaway",
+      "xếp hàng mua đồ mang đi"
+    ],
+    [
+      "work long shifts",
+      "làm ca dài"
+    ],
+    [
+      "a sensible solution",
+      "giải pháp hợp lý"
+    ],
+    [
+      "no time to shop and cook",
+      "không có thời gian đi chợ và nấu"
+    ],
+    [
+      "smaller portions",
+      "khẩu phần nhỏ hơn"
+    ],
+    [
+      "eating it too often",
+      "ăn quá thường xuyên"
+    ],
+    [
+      "publishing calorie information",
+      "công bố thông tin calo"
+    ],
+    [
+      "reducing salt and sugar",
+      "giảm muối và đường"
+    ],
+    [
+      "a poor use of money",
+      "cách dùng tiền kém"
+    ]
+  ]
+}

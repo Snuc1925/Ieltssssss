@@ -1,0 +1,126 @@
+{
+  "questionId": 291,
+  "text": "In several countries the number of births is falling while the population is ageing, and opinions differ on whether public money should go to birth rate initiatives or to healthcare. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of birth rate initiatives argue that a shrinking workforce creates serious long-term problems. With fewer young workers, there are fewer taxpayers to pay for pensions and public services, and economies may grow more slowly. Childcare support, parental leave and housing help can ease the pressure on young families who delay having children because of costs. A couple that postpones starting a family until they can afford a larger home, for example, may end up with fewer children than they wanted. If such help makes it easier to have a child, the population may stabilise over time.\n\nOn the other hand, critics point out that birth rate initiatives are expensive and their results are uncertain. People decide whether to have children for many personal reasons, and the effect of financial incentives is often small and slow. Healthcare, by contrast, benefits everyone immediately, including the growing number of older people. A healthy older population also remains active and productive for longer, which helps to offset the effects of fewer young workers. Good maternal and child health services can also help families who want children to have them safely. Investment in health therefore offers more certain returns.\n\nTo sum up, both positions have their merits; nevertheless, I believe that healthcare should take priority, because its benefits are immediate and certain, although modest family support can be added.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho khuyến khích sinh hay y tế",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu bối cảnh (số ca sinh giảm, dân số già) để làm rõ vì sao có sự lựa chọn; mỗi thân bài một phía.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe khuyến khích sinh",
+        "think": "Lực lượng lao động co lại: ít người đóng thuế trả lương hưu và dịch vụ công; hỗ trợ chăm sóc trẻ, nghỉ thai sản, nhà ở giúp gia đình trẻ. Ví dụ cặp vợ chồng hoãn sinh con đến khi mua được nhà lớn.",
+        "refs": [
+          "ID-health-birth-rate"
+        ]
+      },
+      {
+        "step": "3. Phe y tế",
+        "think": "Chính sách sinh đắt và kết quả không chắc; mọi người sinh con vì lý do cá nhân; y tế lợi cho mọi người ngay, người già khoẻ làm việc lâu hơn; dịch vụ sản phụ và trẻ em giúp gia đình muốn con.",
+        "refs": [
+          "ID-health-foundation",
+          "ID-health-invest-more"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Y tế được ưu tiên vì lợi ích tức thì và chắc chắn, có thể thêm hỗ trợ gia đình khiêm tốn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-birth-rate"
+    ]
+  },
+  "chunks": [
+    [
+      "the number of births is falling",
+      "số ca sinh đang giảm"
+    ],
+    [
+      "the population is ageing",
+      "dân số đang già đi"
+    ],
+    [
+      "birth rate initiatives",
+      "các sáng kiến khuyến khích sinh"
+    ],
+    [
+      "a shrinking workforce",
+      "lực lượng lao động thu hẹp"
+    ],
+    [
+      "serious long-term problems",
+      "vấn đề nghiêm trọng dài hạn"
+    ],
+    [
+      "fewer taxpayers",
+      "ít người đóng thuế hơn"
+    ],
+    [
+      "pay for pensions and public services",
+      "chi trả lương hưu và dịch vụ công"
+    ],
+    [
+      "grow more slowly",
+      "tăng trưởng chậm hơn"
+    ],
+    [
+      "Childcare support, parental leave and housing help",
+      "hỗ trợ chăm sóc trẻ, nghỉ thai sản và hỗ trợ nhà ở"
+    ],
+    [
+      "delay having children",
+      "trì hoãn việc sinh con"
+    ],
+    [
+      "postpones starting a family",
+      "hoãn việc lập gia đình"
+    ],
+    [
+      "stabilise over time",
+      "ổn định dần theo thời gian"
+    ],
+    [
+      "expensive and their results are uncertain",
+      "tốn kém và kết quả không chắc chắn"
+    ],
+    [
+      "personal reasons",
+      "lý do cá nhân"
+    ],
+    [
+      "financial incentives",
+      "khuyến khích tài chính"
+    ],
+    [
+      "benefits everyone immediately",
+      "có lợi ngay cho mọi người"
+    ],
+    [
+      "active and productive for longer",
+      "năng động và làm việc hiệu quả lâu hơn"
+    ],
+    [
+      "offset the effects of fewer young workers",
+      "bù đắp tác động của việc ít lao động trẻ"
+    ],
+    [
+      "maternal and child health services",
+      "dịch vụ sức khoẻ bà mẹ và trẻ em"
+    ],
+    [
+      "more certain returns",
+      "lợi ích chắc chắn hơn"
+    ]
+  ]
+}

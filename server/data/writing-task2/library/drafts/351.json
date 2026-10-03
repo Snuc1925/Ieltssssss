@@ -1,0 +1,131 @@
+{
+  "questionId": 351,
+  "text": "People in rural areas often live far from hospitals and doctors, and their health is generally worse than that of city dwellers. This essay will analyse the principal causes and propose realistic solutions.\n\nRural areas struggle to attract doctors and keep clinics open. Medical staff often prefer cities for higher pay, better schools for their children and more career opportunities, while patients in the countryside face long journeys, poor roads and low incomes. A villager with chest pain, for example, may have to travel two hours to the nearest hospital, and many do not go at all. In addition, rural populations tend to be older and poorer, so their need is greater, while the number of patients in each village is too small to make a clinic profitable. As a result, people delay seeking help, and illnesses are found late, when treatment is harder and more costly.\n\nTo address this issue, governments should bring doctors and services closer to rural communities. Higher pay, housing and loan forgiveness attract staff, and training local students encourages them to return to serve their own area. Mobile clinics, telemedicine and community health workers reach remote villages at a lower cost, so that minor problems can be treated nearby and only serious cases need to travel. Improving roads and providing emergency transport would also shorten journeys when hospital care is needed. These measures are expensive, but they cost less than treating advanced disease and the loss of working lives that follows.\n\nIn conclusion, limited access to healthcare in rural areas stems mainly from shortages of staff and long distances, but incentives, local training and mobile services offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp hạn chế tiếp cận y tế ở nông thôn",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Cùng khung với 149, 209, 451, 169; thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Khó thu hút bác sĩ và giữ phòng khám mở: lương, trường học, cơ hội nghề nghiệp ở thành phố; đường xa, đường xấu, thu nhập thấp; dân số nông thôn già và nghèo; số bệnh nhân mỗi làng quá ít để phòng khám có lãi. Ví dụ dân làng đau ngực phải đi hai giờ đến bệnh viện.",
+        "refs": [
+          "ID-health-rural-causes",
+          "EX-health-villager-travel",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Lương cao, nhà ở, xoá nợ vay học để thu hút nhân viên; đào tạo sinh viên địa phương; phòng khám lưu động, y tế từ xa, nhân viên y tế cộng đồng; đường và vận chuyển cấp cứu. Chi phí cao nhưng rẻ hơn điều trị bệnh nặng.",
+        "refs": [
+          "ID-health-rural-solutions",
+          "ID-health-gov-tools",
+          "PH-tackle-source"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-rural-causes",
+      "ID-health-rural-solutions",
+      "EX-health-villager-travel"
+    ]
+  },
+  "chunks": [
+    [
+      "live far from hospitals and doctors",
+      "sống xa bệnh viện và bác sĩ"
+    ],
+    [
+      "city dwellers",
+      "cư dân thành phố"
+    ],
+    [
+      "struggle to attract doctors",
+      "vất vả thu hút bác sĩ"
+    ],
+    [
+      "keep clinics open",
+      "giữ phòng khám hoạt động"
+    ],
+    [
+      "higher pay, better schools for their children",
+      "lương cao hơn, trường tốt hơn cho con"
+    ],
+    [
+      "career opportunities",
+      "cơ hội nghề nghiệp"
+    ],
+    [
+      "long journeys, poor roads and low incomes",
+      "quãng đường dài, đường xấu và thu nhập thấp"
+    ],
+    [
+      "the nearest hospital",
+      "bệnh viện gần nhất"
+    ],
+    [
+      "older and poorer",
+      "già hơn và nghèo hơn"
+    ],
+    [
+      "too small to make a clinic profitable",
+      "quá nhỏ để phòng khám có lãi"
+    ],
+    [
+      "delay seeking help",
+      "trì hoãn tìm sự giúp đỡ"
+    ],
+    [
+      "found late",
+      "bị phát hiện muộn"
+    ],
+    [
+      "harder and more costly",
+      "khó và tốn kém hơn"
+    ],
+    [
+      "bring doctors and services closer",
+      "đưa bác sĩ và dịch vụ lại gần hơn"
+    ],
+    [
+      "loan forgiveness",
+      "xoá nợ vay"
+    ],
+    [
+      "return to serve their own area",
+      "trở về phục vụ vùng của mình"
+    ],
+    [
+      "Mobile clinics, telemedicine and community health workers",
+      "phòng khám lưu động, y tế từ xa và nhân viên y tế cộng đồng"
+    ],
+    [
+      "reach remote villages",
+      "tiếp cận các làng xa"
+    ],
+    [
+      "emergency transport",
+      "vận chuyển cấp cứu"
+    ],
+    [
+      "the loss of working lives",
+      "tổn thất cuộc đời lao động"
+    ]
+  ]
+}

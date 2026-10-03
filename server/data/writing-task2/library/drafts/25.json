@@ -1,0 +1,130 @@
+{
+  "questionId": 25,
+  "text": "Millions of people watch or play sport, yet some say that it plays a vital role in society, while others think that it is overrated. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of sport argue that it brings people together and teaches shared values. Teams and fans from different backgrounds unite around a common cause, athletes become role models for discipline and effort, and sport encourages millions of people to be active. A small-town football club, for example, can bring together neighbours of all ages who would otherwise never meet. Sport also gives young people a positive outlet for their energy, and international competitions create national pride and friendly contact between countries. Taking part also improves health, which reduces the burden on hospitals.\n\nOn the other hand, critics point out that sport is sometimes given more attention and money than it deserves. Professional sport is driven by money, and scandals such as doping and corruption damage its image. Fan violence and extreme nationalism can divide people instead of uniting them, and public money spent on stadiums could fund hospitals or schools. Media coverage can also create the impression that sport is more important than serious matters such as science or the arts, and it may distract people from social problems. Some athletes earn enormous sums, while many who work in vital professions are paid far less.\n\nIn conclusion, both views have merit. Personally, I believe that sport plays a valuable role in promoting health and community, provided that it is run fairly and does not take resources away from more urgent needs.",
+  "analysis": {
+    "type_vi": "Discuss both views: thể thao đóng vai trò quan trọng trong xã hội hay bị thổi phồng",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hai quan điểm (vital role / overrated) bằng hình ảnh hàng triệu người xem hoặc chơi thể thao; ý kiến riêng 'có giá trị nếu công bằng và không lấy nguồn lực khỏi nhu cầu cấp bách hơn'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Thể thao gắn kết mọi người và dạy giá trị chung; đội và cổ động viên khác nhau cùng một mục tiêu; vận động viên là hình mẫu kỷ luật và nỗ lực; khuyến khích vận động; tự hào quốc gia. Ví dụ câu lạc bộ bóng đá thị trấn nhỏ.",
+        "refs": [
+          "ID-sport-society",
+          "EX-sport-local-club",
+          "ID-sport-healthy-lifestyle"
+        ]
+      },
+      {
+        "step": "3. Phe phê phán",
+        "think": "Thể thao đôi khi nhận quá nhiều sự chú ý và tiền; thương mại hoá, doping, tham nhũng; bạo lực cổ động viên, chủ nghĩa dân tộc cực đoan; tiền xây sân vận động có thể dùng cho bệnh viện, trường học; truyền thông tạo ấn tượng thể thao quan trọng hơn khoa học, nghệ thuật.",
+        "refs": [
+          "ID-sport-overrated",
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có giá trị cho sức khoẻ và cộng đồng nếu điều hành công bằng và không lấy tiền khỏi nhu cầu khẩn cấp hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-sport-society",
+      "ID-sport-overrated",
+      "EX-sport-local-club"
+    ]
+  },
+  "chunks": [
+    [
+      "plays a vital role in society",
+      "đóng vai trò quan trọng trong xã hội"
+    ],
+    [
+      "overrated",
+      "bị đánh giá quá cao"
+    ],
+    [
+      "supporters of sport",
+      "người ủng hộ thể thao"
+    ],
+    [
+      "brings people together",
+      "gắn kết mọi người"
+    ],
+    [
+      "teaches shared values",
+      "dạy những giá trị chung"
+    ],
+    [
+      "unite around a common cause",
+      "đoàn kết quanh một mục tiêu chung"
+    ],
+    [
+      "role models for discipline and effort",
+      "hình mẫu về kỷ luật và nỗ lực"
+    ],
+    [
+      "encourages millions of people to be active",
+      "khuyến khích hàng triệu người vận động"
+    ],
+    [
+      "neighbours of all ages",
+      "hàng xóm mọi lứa tuổi"
+    ],
+    [
+      "a positive outlet for their energy",
+      "lối thoát tích cực cho năng lượng"
+    ],
+    [
+      "national pride",
+      "niềm tự hào dân tộc"
+    ],
+    [
+      "more attention and money than it deserves",
+      "nhận nhiều sự chú ý và tiền hơn mức xứng đáng"
+    ],
+    [
+      "driven by money",
+      "bị tiền chi phối"
+    ],
+    [
+      "doping and corruption",
+      "doping và tham nhũng"
+    ],
+    [
+      "Fan violence and extreme nationalism",
+      "bạo lực cổ động viên và chủ nghĩa dân tộc cực đoan"
+    ],
+    [
+      "divide people",
+      "chia rẽ mọi người"
+    ],
+    [
+      "public money spent on stadiums",
+      "tiền công chi cho sân vận động"
+    ],
+    [
+      "distract people from social problems",
+      "làm người ta xao nhãng khỏi vấn đề xã hội"
+    ],
+    [
+      "enormous sums",
+      "khoản tiền khổng lồ"
+    ],
+    [
+      "run fairly",
+      "được điều hành công bằng"
+    ]
+  ]
+}

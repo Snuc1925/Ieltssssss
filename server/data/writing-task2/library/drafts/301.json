@@ -1,0 +1,128 @@
+{
+  "questionId": 301,
+  "text": "Ageing populations, rising costs and the lessons of recent epidemics have made health a central political issue. I firmly believe that countries should invest more in health, since healthier people are more productive and cost less in the long run, and since good health is a basic need that everyone shares.\n\nTo begin with, healthier people are more productive and cost less in the long run. A healthy workforce takes fewer sick days, works more efficiently and supports economic growth, while people who are ill or caring for sick relatives often cannot work at all. Prevention and early treatment are also much cheaper than late, emergency care. A country that funds screening and primary care, for example, may avoid expensive hospital admissions that could have been prevented. Health spending is therefore an investment that repays itself over time, rather than a pure cost. Countries that ignore it often pay more in the end, when problems become emergencies.\n\nFurthermore, strong health services make a country safer and fairer. Good hospitals, trained staff and reliable supplies allow a country to respond quickly to epidemics, which protects both lives and the economy. Access to care also gives poorer people a fair chance in life, since illness is a major cause of poverty. Admittedly, spending more on health requires higher taxes or cuts elsewhere, and money must be used efficiently to avoid waste. However, the benefits in lives saved, reduced suffering and economic strength far outweigh these costs, particularly as populations grow older.\n\nIn conclusion, I believe that countries should invest more in health, because it raises productivity, saves money in the long term and protects the most vulnerable.",
+  "analysis": {
+    "type_vi": "Opinion: có nên đầu tư nhiều hơn vào y tế — firmly agree",
+    "plan": [
+      {
+        "step": "1. Khung Opinion",
+        "think": "Mở bài nêu bối cảnh (già hoá, chi phí tăng, bài học dịch bệnh) rồi lập trường + hai lý do (năng suất và chi phí dài hạn; an toàn và công bằng).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — năng suất, chi phí dài hạn",
+        "think": "Lực lượng lao động khoẻ ít nghỉ ốm; phòng bệnh và điều trị sớm rẻ hơn cấp cứu muộn. Ví dụ nước tài trợ sàng lọc và chăm sóc ban đầu tránh nhập viện đắt.",
+        "refs": [
+          "ID-health-invest-more",
+          "ID-health-prevention-cheaper",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — an toàn và công bằng + nhượng bộ",
+        "think": "Bệnh viện tốt, nhân viên được đào tạo ứng phó nhanh với dịch bệnh; tiếp cận chăm sóc cho người nghèo cơ hội công bằng vì bệnh là nguyên nhân gây nghèo. Nhượng bộ: cần thuế cao hơn hoặc cắt giảm chỗ khác; phải dùng hiệu quả.",
+        "refs": [
+          "ID-health-foundation",
+          "FR-concede-cost",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại lập trường + ba lợi ích (năng suất, tiết kiệm dài hạn, bảo vệ người yếu thế).",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-invest-more"
+    ]
+  },
+  "chunks": [
+    [
+      "Ageing populations",
+      "dân số già hoá"
+    ],
+    [
+      "rising costs",
+      "chi phí tăng"
+    ],
+    [
+      "a central political issue",
+      "vấn đề chính trị trung tâm"
+    ],
+    [
+      "invest more in health",
+      "đầu tư nhiều hơn vào y tế"
+    ],
+    [
+      "more productive and cost less in the long run",
+      "năng suất hơn và tốn ít chi phí hơn về lâu dài"
+    ],
+    [
+      "a basic need that everyone shares",
+      "nhu cầu cơ bản của mọi người"
+    ],
+    [
+      "A healthy workforce",
+      "lực lượng lao động khoẻ mạnh"
+    ],
+    [
+      "takes fewer sick days",
+      "ít ngày nghỉ ốm hơn"
+    ],
+    [
+      "supports economic growth",
+      "hỗ trợ tăng trưởng kinh tế"
+    ],
+    [
+      "caring for sick relatives",
+      "chăm sóc người thân ốm"
+    ],
+    [
+      "Prevention and early treatment",
+      "phòng bệnh và điều trị sớm"
+    ],
+    [
+      "late, emergency care",
+      "chăm sóc cấp cứu muộn"
+    ],
+    [
+      "primary care",
+      "chăm sóc ban đầu"
+    ],
+    [
+      "expensive hospital admissions",
+      "nhập viện tốn kém"
+    ],
+    [
+      "an investment that repays itself",
+      "khoản đầu tư tự hoàn vốn"
+    ],
+    [
+      "respond quickly to epidemics",
+      "ứng phó nhanh với dịch bệnh"
+    ],
+    [
+      "a fair chance in life",
+      "cơ hội công bằng trong cuộc sống"
+    ],
+    [
+      "a major cause of poverty",
+      "nguyên nhân chính gây nghèo"
+    ],
+    [
+      "higher taxes or cuts elsewhere",
+      "thuế cao hơn hoặc cắt giảm ở nơi khác"
+    ],
+    [
+      "far outweigh these costs",
+      "vượt xa những chi phí này"
+    ]
+  ]
+}

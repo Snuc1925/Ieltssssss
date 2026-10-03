@@ -1,0 +1,128 @@
+{
+  "questionId": 260,
+  "text": "Many children pass fast-food outlets on their way to and from school, and some people argue that governments should regulate them. I largely agree, since children are especially vulnerable to cheap, convenient fast food near their school, although rules should be fair to small businesses.\n\nTo begin with, children are especially vulnerable to cheap, convenient fast food near their school. Young people have little money, little self-control and habits that are still forming, so an outlet at the school gate makes unhealthy eating the default. Pupils who buy chips and fizzy drinks from a shop next to the school every lunchtime, for example, take in far more sugar and fat than they realise. Childhood obesity is rising in many countries, and it can lead to diabetes and heart problems later in life. Restricting nearby outlets reduces temptation and supports the healthy meals that schools provide.\n\nFurthermore, only governments can set rules that apply to everyone. Parents and teachers can advise children, but they cannot control what is sold outside the gate, and a single outlet that changes its menu may lose customers to a rival. Planning rules, such as limiting new outlets within a certain distance of schools, create a level playing field and send a clear message about public health. However, regulation is not enough on its own. Pupils can still buy food elsewhere, and small businesses depend on their income, so existing outlets should be given time and support to offer healthier options. Education about nutrition and good school meals are also needed so that children make better choices even when temptation exists.\n\nIn conclusion, governments should regulate fast-food outlets near schools to a large extent, because children are vulnerable and habits form early, provided that the rules are fair and combined with education.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ nên điều tiết quán ăn nhanh gần trường đến mức nào — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu hình ảnh (trẻ đi ngang quán ăn nhanh trên đường đi học) rồi largely agree + lý do + giới hạn (công bằng với doanh nghiệp nhỏ).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — trẻ dễ bị tác động",
+        "think": "Trẻ ít tiền, ít tự chủ, thói quen đang hình thành; quán ngay cổng trường biến ăn không lành mạnh thành mặc định. Ví dụ học sinh mua khoai chiên và nước ngọt mỗi giờ trưa. Béo phì trẻ em dẫn đến tiểu đường và bệnh tim.",
+        "refs": [
+          "ID-health-school-food",
+          "EX-health-chips-lunchtime",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — chỉ chính phủ đặt luật chung + giới hạn",
+        "think": "Phụ huynh và giáo viên không kiểm soát được quán ngoài cổng; một quán đổi thực đơn có thể mất khách; quy hoạch giới hạn quán gần trường. Giới hạn: học sinh vẫn mua chỗ khác; doanh nghiệp nhỏ cần thời gian; cần giáo dục dinh dưỡng và bữa ăn học đường tốt.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-health-gov-tools",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Điều tiết ở mức độ lớn, quy định công bằng và kết hợp giáo dục.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-school-food",
+      "EX-health-chips-lunchtime"
+    ]
+  },
+  "chunks": [
+    [
+      "fast-food outlets",
+      "quán ăn nhanh"
+    ],
+    [
+      "on their way to and from school",
+      "trên đường đi và về từ trường"
+    ],
+    [
+      "regulate them",
+      "điều tiết chúng"
+    ],
+    [
+      "especially vulnerable",
+      "đặc biệt dễ bị tác động"
+    ],
+    [
+      "cheap, convenient fast food",
+      "đồ ăn nhanh rẻ và tiện"
+    ],
+    [
+      "little self-control",
+      "ít tự chủ"
+    ],
+    [
+      "habits that are still forming",
+      "thói quen còn đang hình thành"
+    ],
+    [
+      "at the school gate",
+      "ở cổng trường"
+    ],
+    [
+      "makes unhealthy eating the default",
+      "biến ăn uống không lành mạnh thành mặc định"
+    ],
+    [
+      "take in far more sugar and fat than they realise",
+      "nạp nhiều đường và béo hơn họ nghĩ"
+    ],
+    [
+      "Childhood obesity is rising",
+      "béo phì ở trẻ em đang tăng"
+    ],
+    [
+      "diabetes and heart problems",
+      "tiểu đường và các bệnh tim"
+    ],
+    [
+      "Restricting nearby outlets",
+      "hạn chế các quán gần đó"
+    ],
+    [
+      "reduces temptation",
+      "giảm cám dỗ"
+    ],
+    [
+      "control what is sold outside the gate",
+      "kiểm soát thứ bán ngoài cổng"
+    ],
+    [
+      "lose customers to a rival",
+      "mất khách vào tay đối thủ"
+    ],
+    [
+      "Planning rules",
+      "quy tắc quy hoạch"
+    ],
+    [
+      "small businesses depend on their income",
+      "doanh nghiệp nhỏ sống nhờ thu nhập đó"
+    ],
+    [
+      "healthier options",
+      "lựa chọn lành mạnh hơn"
+    ],
+    [
+      "education about nutrition",
+      "giáo dục về dinh dưỡng"
+    ]
+  ]
+}

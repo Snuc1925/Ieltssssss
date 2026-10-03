@@ -1,0 +1,133 @@
+{
+  "questionId": 29,
+  "text": "Obesity has more than doubled in many countries over the past few decades, and it now affects both adults and children. This essay will analyse the principal causes and propose realistic solutions.\n\nObesity is caused by an unhealthy balance between the energy people take in and the energy they use. Cheap, energy-dense food is easy to buy and heavily advertised, portions have grown, and sugary drinks add many calories without making people feel full. At the same time, modern life involves long hours of sitting at screens, desks and in cars. A child who spends every evening on a games console and travels to school by car, for example, uses far less energy than children did in the past. In addition, stress, poor sleep and family habits can make the problem worse, and some people are more likely to gain weight because of their genes. As a result, extra weight builds up slowly over years, and in poorer areas fresh food and safe places to exercise can be hard to find.\n\nTo address this issue, governments should make healthy eating and activity part of everyday life. School meal standards, daily physical education, limits on advertising of unhealthy food to children and safe play areas shape habits at an age when they are easiest to form. In addition, taxes on sugary drinks, clearer food labels and cheaper fruit and vegetables help adults to choose better, and doctors can offer advice and support before weight becomes a serious problem. A city that builds cycle lanes and parks, for instance, makes exercise easy and enjoyable. These measures cost less than treating diabetes and heart disease.\n\nIn conclusion, obesity stems mainly from cheap, heavily marketed food and inactive lifestyles, but school policies, healthier food environments and more active communities offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp béo phì",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu bối cảnh (béo phì tăng gấp đôi, ảnh hưởng người lớn và trẻ em); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Mất cân bằng năng lượng: đồ ăn rẻ giàu năng lượng quảng cáo dày; khẩu phần lớn; nước ngọt; lối sống ngồi nhiều (màn hình, bàn làm việc, xe); căng thẳng, thiếu ngủ, thói quen gia đình, gen; khu nghèo khó tìm thực phẩm tươi. Ví dụ trẻ chơi máy chơi game mỗi tối và đi học bằng xe.",
+        "refs": [
+          "ID-health-obesity-causes",
+          "EX-health-screen-evenings",
+          "ID-health-environment-shapes",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Tiêu chuẩn bữa ăn học đường, thể dục hằng ngày, hạn chế quảng cáo cho trẻ, khu vui chơi an toàn; thuế đồ uống đường, nhãn rõ, rau quả rẻ hơn; bác sĩ tư vấn sớm. Ví dụ thành phố xây làn xe đạp và công viên.",
+        "refs": [
+          "ID-health-obesity-solutions",
+          "ID-health-gov-tools",
+          "ID-health-tax-pro",
+          "PH-tackle-source",
+          "PH-prevention-costly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-obesity-causes",
+      "EX-health-screen-evenings"
+    ]
+  },
+  "chunks": [
+    [
+      "more than doubled",
+      "tăng hơn gấp đôi"
+    ],
+    [
+      "affects both adults and children",
+      "ảnh hưởng cả người lớn lẫn trẻ em"
+    ],
+    [
+      "an unhealthy balance",
+      "sự mất cân bằng không lành mạnh"
+    ],
+    [
+      "the energy people take in and the energy they use",
+      "năng lượng nạp vào và năng lượng tiêu hao"
+    ],
+    [
+      "Cheap, energy-dense food",
+      "thực phẩm rẻ, nhiều năng lượng"
+    ],
+    [
+      "heavily advertised",
+      "được quảng cáo dày đặc"
+    ],
+    [
+      "portions have grown",
+      "khẩu phần đã lớn lên"
+    ],
+    [
+      "sugary drinks",
+      "đồ uống có đường"
+    ],
+    [
+      "without making people feel full",
+      "không khiến người ta thấy no"
+    ],
+    [
+      "long hours of sitting",
+      "ngồi nhiều giờ"
+    ],
+    [
+      "screens, desks and in cars",
+      "màn hình, bàn làm việc và trên xe"
+    ],
+    [
+      "a games console",
+      "máy chơi game"
+    ],
+    [
+      "stress, poor sleep and family habits",
+      "căng thẳng, ngủ kém và thói quen gia đình"
+    ],
+    [
+      "gain weight because of their genes",
+      "tăng cân do gen"
+    ],
+    [
+      "build up slowly over years",
+      "tích tụ dần qua nhiều năm"
+    ],
+    [
+      "safe places to exercise",
+      "nơi an toàn để tập thể dục"
+    ],
+    [
+      "daily physical education",
+      "giáo dục thể chất hằng ngày"
+    ],
+    [
+      "limits on advertising",
+      "hạn chế quảng cáo"
+    ],
+    [
+      "safe play areas",
+      "khu vui chơi an toàn"
+    ],
+    [
+      "cycle lanes and parks",
+      "làn xe đạp và công viên"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 476,
+  "text": "Millions of people now type their symptoms into a search engine before they ever see a doctor, and many feel that do-it-yourself healthcare information online is risky. I largely agree, although such information can also be useful when used with care.\n\nTo begin with, medical advice found online can be unreliable and risky. Websites and social media mix expert advice with rumour and advertising, and people who diagnose themselves may panic over minor symptoms or ignore serious ones. A person who searches online for the cause of a headache, for example, may be convinced that it is something deadly when it is only stress, while another may dismiss a warning sign because a forum said it was harmless. Some sites also sell unproven remedies, and following false advice can delay proper treatment or cause harm directly.\n\nFurthermore, online information cannot replace an examination by a trained professional. A doctor can ask follow-up questions, check the body and arrange tests, whereas a website gives general information that may not apply to the individual. People may also take medicines in the wrong dose or combine them dangerously. However, online information is not always harmful. Reputable health services and hospitals publish clear, accurate guidance, and well-informed patients can ask better questions and understand their treatment. The key is to use trusted sources and to check anything serious with a professional. Schools could also teach young people how to judge the reliability of online health information.\n\nIn conclusion, I largely agree that do-it-yourself healthcare information online is risky, because it can mislead and delay treatment, although it is valuable when it comes from reliable sources and is used as a first step, not a final answer.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: thông tin y tế tự tìm trên mạng có rủi ro — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài bằng thói quen quen thuộc (gõ triệu chứng vào công cụ tìm kiếm trước khi gặp bác sĩ) rồi largely agree + nhượng bộ (có ích nếu dùng cẩn thận).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thông tin không đáng tin",
+        "think": "Trang web và mạng xã hội trộn lời khuyên chuyên gia với tin đồn, quảng cáo; tự chẩn đoán gây hoảng loạn hoặc chủ quan; bán thuốc chưa chứng minh. Ví dụ tìm nguyên nhân đau đầu tưởng bệnh nặng trong khi chỉ là căng thẳng.",
+        "refs": [
+          "ID-health-online-risk",
+          "EX-health-headache-search",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — không thay thế khám + nhượng bộ",
+        "think": "Bác sĩ hỏi thêm, khám cơ thể, làm xét nghiệm; thông tin chung có thể không đúng với cá nhân; uống sai liều, kết hợp thuốc nguy hiểm. Nhượng bộ: trang uy tín của bệnh viện cung cấp hướng dẫn chính xác; người bệnh hiểu biết hỏi tốt hơn; cần nguồn đáng tin và kiểm tra với chuyên gia.",
+        "refs": [
+          "ID-health-online-risk",
+          "ID-health-telemedicine",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Rủi ro nhưng có giá trị nếu từ nguồn đáng tin và là bước đầu chứ không phải câu trả lời cuối cùng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-online-risk",
+      "EX-health-headache-search"
+    ]
+  },
+  "chunks": [
+    [
+      "type their symptoms into a search engine",
+      "gõ triệu chứng vào công cụ tìm kiếm"
+    ],
+    [
+      "do-it-yourself healthcare information",
+      "thông tin tự chăm sóc sức khoẻ"
+    ],
+    [
+      "unreliable and risky",
+      "không đáng tin và rủi ro"
+    ],
+    [
+      "mix expert advice with rumour and advertising",
+      "trộn lời khuyên chuyên gia với tin đồn và quảng cáo"
+    ],
+    [
+      "diagnose themselves",
+      "tự chẩn đoán"
+    ],
+    [
+      "panic over minor symptoms",
+      "hoảng loạn vì triệu chứng nhẹ"
+    ],
+    [
+      "ignore serious ones",
+      "phớt lờ triệu chứng nghiêm trọng"
+    ],
+    [
+      "when it is only stress",
+      "khi chỉ là căng thẳng"
+    ],
+    [
+      "dismiss a warning sign",
+      "gạt bỏ dấu hiệu cảnh báo"
+    ],
+    [
+      "unproven remedies",
+      "phương thuốc chưa được chứng minh"
+    ],
+    [
+      "delay proper treatment",
+      "trì hoãn điều trị đúng cách"
+    ],
+    [
+      "cause harm directly",
+      "gây hại trực tiếp"
+    ],
+    [
+      "an examination by a trained professional",
+      "sự thăm khám của chuyên gia được đào tạo"
+    ],
+    [
+      "ask follow-up questions",
+      "hỏi thêm câu hỏi"
+    ],
+    [
+      "arrange tests",
+      "sắp xếp xét nghiệm"
+    ],
+    [
+      "general information that may not apply to the individual",
+      "thông tin chung có thể không áp dụng cho từng người"
+    ],
+    [
+      "the wrong dose",
+      "sai liều"
+    ],
+    [
+      "Reputable health services",
+      "dịch vụ y tế uy tín"
+    ],
+    [
+      "well-informed patients",
+      "bệnh nhân hiểu biết"
+    ],
+    [
+      "a first step, not a final answer",
+      "bước đầu chứ không phải câu trả lời cuối cùng"
+    ]
+  ]
+}

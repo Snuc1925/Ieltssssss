@@ -1,0 +1,127 @@
+{
+  "questionId": 367,
+  "text": "Obesity and diet-related disease are rising in many countries, and some people believe that healthy eating should be promoted through taxation on unhealthy foods. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of such a tax argue that it sends a clear price signal. Higher prices reduce consumption of sugary drinks and snacks, encourage manufacturers to reduce sugar and fat in their recipes, and raise revenue that can be spent on health services. Some countries that taxed sugary drinks saw sales fall and recipes change, which suggests that the policy can work. Taxes are also cheaper to run than many other measures, since they use the existing tax system. A tax on soft drinks, for example, can persuade a company to cut the sugar in its best-selling product rather than pay more. If the money is used to subsidise fruit and vegetables or to fund school meals, the benefit is greater still.\n\nOn the other hand, critics point out that taxes on food hit poorer households hardest. People on low incomes spend a larger share of their money on food, and they may simply switch to another cheap unhealthy product, so the higher price alone does not improve their diet. Taxes may also seem unfair, as they punish people instead of helping them. Education, better access to fresh food and clear labels may achieve more in the long run. A family that lives far from a market selling fresh vegetables, for instance, will not eat better just because chips cost more.\n\nTo sum up, both positions have their merits; nevertheless, I believe that a tax can be useful if its revenue is used to make healthy food cheaper and more accessible, rather than as a punishment alone.",
+  "analysis": {
+    "type_vi": "Discuss both views: dùng thuế đồ ăn không lành mạnh để thúc đẩy ăn uống lành mạnh",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu bối cảnh (béo phì và bệnh liên quan ăn uống tăng) rồi hai phe: ủng hộ thuế / không đồng ý.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ thuế",
+        "think": "Tín hiệu giá rõ ràng; giảm tiêu thụ; nhà sản xuất giảm đường và béo; nguồn thu cho y tế; rẻ để vận hành. Ví dụ thuế nước ngọt khiến công ty giảm đường thay vì trả thêm.",
+        "refs": [
+          "ID-health-tax-pro",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "3. Phe phản đối",
+        "think": "Thuế đánh nặng vào người nghèo; người ta chuyển sang món rẻ khác; thuế như hình phạt; giáo dục và tiếp cận thực phẩm tươi hiệu quả hơn. Ví dụ gia đình sống xa chợ rau.",
+        "refs": [
+          "ID-health-tax-con",
+          "ID-health-environment-shapes"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thuế hữu ích nếu nguồn thu dùng làm thực phẩm lành mạnh rẻ hơn và dễ tiếp cận hơn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-tax-pro",
+      "ID-health-tax-con"
+    ]
+  },
+  "chunks": [
+    [
+      "diet-related disease",
+      "bệnh liên quan chế độ ăn"
+    ],
+    [
+      "taxation on unhealthy foods",
+      "đánh thuế thực phẩm không lành mạnh"
+    ],
+    [
+      "a clear price signal",
+      "tín hiệu giá rõ ràng"
+    ],
+    [
+      "reduce consumption of sugary drinks and snacks",
+      "giảm tiêu thụ đồ uống có đường và đồ ăn vặt"
+    ],
+    [
+      "reduce sugar and fat in their recipes",
+      "giảm đường và chất béo trong công thức"
+    ],
+    [
+      "raise revenue",
+      "tăng nguồn thu"
+    ],
+    [
+      "sales fall and recipes change",
+      "doanh số giảm và công thức thay đổi"
+    ],
+    [
+      "the existing tax system",
+      "hệ thống thuế hiện có"
+    ],
+    [
+      "subsidise fruit and vegetables",
+      "trợ giá trái cây và rau"
+    ],
+    [
+      "fund school meals",
+      "tài trợ bữa ăn học đường"
+    ],
+    [
+      "hit poorer households hardest",
+      "đánh nặng nhất vào hộ nghèo"
+    ],
+    [
+      "spend a larger share of their money on food",
+      "chi phần lớn tiền hơn cho thực phẩm"
+    ],
+    [
+      "switch to another cheap unhealthy product",
+      "chuyển sang sản phẩm rẻ không lành mạnh khác"
+    ],
+    [
+      "punish people instead of helping them",
+      "trừng phạt người dân thay vì giúp họ"
+    ],
+    [
+      "better access to fresh food",
+      "tiếp cận thực phẩm tươi tốt hơn"
+    ],
+    [
+      "in the long run",
+      "về lâu dài"
+    ],
+    [
+      "fresh vegetables",
+      "rau tươi"
+    ],
+    [
+      "cheaper and more accessible",
+      "rẻ hơn và dễ tiếp cận hơn"
+    ],
+    [
+      "as a punishment alone",
+      "chỉ như một hình phạt"
+    ],
+    [
+      "persuade a company",
+      "thuyết phục một công ty"
+    ]
+  ]
+}

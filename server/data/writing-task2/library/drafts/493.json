@@ -1,0 +1,124 @@
+{
+  "questionId": 493,
+  "text": "Some scientists still rely on experiments with animals to test new drugs, while others prefer alternatives such as cell cultures and computer models. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of animal testing argue that it gives results that other methods cannot yet match. A living animal has blood circulation, an immune system and organs that interact, so researchers can see how a drug is absorbed, spread and removed from the whole body, and whether it harms any organ. This is essential for safety, because a medicine that seems harmless in a dish may damage the liver or heart in a living creature. A new painkiller, for example, may look safe in cells but cause serious side effects in a whole body. Regulators in many countries still ask for animal data before trials in people.\n\nOn the other hand, supporters of alternatives point out that these methods can be faster, cheaper and more relevant to people. Human cells, lab-grown organs and computer simulations can predict human reactions better than animals, whose biology differs from ours, and they avoid animal suffering. A drug that works safely in a mouse can fail in humans, wasting years and money, whereas tests on human tissue may give more reliable answers. Alternatives also allow thousands of substances to be screened rapidly. This speed can bring useful treatments to patients sooner.\n\nIn conclusion, both views have merit. Overall, I believe that alternatives should be used wherever they are reliable, with animal testing kept only for cases where no other method can answer the safety question.",
+  "analysis": {
+    "type_vi": "Discuss both views: thích thử nghiệm trên động vật hay phương án thay thế (góc khoa học và thực tiễn, khác 105 là đạo đức)",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Đề 493 so sánh phương pháp nên tập trung vào độ chính xác, tốc độ, chi phí thay vì đạo đức (đã dùng ở 105).",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe thử nghiệm động vật",
+        "think": "Động vật sống có tuần hoàn, hệ miễn dịch, cơ quan tương tác nên nhà nghiên cứu thấy thuốc được hấp thu, phân bố, thải ra thế thế nào và có hại cơ quan nào; thuốc vô hại trong đĩa có thể hại gan hoặc tim; cơ quan quản lý vẫn yêu cầu. Ví dụ thuốc giảm đau.",
+        "refs": [
+          "ID-health-animal-test-pro"
+        ]
+      },
+      {
+        "step": "3. Phe phương án thay thế",
+        "think": "Nhanh, rẻ, liên quan hơn cho con người: tế bào người, cơ quan nuôi, mô phỏng máy tính; sinh học động vật khác người; thuốc an toàn trên chuột có thể hỏng trên người; sàng lọc hàng nghìn chất nhanh.",
+        "refs": [
+          "ID-health-animal-test-con",
+          "ID-health-3rs"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Dùng phương án thay thế khi đáng tin; chỉ giữ thử nghiệm động vật khi không có cách khác trả lời câu hỏi an toàn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "rely on experiments with animals",
+      "dựa vào thí nghiệm trên động vật"
+    ],
+    [
+      "test new drugs",
+      "thử thuốc mới"
+    ],
+    [
+      "cell cultures and computer models",
+      "mô nuôi cấy và mô hình máy tính"
+    ],
+    [
+      "results that other methods cannot yet match",
+      "kết quả mà phương pháp khác chưa sánh được"
+    ],
+    [
+      "blood circulation, an immune system",
+      "tuần hoàn máu, hệ miễn dịch"
+    ],
+    [
+      "organs that interact",
+      "các cơ quan tương tác với nhau"
+    ],
+    [
+      "absorbed, spread and removed from the whole body",
+      "được hấp thu, phân bố và thải ra khỏi cả cơ thể"
+    ],
+    [
+      "harmless in a dish",
+      "vô hại trong đĩa"
+    ],
+    [
+      "damage the liver or heart",
+      "làm hại gan hoặc tim"
+    ],
+    [
+      "a new painkiller",
+      "một loại thuốc giảm đau mới"
+    ],
+    [
+      "serious side effects",
+      "tác dụng phụ nghiêm trọng"
+    ],
+    [
+      "animal data before trials in people",
+      "dữ liệu động vật trước thử nghiệm trên người"
+    ],
+    [
+      "faster, cheaper and more relevant to people",
+      "nhanh hơn, rẻ hơn và liên quan hơn đến con người"
+    ],
+    [
+      "Human cells, lab-grown organs and computer simulations",
+      "tế bào người, cơ quan nuôi và mô phỏng máy tính"
+    ],
+    [
+      "whose biology differs from ours",
+      "sinh học khác với chúng ta"
+    ],
+    [
+      "wasting years and money",
+      "lãng phí thời gian và tiền bạc"
+    ],
+    [
+      "human tissue",
+      "mô người"
+    ],
+    [
+      "more reliable answers",
+      "câu trả lời đáng tin hơn"
+    ],
+    [
+      "screened rapidly",
+      "được sàng lọc nhanh"
+    ],
+    [
+      "no other method can answer the safety question",
+      "không phương pháp nào khác trả lời được câu hỏi an toàn"
+    ]
+  ]
+}

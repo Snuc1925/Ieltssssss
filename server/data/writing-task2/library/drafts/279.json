@@ -1,0 +1,127 @@
+{
+  "questionId": 279,
+  "text": "Life expectancy has risen in most countries over the past century, and many people now expect to live into their eighties. This essay will discuss the main advantages and challenges before explaining whether the advantages outweigh the challenges.\n\nOn the positive side, longer lives give people more time with their families and more time to contribute. Older people pass on experience, care for grandchildren and often keep working or volunteering well beyond the traditional retirement age. A grandparent in good health, for example, can help to look after grandchildren and pass on knowledge, which supports working parents. Longer lives also reflect progress in medicine, nutrition and living conditions, and they allow people to pursue new interests, study again or start new careers later in life. Many older people today are healthy, active and valuable members of their communities.\n\nOn the negative side, ageing populations raise serious challenges. Pensions and healthcare cost more as the number of retired people grows, while there are fewer young workers to pay taxes. Illnesses such as dementia become more common, and many older people suffer from loneliness. Nevertheless, these challenges can be managed. Governments can raise the retirement age gradually, encourage saving, invest in preventive health and community care, and support older people who wish to keep working. Technology can also help older people to live independently for longer. With this kind of planning, a longer life becomes a gift for individuals and a resource for society.\n\nIn conclusion, the advantages of longer life expectancy outweigh the challenges, provided that societies adapt through later retirement, better care and stronger communities.",
+  "analysis": {
+    "type_vi": "A/D: tuổi thọ dài hơn — lợi thế có lớn hơn thách thức không (advantages outweigh)",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Đề hỏi 'outweigh' nên cần phán quyết rõ; thân bài 2 dùng Nevertheless để phản bác thách thức bằng giải pháp thích ứng.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Thêm thời gian cho gia đình và đóng góp; người già truyền kinh nghiệm, chăm cháu, tiếp tục làm việc hoặc tình nguyện; phản ánh tiến bộ y học; theo đuổi sở thích mới, học lại. Ví dụ ông bà khoẻ giúp chăm cháu và hỗ trợ bố mẹ đi làm.",
+        "refs": [
+          "ID-health-longer-life",
+          "EX-health-grandparent"
+        ]
+      },
+      {
+        "step": "3. Thách thức và phản bác",
+        "think": "Lương hưu và chăm sóc sức khoẻ tốn kém khi ít người trẻ đóng thuế; sa sút trí tuệ, cô đơn. Nevertheless: nâng dần tuổi nghỉ hưu, khuyến khích tiết kiệm, đầu tư phòng bệnh và chăm sóc cộng đồng; công nghệ giúp sống độc lập.",
+        "refs": [
+          "ID-health-longer-life",
+          "ID-health-invest-more"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn thách thức nếu xã hội thích ứng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-longer-life",
+      "EX-health-grandparent"
+    ]
+  },
+  "chunks": [
+    [
+      "Life expectancy has risen",
+      "tuổi thọ đã tăng"
+    ],
+    [
+      "over the past century",
+      "trong thế kỷ qua"
+    ],
+    [
+      "live into their eighties",
+      "sống đến tuổi tám mươi"
+    ],
+    [
+      "outweigh the challenges",
+      "lớn hơn những thách thức"
+    ],
+    [
+      "more time with their families",
+      "nhiều thời gian hơn bên gia đình"
+    ],
+    [
+      "more time to contribute",
+      "nhiều thời gian hơn để đóng góp"
+    ],
+    [
+      "pass on experience",
+      "truyền kinh nghiệm"
+    ],
+    [
+      "care for grandchildren",
+      "chăm cháu"
+    ],
+    [
+      "keep working or volunteering",
+      "tiếp tục làm việc hoặc tình nguyện"
+    ],
+    [
+      "well beyond the traditional retirement age",
+      "vượt xa tuổi nghỉ hưu truyền thống"
+    ],
+    [
+      "supports working parents",
+      "hỗ trợ bố mẹ đi làm"
+    ],
+    [
+      "progress in medicine, nutrition and living conditions",
+      "tiến bộ về y học, dinh dưỡng và điều kiện sống"
+    ],
+    [
+      "start new careers later in life",
+      "bắt đầu sự nghiệp mới khi đã lớn tuổi"
+    ],
+    [
+      "healthy, active and valuable members of their communities",
+      "thành viên khoẻ mạnh, năng động và có giá trị của cộng đồng"
+    ],
+    [
+      "ageing populations",
+      "dân số già hoá"
+    ],
+    [
+      "Pensions and healthcare cost more",
+      "lương hưu và y tế tốn kém hơn"
+    ],
+    [
+      "Illnesses such as dementia",
+      "bệnh như sa sút trí tuệ"
+    ],
+    [
+      "suffer from loneliness",
+      "chịu cô đơn"
+    ],
+    [
+      "raise the retirement age gradually",
+      "nâng dần tuổi nghỉ hưu"
+    ],
+    [
+      "live independently for longer",
+      "sống độc lập lâu hơn"
+    ]
+  ]
+}

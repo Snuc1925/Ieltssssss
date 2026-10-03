@@ -33,7 +33,7 @@ export function setProgress(id, level) {
 }
 
 // Đọc lại file mỗi lần gọi: sửa lexicon / essays xong là thấy ngay, không cần restart server.
-export const LIBRARY_TOPICS = ['education', 'environment'];
+export const LIBRARY_TOPICS = ['education', 'environment', 'health'];
 
 export async function getLibrary(topic = 'education') {
   if (!LIBRARY_TOPICS.includes(topic)) topic = 'education';

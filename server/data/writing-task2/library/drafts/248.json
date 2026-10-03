@@ -1,0 +1,122 @@
+{
+  "questionId": 248,
+  "text": "Some countries have moved towards healthcare systems in which hospitals, clinics and insurance are run mainly by private companies. This essay will discuss the advantages and disadvantages of privatised healthcare systems before explaining my own view.\n\nOn the positive side, privatised systems can be efficient and responsive. Companies compete for patients, so they have a reason to cut waiting times, improve service and adopt new technology. Spending is less dependent on government budgets, which may reduce pressure on taxpayers, and patients usually have a wider choice of doctors and hospitals. Private managers can also make decisions quickly, without the delays that sometimes affect public bodies. A clinic that is paid according to the number of patients it treats, for example, will try to organise appointments efficiently and avoid long queues. In well-regulated markets, this competition can raise standards for everyone.\n\nOn the negative side, however, healthcare is not an ordinary product. A profit-driven system can leave the poor behind, as people without insurance or savings may be unable to afford even basic treatment. Companies may encourage unnecessary tests or neglect conditions that make little profit, and administration and advertising can swallow money that should go to patients. Unprofitable services, such as rural clinics and care for the elderly, may be closed. A rural clinic that loses money, for instance, may simply be shut, leaving a whole district without a doctor. Medical bills can also push families into debt.\n\nIn conclusion, privatised systems may be efficient, but they can exclude those who most need care. On balance, I believe that essential healthcare should remain publicly funded, with private providers playing a supporting and regulated role.",
+  "analysis": {
+    "type_vi": "A/D: hệ thống y tế tư nhân hoá (góc khác đề 28: cả hệ thống do công ty tư nhân điều hành, vấn đề loại trừ và dịch vụ không sinh lời)",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Đề 248 hỏi cả hệ thống nên mở bài đặt vấn đề ở cấp hệ thống (bệnh viện, phòng khám và bảo hiểm do công ty tư điều hành). Tránh lặp ví dụ thay khớp gối của đề 28.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Các công ty cạnh tranh giành bệnh nhân nên có lý do rút ngắn hàng chờ, cải thiện dịch vụ, dùng công nghệ mới; ít phụ thuộc ngân sách chính phủ; quản lý quyết định nhanh. Ví dụ phòng khám trả theo số bệnh nhân sắp lịch hiệu quả.",
+        "refs": [
+          "ID-health-private-pro"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Y tế không phải hàng hoá thông thường: người không có bảo hiểm khó chi trả; xét nghiệm thừa; chi phí hành chính và quảng cáo nuốt tiền; dịch vụ không sinh lời (phòng khám nông thôn, chăm sóc người già) bị đóng; hoá đơn y tế đẩy gia đình vào nợ. Ví dụ phòng khám nông thôn thua lỗ bị đóng.",
+        "refs": [
+          "ID-health-private-con",
+          "ID-health-cost-sharing"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chăm sóc thiết yếu nên do công tài trợ, nhà cung cấp tư đóng vai trò hỗ trợ và có quản lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "privatised healthcare systems",
+      "hệ thống y tế tư nhân hoá"
+    ],
+    [
+      "run mainly by private companies",
+      "chủ yếu do công ty tư nhân điều hành"
+    ],
+    [
+      "efficient and responsive",
+      "hiệu quả và nhạy bén"
+    ],
+    [
+      "compete for patients",
+      "cạnh tranh giành bệnh nhân"
+    ],
+    [
+      "cut waiting times",
+      "rút ngắn thời gian chờ"
+    ],
+    [
+      "adopt new technology",
+      "áp dụng công nghệ mới"
+    ],
+    [
+      "dependent on government budgets",
+      "phụ thuộc vào ngân sách chính phủ"
+    ],
+    [
+      "a wider choice of doctors and hospitals",
+      "nhiều lựa chọn bác sĩ và bệnh viện hơn"
+    ],
+    [
+      "without the delays",
+      "không có sự chậm trễ"
+    ],
+    [
+      "organise appointments efficiently",
+      "sắp xếp lịch hẹn hiệu quả"
+    ],
+    [
+      "well-regulated markets",
+      "thị trường được quản lý tốt"
+    ],
+    [
+      "not an ordinary product",
+      "không phải sản phẩm thông thường"
+    ],
+    [
+      "without insurance or savings",
+      "không có bảo hiểm hay tiền tiết kiệm"
+    ],
+    [
+      "swallow money that should go to patients",
+      "nuốt tiền lẽ ra dành cho bệnh nhân"
+    ],
+    [
+      "administration and advertising",
+      "hành chính và quảng cáo"
+    ],
+    [
+      "care for the elderly",
+      "chăm sóc người cao tuổi"
+    ],
+    [
+      "a rural clinic that loses money",
+      "phòng khám nông thôn thua lỗ"
+    ],
+    [
+      "push families into debt",
+      "đẩy gia đình vào nợ nần"
+    ],
+    [
+      "publicly funded",
+      "do công tài trợ"
+    ],
+    [
+      "a supporting and regulated role",
+      "vai trò hỗ trợ và có quản lý"
+    ]
+  ]
+}

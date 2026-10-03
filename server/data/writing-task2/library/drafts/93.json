@@ -1,0 +1,128 @@
+{
+  "questionId": 93,
+  "text": "During recent years, phone and video consultations have moved from the margins to the centre of healthcare in many countries. I believe that telemedicine will change healthcare considerably over the next twenty years, becoming a normal part of routine care, although it will not replace face-to-face medicine.\n\nFirst and foremost, telemedicine brings medical advice to people who cannot easily reach a clinic. Video consultations save travel time and cost, allow regular check-ups for chronic conditions and let rural patients consult city specialists. A farmer who speaks to a heart specialist by video, for example, saves a day's travel and may receive advice weeks earlier. As internet connections improve and more people own smartphones, these services will reach millions who now go without care. Hospitals will also use them to follow up patients after treatment, which reduces unnecessary visits. For busy parents and workers, a ten-minute video call can replace half a day at a clinic.\n\nIn addition, technology will make remote care more powerful. Wearable devices and home test kits will send readings to doctors, and artificial intelligence may help with sorting symptoms, so that many problems can be handled without leaving home. However, there are limits. Some conditions cannot be examined through a screen, since a doctor must touch, listen and perform tests. Poorer and older patients may lack reliable internet or confidence with devices, and privacy concerns must be addressed. Telemedicine will therefore complement hospitals and clinics rather than replace them.\n\nIn conclusion, telemedicine is likely to change healthcare to a large extent by widening access and saving time, but its use will be limited by the need for physical examination, connectivity and trust.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): y tế từ xa sẽ thay đổi chăm sóc sức khoẻ đến đâu trong 20 năm tới",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán (như đề 33, 133, 273)",
+        "think": "Lập trường 'thay đổi đáng kể' + 'although' (không thay thế gặp trực tiếp). Thân bài 1 và 2 là hai động lực; giới hạn đặt cuối thân bài 2.",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực 1 — tiếp cận",
+        "think": "Tư vấn video tiết kiệm đi lại, khám định kỳ cho bệnh mạn tính, bệnh nhân nông thôn gặp chuyên gia thành phố; internet tốt hơn và điện thoại thông minh phổ biến; theo dõi sau điều trị. Ví dụ nông dân gặp bác sĩ tim qua video.",
+        "refs": [
+          "ID-health-telemedicine",
+          "EX-health-video-consult",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Động lực 2 và giới hạn",
+        "think": "Thiết bị đeo, bộ xét nghiệm tại nhà gửi chỉ số cho bác sĩ; AI phân loại triệu chứng. Giới hạn: không khám qua màn hình được mọi bệnh; bệnh nhân nghèo, già thiếu internet; riêng tư.",
+        "refs": [
+          "ID-health-wearables",
+          "ID-health-tech-diagnosis",
+          "CN-nextPoint-in-addition",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi ở mức độ lớn nhưng bị giới hạn bởi khám trực tiếp, kết nối và niềm tin.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-telemedicine",
+      "EX-health-video-consult"
+    ]
+  },
+  "chunks": [
+    [
+      "phone and video consultations",
+      "tư vấn qua điện thoại và video"
+    ],
+    [
+      "from the margins to the centre of healthcare",
+      "từ rìa vào trung tâm của chăm sóc sức khoẻ"
+    ],
+    [
+      "telemedicine",
+      "y tế từ xa"
+    ],
+    [
+      "change healthcare considerably",
+      "thay đổi chăm sóc sức khoẻ đáng kể"
+    ],
+    [
+      "a normal part of routine care",
+      "một phần bình thường của chăm sóc thường quy"
+    ],
+    [
+      "face-to-face medicine",
+      "y học gặp trực tiếp"
+    ],
+    [
+      "cannot easily reach a clinic",
+      "khó đến được phòng khám"
+    ],
+    [
+      "save travel time and cost",
+      "tiết kiệm thời gian và chi phí đi lại"
+    ],
+    [
+      "regular check-ups for chronic conditions",
+      "khám định kỳ cho bệnh mạn tính"
+    ],
+    [
+      "consult city specialists",
+      "tham vấn chuyên gia thành phố"
+    ],
+    [
+      "go without care",
+      "không được chăm sóc"
+    ],
+    [
+      "follow up patients",
+      "theo dõi bệnh nhân sau điều trị"
+    ],
+    [
+      "unnecessary visits",
+      "những lần khám không cần thiết"
+    ],
+    [
+      "home test kits",
+      "bộ xét nghiệm tại nhà"
+    ],
+    [
+      "artificial intelligence",
+      "trí tuệ nhân tạo"
+    ],
+    [
+      "sorting symptoms",
+      "phân loại triệu chứng"
+    ],
+    [
+      "examined through a screen",
+      "khám qua màn hình"
+    ],
+    [
+      "touch, listen and perform tests",
+      "sờ nắn, nghe và làm xét nghiệm"
+    ],
+    [
+      "reliable internet or confidence with devices",
+      "internet ổn định hoặc sự tự tin với thiết bị"
+    ],
+    [
+      "complement hospitals and clinics",
+      "bổ sung cho bệnh viện và phòng khám"
+    ]
+  ]
+}

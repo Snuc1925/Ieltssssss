@@ -1,0 +1,129 @@
+{
+  "questionId": 137,
+  "text": "Many illnesses, from heart disease to infections, could be avoided if people knew how to protect themselves. This essay will outline two principal benefits for a country that focuses on public health campaigns: improved health and behaviour, and lower costs and a stronger economy.\n\nFirst and foremost, public health campaigns reach millions of people at a low cost per person. Television, social media, schools and posters can spread simple, repeated messages about smoking, handwashing, vaccination or diet, and well-known figures and real stories make the advice memorable. A campaign that shows the real story of a former smoker, for example, can persuade more people to quit than a list of statistics. As a result, habits change gradually, fewer people become ill, and the whole population becomes more aware of how to stay healthy. Campaigns also reduce stigma around subjects such as mental health and sexual health, which encourages people to seek help earlier.\n\nIn addition, public health campaigns lower costs and strengthen the economy. Preventing illness is cheaper than treating it, so every unit of money spent on prevention can save several times as much on hospitals and medicine. Healthy people take fewer sick days and work more productively, which supports economic growth. Countries that have run long campaigns against smoking have seen smoking rates fall and fewer people develop lung disease. Although campaigns do not work alone and need to be supported by services and rules, their wide reach makes them one of the most cost-effective tools available, and the results are likely to last for generations.\n\nTo sum up, public health campaigns bring clear benefits to a country, above all healthier behaviour and lower long-term costs. For these reasons, they deserve sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chiến dịch y tế công cộng — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu tiềm năng của phòng bệnh (nhiều bệnh từ tim đến nhiễm trùng tránh được nếu biết tự bảo vệ); báo trước hai lợi ích.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — tiếp cận rộng, đổi hành vi",
+        "think": "Truyền hình, mạng xã hội, trường học, áp phích truyền thông điệp đơn giản lặp lại; người nổi tiếng và câu chuyện thật dễ nhớ; giảm kỳ thị về tâm thần, sức khoẻ tình dục. Ví dụ câu chuyện của một người từng hút thuốc thuyết phục hơn thống kê.",
+        "refs": [
+          "ID-health-campaign-reach",
+          "EX-health-smoking-campaign"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — chi phí thấp, kinh tế",
+        "think": "Phòng bệnh rẻ hơn chữa; mỗi đồng chi cho phòng bệnh tiết kiệm nhiều lần; người khoẻ ít nghỉ ốm. Nước có chiến dịch chống thuốc lá dài hạn thấy tỷ lệ hút thuốc giảm. Nhượng bộ: chiến dịch cần dịch vụ và quy định hỗ trợ.",
+        "refs": [
+          "ID-health-prevention-cheaper",
+          "ID-health-invest-more",
+          "ID-health-campaign-limits"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích: hành vi lành mạnh hơn và chi phí dài hạn thấp.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-campaign-reach",
+      "ID-health-campaign-limits",
+      "EX-health-smoking-campaign"
+    ]
+  },
+  "chunks": [
+    [
+      "Many illnesses",
+      "nhiều bệnh"
+    ],
+    [
+      "could be avoided",
+      "có thể tránh được"
+    ],
+    [
+      "public health campaigns",
+      "chiến dịch y tế công cộng"
+    ],
+    [
+      "improved health and behaviour",
+      "sức khoẻ và hành vi được cải thiện"
+    ],
+    [
+      "lower costs and a stronger economy",
+      "chi phí thấp hơn và nền kinh tế mạnh hơn"
+    ],
+    [
+      "reach millions of people at a low cost per person",
+      "tiếp cận hàng triệu người với chi phí thấp trên mỗi người"
+    ],
+    [
+      "simple, repeated messages",
+      "thông điệp đơn giản, lặp lại"
+    ],
+    [
+      "handwashing, vaccination or diet",
+      "rửa tay, tiêm chủng hoặc chế độ ăn"
+    ],
+    [
+      "make the advice memorable",
+      "khiến lời khuyên dễ nhớ"
+    ],
+    [
+      "the real story of a former smoker",
+      "câu chuyện thật của một người từng hút thuốc"
+    ],
+    [
+      "a list of statistics",
+      "một danh sách số liệu"
+    ],
+    [
+      "habits change gradually",
+      "thói quen thay đổi dần dần"
+    ],
+    [
+      "stay healthy",
+      "giữ sức khoẻ"
+    ],
+    [
+      "reduce stigma around",
+      "giảm kỳ thị quanh"
+    ],
+    [
+      "seek help earlier",
+      "tìm sự giúp đỡ sớm hơn"
+    ],
+    [
+      "every unit of money spent on prevention",
+      "mỗi đồng chi cho phòng bệnh"
+    ],
+    [
+      "fewer sick days",
+      "ít ngày nghỉ ốm hơn"
+    ],
+    [
+      "smoking rates fall",
+      "tỷ lệ hút thuốc giảm"
+    ],
+    [
+      "cost-effective",
+      "hiệu quả về chi phí"
+    ],
+    [
+      "last for generations",
+      "kéo dài qua nhiều thế hệ"
+    ]
+  ]
+}

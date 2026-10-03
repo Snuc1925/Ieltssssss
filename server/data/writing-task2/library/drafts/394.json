@@ -1,0 +1,126 @@
+{
+  "questionId": 394,
+  "text": "The cost of modern medicine is rising, and people disagree about who should pay for it: individuals themselves, or society through the government. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual payment argue that people should take responsibility for the cost of their own care. When patients pay something, even a small fee, they tend to use services more carefully, which reduces waste and unnecessary visits. Individual payment can also keep taxes lower and allows people to choose the level of cover that suits them. Competition between private providers may improve quality and shorten waiting times, since clinics must attract patients. A small charge for a routine consultation, for example, may discourage people from seeing a doctor for minor complaints that could be treated at home, leaving more time for those who are seriously ill.\n\nOn the other hand, advocates of public funding point out that illness is unpredictable and expensive, so the cost of care should be shared. A serious illness can ruin a family's finances through no fault of its own, and people who delay treatment because they cannot pay often need costlier emergency care later. Public funding protects the poor, keeps the workforce healthy and treats health as a basic right rather than a luxury. A patient who cannot afford cancer treatment, for instance, may lose both health and savings. Shared funding spreads the risk across the whole population, so that no one is left without help.\n\nIn conclusion, both views have merit. Overall, I believe that society should fund essential care, with modest personal contributions for non-urgent services, because this protects the vulnerable while limiting waste.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội chi trả chi phí y tế",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu bối cảnh (chi phí y học tăng) rồi hai phe: cá nhân tự trả / xã hội trả qua chính phủ.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe cá nhân trả",
+        "think": "Bệnh nhân trả phí thì dùng dịch vụ cẩn thận hơn, giảm lãng phí; thuế thấp hơn; cạnh tranh giữa nhà cung cấp tư nâng chất lượng và giảm thời gian chờ. Ví dụ khoản phí nhỏ cho khám thường quy ngăn người đến bác sĩ vì bệnh vặt.",
+        "refs": [
+          "ID-health-personal-choice",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Phe tài trợ công",
+        "think": "Bệnh khó đoán và tốn kém; bệnh nặng có thể phá sản gia đình; trì hoãn điều trị vì không đủ tiền thì sau đó cần cấp cứu đắt hơn; sức khoẻ là quyền cơ bản. Ví dụ bệnh nhân ung thư không đủ tiền điều trị.",
+        "refs": [
+          "ID-health-cost-sharing",
+          "ID-env-econ-longterm"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Xã hội chi trả chăm sóc thiết yếu, cá nhân đóng góp khiêm tốn cho dịch vụ không khẩn cấp để bảo vệ người yếu thế mà vẫn hạn chế lãng phí.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-health-cost-sharing"
+    ]
+  },
+  "chunks": [
+    [
+      "The cost of modern medicine is rising",
+      "chi phí y học hiện đại đang tăng"
+    ],
+    [
+      "pay for it",
+      "trả tiền cho nó"
+    ],
+    [
+      "individual payment",
+      "cá nhân tự chi trả"
+    ],
+    [
+      "take responsibility for the cost of their own care",
+      "chịu trách nhiệm chi phí chăm sóc của mình"
+    ],
+    [
+      "use services more carefully",
+      "dùng dịch vụ cẩn thận hơn"
+    ],
+    [
+      "reduces waste",
+      "giảm lãng phí"
+    ],
+    [
+      "unnecessary visits",
+      "những lần khám không cần thiết"
+    ],
+    [
+      "keep taxes lower",
+      "giữ thuế thấp hơn"
+    ],
+    [
+      "the level of cover that suits them",
+      "mức bảo hiểm phù hợp với họ"
+    ],
+    [
+      "shorten waiting times",
+      "rút ngắn thời gian chờ"
+    ],
+    [
+      "a routine consultation",
+      "buổi khám thường quy"
+    ],
+    [
+      "minor complaints",
+      "bệnh vặt"
+    ],
+    [
+      "public funding",
+      "tài trợ công"
+    ],
+    [
+      "unpredictable and expensive",
+      "khó đoán và tốn kém"
+    ],
+    [
+      "ruin a family's finances",
+      "làm sạt nghiệp tài chính gia đình"
+    ],
+    [
+      "through no fault of its own",
+      "không phải lỗi của mình"
+    ],
+    [
+      "delay treatment",
+      "trì hoãn điều trị"
+    ],
+    [
+      "costlier emergency care",
+      "chăm sóc cấp cứu tốn kém hơn"
+    ],
+    [
+      "a basic right rather than a luxury",
+      "quyền cơ bản chứ không phải thứ xa xỉ"
+    ],
+    [
+      "spreads the risk across the whole population",
+      "dàn trải rủi ro cho toàn dân"
+    ]
+  ]
+}
