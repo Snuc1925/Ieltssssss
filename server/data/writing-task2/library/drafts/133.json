@@ -1,0 +1,125 @@
+{
+  "questionId": 133,
+  "text": "With fossil fuels still supplying most of the world's energy, many people ask how far renewable sources can replace them in the next twenty years. I believe that they will replace fossil fuels only in part: renewables are likely to dominate electricity generation, but oil and gas will remain in heavy industry and transport.\n\nTo begin with, there are strong reasons for a rapid shift in electricity. Solar and wind power are already cheaper than coal in many places, they release almost no greenhouse gases, and governments are setting targets to cut emissions. As costs fall and batteries improve, power companies will keep building clean capacity instead of new coal stations. A country that closes its last coal plants and builds wind farms off its coast, for example, can supply a large share of its electricity from renewables within twenty years.\n\nHowever, replacing fossil fuels completely is far more difficult. Steel, cement, aviation and shipping need very high temperatures or fuels that are dense and light, and electricity cannot yet do these jobs at a reasonable price. In addition, the sun does not always shine and the wind does not always blow, so grids need large amounts of storage and backup power. Many developing countries also depend on cheap coal and oil to grow their economies, and power stations and pipelines built today will operate for decades. These factors mean that change will be uneven across regions and sectors. A factory that makes steel, for instance, cannot switch to wind power in a few years.\n\nIn conclusion, renewable energy will replace fossil fuels to a considerable but incomplete extent over the next twenty years, mainly in electricity, while heavy industry and long-distance transport lag behind.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): năng lượng tái tạo sẽ thay thế nhiên liệu hoá thạch đến đâu trong 20 năm — 'only in part'",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán với kết luận 'một phần'",
+        "think": "Khác đề 33 ở chỗ trả lời câu hỏi 'replace': chọn lập trường 'một phần' ngay mở bài và đặt thân bài 1 = nơi thay thế sẽ nhanh (điện), thân bài 2 = nơi chậm (công nghiệp nặng, vận tải).",
+        "refs": [
+          "FR-struct-predict",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Thân bài 1 — điện",
+        "think": "Điện mặt trời và gió đã rẻ hơn than ở nhiều nơi; mục tiêu cắt khí thải; ví dụ nước đóng nhà máy than cuối cùng và xây điện gió ngoài khơi.",
+        "refs": [
+          "ID-env-renew-cost-fall",
+          "ID-env-renew-clean",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Thân bài 2 — giới hạn",
+        "think": "Thép, xi măng, hàng không, vận tải biển; nắng gió không ổn định; nước đang phát triển; nhà máy xây hôm nay chạy hàng chục năm. Ví dụ nhà máy thép.",
+        "refs": [
+          "ID-env-hard-sectors",
+          "ID-env-intermittency",
+          "EX-env-steel-factory"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay thế phần lớn nhưng chưa hoàn toàn, chủ yếu ở điện.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "supplying most of the world's energy",
+      "cung cấp phần lớn năng lượng thế giới"
+    ],
+    [
+      "replace them",
+      "thay thế chúng"
+    ],
+    [
+      "only in part",
+      "chỉ một phần"
+    ],
+    [
+      "dominate electricity generation",
+      "thống trị sản xuất điện"
+    ],
+    [
+      "heavy industry and transport",
+      "công nghiệp nặng và giao thông"
+    ],
+    [
+      "a rapid shift",
+      "sự chuyển dịch nhanh"
+    ],
+    [
+      "cheaper than coal",
+      "rẻ hơn than"
+    ],
+    [
+      "setting targets to cut emissions",
+      "đặt mục tiêu cắt giảm khí thải"
+    ],
+    [
+      "clean capacity",
+      "công suất sạch"
+    ],
+    [
+      "closes its last coal plants",
+      "đóng nhà máy than cuối cùng"
+    ],
+    [
+      "wind farms off its coast",
+      "trang trại gió ngoài khơi"
+    ],
+    [
+      "replacing fossil fuels completely",
+      "thay thế hoàn toàn nhiên liệu hoá thạch"
+    ],
+    [
+      "very high temperatures",
+      "nhiệt độ rất cao"
+    ],
+    [
+      "dense and light",
+      "đậm đặc năng lượng mà nhẹ"
+    ],
+    [
+      "at a reasonable price",
+      "với giá hợp lý"
+    ],
+    [
+      "large amounts of storage and backup power",
+      "nhiều kho lưu trữ và điện dự phòng"
+    ],
+    [
+      "grow their economies",
+      "phát triển kinh tế"
+    ],
+    [
+      "operate for decades",
+      "hoạt động hàng chục năm"
+    ],
+    [
+      "uneven across regions and sectors",
+      "không đồng đều giữa các vùng và ngành"
+    ],
+    [
+      "lag behind",
+      "tụt lại phía sau"
+    ]
+  ]
+}

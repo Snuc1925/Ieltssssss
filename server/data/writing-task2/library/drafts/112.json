@@ -1,0 +1,125 @@
+{
+  "questionId": 112,
+  "text": "The loss of habitats and species raises the question of who should be responsible for protecting wildlife: ordinary people, or governments and society. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, some argue that individuals have a duty to protect wildlife because everyday personal choices add up to a large environmental effect. People decide whether to buy products made from endangered animals, whether to leave rubbish in natural areas and whether to support conservation charities. Gardeners who plant native flowers and leave small wild corners also give insects and birds a place to live. Without changed habits, even strong laws are hard to enforce. A hiker who takes litter home and keeps to marked paths, for example, causes far less disturbance to nesting birds, and if thousands of visitors behave in the same way the damage to a reserve is greatly reduced.\n\nOn the other hand, others claim that governments must lead because individuals alone cannot solve problems that are largely structural. The greatest threats to wildlife, such as the clearing of forests, industrial pollution and large-scale illegal hunting, are far beyond the reach of personal action. Governments can set rules that apply to everyone, such as protected reserves and heavy penalties for poaching, and only they can fund the rangers and monitoring that make these rules real. A national park without enough guards, for instance, soon becomes a hunting ground.\n\nIn conclusion, both sides are partly right. I believe that governments should take the lead, since they control the law and the funding, while individuals make protection work by following the rules and supporting it.",
+  "analysis": {
+    "type_vi": "Discuss both views: bảo vệ động vật hoang dã — cá nhân hay chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Khung hai quan điểm như các đề cá nhân vs chính phủ trước.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Tránh mua sản phẩm từ động vật nguy cấp, không xả rác, ủng hộ tổ chức bảo tồn, trồng hoa bản địa. Ví dụ người đi bộ đường dài.",
+        "refs": [
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Mối đe doạ lớn (phá rừng, ô nhiễm công nghiệp, săn trộm quy mô lớn) vượt tầm cá nhân; khu bảo tồn, phạt nặng, kiểm lâm. Ví dụ công viên thiếu kiểm lâm.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ dẫn dắt, cá nhân hỗ trợ.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "The loss of habitats and species",
+      "sự mất môi trường sống và loài"
+    ],
+    [
+      "protecting wildlife",
+      "bảo vệ động vật hoang dã"
+    ],
+    [
+      "a duty to protect",
+      "nghĩa vụ bảo vệ"
+    ],
+    [
+      "endangered animals",
+      "động vật nguy cấp"
+    ],
+    [
+      "conservation charities",
+      "tổ chức từ thiện bảo tồn"
+    ],
+    [
+      "plant native flowers",
+      "trồng hoa bản địa"
+    ],
+    [
+      "leave small wild corners",
+      "chừa những góc hoang dã nhỏ"
+    ],
+    [
+      "a place to live",
+      "nơi sinh sống"
+    ],
+    [
+      "takes litter home",
+      "mang rác về nhà"
+    ],
+    [
+      "keeps to marked paths",
+      "đi theo lối đã đánh dấu"
+    ],
+    [
+      "disturbance to nesting birds",
+      "quấy rầy chim làm tổ"
+    ],
+    [
+      "the clearing of forests",
+      "việc phá rừng"
+    ],
+    [
+      "industrial pollution",
+      "ô nhiễm công nghiệp"
+    ],
+    [
+      "large-scale illegal hunting",
+      "săn bắt trái phép quy mô lớn"
+    ],
+    [
+      "beyond the reach of personal action",
+      "vượt tầm hành động cá nhân"
+    ],
+    [
+      "protected reserves",
+      "khu bảo tồn"
+    ],
+    [
+      "heavy penalties for poaching",
+      "hình phạt nặng cho săn trộm"
+    ],
+    [
+      "fund the rangers and monitoring",
+      "tài trợ kiểm lâm và giám sát"
+    ],
+    [
+      "a hunting ground",
+      "bãi săn"
+    ],
+    [
+      "follow the rules",
+      "tuân thủ quy định"
+    ]
+  ]
+}

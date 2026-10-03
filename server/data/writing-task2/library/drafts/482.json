@@ -1,0 +1,126 @@
+{
+  "questionId": 482,
+  "text": "Shoppers today buy food that has often travelled thousands of kilometres, and many of them have no idea where it was grown. I largely agree that food origin should be labelled on products, since labels help shoppers to make informed choices, although the rules should not be too costly.\n\nTo begin with, labels showing where food comes from help shoppers to make informed choices. Buyers can support local farmers, avoid products linked to poor safety records or very long transport, and decide whether they are willing to pay more for particular regions. If a problem such as contamination occurs, a clear origin also makes it easier to trace the source and withdraw the product quickly. A shopper who reads that apples were grown in a nearby region, for example, may choose them over apples flown from another continent, which reduces transport emissions.\n\nFurthermore, labelling gives producers a reason to meet higher standards. When customers can see the origin, farmers and companies are more careful about quality and honesty, because their reputation is visible. It also protects consumers from misleading claims, such as a product described as local when only the packaging was done nearby. However, there are costs. Small producers may find complicated labelling expensive, and origin does not always indicate quality, since good and bad products exist in every country. Rules should therefore be simple and consistent, and phased in with support for small businesses. If the information is easy to read, more people will actually use it when they shop.\n\nIn conclusion, food origin should be labelled to a large extent, because it improves choice and accountability, provided that the rules are clear and affordable.",
+  "analysis": {
+    "type_vi": "Extent: nên ghi nguồn gốc thực phẩm trên sản phẩm đến mức nào — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài bằng bối cảnh quen thuộc (thực phẩm đi hàng nghìn km, người mua không biết nguồn gốc) rồi largely agree + lý do + giới hạn (chi phí).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lựa chọn có thông tin",
+        "think": "Người mua ủng hộ nông dân địa phương, tránh sản phẩm có tiền sử an toàn kém hoặc vận chuyển quá xa; truy xuất nguồn gốc nhanh khi có sự cố. Ví dụ táo trồng gần so với táo vận chuyển bằng máy bay.",
+        "refs": [
+          "ID-env-food-labelling",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — chuẩn mực cao hơn + giới hạn",
+        "think": "Danh tiếng hiển thị khiến người sản xuất cẩn thận hơn; chống tuyên bố gây hiểu lầm. Giới hạn: chi phí cho nhà sản xuất nhỏ; nguồn gốc không luôn thể hiện chất lượng; quy tắc đơn giản và áp dụng dần.",
+        "refs": [
+          "ID-env-gov-rules",
+          "FR-concede-cost",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ghi nguồn gốc ở mức độ lớn nếu quy định rõ ràng và chi phí hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-food-labelling"
+    ]
+  },
+  "chunks": [
+    [
+      "has often travelled thousands of kilometres",
+      "thường đã đi hàng nghìn km"
+    ],
+    [
+      "food origin should be labelled",
+      "nguồn gốc thực phẩm nên được ghi nhãn"
+    ],
+    [
+      "informed choices",
+      "lựa chọn có thông tin"
+    ],
+    [
+      "not be too costly",
+      "không quá tốn kém"
+    ],
+    [
+      "Labels showing where food comes from",
+      "nhãn ghi rõ thực phẩm đến từ đâu"
+    ],
+    [
+      "support local farmers",
+      "ủng hộ nông dân địa phương"
+    ],
+    [
+      "poor safety records",
+      "tiền sử an toàn kém"
+    ],
+    [
+      "very long transport",
+      "vận chuyển quá xa"
+    ],
+    [
+      "contamination",
+      "sự nhiễm bẩn"
+    ],
+    [
+      "trace the source",
+      "truy ra nguồn"
+    ],
+    [
+      "withdraw the product quickly",
+      "thu hồi sản phẩm nhanh"
+    ],
+    [
+      "flown from another continent",
+      "vận chuyển bằng máy bay từ châu lục khác"
+    ],
+    [
+      "transport emissions",
+      "khí thải từ vận chuyển"
+    ],
+    [
+      "meet higher standards",
+      "đạt chuẩn cao hơn"
+    ],
+    [
+      "their reputation is visible",
+      "danh tiếng của họ được thấy rõ"
+    ],
+    [
+      "misleading claims",
+      "tuyên bố gây hiểu lầm"
+    ],
+    [
+      "complicated labelling",
+      "việc dán nhãn phức tạp"
+    ],
+    [
+      "does not always indicate quality",
+      "không phải lúc nào cũng cho biết chất lượng"
+    ],
+    [
+      "simple and consistent",
+      "đơn giản và nhất quán"
+    ],
+    [
+      "improves choice and accountability",
+      "cải thiện lựa chọn và trách nhiệm giải trình"
+    ]
+  ]
+}

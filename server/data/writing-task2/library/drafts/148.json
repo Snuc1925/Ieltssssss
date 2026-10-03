@@ -1,0 +1,128 @@
+{
+  "questionId": 148,
+  "text": "Genetically modified crops, whose genes have been altered in a laboratory to give them useful traits, are widely grown in some countries and banned in others. This essay will discuss the main advantages and disadvantages before explaining my own view.\n\nOn the positive side, genetically modified crops can produce higher and more reliable yields. Plants can be changed to resist pests, tolerate drought or contain extra vitamins, so farmers lose less of their harvest and need fewer chemicals. More food is then grown on the same land, which helps a growing population. A farmer who plants a drought-resistant variety, for example, may still harvest a reasonable crop in a dry year, when ordinary seed would fail. Crops improved in this way can also reduce hunger and malnutrition in poorer regions.\n\nOn the negative side, however, the long-term effects of genetically modified crops are not fully known. Modified genes could spread to wild plants, and farmers who buy patented seed each year become dependent on a few large companies. Many consumers distrust modified food, and people in some countries worry about its safety even though the evidence so far is limited. Nevertheless, these concerns can be addressed. Careful testing, independent regulation and clear labels would allow consumers to make their own choices and would help to detect problems early. Public trust is essential, because even a safe product will fail if people refuse to buy it.\n\nIn conclusion, genetically modified crops offer real benefits for food supply, but uncertainty about long-term effects and corporate control are valid concerns. On balance, I believe that they should be used cautiously, under strict testing and open information.",
+  "analysis": {
+    "type_vi": "A/D: cây trồng biến đổi gen",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài định nghĩa ngắn (gen được thay đổi để có đặc tính hữu ích) rồi báo thảo luận ưu và nhược điểm; kết luận chọn lập trường thận trọng.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Năng suất cao và ổn định hơn; chống sâu bệnh, chịu hạn, thêm vitamin; ít hoá chất; thêm lương thực trên cùng diện tích. Ví dụ nông dân trồng giống chịu hạn.",
+        "refs": [
+          "ID-env-gm-benefits",
+          "EX-env-drought-crop"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Tác động dài hạn chưa rõ; gen lan sang cây dại; nông dân lệ thuộc công ty hạt giống; người tiêu dùng nghi ngờ. Nevertheless: kiểm nghiệm cẩn thận, quy định độc lập và nhãn rõ ràng.",
+        "refs": [
+          "ID-env-gm-risks",
+          "ID-env-food-labelling",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Dùng thận trọng dưới kiểm tra nghiêm ngặt và thông tin công khai.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-gm-benefits",
+      "ID-env-gm-risks",
+      "EX-env-drought-crop"
+    ]
+  },
+  "chunks": [
+    [
+      "Genetically modified crops",
+      "cây trồng biến đổi gen"
+    ],
+    [
+      "altered in a laboratory",
+      "được thay đổi trong phòng thí nghiệm"
+    ],
+    [
+      "useful traits",
+      "đặc tính có ích"
+    ],
+    [
+      "higher and more reliable yields",
+      "năng suất cao và ổn định hơn"
+    ],
+    [
+      "resist pests",
+      "kháng sâu bệnh"
+    ],
+    [
+      "tolerate drought",
+      "chịu hạn"
+    ],
+    [
+      "extra vitamins",
+      "vitamin bổ sung"
+    ],
+    [
+      "lose less of their harvest",
+      "mất ít vụ mùa hơn"
+    ],
+    [
+      "a growing population",
+      "dân số ngày càng tăng"
+    ],
+    [
+      "a drought-resistant variety",
+      "giống chịu hạn"
+    ],
+    [
+      "ordinary seed would fail",
+      "hạt giống thường sẽ thất bại"
+    ],
+    [
+      "hunger and malnutrition",
+      "đói và suy dinh dưỡng"
+    ],
+    [
+      "not fully known",
+      "chưa được biết đầy đủ"
+    ],
+    [
+      "spread to wild plants",
+      "lan sang cây dại"
+    ],
+    [
+      "patented seed",
+      "hạt giống có bản quyền"
+    ],
+    [
+      "dependent on a few large companies",
+      "phụ thuộc vào vài công ty lớn"
+    ],
+    [
+      "distrust modified food",
+      "không tin thực phẩm biến đổi gen"
+    ],
+    [
+      "Careful testing, independent regulation",
+      "kiểm nghiệm cẩn thận, quản lý độc lập"
+    ],
+    [
+      "detect problems early",
+      "phát hiện vấn đề sớm"
+    ],
+    [
+      "used cautiously",
+      "được sử dụng thận trọng"
+    ]
+  ]
+}

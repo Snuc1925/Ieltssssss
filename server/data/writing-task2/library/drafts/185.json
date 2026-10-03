@@ -1,0 +1,126 @@
+{
+  "questionId": 185,
+  "text": "Opinions are divided as to whether climate change is mainly caused by human activity or whether natural factors are more significant. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who emphasise natural factors point out that the climate has always changed through natural causes. Volcanic eruptions, variations in the sun's energy and shifts in ocean currents produced warm periods and ice ages long before humans existed. Some people therefore argue that today's warming may be part of a natural cycle, and that human influence is exaggerated. This view also reminds us that climate science is complex, and that scientists continue to study natural variation in order to improve their predictions.\n\nOn the other hand, supporters of the human-activity explanation argue that scientific evidence links the recent rise in temperatures to human activity. Burning coal, oil and gas and clearing forests release gases that trap heat, and temperatures have risen alongside emissions since the industrial era began. Natural cycles, which operate over thousands of years, cannot explain such rapid warming. A greenhouse works in a similar way, which is why these gases are said to warm the planet. In addition, studies of past climates show that the present rate of change is unusually fast. Taken together, these findings make it difficult to treat natural cycles as the main explanation, and most scientists therefore regard human activity as the principal driver.\n\nTo sum up, both positions have their merits; nevertheless, I believe that human activity is the main cause, since the speed of the current warming cannot be explained by natural cycles, although natural factors still shape the climate.",
+  "analysis": {
+    "type_vi": "Discuss both views: biến đổi khí hậu chủ yếu do con người hay do yếu tố tự nhiên",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Khung hai quan điểm; phải nêu rõ từ khoá 'human activity' và 'natural factors' ở mọi câu chủ đề.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Yếu tố tự nhiên",
+        "think": "Khí hậu luôn thay đổi: núi lửa, năng lượng mặt trời, dòng hải lưu; nhắc rằng khoa học khí hậu phức tạp để không bác bỏ quá thô.",
+        "refs": [
+          "ID-env-natural-cycles"
+        ]
+      },
+      {
+        "step": "3. Hoạt động của con người",
+        "think": "Đốt nhiên liệu hoá thạch và phá rừng thải khí giữ nhiệt; tốc độ nóng lên nhanh hơn chu kỳ tự nhiên; ví dụ nhà kính.",
+        "refs": [
+          "ID-env-human-cause"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chọn nguyên nhân chính là con người nhưng thừa nhận yếu tố tự nhiên vẫn định hình khí hậu.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-human-cause",
+      "ID-env-natural-cycles"
+    ]
+  },
+  "chunks": [
+    [
+      "mainly caused by human activity",
+      "chủ yếu do hoạt động con người"
+    ],
+    [
+      "natural factors",
+      "yếu tố tự nhiên"
+    ],
+    [
+      "emphasise natural factors",
+      "nhấn mạnh yếu tố tự nhiên"
+    ],
+    [
+      "Volcanic eruptions",
+      "núi lửa phun trào"
+    ],
+    [
+      "variations in the sun's energy",
+      "biến thiên năng lượng mặt trời"
+    ],
+    [
+      "shifts in ocean currents",
+      "thay đổi của dòng hải lưu"
+    ],
+    [
+      "warm periods and ice ages",
+      "thời kỳ ấm và kỷ băng hà"
+    ],
+    [
+      "part of a natural cycle",
+      "một phần chu kỳ tự nhiên"
+    ],
+    [
+      "human influence is exaggerated",
+      "ảnh hưởng của con người bị phóng đại"
+    ],
+    [
+      "natural variation",
+      "biến thiên tự nhiên"
+    ],
+    [
+      "improve their predictions",
+      "cải thiện dự báo"
+    ],
+    [
+      "scientific evidence",
+      "bằng chứng khoa học"
+    ],
+    [
+      "Burning coal, oil and gas",
+      "đốt than, dầu và khí"
+    ],
+    [
+      "clearing forests",
+      "phá rừng"
+    ],
+    [
+      "trap heat",
+      "giữ nhiệt"
+    ],
+    [
+      "alongside emissions",
+      "song song với khí thải"
+    ],
+    [
+      "the industrial era",
+      "kỷ nguyên công nghiệp"
+    ],
+    [
+      "such rapid warming",
+      "sự nóng lên nhanh như vậy"
+    ],
+    [
+      "unusually fast",
+      "nhanh bất thường"
+    ],
+    [
+      "shape the climate",
+      "định hình khí hậu"
+    ]
+  ]
+}

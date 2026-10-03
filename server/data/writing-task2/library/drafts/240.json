@@ -1,0 +1,128 @@
+{
+  "questionId": 240,
+  "text": "Animals are kept on farms, in zoos, in laboratories and in homes, and some people argue that the laws protecting them should be stronger. I largely agree, since animals can feel pain and fear, although laws must also take account of human needs.\n\nTo begin with, animals can feel pain and fear, so they deserve legal protection. Weak laws allow cruelty on farms, in circuses and in laboratories, whereas strong laws set minimum standards of care and penalties for those who break them. In some places, for example, hens may be kept in tiny cages for their entire lives, and a law that bans such cages forces producers to give animals room to move. Without legal limits, businesses that want to cut costs may be tempted to ignore suffering, and honest producers are undercut by careless ones.\n\nFurthermore, clear rules reflect the values of a modern society. Most people agree that causing needless suffering is wrong, yet individuals cannot inspect farms or laboratories themselves, so only inspectors acting under strict laws can ensure that standards are kept. Better conditions can also lead to healthier animals and safer food. However, the laws must be realistic. Farmers who face higher costs may need time and financial support to adapt, and some research that depends on animals may save human lives, so such work should be allowed under strict supervision. Strong laws should therefore protect animals without ignoring the needs of people who depend on them.\n\nIn conclusion, animal welfare laws should be strengthened to a large extent, because animals can suffer and weak rules allow cruelty, provided that the changes are introduced fairly.",
+  "analysis": {
+    "type_vi": "Extent: có nên tăng cường luật bảo vệ động vật — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài liệt kê nơi động vật bị nuôi (trang trại, sở thú, phòng thí nghiệm, nhà) để người đọc thấy phạm vi rồi largely agree + lý do + giới hạn (nhu cầu của con người).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — động vật biết đau",
+        "think": "Luật yếu cho phép tàn ác; luật mạnh đặt chuẩn tối thiểu và hình phạt. Ví dụ luật cấm lồng chật cho gà mái. Nhận xét: nhà sản xuất cẩu thả cạnh tranh giá với người làm đúng.",
+        "refs": [
+          "ID-env-animal-welfare",
+          "EX-env-battery-cage",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — giá trị xã hội + giới hạn",
+        "think": "Phần lớn mọi người cho rằng gây đau khổ không cần thiết là sai nhưng không tự kiểm tra được trang trại; chỉ thanh tra theo luật nghiêm. Giới hạn: nông dân cần thời gian và hỗ trợ; nghiên cứu cần động vật vẫn được phép dưới giám sát.",
+        "refs": [
+          "ID-env-animal-law-society",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tăng cường ở mức độ lớn, áp dụng công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-animal-welfare",
+      "EX-env-battery-cage"
+    ]
+  },
+  "chunks": [
+    [
+      "laws protecting them should be stronger",
+      "luật bảo vệ chúng nên mạnh hơn"
+    ],
+    [
+      "feel pain and fear",
+      "cảm nhận đau đớn và sợ hãi"
+    ],
+    [
+      "take account of human needs",
+      "tính đến nhu cầu của con người"
+    ],
+    [
+      "deserve legal protection",
+      "xứng đáng được pháp luật bảo vệ"
+    ],
+    [
+      "allow cruelty on farms",
+      "cho phép sự tàn ác ở trang trại"
+    ],
+    [
+      "minimum standards of care",
+      "tiêu chuẩn chăm sóc tối thiểu"
+    ],
+    [
+      "penalties for those who break them",
+      "hình phạt cho người vi phạm"
+    ],
+    [
+      "tiny cages",
+      "những chiếc lồng nhỏ xíu"
+    ],
+    [
+      "room to move",
+      "chỗ để di chuyển"
+    ],
+    [
+      "cut costs",
+      "cắt giảm chi phí"
+    ],
+    [
+      "ignore suffering",
+      "phớt lờ nỗi đau"
+    ],
+    [
+      "undercut by careless ones",
+      "bị người cẩu thả cạnh tranh giá"
+    ],
+    [
+      "reflect the values of a modern society",
+      "phản ánh giá trị của xã hội hiện đại"
+    ],
+    [
+      "needless suffering",
+      "đau khổ không cần thiết"
+    ],
+    [
+      "inspectors acting under strict laws",
+      "thanh tra hành động theo luật nghiêm"
+    ],
+    [
+      "healthier animals and safer food",
+      "động vật khoẻ hơn và thực phẩm an toàn hơn"
+    ],
+    [
+      "time and financial support to adapt",
+      "thời gian và hỗ trợ tài chính để thích nghi"
+    ],
+    [
+      "strict supervision",
+      "giám sát nghiêm ngặt"
+    ],
+    [
+      "depend on them",
+      "phụ thuộc vào chúng"
+    ],
+    [
+      "introduced fairly",
+      "được áp dụng công bằng"
+    ]
+  ]
+}

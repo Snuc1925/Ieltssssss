@@ -1,0 +1,129 @@
+{
+  "questionId": 122,
+  "text": "Cities offer jobs and services, but many of them lack parks, trees and open space, which makes life hotter, noisier and less healthy. This essay will suggest practical measures that governments could take, focusing on protecting and creating green space and on keeping it well maintained and accessible.\n\nTo begin with, governments can protect and expand green space inside cities. Planning rules can protect existing parks, require new developments to include gardens and playgrounds, and encourage green roofs and street trees where land is scarce. Unused sites, such as old car parks or empty plots, can be turned into small parks at low cost. A block of flats with a planted roof, for example, stays cooler in summer and offers residents a small garden. Over time, a network of connected green areas can help to cool the city, absorb pollution and shelter birds and insects.\n\nIn addition, authorities should make sure that green spaces are well maintained and accessible to everyone. Parks that are dirty or unsafe are rarely used, so councils need to budget for cleaning, lighting, repair and sensible security. Facilities such as paths, benches and play areas should be suitable for children, older people and people with disabilities, and parks should be located in poorer districts as well as wealthy ones. Equally important, involving residents in the design and care of their local park, through volunteer groups or consultations, encourages pride and reduces vandalism. These measures are inexpensive compared with the health and social benefits that they bring.\n\nIn conclusion, protecting and creating green spaces and then maintaining them for all residents offers the most realistic way of improving urban green areas.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ cải thiện không gian xanh đô thị",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu vấn đề (thành phố thiếu công viên, cây xanh: nóng hơn, ồn hơn, kém lành mạnh) và hai nhóm biện pháp: bảo vệ / tạo thêm; duy trì và tiếp cận.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — bảo vệ và mở rộng",
+        "think": "Quy hoạch bảo vệ công viên hiện có, yêu cầu dự án mới có vườn, mái xanh, cây đường phố; biến bãi đỗ xe cũ hoặc lô đất trống thành công viên nhỏ. Ví dụ toà nhà có mái trồng cây mát hơn vào mùa hè.",
+        "refs": [
+          "ID-env-green-space-solutions",
+          "EX-env-green-roof",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — bảo trì và tiếp cận",
+        "think": "Công viên bẩn hoặc không an toàn ít được dùng; ngân sách cho dọn dẹp, chiếu sáng, sửa chữa; tiện ích cho trẻ em, người già, người khuyết tật; đặt công viên ở khu nghèo; để người dân tham gia thiết kế.",
+        "refs": [
+          "ID-env-gov-infrastructure",
+          "ID-env-community-garden",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-green-space-solutions",
+      "EX-env-green-roof"
+    ]
+  },
+  "chunks": [
+    [
+      "lack parks, trees and open space",
+      "thiếu công viên, cây xanh và không gian mở"
+    ],
+    [
+      "hotter, noisier and less healthy",
+      "nóng hơn, ồn hơn và kém lành mạnh hơn"
+    ],
+    [
+      "green space",
+      "không gian xanh"
+    ],
+    [
+      "protect and expand green space",
+      "bảo vệ và mở rộng không gian xanh"
+    ],
+    [
+      "Planning rules",
+      "quy tắc quy hoạch"
+    ],
+    [
+      "require new developments to include gardens",
+      "yêu cầu dự án mới có vườn"
+    ],
+    [
+      "green roofs and street trees",
+      "mái xanh và cây đường phố"
+    ],
+    [
+      "where land is scarce",
+      "nơi đất khan hiếm"
+    ],
+    [
+      "old car parks or empty plots",
+      "bãi đỗ xe cũ hoặc lô đất trống"
+    ],
+    [
+      "at low cost",
+      "với chi phí thấp"
+    ],
+    [
+      "stays cooler in summer",
+      "mát hơn vào mùa hè"
+    ],
+    [
+      "a network of connected green areas",
+      "mạng lưới khu xanh kết nối"
+    ],
+    [
+      "cool the city, absorb pollution",
+      "làm mát thành phố, hấp thụ ô nhiễm"
+    ],
+    [
+      "well maintained and accessible",
+      "được bảo trì tốt và dễ tiếp cận"
+    ],
+    [
+      "dirty or unsafe",
+      "bẩn hoặc không an toàn"
+    ],
+    [
+      "cleaning, lighting, repair and sensible security",
+      "dọn dẹp, chiếu sáng, sửa chữa và an ninh hợp lý"
+    ],
+    [
+      "people with disabilities",
+      "người khuyết tật"
+    ],
+    [
+      "poorer districts as well as wealthy ones",
+      "khu nghèo cũng như khu giàu"
+    ],
+    [
+      "encourages pride and reduces vandalism",
+      "khuyến khích niềm tự hào và giảm phá hoại"
+    ],
+    [
+      "health and social benefits",
+      "lợi ích sức khoẻ và xã hội"
+    ]
+  ]
+}

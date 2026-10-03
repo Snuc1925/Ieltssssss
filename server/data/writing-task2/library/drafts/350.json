@@ -1,0 +1,125 @@
+{
+  "questionId": 350,
+  "text": "Pesticides, which are chemicals used to kill insects, weeds and fungi, are applied to crops in almost every farming region. This essay will discuss the main advantages and disadvantages before explaining my own view.\n\nOn the positive side, pesticides protect crops from insects, weeds and disease. Without them farmers could lose a large share of their harvest, which would raise food prices and leave more people hungry. They also allow fruit and vegetables to look attractive and to last longer in shops, so less food is thrown away. A grower whose orchard is hit by a destructive insect, for example, may lose most of the fruit within weeks unless the pest is controlled. For many families, cheaper and more reliable food is a real benefit.\n\nOn the negative side, however, pesticides can harm people, wildlife and water. Residues may stay on food, chemicals wash into rivers and kill useful insects such as bees, and pests gradually become resistant, which forces farmers to use stronger products. Farm workers who handle these chemicals without protection may also suffer from illness. Nevertheless, the harm can be reduced. Integrated pest management, which combines natural predators, crop rotation and small amounts of spraying only when needed, protects harvests while using far fewer chemicals. Strict rules on which products are allowed and on safe use would also help. Farmers who are trained to spray carefully, at the right time and in the right amount, can protect their crops while limiting the damage to nearby streams.\n\nIn conclusion, pesticides play an important role in feeding the world, but their effects on health and the environment are serious. On balance, I believe that they should be used sparingly and under strict control, alongside safer methods.",
+  "analysis": {
+    "type_vi": "A/D: thuốc trừ sâu trong nông nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài định nghĩa thuốc trừ sâu (hoá chất diệt côn trùng, cỏ dại, nấm); kết luận chọn dùng hạn chế dưới kiểm soát chặt.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Bảo vệ mùa màng khỏi côn trùng, cỏ dại, bệnh; giữ giá thực phẩm thấp; trái cây trông đẹp và để lâu nên ít lãng phí. Ví dụ vườn bị côn trùng phá có thể mất phần lớn quả trong vài tuần.",
+        "refs": [
+          "ID-env-pesticide-pro"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Dư lượng trên thực phẩm, hoá chất trôi xuống sông, hại ong, sâu bệnh kháng thuốc, công nhân nông trại ốm. Nevertheless: quản lý dịch hại tổng hợp (thiên địch, luân canh, phun ít khi cần) và quy định nghiêm ngặt.",
+        "refs": [
+          "ID-env-pesticide-con",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Dùng hạn chế, kiểm soát chặt, kèm phương pháp an toàn hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-pesticide-pro",
+      "ID-env-pesticide-con"
+    ]
+  },
+  "chunks": [
+    [
+      "Pesticides",
+      "thuốc trừ sâu"
+    ],
+    [
+      "kill insects, weeds and fungi",
+      "diệt côn trùng, cỏ dại và nấm"
+    ],
+    [
+      "applied to crops",
+      "được phun lên cây trồng"
+    ],
+    [
+      "protect crops from insects, weeds and disease",
+      "bảo vệ cây trồng khỏi côn trùng, cỏ dại và bệnh"
+    ],
+    [
+      "a large share of their harvest",
+      "phần lớn vụ mùa"
+    ],
+    [
+      "raise food prices",
+      "làm tăng giá thực phẩm"
+    ],
+    [
+      "leave more people hungry",
+      "khiến nhiều người đói hơn"
+    ],
+    [
+      "last longer in shops",
+      "để được lâu hơn trong cửa hàng"
+    ],
+    [
+      "a destructive insect",
+      "loài côn trùng phá hoại"
+    ],
+    [
+      "controlled",
+      "được kiểm soát"
+    ],
+    [
+      "cheaper and more reliable food",
+      "thực phẩm rẻ và ổn định hơn"
+    ],
+    [
+      "harm people, wildlife and water",
+      "gây hại người, động vật hoang dã và nước"
+    ],
+    [
+      "Residues",
+      "dư lượng"
+    ],
+    [
+      "wash into rivers",
+      "trôi xuống sông"
+    ],
+    [
+      "useful insects such as bees",
+      "côn trùng có ích như ong"
+    ],
+    [
+      "become resistant",
+      "trở nên kháng thuốc"
+    ],
+    [
+      "handle these chemicals without protection",
+      "dùng hoá chất mà không bảo hộ"
+    ],
+    [
+      "Integrated pest management",
+      "quản lý dịch hại tổng hợp"
+    ],
+    [
+      "natural predators, crop rotation",
+      "thiên địch, luân canh"
+    ],
+    [
+      "sparingly and under strict control",
+      "hạn chế và kiểm soát chặt"
+    ]
+  ]
+}

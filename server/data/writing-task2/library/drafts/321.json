@@ -1,0 +1,124 @@
+{
+  "questionId": 321,
+  "text": "Concerns about climate change have revived interest in nuclear power, but it also raises environmental questions. This essay will discuss the advantages and disadvantages before explaining whether the advantages outweigh the risks.\n\nOn the positive side, nuclear power helps to reduce the environmental harm caused by fossil fuels. A reactor produces large amounts of electricity without releasing the greenhouse gases or the smoke that harms people's lungs, and it needs far less land than solar or wind farms to generate the same output. Replacing coal stations with nuclear plants can therefore cut carbon emissions and improve air quality at the same time. A city that closes a coal plant and opens a nuclear one, for example, may see a clear fall in air pollution within a few years.\n\nOn the negative side, nuclear power carries environmental risks of its own. Mining uranium damages land, and radioactive waste has to be stored safely for thousands of years. Plants also use large amounts of water for cooling, which can warm rivers and harm fish, and a serious accident would contaminate air, soil and water over a wide area. Nevertheless, these risks can be managed. Modern waste is small in volume and can be sealed deep underground, and strict regulation has made serious accidents extremely rare. In comparison, the damage from fossil fuels is certain, continuous and global, and it falls on every country. For this reason, even a technology with real risks may be the lesser evil when the alternative is continued dependence on coal.\n\nIn conclusion, the advantages of nuclear power outweigh its environmental risks, provided that governments invest in secure waste storage and independent safety checks.",
+  "analysis": {
+    "type_vi": "A/D: lợi thế của điện hạt nhân có lớn hơn rủi ro môi trường không — advantages outweigh",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Đề hỏi 'outweigh' nên cần phán quyết rõ ngay ở mở bài và kết luận. Thân bài 2 dùng Nevertheless để phản bác các rủi ro rồi so sánh với nhiên liệu hoá thạch.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm theo góc môi trường",
+        "think": "Khác đề 108: lấy góc môi trường — giảm khí nhà kính và khói, cần ít đất hơn điện mặt trời / gió; ví dụ thành phố đóng nhà máy than mở nhà máy hạt nhân.",
+        "refs": [
+          "ID-env-nuclear-lowcarbon",
+          "ID-env-renew-clean"
+        ]
+      },
+      {
+        "step": "3. Rủi ro môi trường",
+        "think": "Khai thác uranium, chất thải phóng xạ, nước làm mát làm ấm sông, tai nạn nghiêm trọng gây ô nhiễm diện rộng; sau đó phản bác: chất thải nhỏ về thể tích, quy định chặt, thiệt hại từ nhiên liệu hoá thạch là chắc chắn và toàn cầu.",
+        "refs": [
+          "ID-env-nuclear-risk",
+          "ID-env-nuclear-waste-cost"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu thế lớn hơn rủi ro với điều kiện đầu tư lưu trữ chất thải an toàn và kiểm tra an toàn độc lập.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "revived interest in nuclear power",
+      "làm sống lại mối quan tâm đến điện hạt nhân"
+    ],
+    [
+      "raises environmental questions",
+      "đặt ra câu hỏi về môi trường"
+    ],
+    [
+      "outweigh the risks",
+      "lớn hơn rủi ro"
+    ],
+    [
+      "the environmental harm caused by fossil fuels",
+      "tác hại môi trường do nhiên liệu hoá thạch"
+    ],
+    [
+      "needs far less land than solar or wind farms",
+      "cần ít đất hơn nhiều so với điện mặt trời hay gió"
+    ],
+    [
+      "generate the same output",
+      "tạo cùng sản lượng"
+    ],
+    [
+      "improve air quality",
+      "cải thiện chất lượng không khí"
+    ],
+    [
+      "at the same time",
+      "đồng thời"
+    ],
+    [
+      "a clear fall in air pollution",
+      "ô nhiễm không khí giảm rõ rệt"
+    ],
+    [
+      "environmental risks of its own",
+      "rủi ro môi trường riêng"
+    ],
+    [
+      "Mining uranium damages land",
+      "khai thác uranium làm hại đất"
+    ],
+    [
+      "cooling",
+      "làm mát"
+    ],
+    [
+      "warm rivers and harm fish",
+      "làm ấm sông và hại cá"
+    ],
+    [
+      "contaminate air, soil and water",
+      "làm nhiễm bẩn không khí, đất và nước"
+    ],
+    [
+      "over a wide area",
+      "trên diện rộng"
+    ],
+    [
+      "can be managed",
+      "có thể kiểm soát"
+    ],
+    [
+      "small in volume",
+      "thể tích nhỏ"
+    ],
+    [
+      "sealed deep underground",
+      "niêm phong sâu dưới lòng đất"
+    ],
+    [
+      "certain, continuous and global",
+      "chắc chắn, liên tục và toàn cầu"
+    ],
+    [
+      "independent safety checks",
+      "kiểm tra an toàn độc lập"
+    ]
+  ]
+}

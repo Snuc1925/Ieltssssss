@@ -1,0 +1,128 @@
+{
+  "questionId": 429,
+  "text": "Beaches are among the most popular public places, but many coastlines are now being lined with hotels, apartments and private clubs. I agree that public beaches should be preserved from development, since they are a shared resource that protects the coast and should stay open to everyone.\n\nTo begin with, public beaches should stay open to everyone. Building along the shore privatises access, so that ordinary families are shut out of places that were once free to enjoy. Beaches offer cheap recreation and exercise for people of all incomes, and restricting access creates a divide between those who can afford a sea view and those who cannot. A resort that blocks the path to the water with fences and security guards, for example, turns a public place into a private one. Once access is lost, it is rarely regained.\n\nFurthermore, building on or near the shore damages the natural features that protect people and wildlife. Sand dunes act as barriers against storms and floods, and construction can remove them, speed up erosion and increase the risk to nearby homes. Lights, noise and crowds also disturb nesting birds and turtles. Well-managed beaches keep attracting visitors and income without permanent damage. Admittedly, development brings jobs and tourist spending, and some facilities such as toilets and cafes are useful. However, a limited amount of simple, low-impact building set back from the shore can provide most of these benefits, while keeping the beach itself open and natural.\n\nIn conclusion, I agree that public beaches should be preserved from development, because they belong to everyone and protect the coast, although small, carefully planned facilities can be allowed.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bảo tồn bãi biển công cộng khỏi phát triển — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu hình ảnh dải ven biển bị xây khách sạn, căn hộ, câu lạc bộ riêng rồi agree + lý do (tài nguyên chung, bảo vệ bờ biển).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — quyền tiếp cận bình đẳng",
+        "think": "Xây dọc bờ biển là tư nhân hoá lối đi; gia đình bình thường bị loại khỏi nơi từng được dùng miễn phí; bãi biển cho giải trí rẻ. Ví dụ khu nghỉ dưỡng chặn lối ra nước bằng hàng rào và bảo vệ.",
+        "refs": [
+          "ID-env-beach-public",
+          "ID-env-public-garden",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — bảo vệ thiên nhiên + nhượng bộ",
+        "think": "Đụn cát là rào chắn bão và lũ; xây dựng làm xói lở; ánh sáng, tiếng ồn làm phiền chim và rùa làm tổ. Nhượng bộ: việc làm và chi tiêu du lịch, nhà vệ sinh và quán cà phê hữu ích; công trình nhỏ, tác động thấp, lùi xa bờ.",
+        "refs": [
+          "ID-env-beach-public",
+          "ID-env-wildlife-benefits",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Bảo tồn bãi biển công cộng nhưng cho phép tiện ích nhỏ được quy hoạch kỹ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-beach-public"
+    ]
+  },
+  "chunks": [
+    [
+      "public beaches",
+      "bãi biển công cộng"
+    ],
+    [
+      "lined with hotels, apartments and private clubs",
+      "chen chúc khách sạn, căn hộ và câu lạc bộ riêng"
+    ],
+    [
+      "preserved from development",
+      "được bảo tồn khỏi phát triển"
+    ],
+    [
+      "stay open to everyone",
+      "luôn mở cho mọi người"
+    ],
+    [
+      "privatises access",
+      "tư nhân hoá lối vào"
+    ],
+    [
+      "shut out of places that were once free to enjoy",
+      "bị chặn khỏi nơi từng được hưởng miễn phí"
+    ],
+    [
+      "cheap recreation and exercise",
+      "giải trí và tập luyện giá rẻ"
+    ],
+    [
+      "people of all incomes",
+      "người thuộc mọi mức thu nhập"
+    ],
+    [
+      "creates a divide",
+      "tạo ra sự chia rẽ"
+    ],
+    [
+      "a sea view",
+      "tầm nhìn ra biển"
+    ],
+    [
+      "blocks the path to the water",
+      "chặn đường ra nước"
+    ],
+    [
+      "rarely regained",
+      "hiếm khi lấy lại được"
+    ],
+    [
+      "damages the natural features",
+      "làm hỏng các đặc điểm tự nhiên"
+    ],
+    [
+      "Sand dunes act as barriers against storms and floods",
+      "đụn cát là rào chắn bão và lũ"
+    ],
+    [
+      "speed up erosion",
+      "làm xói lở nhanh hơn"
+    ],
+    [
+      "disturb nesting birds and turtles",
+      "làm phiền chim và rùa làm tổ"
+    ],
+    [
+      "tourist spending",
+      "chi tiêu của du khách"
+    ],
+    [
+      "set back from the shore",
+      "lùi xa khỏi bờ biển"
+    ],
+    [
+      "low-impact",
+      "tác động thấp"
+    ],
+    [
+      "carefully planned facilities",
+      "tiện ích được quy hoạch cẩn thận"
+    ]
+  ]
+}

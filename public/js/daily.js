@@ -848,8 +848,9 @@
   var TYPE_VI = { frame: 'Khung câu / bài', phrase: 'Cụm từ', synonyms: 'Từ đồng nghĩa', idea: 'Ý (lập luận)', example: 'Ví dụ', connector: 'Từ nối' };
   var TYPE_ORDER = ['frame', 'connector', 'phrase', 'synonyms', 'idea', 'example'];
   var STANCE_VI = { pro: 'ủng hộ', con: 'phản đối / nhược điểm', cause: 'nguyên nhân', solution: 'giải pháp', caveat: 'giới hạn / nhượng bộ', rebuttal: 'phản bác' };
+  var TOPIC_VI = { education: 'Education', environment: 'Environment & Energy' };
   var MASTERY = ['Chưa nhớ', 'Mơ hồ', 'Đã thuộc'];
-  var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'education',
+  var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'education', topicSel: 'education',
     tab: 'essays', q: '', ftype: '', fpass: '', sel: null, ver: null, color: true, practice: false, reveal: false, recall: '', openRef: null,
     lq: '', ltype: '', ltopic: '', luse: '', lshow: 60 };
   var sroot = $('#study-root');
@@ -871,7 +872,7 @@
     if (ST.loaded || ST.loading) return;
     ST.loading = true; drawStudy();
     try {
-      var d = await req('GET', WRITE_API + '/library/education');
+      var d = await req('GET', WRITE_API + '/library/' + ST.topicSel);
       ST.entries = d.entries; ST.essays = d.essays; ST.progress = d.progress || {}; ST.pass = d.passScore || 7; ST.topic = d.topic;
       ST.byId = {}; d.entries.forEach(function (e) { ST.byId[e.id] = e; });
       ST.byQ = {}; ST.usage = {};
@@ -1088,7 +1089,8 @@
     }
     if (ST.sel != null && ST.byQ[ST.sel] && ST.tab === 'essays') { sroot.innerHTML = stDetailHtml(ST.byQ[ST.sel]); return; }
     var tabs = [['essays', 'Bài mẫu đã chấm'], ['library', 'Thư viện']];
-    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">Education · bài mẫu viết từ thư viện, chấm bằng AI, kèm tư duy xử lý từng bài</p></div></div>' +
+    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">' + esc(TOPIC_VI[ST.topicSel] || ST.topicSel) + ' · bài mẫu viết từ thư viện, chấm bằng AI, kèm tư duy xử lý từng bài</p></div>' +
+        '<div class="study-seg" role="group" aria-label="Chủ đề">' + Object.keys(TOPIC_VI).map(function (k) { return '<button type="button" data-act="stopic" data-t="' + k + '" aria-pressed="' + (ST.topicSel === k) + '">' + esc(TOPIC_VI[k]) + '</button>'; }).join('') + '</div></div>' +
       stKpis() + '<div class="study-seg" role="group" aria-label="Chế độ xem" style="margin-top:18px">' +
       tabs.map(function (t) { return '<button type="button" data-act="stab" data-t="' + t[0] + '" aria-pressed="' + (ST.tab === t[0]) + '">' + t[1] + '</button>'; }).join('') + '</div>' +
       '<div id="s-body">' + (ST.tab === 'essays' ? essaysTabHtml() : libTabHtml()) + '</div>';
@@ -1114,7 +1116,8 @@
   sroot.addEventListener('click', function (e) {
     var b = e.target.closest('[data-act]'); if (!b || b.disabled) return;
     var act = b.dataset.act;
-    if (act === 'stab') { ST.tab = b.dataset.t; ST.sel = null; drawStudy(); }
+    if (act === 'stopic') { if (b.dataset.t !== ST.topicSel) { ST.topicSel = b.dataset.t; ST.loaded = false; ST.sel = null; ST.q = ST.ftype = ST.fpass = ''; ensureStudy(); } }
+    else if (act === 'stab') { ST.tab = b.dataset.t; ST.sel = null; drawStudy(); }
     else if (act === 'sopen') { var id = Number(b.dataset.id); if (id && ST.byQ[id]) { ST.tab = 'essays'; ST.sel = id; ST.ver = null; ST.reveal = false; ST.recall = ''; ST.openRef = null; drawStudy(); window.scrollTo(0, 0); } }
     else if (act === 'sback') { ST.sel = null; drawStudy(); }
     else if (act === 'sref') showRef(b.dataset.id);

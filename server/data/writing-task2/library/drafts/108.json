@@ -1,0 +1,129 @@
+{
+  "questionId": 108,
+  "text": "Nuclear power supplies a significant share of electricity in several countries, yet it remains controversial. This essay will discuss the main advantages and disadvantages before explaining my own view.\n\nOn the positive side, nuclear plants produce large amounts of low-carbon electricity. A single plant can run day and night whatever the weather, so it provides steady power that wind and solar cannot always guarantee, and it releases almost no greenhouse gases while operating. Because a small amount of fuel produces a great deal of energy, countries can also reduce their dependence on imported coal and gas. A country with several reactors, for example, can keep its lights on during a calm, cloudy week without burning fossil fuels. Plants also last for sixty years or more, which gives a long period of stable production.\n\nOn the negative side, nuclear power carries serious risks and costs. Accidents are rare, but the consequences of a nuclear accident can be severe and long-lasting, as the disasters at Chernobyl and Fukushima showed. Radioactive waste must also be stored safely for thousands of years, which places a burden on future generations. In addition, plants are very expensive and often take over a decade to build, so they may be completed late and over budget. Safe operation requires strict regulation and highly trained staff, which poorer countries may find difficult to provide.\n\nIn conclusion, nuclear energy offers reliable low-carbon power, but its dangers, waste and cost are serious drawbacks. On balance, I believe that it should be one part of a mixed energy supply in countries with strong safety systems, rather than the main solution.",
+  "analysis": {
+    "type_vi": "A/D: ưu và nhược điểm của năng lượng hạt nhân",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Đề chỉ hỏi ưu/nhược điểm nên mở bài báo trước hai phần; mỗi thân bài một phía bằng cụm 'On the positive side / On the negative side'; kết luận chọn lập trường cân bằng.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Điện carbon thấp, ổn định ngày đêm; ít nhiên liệu nhiều năng lượng nên giảm phụ thuộc than khí nhập khẩu. Ví dụ nước có nhiều lò vẫn sáng đèn trong tuần lặng gió.",
+        "refs": [
+          "ID-env-nuclear-lowcarbon",
+          "EX-env-reactors-calm-week"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Tai nạn hiếm nhưng nặng và lâu dài; chất thải hàng nghìn năm; xây đắt và chậm; cần quản lý nghiêm và nhân lực đào tạo.",
+        "refs": [
+          "ID-env-nuclear-risk",
+          "ID-env-nuclear-waste-cost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nghiêng về 'một phần của cơ cấu năng lượng hỗn hợp' ở nước có hệ thống an toàn tốt, tránh tuyệt đối hoá.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-nuclear-lowcarbon",
+      "ID-env-nuclear-risk",
+      "ID-env-nuclear-waste-cost",
+      "EX-env-reactors-calm-week"
+    ]
+  },
+  "chunks": [
+    [
+      "supplies a significant share of electricity",
+      "cung cấp tỷ trọng điện đáng kể"
+    ],
+    [
+      "remains controversial",
+      "vẫn gây tranh cãi"
+    ],
+    [
+      "low-carbon electricity",
+      "điện ít carbon"
+    ],
+    [
+      "run day and night whatever the weather",
+      "chạy ngày đêm bất kể thời tiết"
+    ],
+    [
+      "steady power",
+      "nguồn điện ổn định"
+    ],
+    [
+      "cannot always guarantee",
+      "không phải lúc nào cũng đảm bảo được"
+    ],
+    [
+      "while operating",
+      "khi vận hành"
+    ],
+    [
+      "a small amount of fuel produces a great deal of energy",
+      "một lượng nhỏ nhiên liệu tạo ra rất nhiều năng lượng"
+    ],
+    [
+      "reduce their dependence on imported coal and gas",
+      "giảm phụ thuộc vào than và khí nhập khẩu"
+    ],
+    [
+      "keep its lights on",
+      "giữ cho đèn vẫn sáng"
+    ],
+    [
+      "a long period of stable production",
+      "thời gian sản xuất ổn định dài"
+    ],
+    [
+      "serious risks and costs",
+      "rủi ro và chi phí nghiêm trọng"
+    ],
+    [
+      "severe and long-lasting",
+      "nghiêm trọng và kéo dài"
+    ],
+    [
+      "Radioactive waste",
+      "chất thải phóng xạ"
+    ],
+    [
+      "a burden on future generations",
+      "gánh nặng cho thế hệ sau"
+    ],
+    [
+      "over budget",
+      "vượt ngân sách"
+    ],
+    [
+      "strict regulation",
+      "quy định nghiêm ngặt"
+    ],
+    [
+      "highly trained staff",
+      "nhân viên được đào tạo bài bản"
+    ],
+    [
+      "a mixed energy supply",
+      "cơ cấu năng lượng hỗn hợp"
+    ],
+    [
+      "strong safety systems",
+      "hệ thống an toàn mạnh"
+    ]
+  ]
+}

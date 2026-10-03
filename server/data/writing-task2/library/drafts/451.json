@@ -1,0 +1,132 @@
+{
+  "questionId": 451,
+  "text": "Wealthy countries throw away large quantities of edible food every day, which wastes money and resources. This essay will analyse the principal causes and propose realistic solutions.\n\nOverbuying and strict rules about appearance and dates are major causes of food waste. Shoppers often buy more than they need, attracted by bulk offers and large packs, and food then spoils in the fridge before it can be eaten. Many people also misunderstand date labels and discard products that are still safe. In addition, supermarkets and producers reject fruit and vegetables that are the wrong size or shape, even though they taste the same, and restaurants serve portions that are larger than customers can finish. A bag of misshapen carrots that never reaches the shelf, for example, is wasted before anyone has a chance to eat it.\n\nTo address this issue, governments should require clearer labels and encourage retailers to sell imperfect produce at lower prices. Laws or incentives can make supermarkets pass unsold but edible food to charities and food banks, as some countries already do, so that surplus feeds people instead of landfill. Education campaigns in schools and on social media can teach households to plan meals, store food properly and use leftovers. Councils can also provide food-waste collection for composting or energy production. These measures are inexpensive compared with the money and resources lost when food is thrown away, and they help families to cut their grocery bills. Such steps would turn a hidden loss into a saving for households, retailers and the environment alike.\n\nIn conclusion, food waste in developed countries stems mainly from overbuying and from strict appearance and date standards, but clearer labels, redistribution of surplus and education offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp lãng phí thực phẩm ở các nước phát triển",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài ngắn nêu bối cảnh (nước giàu vứt nhiều thực phẩm ăn được) rồi báo phân tích nguyên nhân và đề xuất giải pháp; thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Hai nhóm: hành vi người tiêu dùng (mua quá nhiều, hiểu sai nhãn) và tiêu chuẩn của chuỗi cung ứng (loại nông sản xấu mã, khẩu phần lớn). Ví dụ túi cà rốt méo không bao giờ lên kệ.",
+        "refs": [
+          "ID-env-food-waste-causes",
+          "EX-env-misshapen-carrots",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Nhãn rõ ràng và bán nông sản xấu mã giá thấp; chuyển thực phẩm dư cho ngân hàng thực phẩm; giáo dục lập kế hoạch bữa ăn; thu gom rác thực phẩm để ủ phân hoặc sản xuất năng lượng.",
+        "refs": [
+          "ID-env-food-waste-solutions",
+          "ID-env-recycle-incentive",
+          "PH-tackle-source",
+          "PH-prevention-costly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-food-waste-causes",
+      "ID-env-food-waste-solutions",
+      "EX-env-misshapen-carrots"
+    ]
+  },
+  "chunks": [
+    [
+      "Wealthy countries",
+      "các nước giàu"
+    ],
+    [
+      "large quantities of edible food",
+      "lượng lớn thực phẩm ăn được"
+    ],
+    [
+      "wastes money and resources",
+      "lãng phí tiền và nguồn lực"
+    ],
+    [
+      "Overbuying",
+      "mua quá nhiều"
+    ],
+    [
+      "strict rules about appearance and dates",
+      "quy định khắt khe về hình thức và hạn dùng"
+    ],
+    [
+      "attracted by bulk offers and large packs",
+      "bị hấp dẫn bởi khuyến mãi mua nhiều và gói lớn"
+    ],
+    [
+      "spoils in the fridge",
+      "hỏng trong tủ lạnh"
+    ],
+    [
+      "misunderstand date labels",
+      "hiểu sai nhãn hạn dùng"
+    ],
+    [
+      "still safe",
+      "vẫn an toàn"
+    ],
+    [
+      "the wrong size or shape",
+      "sai kích cỡ hoặc hình dạng"
+    ],
+    [
+      "portions that are larger than customers can finish",
+      "khẩu phần lớn hơn khách ăn hết"
+    ],
+    [
+      "misshapen carrots",
+      "cà rốt méo mó"
+    ],
+    [
+      "clearer labels",
+      "nhãn rõ ràng hơn"
+    ],
+    [
+      "imperfect produce",
+      "nông sản không hoàn hảo"
+    ],
+    [
+      "pass unsold but edible food to charities",
+      "chuyển thực phẩm chưa bán nhưng ăn được cho tổ chức từ thiện"
+    ],
+    [
+      "food banks",
+      "ngân hàng thực phẩm"
+    ],
+    [
+      "surplus feeds people instead of landfill",
+      "phần dư nuôi người thay vì chôn lấp"
+    ],
+    [
+      "plan meals, store food properly and use leftovers",
+      "lên kế hoạch bữa ăn, bảo quản đúng và dùng đồ thừa"
+    ],
+    [
+      "food-waste collection",
+      "thu gom rác thực phẩm"
+    ],
+    [
+      "cut their grocery bills",
+      "giảm hoá đơn đi chợ"
+    ]
+  ]
+}

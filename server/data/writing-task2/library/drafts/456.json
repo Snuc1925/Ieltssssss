@@ -1,0 +1,129 @@
+{
+  "questionId": 456,
+  "text": "Repairing a bicycle, making shelves from old planks or sewing a torn jacket was once ordinary, and today do-it-yourself, or DIY, activities are returning. I largely agree that DIY culture encourages sustainability, although its effect is limited without wider change.\n\nTo begin with, do-it-yourself culture encourages people to repair and reuse instead of throwing away. Fixing a broken item, making furniture from old materials or sharing tools extends the life of products, saves money and teaches useful skills. A neighbourhood repair cafe, for instance, lets residents mend toasters and bicycles together instead of buying replacements. Less waste is produced and fewer new goods have to be made, which saves energy and raw materials. People who have repaired something themselves also tend to value it more and are less likely to discard it casually. In this way, small personal habits can gradually shift what society regards as normal.\n\nFurthermore, DIY activities change attitudes. When people see how things are built and how they fail, they start to question disposable products and demand items that can be repaired. Online videos, workshops and tool libraries make it easier than ever to learn. However, the effect of this culture is limited. Not everyone has the skills, tools or time to repair things, some repairs are unsafe, and the largest environmental impacts come from industry and transport rather than from households. DIY should therefore complement, not replace, wider changes such as durable design, the right to repair and cleaner production.\n\nIn conclusion, DIY culture encourages sustainability to a large extent by reducing waste and changing attitudes, but its effect is limited unless governments and companies also act.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: văn hoá tự làm (DIY) có khuyến khích bền vững không — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài bằng ba ví dụ quen thuộc (sửa xe đạp, đóng kệ từ ván cũ, may áo rách), giải thích viết tắt DIY, rồi largely agree + giới hạn (không đủ nếu thiếu thay đổi rộng hơn).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — sửa chữa và tái sử dụng",
+        "think": "Sửa đồ hỏng, làm đồ nội thất từ vật liệu cũ, dùng chung dụng cụ kéo dài tuổi thọ, tiết kiệm tiền, học kỹ năng. Ví dụ quán sửa chữa khu phố. Người tự sửa thường trân trọng món đồ hơn.",
+        "refs": [
+          "ID-env-diy-repair",
+          "EX-env-repair-cafe",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — thay đổi thái độ + giới hạn",
+        "think": "Hiểu đồ được làm ra và hỏng thế nào khiến người ta đặt câu hỏi về hàng dùng một lần và đòi hàng sửa được; video và thư viện dụng cụ giúp học. Giới hạn: thiếu kỹ năng, thời gian; một số sửa chữa không an toàn; tác động lớn nhất đến từ công nghiệp và giao thông.",
+        "refs": [
+          "ID-env-diy-limits",
+          "ID-env-warranty-durable",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Khuyến khích bền vững ở mức độ lớn nhưng hiệu quả hạn chế nếu chính phủ và công ty không hành động.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-diy-repair",
+      "ID-env-diy-limits",
+      "EX-env-repair-cafe"
+    ]
+  },
+  "chunks": [
+    [
+      "do-it-yourself",
+      "tự làm lấy"
+    ],
+    [
+      "DIY culture",
+      "văn hoá tự làm"
+    ],
+    [
+      "encourages sustainability",
+      "khuyến khích sự bền vững"
+    ],
+    [
+      "repair and reuse",
+      "sửa chữa và tái sử dụng"
+    ],
+    [
+      "instead of throwing away",
+      "thay vì vứt đi"
+    ],
+    [
+      "Fixing a broken item",
+      "sửa món đồ hỏng"
+    ],
+    [
+      "old materials",
+      "vật liệu cũ"
+    ],
+    [
+      "sharing tools",
+      "dùng chung dụng cụ"
+    ],
+    [
+      "extends the life of products",
+      "kéo dài tuổi thọ sản phẩm"
+    ],
+    [
+      "teaches useful skills",
+      "dạy kỹ năng hữu ích"
+    ],
+    [
+      "a neighbourhood repair cafe",
+      "quán sửa chữa của khu phố"
+    ],
+    [
+      "mend toasters and bicycles",
+      "sửa máy nướng bánh và xe đạp"
+    ],
+    [
+      "value it more",
+      "trân trọng nó hơn"
+    ],
+    [
+      "discard it casually",
+      "vứt nó một cách tuỳ tiện"
+    ],
+    [
+      "question disposable products",
+      "đặt câu hỏi về sản phẩm dùng một lần"
+    ],
+    [
+      "tool libraries",
+      "thư viện dụng cụ"
+    ],
+    [
+      "the skills, tools or time",
+      "kỹ năng, dụng cụ hoặc thời gian"
+    ],
+    [
+      "some repairs are unsafe",
+      "một số sửa chữa không an toàn"
+    ],
+    [
+      "the right to repair",
+      "quyền được sửa chữa"
+    ],
+    [
+      "complement, not replace",
+      "bổ sung chứ không thay thế"
+    ]
+  ]
+}

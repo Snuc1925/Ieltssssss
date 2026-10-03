@@ -1,0 +1,127 @@
+{
+  "questionId": 257,
+  "text": "Farming has changed more in the last few decades than in the previous thousand years, thanks to new machines, seeds and software. This essay will outline two principal benefits for a country that focuses on agricultural innovation: higher output with fewer resources, and stronger rural communities.\n\nFirst and foremost, agricultural innovation allows farmers to produce more with fewer resources. Drip irrigation, sensors and better seeds deliver water and fertiliser exactly where plants need them, so yields rise while waste falls. A farm that switches from flooding its fields to drip irrigation, for example, can grow the same crop with far less water, which matters in dry regions. As a result, the country can feed its growing population without clearing more forest or farmland, and it saves money on chemicals and fuel. Drones and satellite images also help farmers to spot disease early and treat only the affected area.\n\nIn addition, innovation strengthens rural economies. Higher output and lower costs raise farm incomes, and new technology creates skilled jobs in areas such as equipment maintenance, data analysis and food processing. Young people who might otherwise leave for cities can find attractive careers in the countryside, which keeps villages alive. A country that develops advanced farming methods can also sell its equipment and expertise to others. Although new technology may be expensive for small farmers, shared equipment and training schemes can spread the benefits widely. Over time, wider use also lowers the cost of the equipment.\n\nTo sum up, agricultural innovation brings clear benefits to a country, above all greater and more efficient food production and a more prosperous countryside. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào đổi mới nông nghiệp — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Cùng khung các bài 197, 77, 217: báo trước hai lợi ích (sản xuất nhiều hơn bằng ít tài nguyên hơn; nông thôn mạnh hơn).",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — năng suất",
+        "think": "Tưới nhỏ giọt, cảm biến, hạt giống tốt đưa nước và phân đúng nơi; ví dụ trang trại chuyển từ tưới tràn sang nhỏ giọt; không cần phá thêm rừng hay đất nông nghiệp; máy bay không người lái phát hiện bệnh sớm.",
+        "refs": [
+          "ID-env-agri-innovation",
+          "EX-env-drip-farm"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — nông thôn",
+        "think": "Thu nhập nông dân tăng, việc làm kỹ năng cao (bảo trì, phân tích dữ liệu, chế biến), giữ người trẻ ở nông thôn; xuất khẩu thiết bị và chuyên môn. Nhượng bộ: công nghệ đắt với nông dân nhỏ, giải pháp dùng chung thiết bị và đào tạo.",
+        "refs": [
+          "ID-env-food-security",
+          "ID-env-green-jobs"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm cuối quen thuộc của dạng 'benefits'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-agri-innovation",
+      "EX-env-drip-farm"
+    ]
+  },
+  "chunks": [
+    [
+      "changed more in the last few decades",
+      "thay đổi nhiều hơn trong vài thập kỷ qua"
+    ],
+    [
+      "new machines, seeds and software",
+      "máy móc, hạt giống và phần mềm mới"
+    ],
+    [
+      "agricultural innovation",
+      "đổi mới nông nghiệp"
+    ],
+    [
+      "higher output with fewer resources",
+      "sản lượng cao hơn với ít tài nguyên hơn"
+    ],
+    [
+      "stronger rural communities",
+      "cộng đồng nông thôn vững mạnh hơn"
+    ],
+    [
+      "produce more with fewer resources",
+      "sản xuất nhiều hơn với ít tài nguyên hơn"
+    ],
+    [
+      "Drip irrigation",
+      "tưới nhỏ giọt"
+    ],
+    [
+      "exactly where plants need them",
+      "đúng nơi cây cần"
+    ],
+    [
+      "yields rise while waste falls",
+      "năng suất tăng trong khi lãng phí giảm"
+    ],
+    [
+      "flooding its fields",
+      "tưới tràn ruộng"
+    ],
+    [
+      "dry regions",
+      "vùng khô hạn"
+    ],
+    [
+      "clearing more forest or farmland",
+      "phá thêm rừng hoặc đất canh tác"
+    ],
+    [
+      "spot disease early",
+      "phát hiện bệnh sớm"
+    ],
+    [
+      "treat only the affected area",
+      "chỉ xử lý khu vực bị ảnh hưởng"
+    ],
+    [
+      "raise farm incomes",
+      "tăng thu nhập nông trại"
+    ],
+    [
+      "skilled jobs",
+      "việc làm có kỹ năng"
+    ],
+    [
+      "data analysis and food processing",
+      "phân tích dữ liệu và chế biến thực phẩm"
+    ],
+    [
+      "keeps villages alive",
+      "giữ cho làng quê sống động"
+    ],
+    [
+      "sell its equipment and expertise",
+      "bán thiết bị và chuyên môn"
+    ],
+    [
+      "shared equipment and training schemes",
+      "chương trình dùng chung thiết bị và đào tạo"
+    ]
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questionId": 327,
+  "text": "Opinions are divided as to whether urban farming can solve food shortages. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that urban farming brings fresh food closer to the people who eat it. Rooftop gardens, vertical farms and community plots use empty space in cities, cut transport distances and give residents access to fresh vegetables that would otherwise be expensive or hard to find. Local food costs less to deliver, loses less on the way and strengthens community ties, since neighbours work together and learn about growing. A block of flats that grows salad leaves on its roof, for example, can supply nearby households and restaurants throughout the year. In districts where fresh produce is scarce, this can improve diets and reduce hunger.\n\nOn the other hand, critics point out that urban farms cannot grow enough staple crops to end food shortages. Cities lack the land and water needed for wheat, rice and maize, which feed most of the world, and high rents and energy costs make indoor farms expensive. Most urban farms produce leafy vegetables and herbs, which are valuable but provide few calories. A large city that tried to feed itself from its own rooftops, for instance, would run out of space very quickly, because growing enough rice or wheat for millions of residents requires far more land than any city can spare.\n\nTo sum up, both positions have their merits; nevertheless, I believe that urban farming is a useful supplement that improves access to fresh food, but it cannot replace rural agriculture or solve shortages on its own.",
+  "analysis": {
+    "type_vi": "Discuss both views: nông nghiệp đô thị có giải quyết được thiếu lương thực không",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài giữ đúng từ khoá của đề (urban farming, food shortages); thân bài một ủng hộ, thân bài hai chỉ ra giới hạn; kết luận phân biệt 'bổ sung' với 'thay thế'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Vườn mái nhà, trang trại thẳng đứng, ô đất cộng đồng dùng khoảng trống đô thị; cắt khoảng cách vận chuyển; cư dân có rau tươi. Ví dụ toà nhà trồng xà lách trên mái.",
+        "refs": [
+          "ID-env-urban-farming-pro"
+        ]
+      },
+      {
+        "step": "3. Phe hoài nghi",
+        "think": "Thành phố thiếu đất và nước cho lúa mì, gạo, ngô; tiền thuê và năng lượng đắt; chủ yếu rau lá và thảo mộc ít calo. Ví dụ thành phố lớn tự nuôi mình từ mái nhà sẽ hết chỗ rất nhanh.",
+        "refs": [
+          "ID-env-urban-farming-limits"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Bổ sung hữu ích nhưng không thay thế nông nghiệp nông thôn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-urban-farming-pro",
+      "ID-env-urban-farming-limits"
+    ]
+  },
+  "chunks": [
+    [
+      "urban farming",
+      "nông nghiệp đô thị"
+    ],
+    [
+      "solve food shortages",
+      "giải quyết thiếu lương thực"
+    ],
+    [
+      "brings fresh food closer",
+      "đưa thực phẩm tươi lại gần hơn"
+    ],
+    [
+      "Rooftop gardens",
+      "vườn trên mái nhà"
+    ],
+    [
+      "vertical farms",
+      "trang trại thẳng đứng"
+    ],
+    [
+      "community plots",
+      "ô đất cộng đồng"
+    ],
+    [
+      "cut transport distances",
+      "rút ngắn quãng đường vận chuyển"
+    ],
+    [
+      "hard to find",
+      "khó tìm"
+    ],
+    [
+      "loses less on the way",
+      "hao hụt ít hơn trên đường"
+    ],
+    [
+      "strengthens community ties",
+      "củng cố gắn kết cộng đồng"
+    ],
+    [
+      "throughout the year",
+      "quanh năm"
+    ],
+    [
+      "improve diets",
+      "cải thiện chế độ ăn"
+    ],
+    [
+      "staple crops",
+      "cây lương thực chính"
+    ],
+    [
+      "the land and water needed for",
+      "đất và nước cần cho"
+    ],
+    [
+      "high rents and energy costs",
+      "tiền thuê và chi phí năng lượng cao"
+    ],
+    [
+      "leafy vegetables and herbs",
+      "rau lá và thảo mộc"
+    ],
+    [
+      "provide few calories",
+      "cung cấp ít calo"
+    ],
+    [
+      "run out of space",
+      "hết chỗ"
+    ],
+    [
+      "a useful supplement",
+      "phần bổ sung hữu ích"
+    ],
+    [
+      "replace rural agriculture",
+      "thay thế nông nghiệp nông thôn"
+    ]
+  ]
+}

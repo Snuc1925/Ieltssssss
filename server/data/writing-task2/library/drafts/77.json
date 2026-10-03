@@ -1,0 +1,128 @@
+{
+  "questionId": 77,
+  "text": "Green technology, such as electric vehicles, solar panels and energy-saving machines, is attracting a growing amount of investment. This essay will outline two principal benefits for a country that focuses on it: a cleaner environment with lower costs, and new industries and exports.\n\nFirst and foremost, green technology improves the environment while saving money. Efficient buildings, appliances and factories use less energy, so they reduce both pollution and bills, and clean transport cuts the exhaust fumes that damage health in crowded cities. As a result, the country spends less on imported fuel and on treating illnesses caused by dirty air. A city that replaces diesel buses with electric ones, for example, enjoys quieter streets and cleaner air, and its transport company spends less on fuel in the long run.\n\nIn addition, green technology creates new industries and jobs. Companies that design batteries, smart meters or wind turbines employ engineers, factory workers and installers, and a country that develops expertise early can sell its products abroad. A country that becomes known for efficient batteries, for instance, can sell them to many others. Because other countries are also trying to reduce emissions, demand for these products is likely to keep growing. Early movers therefore gain experience that latecomers will find hard to match. Although the initial investment is high, the long-term returns in jobs, savings and exports are considerable, and they are likely to rise as the technology becomes cheaper and more widespread.\n\nTo sum up, green technology brings clear benefits to a country, above all a cleaner environment with lower costs and a stronger, more competitive economy. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào công nghệ xanh — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Cùng khung với đề 197: báo trước hai lợi ích; mỗi thân bài một lợi ích; nhượng bộ ngắn (đầu tư ban đầu cao) ở cuối thân bài 2.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — môi trường và tiết kiệm",
+        "think": "Toà nhà, thiết bị, nhà máy hiệu quả dùng ít năng lượng nên giảm cả ô nhiễm và hoá đơn; chi ít hơn cho nhiên liệu nhập khẩu và điều trị bệnh. Ví dụ xe buýt điện thay xe buýt dầu.",
+        "refs": [
+          "ID-env-green-tech-savings",
+          "EX-env-electric-buses"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — ngành mới và xuất khẩu",
+        "think": "Công ty thiết kế pin, công tơ thông minh, tuabin gió thuê kỹ sư và công nhân; nước phát triển chuyên môn sớm có thể bán sản phẩm. Ví dụ nước nổi tiếng về pin hiệu suất cao.",
+        "refs": [
+          "ID-env-green-jobs",
+          "EX-env-battery-exports"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm lợi ích: môi trường sạch với chi phí thấp hơn và kinh tế cạnh tranh hơn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-green-tech-savings",
+      "EX-env-electric-buses",
+      "EX-env-battery-exports"
+    ]
+  },
+  "chunks": [
+    [
+      "Green technology",
+      "công nghệ xanh"
+    ],
+    [
+      "energy-saving machines",
+      "máy móc tiết kiệm năng lượng"
+    ],
+    [
+      "attracting a growing amount of investment",
+      "thu hút ngày càng nhiều đầu tư"
+    ],
+    [
+      "a cleaner environment with lower costs",
+      "môi trường sạch hơn với chi phí thấp hơn"
+    ],
+    [
+      "new industries and exports",
+      "ngành mới và xuất khẩu"
+    ],
+    [
+      "improves the environment while saving money",
+      "cải thiện môi trường mà vẫn tiết kiệm tiền"
+    ],
+    [
+      "Efficient buildings, appliances and factories",
+      "toà nhà, thiết bị và nhà máy hiệu quả"
+    ],
+    [
+      "reduce both pollution and bills",
+      "giảm cả ô nhiễm lẫn hoá đơn"
+    ],
+    [
+      "cuts the exhaust fumes",
+      "cắt giảm khói thải"
+    ],
+    [
+      "damage health",
+      "gây hại sức khoẻ"
+    ],
+    [
+      "spends less on imported fuel",
+      "chi ít hơn cho nhiên liệu nhập khẩu"
+    ],
+    [
+      "illnesses caused by dirty air",
+      "bệnh do không khí bẩn"
+    ],
+    [
+      "quieter streets",
+      "đường phố yên tĩnh hơn"
+    ],
+    [
+      "in the long run",
+      "về lâu dài"
+    ],
+    [
+      "smart meters",
+      "công tơ thông minh"
+    ],
+    [
+      "employ engineers, factory workers and installers",
+      "thuê kỹ sư, công nhân nhà máy và thợ lắp đặt"
+    ],
+    [
+      "become known for",
+      "trở nên nổi tiếng về"
+    ],
+    [
+      "keep growing",
+      "tiếp tục tăng"
+    ],
+    [
+      "the initial investment is high",
+      "vốn đầu tư ban đầu cao"
+    ],
+    [
+      "long-term returns",
+      "lợi nhuận dài hạn"
+    ]
+  ]
+}

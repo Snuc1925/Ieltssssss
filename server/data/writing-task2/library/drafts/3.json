@@ -1,0 +1,131 @@
+{
+  "questionId": 3,
+  "text": "Opinions are divided as to whether people should buy environmentally friendly products or choose cheaper alternatives. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of green products argue that environmentally friendly products reduce harm and often save money over time. They use less energy, create less waste and are often more durable, and growing demand encourages companies to improve their methods. An efficient light bulb, for example, may cost more at first but lasts much longer and uses far less electricity. Buyers who choose such goods also send a clear signal to manufacturers that the market wants cleaner production. If enough people do this, prices tend to fall and green options become normal.\n\nOn the other hand, others point out that many households simply cannot afford to pay extra for green products. When budgets are tight, families have to choose the cheapest option, and for people on low incomes the price on the label matters more than long-term benefits. Some products labelled green make claims that are exaggerated or hard to check, so shoppers may pay more without any real gain for the environment. Cheap alternatives therefore remain popular unless prices fall or rules improve. A parent who is buying clothes and food for a family of five, for instance, cannot always choose the more expensive version. In such cases, affordable green options are far more helpful than moral pressure.\n\nIn conclusion, both views have merit. Personally, I believe that people should choose green products where they can afford them, while governments should make them cheaper through taxes and clear labelling so that the choice becomes easier for everyone.",
+  "analysis": {
+    "type_vi": "Discuss both views: sản phẩm thân thiện môi trường hay sản phẩm rẻ hơn",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài giữ đúng hai lựa chọn của đề (environmentally friendly / cheaper); mỗi thân bài một phía; ý kiến riêng tách ra: chọn xanh khi đủ khả năng, chính phủ giúp hạ giá.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe sản phẩm xanh",
+        "think": "Dùng ít năng lượng, ít rác, bền hơn; nhu cầu tăng thúc ép doanh nghiệp cải thiện. Ví dụ bóng đèn tiết kiệm điện đắt hơn ban đầu nhưng dùng lâu. Nếu nhiều người chọn, giá giảm.",
+        "refs": [
+          "ID-env-eco-products-pro",
+          "ID-env-ind-habits",
+          "EX-env-led-bulb"
+        ]
+      },
+      {
+        "step": "3. Phe sản phẩm rẻ",
+        "think": "Nhiều hộ không đủ khả năng trả thêm; ngân sách hạn chế thì giá ghi trên nhãn quan trọng hơn lợi ích dài hạn; một số nhãn xanh phóng đại. Ví dụ phụ huynh mua quần áo và thực phẩm cho gia đình năm người.",
+        "refs": [
+          "ID-env-cheaper-pro",
+          "ID-env-impact-labels"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chọn xanh khi có thể, chính phủ giúp qua thuế và nhãn rõ ràng.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-eco-products-pro",
+      "ID-env-cheaper-pro",
+      "EX-env-led-bulb"
+    ]
+  },
+  "chunks": [
+    [
+      "environmentally friendly products",
+      "sản phẩm thân thiện môi trường"
+    ],
+    [
+      "cheaper alternatives",
+      "lựa chọn rẻ hơn"
+    ],
+    [
+      "supporters of green products",
+      "người ủng hộ sản phẩm xanh"
+    ],
+    [
+      "reduce harm",
+      "giảm tác hại"
+    ],
+    [
+      "save money over time",
+      "tiết kiệm tiền theo thời gian"
+    ],
+    [
+      "create less waste",
+      "tạo ít rác hơn"
+    ],
+    [
+      "more durable",
+      "bền hơn"
+    ],
+    [
+      "growing demand encourages companies",
+      "nhu cầu tăng khuyến khích công ty"
+    ],
+    [
+      "improve their methods",
+      "cải thiện phương pháp"
+    ],
+    [
+      "send a clear signal",
+      "gửi tín hiệu rõ ràng"
+    ],
+    [
+      "cleaner production",
+      "sản xuất sạch hơn"
+    ],
+    [
+      "prices tend to fall",
+      "giá có xu hướng giảm"
+    ],
+    [
+      "afford to pay extra",
+      "đủ khả năng trả thêm"
+    ],
+    [
+      "budgets are tight",
+      "ngân sách eo hẹp"
+    ],
+    [
+      "the price on the label",
+      "giá ghi trên nhãn"
+    ],
+    [
+      "long-term benefits",
+      "lợi ích dài hạn"
+    ],
+    [
+      "exaggerated or hard to check",
+      "bị phóng đại hoặc khó kiểm chứng"
+    ],
+    [
+      "pay more without any real gain",
+      "trả nhiều hơn mà không có lợi ích thực"
+    ],
+    [
+      "unless prices fall or rules improve",
+      "trừ khi giá giảm hoặc quy định tốt hơn"
+    ],
+    [
+      "clear labelling",
+      "ghi nhãn rõ ràng"
+    ]
+  ]
+}

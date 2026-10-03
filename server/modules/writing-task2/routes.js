@@ -27,9 +27,9 @@ async function requireQuestion(req, res) {
   return question;
 }
 
-router.get('/library/education', async (_req, res, next) => {
+router.get('/library/:topic(education|environment)', async (req, res, next) => {
   try {
-    res.json(await getLibrary('education'));
+    res.json(await getLibrary(req.params.topic));
   } catch (err) {
     next(err);
   }

@@ -1,0 +1,133 @@
+{
+  "questionId": 11,
+  "text": "Rising fuel prices and worries about pollution have made energy a central political issue. I firmly believe that countries should invest more in renewable energy, since it reduces pollution and carbon emissions and also strengthens energy security.\n\nTo begin with, renewable energy is cleaner than coal, oil and gas. Solar panels and wind turbines produce electricity without burning fuel, so they release almost no greenhouse gases and none of the smoke that harms people's lungs in crowded cities. The sun and wind will not run out, whereas fossil fuels are limited and their extraction damages land and water. A city that replaces a coal power station with wind and solar farms, for example, can breathe cleaner air within a few years, and hospitals may treat fewer patients with breathing problems.\n\nFurthermore, investing in renewables makes a country less dependent on imported fuel. Nations that buy oil and gas from abroad are exposed to sudden price rises and political disputes, while home-grown wind and solar power gives them a more stable and secure supply. Spending on renewable technology also creates employment in manufacturing, installation and maintenance, and the cost of solar and wind equipment has fallen as the technology has improved. Admittedly, the sun does not always shine and the wind does not always blow, so countries need batteries and flexible grids, but this cost is modest compared with the benefits. Over time, cheaper clean power can also help ordinary households and businesses to cut their energy bills.\n\nIn conclusion, I believe that countries should invest more in renewable energy, because it is cleaner, more secure and increasingly affordable.",
+  "analysis": {
+    "type_vi": "Opinion: có nên đầu tư nhiều hơn vào năng lượng tái tạo — firmly agree",
+    "plan": [
+      {
+        "step": "1. Khung Opinion",
+        "think": "Mở bài: bối cảnh (giá nhiên liệu, lo ngại ô nhiễm) + lập trường + hai lý do (sạch hơn, an ninh năng lượng). Hai lý do này chính là chủ đề hai thân bài.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Thân bài 1 — sạch hơn",
+        "think": "Câu chủ đề đặt thẳng ý (renewable energy is cleaner…), cơ chế (không đốt nhiên liệu), kết quả (không khí sạch hơn), ví dụ (thành phố thay nhà máy than bằng điện gió).",
+        "refs": [
+          "ID-env-renew-clean",
+          "EX-env-coal-to-wind-city",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Thân bài 2 — an ninh + nhượng bộ",
+        "think": "Giảm phụ thuộc nhập khẩu, việc làm, chi phí giảm; nhượng bộ ngắn về nắng gió không ổn định để chứng tỏ cân nhắc hai chiều.",
+        "refs": [
+          "ID-env-energy-security",
+          "ID-env-renew-cost-fall",
+          "ID-env-intermittency",
+          "FR-concede-cost",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại lập trường và ba tính từ then chốt: cleaner, more secure, increasingly affordable.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-renew-clean",
+      "ID-env-energy-security",
+      "ID-env-renew-cost-fall",
+      "ID-env-intermittency",
+      "EX-env-coal-to-wind-city"
+    ]
+  },
+  "chunks": [
+    [
+      "Rising fuel prices",
+      "giá nhiên liệu tăng"
+    ],
+    [
+      "a central political issue",
+      "vấn đề chính trị trung tâm"
+    ],
+    [
+      "invest more in renewable energy",
+      "đầu tư nhiều hơn vào năng lượng tái tạo"
+    ],
+    [
+      "reduces pollution and carbon emissions",
+      "giảm ô nhiễm và khí thải carbon"
+    ],
+    [
+      "strengthens energy security",
+      "củng cố an ninh năng lượng"
+    ],
+    [
+      "without burning fuel",
+      "không đốt nhiên liệu"
+    ],
+    [
+      "release almost no greenhouse gases",
+      "thải gần như không khí nhà kính"
+    ],
+    [
+      "harms people's lungs",
+      "gây hại phổi người"
+    ],
+    [
+      "will not run out",
+      "sẽ không cạn kiệt"
+    ],
+    [
+      "their extraction damages land and water",
+      "việc khai thác chúng làm hại đất và nước"
+    ],
+    [
+      "breathe cleaner air",
+      "hít thở không khí sạch hơn"
+    ],
+    [
+      "breathing problems",
+      "vấn đề hô hấp"
+    ],
+    [
+      "dependent on imported fuel",
+      "phụ thuộc vào nhiên liệu nhập khẩu"
+    ],
+    [
+      "exposed to sudden price rises",
+      "chịu ảnh hưởng của việc giá tăng đột ngột"
+    ],
+    [
+      "political disputes",
+      "tranh chấp chính trị"
+    ],
+    [
+      "a more stable and secure supply",
+      "nguồn cung ổn định và an toàn hơn"
+    ],
+    [
+      "creates employment",
+      "tạo việc làm"
+    ],
+    [
+      "installation and maintenance",
+      "lắp đặt và bảo trì"
+    ],
+    [
+      "batteries and flexible grids",
+      "pin và lưới điện linh hoạt"
+    ],
+    [
+      "cut their energy bills",
+      "giảm hoá đơn năng lượng"
+    ]
+  ]
+}

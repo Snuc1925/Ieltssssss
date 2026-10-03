@@ -1,0 +1,130 @@
+{
+  "questionId": 446,
+  "text": "A product that breaks just after its guarantee ends is likely to be thrown away, and many people feel that warranties should be longer in order to reduce waste. I agree with this view, since longer warranties encourage better products and make repair more common.\n\nTo begin with, longer warranties give manufacturers a reason to build durable goods. If a company must repair or replace its products for five years instead of one, it will use stronger parts and better testing, because failures become costly. Products that last longer mean fewer items are made and discarded, which saves energy, water and raw materials. A washing machine with a ten-year guarantee, for example, is likely to be built to last, and its owner does not need to buy a replacement after two years. Over time, durable design would reduce the pile of broken goods that councils must handle.\n\nFurthermore, longer warranties make repair the normal choice. When a fault is covered, customers return the product for repair instead of throwing it away, and companies develop repair services and supply spare parts. Consumers also benefit, since they spend less on replacements. Admittedly, longer guarantees may raise the initial price, and some firms might try to avoid claims. However, honest firms can recover the cost through lower replacement rates and stronger customer loyalty, and governments can set minimum standards and penalise those who refuse legitimate repairs. Clear rules would protect both buyers and sellers, and would make long-lasting products a selling point instead of a rarity.\n\nIn conclusion, I agree that warranties should be longer, because this encourages durable design and repair, which reduces waste, provided that clear rules prevent firms from avoiding their responsibilities.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bảo hành dài hơn để giảm rác — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bằng tình huống quen thuộc (hỏng ngay sau hết bảo hành thì bị vứt) rồi agree + hai lý do (khuyến khích làm đồ bền; sửa chữa thành lựa chọn bình thường).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — đồ bền",
+        "think": "Nếu công ty phải sửa hoặc thay trong 5 năm thay vì 1 năm họ sẽ dùng linh kiện tốt hơn và kiểm tra kỹ; ít sản phẩm bị làm ra và vứt đi. Ví dụ máy giặt bảo hành 10 năm.",
+        "refs": [
+          "ID-env-warranty-durable",
+          "ID-env-product-lifespan",
+          "EX-env-washing-machine",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — sửa chữa + nhượng bộ",
+        "think": "Khi lỗi được bảo hành khách đem sửa; công ty xây dịch vụ và linh kiện thay thế. Nhượng bộ: giá ban đầu tăng và có công ty né tránh yêu cầu; phản bác: thay thế ít hơn, khách trung thành; chính phủ đặt chuẩn tối thiểu.",
+        "refs": [
+          "ID-env-eco-design",
+          "FR-concede-cost",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree, với điều kiện luật rõ ràng ngăn công ty né tránh trách nhiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-warranty-durable",
+      "EX-env-washing-machine"
+    ]
+  },
+  "chunks": [
+    [
+      "just after its guarantee ends",
+      "ngay sau khi hết bảo hành"
+    ],
+    [
+      "thrown away",
+      "bị vứt bỏ"
+    ],
+    [
+      "warranties should be longer",
+      "bảo hành nên dài hơn"
+    ],
+    [
+      "encourage better products",
+      "khuyến khích sản phẩm tốt hơn"
+    ],
+    [
+      "make repair more common",
+      "làm việc sửa chữa phổ biến hơn"
+    ],
+    [
+      "build durable goods",
+      "làm hàng hoá bền"
+    ],
+    [
+      "repair or replace its products",
+      "sửa hoặc thay sản phẩm của mình"
+    ],
+    [
+      "stronger parts and better testing",
+      "linh kiện chắc hơn và kiểm tra tốt hơn"
+    ],
+    [
+      "failures become costly",
+      "hỏng hóc trở nên tốn kém"
+    ],
+    [
+      "fewer items are made and discarded",
+      "ít món hàng được làm ra và vứt bỏ"
+    ],
+    [
+      "built to last",
+      "được làm để dùng lâu"
+    ],
+    [
+      "the pile of broken goods",
+      "đống hàng hỏng"
+    ],
+    [
+      "the normal choice",
+      "lựa chọn bình thường"
+    ],
+    [
+      "When a fault is covered",
+      "khi lỗi được bảo hành"
+    ],
+    [
+      "supply spare parts",
+      "cung cấp phụ tùng"
+    ],
+    [
+      "spend less on replacements",
+      "chi ít hơn cho hàng thay thế"
+    ],
+    [
+      "raise the initial price",
+      "làm tăng giá ban đầu"
+    ],
+    [
+      "avoid claims",
+      "né tránh yêu cầu bảo hành"
+    ],
+    [
+      "stronger customer loyalty",
+      "lòng trung thành khách hàng mạnh hơn"
+    ],
+    [
+      "a selling point instead of a rarity",
+      "điểm bán hàng thay vì hiếm có"
+    ]
+  ]
+}

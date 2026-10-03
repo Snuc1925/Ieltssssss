@@ -1,0 +1,126 @@
+{
+  "questionId": 357,
+  "text": "Many countries have banned items such as plastic bags, straws and cutlery, and some people believe that these bans are an effective way of dealing with plastic pollution. I largely agree, although a ban works best when it is part of a wider approach.\n\nTo begin with, bans change behaviour quickly and reduce litter. When a product is no longer available, people have to use alternatives, and the effect is immediate rather than gradual. Places that have charged for or banned plastic bags generally report that their use falls sharply and that fewer bags are found on beaches and in rivers. A shop that can no longer give out plastic cutlery, for example, will switch to wooden or reusable alternatives, and customers soon accept the change. Bans also send a clear signal that society regards wasteful products as unacceptable, which encourages businesses to invest in better materials.\n\nHowever, bans are not enough on their own. Some substitutes, such as paper or thick cotton bags, need more energy to produce, so the environmental benefit depends on people reusing them many times. Enforcement can also be weak, particularly among small sellers and markets, and plastic from other sources, such as packaging and fishing nets, continues to pollute. Bans should therefore be combined with deposit schemes, better recycling and public education, and with support for businesses that must change. Without these measures, banned items may simply be replaced by others that cause similar harm.\n\nIn conclusion, banning single-use plastics is effective to a large extent in cutting litter quickly, but it needs the support of other measures to deal with the whole problem.",
+  "analysis": {
+    "type_vi": "Extent: lệnh cấm nhựa dùng một lần có hiệu quả không — largely agree nhưng 'chưa đủ một mình'",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Khác đề 47 ở chỗ hỏi 'hiệu quả' chứ không hỏi 'có nên cấm' nên tập trung vào bằng chứng hiệu quả và giới hạn của lệnh cấm.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Hiệu quả",
+        "think": "Thay đổi hành vi nhanh; khi sản phẩm không còn, người ta phải dùng cái khác; ít túi trên bãi biển và sông. Ví dụ cửa hàng không còn phát dao nĩa nhựa.",
+        "refs": [
+          "ID-env-ban-alternatives",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Vật thay thế (túi giấy, vải) tốn năng lượng hơn nên chỉ có lợi khi dùng nhiều lần; thực thi yếu ở người bán nhỏ; nguồn nhựa khác vẫn ô nhiễm; cần kết hợp đặt cọc, tái chế, giáo dục.",
+        "refs": [
+          "ID-env-ban-limits",
+          "ID-env-deposit-charge",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hiệu quả nhanh trong giảm rác nhưng cần biện pháp khác để giải quyết toàn bộ vấn đề.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-ban-limits"
+    ]
+  },
+  "chunks": [
+    [
+      "banned items such as plastic bags, straws and cutlery",
+      "cấm các món như túi, ống hút và dao nĩa nhựa"
+    ],
+    [
+      "dealing with plastic pollution",
+      "giải quyết ô nhiễm nhựa"
+    ],
+    [
+      "part of a wider approach",
+      "một phần của cách tiếp cận rộng hơn"
+    ],
+    [
+      "change behaviour quickly",
+      "thay đổi hành vi nhanh"
+    ],
+    [
+      "reduce litter",
+      "giảm rác vứt bừa"
+    ],
+    [
+      "no longer available",
+      "không còn có sẵn"
+    ],
+    [
+      "immediate rather than gradual",
+      "tức thì thay vì từ từ"
+    ],
+    [
+      "fewer bags are found on beaches and in rivers",
+      "ít túi hơn được tìm thấy trên bãi biển và sông"
+    ],
+    [
+      "give out plastic cutlery",
+      "phát dao nĩa nhựa"
+    ],
+    [
+      "wooden or reusable alternatives",
+      "phương án bằng gỗ hoặc dùng lại được"
+    ],
+    [
+      "send a clear signal",
+      "gửi tín hiệu rõ ràng"
+    ],
+    [
+      "regards wasteful products as unacceptable",
+      "coi sản phẩm lãng phí là không chấp nhận được"
+    ],
+    [
+      "not enough on their own",
+      "không đủ nếu đứng một mình"
+    ],
+    [
+      "need more energy to produce",
+      "cần nhiều năng lượng hơn để sản xuất"
+    ],
+    [
+      "depends on people reusing them many times",
+      "phụ thuộc việc dùng lại nhiều lần"
+    ],
+    [
+      "enforcement can be weak",
+      "việc thực thi có thể yếu"
+    ],
+    [
+      "small sellers and markets",
+      "người bán nhỏ và chợ"
+    ],
+    [
+      "fishing nets",
+      "lưới đánh cá"
+    ],
+    [
+      "support for businesses that must change",
+      "hỗ trợ doanh nghiệp phải thay đổi"
+    ],
+    [
+      "cause similar harm",
+      "gây hại tương tự"
+    ]
+  ]
+}

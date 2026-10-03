@@ -1,0 +1,126 @@
+{
+  "questionId": 383,
+  "text": "Many households still throw recyclable materials into the general bin, and some people say that recycling should be made mandatory. I agree with this view, since voluntary schemes have not achieved high participation, although compulsion must be accompanied by good services.\n\nTo begin with, mandatory recycling creates much higher participation. When recycling is optional, many people ignore it because it takes effort and the benefit seems small, so valuable materials end up in landfill. A clear legal requirement, backed by modest fines or by collection rules that refuse mixed rubbish, turns recycling into a normal habit, in the same way that seat belts became normal once they were compulsory. Higher volumes also supply recycling plants with the material they need to operate profitably, which keeps costs down. A district that requires sorting at the kerb, for example, may recycle far more than one that merely asks residents to take part.\n\nFurthermore, a rule shows that society regards waste as a shared responsibility. Without it, careful households bear the effort while others do nothing, which is unfair. However, compulsion works only if people are given the means to comply. Authorities must provide convenient collection, clear instructions and bins of the right size, and they should begin with warnings and education rather than immediate penalties. Rules that are too strict or too complicated may cause resentment and poor sorting, so contaminated loads can end up wasted anyway. Introduced fairly and explained well, mandatory recycling is a sensible step that most communities will accept after a short time.\n\nIn conclusion, I agree that recycling should be mandatory, because voluntary action has not been enough, provided that the rules are supported by easy services and sensible enforcement.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: tái chế nên bắt buộc — agree có điều kiện",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Agree ngay mở bài kèm điều kiện (kèm dịch vụ tốt) để lập trường không bị xem là cực đoan; điều kiện này được triển khai ở thân bài 2.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tham gia cao hơn",
+        "think": "Tự nguyện thì nhiều người bỏ qua; yêu cầu pháp lý trở thành thói quen như dây an toàn; khối lượng lớn giúp nhà máy tái chế có lãi. Ví dụ khu phố bắt buộc phân loại ở lề đường.",
+        "refs": [
+          "ID-env-recycle-mandatory",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — trách nhiệm chung + điều kiện",
+        "think": "Hộ cẩn thận gánh công sức còn người khác thì không: bất công. Điều kiện: dịch vụ thuận tiện, hướng dẫn rõ, bắt đầu bằng cảnh báo; luật quá khắt khe gây bực bội và phân loại kém.",
+        "refs": [
+          "ID-env-recycle-convenient",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, với điều kiện thực thi hợp lý và dịch vụ dễ dùng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-recycle-mandatory"
+    ]
+  },
+  "chunks": [
+    [
+      "throw recyclable materials into the general bin",
+      "vứt vật liệu tái chế được vào thùng rác chung"
+    ],
+    [
+      "made mandatory",
+      "được bắt buộc"
+    ],
+    [
+      "voluntary schemes",
+      "chương trình tự nguyện"
+    ],
+    [
+      "high participation",
+      "tỷ lệ tham gia cao"
+    ],
+    [
+      "compulsion",
+      "sự bắt buộc"
+    ],
+    [
+      "takes effort",
+      "tốn công sức"
+    ],
+    [
+      "the benefit seems small",
+      "lợi ích có vẻ nhỏ"
+    ],
+    [
+      "end up in landfill",
+      "kết thúc ở bãi chôn lấp"
+    ],
+    [
+      "a clear legal requirement",
+      "yêu cầu pháp lý rõ ràng"
+    ],
+    [
+      "modest fines",
+      "tiền phạt nhẹ"
+    ],
+    [
+      "refuse mixed rubbish",
+      "từ chối rác lẫn lộn"
+    ],
+    [
+      "a normal habit",
+      "thói quen bình thường"
+    ],
+    [
+      "seat belts",
+      "dây an toàn"
+    ],
+    [
+      "operate profitably",
+      "hoạt động có lãi"
+    ],
+    [
+      "keeps costs down",
+      "giữ chi phí thấp"
+    ],
+    [
+      "regards waste as a shared responsibility",
+      "coi rác thải là trách nhiệm chung"
+    ],
+    [
+      "bear the effort",
+      "gánh công sức"
+    ],
+    [
+      "the means to comply",
+      "phương tiện để tuân thủ"
+    ],
+    [
+      "warnings and education rather than immediate penalties",
+      "cảnh báo và giáo dục thay vì phạt ngay"
+    ],
+    [
+      "contaminated loads",
+      "mẻ rác bị nhiễm bẩn"
+    ]
+  ]
+}

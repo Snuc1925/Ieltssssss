@@ -1,0 +1,127 @@
+{
+  "questionId": 372,
+  "text": "Phones, clothes and appliances are replaced more quickly than ever, and some people argue that shorter product life cycles harm the environment. I largely agree, since faster replacement increases resource use and waste, although newer products can sometimes be more efficient.\n\nTo begin with, making a new product uses large amounts of energy, water and raw materials. Most of a phone's environmental impact, for example, comes from mining and manufacturing rather than from daily use, so replacing it after two years instead of five increases that impact. When products are designed to be replaced quickly, with sealed batteries or fashionable styles that go out of date, more items are produced and discarded. Electronic waste, which contains harmful substances, is increasing faster than almost any other type of rubbish, and much of it is not recycled.\n\nFurthermore, shorter life cycles encourage a throwaway culture. When goods are cheap and quickly outdated, people see little point in repairing them, so working items are discarded and landfill sites fill up. Admittedly, new models can be more energy efficient, and fast-moving markets may drive innovation and create jobs. For some products, such as refrigerators, replacing a very old model can save energy. However, these gains are usually smaller than the harm caused by constantly manufacturing new goods. Governments could encourage durable design by requiring repairable products, longer warranties and clear information about expected lifespan, so that buyers can choose items that last.\n\nIn conclusion, shorter product life cycles harm the environment to a large extent, because they raise resource use and waste, although efficiency gains in some products should be recognised.",
+  "analysis": {
+    "type_vi": "Extent: vòng đời sản phẩm ngắn hơn có hại môi trường — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Largely agree + hai lý do (tăng tiêu thụ tài nguyên; văn hoá vứt đi) + nhượng bộ (sản phẩm mới có thể hiệu quả hơn).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tài nguyên",
+        "think": "Sản xuất tốn nhiều năng lượng, nước, nguyên liệu; phần lớn tác động của điện thoại đến từ khai thác và sản xuất chứ không phải dùng hằng ngày; rác điện tử tăng nhanh.",
+        "refs": [
+          "ID-env-product-lifespan",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — văn hoá vứt đi + nhượng bộ",
+        "think": "Hàng rẻ và nhanh lỗi thời khiến người ta không sửa; nhượng bộ: mẫu mới có thể tiết kiệm năng lượng hơn (tủ lạnh rất cũ) nhưng lợi ích thường nhỏ hơn tác hại; chính phủ yêu cầu thiết kế bền và thông tin tuổi thọ.",
+        "refs": [
+          "ID-env-warranty-durable",
+          "ID-env-eco-design",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree, thừa nhận hiệu suất cải thiện ở một số sản phẩm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-product-lifespan"
+    ]
+  },
+  "chunks": [
+    [
+      "replaced more quickly than ever",
+      "được thay nhanh hơn bao giờ hết"
+    ],
+    [
+      "shorter product life cycles",
+      "vòng đời sản phẩm ngắn hơn"
+    ],
+    [
+      "increases resource use and waste",
+      "làm tăng việc dùng tài nguyên và rác thải"
+    ],
+    [
+      "large amounts of energy, water and raw materials",
+      "lượng lớn năng lượng, nước và nguyên liệu"
+    ],
+    [
+      "environmental impact",
+      "tác động môi trường"
+    ],
+    [
+      "mining and manufacturing",
+      "khai thác và sản xuất"
+    ],
+    [
+      "rather than from daily use",
+      "chứ không phải từ việc dùng hằng ngày"
+    ],
+    [
+      "sealed batteries",
+      "pin gắn liền"
+    ],
+    [
+      "fashionable styles that go out of date",
+      "kiểu thời trang lỗi mốt"
+    ],
+    [
+      "Electronic waste",
+      "rác điện tử"
+    ],
+    [
+      "harmful substances",
+      "chất độc hại"
+    ],
+    [
+      "not recycled",
+      "không được tái chế"
+    ],
+    [
+      "a throwaway culture",
+      "văn hoá vứt bỏ"
+    ],
+    [
+      "quickly outdated",
+      "nhanh lỗi thời"
+    ],
+    [
+      "see little point in repairing them",
+      "thấy ít ý nghĩa khi sửa chữa"
+    ],
+    [
+      "landfill sites fill up",
+      "bãi chôn lấp đầy lên"
+    ],
+    [
+      "more energy efficient",
+      "tiết kiệm năng lượng hơn"
+    ],
+    [
+      "drive innovation",
+      "thúc đẩy đổi mới"
+    ],
+    [
+      "durable design",
+      "thiết kế bền"
+    ],
+    [
+      "expected lifespan",
+      "tuổi thọ dự kiến"
+    ]
+  ]
+}

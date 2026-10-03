@@ -1,0 +1,124 @@
+{
+  "questionId": 442,
+  "text": "Takeaway boxes, wrappers and shopping bags are used for minutes but remain in the environment for years. I largely agree that governments should limit single-use packaging, since voluntary action by companies has not been enough, although the rules must be realistic.\n\nTo begin with, only governments can create rules that apply to everyone. If one supermarket reduces packaging while its rivals do not, it may lose customers or face higher costs, so businesses have little reason to act alone. Laws, taxes and fines create a level playing field in which responsible firms are not undercut by careless ones. Limits on unnecessary wrapping and charges for disposable items also change habits at a scale that appeals to individuals cannot reach. A requirement that restaurants use reusable containers for customers who eat in, for example, would remove millions of items from the waste stream and cost very little to administer.\n\nFurthermore, limiting packaging protects the environment and saves public money. Councils spend large sums collecting and processing rubbish, and litter damages rivers, beaches and wildlife. Producers can be required to pay for the waste they create, which encourages them to design simpler, recyclable packaging. However, limits should not go so far that food becomes unsafe or spoils faster, because that would increase food waste. Exceptions for medical products and perishable foods, and transition periods for small firms, would make the rules fair and practical. Governments should also review the results regularly, so that rules can be adjusted if they cause unexpected problems.\n\nIn conclusion, governments should limit single-use packaging to a large extent, because voluntary action is not enough and the damage is costly, provided that the rules protect safety and give businesses time to adapt.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ nên hạn chế bao bì dùng một lần đến mức nào — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài bằng độ chênh thời gian (dùng vài phút, tồn tại nhiều năm) rồi largely agree + lý do ngắn (tự nguyện không đủ) + giới hạn (luật phải thực tế).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — chỉ chính phủ đặt luật chung",
+        "think": "Siêu thị tự giảm bao bì sẽ mất khách hoặc tăng chi phí nếu đối thủ không làm; luật, thuế và phạt tạo sân chơi bình đẳng. Ví dụ nhà hàng bắt buộc dùng hộp tái sử dụng khi ăn tại chỗ.",
+        "refs": [
+          "ID-env-gov-rules",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — bảo vệ môi trường và tiền công + giới hạn",
+        "think": "Hội đồng địa phương chi nhiều thu gom rác; nhà sản xuất trả phí cho rác họ tạo ra. Giới hạn: không để thực phẩm kém an toàn hoặc nhanh hỏng; ngoại lệ cho sản phẩm y tế; thời gian chuyển tiếp cho doanh nghiệp nhỏ.",
+        "refs": [
+          "ID-env-eco-design",
+          "ID-env-packaging-protects",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hạn chế ở mức độ lớn, với điều kiện luật bảo vệ an toàn và cho doanh nghiệp thời gian thích nghi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Takeaway boxes, wrappers and shopping bags",
+      "hộp mang đi, giấy gói và túi mua sắm"
+    ],
+    [
+      "remain in the environment for years",
+      "tồn tại trong môi trường nhiều năm"
+    ],
+    [
+      "limit single-use packaging",
+      "hạn chế bao bì dùng một lần"
+    ],
+    [
+      "voluntary action by companies",
+      "hành động tự nguyện của doanh nghiệp"
+    ],
+    [
+      "the rules must be realistic",
+      "quy định phải thực tế"
+    ],
+    [
+      "rules that apply to everyone",
+      "quy định áp dụng cho mọi người"
+    ],
+    [
+      "lose customers or face higher costs",
+      "mất khách hoặc chịu chi phí cao hơn"
+    ],
+    [
+      "little reason to act alone",
+      "ít có lý do hành động một mình"
+    ],
+    [
+      "at a scale that appeals to individuals cannot reach",
+      "ở quy mô mà lời kêu gọi cá nhân không với tới"
+    ],
+    [
+      "charges for disposable items",
+      "phí đồ dùng một lần"
+    ],
+    [
+      "reusable containers",
+      "hộp dùng lại được"
+    ],
+    [
+      "eat in",
+      "ăn tại chỗ"
+    ],
+    [
+      "the waste stream",
+      "dòng rác thải"
+    ],
+    [
+      "cost very little to administer",
+      "tốn rất ít để quản lý"
+    ],
+    [
+      "saves public money",
+      "tiết kiệm tiền công"
+    ],
+    [
+      "collecting and processing rubbish",
+      "thu gom và xử lý rác"
+    ],
+    [
+      "simpler, recyclable packaging",
+      "bao bì đơn giản, tái chế được"
+    ],
+    [
+      "spoils faster",
+      "hỏng nhanh hơn"
+    ],
+    [
+      "perishable foods",
+      "thực phẩm dễ hỏng"
+    ],
+    [
+      "transition periods for small firms",
+      "giai đoạn chuyển tiếp cho doanh nghiệp nhỏ"
+    ]
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "questionId": 47,
+  "text": "Plastic cups, bags and straws are used for a few minutes and then thrown away, and many people say that single-use plastics should be banned. I agree with this view, since these items cause lasting damage to nature and there are practical alternatives for almost all of them.\n\nTo begin with, plastic persists in the environment for centuries. Single-use items rarely decompose; instead they break into tiny pieces called microplastics, which are found in rivers, soil and even the food that people eat. Marine animals such as turtles and seabirds swallow plastic or become trapped in it, and cleaning oceans afterwards is extremely difficult and costly. Because these products are used only once, the scale of the problem grows every year. A beach covered with bottles and bags, for example, harms wildlife and also discourages tourists, which damages the local economy.\n\nFurthermore, bans work when alternatives exist, and for most single-use plastics they do. Paper bags, cloth shopping bags, metal straws and reusable bottles perform the same function and can be used many times. When shops in several countries introduced a small charge for plastic bags, for instance, their use fell sharply, which shows that people adapt quickly once the habit is changed. Admittedly, a ban may raise costs for some businesses and could be difficult to enforce among small sellers, but this problem can be eased by giving firms time to switch and by supporting cheaper substitutes. Over time, the new habits become normal and the benefits for rivers, beaches and wildlife become clear.\n\nIn conclusion, I agree that single-use plastics should be banned, because they cause lasting harm and sensible alternatives are available, provided that the ban is introduced gradually.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: cấm nhựa dùng một lần — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Câu mở bài nêu hình ảnh quen thuộc (cốc, túi, ống hút dùng vài phút rồi vứt) rồi lập trường + hai lý do (hại lâu dài, có phương án thay thế).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — nhựa tồn tại lâu",
+        "think": "Nhựa không phân huỷ mà vỡ thành vi nhựa, vào chuỗi thức ăn; động vật biển nuốt hoặc mắc kẹt; dọn dẹp tốn kém. Ví dụ bãi biển đầy chai và túi làm hại động vật và du lịch.",
+        "refs": [
+          "ID-env-plastic-harm",
+          "EX-env-bottle-beach",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — có phương án thay thế + nhượng bộ",
+        "think": "Túi giấy, túi vải, ống hút kim loại, chai dùng lại; phí túi nhựa cho thấy thói quen thay đổi nhanh. Nhượng bộ chi phí và thực thi, giải quyết bằng áp dụng dần.",
+        "refs": [
+          "ID-env-ban-alternatives",
+          "EX-env-bag-charge",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly",
+          "FR-concede-cost"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lập trường + điều kiện (áp dụng dần).",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-plastic-harm",
+      "ID-env-ban-alternatives",
+      "EX-env-bottle-beach",
+      "EX-env-bag-charge"
+    ]
+  },
+  "chunks": [
+    [
+      "Plastic cups, bags and straws",
+      "cốc, túi và ống hút nhựa"
+    ],
+    [
+      "thrown away",
+      "bị vứt đi"
+    ],
+    [
+      "single-use plastics should be banned",
+      "nhựa dùng một lần nên bị cấm"
+    ],
+    [
+      "lasting damage to nature",
+      "thiệt hại lâu dài với thiên nhiên"
+    ],
+    [
+      "practical alternatives",
+      "phương án thay thế thiết thực"
+    ],
+    [
+      "persists in the environment for centuries",
+      "tồn tại hàng thế kỷ trong môi trường"
+    ],
+    [
+      "rarely decompose",
+      "hiếm khi phân huỷ"
+    ],
+    [
+      "tiny pieces called microplastics",
+      "những mảnh nhỏ gọi là vi nhựa"
+    ],
+    [
+      "the food that people eat",
+      "thức ăn con người ăn"
+    ],
+    [
+      "swallow plastic or become trapped in it",
+      "nuốt nhựa hoặc bị mắc kẹt trong đó"
+    ],
+    [
+      "cleaning oceans afterwards",
+      "dọn đại dương sau đó"
+    ],
+    [
+      "the scale of the problem grows every year",
+      "quy mô vấn đề tăng lên mỗi năm"
+    ],
+    [
+      "harms wildlife",
+      "gây hại động vật hoang dã"
+    ],
+    [
+      "discourages tourists",
+      "làm du khách nản lòng"
+    ],
+    [
+      "perform the same function",
+      "thực hiện cùng chức năng"
+    ],
+    [
+      "can be used many times",
+      "có thể dùng nhiều lần"
+    ],
+    [
+      "a small charge for plastic bags",
+      "khoản phí nhỏ cho túi nhựa"
+    ],
+    [
+      "fell sharply",
+      "giảm mạnh"
+    ],
+    [
+      "adapt quickly",
+      "thích nghi nhanh"
+    ],
+    [
+      "introduced gradually",
+      "được áp dụng dần dần"
+    ]
+  ]
+}

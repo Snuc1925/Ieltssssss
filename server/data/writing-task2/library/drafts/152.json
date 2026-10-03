@@ -1,0 +1,129 @@
+{
+  "questionId": 152,
+  "text": "Recycling is widely encouraged, yet people disagree about whether it is mainly a personal duty or something that society and governments should organise. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that everyday personal choices add up to a large environmental effect. Households decide whether to sort glass, paper and plastic or to throw everything into one bin, and careless sorting can spoil whole loads of recyclable material. Shoppers who choose products with less packaging also push companies to reduce waste. Without changed habits, even strong laws are hard to enforce. A family that separates its rubbish carefully every week, for example, keeps a large amount of material out of landfill, and a street where everyone does the same can cut its waste dramatically.\n\nOn the other hand, advocates of collective action point out that individuals alone cannot recycle what the system cannot process. A household cannot build a sorting plant or create a market for recycled materials, and many people live in areas where collection is irregular or unavailable. Governments can set rules that apply to everyone, such as deposit schemes and requirements for manufacturers to use recycled content, and only they can build the infrastructure that makes recycling practical. A resident with no collection point nearby, for instance, has little chance of recycling even when they want to.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, since government provides the system and citizens supply the daily effort that makes it work.",
+  "analysis": {
+    "type_vi": "Discuss both views: tái chế — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Cùng khung hai quan điểm.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Phân loại rác đúng, chọn đồ ít bao bì; phân loại sai làm hỏng cả mẻ tái chế.",
+        "refs": [
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Hệ thống",
+        "think": "Hộ gia đình không tự xây nhà máy phân loại hay thị trường vật liệu tái chế: cần luật (đặt cọc, tỉ lệ vật liệu tái chế) và hạ tầng.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "ID-env-gov-infrastructure",
+          "ID-env-producer-takeback"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp: chính phủ cung cấp hệ thống, người dân thực hiện.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-producer-takeback"
+    ]
+  },
+  "chunks": [
+    [
+      "a personal duty",
+      "bổn phận cá nhân"
+    ],
+    [
+      "organise",
+      "tổ chức"
+    ],
+    [
+      "sort glass, paper and plastic",
+      "phân loại thuỷ tinh, giấy và nhựa"
+    ],
+    [
+      "throw everything into one bin",
+      "vứt mọi thứ vào một thùng"
+    ],
+    [
+      "careless sorting",
+      "phân loại cẩu thả"
+    ],
+    [
+      "spoil whole loads of recyclable material",
+      "làm hỏng cả mẻ vật liệu tái chế"
+    ],
+    [
+      "products with less packaging",
+      "sản phẩm ít bao bì"
+    ],
+    [
+      "reduce waste",
+      "giảm rác thải"
+    ],
+    [
+      "keeps a large amount of material out of landfill",
+      "giữ nhiều vật liệu khỏi bãi chôn lấp"
+    ],
+    [
+      "cut its waste dramatically",
+      "giảm mạnh lượng rác"
+    ],
+    [
+      "recycle what the system cannot process",
+      "tái chế thứ hệ thống không xử lý được"
+    ],
+    [
+      "a sorting plant",
+      "nhà máy phân loại"
+    ],
+    [
+      "a market for recycled materials",
+      "thị trường vật liệu tái chế"
+    ],
+    [
+      "collection is irregular or unavailable",
+      "thu gom thất thường hoặc không có"
+    ],
+    [
+      "deposit schemes",
+      "chương trình đặt cọc vỏ chai"
+    ],
+    [
+      "recycled content",
+      "thành phần tái chế"
+    ],
+    [
+      "makes recycling practical",
+      "làm tái chế khả thi"
+    ],
+    [
+      "a collection point",
+      "điểm thu gom"
+    ],
+    [
+      "daily effort",
+      "nỗ lực hằng ngày"
+    ],
+    [
+      "provides the system",
+      "cung cấp hệ thống"
+    ]
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questionId": 50,
+  "text": "Traffic jams and exhaust fumes make air pollution a daily problem in many cities, and some people argue that public transport is the main way to reduce it. I partly agree, since public transport can cut pollution significantly, but it is one of several measures rather than the only answer.\n\nTo begin with, public transport carries many people with far less pollution per passenger. A full bus or train replaces dozens of cars, which reduces exhaust fumes, congestion and the space needed for roads. Cities with frequent, reliable and affordable services often see fewer private cars on the road, and the air in busy streets becomes cleaner and quieter. A commuter who switches from a car to a tram, for example, cuts their share of emissions every day. Public transport also saves time and money, so people are more likely to continue using it.\n\nHowever, public transport is not the main way to reduce pollution on its own. Much pollution comes from factories, power stations and heating, which buses and trains do not affect. Even within transport, other measures matter: electric vehicles remove tailpipe emissions, cycling and walking produce none, and better urban planning reduces the distances that people need to travel. Public transport also works only if it is convenient, and in low-density areas, services can be infrequent and expensive to run. A town where buses run once an hour, for instance, cannot persuade many drivers to leave their cars at home.\n\nIn conclusion, public transport is an important way to reduce pollution, but it works best alongside cleaner industry, electric vehicles and good city planning, so I agree only partly with the statement.",
+  "analysis": {
+    "type_vi": "Extent: giao thông công cộng có phải cách chính giảm ô nhiễm — đồng ý một phần",
+    "plan": [
+      {
+        "step": "1. Khung Extent với lập trường 'một phần'",
+        "think": "Đề dùng 'the main way' nên đồng ý một phần là hợp lý: giao thông công cộng giảm ô nhiễm đáng kể nhưng không phải cách duy nhất hay chính.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đồng ý — hiệu quả",
+        "think": "Một chuyến xe buýt hay tàu đầy thay thế hàng chục ô tô nên giảm khói, kẹt xe, diện tích đường; thành phố có dịch vụ thường xuyên ít xe cá nhân hơn. Ví dụ người đi làm chuyển sang tàu điện.",
+        "refs": [
+          "ID-env-public-transport",
+          "ID-env-gov-infrastructure",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phần không đồng ý — giới hạn",
+        "think": "Phần lớn ô nhiễm từ nhà máy, nhà máy điện, sưởi ấm mà xe buýt không tác động; trong giao thông còn xe điện, đi bộ, xe đạp, quy hoạch đô thị; ở khu dân cư thưa dịch vụ thưa và đắt. Ví dụ thị trấn xe buýt mỗi giờ một chuyến.",
+        "refs": [
+          "ID-env-pollution-solutions",
+          "ID-env-ev-health",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Quan trọng nhưng hiệu quả nhất khi kết hợp công nghiệp sạch, xe điện, quy hoạch tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-public-transport"
+    ]
+  },
+  "chunks": [
+    [
+      "Traffic jams and exhaust fumes",
+      "kẹt xe và khói xả"
+    ],
+    [
+      "a daily problem",
+      "vấn đề hằng ngày"
+    ],
+    [
+      "the main way to reduce it",
+      "cách chính để giảm nó"
+    ],
+    [
+      "cut pollution significantly",
+      "giảm ô nhiễm đáng kể"
+    ],
+    [
+      "one of several measures",
+      "một trong nhiều biện pháp"
+    ],
+    [
+      "far less pollution per passenger",
+      "ô nhiễm trên mỗi hành khách ít hơn nhiều"
+    ],
+    [
+      "replaces dozens of cars",
+      "thay thế hàng chục ô tô"
+    ],
+    [
+      "congestion",
+      "tắc nghẽn giao thông"
+    ],
+    [
+      "the space needed for roads",
+      "diện tích cần cho đường"
+    ],
+    [
+      "frequent, reliable and affordable services",
+      "dịch vụ thường xuyên, đáng tin và giá phải chăng"
+    ],
+    [
+      "fewer private cars on the road",
+      "ít ô tô cá nhân trên đường"
+    ],
+    [
+      "cuts their share of emissions",
+      "giảm phần khí thải của họ"
+    ],
+    [
+      "saves time and money",
+      "tiết kiệm thời gian và tiền"
+    ],
+    [
+      "Much pollution comes from factories, power stations and heating",
+      "phần lớn ô nhiễm đến từ nhà máy, nhà máy điện và sưởi ấm"
+    ],
+    [
+      "remove tailpipe emissions",
+      "loại bỏ khí thải từ ống xả"
+    ],
+    [
+      "better urban planning",
+      "quy hoạch đô thị tốt hơn"
+    ],
+    [
+      "reduces the distances that people need to travel",
+      "giảm quãng đường người ta phải đi"
+    ],
+    [
+      "low-density areas",
+      "khu dân cư thưa"
+    ],
+    [
+      "expensive to run",
+      "tốn kém để vận hành"
+    ],
+    [
+      "leave their cars at home",
+      "để xe ở nhà"
+    ]
+  ]
+}

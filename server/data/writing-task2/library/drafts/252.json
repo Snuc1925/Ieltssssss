@@ -1,0 +1,126 @@
+{
+  "questionId": 252,
+  "text": "As energy prices and emissions rise, people debate whether individuals should be responsible for saving energy or whether society and governments should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, some argue that households should conserve energy because everyday personal choices add up to a large environmental effect. People decide whether to leave lights and appliances on standby, how warm to keep their homes and how often to use the car. Switching to efficient bulbs, turning down the thermostat and unplugging unused devices can cut bills as well as emissions. Without changed habits, even strong laws are hard to enforce. A household that lowers its heating by one degree and dries clothes on a line, for example, may notice a clear difference in its monthly bill, and the total saving across a whole city is considerable.\n\nOn the other hand, others believe that governments must act because individuals alone cannot solve problems that are largely structural. A tenant cannot insulate a landlord's building, and no consumer can choose clean electricity if the national grid still depends on coal. Governments can set rules that apply to everyone, such as efficiency standards for appliances and buildings, and only they can invest in the renewable power and public transport that make low-energy living practical. A family in a poorly insulated rented flat, for instance, loses heat through the walls however careful it is.\n\nIn conclusion, both views have merit. Personally, I believe that governments should take the lead by setting standards and funding improvements, while individuals make these policies effective through their daily habits.",
+  "analysis": {
+    "type_vi": "Discuss both views: tiết kiệm năng lượng — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Cùng khung hai quan điểm.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Chế độ chờ, nhiệt độ sưởi, bóng đèn tiết kiệm; lợi ích kép: giảm hoá đơn và khí thải.",
+        "refs": [
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Người thuê nhà không thể cách nhiệt toà nhà của chủ; lưới điện vẫn dùng than. Tiêu chuẩn hiệu suất và đầu tư năng lượng tái tạo.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "ID-env-gov-infrastructure"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ đặt chuẩn và tài trợ, cá nhân duy trì bằng thói quen.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "energy prices and emissions rise",
+      "giá năng lượng và khí thải tăng"
+    ],
+    [
+      "saving energy",
+      "tiết kiệm năng lượng"
+    ],
+    [
+      "on standby",
+      "ở chế độ chờ"
+    ],
+    [
+      "how warm to keep their homes",
+      "giữ nhà ấm đến mức nào"
+    ],
+    [
+      "efficient bulbs",
+      "bóng đèn tiết kiệm điện"
+    ],
+    [
+      "turning down the thermostat",
+      "hạ nhiệt độ bộ điều nhiệt"
+    ],
+    [
+      "unplugging unused devices",
+      "rút phích thiết bị không dùng"
+    ],
+    [
+      "cut bills as well as emissions",
+      "giảm cả hoá đơn lẫn khí thải"
+    ],
+    [
+      "dries clothes on a line",
+      "phơi quần áo trên dây"
+    ],
+    [
+      "a clear difference in its monthly bill",
+      "khác biệt rõ trong hoá đơn hằng tháng"
+    ],
+    [
+      "the total saving",
+      "tổng mức tiết kiệm"
+    ],
+    [
+      "insulate a landlord's building",
+      "cách nhiệt toà nhà của chủ nhà"
+    ],
+    [
+      "the national grid",
+      "lưới điện quốc gia"
+    ],
+    [
+      "depends on coal",
+      "phụ thuộc vào than"
+    ],
+    [
+      "efficiency standards for appliances and buildings",
+      "tiêu chuẩn hiệu suất cho thiết bị và toà nhà"
+    ],
+    [
+      "low-energy living",
+      "lối sống tiết kiệm năng lượng"
+    ],
+    [
+      "a poorly insulated rented flat",
+      "căn hộ thuê cách nhiệt kém"
+    ],
+    [
+      "loses heat through the walls",
+      "mất nhiệt qua tường"
+    ],
+    [
+      "funding improvements",
+      "tài trợ cải tiến"
+    ],
+    [
+      "effective through their daily habits",
+      "hiệu quả nhờ thói quen hằng ngày"
+    ]
+  ]
+}

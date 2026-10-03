@@ -1,0 +1,127 @@
+{
+  "questionId": 280,
+  "text": "Shoppers are surrounded by information on packaging, from calories to country of origin, but very little of it tells them how a product affects the planet. I largely agree that product labelling should include environmental impact information, since it helps shoppers to choose better, although the system must be simple.\n\nTo begin with, environmental impact labels help shoppers to compare products. A simple rating for carbon emissions, water use or recyclability lets buyers choose better options and puts pressure on producers to improve. At present, buyers who want to reduce their impact often have to rely on advertising, which may be misleading. A shopper choosing between two similar bags of rice, for example, cannot tell which one involved more transport or more water unless the label says so. Clear information also helps to expose exaggerated green claims, which protects honest companies.\n\nFurthermore, labels can change the market. When companies know that their ratings will be visible, they have a reason to reduce emissions and packaging, and those that perform well can use the label as a selling point. This is similar to the energy ratings on electrical appliances, which have encouraged manufacturers to make more efficient products. However, complicated or inconsistent labels may confuse shoppers and add costs, especially for small firms, and measuring the exact impact of every product is difficult. Governments should therefore require one clear, standard scheme, such as a colour scale, with independent checking and support for small businesses.\n\nIn conclusion, product labels should include environmental impact information to a large extent, because it supports informed choices and encourages better production, provided that the scheme is simple and reliable.",
+  "analysis": {
+    "type_vi": "Extent: nhãn sản phẩm có nên ghi thông tin tác động môi trường — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài so sánh lượng thông tin (calo, nước sản xuất) với việc hầu như không có thông tin về tác động đến hành tinh; largely agree + lý do + giới hạn (hệ thống phải đơn giản).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — so sánh sản phẩm",
+        "think": "Xếp hạng đơn giản về carbon, nước, khả năng tái chế để người mua chọn tốt hơn và gây áp lực cho nhà sản xuất; hiện chỉ dựa vào quảng cáo, có thể gây hiểu lầm; chống tuyên bố xanh phóng đại. Ví dụ so sánh hai túi gạo.",
+        "refs": [
+          "ID-env-impact-labels",
+          "ID-env-food-labelling",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — thay đổi thị trường + giới hạn",
+        "think": "Công ty biết xếp hạng được nhìn thấy nên có lý do giảm khí thải và bao bì; giống nhãn năng lượng của thiết bị điện. Giới hạn: nhãn phức tạp làm khách bối rối và tăng chi phí; đo tác động chính xác khó; chính phủ nên yêu cầu một thang đo chuẩn.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-env-cheaper-pro",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên ghi ở mức độ lớn, với điều kiện hệ thống đơn giản và đáng tin.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-impact-labels"
+    ]
+  },
+  "chunks": [
+    [
+      "surrounded by information",
+      "bị bao quanh bởi thông tin"
+    ],
+    [
+      "environmental impact information",
+      "thông tin về tác động môi trường"
+    ],
+    [
+      "affects the planet",
+      "ảnh hưởng đến hành tinh"
+    ],
+    [
+      "help shoppers to compare products",
+      "giúp người mua so sánh sản phẩm"
+    ],
+    [
+      "a simple rating",
+      "điểm xếp hạng đơn giản"
+    ],
+    [
+      "carbon emissions, water use or recyclability",
+      "khí thải carbon, lượng nước dùng hoặc khả năng tái chế"
+    ],
+    [
+      "puts pressure on producers to improve",
+      "gây áp lực để nhà sản xuất cải thiện"
+    ],
+    [
+      "rely on advertising",
+      "dựa vào quảng cáo"
+    ],
+    [
+      "misleading",
+      "gây hiểu lầm"
+    ],
+    [
+      "involved more transport or more water",
+      "cần nhiều vận chuyển hoặc nước hơn"
+    ],
+    [
+      "expose exaggerated green claims",
+      "vạch trần tuyên bố xanh phóng đại"
+    ],
+    [
+      "protects honest companies",
+      "bảo vệ doanh nghiệp trung thực"
+    ],
+    [
+      "change the market",
+      "thay đổi thị trường"
+    ],
+    [
+      "use the label as a selling point",
+      "dùng nhãn làm điểm bán hàng"
+    ],
+    [
+      "energy ratings on electrical appliances",
+      "xếp hạng năng lượng trên thiết bị điện"
+    ],
+    [
+      "complicated or inconsistent labels",
+      "nhãn phức tạp hoặc thiếu nhất quán"
+    ],
+    [
+      "confuse shoppers",
+      "làm người mua bối rối"
+    ],
+    [
+      "the exact impact of every product",
+      "tác động chính xác của mọi sản phẩm"
+    ],
+    [
+      "one clear, standard scheme",
+      "một chương trình chuẩn và rõ ràng"
+    ],
+    [
+      "independent checking",
+      "kiểm tra độc lập"
+    ]
+  ]
+}

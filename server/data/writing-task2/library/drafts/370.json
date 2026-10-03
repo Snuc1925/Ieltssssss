@@ -1,0 +1,126 @@
+{
+  "questionId": 370,
+  "text": "Biofuels, which are made from crops, waste and other plant material, are increasingly mixed with petrol and diesel. This essay will discuss their main advantages and disadvantages before explaining my own view.\n\nOn the positive side, biofuels can reduce the carbon emissions of transport. Plants absorb carbon dioxide as they grow, so in theory the fuel releases about the same amount that it removed from the air, which makes it cleaner over its life than oil. It can also be used in existing engines and fuel stations with little change, so countries do not have to replace all their vehicles at once. In addition, growing fuel crops supports farmers and reduces dependence on imported oil. A country that blends plant-based fuel into its petrol, for example, can cut emissions from millions of cars quickly, long before electric vehicles become common.\n\nOn the negative side, biofuels raise serious concerns about land and food. Fuel crops need farmland, so they may compete with food production and push up prices, which hurts poorer families most. If forests are cleared to plant them, the carbon released can cancel out the benefits. Growing, fertilising and processing crops also consumes energy and water. Biofuels made from waste, such as used cooking oil, avoid many of these problems, but supplies are limited. Research into fuels from algae and farm residues may widen the supply in future.\n\nIn conclusion, biofuels offer a useful way to cut transport emissions, but their effect on land and food prices is a real drawback. On balance, I believe that they should be developed mainly from waste materials, while other options such as electric vehicles receive greater support.",
+  "analysis": {
+    "type_vi": "A/D: ưu và nhược điểm của nhiên liệu sinh học",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Khung giống đề 108; kết luận chọn lập trường 'chủ yếu từ chất thải' để giải quyết mâu thuẫn giữa hai thân bài.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Giảm phát thải giao thông vì cây hấp thụ CO2 khi lớn; dùng được trong động cơ hiện có; hỗ trợ nông dân; giảm phụ thuộc dầu nhập khẩu.",
+        "refs": [
+          "ID-env-biofuel-pro",
+          "ID-env-energy-security"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Cạnh tranh đất với lương thực, đẩy giá, phá rừng làm mất lợi ích; tốn năng lượng và nước khi trồng; nhiên liệu từ chất thải ít vấn đề hơn nhưng nguồn hạn chế.",
+        "refs": [
+          "ID-env-biofuel-land",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên phát triển chủ yếu từ chất thải, phương án khác như xe điện cần được ủng hộ hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-biofuel-pro",
+      "ID-env-biofuel-land"
+    ]
+  },
+  "chunks": [
+    [
+      "Biofuels",
+      "nhiên liệu sinh học"
+    ],
+    [
+      "made from crops, waste and other plant material",
+      "làm từ cây trồng, chất thải và vật liệu thực vật khác"
+    ],
+    [
+      "mixed with petrol and diesel",
+      "pha vào xăng và dầu diesel"
+    ],
+    [
+      "reduce the carbon emissions of transport",
+      "giảm khí thải carbon của giao thông"
+    ],
+    [
+      "absorb carbon dioxide as they grow",
+      "hấp thụ CO2 khi lớn lên"
+    ],
+    [
+      "in theory",
+      "về lý thuyết"
+    ],
+    [
+      "cleaner over its life than oil",
+      "sạch hơn dầu trong suốt vòng đời"
+    ],
+    [
+      "existing engines and fuel stations",
+      "động cơ và trạm xăng hiện có"
+    ],
+    [
+      "with little change",
+      "ít phải thay đổi"
+    ],
+    [
+      "replace all their vehicles at once",
+      "thay hết xe cùng lúc"
+    ],
+    [
+      "supports farmers",
+      "hỗ trợ nông dân"
+    ],
+    [
+      "blends plant-based fuel into its petrol",
+      "pha nhiên liệu từ thực vật vào xăng"
+    ],
+    [
+      "serious concerns about land and food",
+      "mối lo ngại nghiêm trọng về đất và lương thực"
+    ],
+    [
+      "compete with food production",
+      "cạnh tranh với sản xuất lương thực"
+    ],
+    [
+      "push up prices",
+      "đẩy giá lên"
+    ],
+    [
+      "hurts poorer families most",
+      "làm hại gia đình nghèo nhất"
+    ],
+    [
+      "cancel out the benefits",
+      "triệt tiêu lợi ích"
+    ],
+    [
+      "fertilising and processing crops",
+      "bón phân và chế biến cây trồng"
+    ],
+    [
+      "used cooking oil",
+      "dầu ăn đã qua sử dụng"
+    ],
+    [
+      "supplies are limited",
+      "nguồn cung có hạn"
+    ]
+  ]
+}

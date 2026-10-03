@@ -1,0 +1,127 @@
+{
+  "questionId": 287,
+  "text": "Many governments now spend large sums on wind, solar and other clean power, and people say that this investment creates jobs. I largely agree with this view, since renewable projects need many workers at every stage, although some jobs in older industries may disappear.\n\nTo begin with, building and running renewable energy requires a wide range of workers. Factories make panels, turbine blades and batteries, construction crews build wind farms and solar parks, electricians install equipment on roofs and in substations, and technicians inspect and repair machines for decades afterwards. Many of these jobs are located in local communities rather than in distant cities, which spreads the benefit widely. A town that hosts a new wind farm, for example, may gain hundreds of jobs during construction and a smaller number of permanent posts for maintenance.\n\nFurthermore, clean energy encourages new technology and related businesses. Companies that design software for smart grids, produce insulation or develop better batteries employ engineers and researchers, and a country that leads in these fields can sell its products abroad. Investment in this area also supports construction and transport firms that supply the projects. However, the picture is not entirely positive. Coal mines and power stations may close, and workers there cannot always move into new roles without help, because the skills required are different. Governments should therefore provide retraining and support for the regions affected, so that the gains are shared fairly. This support is not only fair but also practical, since a skilled workforce is needed to build the new industry.\n\nIn conclusion, I agree that renewable energy investments create jobs, especially in manufacturing, installation and maintenance, provided that workers in declining industries receive support.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: đầu tư năng lượng tái tạo tạo việc làm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Largely agree vì nhượng bộ một ý: việc làm ngành cũ có thể mất. Dùng ở mở bài để lập trường trung thực thay vì tuyệt đối.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — nhiều loại việc làm",
+        "think": "Liệt kê chuỗi việc: nhà máy, xây dựng, lắp đặt, bảo trì; nhấn mạnh việc làm nằm ở địa phương. Ví dụ thị trấn có trang trại gió.",
+        "refs": [
+          "ID-env-renew-jobs",
+          "EX-env-wind-town",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — công nghệ mới + giới hạn",
+        "think": "Phần mềm lưới điện thông minh, cách nhiệt, pin; xuất khẩu. Giới hạn: mỏ than đóng cửa, thợ cần đào tạo lại.",
+        "refs": [
+          "ID-env-green-jobs",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, với điều kiện hỗ trợ người lao động ngành suy giảm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-renew-jobs",
+      "EX-env-wind-town"
+    ]
+  },
+  "chunks": [
+    [
+      "spend large sums on",
+      "chi những khoản lớn cho"
+    ],
+    [
+      "clean power",
+      "điện sạch"
+    ],
+    [
+      "at every stage",
+      "ở mọi giai đoạn"
+    ],
+    [
+      "jobs in older industries",
+      "việc làm ở ngành cũ"
+    ],
+    [
+      "a wide range of workers",
+      "nhiều loại lao động"
+    ],
+    [
+      "turbine blades",
+      "cánh tuabin"
+    ],
+    [
+      "construction crews",
+      "đội thi công"
+    ],
+    [
+      "solar parks",
+      "khu điện mặt trời"
+    ],
+    [
+      "install equipment on roofs",
+      "lắp thiết bị trên mái nhà"
+    ],
+    [
+      "substations",
+      "trạm biến áp"
+    ],
+    [
+      "technicians inspect and repair machines",
+      "kỹ thuật viên kiểm tra và sửa máy"
+    ],
+    [
+      "located in local communities",
+      "nằm trong cộng đồng địa phương"
+    ],
+    [
+      "spreads the benefit widely",
+      "lan toả lợi ích rộng rãi"
+    ],
+    [
+      "a smaller number of permanent posts",
+      "số ít vị trí lâu dài"
+    ],
+    [
+      "software for smart grids",
+      "phần mềm cho lưới điện thông minh"
+    ],
+    [
+      "sell its products abroad",
+      "bán sản phẩm ra nước ngoài"
+    ],
+    [
+      "Coal mines and power stations may close",
+      "mỏ than và nhà máy điện có thể đóng cửa"
+    ],
+    [
+      "move into new roles",
+      "chuyển sang vai trò mới"
+    ],
+    [
+      "retraining",
+      "đào tạo lại"
+    ],
+    [
+      "the gains are shared fairly",
+      "lợi ích được chia sẻ công bằng"
+    ]
+  ]
+}

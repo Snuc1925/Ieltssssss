@@ -1,0 +1,127 @@
+{
+  "questionId": 100,
+  "text": "Large companies produce much of the world's pollution and waste, and I largely agree that they should be held responsible for the damage they cause, although governments and consumers also have a part to play.\n\nTo begin with, polluters should pay for the damage they cause. When a factory releases waste into a river and the cost of the clean-up falls on taxpayers, the company profits while the public pays, which is unfair. Fines, clean-up charges and taxes make firms include environmental costs in their prices, and this gives them a reason to adopt cleaner methods. Corporations that profit from an activity should bear the cost of its damage, and those with large budgets can usually afford to do so. A chemical company that knows it will pay for any spill, for example, will invest more in safety, because prevention becomes cheaper than compensation. Public pressure also matters, since customers increasingly avoid brands that are linked to pollution.\n\nFurthermore, companies have the knowledge and resources to find solutions. They control their own production, choose their materials and design their packaging, so changes at this level affect millions of products at once, which individual shoppers cannot achieve. However, corporations are not solely to blame. Consumers demand cheap goods, and governments must set clear rules so that responsible firms are not undercut by careless ones. Responsibility should therefore be shared, with businesses carrying the largest part, and with independent inspection to make sure that promises are kept.\n\nIn conclusion, corporations should be responsible for environmental damage to a large extent, because they cause it and profit from it, provided that governments enforce fair rules.",
+  "analysis": {
+    "type_vi": "Extent: mức độ doanh nghiệp phải chịu trách nhiệm thiệt hại môi trường — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Largely agree + lý do 1 (bên gây hại phải trả) + lý do 2 (có tri thức và nguồn lực) + giới hạn (người tiêu dùng và chính phủ cũng có phần).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Bên gây ô nhiễm phải trả",
+        "think": "Khi chi phí dọn dẹp rơi vào người đóng thuế thì công ty hưởng lợi, công chúng gánh; phạt và thuế buộc doanh nghiệp tính phí môi trường vào giá. Ví dụ công ty hoá chất biết phải trả mọi sự cố.",
+        "refs": [
+          "ID-env-polluter-pays",
+          "EX-env-chemical-spill",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Quy mô tác động + giới hạn",
+        "think": "Thay đổi ở tầng sản xuất tác động hàng triệu sản phẩm; nhưng người tiêu dùng đòi hàng rẻ và chính phủ phải đặt luật rõ ràng.",
+        "refs": [
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chịu trách nhiệm phần lớn, với điều kiện chính phủ thực thi quy tắc công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-polluter-pays",
+      "EX-env-chemical-spill"
+    ]
+  },
+  "chunks": [
+    [
+      "produce much of the world's pollution and waste",
+      "tạo ra phần lớn ô nhiễm và rác của thế giới"
+    ],
+    [
+      "held responsible for the damage they cause",
+      "chịu trách nhiệm về thiệt hại họ gây ra"
+    ],
+    [
+      "have a part to play",
+      "có vai trò phải đóng"
+    ],
+    [
+      "polluters should pay",
+      "bên gây ô nhiễm nên trả tiền"
+    ],
+    [
+      "releases waste into a river",
+      "xả chất thải ra sông"
+    ],
+    [
+      "the cost of the clean-up falls on taxpayers",
+      "chi phí dọn dẹp rơi vào người đóng thuế"
+    ],
+    [
+      "the company profits while the public pays",
+      "công ty hưởng lợi còn công chúng trả giá"
+    ],
+    [
+      "clean-up charges",
+      "phí dọn dẹp"
+    ],
+    [
+      "include environmental costs in their prices",
+      "đưa chi phí môi trường vào giá"
+    ],
+    [
+      "adopt cleaner methods",
+      "áp dụng phương pháp sạch hơn"
+    ],
+    [
+      "bear the cost of its damage",
+      "gánh chi phí thiệt hại của nó"
+    ],
+    [
+      "large budgets",
+      "ngân sách lớn"
+    ],
+    [
+      "prevention becomes cheaper than compensation",
+      "phòng ngừa rẻ hơn bồi thường"
+    ],
+    [
+      "the knowledge and resources",
+      "kiến thức và nguồn lực"
+    ],
+    [
+      "choose their materials",
+      "chọn vật liệu"
+    ],
+    [
+      "design their packaging",
+      "thiết kế bao bì"
+    ],
+    [
+      "millions of products at once",
+      "hàng triệu sản phẩm cùng lúc"
+    ],
+    [
+      "solely to blame",
+      "chỉ riêng họ đáng trách"
+    ],
+    [
+      "independent inspection",
+      "kiểm tra độc lập"
+    ],
+    [
+      "enforce fair rules",
+      "thực thi quy tắc công bằng"
+    ]
+  ]
+}

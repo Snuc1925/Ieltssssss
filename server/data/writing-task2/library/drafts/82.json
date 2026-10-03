@@ -1,0 +1,131 @@
+{
+  "questionId": 82,
+  "text": "Plastic waste is polluting oceans, rivers and land in almost every country. This essay will suggest practical measures that governments could take, focusing on reducing the production of plastic items and on improving recycling and clean-up.\n\nTo begin with, governments can reduce the amount of plastic that enters the market. Banning or taxing single-use items such as bags, cups and straws encourages people to switch to reusable alternatives, and requiring manufacturers to use less packaging cuts waste at its source. A small charge for plastic bags, for example, has reduced their use sharply in several countries. Governments can also require producers to pay for the collection and recycling of the packaging they sell, which gives companies a reason to design products that are easier to recycle and to avoid unnecessary wrapping altogether.\n\nIn addition, authorities should improve collection and recycling systems. Deposit schemes, in which customers receive a small refund for returning bottles, raise return rates and keep bottles out of the environment. Investment in sorting plants and regular collection makes recycling practical for households, and public education campaigns explain which items can be recycled. Equally important, clean-up programmes and stricter penalties for dumping protect rivers and beaches. A town that offers a refund for every returned bottle, for instance, often finds that litter along its streets falls and that the material is reused instead of wasted. These measures are not expensive compared with the long-term cost of polluted seas and damaged wildlife.\n\nIn conclusion, reducing plastic production through bans, charges and producer responsibility, and improving recycling through deposits and better infrastructure, offer the most realistic way of cutting plastic waste.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ có thể làm gì để giảm rác nhựa",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp (như đề 22, 344)",
+        "think": "Đề chỉ hỏi biện pháp thực tế nên chia thành hai nhóm: giảm nguồn cung nhựa; cải thiện thu gom, tái chế và dọn dẹp. Mở bài nêu hai nhóm này.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — giảm tại nguồn",
+        "think": "Cấm hoặc đánh thuế đồ dùng một lần; buộc nhà sản xuất giảm bao bì và trả phí thu gom, tái chế. Ví dụ phí túi nhựa giảm mạnh việc dùng.",
+        "refs": [
+          "ID-env-ban-alternatives",
+          "ID-env-deposit-charge",
+          "ID-env-eco-design",
+          "EX-env-bag-charge",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — thu gom, tái chế, dọn dẹp",
+        "think": "Chương trình đặt cọc, nhà máy phân loại, thu gom đều đặn, truyền thông; phạt đổ rác. Ví dụ thị trấn hoàn tiền mỗi chai trả lại.",
+        "refs": [
+          "ID-env-deposit-charge",
+          "ID-env-gov-infrastructure",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm và cụm 'the most realistic way'.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-deposit-charge",
+      "ID-env-eco-design"
+    ]
+  },
+  "chunks": [
+    [
+      "Plastic waste",
+      "rác thải nhựa"
+    ],
+    [
+      "polluting oceans, rivers and land",
+      "làm ô nhiễm đại dương, sông và đất"
+    ],
+    [
+      "practical measures",
+      "biện pháp thiết thực"
+    ],
+    [
+      "the production of plastic items",
+      "việc sản xuất đồ nhựa"
+    ],
+    [
+      "recycling and clean-up",
+      "tái chế và dọn dẹp"
+    ],
+    [
+      "enters the market",
+      "đi vào thị trường"
+    ],
+    [
+      "Banning or taxing single-use items",
+      "cấm hoặc đánh thuế đồ dùng một lần"
+    ],
+    [
+      "switch to reusable alternatives",
+      "chuyển sang đồ dùng lại được"
+    ],
+    [
+      "cuts waste at its source",
+      "cắt giảm rác tại nguồn"
+    ],
+    [
+      "has reduced their use sharply",
+      "đã giảm mạnh việc dùng chúng"
+    ],
+    [
+      "pay for the collection and recycling",
+      "trả phí thu gom và tái chế"
+    ],
+    [
+      "easier to recycle",
+      "dễ tái chế hơn"
+    ],
+    [
+      "unnecessary wrapping",
+      "lớp bọc không cần thiết"
+    ],
+    [
+      "Deposit schemes",
+      "chương trình đặt cọc"
+    ],
+    [
+      "a small refund for returning bottles",
+      "khoản hoàn nhỏ khi trả chai"
+    ],
+    [
+      "raise return rates",
+      "tăng tỷ lệ trả lại"
+    ],
+    [
+      "sorting plants",
+      "nhà máy phân loại"
+    ],
+    [
+      "public education campaigns",
+      "chiến dịch giáo dục cộng đồng"
+    ],
+    [
+      "stricter penalties for dumping",
+      "hình phạt nghiêm hơn cho đổ rác"
+    ],
+    [
+      "litter along its streets falls",
+      "rác dọc đường phố giảm"
+    ]
+  ]
+}

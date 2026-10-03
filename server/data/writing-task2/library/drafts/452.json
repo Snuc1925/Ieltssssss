@@ -1,0 +1,126 @@
+{
+  "questionId": 452,
+  "text": "Some countries have strict laws against cruelty to animals while others have almost none, and some argue that stricter animal protection laws benefit society as well as animals. I largely agree, although the benefits depend on laws being enforced fairly.\n\nTo begin with, stricter animal protection laws benefit society as well as animals. Respect for animals teaches children compassion, and researchers have found links between cruelty to animals and violence towards people, so laws that take cruelty seriously may help to prevent wider harm. Better conditions on farms can also reduce the risk of disease spreading among animals and into the human population, and they improve food safety. A farm that keeps animals in clean, spacious housing, for example, usually needs fewer antibiotics, which helps to slow the spread of drug-resistant infections.\n\nFurthermore, strong laws support the economy in certain areas. Countries with good records on animal welfare attract responsible tourists and consumers who are willing to pay more for ethical products, and businesses that meet high standards gain a reputation for quality. Clear rules also create a level playing field, so that careful producers are not undercut by careless ones. However, stricter laws can raise costs for farmers and small businesses, and enforcement requires trained inspectors, which governments must fund. Support, advice and transition periods can reduce the burden on producers. If these conditions are met, the gains for society, in health, values and trade, clearly outweigh the costs.\n\nIn conclusion, stricter animal protection laws benefit society to a large extent, since they promote compassion, safer food and fair competition, provided that they are enforced fairly and supported by help for producers.",
+  "analysis": {
+    "type_vi": "Extent: luật bảo vệ động vật nghiêm hơn có lợi cho xã hội — largely agree (góc khác đề 240: lợi ích cho xã hội thay vì cho động vật)",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Đề hỏi lợi ích cho xã hội nên nội dung phải xoay quanh con người: giáo dục lòng nhân ái, an toàn thực phẩm, kinh tế. Tránh lặp luận điểm 'động vật biết đau' của đề 240.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giáo dục và an toàn thực phẩm",
+        "think": "Tôn trọng động vật dạy trẻ lòng nhân ái; nghiên cứu cho thấy mối liên hệ giữa tàn ác với động vật và bạo lực với người; điều kiện nuôi tốt giảm dịch bệnh và nhu cầu kháng sinh. Ví dụ trang trại nuôi sạch, thoáng.",
+        "refs": [
+          "ID-env-animal-law-society",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — kinh tế + giới hạn",
+        "think": "Nước có thành tích tốt thu hút du khách và người tiêu dùng đạo đức; luật tạo sân chơi bình đẳng. Giới hạn: tăng chi phí cho nông dân và doanh nghiệp nhỏ, cần thanh tra được đào tạo; hỗ trợ và thời gian chuyển tiếp.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-env-animal-welfare",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi ở mức độ lớn nếu thực thi công bằng và có hỗ trợ cho nhà sản xuất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-animal-law-society"
+    ]
+  },
+  "chunks": [
+    [
+      "strict laws against cruelty to animals",
+      "luật nghiêm chống tàn ác với động vật"
+    ],
+    [
+      "stricter animal protection laws",
+      "luật bảo vệ động vật nghiêm hơn"
+    ],
+    [
+      "benefit society as well as animals",
+      "có lợi cho xã hội cũng như động vật"
+    ],
+    [
+      "enforced fairly",
+      "được thực thi công bằng"
+    ],
+    [
+      "teaches children compassion",
+      "dạy trẻ lòng nhân ái"
+    ],
+    [
+      "links between cruelty to animals and violence towards people",
+      "mối liên hệ giữa tàn ác với động vật và bạo lực với con người"
+    ],
+    [
+      "take cruelty seriously",
+      "xem trọng sự tàn ác"
+    ],
+    [
+      "prevent wider harm",
+      "ngăn tác hại rộng hơn"
+    ],
+    [
+      "disease spreading among animals",
+      "dịch bệnh lan giữa động vật"
+    ],
+    [
+      "improve food safety",
+      "cải thiện an toàn thực phẩm"
+    ],
+    [
+      "clean, spacious housing",
+      "chuồng trại sạch và rộng rãi"
+    ],
+    [
+      "fewer antibiotics",
+      "ít kháng sinh hơn"
+    ],
+    [
+      "drug-resistant infections",
+      "nhiễm trùng kháng thuốc"
+    ],
+    [
+      "responsible tourists",
+      "du khách có trách nhiệm"
+    ],
+    [
+      "ethical products",
+      "sản phẩm có đạo đức"
+    ],
+    [
+      "gain a reputation for quality",
+      "có tiếng về chất lượng"
+    ],
+    [
+      "raise costs for farmers and small businesses",
+      "làm tăng chi phí cho nông dân và doanh nghiệp nhỏ"
+    ],
+    [
+      "trained inspectors",
+      "thanh tra được đào tạo"
+    ],
+    [
+      "transition periods",
+      "giai đoạn chuyển tiếp"
+    ],
+    [
+      "outweigh the costs",
+      "lớn hơn chi phí"
+    ]
+  ]
+}

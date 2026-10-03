@@ -1,0 +1,130 @@
+{
+  "questionId": 242,
+  "text": "Crisp packets, cigarette ends and drink containers left on streets and in parks spoil public spaces and harm wildlife. This essay will suggest practical measures that governments could take, focusing on making it easy to dispose of rubbish properly and on discouraging people who drop it.\n\nTo begin with, governments should make proper disposal easy. People are more likely to use a bin if one is close by, so councils should place well-marked bins in busy streets, near bus stops and at park entrances, and empty them often so that they do not overflow. Separate containers for recycling and general rubbish, with clear symbols, help people to do the right thing quickly. A park with a bin every fifty metres, for example, will usually be cleaner than one with only a few. Clean surroundings also set an example, because people tend to drop rubbish where litter already exists, so regular cleaning is part of the solution.\n\nIn addition, authorities should discourage careless behaviour. Visible fines for dropping litter, supported by patrols or cameras in problem areas, make people think twice, and community service for repeat offenders can be an effective penalty. Equally important, public campaigns and school lessons can change attitudes by explaining the harm that litter causes to animals and neighbourhoods. Deposit schemes for bottles and cans also give containers a value, so that people return them instead of dropping them. A town that combines more bins, fines and a deposit scheme, for instance, may see litter fall sharply within a year.\n\nIn conclusion, providing convenient bins and enforcing penalties, together with education and deposit schemes, offers the most realistic way of reducing littering in public places.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ giảm rác vứt bừa nơi công cộng",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Hai nhóm: làm cho việc bỏ rác đúng chỗ dễ dàng; răn đe hành vi cẩu thả. Mở bài mở rộng ba ví dụ rác quen thuộc (gói snack, tàn thuốc, chai lon).",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — thùng rác dễ dùng",
+        "think": "Thùng gần, có dấu hiệu rõ, dọn thường xuyên; thùng phân loại có biểu tượng. Ví dụ công viên cứ 50 mét có một thùng. Nhận xét: nơi sạch sẽ cũng tạo gương.",
+        "refs": [
+          "ID-env-litter-bins",
+          "EX-env-park-bins",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — răn đe và giáo dục",
+        "think": "Phạt công khai kèm tuần tra hoặc camera; lao động công ích; chiến dịch và bài học ở trường; đặt cọc chai lon. Ví dụ thị trấn kết hợp cả ba.",
+        "refs": [
+          "ID-env-litter-deterrent",
+          "ID-env-deposit-charge",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-litter-bins",
+      "ID-env-litter-deterrent",
+      "EX-env-park-bins"
+    ]
+  },
+  "chunks": [
+    [
+      "Crisp packets, cigarette ends and drink containers",
+      "gói snack, tàn thuốc và vỏ đồ uống"
+    ],
+    [
+      "spoil public spaces",
+      "làm hỏng không gian công cộng"
+    ],
+    [
+      "dispose of rubbish properly",
+      "vứt rác đúng cách"
+    ],
+    [
+      "drop it",
+      "vứt nó xuống"
+    ],
+    [
+      "make proper disposal easy",
+      "làm cho việc vứt rác đúng cách dễ dàng"
+    ],
+    [
+      "close by",
+      "ở gần"
+    ],
+    [
+      "well-marked bins",
+      "thùng rác dễ nhận biết"
+    ],
+    [
+      "near bus stops",
+      "gần trạm xe buýt"
+    ],
+    [
+      "do not overflow",
+      "không bị tràn"
+    ],
+    [
+      "clear symbols",
+      "biểu tượng rõ ràng"
+    ],
+    [
+      "do the right thing",
+      "làm điều đúng"
+    ],
+    [
+      "Clean surroundings also set an example",
+      "môi trường sạch cũng làm gương"
+    ],
+    [
+      "litter already exists",
+      "rác đã có sẵn"
+    ],
+    [
+      "discourage careless behaviour",
+      "ngăn hành vi cẩu thả"
+    ],
+    [
+      "Visible fines",
+      "tiền phạt công khai"
+    ],
+    [
+      "patrols or cameras",
+      "tuần tra hoặc camera"
+    ],
+    [
+      "make people think twice",
+      "khiến người ta cân nhắc lại"
+    ],
+    [
+      "community service for repeat offenders",
+      "lao động công ích cho người tái phạm"
+    ],
+    [
+      "give containers a value",
+      "cho vỏ chai một giá trị"
+    ],
+    [
+      "fall sharply within a year",
+      "giảm mạnh trong một năm"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "questionId": 207,
+  "text": "As cities grow, public gardens are sometimes sold for housing or shops, and many people say that they should be protected from development. I agree with this view, since gardens give city residents health, shade and a place to meet that cannot easily be replaced.\n\nTo begin with, public gardens give city residents health, shade and a place to meet. They cool the air in summer, absorb dust and pollution, shelter birds and insects and offer free space to rest, exercise and play. For people who live in flats without a garden, these places are often the only contact with nature. A small garden in a crowded district, for example, may be used every day by older residents, parents with young children and office workers on their lunch break. Studies of many cities suggest that access to green space improves physical and mental health.\n\nFurthermore, once a garden has been built over, it is almost impossible to replace. New trees need decades to mature, and the history and community life of the site are lost for good. Housing, by contrast, can usually be built on empty or abandoned sites, or on land that has already been developed, so protecting gardens does not mean stopping growth. Admittedly, cities need more homes and economic activity, and some gardens may be poorly used or badly kept. In such cases, authorities should improve them instead of selling them, and any development that does take place should be limited and balanced by new green space elsewhere.\n\nIn conclusion, I agree that public gardens should be protected from development, because they are valuable and irreplaceable, although well-planned building on other sites should continue.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: vườn công cộng nên được bảo vệ khỏi phát triển — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu tình huống (vườn bị bán để xây nhà, cửa hàng) rồi agree + lý do.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lợi ích trực tiếp",
+        "think": "Làm mát không khí, hấp thụ bụi, nơi trú cho chim và côn trùng, không gian miễn phí; với người ở chung cư, đây thường là nơi duy nhất tiếp xúc thiên nhiên. Ví dụ khu vườn nhỏ dùng hằng ngày bởi người già, phụ huynh và nhân viên văn phòng.",
+        "refs": [
+          "ID-env-public-garden",
+          "ID-env-community-garden",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — không thể thay thế + nhượng bộ",
+        "think": "Cây mới cần hàng chục năm để lớn; lịch sử và đời sống cộng đồng mất vĩnh viễn; nhà ở có thể xây trên đất trống hoặc đã phát triển. Nhượng bộ: thành phố cần nhà và hoạt động kinh tế; vườn kém quản lý nên được cải thiện chứ không bán.",
+        "refs": [
+          "ID-env-public-garden",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Bảo vệ vườn công cộng nhưng vẫn xây dựng theo quy hoạch tốt ở nơi khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-public-garden"
+    ]
+  },
+  "chunks": [
+    [
+      "public gardens",
+      "vườn công cộng"
+    ],
+    [
+      "sold for housing or shops",
+      "bị bán để xây nhà hoặc cửa hàng"
+    ],
+    [
+      "protected from development",
+      "được bảo vệ khỏi phát triển"
+    ],
+    [
+      "cannot easily be replaced",
+      "không dễ thay thế"
+    ],
+    [
+      "health, shade and a place to meet",
+      "sức khoẻ, bóng mát và nơi gặp gỡ"
+    ],
+    [
+      "cool the air in summer",
+      "làm mát không khí mùa hè"
+    ],
+    [
+      "absorb dust and pollution",
+      "hấp thụ bụi và ô nhiễm"
+    ],
+    [
+      "shelter birds and insects",
+      "che chở chim và côn trùng"
+    ],
+    [
+      "free space to rest, exercise and play",
+      "không gian miễn phí để nghỉ, tập thể dục và chơi"
+    ],
+    [
+      "contact with nature",
+      "sự tiếp xúc với thiên nhiên"
+    ],
+    [
+      "a crowded district",
+      "khu phố đông đúc"
+    ],
+    [
+      "on their lunch break",
+      "trong giờ nghỉ trưa"
+    ],
+    [
+      "access to green space",
+      "tiếp cận không gian xanh"
+    ],
+    [
+      "physical and mental health",
+      "sức khoẻ thể chất và tinh thần"
+    ],
+    [
+      "built over",
+      "bị xây lên"
+    ],
+    [
+      "almost impossible to replace",
+      "gần như không thể thay thế"
+    ],
+    [
+      "lost for good",
+      "mất vĩnh viễn"
+    ],
+    [
+      "empty or abandoned sites",
+      "khu đất trống hoặc bỏ hoang"
+    ],
+    [
+      "poorly used or badly kept",
+      "ít được dùng hoặc quản lý kém"
+    ],
+    [
+      "irreplaceable",
+      "không thể thay thế"
+    ]
+  ]
+}

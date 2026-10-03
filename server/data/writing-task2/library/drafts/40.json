@@ -1,0 +1,128 @@
+{
+  "questionId": 40,
+  "text": "Governments must balance many aims, from jobs to security, and some people argue that environmental protection should shape policy in every area. I largely agree, since ignoring the environment is expensive in the long run and many problems cannot be solved by markets alone, although it should not override all other goals.\n\nTo begin with, the damage caused by neglect is costly. Floods, droughts and polluted air harm crops, homes and health, and the cost of cleaning up afterwards is usually far higher than the cost of preventing the damage. A government that allows a river to become heavily polluted, for example, must later pay for water treatment and for the illnesses that follow, which wastes money that could have funded schools or hospitals. Taking the environment into account when planning policy therefore protects public finances as well as nature.\n\nFurthermore, only governments can set rules that apply to everyone. Individual companies and households have little reason to cut pollution if their competitors do not, so taxes, limits and fines are needed to create a level playing field. Policy can also create growth and employment, since renewable energy, insulation and recycling employ workers and encourage new technology. However, environmental concerns cannot be the only factor. Poorer countries need affordable energy and jobs, and unrealistic rules may cause hardship or political opposition. Policies should therefore be introduced gradually and supported by help for the communities that are affected most.\n\nIn conclusion, environmental protection should influence government policy to a large extent, because it saves money in the long term and requires collective rules, provided that its costs are shared fairly.",
+  "analysis": {
+    "type_vi": "Extent: mức độ bảo vệ môi trường nên ảnh hưởng chính sách chính phủ — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài: bối cảnh (chính phủ cân bằng nhiều mục tiêu) + largely agree + hai lý do + giới hạn (không lấn át mọi mục tiêu khác).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — chi phí bỏ mặc",
+        "think": "Dùng ý bỏ qua môi trường đắt về lâu dài; câu cuối nối về ngân sách công.",
+        "refs": [
+          "ID-env-econ-longterm",
+          "EX-env-river-treatment",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — luật chung + giới hạn",
+        "think": "Chỉ chính phủ đặt luật chung; chính sách tạo việc làm. Nhượng bộ: nước nghèo cần điện giá rẻ nên áp dụng dần.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-env-green-jobs",
+          "ID-env-econ-cost",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nêu mức độ (to a large extent) và điều kiện (chi phí chia sẻ công bằng).",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "EX-env-river-treatment"
+    ]
+  },
+  "chunks": [
+    [
+      "balance many aims",
+      "cân bằng nhiều mục tiêu"
+    ],
+    [
+      "shape policy in every area",
+      "định hình chính sách ở mọi lĩnh vực"
+    ],
+    [
+      "cannot be solved by markets alone",
+      "không thể chỉ giải quyết bằng thị trường"
+    ],
+    [
+      "override all other goals",
+      "lấn át mọi mục tiêu khác"
+    ],
+    [
+      "the damage caused by neglect",
+      "thiệt hại do bỏ mặc"
+    ],
+    [
+      "harm crops, homes and health",
+      "gây hại mùa màng, nhà cửa và sức khoẻ"
+    ],
+    [
+      "water treatment",
+      "xử lý nước"
+    ],
+    [
+      "the illnesses that follow",
+      "những bệnh tật theo sau"
+    ],
+    [
+      "wastes money that could have funded schools",
+      "lãng phí tiền lẽ ra đủ xây trường"
+    ],
+    [
+      "take the environment into account",
+      "tính đến yếu tố môi trường"
+    ],
+    [
+      "protects public finances",
+      "bảo vệ tài chính công"
+    ],
+    [
+      "have little reason to cut pollution",
+      "ít có lý do giảm ô nhiễm"
+    ],
+    [
+      "create a level playing field",
+      "tạo sân chơi bình đẳng"
+    ],
+    [
+      "taxes, limits and fines",
+      "thuế, giới hạn và tiền phạt"
+    ],
+    [
+      "create growth and employment",
+      "tạo tăng trưởng và việc làm"
+    ],
+    [
+      "unrealistic rules",
+      "quy định phi thực tế"
+    ],
+    [
+      "cause hardship or political opposition",
+      "gây khó khăn hoặc phản đối chính trị"
+    ],
+    [
+      "introduced gradually",
+      "được áp dụng dần dần"
+    ],
+    [
+      "shared fairly",
+      "được chia sẻ công bằng"
+    ],
+    [
+      "requires collective rules",
+      "đòi hỏi luật lệ chung"
+    ]
+  ]
+}

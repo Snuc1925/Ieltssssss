@@ -1,0 +1,124 @@
+{
+  "questionId": 298,
+  "text": "Opinions are divided as to whether nuclear energy is a safe and efficient power source or a dangerous one. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that nuclear power is both safe and efficient. Statistically, it has caused far fewer deaths per unit of electricity than coal, which pollutes the air and harms the health of millions of people. It is also efficient, since a small amount of fuel produces a great deal of energy, and a plant can run day and night whatever the weather. Modern reactors include several layers of protection and are monitored closely by independent regulators. A country with strong safety rules, for example, can operate reactors for decades without a serious incident, while providing steady low-carbon electricity to homes and factories.\n\nOn the other hand, critics point out that the consequences of a nuclear accident can be severe and long-lasting. The disasters at Chernobyl and Fukushima forced thousands of people to leave their homes, and some areas remained unusable for years. Radioactive waste must also be stored for thousands of years, and there is a continuing fear that nuclear materials could be stolen or misused. These worries make many citizens uneasy about living near a plant. A rare error in a poorly regulated country, for instance, could affect a whole region. Public trust therefore depends on honest reporting and strong, independent oversight.\n\nTo sum up, both positions have their merits; nevertheless, I believe that nuclear energy is reasonably safe and efficient where regulation is strong, although it must be accompanied by secure waste storage and open public information.",
+  "analysis": {
+    "type_vi": "Discuss both views: hạt nhân an toàn, hiệu quả hay nguy hiểm",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài giữ nguyên hai tính từ của đề (safe and efficient / dangerous) để TR bám đề; mỗi thân bài chứng minh một tính từ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe an toàn và hiệu quả",
+        "think": "An toàn: số ca tử vong trên mỗi đơn vị điện thấp hơn than; hệ thống bảo vệ nhiều lớp. Hiệu quả: ít nhiên liệu, chạy ngày đêm.",
+        "refs": [
+          "ID-env-nuclear-lowcarbon"
+        ]
+      },
+      {
+        "step": "3. Phe nguy hiểm",
+        "think": "Hậu quả tai nạn nghiêm trọng, chất thải hàng nghìn năm, nỗi lo vật liệu bị đánh cắp; người dân thấy bất an.",
+        "refs": [
+          "ID-env-nuclear-risk",
+          "ID-env-nuclear-waste-cost"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "An toàn và hiệu quả khi quy định mạnh, với điều kiện lưu trữ chất thải và thông tin công khai.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "a safe and efficient power source",
+      "nguồn điện an toàn và hiệu quả"
+    ],
+    [
+      "Statistically",
+      "về mặt thống kê"
+    ],
+    [
+      "fewer deaths per unit of electricity",
+      "ít tử vong hơn trên mỗi đơn vị điện"
+    ],
+    [
+      "harms the health of millions of people",
+      "gây hại sức khoẻ hàng triệu người"
+    ],
+    [
+      "several layers of protection",
+      "nhiều lớp bảo vệ"
+    ],
+    [
+      "monitored closely by independent regulators",
+      "được cơ quan quản lý độc lập giám sát chặt"
+    ],
+    [
+      "strong safety rules",
+      "quy định an toàn mạnh"
+    ],
+    [
+      "without a serious incident",
+      "không có sự cố nghiêm trọng"
+    ],
+    [
+      "critics point out",
+      "người chỉ trích chỉ ra"
+    ],
+    [
+      "forced thousands of people to leave their homes",
+      "buộc hàng nghìn người rời bỏ nhà"
+    ],
+    [
+      "unusable for years",
+      "không dùng được nhiều năm"
+    ],
+    [
+      "stored for thousands of years",
+      "lưu trữ hàng nghìn năm"
+    ],
+    [
+      "stolen or misused",
+      "bị đánh cắp hoặc lạm dụng"
+    ],
+    [
+      "uneasy about living near a plant",
+      "bất an khi sống gần nhà máy"
+    ],
+    [
+      "a rare error",
+      "một sai sót hiếm gặp"
+    ],
+    [
+      "a poorly regulated country",
+      "nước quản lý lỏng lẻo"
+    ],
+    [
+      "affect a whole region",
+      "ảnh hưởng cả vùng"
+    ],
+    [
+      "reasonably safe",
+      "khá an toàn"
+    ],
+    [
+      "secure waste storage",
+      "kho chứa chất thải an toàn"
+    ],
+    [
+      "open public information",
+      "thông tin công khai cho công chúng"
+    ]
+  ]
+}

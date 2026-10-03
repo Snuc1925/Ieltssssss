@@ -1,0 +1,131 @@
+{
+  "questionId": 22,
+  "text": "Recycling saves raw materials and keeps rubbish out of landfill, yet in many places a large share of recyclable material is still thrown away. This essay will suggest practical measures that governments could take, focusing on making recycling easy and on giving people a reason to take part.\n\nTo begin with, governments should make recycling convenient. Households are more likely to sort their rubbish if collection is regular, bins are clearly marked and the rules are simple. Colour-coded containers, weekly kerbside collection and public recycling points in busy areas remove the effort from the process. Only governments can build the sorting plants and collection networks that make recycling practical. A resident with no collection point nearby, for example, has little chance of recycling even when they want to. Clear labels on packaging, which show what can be recycled, would also reduce confusion.\n\nIn addition, authorities should give people good reasons to take part. Deposit schemes, in which customers receive a small refund for returning bottles and cans, raise return rates sharply, and lower charges for households that produce less general waste reward careful sorting. Education campaigns in schools and on local media explain why recycling matters and how to do it correctly. Equally important, governments can require manufacturers to use recycled material, which creates a market for what households collect. A council that publishes how much material each neighbourhood recycles, for instance, can encourage friendly competition and steady improvement. These steps cost little compared with the expense of extracting new raw materials.\n\nIn conclusion, making recycling convenient and rewarding, through better services, deposits, education and demand for recycled materials, offers the most realistic way of increasing participation.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ khuyến khích tái chế bằng cách nào",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Chia hai nhóm: làm tái chế dễ dàng (dịch vụ) và tạo động lực (khuyến khích kinh tế, giáo dục, thị trường vật liệu tái chế). Mở bài nói rõ hai nhóm.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — thuận tiện",
+        "think": "Thu gom đều đặn, thùng mã màu, điểm tái chế công cộng; chỉ chính phủ xây được hạ tầng. Ví dụ người dân không có điểm thu gom gần nhà.",
+        "refs": [
+          "ID-env-recycle-convenient",
+          "ID-env-gov-infrastructure",
+          "EX-env-no-collection-point",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — động lực",
+        "think": "Đặt cọc, giảm phí cho hộ ít rác, giáo dục, buộc nhà sản xuất dùng vật liệu tái chế; công bố tỷ lệ tái chế từng khu phố tạo cạnh tranh thân thiện.",
+        "refs": [
+          "ID-env-recycle-incentive",
+          "ID-env-deposit-charge",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm: dễ dàng và có thưởng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-recycle-convenient",
+      "ID-env-recycle-incentive",
+      "EX-env-no-collection-point"
+    ]
+  },
+  "chunks": [
+    [
+      "saves raw materials",
+      "tiết kiệm nguyên liệu"
+    ],
+    [
+      "keeps rubbish out of landfill",
+      "giữ rác khỏi bãi chôn lấp"
+    ],
+    [
+      "a large share of recyclable material",
+      "phần lớn vật liệu tái chế được"
+    ],
+    [
+      "a reason to take part",
+      "lý do để tham gia"
+    ],
+    [
+      "sort their rubbish",
+      "phân loại rác"
+    ],
+    [
+      "collection is regular",
+      "việc thu gom đều đặn"
+    ],
+    [
+      "clearly marked",
+      "được đánh dấu rõ"
+    ],
+    [
+      "the rules are simple",
+      "quy tắc đơn giản"
+    ],
+    [
+      "Colour-coded containers",
+      "thùng mã màu"
+    ],
+    [
+      "weekly kerbside collection",
+      "thu gom hằng tuần ở lề đường"
+    ],
+    [
+      "public recycling points",
+      "điểm tái chế công cộng"
+    ],
+    [
+      "remove the effort from the process",
+      "loại bỏ công sức khỏi quá trình"
+    ],
+    [
+      "Clear labels on packaging",
+      "nhãn rõ ràng trên bao bì"
+    ],
+    [
+      "reduce confusion",
+      "giảm nhầm lẫn"
+    ],
+    [
+      "lower charges for households",
+      "phí thấp hơn cho hộ gia đình"
+    ],
+    [
+      "reward careful sorting",
+      "thưởng cho việc phân loại cẩn thận"
+    ],
+    [
+      "use recycled material",
+      "dùng vật liệu tái chế"
+    ],
+    [
+      "creates a market for",
+      "tạo ra thị trường cho"
+    ],
+    [
+      "friendly competition",
+      "cạnh tranh thân thiện"
+    ],
+    [
+      "extracting new raw materials",
+      "khai thác nguyên liệu mới"
+    ]
+  ]
+}

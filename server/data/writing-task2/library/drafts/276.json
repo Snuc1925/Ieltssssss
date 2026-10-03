@@ -1,0 +1,128 @@
+{
+  "questionId": 276,
+  "text": "In many cities, small plots of land are used by residents to grow vegetables, herbs and flowers together. This essay will outline two key ways in which community gardens benefit neighbourhoods: by bringing people together and by providing fresh food and green space.\n\nFirst and foremost, community gardens bring neighbours together. Residents grow vegetables on unused land, share skills and tools, and meet people from different backgrounds, which strengthens friendships and reduces loneliness. A vacant plot turned into a vegetable garden, for example, can become a place where neighbours meet instead of a spot where rubbish collects. Children learn where food comes from, and older residents pass on knowledge and enjoy the company. Working on a shared project builds trust, so neighbourhoods with such gardens often feel safer and friendlier, and people are more willing to help one another.\n\nIn addition, community gardens provide fresh food and improve the local environment. Households that grow their own produce save money on groceries and eat more vegetables, which supports healthy diets, especially in areas with few fresh food shops. The gardens also turn neglected land into green space that cools the air, shelters insects and birds and absorbs rainwater. Gardening is a gentle form of exercise and can reduce stress, which benefits mental wellbeing. Although a garden needs volunteers and some funding for tools and water, councils can help by lending land and offering advice, and the benefits to the neighbourhood far outweigh the small cost.\n\nTo sum up, community gardens benefit neighbourhoods by building community spirit and by providing fresh food and green space. For these reasons, they deserve continued public support.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vườn cộng đồng đem lại lợi ích gì cho khu dân cư",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role' (như đề 56, 83, 103)",
+        "think": "Đề dạng 'discuss how… benefit' nên mở bài báo trước hai cách đem lại lợi ích, rồi mỗi thân bài một cách; kết luận 'they deserve continued public support'.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — gắn kết cộng đồng",
+        "think": "Cư dân trồng rau trên đất trống, chia sẻ kỹ năng, gặp người khác nền tảng; giảm cô đơn; trẻ học nguồn gốc thức ăn, người già truyền kinh nghiệm; khu phố an toàn, thân thiện hơn. Ví dụ lô đất trống thành vườn rau.",
+        "refs": [
+          "ID-env-community-garden",
+          "EX-env-vacant-plot"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — thực phẩm tươi và môi trường",
+        "think": "Tự trồng giúp tiết kiệm và ăn nhiều rau, nhất là ở nơi ít cửa hàng thực phẩm tươi; biến đất bỏ hoang thành không gian xanh làm mát, chứa nước mưa; làm vườn giảm căng thẳng. Nhượng bộ: cần tình nguyện viên và ít kinh phí; hội đồng cho mượn đất và tư vấn.",
+        "refs": [
+          "ID-env-urban-farming-pro",
+          "ID-env-public-garden"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserve continued public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-community-garden",
+      "EX-env-vacant-plot"
+    ]
+  },
+  "chunks": [
+    [
+      "community gardens",
+      "vườn cộng đồng"
+    ],
+    [
+      "benefit neighbourhoods",
+      "mang lại lợi ích cho khu dân cư"
+    ],
+    [
+      "bringing people together",
+      "gắn kết mọi người"
+    ],
+    [
+      "fresh food and green space",
+      "thực phẩm tươi và không gian xanh"
+    ],
+    [
+      "unused land",
+      "đất không dùng"
+    ],
+    [
+      "share skills and tools",
+      "chia sẻ kỹ năng và dụng cụ"
+    ],
+    [
+      "different backgrounds",
+      "xuất thân khác nhau"
+    ],
+    [
+      "reduces loneliness",
+      "giảm cô đơn"
+    ],
+    [
+      "a vacant plot",
+      "lô đất trống"
+    ],
+    [
+      "a spot where rubbish collects",
+      "chỗ rác tích tụ"
+    ],
+    [
+      "pass on knowledge",
+      "truyền lại kinh nghiệm"
+    ],
+    [
+      "Working on a shared project builds trust",
+      "làm việc chung một dự án xây dựng lòng tin"
+    ],
+    [
+      "safer and friendlier",
+      "an toàn và thân thiện hơn"
+    ],
+    [
+      "save money on groceries",
+      "tiết kiệm tiền đi chợ"
+    ],
+    [
+      "healthy diets",
+      "chế độ ăn lành mạnh"
+    ],
+    [
+      "neglected land",
+      "đất bị bỏ quên"
+    ],
+    [
+      "absorbs rainwater",
+      "hấp thụ nước mưa"
+    ],
+    [
+      "a gentle form of exercise",
+      "một dạng vận động nhẹ nhàng"
+    ],
+    [
+      "reduce stress",
+      "giảm căng thẳng"
+    ],
+    [
+      "lending land and offering advice",
+      "cho mượn đất và tư vấn"
+    ]
+  ]
+}

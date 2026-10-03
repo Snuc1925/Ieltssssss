@@ -1,0 +1,127 @@
+{
+  "questionId": 217,
+  "text": "Cars, buses and lorries that run on petrol and diesel are a major source of pollution. This essay will outline two principal benefits for a country that focuses on renewable transport, such as electric vehicles, trains and bicycles: cleaner air and better health, and lower dependence on imported fuel.\n\nFirst and foremost, renewable transport improves air quality and public health. Electric buses and cars produce no exhaust fumes on the road, and when their power comes from wind or solar they release far fewer greenhouse gases over their lifetime. As a result, residents of crowded cities breathe cleaner air, noise levels fall and fewer people suffer from breathing problems. A city that replaces diesel buses with electric ones, for example, enjoys quieter streets and cleaner air, and its centre becomes a more pleasant place to walk, shop and live.\n\nIn addition, renewable transport makes a country more secure and more economical. Nations that buy oil from abroad are exposed to sudden price rises and political disputes, whereas home-grown electricity gives them a more stable supply. Electric vehicles also cost less to run, because electricity is usually cheaper than fuel per kilometre and they need less maintenance. The country can create jobs in building charging points, public transport and cycle routes, and manufacturers that lead in electric vehicles can sell them abroad. Although charging networks and cleaner power grids require large investment, the long-term savings are considerable. Cities that start early can also plan their streets around people instead of cars.\n\nTo sum up, renewable transport brings clear benefits to a country, above all cleaner air and a more secure, lower-cost transport system. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào giao thông tái tạo — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Cùng khung với 197 và 77; mở bài định nghĩa ngắn 'renewable transport' (xe điện, tàu, xe đạp) để người đọc hiểu phạm vi.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — không khí và sức khoẻ",
+        "think": "Xe buýt và ô tô điện không có khói thải trên đường; khí nhà kính ít hơn nếu điện từ gió hoặc mặt trời; thành phố đông đúc hết ồn và ít bệnh hô hấp.",
+        "refs": [
+          "ID-env-ev-health",
+          "ID-env-renew-clean",
+          "EX-env-electric-buses"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — an ninh và tiết kiệm",
+        "think": "Giảm phụ thuộc dầu nhập khẩu; xe điện rẻ hơn khi chạy; tạo việc làm làm trạm sạc và đường xe đạp; nhượng bộ cuối đoạn về chi phí đầu tư.",
+        "refs": [
+          "ID-env-energy-security",
+          "ID-env-green-tech-savings"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm: không khí sạch hơn và hệ thống vận tải an toàn, chi phí thấp.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-ev-health"
+    ]
+  },
+  "chunks": [
+    [
+      "run on petrol and diesel",
+      "chạy bằng xăng và dầu diesel"
+    ],
+    [
+      "a major source of pollution",
+      "nguồn ô nhiễm chính"
+    ],
+    [
+      "renewable transport",
+      "giao thông tái tạo"
+    ],
+    [
+      "electric vehicles, trains and bicycles",
+      "xe điện, tàu hỏa và xe đạp"
+    ],
+    [
+      "cleaner air and better health",
+      "không khí sạch hơn và sức khoẻ tốt hơn"
+    ],
+    [
+      "lower dependence on imported fuel",
+      "ít phụ thuộc nhiên liệu nhập khẩu"
+    ],
+    [
+      "improves air quality and public health",
+      "cải thiện chất lượng không khí và sức khoẻ cộng đồng"
+    ],
+    [
+      "produce no exhaust fumes on the road",
+      "không thải khói trên đường"
+    ],
+    [
+      "far fewer greenhouse gases over their lifetime",
+      "ít khí nhà kính hơn nhiều trong suốt vòng đời"
+    ],
+    [
+      "noise levels fall",
+      "mức ồn giảm"
+    ],
+    [
+      "suffer from breathing problems",
+      "bị các vấn đề hô hấp"
+    ],
+    [
+      "a more pleasant place to walk, shop and live",
+      "nơi dễ chịu hơn để đi bộ, mua sắm và sống"
+    ],
+    [
+      "more secure and more economical",
+      "an toàn và tiết kiệm hơn"
+    ],
+    [
+      "a more stable supply",
+      "nguồn cung ổn định hơn"
+    ],
+    [
+      "cost less to run",
+      "chi phí vận hành thấp hơn"
+    ],
+    [
+      "cheaper than fuel per kilometre",
+      "rẻ hơn nhiên liệu trên mỗi km"
+    ],
+    [
+      "need less maintenance",
+      "cần ít bảo trì hơn"
+    ],
+    [
+      "charging points",
+      "trạm sạc"
+    ],
+    [
+      "cycle routes",
+      "đường dành cho xe đạp"
+    ],
+    [
+      "the long-term savings",
+      "khoản tiết kiệm dài hạn"
+    ]
+  ]
+}

@@ -15,7 +15,7 @@ const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..')
 const DATA = path.join(ROOT, 'server', 'data', 'writing-task2');
 const LIB_DIR = path.join(DATA, 'library');
 const LEXICON = path.join(LIB_DIR, 'lexicon.json');
-const TOPIC = 'education';
+const TOPIC = process.env.LIB_TOPIC || 'education'; // education | environment
 const ESSAYS = path.join(LIB_DIR, `essays.${TOPIC}.json`);
 const DRAFTS = path.join(LIB_DIR, 'drafts');
 const PASS = 7.0;
@@ -128,7 +128,7 @@ function chunks(file) {
       if (have.has(t)) { dup++; continue; }
       let id = 'PH-' + t.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 44).replace(/-$/, '');
       for (let n = 2; ids.has(id); n++) id = id.replace(/-\d+$/, '') + '-' + n;
-      const topics = role === 'g' ? ['general'] : ['education', 'general'];
+      const topics = role === 'g' ? ['general'] : [TOPIC, 'general'];
       lex.entries.push({ id, type: 'phrase', topics, role: role && role !== 'g' ? role : 'collocation', text: raw.replace(/^[\s,;.]+|[\s,;.]+$/g, ''), meaning_vi: vi, from: Number(qid) });
       ids.add(id); have.add(t); added++;
       rec.analysis = rec.analysis || { plan: [], newEntries: [] };
@@ -137,6 +137,27 @@ function chunks(file) {
   }
   writeJson(LEXICON, lex); writeJson(ESSAYS, store);
   console.log(`Chunks: +${added} cụm mới, ${dup} trùng, ${bad} lỗi. Tổng entry: ${lex.entries.length}`);
+}
+
+// chunks-from-drafts <id...>: lấy draft.chunks ([["cụm", "nghĩa"], ...]) của các bài đã chấm rồi thêm vào thư viện.
+function chunksFromDrafts(ids) {
+  const data = {};
+  for (const id of ids) { const d = readJson(path.join(DRAFTS, `${id}.json`)); if (d && d.chunks) data[id] = d.chunks; }
+  const tmp = path.join(LIB_DIR, `.chunks-${process.pid}.json`);
+  writeJson(tmp, data); chunks(tmp); fs.unlinkSync(tmp);
+}
+
+// batch <file.json>: {"entries":[...], "drafts":{"<id>":{"text","analysis","chunks","revisionNote"?}}} → gộp entry + ghi drafts/<id>.json
+function batch(file) {
+  const data = readJson(path.resolve(file));
+  if (data.entries && data.entries.length) {
+    const tmp = path.join(LIB_DIR, `.patch-${process.pid}.json`);
+    writeJson(tmp, { entries: data.entries }); merge(tmp); fs.unlinkSync(tmp);
+  }
+  const ids = Object.keys(data.drafts || {});
+  for (const id of ids) writeJson(path.join(DRAFTS, `${id}.json`), { questionId: Number(id), ...data.drafts[id] });
+  const short = ids.filter((id) => words(data.drafts[id].text) < 262).map((id) => `${id}=${words(data.drafts[id].text)}`);
+  console.log(`Đã ghi ${ids.length} bản nháp: ${ids.join(' ')}${short.length ? '\nCẢNH BÁO còn ngắn (<262 từ): ' + short.join(', ') : ''}`);
 }
 
 function check() {
@@ -163,5 +184,7 @@ else if (cmd === 'grade') await grade(args.map(Number));
 else if (cmd === 'verify') await verify(args.map(Number));
 else if (cmd === 'check') check();
 else if (cmd === 'chunks') chunks(args[0]);
+else if (cmd === 'batch') batch(args[0]);
+else if (cmd === 'chunks-from-drafts') chunksFromDrafts(args.map(Number));
 else if (cmd === 'list') list(args[0]);
 else console.log('Lệnh: merge <patch> | grade <id...> | verify <id...> | check | list [type]');

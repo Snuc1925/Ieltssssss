@@ -1,0 +1,125 @@
+{
+  "questionId": 273,
+  "text": "Solar panels, wind turbines and batteries are becoming common, and I believe that renewable energy technology will become considerably cheaper over the next twenty years, although the pace may slow in some areas.\n\nFirst and foremost, the main drivers of falling prices are likely to continue. As manufacturers build larger factories and produce more equipment, each panel or turbine costs less to make, and engineers keep finding ways to turn more sunlight and wind into electricity from the same machine. Competition between companies, especially in Asia, also pushes prices down. As a result, clean power that once needed subsidies can now compete with coal and gas in many places. A household that fits solar panels today, for example, pays much less than a neighbour did a decade ago, and this experience encourages other families to follow.\n\nIn addition, storage and grid technology are improving. Batteries have become cheaper as demand for electric vehicles has increased, which will lower the cost of keeping renewable power available at night. Better control systems will also reduce waste by matching supply with demand. However, costs will not fall in every area. Raw materials such as lithium and copper may become more expensive if mining cannot keep pace with demand, and higher interest rates make large projects costlier to finance. Connecting remote wind farms to cities also requires new power lines, which are expensive and slow to build. Prices may therefore fall more slowly than they did in the past.\n\nIn conclusion, renewable technology is likely to become cheaper to a large extent because of larger-scale production, competition and better storage, although material costs and grid investment could limit the speed of the decline.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): công nghệ năng lượng tái tạo có rẻ hơn trong 20 năm tới không",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán tập trung vào chi phí",
+        "think": "Đề hỏi duy nhất về giá, nên mọi ý đều phải quy về giá: động lực làm giảm giá (sản xuất lớn, cạnh tranh, lưu trữ) và yếu tố làm chậm (nguyên liệu, lãi suất, đường dây).",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực 1",
+        "think": "Sản xuất quy mô lớn và cạnh tranh làm giá giảm; ví dụ hộ gia đình lắp pin mặt trời trả ít hơn hàng xóm một thập kỷ trước.",
+        "refs": [
+          "ID-env-renew-cost-fall",
+          "EX-env-solar-bills",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Động lực 2 và giới hạn",
+        "think": "Pin rẻ hơn nhờ xe điện kéo theo lưu trữ rẻ hơn; giới hạn: lithium, đồng, lãi suất, đường dây truyền tải.",
+        "refs": [
+          "ID-env-intermittency",
+          "ID-env-hard-sectors",
+          "CN-nextPoint-in-addition",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Rẻ hơn đáng kể nhưng tốc độ có thể chậm lại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "becoming common",
+      "trở nên phổ biến"
+    ],
+    [
+      "considerably cheaper",
+      "rẻ hơn đáng kể"
+    ],
+    [
+      "the pace may slow",
+      "tốc độ có thể chậm lại"
+    ],
+    [
+      "the main drivers of falling prices",
+      "động lực chính khiến giá giảm"
+    ],
+    [
+      "build larger factories",
+      "xây nhà máy lớn hơn"
+    ],
+    [
+      "costs less to make",
+      "tốn ít chi phí sản xuất hơn"
+    ],
+    [
+      "turn more sunlight and wind into electricity",
+      "biến nhiều ánh nắng và gió hơn thành điện"
+    ],
+    [
+      "Competition between companies",
+      "sự cạnh tranh giữa các công ty"
+    ],
+    [
+      "pushes prices down",
+      "đẩy giá xuống"
+    ],
+    [
+      "needed subsidies",
+      "cần trợ cấp"
+    ],
+    [
+      "compete with coal and gas",
+      "cạnh tranh với than và khí"
+    ],
+    [
+      "follow",
+      "làm theo"
+    ],
+    [
+      "demand for electric vehicles",
+      "nhu cầu xe điện"
+    ],
+    [
+      "keeping renewable power available at night",
+      "duy trì điện tái tạo vào ban đêm"
+    ],
+    [
+      "Better control systems",
+      "hệ thống điều khiển tốt hơn"
+    ],
+    [
+      "keep pace with demand",
+      "theo kịp nhu cầu"
+    ],
+    [
+      "costlier to finance",
+      "tốn kém hơn để tài trợ"
+    ],
+    [
+      "remote wind farms",
+      "trang trại gió ở xa"
+    ],
+    [
+      "new power lines",
+      "đường dây điện mới"
+    ],
+    [
+      "limit the speed of the decline",
+      "hạn chế tốc độ giảm"
+    ]
+  ]
+}

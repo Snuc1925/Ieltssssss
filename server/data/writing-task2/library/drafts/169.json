@@ -1,0 +1,132 @@
+{
+  "questionId": 169,
+  "text": "Industrial cities offer jobs and growth, but their air is often thick with smoke and dust. This essay will analyse the principal causes and propose realistic solutions.\n\nFactories, coal power stations and traffic are the main causes of air pollution in industrial cities. They release smoke, dust and gases such as sulphur dioxide and nitrogen oxides, and the problem is worse when cities are crowded or surrounded by hills that trap polluted air. A city with many coal-burning factories in a valley, for example, may be covered in smog for weeks in winter. In addition, old vehicles and heavy lorries add fumes to the air at street level, and construction work and open burning of waste raise the amount of dust. Residents then suffer from breathing problems and heart disease, and the cost of health care rises.\n\nTo address this issue, strict emission limits and cleaner energy would reduce air pollution. Filters and emission limits cut what factories release, clean electricity from wind, solar and gas can replace coal, and better public transport and electric vehicles reduce traffic fumes. Governments should enforce these rules with inspections and meaningful fines, and help small firms to afford cleaner equipment. In addition, air quality monitoring and green belts help to track progress and absorb pollutants, and public warnings allow vulnerable people to protect themselves on bad days. Cities that have cleaned their air in this way have usually found that the improvement in health and productivity more than repays the cost.\n\nIn conclusion, air pollution in industrial cities stems mainly from factories, coal power and traffic, but strict limits, cleaner energy and monitoring offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp ô nhiễm không khí ở thành phố công nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Khung giống đề 451, 149, 209: thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Nhà máy, nhà máy điện than, giao thông thải khói, bụi, SO2, NOx; thành phố đông đúc hoặc bao quanh đồi giữ không khí ô nhiễm; xe cũ, xe tải nặng, xây dựng, đốt rác. Hệ quả: bệnh hô hấp và tim, chi phí y tế tăng.",
+        "refs": [
+          "ID-env-pollution-causes",
+          "EX-env-smog-city",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Giới hạn khí thải, bộ lọc; điện sạch thay than; giao thông công cộng và xe điện; thanh tra và phạt có ý nghĩa; hỗ trợ doanh nghiệp nhỏ; giám sát chất lượng không khí và vành đai xanh; cảnh báo cho người dễ tổn thương.",
+        "refs": [
+          "ID-env-pollution-solutions",
+          "ID-env-gov-rules",
+          "ID-env-renew-clean",
+          "PH-tackle-source"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-pollution-causes",
+      "ID-env-pollution-solutions",
+      "EX-env-smog-city"
+    ]
+  },
+  "chunks": [
+    [
+      "Industrial cities",
+      "thành phố công nghiệp"
+    ],
+    [
+      "thick with smoke and dust",
+      "dày đặc khói và bụi"
+    ],
+    [
+      "air pollution",
+      "ô nhiễm không khí"
+    ],
+    [
+      "coal power stations",
+      "nhà máy điện than"
+    ],
+    [
+      "sulphur dioxide and nitrogen oxides",
+      "khí SO2 và NOx"
+    ],
+    [
+      "crowded or surrounded by hills",
+      "đông đúc hoặc bị đồi bao quanh"
+    ],
+    [
+      "trap polluted air",
+      "giữ không khí ô nhiễm"
+    ],
+    [
+      "covered in smog for weeks",
+      "bị phủ khói bụi hàng tuần"
+    ],
+    [
+      "old vehicles and heavy lorries",
+      "xe cũ và xe tải nặng"
+    ],
+    [
+      "at street level",
+      "ở tầm đường phố"
+    ],
+    [
+      "open burning of waste",
+      "đốt rác ngoài trời"
+    ],
+    [
+      "breathing problems and heart disease",
+      "bệnh hô hấp và tim"
+    ],
+    [
+      "the cost of health care rises",
+      "chi phí y tế tăng"
+    ],
+    [
+      "strict emission limits",
+      "giới hạn khí thải nghiêm ngặt"
+    ],
+    [
+      "cleaner energy",
+      "năng lượng sạch hơn"
+    ],
+    [
+      "cut what factories release",
+      "giảm thứ nhà máy thải ra"
+    ],
+    [
+      "inspections and meaningful fines",
+      "thanh tra và tiền phạt có ý nghĩa"
+    ],
+    [
+      "air quality monitoring",
+      "giám sát chất lượng không khí"
+    ],
+    [
+      "green belts",
+      "vành đai xanh"
+    ],
+    [
+      "more than repays the cost",
+      "vượt hơn chi phí bỏ ra"
+    ]
+  ]
+}

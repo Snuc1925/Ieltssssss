@@ -1,0 +1,127 @@
+{
+  "questionId": 33,
+  "text": "Solar panels and wind turbines have moved from the margins to the centre of energy planning in many countries. I believe that renewable energy will change considerably over the next twenty years, becoming cheaper, more reliable and far more widely used, although fossil fuels will not disappear completely.\n\nFirst and foremost, technology and costs are moving in a favourable direction. The cost of solar and wind equipment has fallen as the technology has improved and factories have grown larger, and further progress is likely to make clean power competitive with coal and gas almost everywhere. As a result, utilities and households will choose renewables on price alone, without needing generous subsidies. A homeowner who installs solar panels, for example, may soon recover the cost through lower electricity bills within a few years.\n\nIn addition, storage and smarter grids will help to solve the problem that the sun does not always shine and the wind does not always blow. Better batteries can store surplus energy for use at night or in calm weather, and flexible grids can balance supply and demand across large areas. These improvements will make renewable power dependable enough to supply a large share of electricity. However, change will have limits. Heavy industry, aviation and shipping are hard to run on electricity, and many developing countries still rely on cheap coal. Old power stations also last for decades, so the shift will be gradual rather than sudden.\n\nIn conclusion, renewable energy is likely to change the way the world produces power to a large extent, thanks to falling costs and better storage, although a full transition will take longer than twenty years.",
+  "analysis": {
+    "type_vi": "Extent (dự đoán): năng lượng tái tạo sẽ thay đổi đến đâu trong 20 năm tới",
+    "plan": [
+      {
+        "step": "1. Khung dự đoán",
+        "think": "Đề hỏi mức độ nên phải nêu lập trường với 'considerably' + 'although' (không biến mất hoàn toàn). Thân bài 1 và 2 là hai động lực thay đổi; ý hạn chế đặt cuối thân bài 2.",
+        "refs": [
+          "FR-struct-predict"
+        ]
+      },
+      {
+        "step": "2. Động lực 1 — chi phí và công nghệ",
+        "think": "Chi phí giảm nhờ công nghệ và sản xuất lớn; hệ quả: người dùng chọn tái tạo vì giá chứ không cần trợ cấp. Ví dụ chủ nhà lắp pin mặt trời.",
+        "refs": [
+          "ID-env-renew-cost-fall",
+          "EX-env-solar-bills",
+          "CN-firstPoint-first-and-foremost"
+        ]
+      },
+      {
+        "step": "3. Động lực 2 — lưu trữ và lưới điện, cộng giới hạn",
+        "think": "Pin tốt hơn giải quyết vấn đề nắng gió; sau đó nêu giới hạn bằng However: công nghiệp nặng, hàng không, nước đang phát triển, nhà máy cũ.",
+        "refs": [
+          "ID-env-intermittency",
+          "ID-env-hard-sectors",
+          "CN-nextPoint-in-addition",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết quả: thay đổi nhiều nhưng chuyển đổi hoàn toàn sẽ lâu hơn 20 năm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-hard-sectors"
+    ]
+  },
+  "chunks": [
+    [
+      "from the margins to the centre",
+      "từ rìa vào trung tâm"
+    ],
+    [
+      "energy planning",
+      "quy hoạch năng lượng"
+    ],
+    [
+      "change considerably",
+      "thay đổi đáng kể"
+    ],
+    [
+      "far more widely used",
+      "được dùng rộng rãi hơn nhiều"
+    ],
+    [
+      "will not disappear completely",
+      "sẽ không biến mất hoàn toàn"
+    ],
+    [
+      "moving in a favourable direction",
+      "đang đi theo hướng thuận lợi"
+    ],
+    [
+      "competitive with coal and gas",
+      "cạnh tranh được với than và khí"
+    ],
+    [
+      "generous subsidies",
+      "trợ cấp hào phóng"
+    ],
+    [
+      "recover the cost",
+      "thu hồi chi phí"
+    ],
+    [
+      "smarter grids",
+      "lưới điện thông minh hơn"
+    ],
+    [
+      "store surplus energy",
+      "lưu trữ năng lượng dư"
+    ],
+    [
+      "in calm weather",
+      "khi trời lặng gió"
+    ],
+    [
+      "balance supply and demand",
+      "cân bằng cung và cầu"
+    ],
+    [
+      "dependable enough",
+      "đủ đáng tin cậy"
+    ],
+    [
+      "a large share of electricity",
+      "phần lớn điện năng"
+    ],
+    [
+      "hard to run on electricity",
+      "khó chạy bằng điện"
+    ],
+    [
+      "rely on cheap coal",
+      "dựa vào than rẻ"
+    ],
+    [
+      "gradual rather than sudden",
+      "dần dần thay vì đột ngột"
+    ],
+    [
+      "a full transition",
+      "chuyển đổi hoàn toàn"
+    ],
+    [
+      "falling costs and better storage",
+      "chi phí giảm và lưu trữ tốt hơn"
+    ]
+  ]
+}

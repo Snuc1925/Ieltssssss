@@ -1,5 +1,5 @@
 // Xuất 83 bài mẫu thành Markdown (từ quan trọng in đậm) + HTML tô màu để in PDF.
-//   node server/scripts/export-essays.mjs  →  exports/Education-83-essays.md / .html
+//   node server/scripts/export-essays.mjs [education|environment]  →  exports/<Topic>-<N>-essays.md / .html
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -8,11 +8,14 @@ import { computeMarks } from '../modules/writing-task2/marks.js';
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const LIB = path.join(ROOT, 'server', 'data', 'writing-task2', 'library');
 const OUT = path.join(ROOT, 'exports');
+const TOPIC = process.argv[2] || 'education';
+const TOPIC_NAME = { education: 'Education', environment: 'Environment & Energy' }[TOPIC] || TOPIC;
+const FILE_BASE = { education: 'Education', environment: 'Environment-Energy' }[TOPIC] || TOPIC;
 fs.mkdirSync(OUT, { recursive: true });
 
 const lex = JSON.parse(fs.readFileSync(path.join(LIB, 'lexicon.json'), 'utf8')).entries;
 const byId = Object.fromEntries(lex.map((e) => [e.id, e]));
-const essays = JSON.parse(fs.readFileSync(path.join(LIB, 'essays.education.json'), 'utf8')).essays;
+const essays = JSON.parse(fs.readFileSync(path.join(LIB, `essays.${TOPIC}.json`), 'utf8')).essays;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const TYPE_VI = { phrase: 'Cụm từ', synonyms: 'Từ đồng nghĩa', connector: 'Từ nối', frame: 'Khung câu', idea: 'Câu mang ý', example: 'Câu ví dụ' };
@@ -48,7 +51,7 @@ function htmlPara({ p, sent, word }) {
 }
 
 const band = (g) => (g && g.overall != null ? Number(g.overall).toFixed(1) : '–');
-let md = `# 83 bài mẫu IELTS Writing Task 2 — chủ đề Education\n\n` +
+let md = `# ${essays.length} bài mẫu IELTS Writing Task 2 — chủ đề ${TOPIC_NAME}\n\n` +
   `Mỗi bài: đề → bài mẫu (từ/cụm quan trọng **in đậm**) → các cụm cần nhớ kèm nghĩa. Điểm do AI chấm (Gemini/DeepSeek), tham khảo.\n\n## Mục lục\n\n`;
 let html = '';
 const toc = [];
@@ -110,8 +113,8 @@ h2.grp { font-size: 15pt; border-bottom: 2px solid #3b82f6; padding-bottom: 3pt;
 .kp .en { font-weight: 600; color: #1d4ed8; }
 `;
 const legend = Object.entries(TYPE_VI).map(([t, l]) => `<span class="hl ty-${t}${t === 'idea' || t === 'example' ? ' sent' : ''}">${l}</span>`).join('');
-fs.writeFileSync(path.join(OUT, 'Education-83-essays.md'), md, 'utf8');
-fs.writeFileSync(path.join(OUT, 'Education-83-essays.html'),
-  `<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>83 bài mẫu IELTS Writing Task 2 — Education</title><style>${css}</style></head><body>` +
-  `<h1>83 bài mẫu IELTS Writing Task 2 — Education</h1><p class="sub">Từ và cụm quan trọng được tô màu; cuối mỗi bài là các cụm cần nhớ kèm nghĩa. Điểm do AI chấm, chỉ để tham khảo.</p><div class="legend">${legend}</div>${html}</body></html>`, 'utf8');
-console.log(`Đã xuất ${n} bài → exports/Education-83-essays.md / .html`);
+fs.writeFileSync(path.join(OUT, `${FILE_BASE}-${essays.length}-essays.md`), md, 'utf8');
+fs.writeFileSync(path.join(OUT, `${FILE_BASE}-${essays.length}-essays.html`),
+  `<!doctype html><html lang="vi"><head><meta charset="utf-8"><title>${essays.length} bài mẫu IELTS Writing Task 2 — ${esc(TOPIC_NAME)}</title><style>${css}</style></head><body>` +
+  `<h1>${essays.length} bài mẫu IELTS Writing Task 2 — ${esc(TOPIC_NAME)}</h1><p class="sub">Từ và cụm quan trọng được tô màu; cuối mỗi bài là các cụm cần nhớ kèm nghĩa. Điểm do AI chấm, chỉ để tham khảo.</p><div class="legend">${legend}</div>${html}</body></html>`, 'utf8');
+console.log(`Đã xuất ${n} bài → exports/${FILE_BASE}-${essays.length}-essays.md / .html`);

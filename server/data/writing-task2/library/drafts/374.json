@@ -1,0 +1,128 @@
+{
+  "questionId": 374,
+  "text": "When factories dump waste or forests are cut down illegally, it is not always clear who should act: citizens who report what they see, or authorities that look for violations themselves. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of public reporting argue that ordinary people are often the first to notice environmental damage. Residents see the smoke from a chimney, the discoloured river or the lorry unloading rubbish at night, and no inspector can be everywhere at once. Reports from the public therefore extend the reach of the authorities at low cost. A community that can report problems easily is also more likely to feel responsible for its surroundings. A fisherman who notices a poisoned stream and phones a hotline, for example, may stop pollution before it spreads to the whole river. In some places, mobile apps now let residents upload photographs of illegal dumping, which gives inspectors evidence that they can act on.\n\nOn the other hand, advocates of proactive government action point out that relying on individuals puts the burden on the wrong people. Citizens may not recognise a violation, may fear punishment from a local employer or may simply not bother, so serious offences can go undetected for years. Authorities can carry out regular inspections, use satellite monitoring and impose penalties that deter companies in the first place. An employee who fears losing a job, for instance, is unlikely to report their own factory. Moreover, a company that knows it may be inspected at any time has a stronger reason to follow the rules than one that fears only occasional complaints.\n\nIn conclusion, both views have merit. Personally, I believe that governments should act proactively and enforce the rules, while making reporting easy and safe so that the public can help.",
+  "analysis": {
+    "type_vi": "Discuss both views: báo cáo vi phạm môi trường — cá nhân hay chính quyền chủ động",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bằng hai tình huống cụ thể (nhà máy xả thải, chặt rừng trái phép) để gắn đề; vẫn dùng khung hai quan điểm.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Người dân báo cáo",
+        "think": "Người dân thấy khói, sông đổi màu, xe đổ rác ban đêm; thanh tra không thể có mặt khắp nơi; báo cáo mở rộng tầm với chính quyền.",
+        "refs": [
+          "ID-env-public-reporting",
+          "EX-env-fisherman-hotline"
+        ]
+      },
+      {
+        "step": "3. Chính phủ chủ động",
+        "think": "Gánh nặng dồn sai chỗ: dân không nhận ra vi phạm, sợ bị chủ trả đũa, bỏ mặc; thanh tra định kỳ, giám sát vệ tinh, phạt để răn đe.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ chủ động thực thi; làm cho việc báo cáo dễ và an toàn để công chúng hỗ trợ.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-public-reporting",
+      "EX-env-fisherman-hotline"
+    ]
+  },
+  "chunks": [
+    [
+      "dump waste",
+      "xả chất thải"
+    ],
+    [
+      "cut down illegally",
+      "chặt phá trái phép"
+    ],
+    [
+      "look for violations",
+      "tìm kiếm vi phạm"
+    ],
+    [
+      "supporters of public reporting",
+      "người ủng hộ việc người dân báo cáo"
+    ],
+    [
+      "environmental damage",
+      "thiệt hại môi trường"
+    ],
+    [
+      "the discoloured river",
+      "dòng sông đổi màu"
+    ],
+    [
+      "unloading rubbish at night",
+      "đổ rác ban đêm"
+    ],
+    [
+      "be everywhere at once",
+      "có mặt khắp nơi cùng lúc"
+    ],
+    [
+      "extend the reach of the authorities",
+      "mở rộng tầm với của chính quyền"
+    ],
+    [
+      "at low cost",
+      "với chi phí thấp"
+    ],
+    [
+      "feel responsible for its surroundings",
+      "thấy có trách nhiệm với môi trường quanh mình"
+    ],
+    [
+      "a hotline",
+      "đường dây nóng"
+    ],
+    [
+      "stop pollution before it spreads",
+      "chặn ô nhiễm trước khi lan rộng"
+    ],
+    [
+      "proactive government action",
+      "hành động chủ động của chính phủ"
+    ],
+    [
+      "puts the burden on the wrong people",
+      "đặt gánh nặng lên nhầm người"
+    ],
+    [
+      "fear punishment from a local employer",
+      "sợ bị chủ địa phương trừng phạt"
+    ],
+    [
+      "go undetected for years",
+      "không bị phát hiện suốt nhiều năm"
+    ],
+    [
+      "regular inspections",
+      "thanh tra định kỳ"
+    ],
+    [
+      "satellite monitoring",
+      "giám sát bằng vệ tinh"
+    ],
+    [
+      "deter companies",
+      "răn đe doanh nghiệp"
+    ]
+  ]
+}

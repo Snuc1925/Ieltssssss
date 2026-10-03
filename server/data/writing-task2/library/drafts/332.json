@@ -1,0 +1,123 @@
+{
+  "questionId": 332,
+  "text": "Some people claim that strict environmental controls limit economic growth. I agree only to a limited extent, since controls can raise costs in the short term, but they also protect the resources and health on which growth depends.\n\nIt is true that strict controls can raise costs for businesses and slow short-term growth. Factories must install cleaner equipment, and firms may respond by raising prices or cutting jobs, which matters most in poorer countries where growth is needed to lift people out of poverty. A small manufacturer that must buy expensive filters, for example, may find it hard to compete with a foreign rival that faces no such rule, and workers can lose their jobs as a result. These concerns should be taken seriously and should not be dismissed as mere excuses.\n\nHowever, ignoring the environment is expensive in the long run. Floods, droughts and polluted air damage crops, homes and health, and the cost of cleaning up afterwards is usually far higher than the cost of preventing the damage. Environmental policy can also create growth, since renewable energy, insulation and recycling employ workers and encourage new technology. A country that leads in electric vehicles, for instance, can sell them abroad as well as improve its own air. Governments can also reduce the burden on business by introducing controls gradually and offering tax relief for clean equipment, so that companies have time to adapt. Many countries already use such tools, which shows that protection and prosperity can be pursued together.\n\nIn conclusion, strict environmental controls may slow growth briefly, but I do not accept that they limit it overall, since growth built on damage cannot last.",
+  "analysis": {
+    "type_vi": "Extent: kiểm soát môi trường nghiêm ngặt có hạn chế tăng trưởng? — đồng ý một phần ('only to a limited extent')",
+    "plan": [
+      {
+        "step": "1. Khung Extent với lập trường giới hạn",
+        "think": "Không chọn 'hoàn toàn đồng ý' hay 'phản đối': nhận có chi phí ngắn hạn nhưng không hạn chế tăng trưởng nói chung. Cách này cho phép nhượng bộ rồi phản bác.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Nhượng bộ trước",
+        "think": "Ý chi phí ngắn hạn; ví dụ nhà sản xuất nhỏ phải mua bộ lọc đắt trong khi đối thủ nước ngoài không bị ràng buộc.",
+        "refs": [
+          "ID-env-econ-cost",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "3. Phản bác",
+        "think": "Về dài hạn bỏ qua môi trường mới đắt; chính sách tạo việc làm; giảm gánh nặng bằng áp dụng dần, ưu đãi thuế.",
+        "refs": [
+          "ID-env-econ-longterm",
+          "ID-env-green-jobs",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lặp lại lập trường: có thể làm chậm ngắn hạn nhưng không hạn chế tăng trưởng tổng thể.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "limit economic growth",
+      "hạn chế tăng trưởng kinh tế"
+    ],
+    [
+      "to a limited extent",
+      "ở mức độ hạn chế"
+    ],
+    [
+      "on which growth depends",
+      "thứ mà tăng trưởng dựa vào"
+    ],
+    [
+      "It is true that",
+      "đúng là"
+    ],
+    [
+      "expensive filters",
+      "bộ lọc đắt tiền"
+    ],
+    [
+      "compete with a foreign rival",
+      "cạnh tranh với đối thủ nước ngoài"
+    ],
+    [
+      "faces no such rule",
+      "không bị quy định như vậy"
+    ],
+    [
+      "lose their jobs as a result",
+      "mất việc vì thế"
+    ],
+    [
+      "taken seriously",
+      "được xem xét nghiêm túc"
+    ],
+    [
+      "dismissed as mere excuses",
+      "bị gạt đi như những cái cớ"
+    ],
+    [
+      "ignoring the environment",
+      "phớt lờ môi trường"
+    ],
+    [
+      "leads in electric vehicles",
+      "dẫn đầu về xe điện"
+    ],
+    [
+      "sell them abroad",
+      "bán ra nước ngoài"
+    ],
+    [
+      "improve its own air",
+      "cải thiện không khí của chính mình"
+    ],
+    [
+      "reduce the burden on business",
+      "giảm gánh nặng cho doanh nghiệp"
+    ],
+    [
+      "tax relief for clean equipment",
+      "giảm thuế cho thiết bị sạch"
+    ],
+    [
+      "slow growth briefly",
+      "làm chậm tăng trưởng trong thời gian ngắn"
+    ],
+    [
+      "limit it overall",
+      "hạn chế nó nói chung"
+    ],
+    [
+      "introducing controls gradually",
+      "áp dụng kiểm soát dần dần"
+    ],
+    [
+      "the resources and health",
+      "tài nguyên và sức khoẻ"
+    ]
+  ]
+}

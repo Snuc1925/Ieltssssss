@@ -1,0 +1,132 @@
+{
+  "questionId": 2,
+  "text": "Opinions are divided as to whether protecting the environment should be a top priority for governments or whether economic growth matters more. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who put economic growth first argue that strict environmental measures can raise costs for businesses and slow short-term growth. Factories must install cleaner equipment, and firms may respond by raising prices or cutting jobs. This matters most in poorer countries, where growth is needed to lift people out of poverty and to pay for hospitals and schools. A developing country that bans cheap coal before it has an alternative, for example, may leave millions of households without affordable electricity, and the resulting hardship can turn public opinion against environmental policy. Higher bills for fuel and food are felt immediately, whereas the benefits of cleaner air arrive slowly, so voters often resist change.\n\nOn the other hand, supporters of environmental protection point out that ignoring the environment is expensive in the long run. Floods, droughts and polluted air damage crops, homes and health, and the cost of cleaning up afterwards is usually far higher than the cost of preventing the damage. Environmental policy can also create growth, since renewable energy, insulation and recycling employ workers and encourage new technology. A city that invests in clean transport, for instance, reduces hospital costs from air pollution while creating jobs in construction and maintenance.\n\nIn conclusion, both views have merit. Personally, I believe that environmental protection should take priority in the long term, because growth built on damage cannot last, although governments should introduce measures gradually so that businesses and poorer households have time to adapt.",
+  "analysis": {
+    "type_vi": "Discuss both views: môi trường hay tăng trưởng kinh tế là ưu tiên của chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Cùng khung hai quan điểm; ý kiến riêng nghiêng về môi trường dài hạn nhưng có nhượng bộ (áp dụng từ từ).",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe tăng trưởng",
+        "think": "Chi phí cho doanh nghiệp, nhất là nước nghèo cần tăng trưởng để thoát nghèo. Ví dụ cấm than rẻ khi chưa có thay thế.",
+        "refs": [
+          "ID-env-econ-cost",
+          "EX-env-ban-coal"
+        ]
+      },
+      {
+        "step": "3. Phe môi trường",
+        "think": "Bỏ qua môi trường về lâu dài đắt hơn; chính sách xanh cũng tạo việc làm. Ví dụ giao thông sạch giảm chi phí bệnh viện.",
+        "refs": [
+          "ID-env-econ-longterm",
+          "ID-env-green-jobs",
+          "EX-env-clean-transport"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu tiên môi trường về dài hạn nhưng phải thực hiện dần để doanh nghiệp và hộ nghèo kịp thích nghi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-econ-cost",
+      "ID-env-econ-longterm",
+      "ID-env-green-jobs",
+      "EX-env-ban-coal",
+      "EX-env-clean-transport"
+    ]
+  },
+  "chunks": [
+    [
+      "a top priority for governments",
+      "ưu tiên hàng đầu của chính phủ"
+    ],
+    [
+      "put economic growth first",
+      "đặt tăng trưởng kinh tế lên đầu"
+    ],
+    [
+      "strict environmental measures",
+      "biện pháp môi trường nghiêm ngặt"
+    ],
+    [
+      "raise costs for businesses",
+      "làm tăng chi phí doanh nghiệp"
+    ],
+    [
+      "slow short-term growth",
+      "làm chậm tăng trưởng ngắn hạn"
+    ],
+    [
+      "install cleaner equipment",
+      "lắp thiết bị sạch hơn"
+    ],
+    [
+      "raising prices or cutting jobs",
+      "tăng giá hoặc cắt việc làm"
+    ],
+    [
+      "lift people out of poverty",
+      "giúp người dân thoát nghèo"
+    ],
+    [
+      "bans cheap coal",
+      "cấm than giá rẻ"
+    ],
+    [
+      "affordable electricity",
+      "điện giá phải chăng"
+    ],
+    [
+      "turn public opinion against",
+      "làm dư luận quay lưng với"
+    ],
+    [
+      "supporters of environmental protection",
+      "người ủng hộ bảo vệ môi trường"
+    ],
+    [
+      "expensive in the long run",
+      "đắt về lâu dài"
+    ],
+    [
+      "Floods, droughts and polluted air",
+      "lũ, hạn hán và không khí ô nhiễm"
+    ],
+    [
+      "cleaning up afterwards",
+      "dọn dẹp sau đó"
+    ],
+    [
+      "far higher than the cost of preventing the damage",
+      "cao hơn nhiều so với chi phí ngăn thiệt hại"
+    ],
+    [
+      "encourage new technology",
+      "khuyến khích công nghệ mới"
+    ],
+    [
+      "growth built on damage cannot last",
+      "tăng trưởng dựa trên tàn phá không bền"
+    ],
+    [
+      "take priority",
+      "được ưu tiên"
+    ],
+    [
+      "have time to adapt",
+      "có thời gian thích nghi"
+    ]
+  ]
+}

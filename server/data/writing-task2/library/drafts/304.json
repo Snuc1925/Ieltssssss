@@ -1,0 +1,129 @@
+{
+  "questionId": 304,
+  "text": "Wildlife conservation is often seen as a luxury that benefits animals more than people. I agree that it has improved people's lives, since healthy ecosystems provide practical services and many communities earn a living from protected nature.\n\nTo begin with, wildlife conservation improves people's lives in practical ways. Healthy ecosystems pollinate crops, clean water and reduce floods, and these services would cost enormous sums to replace artificially. Bees that pollinate fruit trees, for example, help farmers to harvest more apples and almonds without any extra cost. Forests and wetlands protected for wildlife also store water and reduce the damage caused by storms. In addition, wild plants and animals provide the basis for new medicines, so losing a species may mean losing a future treatment.\n\nFurthermore, conservation creates jobs and income. Nature tourism brings visitors to national parks and reserves, and local people work as guides, rangers, drivers and hotel staff. When communities share in these earnings, they have a reason to protect wildlife instead of hunting or clearing the land. Contact with nature also benefits mental health and offers children a chance to learn about the living world. Admittedly, conservation sometimes restricts land use and can cause conflict, as when elephants damage crops, but compensation schemes and community involvement can reduce these problems. Overall, the benefits to people, in food, water, income and wellbeing, are considerable and far-reaching. Protecting a forest, for instance, also means protecting the rivers that supply nearby towns.\n\nIn conclusion, I agree that wildlife conservation has improved people's lives, because it supports essential natural services and provides income, provided that local communities share fairly in the gains.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bảo tồn động vật hoang dã cải thiện đời sống con người — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu quan niệm sai (bảo tồn chỉ có lợi cho động vật) rồi agree: bảo tồn mang lại dịch vụ thực tế và thu nhập.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — dịch vụ hệ sinh thái",
+        "think": "Hệ sinh thái khoẻ thụ phấn cây trồng, làm sạch nước, giảm lũ; chi phí thay thế bằng nhân tạo rất lớn. Ví dụ ong thụ phấn giúp thu hoạch nhiều táo và hạnh nhân hơn. Thêm thuốc mới từ thực vật hoang dã.",
+        "refs": [
+          "ID-env-wildlife-benefits",
+          "EX-env-bees-crops",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — việc làm và thu nhập + nhượng bộ",
+        "think": "Du lịch thiên nhiên tạo việc làm (hướng dẫn viên, kiểm lâm, khách sạn); cộng đồng chia sẻ thu nhập nên có lý do bảo vệ. Nhượng bộ: hạn chế sử dụng đất và xung đột (voi phá hoa màu) nhưng có bồi thường.",
+        "refs": [
+          "ID-env-wildlife-benefits",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree, điều kiện: cộng đồng địa phương chia sẻ công bằng lợi ích.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-wildlife-benefits",
+      "EX-env-bees-crops"
+    ]
+  },
+  "chunks": [
+    [
+      "a luxury that benefits animals more than people",
+      "điều xa xỉ mang lại lợi ích cho động vật hơn con người"
+    ],
+    [
+      "improved people's lives",
+      "cải thiện cuộc sống con người"
+    ],
+    [
+      "healthy ecosystems",
+      "hệ sinh thái khoẻ mạnh"
+    ],
+    [
+      "earn a living from protected nature",
+      "kiếm sống từ thiên nhiên được bảo vệ"
+    ],
+    [
+      "in practical ways",
+      "theo những cách thiết thực"
+    ],
+    [
+      "pollinate crops",
+      "thụ phấn cho cây trồng"
+    ],
+    [
+      "clean water and reduce floods",
+      "làm sạch nước và giảm lũ"
+    ],
+    [
+      "replace artificially",
+      "thay thế bằng nhân tạo"
+    ],
+    [
+      "without any extra cost",
+      "không tốn thêm chi phí"
+    ],
+    [
+      "store water",
+      "trữ nước"
+    ],
+    [
+      "the damage caused by storms",
+      "thiệt hại do bão"
+    ],
+    [
+      "new medicines",
+      "thuốc mới"
+    ],
+    [
+      "a future treatment",
+      "một phương pháp điều trị trong tương lai"
+    ],
+    [
+      "creates jobs and income",
+      "tạo việc làm và thu nhập"
+    ],
+    [
+      "Nature tourism",
+      "du lịch thiên nhiên"
+    ],
+    [
+      "guides, rangers, drivers and hotel staff",
+      "hướng dẫn viên, kiểm lâm, tài xế và nhân viên khách sạn"
+    ],
+    [
+      "share in these earnings",
+      "chia sẻ thu nhập này"
+    ],
+    [
+      "restricts land use",
+      "hạn chế sử dụng đất"
+    ],
+    [
+      "compensation schemes",
+      "chương trình bồi thường"
+    ],
+    [
+      "far-reaching",
+      "có ảnh hưởng sâu rộng"
+    ]
+  ]
+}

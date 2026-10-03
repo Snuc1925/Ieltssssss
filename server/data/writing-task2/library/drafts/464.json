@@ -1,0 +1,129 @@
+{
+  "questionId": 464,
+  "text": "Heating and cooling homes uses a large share of a country's energy, and a poorly insulated house wastes much of it. This essay will suggest practical measures that governments could take, focusing on reducing the cost of insulation and on setting rules and giving advice.\n\nTo begin with, governments can make home insulation cheaper and easier. Grants, low-interest loans and tax rebates remove the high upfront cost, which is the main reason many families delay improvements, and local schemes can offer to install insulation at a reduced price. A family that insulates its loft and walls, for example, may notice a clear fall in its heating bills within a single winter. Because the savings continue every year, the payments can often be recovered over time. Targeted help for low-income households is especially valuable, since they spend a larger share of their income on energy.\n\nIn addition, authorities should use rules and information to encourage action. Minimum standards for new buildings and rented homes ensure that landlords cannot ignore the problem, because tenants often cannot make improvements themselves. Free energy checks show owners what to fix first, and a clear rating on every property helps buyers and renters to compare homes. Public campaigns can explain how much money and energy can be saved, and training for local builders makes sure that work is done properly. Together, these measures help households to save money while national emissions fall, and the cost to the government is modest compared with building new power stations.\n\nIn conclusion, cutting the cost of insulation and combining standards with advice offer the most realistic way of encouraging homeowners to improve insulation.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ khuyến khích chủ nhà cải thiện cách nhiệt",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu bối cảnh (sưởi và làm mát dùng nhiều năng lượng, nhà cách nhiệt kém lãng phí) và hai nhóm biện pháp: giảm chi phí; quy định và tư vấn.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — giảm chi phí",
+        "think": "Trợ cấp, khoản vay lãi thấp, giảm thuế gỡ rào cản chi phí ban đầu; chương trình địa phương lắp với giá giảm; hỗ trợ có mục tiêu cho hộ thu nhập thấp. Ví dụ gia đình cách nhiệt mái và tường thấy hoá đơn sưởi giảm.",
+        "refs": [
+          "ID-env-insulation",
+          "EX-env-loft-insulation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — quy định và thông tin",
+        "think": "Tiêu chuẩn tối thiểu cho nhà mới và nhà cho thuê vì người thuê thường không tự cải tạo được; kiểm toán năng lượng miễn phí; xếp hạng rõ ràng cho từng bất động sản; chiến dịch truyền thông; đào tạo thợ xây địa phương.",
+        "refs": [
+          "ID-env-gov-rules",
+          "ID-env-impact-labels",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm chi phí kết hợp quy chuẩn và tư vấn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-insulation",
+      "EX-env-loft-insulation"
+    ]
+  },
+  "chunks": [
+    [
+      "Heating and cooling homes",
+      "sưởi và làm mát nhà"
+    ],
+    [
+      "a large share of a country's energy",
+      "phần lớn năng lượng của một quốc gia"
+    ],
+    [
+      "a poorly insulated house",
+      "ngôi nhà cách nhiệt kém"
+    ],
+    [
+      "reducing the cost of insulation",
+      "giảm chi phí cách nhiệt"
+    ],
+    [
+      "setting rules and giving advice",
+      "đặt quy định và đưa lời khuyên"
+    ],
+    [
+      "make home insulation cheaper and easier",
+      "làm việc cách nhiệt nhà rẻ và dễ hơn"
+    ],
+    [
+      "Grants, low-interest loans and tax rebates",
+      "trợ cấp, vay lãi thấp và hoàn thuế"
+    ],
+    [
+      "the high upfront cost",
+      "chi phí ban đầu cao"
+    ],
+    [
+      "delay improvements",
+      "trì hoãn cải tạo"
+    ],
+    [
+      "insulates its loft and walls",
+      "cách nhiệt mái và tường"
+    ],
+    [
+      "a clear fall in its heating bills",
+      "hoá đơn sưởi giảm rõ rệt"
+    ],
+    [
+      "Targeted help for low-income households",
+      "hỗ trợ có mục tiêu cho hộ thu nhập thấp"
+    ],
+    [
+      "Minimum standards for new buildings and rented homes",
+      "tiêu chuẩn tối thiểu cho nhà mới và nhà cho thuê"
+    ],
+    [
+      "tenants often cannot make improvements themselves",
+      "người thuê thường không tự cải tạo được"
+    ],
+    [
+      "Free energy checks",
+      "kiểm tra năng lượng miễn phí"
+    ],
+    [
+      "what to fix first",
+      "nên sửa gì trước"
+    ],
+    [
+      "a clear rating on every property",
+      "xếp hạng rõ ràng cho mỗi bất động sản"
+    ],
+    [
+      "training for local builders",
+      "đào tạo thợ xây địa phương"
+    ],
+    [
+      "done properly",
+      "được làm đúng cách"
+    ],
+    [
+      "national emissions fall",
+      "khí thải quốc gia giảm"
+    ]
+  ]
+}

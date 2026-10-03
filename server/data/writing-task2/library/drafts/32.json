@@ -1,0 +1,129 @@
+{
+  "questionId": 32,
+  "text": "Water shortages are becoming more common in many regions, and people disagree about who should be responsible for conserving water. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, some argue that individuals should save water because everyday personal choices add up to a large environmental effect. Households use water for showers, washing machines and gardens, and simple habits such as turning off taps, fixing leaks and collecting rainwater can reduce consumption considerably. Consumers who buy water-efficient appliances also push manufacturers to improve their designs. Without changed habits, even strong laws are hard to enforce. A family that repairs a dripping tap and takes shorter showers, for example, may save thousands of litres a year, and if a whole neighbourhood follows, the effect on local supplies becomes significant.\n\nOn the other hand, others believe that governments must act because individuals alone cannot solve problems that are largely structural. Much of a city's water is lost through ageing pipes that only the utility can replace, and farming and industry use far more than households. Authorities can set rules that apply to everyone, such as limits during droughts, higher prices for heavy users and fines for waste, and only they can build reservoirs, treatment plants and efficient irrigation. A city that loses a third of its water through old pipes, for instance, wastes more than its residents could ever save.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, as governments should repair the system while citizens supply the daily decisions that make policies work.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay chính phủ chịu trách nhiệm tiết kiệm nước",
+    "plan": [
+      {
+        "step": "1. Khung (như đề 10)",
+        "think": "Cùng khung hai quan điểm; thay từ khoá thành 'water' / 'conserving water' ở câu chủ đề.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Tái dùng ý thói quen hằng ngày nhưng ví dụ riêng của nước: sửa vòi rỉ, tắm ngắn, thu nước mưa.",
+        "refs": [
+          "ID-env-ind-habits",
+          "SY-reduce"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Ý hệ thống: đường ống cũ chỉ công ty cấp nước thay được; luật, giá bậc thang; ví dụ thành phố mất một phần ba nước.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "EX-env-leaky-pipes"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chọn mô hình kết hợp (ý partnership).",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "EX-env-leaky-pipes"
+    ]
+  },
+  "chunks": [
+    [
+      "conserving water",
+      "tiết kiệm nước"
+    ],
+    [
+      "Water shortages",
+      "tình trạng thiếu nước"
+    ],
+    [
+      "water-efficient appliances",
+      "thiết bị tiết kiệm nước"
+    ],
+    [
+      "turning off taps",
+      "tắt vòi nước"
+    ],
+    [
+      "fixing leaks",
+      "sửa chỗ rò rỉ"
+    ],
+    [
+      "collecting rainwater",
+      "hứng nước mưa"
+    ],
+    [
+      "reduce consumption considerably",
+      "giảm mức tiêu thụ đáng kể"
+    ],
+    [
+      "a dripping tap",
+      "vòi nước rỉ"
+    ],
+    [
+      "local supplies",
+      "nguồn cấp địa phương"
+    ],
+    [
+      "ageing pipes",
+      "đường ống cũ"
+    ],
+    [
+      "the utility",
+      "công ty cấp nước"
+    ],
+    [
+      "limits during droughts",
+      "hạn chế trong mùa hạn"
+    ],
+    [
+      "higher prices for heavy users",
+      "giá cao hơn cho người dùng nhiều"
+    ],
+    [
+      "fines for waste",
+      "phạt hành vi lãng phí"
+    ],
+    [
+      "reservoirs, treatment plants",
+      "hồ chứa, nhà máy xử lý"
+    ],
+    [
+      "efficient irrigation",
+      "tưới tiêu hiệu quả"
+    ],
+    [
+      "wastes more than its residents could ever save",
+      "lãng phí nhiều hơn cư dân tiết kiệm được"
+    ],
+    [
+      "official leadership",
+      "sự dẫn dắt của chính quyền"
+    ],
+    [
+      "personal action",
+      "hành động cá nhân"
+    ],
+    [
+      "repair the system",
+      "sửa hệ thống"
+    ]
+  ]
+}

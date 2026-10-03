@@ -1,0 +1,126 @@
+{
+  "questionId": 474,
+  "text": "Discarded phones, computers and televisions are creating a fast-growing waste problem, and opinions differ on whether people should be responsible for reducing it or whether the state should enforce recycling. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that everyday personal choices add up to a large environmental effect. Consumers decide how often to replace a device, whether to repair it and where to dispose of it, and a phone left in a drawer or thrown into household rubbish wastes valuable materials. Buyers who choose durable products also push manufacturers to improve their designs. Without changed habits, even strong laws are hard to enforce. A student who repairs a cracked screen instead of buying a new phone, for example, keeps a device in use for several more years, and millions of similar choices would greatly reduce the pile of electronic waste.\n\nOn the other hand, advocates of enforcement point out that individuals alone cannot solve problems that are largely structural. Most people do not know where to take an old device, and many products are deliberately designed to be difficult to repair. Governments can set rules that apply to everyone, such as requiring manufacturers to take back what they sell, and only they can build collection systems and licensed recycling plants. A household with no drop-off point nearby, for instance, will probably keep or discard the device rather than travel far.\n\nIn conclusion, both views have merit. Overall, I believe that governments should enforce recycling and make producers responsible, since this removes the burden from consumers, while individuals support it by repairing and returning their devices.",
+  "analysis": {
+    "type_vi": "Discuss both views: rác điện tử — cá nhân hay nhà nước bắt buộc tái chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Cùng khung hai quan điểm; câu mở nêu rõ 'phones, computers and televisions' để bám đề.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Quyết định thay máy, sửa hay bỏ; điện thoại bỏ ngăn kéo hoặc vứt chung rác sinh hoạt lãng phí nguyên liệu quý; người mua chọn đồ bền. Ví dụ sinh viên sửa màn hình.",
+        "refs": [
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Nhà nước",
+        "think": "Không biết đem thiết bị cũ đi đâu, sản phẩm khó sửa; buộc nhà sản xuất thu hồi và xây hệ thống thu gom, nhà máy tái chế có giấy phép.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "ID-env-producer-takeback"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhà nước thực thi, buộc nhà sản xuất chịu trách nhiệm để gỡ gánh nặng khỏi người tiêu dùng.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Discarded phones, computers and televisions",
+      "điện thoại, máy tính, ti vi bị vứt bỏ"
+    ],
+    [
+      "a fast-growing waste problem",
+      "vấn đề rác thải tăng nhanh"
+    ],
+    [
+      "enforce recycling",
+      "bắt buộc tái chế"
+    ],
+    [
+      "how often to replace a device",
+      "bao lâu thay thiết bị một lần"
+    ],
+    [
+      "dispose of it",
+      "vứt bỏ nó"
+    ],
+    [
+      "left in a drawer",
+      "bỏ trong ngăn kéo"
+    ],
+    [
+      "wastes valuable materials",
+      "lãng phí nguyên liệu quý"
+    ],
+    [
+      "durable products",
+      "sản phẩm bền"
+    ],
+    [
+      "improve their designs",
+      "cải thiện thiết kế"
+    ],
+    [
+      "repairs a cracked screen",
+      "sửa màn hình bị nứt"
+    ],
+    [
+      "in use for several more years",
+      "còn dùng thêm nhiều năm"
+    ],
+    [
+      "the pile of electronic waste",
+      "đống rác điện tử"
+    ],
+    [
+      "advocates of enforcement",
+      "người ủng hộ thực thi nghiêm"
+    ],
+    [
+      "designed to be difficult to repair",
+      "được thiết kế khó sửa"
+    ],
+    [
+      "take back what they sell",
+      "thu hồi thứ họ bán"
+    ],
+    [
+      "collection systems",
+      "hệ thống thu gom"
+    ],
+    [
+      "licensed recycling plants",
+      "nhà máy tái chế có giấy phép"
+    ],
+    [
+      "a drop-off point",
+      "điểm thu nhận"
+    ],
+    [
+      "make producers responsible",
+      "buộc nhà sản xuất chịu trách nhiệm"
+    ],
+    [
+      "removes the burden from consumers",
+      "gỡ gánh nặng khỏi người tiêu dùng"
+    ]
+  ]
+}

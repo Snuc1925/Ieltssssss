@@ -1,0 +1,125 @@
+{
+  "questionId": 247,
+  "text": "Many people say that human activity causes climate change. I agree with this view, since the evidence links rising temperatures to emissions from industry and transport, and the speed of the change is hard to explain by natural cycles alone.\n\nTo begin with, scientific evidence links the recent rise in temperatures to human activity. Burning coal, oil and gas and clearing forests release gases that trap heat in the atmosphere, and temperatures have risen alongside emissions since the industrial era began. Natural cycles, such as volcanic activity and changes in the sun's output, operate over thousands of years, so they cannot account for such rapid warming. A greenhouse works in a similar way, which is why these gases are said to warm the planet.\n\nFurthermore, the effects of human activity can be seen in everyday life. Cities full of cars and factories produce far more emissions than rural areas, and the loss of forests removes the trees that would absorb carbon dioxide. Rising sea levels, melting glaciers and more extreme weather have become more frequent in recent decades, which fits the pattern expected from added greenhouse gases. Admittedly, natural factors still influence the climate, but this is not the same as saying that people are not responsible. Recognising human causes is also useful, because it means that people can change the outcome by cutting emissions, protecting forests and investing in clean energy. This practical point matters, since it turns a worrying fact into a reason for action. It also shows that the problem, although serious, is not beyond human control.\n\nIn conclusion, I agree that human activity causes climate change, because the evidence is strong and the speed of the warming points to human sources.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: hoạt động con người gây biến đổi khí hậu — đồng ý",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Lập trường rõ ngay mở bài kèm hai lý do (bằng chứng + tác động nhìn thấy), dùng lại mô hình 'I agree with this view, since…'.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bằng chứng",
+        "think": "Tái dùng ý của đề 185 nhưng không viết thêm về yếu tố tự nhiên ở đây; ví dụ nhà kính.",
+        "refs": [
+          "ID-env-human-cause",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — tác động nhìn thấy + nhượng bộ",
+        "think": "Thành phố nhiều xe và nhà máy phát thải nhiều hơn nông thôn; mất rừng; nước biển dâng, băng tan. Nhượng bộ: yếu tố tự nhiên vẫn có ảnh hưởng nhưng không có nghĩa con người không có trách nhiệm.",
+        "refs": [
+          "ID-env-natural-cycles",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly",
+          "FR-not-same-as"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại lập trường + lý do ngắn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "human activity causes climate change",
+      "hoạt động con người gây biến đổi khí hậu"
+    ],
+    [
+      "emissions from industry and transport",
+      "khí thải từ công nghiệp và giao thông"
+    ],
+    [
+      "hard to explain by natural cycles alone",
+      "khó giải thích chỉ bằng chu kỳ tự nhiên"
+    ],
+    [
+      "in the atmosphere",
+      "trong khí quyển"
+    ],
+    [
+      "changes in the sun's output",
+      "thay đổi năng lượng của mặt trời"
+    ],
+    [
+      "account for such rapid warming",
+      "giải thích sự nóng lên nhanh như vậy"
+    ],
+    [
+      "warm the planet",
+      "làm nóng hành tinh"
+    ],
+    [
+      "seen in everyday life",
+      "thấy được trong đời sống hằng ngày"
+    ],
+    [
+      "produce far more emissions than rural areas",
+      "thải nhiều hơn vùng nông thôn"
+    ],
+    [
+      "the loss of forests",
+      "việc mất rừng"
+    ],
+    [
+      "absorb carbon dioxide",
+      "hấp thụ khí carbon dioxide"
+    ],
+    [
+      "Rising sea levels",
+      "mực nước biển dâng"
+    ],
+    [
+      "melting glaciers",
+      "sông băng tan chảy"
+    ],
+    [
+      "more extreme weather",
+      "thời tiết cực đoan hơn"
+    ],
+    [
+      "fits the pattern expected from",
+      "phù hợp với quy luật dự kiến từ"
+    ],
+    [
+      "added greenhouse gases",
+      "khí nhà kính bổ sung"
+    ],
+    [
+      "not responsible",
+      "không có trách nhiệm"
+    ],
+    [
+      "change the outcome",
+      "thay đổi kết cục"
+    ],
+    [
+      "protecting forests",
+      "bảo vệ rừng"
+    ],
+    [
+      "investing in clean energy",
+      "đầu tư vào năng lượng sạch"
+    ]
+  ]
+}

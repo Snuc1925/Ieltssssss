@@ -1,0 +1,126 @@
+{
+  "questionId": 486,
+  "text": "Opinions are divided as to whether public money should be spent on organic farming or on other priorities such as health and education. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of organic farming argue that it reduces chemical use and protects soil and wildlife. Organic farmers avoid synthetic pesticides and fertilisers, which keeps soil healthy, protects rivers from chemical runoff and supports insects, birds and other wildlife. Many consumers also prefer organic food and are willing to pay more for it, so public support can help farmers to enter a growing market. A farm that rotates crops and uses natural compost, for example, may improve its soil year after year while producing food with fewer chemical residues.\n\nOn the other hand, critics point out that governments have limited funds and many equally urgent responsibilities. Hospitals, schools, housing and welfare all need money now, and organic farming has drawbacks. Yields are usually lower, so more land is needed to produce the same amount of food, and organic products are often more expensive, which makes them hard to afford for poorer families. Spending large sums on one method of farming may therefore bring little benefit compared with spending on public services. A town with overcrowded classrooms, for instance, has more pressing needs than a grant for organic growers. Money spent on health and education also tends to bring benefits that last for many years.\n\nIn conclusion, both views have merit. Overall, I believe that other priorities should receive most of the budget, with modest and targeted support for sustainable farming where the environmental benefits are clear.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi tiêu chính phủ cho nông nghiệp hữu cơ hay ưu tiên khác",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Dùng lại cấu trúc 'limited funds / equally urgent' của đề 498 và 31 cho phe 'ưu tiên khác'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe hữu cơ",
+        "think": "Ít thuốc trừ sâu và phân hoá học nên đất khoẻ, sông ít bị ô nhiễm, động vật hoang dã được bảo vệ; người tiêu dùng sẵn sàng trả nhiều hơn. Ví dụ trang trại luân canh và dùng phân hữu cơ.",
+        "refs": [
+          "ID-env-organic-farming"
+        ]
+      },
+      {
+        "step": "3. Phe ưu tiên khác",
+        "think": "Ngân sách có hạn nên y tế, trường học, nhà ở cần tiền ngay; hữu cơ năng suất thấp, cần nhiều đất, giá cao khó với gia đình nghèo. Ví dụ thị trấn lớp học quá đông.",
+        "refs": [
+          "ID-env-other-priorities",
+          "ID-env-pesticide-con"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phần lớn ngân sách cho ưu tiên khác, hỗ trợ có mục tiêu cho nông nghiệp bền vững khi lợi ích môi trường rõ ràng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-organic-farming"
+    ]
+  },
+  "chunks": [
+    [
+      "public money",
+      "tiền công"
+    ],
+    [
+      "organic farming",
+      "nông nghiệp hữu cơ"
+    ],
+    [
+      "reduces chemical use",
+      "giảm dùng hoá chất"
+    ],
+    [
+      "protects soil and wildlife",
+      "bảo vệ đất và động vật hoang dã"
+    ],
+    [
+      "synthetic pesticides and fertilisers",
+      "thuốc trừ sâu và phân bón tổng hợp"
+    ],
+    [
+      "keeps soil healthy",
+      "giữ đất khoẻ mạnh"
+    ],
+    [
+      "chemical runoff",
+      "nước thải hoá chất chảy tràn"
+    ],
+    [
+      "willing to pay more",
+      "sẵn sàng trả nhiều hơn"
+    ],
+    [
+      "a growing market",
+      "thị trường đang tăng trưởng"
+    ],
+    [
+      "rotates crops",
+      "luân canh cây trồng"
+    ],
+    [
+      "natural compost",
+      "phân hữu cơ tự nhiên"
+    ],
+    [
+      "fewer chemical residues",
+      "ít dư lượng hoá chất hơn"
+    ],
+    [
+      "Yields are usually lower",
+      "năng suất thường thấp hơn"
+    ],
+    [
+      "more land is needed",
+      "cần nhiều đất hơn"
+    ],
+    [
+      "hard to afford",
+      "khó mua nổi"
+    ],
+    [
+      "bring little benefit",
+      "mang lại ít lợi ích"
+    ],
+    [
+      "public services",
+      "dịch vụ công"
+    ],
+    [
+      "overcrowded classrooms",
+      "lớp học quá đông"
+    ],
+    [
+      "modest and targeted support",
+      "hỗ trợ khiêm tốn và có mục tiêu"
+    ],
+    [
+      "sustainable farming",
+      "nông nghiệp bền vững"
+    ]
+  ]
+}

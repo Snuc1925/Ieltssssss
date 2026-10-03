@@ -1,0 +1,128 @@
+{
+  "questionId": 92,
+  "text": "Climate change has made many people ask who should be responsible for reducing carbon emissions: individuals or society as a whole. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that everyday personal choices add up to a large environmental effect. Millions of households decide how they travel, how they heat their homes and what they eat, and flying less, eating less meat and using energy-saving appliances can cut a family's carbon footprint significantly. Consumers who choose low-carbon products also push companies to change, since firms follow demand. Without changed habits, even strong laws are hard to enforce. A commuter who swaps a daily car journey for a bicycle, for example, avoids a noticeable amount of exhaust gas each year, and the savings multiply when a whole workplace joins in.\n\nOn the other hand, advocates of collective action point out that individuals alone cannot solve problems that are largely structural. Most emissions come from power stations, factories and transport systems that people cannot redesign themselves, and a customer cannot choose clean electricity if the grid still burns coal. Governments can set rules that apply to everyone, such as carbon taxes and efficiency standards, and only they can build the public transport and renewable power networks that make green choices practical. A resident of a town with no reliable buses or trains, for instance, has little choice but to drive.\n\nIn conclusion, both views have merit. Personally, I believe that governments should take the lead, since they control the rules and the infrastructure, while individuals make policies work through their daily decisions.",
+  "analysis": {
+    "type_vi": "Discuss both views: giảm dấu chân carbon — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Dùng lại khung hai quan điểm; câu mở nhấn 'carbon emissions' để đúng từ khoá.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Thói quen: bay ít hơn, ăn ít thịt, đồ gia dụng tiết kiệm điện; nối ý với người tiêu dùng thúc ép doanh nghiệp.",
+        "refs": [
+          "ID-env-ind-habits",
+          "EX-env-cyclist"
+        ]
+      },
+      {
+        "step": "3. Tập thể",
+        "think": "Phát thải chủ yếu từ nhà máy điện và giao thông; thuế carbon, tiêu chuẩn hiệu suất, hạ tầng.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "ID-env-gov-infrastructure",
+          "EX-env-no-buses"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ dẫn đầu, cá nhân thực hiện hằng ngày.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "reducing carbon emissions",
+      "giảm phát thải carbon"
+    ],
+    [
+      "society as a whole",
+      "toàn xã hội"
+    ],
+    [
+      "supporters of personal responsibility",
+      "người ủng hộ trách nhiệm cá nhân"
+    ],
+    [
+      "energy-saving appliances",
+      "thiết bị tiết kiệm điện"
+    ],
+    [
+      "cut a family's carbon footprint",
+      "giảm dấu chân carbon của một gia đình"
+    ],
+    [
+      "low-carbon products",
+      "sản phẩm ít carbon"
+    ],
+    [
+      "exhaust gas",
+      "khí thải"
+    ],
+    [
+      "the savings multiply",
+      "lượng tiết kiệm nhân lên"
+    ],
+    [
+      "advocates of collective action",
+      "người ủng hộ hành động tập thể"
+    ],
+    [
+      "power stations",
+      "nhà máy điện"
+    ],
+    [
+      "redesign themselves",
+      "tự thiết kế lại"
+    ],
+    [
+      "clean electricity",
+      "điện sạch"
+    ],
+    [
+      "the grid still burns coal",
+      "lưới điện vẫn đốt than"
+    ],
+    [
+      "carbon taxes",
+      "thuế carbon"
+    ],
+    [
+      "efficiency standards",
+      "tiêu chuẩn hiệu suất"
+    ],
+    [
+      "renewable power networks",
+      "mạng lưới điện tái tạo"
+    ],
+    [
+      "little choice but to drive",
+      "không có lựa chọn nào ngoài lái xe"
+    ],
+    [
+      "make policies work",
+      "làm chính sách phát huy tác dụng"
+    ],
+    [
+      "daily decisions",
+      "quyết định hằng ngày"
+    ],
+    [
+      "control the rules and the infrastructure",
+      "nắm luật lệ và hạ tầng"
+    ]
+  ]
+}

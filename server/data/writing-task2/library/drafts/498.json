@@ -1,0 +1,126 @@
+{
+  "questionId": 498,
+  "text": "Opinions are divided as to whether public money should be directed mainly at climate change or at other priorities such as health and education. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of other priorities argue that governments have limited funds and many equally urgent responsibilities. Hospitals, schools, housing and welfare all need money now, and a patient waiting for treatment or a child in an overcrowded classroom cannot wait for the long-term benefits of climate policy. In poorer countries especially, spending heavily on emissions cuts may seem a luxury when basic needs are unmet. A town with no emergency hospital, for example, has more pressing needs than a new solar farm.\n\nOn the other hand, advocates of climate spending point out that ignoring the environment is expensive in the long run. Floods, heatwaves and droughts destroy homes and farmland, and the cost of repairing the damage later is usually far higher than the cost of preventing it. Climate spending can also create growth and jobs in renewable energy, insulation and public transport, and it reduces illness caused by air pollution, so it supports health as well as the environment. A government that builds flood defences today, for instance, saves far more than it spends when a storm arrives. Delay is therefore a costly choice, because every year without action locks in more emissions that later governments must pay to remove.\n\nTo sum up, both positions have their merits; nevertheless, I believe that climate action deserves a substantial share of spending, because its costs rise the longer it is delayed, while essential services must still be protected.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi tiêu chính phủ cho biến đổi khí hậu hay ưu tiên khác",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Khung hai quan điểm; đối ứng với đề 31 (giáo dục vs ưu tiên khác) nên dùng lại cấu trúc 'limited funds / equally urgent'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ưu tiên khác",
+        "think": "Ngân sách có hạn: bệnh viện, trường học, nhà ở. Ví dụ thị trấn không có bệnh viện cấp cứu cần hơn trang trại điện mặt trời.",
+        "refs": [
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "3. Chi cho khí hậu",
+        "think": "Bỏ qua môi trường đắt về lâu dài; việc làm; giảm bệnh do ô nhiễm. Ví dụ đê chống lũ.",
+        "refs": [
+          "ID-env-econ-longterm",
+          "ID-env-green-jobs"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Khí hậu xứng đáng một phần đáng kể vì chi phí tăng khi trì hoãn, nhưng dịch vụ thiết yếu vẫn phải được bảo vệ.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-other-priorities"
+    ]
+  },
+  "chunks": [
+    [
+      "directed mainly at climate change",
+      "chủ yếu dành cho biến đổi khí hậu"
+    ],
+    [
+      "other priorities",
+      "các ưu tiên khác"
+    ],
+    [
+      "limited funds",
+      "nguồn lực hạn chế"
+    ],
+    [
+      "equally urgent responsibilities",
+      "trách nhiệm cấp bách ngang nhau"
+    ],
+    [
+      "need money now",
+      "cần tiền ngay bây giờ"
+    ],
+    [
+      "an overcrowded classroom",
+      "lớp học quá đông"
+    ],
+    [
+      "cannot wait for",
+      "không thể chờ"
+    ],
+    [
+      "long-term benefits",
+      "lợi ích dài hạn"
+    ],
+    [
+      "spending heavily on emissions cuts",
+      "chi nhiều cho cắt giảm khí thải"
+    ],
+    [
+      "seem a luxury",
+      "có vẻ xa xỉ"
+    ],
+    [
+      "basic needs are unmet",
+      "nhu cầu cơ bản chưa được đáp ứng"
+    ],
+    [
+      "more pressing needs",
+      "nhu cầu cấp bách hơn"
+    ],
+    [
+      "a new solar farm",
+      "trang trại điện mặt trời mới"
+    ],
+    [
+      "advocates of climate spending",
+      "người ủng hộ chi cho khí hậu"
+    ],
+    [
+      "destroy homes and farmland",
+      "phá nhà cửa và đất canh tác"
+    ],
+    [
+      "repairing the damage later",
+      "sửa chữa thiệt hại sau này"
+    ],
+    [
+      "illness caused by air pollution",
+      "bệnh do ô nhiễm không khí"
+    ],
+    [
+      "builds flood defences",
+      "xây công trình chống lũ"
+    ],
+    [
+      "costs rise the longer it is delayed",
+      "chi phí tăng khi càng trì hoãn"
+    ],
+    [
+      "a substantial share of spending",
+      "phần chi tiêu đáng kể"
+    ]
+  ]
+}

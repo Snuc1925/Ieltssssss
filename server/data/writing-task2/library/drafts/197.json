@@ -1,0 +1,125 @@
+{
+  "questionId": 197,
+  "text": "Many countries are shifting from coal, oil and gas towards solar, wind and water power. This essay will outline two principal benefits of focusing on renewable resources: a cleaner and healthier environment, and greater energy security and economic opportunity.\n\nFirst and foremost, renewable energy improves the environment and public health. Solar panels and wind turbines produce electricity without burning fuel, so they release almost no greenhouse gases and none of the smoke that harms people's lungs in crowded cities. As a result, the air is cleaner, hospitals treat fewer patients with breathing problems, and the country contributes to the effort to slow climate change. Denmark, for example, generates a large share of its electricity from wind, which shows that a small country can reduce its reliance on fossil fuels. A city that replaces a coal power station with wind and solar farms may notice clearer skies within a few years.\n\nIn addition, renewable resources make a country more secure and more prosperous. Nations that buy oil and gas from abroad are exposed to sudden price rises and political disputes, whereas home-grown wind and solar power gives them a stable and secure supply. The sector also creates employment in manufacturing, installation and maintenance, and countries that develop expertise early can sell equipment and skills to others. Because the sun and wind will not run out, these benefits last for future generations. Although renewable power needs storage and flexible grids, these costs are falling as technology improves.\n\nTo sum up, focusing on renewable resources brings clear benefits to a country, above all a cleaner environment and a more secure economy. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits (A/D): lợi ích cho một quốc gia tập trung vào tài nguyên tái tạo — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits' (như đề 157, 277)",
+        "think": "Đề chỉ hỏi lợi ích: báo trước hai lợi ích ở mở bài (môi trường + sức khoẻ; an ninh + kinh tế) rồi mỗi thân bài một lợi ích. Không nêu nhược điểm, chỉ một nhượng bộ ngắn cuối thân bài 2.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Tái dùng ý sạch hơn và ví dụ thành phố đổi nhà máy than sang điện gió; thêm ví dụ quốc gia thật (Đan Mạch) vì đề yêu cầu ví dụ.",
+        "refs": [
+          "ID-env-renew-clean",
+          "EX-env-coal-to-wind-city"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2",
+        "think": "An ninh năng lượng và việc làm; tài nguyên không cạn nên lợi ích kéo dài cho thế hệ sau.",
+        "refs": [
+          "ID-env-energy-security",
+          "ID-env-renew-jobs",
+          "ID-env-intermittency"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm cuối 'deserves sustained public support' lặp từ các bài benefits trước.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "shifting from coal, oil and gas",
+      "chuyển từ than, dầu, khí"
+    ],
+    [
+      "renewable resources",
+      "tài nguyên tái tạo"
+    ],
+    [
+      "a cleaner and healthier environment",
+      "môi trường sạch và lành mạnh hơn"
+    ],
+    [
+      "greater energy security",
+      "an ninh năng lượng cao hơn"
+    ],
+    [
+      "economic opportunity",
+      "cơ hội kinh tế"
+    ],
+    [
+      "improves the environment and public health",
+      "cải thiện môi trường và sức khoẻ cộng đồng"
+    ],
+    [
+      "contributes to the effort to slow climate change",
+      "góp phần làm chậm biến đổi khí hậu"
+    ],
+    [
+      "generates a large share of its electricity from wind",
+      "tạo ra phần lớn điện từ gió"
+    ],
+    [
+      "reduce its reliance on fossil fuels",
+      "giảm phụ thuộc vào nhiên liệu hoá thạch"
+    ],
+    [
+      "clearer skies",
+      "bầu trời trong hơn"
+    ],
+    [
+      "more secure and more prosperous",
+      "an toàn và thịnh vượng hơn"
+    ],
+    [
+      "home-grown wind and solar power",
+      "điện gió và mặt trời sản xuất trong nước"
+    ],
+    [
+      "develop expertise early",
+      "phát triển chuyên môn sớm"
+    ],
+    [
+      "sell equipment and skills to others",
+      "bán thiết bị và kỹ năng cho nước khác"
+    ],
+    [
+      "last for future generations",
+      "kéo dài cho các thế hệ sau"
+    ],
+    [
+      "storage and flexible grids",
+      "lưu trữ và lưới điện linh hoạt"
+    ],
+    [
+      "costs are falling",
+      "chi phí đang giảm"
+    ],
+    [
+      "a more secure economy",
+      "nền kinh tế an toàn hơn"
+    ],
+    [
+      "sustained public support",
+      "hỗ trợ công lâu dài"
+    ],
+    [
+      "clear benefits",
+      "lợi ích rõ ràng"
+    ]
+  ]
+}

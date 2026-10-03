@@ -1,0 +1,129 @@
+{
+  "questionId": 393,
+  "text": "Opinions are divided as to whether governments should spend more on adapting to climate change or on trying to reduce it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of adaptation argue that it protects people from harm that is already happening. Sea walls, flood defences, drought-resistant crops and early warning systems save lives and homes within a few years, whereas cuts in emissions take decades to change the climate. Adaptation also helps countries that produce little pollution but suffer its effects, such as small island nations. A coastal town that builds a flood barrier, for example, protects its residents from the next storm, whatever the world does about emissions, and the investment begins to pay back as soon as the barrier is finished.\n\nOn the other hand, advocates of mitigation point out that adaptation alone only treats the symptoms. Cutting emissions at their source, through renewable energy, efficient buildings and cleaner transport, reduces the scale of the problem, whereas defences become more expensive and less effective as temperatures rise. Prevention is also far cheaper than dealing with the consequences later, and clean technology can create growth and jobs. A country that relies only on higher sea walls, for instance, must keep rebuilding them as the sea continues to rise. Moreover, long-term projects such as grid upgrades take many years, so delay would make the task harder and more costly.\n\nTo sum up, both positions have their merits; nevertheless, I believe that mitigation should receive the larger share, since it tackles the cause, although vulnerable communities must still be protected through adaptation.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho thích ứng hay giảm thiểu biến đổi khí hậu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Khung hai quan điểm; hai khái niệm cần giải thích ngắn trong mở bài để người đọc hiểu (thích ứng = đối phó với tác hại, giảm thiểu = giảm nguyên nhân).",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Thích ứng",
+        "think": "Bảo vệ ngay khỏi tác hại đang diễn ra; đê, cảnh báo sớm; giúp quốc gia ít gây ô nhiễm nhưng chịu hậu quả.",
+        "refs": [
+          "ID-env-adaptation",
+          "EX-env-flood-barrier"
+        ]
+      },
+      {
+        "step": "3. Giảm thiểu",
+        "think": "Thích ứng chỉ chữa triệu chứng; cắt phát thải tại nguồn rẻ hơn xử lý hậu quả; công nghệ sạch tạo việc làm.",
+        "refs": [
+          "ID-env-mitigation",
+          "ID-env-green-jobs"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm thiểu nhận phần lớn hơn nhưng cộng đồng dễ tổn thương vẫn cần thích ứng.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-adaptation",
+      "ID-env-mitigation",
+      "EX-env-flood-barrier"
+    ]
+  },
+  "chunks": [
+    [
+      "adapting to climate change",
+      "thích ứng với biến đổi khí hậu"
+    ],
+    [
+      "reduce it",
+      "giảm nó"
+    ],
+    [
+      "supporters of adaptation",
+      "người ủng hộ thích ứng"
+    ],
+    [
+      "harm that is already happening",
+      "tác hại đã đang xảy ra"
+    ],
+    [
+      "Sea walls",
+      "đê biển"
+    ],
+    [
+      "flood defences",
+      "công trình chống lũ"
+    ],
+    [
+      "drought-resistant crops",
+      "cây trồng chịu hạn"
+    ],
+    [
+      "early warning systems",
+      "hệ thống cảnh báo sớm"
+    ],
+    [
+      "save lives and homes",
+      "cứu mạng sống và nhà cửa"
+    ],
+    [
+      "take decades to change the climate",
+      "mất hàng chục năm để thay đổi khí hậu"
+    ],
+    [
+      "small island nations",
+      "các quốc đảo nhỏ"
+    ],
+    [
+      "a flood barrier",
+      "rào chắn lũ"
+    ],
+    [
+      "pay back",
+      "đem lại lợi ích hoàn vốn"
+    ],
+    [
+      "advocates of mitigation",
+      "người ủng hộ giảm thiểu"
+    ],
+    [
+      "only treats the symptoms",
+      "chỉ chữa triệu chứng"
+    ],
+    [
+      "at their source",
+      "tại nguồn"
+    ],
+    [
+      "efficient buildings",
+      "toà nhà tiết kiệm năng lượng"
+    ],
+    [
+      "reduces the scale of the problem",
+      "giảm quy mô vấn đề"
+    ],
+    [
+      "tackles the cause",
+      "giải quyết nguyên nhân"
+    ],
+    [
+      "vulnerable communities",
+      "cộng đồng dễ tổn thương"
+    ]
+  ]
+}

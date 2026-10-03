@@ -1,0 +1,128 @@
+{
+  "questionId": 437,
+  "text": "Plastic waste, overfishing and rising temperatures are damaging the world's seas, and some people believe that ocean conservation should be a global priority. I largely agree, since the ocean is shared by all countries and supports human life, although other urgent problems must not be neglected.\n\nTo begin with, the ocean is a shared resource that no single country can protect alone. Fish stocks, currents and pollution cross borders, so action by one nation can be undone by another. Fishing fleets that empty a region's waters, for example, leave coastal communities in other countries with fewer fish. Only international agreements, shared monitoring and common rules can prevent such harm. A global priority also encourages richer countries to help poorer ones to protect their coastlines.\n\nFurthermore, the sea provides food for billions of people and helps to regulate the climate and produce oxygen. If marine ecosystems collapse, millions of people who depend on fishing and coastal tourism would lose their income and their main source of protein. Healthy oceans also absorb large amounts of carbon dioxide, which slows climate change. However, ocean conservation cannot be the only priority. Governments also face poverty, health care and education, and enforcement across huge areas of open water is difficult. Realistic goals, such as protected zones, catch limits and stronger rules on plastic, together with funding for poorer countries, would make conservation both effective and fair. Success in a few well-chosen areas could encourage other countries to follow.\n\nIn conclusion, ocean conservation should be a global priority to a large extent, because the sea is shared and essential for human life, provided that it is balanced with other urgent needs.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): bảo tồn đại dương nên là ưu tiên toàn cầu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu ba vấn đề cụ thể (nhựa, đánh bắt quá mức, nhiệt độ tăng) rồi largely agree + lý do ngắn + giới hạn.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tài nguyên chung",
+        "think": "Đàn cá, dòng hải lưu, ô nhiễm vượt biên giới nên hành động của một nước bị nước khác làm mất tác dụng. Ví dụ đội tàu khai thác cạn vùng biển làm cộng đồng nước khác ít cá. Chỉ có thoả thuận quốc tế mới ngăn được.",
+        "refs": [
+          "ID-env-ocean-global",
+          "EX-env-fish-stocks",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — sinh kế và khí hậu + giới hạn",
+        "think": "Biển cung cấp thức ăn cho hàng tỷ người, điều hoà khí hậu, sản sinh oxy, hấp thụ CO2. Giới hạn: nghèo đói, y tế, giáo dục cũng cấp bách; thực thi trên vùng biển rộng khó; mục tiêu thực tế (khu bảo vệ, hạn ngạch đánh bắt, luật về nhựa) kèm tài trợ cho nước nghèo.",
+        "refs": [
+          "ID-env-ocean-global",
+          "ID-env-other-priorities",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu tiên toàn cầu ở mức độ lớn, cân bằng với nhu cầu cấp bách khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-ocean-global",
+      "EX-env-fish-stocks"
+    ]
+  },
+  "chunks": [
+    [
+      "Plastic waste, overfishing and rising temperatures",
+      "rác nhựa, đánh bắt quá mức và nhiệt độ tăng"
+    ],
+    [
+      "damaging the world's seas",
+      "làm tổn hại biển của thế giới"
+    ],
+    [
+      "ocean conservation",
+      "bảo tồn đại dương"
+    ],
+    [
+      "a global priority",
+      "ưu tiên toàn cầu"
+    ],
+    [
+      "shared by all countries",
+      "được mọi quốc gia chia sẻ"
+    ],
+    [
+      "supports human life",
+      "nuôi dưỡng sự sống con người"
+    ],
+    [
+      "a shared resource",
+      "tài nguyên chung"
+    ],
+    [
+      "no single country can protect alone",
+      "không quốc gia nào bảo vệ một mình được"
+    ],
+    [
+      "Fish stocks, currents and pollution cross borders",
+      "đàn cá, dòng hải lưu và ô nhiễm vượt biên giới"
+    ],
+    [
+      "undone by another",
+      "bị nước khác làm mất tác dụng"
+    ],
+    [
+      "empty a region's waters",
+      "khai thác cạn vùng biển"
+    ],
+    [
+      "international agreements",
+      "thoả thuận quốc tế"
+    ],
+    [
+      "common rules",
+      "quy tắc chung"
+    ],
+    [
+      "protect their coastlines",
+      "bảo vệ bờ biển của họ"
+    ],
+    [
+      "regulate the climate and produce oxygen",
+      "điều hoà khí hậu và sản sinh oxy"
+    ],
+    [
+      "marine ecosystems collapse",
+      "hệ sinh thái biển sụp đổ"
+    ],
+    [
+      "main source of protein",
+      "nguồn đạm chính"
+    ],
+    [
+      "absorb large amounts of carbon dioxide",
+      "hấp thụ lượng lớn khí CO2"
+    ],
+    [
+      "catch limits",
+      "hạn ngạch đánh bắt"
+    ],
+    [
+      "protected zones",
+      "khu bảo vệ"
+    ]
+  ]
+}

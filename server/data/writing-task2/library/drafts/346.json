@@ -1,0 +1,124 @@
+{
+  "questionId": 346,
+  "text": "Many products, from phones to cosmetics, arrive in boxes that are larger than the item and filled with plastic, paper and foam. I agree that much product packaging is wasteful and unnecessary, although some of it has a genuine purpose.\n\nTo begin with, a great deal of packaging exists mainly for marketing rather than protection. Attractive boxes, extra layers and oversized containers make products look more valuable, but they are discarded as soon as the item is opened. Online shopping adds more waste, as a small object may be sent in a large box filled with padding. A small bottle of perfume inside a box, a plastic case and a wrapping film, for example, uses far more material than the product needs. When millions of items are sold, this excess becomes a mountain of rubbish that councils must collect and dispose of.\n\nFurthermore, this extra material has real costs for the environment. Making packaging consumes energy, water and raw materials, and much of it ends up in landfill or is burned, because mixed materials are hard to recycle. Larger boxes also take up more space in lorries, so more trips are needed to deliver the same goods. However, some packaging is necessary: fragile items such as glass or electronics need protection, and safe packaging prevents damage that would waste the product itself. The sensible answer is therefore not to abolish packaging but to design it better, using the smallest suitable size and materials that can be recycled. Governments could encourage this through standards and by making producers pay for the waste they create.\n\nIn conclusion, I agree that much product packaging is wasteful and unnecessary, but with better design and clear rules the problem can be reduced.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bao bì sản phẩm lãng phí và không cần thiết (góc khác đề 124: hàng điện tử, mỹ phẩm, giao hàng online)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Đề 346 gần giống 124 nên đổi phạm vi: sản phẩm tiêu dùng (điện thoại, mỹ phẩm, hàng online) thay vì thực phẩm, để không lặp ví dụ.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bao bì phục vụ tiếp thị",
+        "think": "Hộp đẹp, nhiều lớp, hộp quá khổ; mua hàng online càng thêm rác. Ví dụ chai nước hoa nhỏ trong hộp, vỏ nhựa và màng bọc.",
+        "refs": [
+          "ID-env-packaging-excess",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — chi phí môi trường + nhượng bộ",
+        "think": "Sản xuất tốn năng lượng, nước, nguyên liệu; vật liệu hỗn hợp khó tái chế; hộp lớn khiến xe tải cần thêm chuyến. Nhượng bộ: hàng dễ vỡ cần bảo vệ; giải pháp là thiết kế tốt hơn và buộc nhà sản xuất trả phí.",
+        "refs": [
+          "ID-env-packaging-protects",
+          "ID-env-eco-design",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, nhưng thiết kế tốt và luật rõ ràng có thể giảm vấn đề.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "from phones to cosmetics",
+      "từ điện thoại đến mỹ phẩm"
+    ],
+    [
+      "larger than the item",
+      "lớn hơn món hàng"
+    ],
+    [
+      "filled with plastic, paper and foam",
+      "chứa đầy nhựa, giấy và xốp"
+    ],
+    [
+      "wasteful and unnecessary",
+      "lãng phí và không cần thiết"
+    ],
+    [
+      "a genuine purpose",
+      "mục đích thực sự"
+    ],
+    [
+      "a great deal of packaging",
+      "rất nhiều bao bì"
+    ],
+    [
+      "Attractive boxes",
+      "hộp bắt mắt"
+    ],
+    [
+      "oversized containers",
+      "hộp quá khổ"
+    ],
+    [
+      "look more valuable",
+      "trông có giá trị hơn"
+    ],
+    [
+      "discarded as soon as the item is opened",
+      "bị bỏ ngay khi mở hàng"
+    ],
+    [
+      "Online shopping adds more waste",
+      "mua sắm trực tuyến thêm nhiều rác"
+    ],
+    [
+      "uses far more material than the product needs",
+      "dùng nhiều vật liệu hơn sản phẩm cần"
+    ],
+    [
+      "a mountain of rubbish",
+      "núi rác"
+    ],
+    [
+      "ends up in landfill or is burned",
+      "kết thúc ở bãi chôn lấp hoặc bị đốt"
+    ],
+    [
+      "hard to recycle",
+      "khó tái chế"
+    ],
+    [
+      "take up more space in lorries",
+      "chiếm nhiều chỗ trong xe tải"
+    ],
+    [
+      "fragile items",
+      "hàng dễ vỡ"
+    ],
+    [
+      "the smallest suitable size",
+      "kích cỡ nhỏ nhất phù hợp"
+    ],
+    [
+      "design it better",
+      "thiết kế tốt hơn"
+    ],
+    [
+      "pay for the waste they create",
+      "trả tiền cho rác họ tạo ra"
+    ]
+  ]
+}

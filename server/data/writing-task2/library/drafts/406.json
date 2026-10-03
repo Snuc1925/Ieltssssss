@@ -1,0 +1,130 @@
+{
+  "questionId": 406,
+  "text": "Cheap clothes that change with every season are available in almost every high street, and many people feel that fast fashion harms the environment. I agree with this view, since the industry encourages overconsumption and creates large amounts of waste and pollution.\n\nTo begin with, fast fashion encourages people to buy more clothes than they need. Cheap, quickly changing styles lead to overproduction, high water and energy use, synthetic fibres that release microplastics, and large amounts of discarded clothing. A cheap dress that is worn twice and then thrown away, for example, wastes the water and energy used to make it. Producing cotton uses a great deal of water, and dyeing fabrics can pollute rivers if factories are poorly regulated. Because clothes are sold at very low prices, shoppers treat them as disposable, and much of what is thrown away ends up in landfill or is burned.\n\nFurthermore, the damage is increased by the speed and scale of the industry. Garments are made far from where they are sold and transported across the world, which adds emissions, and many are poorly made so that they fall apart after a few washes. Admittedly, the fashion industry provides jobs, and affordable clothes are valuable for families on low incomes. However, these benefits do not require such rapid turnover. Consumers can buy fewer, better-made items, choose second-hand clothes and repair what they own, while governments can require companies to take responsibility for waste and for pollution in their supply chains.\n\nIn conclusion, I agree that fast fashion harms the environment, because it drives overconsumption and waste, although changes in shopping habits and stronger regulation could reduce the damage.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: thời trang nhanh gây hại môi trường — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu hình ảnh quen thuộc (quần áo rẻ đổi theo mùa ở mọi phố) rồi agree + lý do (tiêu thụ quá mức, rác và ô nhiễm).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — mua nhiều hơn cần",
+        "think": "Kiểu dáng rẻ và thay đổi nhanh gây sản xuất thừa, tốn nước và năng lượng, sợi tổng hợp thải vi nhựa, quần áo bị vứt nhiều. Ví dụ chiếc váy rẻ mặc hai lần rồi bỏ lãng phí nước và năng lượng.",
+        "refs": [
+          "ID-env-fast-fashion",
+          "EX-env-worn-twice",
+          "ID-env-product-lifespan",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — quy mô và tốc độ + nhượng bộ",
+        "think": "Quần áo làm ở xa nơi bán, vận chuyển khắp thế giới; chất lượng kém nên nhanh hỏng. Nhượng bộ: việc làm và quần áo giá phải chăng; giải pháp: mua ít hơn, đồ cũ, sửa chữa; chính phủ buộc công ty chịu trách nhiệm.",
+        "refs": [
+          "ID-env-diy-repair",
+          "ID-env-eco-design",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, nhấn mạnh thay đổi thói quen và quy định mạnh hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-fast-fashion",
+      "EX-env-worn-twice"
+    ]
+  },
+  "chunks": [
+    [
+      "Cheap clothes that change with every season",
+      "quần áo rẻ thay đổi theo mỗi mùa"
+    ],
+    [
+      "fast fashion harms the environment",
+      "thời trang nhanh gây hại môi trường"
+    ],
+    [
+      "encourages overconsumption",
+      "khuyến khích tiêu dùng quá mức"
+    ],
+    [
+      "buy more clothes than they need",
+      "mua nhiều quần áo hơn cần"
+    ],
+    [
+      "Cheap, quickly changing styles",
+      "kiểu dáng rẻ và thay đổi nhanh"
+    ],
+    [
+      "overproduction",
+      "sản xuất thừa"
+    ],
+    [
+      "high water and energy use",
+      "tiêu tốn nhiều nước và năng lượng"
+    ],
+    [
+      "synthetic fibres that release microplastics",
+      "sợi tổng hợp thải ra vi nhựa"
+    ],
+    [
+      "discarded clothing",
+      "quần áo bị vứt bỏ"
+    ],
+    [
+      "worn twice and then thrown away",
+      "mặc hai lần rồi vứt"
+    ],
+    [
+      "dyeing fabrics can pollute rivers",
+      "nhuộm vải có thể làm ô nhiễm sông"
+    ],
+    [
+      "treat them as disposable",
+      "coi chúng như đồ dùng một lần"
+    ],
+    [
+      "ends up in landfill",
+      "kết thúc ở bãi chôn lấp"
+    ],
+    [
+      "the speed and scale of the industry",
+      "tốc độ và quy mô của ngành"
+    ],
+    [
+      "transported across the world",
+      "vận chuyển khắp thế giới"
+    ],
+    [
+      "fall apart after a few washes",
+      "rách sau vài lần giặt"
+    ],
+    [
+      "affordable clothes",
+      "quần áo giá phải chăng"
+    ],
+    [
+      "rapid turnover",
+      "vòng quay nhanh"
+    ],
+    [
+      "second-hand clothes",
+      "quần áo cũ"
+    ],
+    [
+      "pollution in their supply chains",
+      "ô nhiễm trong chuỗi cung ứng"
+    ]
+  ]
+}

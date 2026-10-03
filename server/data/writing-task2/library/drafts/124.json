@@ -1,0 +1,128 @@
+{
+  "questionId": 124,
+  "text": "Fruit sealed in plastic trays, snacks wrapped twice and online parcels filled with extra padding are familiar sights, and many people feel that food packaging is too wasteful. I largely agree, although some packaging does protect food.\n\nTo begin with, much food packaging is excessive. Products are often wrapped in several layers, such as a box, a plastic tray and a film, when one layer would be enough, and large boxes are used for small items. Much packaging exists for marketing rather than protection, and most of this material is thrown away within minutes. A large share cannot be recycled because it mixes different plastics. A cucumber wrapped in plastic, for example, already has its own natural skin, so the extra layer adds waste without adding protection. Over a year, such small choices add up to huge quantities of rubbish.\n\nFurthermore, wasteful packaging creates avoidable pollution and costs. Producing and transporting packaging uses energy and raw materials, and litter from takeaway containers pollutes streets and waterways. Consumers pay for the packaging in the price, and councils pay to collect it. However, some packaging is necessary. It protects food from damage, keeps it hygienic and can extend its shelf life, which reduces food waste. Companies should therefore keep protective packaging but cut the unnecessary extras, and use materials that are easier to recycle or reuse. Refill stations and loose products, for instance, allow shoppers to buy only what they need in their own containers, which saves both money and materials.\n\nIn conclusion, I largely agree that food packaging is too wasteful, since much of it is unnecessary, although essential protection for food should be kept.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bao bì thực phẩm quá lãng phí — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài bằng ba hình ảnh cụ thể (hoa quả bọc khay nhựa, bánh bọc hai lớp, bưu kiện độn thêm) rồi 'largely agree' vì nhượng bộ ngắn.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bao bì thừa",
+        "think": "Nhiều lớp bọc, hộp lớn cho đồ nhỏ, chủ yếu cho tiếp thị; nhiều phần không tái chế được vì trộn nhựa. Ví dụ quả dưa chuột có vỏ tự nhiên.",
+        "refs": [
+          "ID-env-packaging-excess",
+          "EX-env-wrapped-cucumber",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — ô nhiễm và chi phí + nhượng bộ",
+        "think": "Sản xuất và vận chuyển bao bì tốn năng lượng; rác từ hộp mang đi; người mua trả tiền qua giá. Nhượng bộ: bao bì cần thiết bảo vệ thực phẩm, giảm lãng phí; giải pháp bán rời, điểm nạp lại.",
+        "refs": [
+          "ID-env-packaging-protects",
+          "ID-env-eco-design",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; giữ lớp bảo vệ cần thiết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-packaging-excess",
+      "ID-env-packaging-protects"
+    ]
+  },
+  "chunks": [
+    [
+      "Fruit sealed in plastic trays",
+      "hoa quả đóng trong khay nhựa"
+    ],
+    [
+      "wrapped twice",
+      "bọc hai lần"
+    ],
+    [
+      "extra padding",
+      "vật liệu độn thừa"
+    ],
+    [
+      "too wasteful",
+      "quá lãng phí"
+    ],
+    [
+      "much food packaging is excessive",
+      "nhiều bao bì thực phẩm là thừa"
+    ],
+    [
+      "several layers",
+      "nhiều lớp"
+    ],
+    [
+      "when one layer would be enough",
+      "khi một lớp là đủ"
+    ],
+    [
+      "exists for marketing rather than protection",
+      "tồn tại vì tiếp thị chứ không để bảo vệ"
+    ],
+    [
+      "thrown away within minutes",
+      "bị vứt trong vài phút"
+    ],
+    [
+      "cannot be recycled",
+      "không thể tái chế"
+    ],
+    [
+      "mixes different plastics",
+      "trộn nhiều loại nhựa"
+    ],
+    [
+      "its own natural skin",
+      "lớp vỏ tự nhiên của nó"
+    ],
+    [
+      "add up to huge quantities of rubbish",
+      "cộng lại thành lượng rác khổng lồ"
+    ],
+    [
+      "avoidable pollution and costs",
+      "ô nhiễm và chi phí có thể tránh"
+    ],
+    [
+      "uses energy and raw materials",
+      "tốn năng lượng và nguyên liệu"
+    ],
+    [
+      "pollutes streets and waterways",
+      "làm ô nhiễm đường phố và đường nước"
+    ],
+    [
+      "extend its shelf life",
+      "kéo dài hạn sử dụng"
+    ],
+    [
+      "unnecessary extras",
+      "phần thừa không cần thiết"
+    ],
+    [
+      "Refill stations",
+      "điểm nạp lại"
+    ],
+    [
+      "in their own containers",
+      "trong hộp của chính họ"
+    ]
+  ]
+}

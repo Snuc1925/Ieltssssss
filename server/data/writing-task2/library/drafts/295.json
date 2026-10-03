@@ -1,0 +1,125 @@
+{
+  "questionId": 295,
+  "text": "Agriculture is often seen as an old-fashioned sector, yet it remains the foundation of every economy. This essay will outline two principal benefits for a country that focuses on agriculture: food security and a stable rural economy.\n\nFirst and foremost, a strong farming sector protects a country's food security. A country that grows its own food depends less on imports and is less exposed to sudden price rises or supply problems on the world market. Reliable harvests also keep food affordable for ordinary families, which reduces hunger and protects public health. Countries that support their farmers during bad years, for example, can avoid shortages and keep prices stable. A nation that relies heavily on imported grain, in contrast, can find itself in difficulty when exporters restrict sales.\n\nIn addition, agriculture supports employment and rural stability. Farming, food processing, transport and equipment sales provide jobs and income for millions of people, particularly in areas with few other industries. This helps rural communities to remain viable, so that fewer people move to crowded cities in search of work, which in turn eases pressure on housing and services. Agricultural exports also earn foreign currency that can pay for imports of machinery and medicine. Because food is always in demand, the sector is relatively stable even when other industries face difficulties. Although farming depends on weather and is vulnerable to climate change, modern methods and insurance can reduce the risks. Governments can support this by investing in rural roads, storage and markets.\n\nTo sum up, focusing on agriculture brings clear benefits to a country, above all food security and a stable rural economy. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào nông nghiệp — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits' và phân biệt với đề 257",
+        "think": "Đề 295 rộng hơn 257 (nông nghiệp nói chung, không phải đổi mới), nên chọn lợi ích khác: an ninh lương thực và kinh tế nông thôn ổn định.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — an ninh lương thực",
+        "think": "Tự trồng lương thực nên ít phụ thuộc nhập khẩu và ít chịu cú sốc giá; thu hoạch ổn định giữ lương thực hợp túi tiền. Ví dụ so sánh nước hỗ trợ nông dân và nước dựa vào ngũ cốc nhập.",
+        "refs": [
+          "ID-env-food-security"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — việc làm và ổn định nông thôn",
+        "think": "Nông nghiệp, chế biến, vận tải và bán thiết bị tạo việc làm; ít người di cư lên thành phố; xuất khẩu kiếm ngoại tệ. Nhượng bộ: phụ thuộc thời tiết, nhưng có phương pháp hiện đại và bảo hiểm.",
+        "refs": [
+          "ID-env-food-security",
+          "ID-env-agri-innovation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-food-security"
+    ]
+  },
+  "chunks": [
+    [
+      "old-fashioned sector",
+      "ngành lỗi thời"
+    ],
+    [
+      "the foundation of every economy",
+      "nền tảng của mọi nền kinh tế"
+    ],
+    [
+      "food security",
+      "an ninh lương thực"
+    ],
+    [
+      "a stable rural economy",
+      "kinh tế nông thôn ổn định"
+    ],
+    [
+      "depends less on imports",
+      "ít phụ thuộc nhập khẩu"
+    ],
+    [
+      "exposed to sudden price rises",
+      "chịu ảnh hưởng giá tăng đột ngột"
+    ],
+    [
+      "supply problems on the world market",
+      "vấn đề cung ứng trên thị trường thế giới"
+    ],
+    [
+      "Reliable harvests",
+      "vụ mùa ổn định"
+    ],
+    [
+      "keep food affordable",
+      "giữ thực phẩm vừa túi tiền"
+    ],
+    [
+      "reduces hunger",
+      "giảm nạn đói"
+    ],
+    [
+      "support their farmers",
+      "hỗ trợ nông dân"
+    ],
+    [
+      "avoid shortages",
+      "tránh thiếu hụt"
+    ],
+    [
+      "restrict sales",
+      "hạn chế bán hàng"
+    ],
+    [
+      "employment and rural stability",
+      "việc làm và sự ổn định ở nông thôn"
+    ],
+    [
+      "remain viable",
+      "vẫn tồn tại được"
+    ],
+    [
+      "in search of work",
+      "tìm việc làm"
+    ],
+    [
+      "ease pressure on housing and services",
+      "giảm áp lực lên nhà ở và dịch vụ"
+    ],
+    [
+      "earn foreign currency",
+      "kiếm ngoại tệ"
+    ],
+    [
+      "always in demand",
+      "luôn có nhu cầu"
+    ],
+    [
+      "vulnerable to climate change",
+      "dễ bị tổn thương bởi biến đổi khí hậu"
+    ]
+  ]
+}

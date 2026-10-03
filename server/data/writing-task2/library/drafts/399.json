@@ -1,0 +1,127 @@
+{
+  "questionId": 399,
+  "text": "Hundreds of millions of people still lack a safe and reliable water supply. This essay will outline two principal benefits for a country that focuses on clean water access: better health and wider opportunities for education and work.\n\nFirst and foremost, clean water protects health. Safe drinking water prevents diseases such as diarrhoea and cholera, which kill many young children, and proper sanitation stops infections from spreading. As a result, fewer people become ill, hospitals are less crowded and families spend less on medicine. A village that gains a safe tap, for example, sees fewer children miss school because of stomach illness, and healthier adults are able to work more regularly. In the long term, a healthy population is also cheaper for the country to support.\n\nIn addition, clean water frees time for education and work. Where there is no tap nearby, women and girls often spend several hours every day carrying water, which stops them from attending school or earning money. Piped water removes this burden, so more girls can complete their education and more adults can take paid jobs. Reliable water also supports farming, food processing and manufacturing, which raises productivity and attracts investment. Healthier, better-educated people make the economy stronger, and the benefits continue across generations. Clean water is therefore an investment in people rather than simply a public service. Although building pipes and treatment plants requires large investment, studies in many countries suggest that the returns in health and productivity are far greater than the cost.\n\nTo sum up, clean water access brings clear benefits to a country, above all better health and wider opportunities. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào tiếp cận nước sạch — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Báo trước hai lợi ích: sức khoẻ; cơ hội học tập và làm việc. Đây là chủ đề phát triển nên mở bài đưa ra quy mô vấn đề (hàng trăm triệu người thiếu nước sạch).",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — sức khoẻ",
+        "think": "Nước uống an toàn ngăn tiêu chảy và dịch tả; vệ sinh tốt ngăn nhiễm trùng; bệnh viện bớt đông. Ví dụ làng có vòi nước an toàn, trẻ ít nghỉ học vì đau bụng.",
+        "refs": [
+          "ID-env-clean-water",
+          "EX-env-village-tap"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — thời gian và kinh tế",
+        "think": "Phụ nữ và bé gái mất nhiều giờ mỗi ngày để lấy nước; có đường ống thì đi học và đi làm được; nước ổn định hỗ trợ nông nghiệp, chế biến, sản xuất. Nhượng bộ: đầu tư lớn nhưng lợi ích lớn hơn chi phí.",
+        "refs": [
+          "ID-env-clean-water",
+          "ID-env-food-security"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-clean-water",
+      "EX-env-village-tap"
+    ]
+  },
+  "chunks": [
+    [
+      "Hundreds of millions of people",
+      "hàng trăm triệu người"
+    ],
+    [
+      "a safe and reliable water supply",
+      "nguồn cấp nước an toàn và ổn định"
+    ],
+    [
+      "clean water access",
+      "tiếp cận nước sạch"
+    ],
+    [
+      "better health",
+      "sức khoẻ tốt hơn"
+    ],
+    [
+      "wider opportunities for education and work",
+      "cơ hội học tập và việc làm rộng hơn"
+    ],
+    [
+      "Safe drinking water",
+      "nước uống an toàn"
+    ],
+    [
+      "prevents diseases such as diarrhoea and cholera",
+      "ngăn các bệnh như tiêu chảy và dịch tả"
+    ],
+    [
+      "proper sanitation",
+      "vệ sinh đúng cách"
+    ],
+    [
+      "stops infections from spreading",
+      "ngăn nhiễm trùng lây lan"
+    ],
+    [
+      "hospitals are less crowded",
+      "bệnh viện bớt đông"
+    ],
+    [
+      "spend less on medicine",
+      "chi ít hơn cho thuốc"
+    ],
+    [
+      "a safe tap",
+      "vòi nước an toàn"
+    ],
+    [
+      "miss school",
+      "nghỉ học"
+    ],
+    [
+      "healthier adults",
+      "người lớn khoẻ mạnh hơn"
+    ],
+    [
+      "carrying water",
+      "gánh nước"
+    ],
+    [
+      "Piped water",
+      "nước máy dẫn bằng ống"
+    ],
+    [
+      "take paid jobs",
+      "nhận việc có lương"
+    ],
+    [
+      "raises productivity and attracts investment",
+      "tăng năng suất và thu hút đầu tư"
+    ],
+    [
+      "across generations",
+      "qua nhiều thế hệ"
+    ],
+    [
+      "the returns in health and productivity",
+      "lợi ích về sức khoẻ và năng suất"
+    ]
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "questionId": 10,
+  "text": "Opinions are divided as to whether individuals should take responsibility for pollution or whether society and governments should act. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who stress personal responsibility argue that everyday personal choices add up to a large environmental effect. Millions of households decide how much they drive, how much rubbish they produce and which products they buy, and these habits determine how much pollution is created. Consumers who choose cleaner products also push companies to change, since firms follow demand. Without changed habits, even strong laws are hard to enforce. A commuter who swaps a daily car journey for a bicycle, for example, removes a small but real source of exhaust fumes, and many people doing the same would make a noticeable difference to the air in a city.\n\nOn the other hand, supporters of government action point out that individuals alone cannot solve problems that are largely structural. A person cannot choose a clean power station or a factory that filters its emissions, and the biggest sources of pollution are often industries rather than households. Governments can set rules that apply to everyone, such as emission limits and fines, which create a level playing field so that responsible firms are not undercut by careless ones. They can also build the public transport and waste systems that make green choices practical. A resident of a town with no reliable buses, for instance, has little choice but to drive.\n\nIn conclusion, both sides have a point. Personally, I believe that governments should take the lead because they control the rules and the infrastructure, while individuals play a complementary role by supporting and following them.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm ô nhiễm",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm + ý kiến riêng",
+        "think": "Mở bài đưa lại đề bằng cụm 'Opinions are divided as to whether' rồi báo sẽ xét cả hai trước khi nêu ý kiến. Mỗi thân bài một phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Thân bài 1 — cá nhân",
+        "think": "Ý chính: thói quen hằng ngày cộng lại. Từ khoá 'pollution' lặp ở câu chủ đề để bám đề. Ví dụ đi xe đạp thay xe hơi.",
+        "refs": [
+          "ID-env-ind-habits",
+          "EX-env-cyclist",
+          "SY-up-people"
+        ]
+      },
+      {
+        "step": "3. Thân bài 2 — chính phủ",
+        "think": "Ý: vấn đề mang tính hệ thống, luật chung, hạ tầng. Ví dụ thị trấn không có xe buýt.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules",
+          "ID-env-gov-infrastructure",
+          "EX-env-no-buses"
+        ]
+      },
+      {
+        "step": "4. Kết luận có lập trường",
+        "think": "Chọn phía chính phủ dẫn dắt nhưng nhận vai trò bổ trợ của cá nhân để lập trường rõ mà không cực đoan.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-env-ind-habits",
+      "ID-env-ind-limits",
+      "ID-env-gov-rules",
+      "ID-env-gov-infrastructure",
+      "ID-env-partnership",
+      "EX-env-cyclist",
+      "EX-env-no-buses"
+    ]
+  },
+  "chunks": [
+    [
+      "take responsibility for pollution",
+      "chịu trách nhiệm về ô nhiễm"
+    ],
+    [
+      "stress personal responsibility",
+      "nhấn mạnh trách nhiệm cá nhân"
+    ],
+    [
+      "everyday personal choices",
+      "lựa chọn cá nhân hằng ngày"
+    ],
+    [
+      "add up to a large environmental effect",
+      "cộng lại thành tác động môi trường lớn"
+    ],
+    [
+      "how much rubbish they produce",
+      "họ xả bao nhiêu rác"
+    ],
+    [
+      "push companies to change",
+      "thúc ép doanh nghiệp thay đổi"
+    ],
+    [
+      "firms follow demand",
+      "doanh nghiệp chạy theo nhu cầu"
+    ],
+    [
+      "hard to enforce",
+      "khó thực thi"
+    ],
+    [
+      "exhaust fumes",
+      "khói thải"
+    ],
+    [
+      "make a noticeable difference",
+      "tạo khác biệt rõ rệt"
+    ],
+    [
+      "supporters of government action",
+      "người ủng hộ hành động của chính phủ"
+    ],
+    [
+      "largely structural",
+      "chủ yếu mang tính hệ thống"
+    ],
+    [
+      "filters its emissions",
+      "lọc khí thải"
+    ],
+    [
+      "emission limits",
+      "giới hạn khí thải"
+    ],
+    [
+      "a level playing field",
+      "sân chơi bình đẳng"
+    ],
+    [
+      "undercut by careless ones",
+      "bị doanh nghiệp cẩu thả cạnh tranh giá"
+    ],
+    [
+      "waste systems",
+      "hệ thống xử lý rác"
+    ],
+    [
+      "make green choices practical",
+      "làm lựa chọn xanh khả thi"
+    ],
+    [
+      "take the lead",
+      "đi đầu"
+    ],
+    [
+      "a complementary role",
+      "vai trò bổ trợ"
+    ]
+  ]
+}

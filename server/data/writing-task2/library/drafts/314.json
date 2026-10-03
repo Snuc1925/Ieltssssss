@@ -1,0 +1,126 @@
+{
+  "questionId": 314,
+  "text": "Many species are now under threat, and people disagree about who should lead efforts to save them: individuals and communities, or the government. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal involvement argue that wildlife conservation succeeds only when ordinary people care about it. Local residents often know their area best, and volunteers who count birds, clean rivers or report injured animals provide help that no official body could afford. Donations to conservation charities also pay for projects that governments overlook. Public interest matters because it persuades politicians to act. A village that protects its own wetland and guides visitors around it, for example, can preserve the habitat while earning a modest income from tourism. Their involvement also builds a sense of ownership, so that protection continues even when official attention moves elsewhere.\n\nOn the other hand, advocates of government action point out that conservation on a large scale needs money, laws and coordination that individuals cannot provide. Governments can create national parks, restrict building in sensitive areas and punish illegal hunting, and they alone can negotiate with other countries about species that cross borders, such as migrating birds. Charities and volunteers rely on limited and unpredictable funds, so a long-term plan needs public budgets. A rare species whose habitat is sold for development, for instance, cannot be saved by volunteers alone, and without legal protection a conservation project can disappear overnight when land changes hands.\n\nIn conclusion, both views have merit. Overall, I believe that governments should provide the legal and financial framework, while individuals and local groups supply the knowledge and enthusiasm that make conservation work.",
+  "analysis": {
+    "type_vi": "Discuss both views: bảo tồn động vật hoang dã — cá nhân/cộng đồng hay chính phủ (góc khác đề 112: tình nguyện và tài chính)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Cùng khung nhưng đổi góc so với 112: chuyên về tình nguyện địa phương và tài trợ dài hạn để tránh lặp ý.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cộng đồng",
+        "think": "Người địa phương hiểu khu vực, tình nguyện viên đếm chim, báo động vật bị thương; quyên góp; sự quan tâm của công chúng thúc đẩy chính trị gia.",
+        "refs": [
+          "ID-env-public-reporting",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Quy mô lớn cần tiền, luật, phối hợp; công viên quốc gia, hạn chế xây dựng, đàm phán xuyên biên giới; quỹ từ thiện không ổn định.",
+        "refs": [
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ lo khuôn khổ pháp lý và tài chính, cộng đồng đem tri thức và nhiệt huyết.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "under threat",
+      "đang bị đe doạ"
+    ],
+    [
+      "lead efforts to save them",
+      "dẫn dắt nỗ lực cứu chúng"
+    ],
+    [
+      "personal involvement",
+      "sự tham gia cá nhân"
+    ],
+    [
+      "wildlife conservation",
+      "bảo tồn động vật hoang dã"
+    ],
+    [
+      "know their area best",
+      "hiểu khu vực mình nhất"
+    ],
+    [
+      "count birds",
+      "đếm chim"
+    ],
+    [
+      "report injured animals",
+      "báo động vật bị thương"
+    ],
+    [
+      "no official body could afford",
+      "không cơ quan nào đủ khả năng"
+    ],
+    [
+      "overlook",
+      "bỏ sót"
+    ],
+    [
+      "persuades politicians to act",
+      "thuyết phục chính trị gia hành động"
+    ],
+    [
+      "protects its own wetland",
+      "bảo vệ vùng đất ngập nước của mình"
+    ],
+    [
+      "a modest income from tourism",
+      "thu nhập khiêm tốn từ du lịch"
+    ],
+    [
+      "on a large scale",
+      "ở quy mô lớn"
+    ],
+    [
+      "coordination",
+      "sự phối hợp"
+    ],
+    [
+      "restrict building in sensitive areas",
+      "hạn chế xây dựng ở khu vực nhạy cảm"
+    ],
+    [
+      "species that cross borders",
+      "loài di cư qua biên giới"
+    ],
+    [
+      "migrating birds",
+      "chim di cư"
+    ],
+    [
+      "limited and unpredictable funds",
+      "nguồn quỹ hạn chế và khó đoán"
+    ],
+    [
+      "public budgets",
+      "ngân sách công"
+    ],
+    [
+      "the legal and financial framework",
+      "khuôn khổ pháp lý và tài chính"
+    ]
+  ]
+}
