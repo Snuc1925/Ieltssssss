@@ -2592,7 +2592,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:16:30.259Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết rất chắc chắn, thể hiện lập trường rõ ràng và lập luận tốt. Từ vựng và ngữ pháp ở mức cao. Để đạt band cao hơn, cần khắc phục lỗi mơ hồ về đại từ và tăng độ tự nhiên của một số cụm từ.",
+        "weaknesses": [
+          "Đại từ 'they' trong câu mở bài gây mơ hồ.",
+          "Một số cụm từ chưa đạt độ tự nhiên như 'assessment spread over the year'.",
+          "Phần phản biện hơi ngắn, chưa phân tích sâu giải pháp cho các rủi ro như plagiarism.",
+          "Có thể dùng thêm từ nối chỉ mức độ nhượng bộ để làm rõ quan hệ ý hơn."
+        ]
+      }
     },
     {
       "questionId": 127,
@@ -2697,7 +2716,26 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T18:16:44.412Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, lập luận rõ ràng và vốn từ phong phú. Các lỗi còn lại rất nhỏ, chủ yếu về độ chính xác từ vựng và cấu trúc câu nhẹ. Với một vài điều chỉnh, bài có thể đạt band 8 vững chắc.",
+        "weaknesses": [
+          "Một số lỗi nhỏ về mạo từ và cấu trúc câu (because/so).",
+          "Ví dụ chưa cụ thể, còn khái quát.",
+          "Lặp từ/cụm từ ('cost a fraction') ở đoạn 2.",
+          "Vài cụm từ chưa thật sắc ('study at all', 'for little teaching support')."
+        ]
+      }
     },
     {
       "questionId": 139,
@@ -2783,7 +2821,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:16:48.292Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết tổng thể tốt, đáp ứng yêu cầu đề và có lập luận rõ ràng. Điểm yếu chính nằm ở một vài cụm từ chưa tự nhiên và độ phát triển ý có thể sâu hơn. Với những chỉnh sửa nhỏ, bài có thể đạt band 8.",
+        "weaknesses": [
+          "Một số cụm từ chưa chuẩn collocation: 'raises strong opinions', 'at once', 'Few parents are also qualified'.",
+          "Các luận điểm còn hơi chung, thiếu dẫn chứng số liệu hoặc trải nghiệm thực tế để tăng sức thuyết phục.",
+          "Câu văn đôi khi dài và có thể tách để cải thiện độ mạch lạc.",
+          "Còn một số lỗi nhỏ về thừa từ hoặc lựa chọn từ."
+        ]
+      }
     },
     {
       "questionId": 141,
@@ -2870,7 +2927,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:17:27.099Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, lập trường rõ ràng và lập luận thuyết phục. Điểm yếu chính là vài lỗi collocation và mạo từ khiến Lexical Resource và Grammar chưa chạm 8. Nếu sửa các điểm này, bài có thể đạt band 8+ về mọi tiêu chí.",
+        "weaknesses": [
+          "Còn dùng sai mạo từ trước danh từ không đếm được ('a confidence').",
+          "Một vài collocation chưa tự nhiên ('practises exactly the persistence').",
+          "Phần nhượng bộ hơi gộp vào đoạn thứ hai, có thể tách rõ để tăng tính liên kết.",
+          "Có thể tránh lặp cấu trúc 'A pupil who...' ở cả hai đoạn."
+        ]
+      }
     },
     {
       "questionId": 149,
@@ -2957,7 +3033,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:17:23.559Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đáp ứng tốt yêu cầu đề, cấu trúc rõ ràng và lập luận mạch lạc. Điểm yếu chủ yếu nằm ở việc dùng từ chưa thật chính xác và thiếu ví dụ minh họa. Với cải thiện từ vựng và phát triển ý cụ thể hơn, bài có thể đạt band 8.",
+        "weaknesses": [
+          "Chưa có ví dụ hoặc dẫn chứng cụ thể để minh họa cho các luận điểm.",
+          "Lặp lại một số cụm từ then chốt gây cảm giác đơn điệu.",
+          "Một vài lựa chọn từ chưa trang trọng (keep, comfortable) làm giảm tính học thuật.",
+          "Phần thân bài thứ hai hơi liệt kê giải pháp mà chưa phân tích sâu tác động."
+        ]
+      }
     },
     {
       "questionId": 155,
@@ -3061,7 +3156,25 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T18:17:45.037Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8.0 tổng thể. Lập trường rõ ràng, ý tưởng phát triển tốt, từ vựng và ngữ pháp ở mức cao. Để tiến tới 8.5, thí sinh nên mở rộng phần phản biện và tinh chỉnh một vài collocation.",
+        "weaknesses": [
+          "Phần phản biện (uniforms alone cannot create discipline) còn ngắn, chưa phân tích sâu mức độ đồng ý.",
+          "Một vài collocation chưa tối ưu (dress standard, arrive in + quần áo).",
+          "Có thể thêm ví dụ thực tế ở thân bài thứ hai để tăng sức thuyết phục."
+        ]
+      }
     },
     {
       "questionId": 157,
@@ -3149,7 +3262,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:18:19.507Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8 nhờ lập luận rõ ràng, từ vựng tốt và ngữ pháp chính xác. Điểm cần cải thiện chính là làm ví dụ cụ thể hơn và kiểm soát độ dài câu để mạch văn mượt mà hơn. Với những điều chỉnh nhỏ, bài hoàn toàn có thể đạt band 8.5.",
+        "weaknesses": [
+          "Ví dụ còn chung chung, chưa có số liệu hoặc tình huống cụ thể.",
+          "Một số câu quá dài, làm giảm nhịp đọc.",
+          "Một vài cụm từ hơi informal hoặc chưa tự nhiên.",
+          "Phần kết luận dùng 'above all' chưa chuẩn sắc thái khi hai lợi ích bình đẳng."
+        ]
+      }
     },
     {
       "questionId": 161,
@@ -3229,7 +3361,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:18:59.090Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết trình bày quan điểm rõ ràng, phát triển luận điểm hợp lý và dùng từ vựng học thuật khá tốt. Điểm yếu chủ yếu nằm ở một vài collocation và câu dài chưa thật sự mượt. Đây là bài viết mức band 8.0 với các lỗi nhỏ không ảnh hưởng đến truyền đạt.",
+        "weaknesses": [
+          "Câu dài nối quá nhiều mệnh đề bằng 'and' làm giảm độ rõ ràng.",
+          "Một vài collocation và cấu trúc song song chưa hoàn toàn tự nhiên.",
+          "Đoạn thân bài thứ hai hơi lệch sang lợi ích của giáo viên trong khi đề hỏi về sức khỏe học sinh.",
+          "Có thể thêm một câu phản biện sâu hơn về rủi ro học tập cho nhóm học sinh yếu thế."
+        ]
+      }
     },
     {
       "questionId": 166,
@@ -3310,7 +3461,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:18:41.533Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết trả lời đúng trọng tâm, lập trường rõ ràng, bố cục chặt chẽ và sử dụng từ vựng, ngữ pháp khá tốt. Một số điểm nhỏ về collocation và cấu trúc song song có thể cải thiện để đạt 8.5. Nhìn chung bài ở mức 8.0.",
+        "weaknesses": [
+          "Một số cụm từ chưa hoàn toàn tự nhiên (take time from, foreign-language teaching only).",
+          "Sự song song trong liệt kê có thể được cải thiện.",
+          "Có thể thể hiện rõ hơn mức độ đồng ý (\"strongly agree\") thay vì chỉ \"I agree\".",
+          "Một số câu dài có thể tách để tăng rõ ràng."
+        ]
+      }
     },
     {
       "questionId": 167,
@@ -3385,7 +3555,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:19:18.514Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng band 7.5; lập luận rõ ràng, ngữ pháp tốt và từ vựng khá. Điểm yếu chính là luận điểm thứ hai chưa bám sát khái niệm 'isolation' và một vài collocations chưa tự nhiên. Nếu cải thiện tính liên kết ở đoạn phản biện và dùng từ chuẩn hơn, bài có thể đạt band 8.",
+        "weaknesses": [
+          "Luận điểm thứ hai (chuyên môn/cơ sở vật chất) không trực tiếp giải thích 'isolation' mà thiên về bất lợi học thuật.",
+          "Một số cụm từ chưa đạt collocation tự nhiên (repair gaps, reduce specialist teaching).",
+          "Đoạn phản biện bị gộp chung với luận điểm thứ hai, làm giảm độ mạch lạc.",
+          "Chưa khai thác sâu giải pháp cho phản biện nên lập luận hơi nông."
+        ]
+      }
     },
     {
       "questionId": 180,
@@ -3466,7 +3655,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:19:41.013Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết có lập trường rõ ràng, bố cục hợp lý và nhiều từ vựng tốt. Ý tưởng được phát triển khá đầy đủ nhưng phần phản biện còn sơ sài và có một số lỗi diễn đạt, trật tự từ. Tổng thể đạt khoảng 7.5, có tiềm năng lên 8 nếu cải thiện tính tự nhiên của ngôn từ và mở rộng phản biện.",
+        "weaknesses": [
+          "Phần phản biện về tầm quan trọng của học thuật chưa được giải thích kỹ, chỉ nêu ngắn gọn.",
+          "Có lỗi trật tự từ 'keep engaged many pupils' và cụm 'complain of shortages' chưa tự nhiên.",
+          "Lặp từ 'pupils' nhiều lần, có thể thay bằng 'students/learners'.",
+          "Một số đại từ hơi mơ hồ, ví dụ 'leave them' và 'keep future choices open'."
+        ]
+      }
     },
     {
       "questionId": 189,
@@ -3549,7 +3757,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:19:44.984Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết đáp ứng tốt yêu cầu đề bài, trình bày hai nguyên nhân chính và hai nhóm giải pháp. Điểm hạn chế chính nằm ở độ cụ thể của ý và một số collocation chưa tự nhiên. Nếu khắc phục được các diễn đạt lỗi và phát triển ví dụ chi tiết hơn, bài có thể đạt band 7.5+.",
+        "weaknesses": [
+          "Nguyên nhân và giải pháp còn khái quát, thiếu ví dụ cụ thể hoặc dẫn chứng rõ ràng hơn.",
+          "Một số collocation/cụm từ chưa tự nhiên: 'provision should be made more affordable', 'without sacrificing their income'.",
+          "Chuyển ý 'To address this issue' không khớp vì có hai nguyên nhân; nên dùng 'these issues'.",
+          "Việc lặp lại 'In addition' và một số cấu trúc khiến bài hơi đơn điệu."
+        ]
+      }
     },
     {
       "questionId": 198,
@@ -3633,7 +3860,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:20:05.132Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết trả lời đúng yêu cầu đề, bố cục rõ ràng và có ví dụ minh họa cụ thể. Tuy nhiên, từ vựng và một số cấu trúc câu còn ở mức an toàn, chưa tạo được sự tinh tế của band 8. Điểm tổng thể ước tính khoảng 7.5.",
+        "weaknesses": [
+          "Quan điểm cá nhân chỉ nêu ở kết luận, chưa thể hiện xuyên suốt bài.",
+          "Một số collocation chưa tự nhiên hoặc chưa chính xác.",
+          "Từ vựng còn an toàn, chưa có nhiều từ học thuật nâng cao.",
+          "Có vài cấu trúc diễn đạt còn hơi thông tục hoặc thiếu trang trọng."
+        ]
+      }
     },
     {
       "questionId": 199,
@@ -3713,7 +3959,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:20:49.108Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt nhiệm vụ, lập luận cân bằng và có dẫn chứng, từ vựng phong phú. Điểm yếu chủ yếu nằm ở một số collocation chưa chuẩn và phần phân tích bất lợi cho học sinh chưa sâu. Tổng thể đạt khoảng 7.5, có thể nâng lên 8 nếu khắc phục các lỗi nhỏ.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên, làm giảm độ chính xác từ vựng.",
+          "Phần bất lợi cho học sinh chưa được khai thác sâu, mới dừng ở một ví dụ.",
+          "Thiếu ví dụ cụ thể (ví dụ: quốc gia, chương trình song ngữ) để tăng tính thuyết phục.",
+          "Ít sử dụng cấu trúc câu nhấn mạnh, đảo ngữ hoặc bị động để tạo điểm nhấn."
+        ]
+      }
     },
     {
       "questionId": 209,
@@ -3792,7 +4057,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:20:52.984Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, đạt mức band 7.5-8.0. Điểm mạnh là bố cục rõ ràng và từ vựng khá tốt; điểm yếu chính là một số collocation và dấu câu chưa chuẩn. Cải thiện những điểm này có thể nâng band lên 8.0 trở lên.",
+        "weaknesses": [
+          "Một số cụm từ chưa dùng collocation tự nhiên nhất (ví dụ 'source of shortages' thay vì 'cause of shortages').",
+          "Lặp lại cohesive device ('In addition') gây cảm giác máy móc.",
+          "Vài câu quá dài, dễ làm giảm độ rõ ràng và mạch lạc.",
+          "Thiếu dấu phẩy ở thành phần chêm xen như 'in turn'."
+        ]
+      }
     },
     {
       "questionId": 210,
@@ -3866,7 +4150,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:20:57.180Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết mạch lạc, trả lời tốt câu hỏi To what extent với lập trường rõ ràng. Ý tưởng được phát triển tốt, có ví dụ thực tế và có sự cân nhắc đến yếu tố điều kiện. Đây là bài viết ở mức band 8; có thể nâng lên bằng cách tinh chỉnh một số collocation và đảm bảo đại từ quan hệ chính xác.",
+        "weaknesses": [
+          "Một vài cụm từ chưa đạt độ tự nhiên tối đa (e.g., 'strengthens problem solving', 'encourage no originality at all').",
+          "Đại từ quan hệ 'which' trong câu '...failed attempts, which are exactly the habits...' có thể gây mơ hồ.",
+          "Phần phản biện (các môn khác cũng phát triển sáng tạo) được lồng vào thân bài 2 nhưng chưa được khai thác sâu thành một đoạn riêng, nếu có sẽ tăng tính thuyết phục.",
+          "Một số câu có cấu trúc tương tự nhau, có thể đa dạng hoá hơn."
+        ]
+      }
     },
     {
       "questionId": 211,
@@ -3943,7 +4246,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:22:02.779Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức khá, đáp ứng yêu cầu đề và có lập luận hai chiều rõ ràng. Điểm mạnh là bố cục chặt chẽ, từ vựng và ngữ pháp tốt; điểm yếu chính là quan điểm cá nhân chưa được phát triển sớm và còn lặp từ. Nếu chỉnh sửa các diễn đạt và mở rộng kết luận, bài có thể đạt band 8 trở lên.",
+        "weaknesses": [
+          "Quan điểm cá nhân chỉ xuất hiện ở kết luận, chưa được phát triển luận điểm riêng.",
+          "Lặp lại từ 'pupils' và 'public money' nhiều lần làm giảm chất lượng từ vựng.",
+          "Một số diễn đạt chưa tự nhiên hoặc so sánh chưa chính xác về logic.",
+          "Kết luận quá ngắn, chưa tóm tắt và củng cố được toàn bộ lập luận."
+        ]
+      }
     },
     {
       "questionId": 216,
@@ -4023,7 +4345,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:21:30.084Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng band 8 ở cả bốn tiêu chí. Bài trả lời đúng trọng tâm, có cấu trúc tốt, từ vựng học thuật và ngữ pháp linh hoạt. Một vài lỗi nhỏ về lựa chọn từ và đại từ không làm giảm đáng kể chất lượng.",
+        "weaknesses": [
+          "Một số cụm từ chưa tự nhiên (improve languages, weakens prejudice).",
+          "Đại từ nhân xưng thiếu nhất quán (a graduate... her).",
+          "Có thể mở rộng thêm một chút về tác động lâu dài hoặc xã hội để tăng chiều sâu.",
+          "Chưa sử dụng nhiều liên từ phức tạp như although, while, thereby."
+        ]
+      }
     },
     {
       "questionId": 220,
@@ -4100,7 +4441,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:22:10.316Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức band 8 tổng thể: lập luận chặt chẽ, bố cục rõ ràng, ngữ pháp đa dạng và chính xác. Điểm yếu chính nằm ở một số lựa chọn từ vựng chưa thật tự nhiên và một ý có thể phát triển sâu hơn. Nếu trau chuốt collocation và mở rộng thêm một ý xã hội, bài có thể tiệm cận 8.5.",
+        "weaknesses": [
+          "Một số cụm từ chưa tự nhiên ('personal advancement', 'place less burden', 'tests of mood').",
+          "Ý về lợi ích xã hội chưa được phát triển bằng ví dụ hoặc giải thích cụ thể.",
+          "Phần giới thiệu hơi đơn giản, có thể nêu rõ hơn mức độ đồng ý và phạm vi đánh giá."
+        ]
+      }
     },
     {
       "questionId": 221,
@@ -4181,7 +4540,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:22:12.695Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức band 8.0 nhìn chung tốt, trả lời đúng trọng tâm, bố cục chặt chẽ và ngôn ngữ đa dạng. Một số cụm từ và dấu câu cần điều chỉnh nhỏ, nhưng không ảnh hưởng đến sự rõ ràng. Nếu phát triển thêm ý 'exceptions' và tinh chỉnh diễn đạt, bài có thể tiến gần 8.5.",
+        "weaknesses": [
+          "Ý 'exceptions for genuine educational use' chưa được làm rõ bằng ví dụ hoặc giải thích.",
+          "Một vài cụm từ dùng chưa tự nhiên (expose to misuse, benefits are kept).",
+          "Dấu câu: dùng dấu phẩy thừa trước 'because' trong câu phức.",
+          "Ví dụ cuối đoạn 2 hơi lạc nhịp so với mạch lập luận (có thể đưa lên sớm hơn)."
+        ]
+      }
     },
     {
       "questionId": 228,
@@ -4267,7 +4645,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:22:43.617Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết giải quyết đúng đề, lập luận khá đầy đủ và mạch lạc. Tuy nhiên, một số diễn đạt chưa thật tự nhiên và độ phức tạp ngữ pháp còn dừng ở mức khá. Điểm tổng thể khoảng 7.5.",
+        "weaknesses": [
+          "Một số cụm từ chưa tự nhiên, cần trau chuốt collocation.",
+          "Cấu trúc so sánh trong câu 'as much as ability' hơi elip, nên viết đầy đủ.",
+          "Phần kết luận hơi ngắn và chưa phát triển hết quan điểm cá nhân.",
+          "Đôi khi câu dài nối nhiều ý có thể gây khó theo dõi."
+        ]
+      }
     },
     {
       "questionId": 229,
@@ -4344,7 +4741,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:23:08.804Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết ở mức khá, trả lời đúng đề và có vốn từ học thuật tốt. Để lên band cao hơn, cần phân biệt rõ các nguyên nhân, thêm ví dụ cụ thể cho giải pháp và tinh chỉnh một số collocation, cấu trúc câu.",
+        "weaknesses": [
+          "Nguyên nhân 'financial barriers' và 'social disadvantage' chưa được phân biệt rạch ròi, có phần lặp ý.",
+          "Giải pháp chưa có ví dụ hoặc số liệu cụ thể nên tính thuyết phục chưa cao.",
+          "Lặp 'In addition' ở hai đoạn thân bài.",
+          "Một số cụm collocation và cấu trúc câu còn chung chung hoặc mơ hồ."
+        ]
+      }
     },
     {
       "questionId": 230,
@@ -4421,7 +4837,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:22:59.181Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết tốt, trả lời đúng yêu cầu đề bài, lập luận mạch lạc và sử dụng ngôn ngữ học thuật khá ổn. Điểm yếu chủ yếu nằm ở một vài collocation chưa chuẩn và ví dụ minh họa chưa đủ cụ thể. Nếu trau chuốt thêm từ vựng và mở rộng ví dụ, bài có thể đạt band 8.5.",
+        "weaknesses": [
+          "Một số cụm từ chưa đạt độ tự nhiên chuẩn collocation như 'opens higher education', 'risking heavy debt'.",
+          "Ví dụ minh họa còn chung chung, thiếu tính cụ thể.",
+          "Lặp lại từ 'free tuition' nhiều lần, có thể thay thế bằng các cụm đồng nghĩa.",
+          "Phần nêu giới hạn có thể được phát triển thêm để tăng chiều sâu lập luận."
+        ]
+      }
     },
     {
       "questionId": 241,
@@ -4499,7 +4934,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:23:23.257Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt mức band 8 nếu khắc phục một số cụm từ chưa tự nhiên. Lập luận chặt chẽ, phát triển ý tốt, nhưng cần chú ý diễn đạt collocation chính xác hơn và tinh gọn phần mở bài.",
+        "weaknesses": [
+          "Một vài collocation chưa tự nhiên ('meet problems', 'the already motivated').",
+          "Mở bài hơi dài và nhồi nhét ý điều kiện, làm giảm sự rõ ràng ban đầu.",
+          "Thiếu câu chuyển ý giữa hai đoạn thân bài để tăng độ mạch lạc."
+        ]
+      }
     },
     {
       "questionId": 246,
@@ -4579,7 +5032,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:23:46.114Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết trả lời đúng yêu cầu đề bài, lập trường phản đối rõ ràng và được hỗ trợ bởi hai luận điểm thuyết phục kèm ví dụ thực tế. Ngôn ngữ mạch lạc, từ vựng học thuật tốt, chỉ cần chỉnh lại một vài collocation và diễn đạt nhỏ để đạt mức tự nhiên hơn. Tổng thể bài đạt khoảng band 8.0.",
+        "weaknesses": [
+          "Một số collocation chưa hoàn toàn tự nhiên như 'practice papers', 'just picture'.",
+          "Chuyển ý giữa 'easy to compare' và 'fair' có thể được giải thích rõ hơn để tăng liên kết.",
+          "Một vài lựa chọn từ mang tính khẩu ngữ như 'nerves' nên được thay bằng từ học thuật hơn."
+        ]
+      }
     },
     {
       "questionId": 255,
@@ -4658,7 +5129,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:24:00.840Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn chỉnh, trả lời đúng trọng tâm đề bài với lập trường rõ ràng và lập luận hai chiều hợp lý. Điểm mạnh nằm ở tổ chức ý và ngữ pháp chắc; điểm yếu chủ yếu là một vài lỗi dùng từ và sự kiện tôn giáo chưa chính xác. Nếu tinh chỉnh từ vựng và tránh lỗi văn hóa, bài có thể đạt band 8 toàn diện.",
+        "weaknesses": [
+          "Một vài cụm từ chưa tự nhiên như weakens prejudice hoặc overloading a timetable that is already full.",
+          "Sự kiện tôn giáo: Ramadan là tháng chay, không phải lễ hội; nên dùng Eid để chính xác.",
+          "Còn lặp từ pupils/religious education khá nhiều, có thể thay bằng learners/students/faith-based education.",
+          "Kết bài hơi lặp lại ý mở bài, chưa mở rộng thêm hàm ý."
+        ]
+      }
     },
     {
       "questionId": 267,
@@ -4737,7 +5227,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:24:13.570Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, thể hiện lập trường rõ ràng và triển khai ý mạch lạc. Từ vựng và ngữ pháp ở mức khá, nhưng cần thêm ví dụ thực tế và tinh chỉnh một số collocation để đạt band cao hơn.",
+        "weaknesses": [
+          "Ví dụ còn chung chung, chủ yếu là giả định thay vì dẫn chứng thực tế.",
+          "Một số collocation chưa tự nhiên ('train skills', 'improve effort').",
+          "Phần phản biện (có thể do học sinh giỏi chọn nghệ thuật) chưa được khai thác sâu để củng cố lập trường.",
+          "Việc chuyển ý giữa lợi ích và hạn chế trong đoạn 3 hơi đột ngột."
+        ]
+      }
     },
     {
       "questionId": 270,
@@ -4818,7 +5327,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:24:31.047Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức khá, hoàn thành tốt yêu cầu đề bài với lập trường rõ ràng và ý tưởng hợp lý. Điểm yếu chính nằm ở độ chính xác từ vựng và cách tổ chức một số ý trong đoạn thân bài. Nếu cải thiện các collocation và tách ý phản biện, bài có thể đạt band 8.",
+        "weaknesses": [
+          "Một số cụm từ chưa đạt collocation tự nhiên ('burden others with debt', 'from somewhere', 'pupil').",
+          "Đoạn thân bài thứ hai gộp nhiều ý (bất bình đẳng, phản biện, giải pháp) nên hơi thiếu tập trung.",
+          "Phần phản biện 'fees are not the only obstacle' chưa được phát triển đầy đủ.",
+          "Còn lặp từ 'fees' và 'students' khá nhiều."
+        ]
+      }
     },
     {
       "questionId": 271,
@@ -4895,7 +5423,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:24:49.134Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết tốt, đáp ứng yêu cầu đề, lập luận mạch lạc và có ý kiến rõ ràng. Để đạt band cao hơn, cần phát triển ý sâu hơn bằng dẫn chứng cụ thể và tránh một số lỗi nhỏ về song song và lựa chọn từ.",
+        "weaknesses": [
+          "Lập trường cá nhân chưa được thể hiện xuyên suốt, chỉ rõ ở kết luận.",
+          "Một số lập luận còn chung chung, thiếu dẫn chứng cụ thể.",
+          "Vài lỗi nhỏ về song song và lựa chọn từ (ví dụ: more inclined... less prone, shorten response times).",
+          "Chưa so sánh trực tiếp giữa policing và education trong thân bài."
+        ]
+      }
     },
     {
       "questionId": 275,
@@ -4999,7 +5546,25 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T18:24:52.475Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt mức 7.5-8.0 về tổng thể: lập luận chặt chẽ, từ vựng tốt, ngữ pháp chính xác. Điểm yếu chính nằm ở tổ chức đoạn và vài cụm từ chưa tự nhiên.",
+        "weaknesses": [
+          "Đoạn thứ hai gộp nhiều ý khiến bố cục hơi rối.",
+          "Một vài collocation chưa tự nhiên (spared an unfair expense, supported by subsidies...).",
+          "Phần hạn chế của đồng phục chưa được phát triển sâu bằng phần ủng hộ."
+        ]
+      }
     },
     {
       "questionId": 277,
@@ -5076,7 +5641,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:25:12.707Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, có lập trường rõ ràng và ví dụ phù hợp. Từ vựng và ngữ pháp ở mức khá, nhưng một số câu dài khiến mạch văn chưa thật mượt. Với việc chỉnh sửa câu và tăng tính liên kết, bài có thể đạt band 8 trở lên.",
+        "weaknesses": [
+          "Một số câu quá dài, nối nhiều ý bằng dấu phẩy và 'and', gây khó theo dõi.",
+          "Cụm 'keep pace' chưa trọn nghĩa, nên bổ sung 'with change'.",
+          "Ví dụ Singapore hơi chung chung, cần gắn trực tiếp hơn với 'technological education'.",
+          "Dùng 'will outline' thay vì hiện tại đơn làm giảm tính học thuật."
+        ]
+      }
     },
     {
       "questionId": 281,
@@ -5155,7 +5739,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:25:35.944Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức khá tốt, đáp ứng yêu cầu đề bài với lập luận rõ ràng và từ vựng mạnh. Điểm yếu chính là một số câu dài và kết luận hơi tuyệt đối. Nếu tinh chỉnh cách diễn đạt có sắc thái và tách câu hợp lý, bài có thể đạt 8.0.",
+        "weaknesses": [
+          "Kết luận hơi tuyệt đối, có thể làm giảm tính thuyết phục.",
+          "Một số câu quá dài, gây khó khăn khi theo dõi mạch ý.",
+          "Liên kết giữa các đoạn chưa thật đa dạng (chủ yếu dùng Furthermore)."
+        ]
+      }
     },
     {
       "questionId": 283,
@@ -5241,7 +5843,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:25:43.656Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đáp ứng tốt yêu cầu đề, trình bày rõ hai vai trò chính của giáo dục thể chất với lập luận và ví dụ thuyết phục. Bố cục mạch lạc, vốn từ và ngữ pháp khá tốt. Một số lỗi nhỏ về collocation và lựa chọn từ có thể cải thiện để bài đạt band 8 trọn vẹn.",
+        "weaknesses": [
+          "Một số cụm từ chưa tự nhiên, ví dụ 'sitting at screens' hay 'nurturing wellbeing and teamwork'.",
+          "Còn lặp cấu trúc 'PE + động từ + tân ngữ' khiến văn phong hơi đơn điệu.",
+          "Bài chưa có sự phân tích phản biện hoặc mở rộng sâu hơn về vai trò của giáo dục thể chất ngoài hai khía cạnh đã nêu."
+        ]
+      }
     },
     {
       "questionId": 288,
@@ -5360,7 +5980,26 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T18:25:58.164Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, có lập luận rõ ràng, bố cục mạch lạc và ngôn ngữ khá. Điểm yếu chính là một số collocation thiếu tự nhiên và vài lỗi nhỏ về giới từ, khiến bài chưa thật sự tinh tế. Nhìn chung bài đạt mức khá đến tốt.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên như offer endless temptations, continued through messaging groups.",
+          "Phần thân bài có thể so sánh hoặc mở rộng sâu hơn để tăng tính thuyết phục.",
+          "Đôi khi dùng giới từ chưa chính xác, ví dụ in evaluating information nên dùng on.",
+          "Một vài câu văn có thể cô đọng hơn để tránh lặp ý nhẹ."
+        ]
+      }
     },
     {
       "questionId": 299,
@@ -5438,7 +6077,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:26:43.439Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết trả lời đúng câu hỏi với lập trường 'largely agree' rõ ràng, lập luận chặt chẽ và vốn từ tốt. Tuy nhiên, phần nêu giới hạn chưa được phát triển đầy đủ và một số cụm từ chưa thật tự nhiên. Nhìn chung, bài đạt mức band 7.5-8.0.",
+        "weaknesses": [
+          "Phần giới hạn (age-appropriate, wider strategy) còn sơ sài và đặt ở cuối đoạn 2 hơi đột ngột.",
+          "Một số cụm từ chưa tự nhiên: 'builds citizens', 'make the consequences vivid', 'statistically more inclined to avoid criminal behaviour'.",
+          "Đại từ 'They' trong 'They should therefore form...' gây mơ hồ về chủ ngữ.",
+          "Có một vài khái quát hóa thiếu bằng chứng (Educated individuals are statistically...)."
+        ]
+      }
     },
     {
       "questionId": 300,
@@ -5526,7 +6184,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:27:17.166Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết đạt yêu cầu cơ bản của đề, có quan điểm rõ ràng, bố cục hợp lý và vốn từ khá. Tuy nhiên, một số luận điểm chưa được phát triển sâu, có lặp từ và vài câu dài gây mơ hồ. Để nâng band, thí sinh nên mở rộng ý bằng ví dụ cụ thể, tránh lặp từ và chia nhỏ câu phức.",
+        "weaknesses": [
+          "Phát triển ý ở đoạn thân bài thứ nhất còn phân tán, thiếu ví dụ minh hoạ cụ thể.",
+          "Lặp từ 'society as a whole' trong cùng đoạn, gây cảm giác đơn điệu.",
+          "Một số câu dài có cấu trúc phức tạp dẫn đến mơ hồ về chủ ngữ hoặc ý.",
+          "Sử dụng một số cụm từ mang tính khuôn mẫu ('This essay will consider...') làm giảm tính tự nhiên."
+        ]
+      }
     },
     {
       "questionId": 308,
@@ -5603,7 +6280,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:27:17.522Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, lập luận rõ ràng và có chiều sâu hợp lý. Điểm mạnh nổi bật là cấu trúc chặt chẽ và ngữ pháp chính xác. Để nâng band, cần đa dạng hóa từ vựng hơn nữa và làm rõ hơn mức độ 'to what extent' bằng cách thảo luận cụ thể về độ tuổi hoặc phạm vi bắt buộc.",
+        "weaknesses": [
+          "Chưa thảo luận sâu về mức độ 'to what extent' (ví dụ cấp lớp, mức độ bắt buộc).",
+          "Đoạn thân thứ hai hơi thiếu tập trung khi gộp cả lợi ích và cách triển khai.",
+          "Một vài lựa chọn từ vựng chưa phải tối ưu, có thể dùng collocation tự nhiên hơn.",
+          "Phần kết bài hơi lặp lại ý ở mở bài, chưa tạo ấn tượng mạnh."
+        ]
+      }
     },
     {
       "questionId": 313,
@@ -5683,7 +6379,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:27:17.536Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết đạt yêu cầu đề bài, lập luận rõ ràng và có ý kiến cá nhân. Điểm hạn chế chính là sự mơ hồ về đại từ và một vài collocation chưa tự nhiên, khiến bài dừng ở mức band 7.0-7.5. Cần tăng cường liên kết ý với chính sách chi tiêu và chính xác từ vựng.",
+        "weaknesses": [
+          "Đại từ 'they/both' thiếu rõ ràng, gây mơ hồ.",
+          "Chưa khai thác sâu khía cạnh chi tiêu chính phủ.",
+          "Một số cụm từ chưa tự nhiên, lặp ý.",
+          "Kết bài khá ngắn, chưa nhấn mạnh được quan điểm cá nhân."
+        ]
+      }
     },
     {
       "questionId": 315,
@@ -5760,7 +6475,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:28:04.842Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề bài, thể hiện lập trường rõ ràng và hỗ trợ bằng lý do hợp lý. Điểm mạnh nổi bật là vốn từ và khả năng kiểm soát ngữ pháp. Để đạt band cao hơn, thí sinh cần phát triển sâu hơn phần hạn chế và tinh chỉnh một vài cách diễn đạt.",
+        "weaknesses": [
+          "Phần bàn về hạn chế (chi phí, quyền riêng tư, yếu tố con người) còn khá chung chung.",
+          "Một số diễn đạt thiếu chính xác về sở hữu và lựa chọn từ.",
+          "Đoạn thân thứ hai gộp hai nội dung lớn (vai trò giáo viên và hạn chế) làm giảm độ tập trung.",
+          "Câu văn cuối đoạn thứ hai dài, có thể tách thành hai câu để rõ ý hơn."
+        ]
+      }
     },
     {
       "questionId": 325,
@@ -5841,7 +6575,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:28:11.531Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề với lập luận rõ ràng và bố cục chặt chẽ. Từ vựng và ngữ pháp ở mức khá, nhưng cần cải thiện một số lỗi diễn đạt và dấu câu. Điểm tổng thể ước tính khoảng 7.0.",
+        "weaknesses": [
+          "Câu ở đoạn thân bài thứ nhất bị lỗi nối câu (comma splice) gây khó hiểu.",
+          "Một số cụm từ chưa tự nhiên hoặc mơ hồ ('an increasingly familiar presence', 'guidance on learning').",
+          "Ví dụ minh họa còn chung chung, chưa cụ thể.",
+          "Kết bài hơi lặp lại ý đã nêu mà chưa tổng hợp sâu hơn."
+        ]
+      }
     },
     {
       "questionId": 329,
@@ -5918,7 +6671,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:28:09.754Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, có lập trường rõ ràng và lập luận chặt chẽ. Điểm yếu chính là đoạn thân hai hơi ôm đồm và một số diễn đạt chưa thật tự nhiên. Với độ dài 275 từ, bài không bị trừ điểm Task Response.",
+        "weaknesses": [
+          "Đoạn thân thứ hai nhồi nhét nhiều ý: nợ, tỷ lệ thất nghiệp, hạn chế ngành nghề, kỹ năng chuyển đổi; thiếu tập trung.",
+          "Một vài diễn đạt còn mơ hồ hoặc chưa tự nhiên (ví dụ 'Employers ... know their strengths', 'apprenticeships avoid the debt').",
+          "Phần phản biện về ngành y, luật chưa có ví dụ cụ thể hoặc phân tích sâu, nên tính thuyết phục chưa cao.",
+          "Có thể cải thiện cách paraphrase để tránh lặp từ 'apprenticeships'."
+        ]
+      }
     },
     {
       "questionId": 333,
@@ -5999,7 +6771,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:29:01.132Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, lập luận rõ ràng và có ví dụ minh họa. Từ vựng và tổ chức bài ở mức tốt, nhưng cần cải thiện liên kết trực tiếp hơn giữa lợi ích giáo dục và quyết định ngân sách, đồng thời rà soát một số lỗi ngữ pháp nhỏ.",
+        "weaknesses": [
+          "Chưa liên kết chặt chẽ giữa lợi ích giáo dục và việc phân bổ ngân sách chính phủ.",
+          "Còn lỗi dùng mạo từ với danh từ không đếm được: 'a confidence'.",
+          "Một số lỗi chính tả và collocation chưa chuẩn: 'wellbeing', 'sound problem-solving abilities'.",
+          "Lặp lại cụm 'science education/arts education' khá nhiều, có thể dùng các cách diễn đạt thay thế."
+        ]
+      }
     },
     {
       "questionId": 335,
@@ -6077,7 +6868,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:28:58.214Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn chỉnh, trả lời đúng đề và có lập trường rõ ràng, bố cục mạch lạc. Điểm yếu chính nằm ở việc dùng một số cụm từ chưa chính xác và phát triển ý còn hơi chung. Nếu khắc phục được collocation và cụ thể hóa ví dụ, bài có thể đạt band 8 hơn.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên: 'how much convenience', 'practical learners', 'save on buildings and staff'.",
+          "Một vài ý mới dừng ở mức khái quát, thiếu ví dụ cụ thể hoặc số liệu hỗ trợ.",
+          "Đoạn thứ ba hơi ôm đồm cả lý do ủng hộ lẫn giới hạn, có thể tách thành hai đoạn rõ hơn.",
+          "Từ 'practical learners' gây hiểu nhầm, nên diễn đạt lại cho chính xác."
+        ]
+      }
     },
     {
       "questionId": 344,
@@ -6153,7 +6963,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:29:02.373Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề bài với hệ thống biện pháp rõ ràng, lập luận mạch lạc và ngôn ngữ tương đối tự nhiên. Điểm yếu chính là một số giải pháp chưa gắn trực tiếp với vai trò chính phủ và còn thiếu chiều sâu ở đoạn thứ ba. Với độ chính xác ngữ pháp và từ vựng tốt, bài nằm trong khoảng band 7.5-8.0.",
+        "weaknesses": [
+          "Một số giải pháp ở đoạn thứ ba (giờ làm linh hoạt, chống phân biệt đối xử) thiên về trách nhiệm của người sử dụng lao động hơn là biện pháp trực tiếp của chính phủ.",
+          "Phần kết luận hơi lặp lại ý ở mở bài, chưa khái quát thêm tầm nhìn hoặc tác động dài hạn.",
+          "Một vài cụm từ diễn đạt chưa tự nhiên, ví dụ 'show girls that study leads to rewarding careers'.",
+          "Có thể mở rộng thêm chính sách giáo dục cụ thể như thay đổi chương trình giảng dạy hoặc chỉ tiêu tuyển sinh để bài sâu hơn."
+        ]
+      }
     },
     {
       "questionId": 345,
@@ -6231,7 +7060,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:29:57.683Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7,
+          "grammar": 8
+        },
+        "summary": "Bài viết tốt, trả lời đúng đề, lập luận rõ ràng và có ví dụ minh họa. Điểm cần cải thiện chủ yếu nằm ở lựa chọn từ vựng và collocation, cũng như mở rộng thảo luận để đạt band cao hơn.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên: 'break this circle', 'pay less in welfare', 'help public finances'.",
+          "Lặp từ 'employers' và 'programmes' nhiều lần.",
+          "Chưa mở rộng thảo luận về hạn chế hoặc điều kiện thành công của apprenticeship."
+        ]
+      }
     },
     {
       "questionId": 355,
@@ -6310,7 +7157,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:29:45.959Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng band 8.0, trình bày quan điểm rõ ràng, lập luận chặt chẽ với ví dụ phù hợp và có sự cân nhắc mặt trái. Ngôn ngữ và ngữ pháp tốt, chỉ cần tinh chỉnh một số diễn đạt và phát triển thêm ý hạn chế.",
+        "weaknesses": [
+          "Phần bàn về hạn chế chưa được khai thác sâu, mới chỉ liệt kê mà chưa phân tích tác động.",
+          "Một số cụm từ chưa đạt độ chính xác cao nhất (ví dụ 'prove a specific skill').",
+          "Đoạn 3 hơi dài và gộp hai ý, có thể tách để tăng mạch lạc.",
+          "Kết luận hơi ngắn, có thể nhấn mạnh mức độ thay đổi hơn."
+        ]
+      }
     },
     {
       "questionId": 362,
@@ -6389,7 +7255,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:29:51.118Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết mạnh, trả lời tốt đề bài, lập luận chặt chẽ với ví dụ cụ thể. Từ vựng và ngữ pháp ở mức tốt, tuy còn vài lỗi nhỏ về collocation và liên kết câu. Có thể đạt band 8 nếu khắc phục những điểm này.",
+        "weaknesses": [
+          "Một vài collocation chưa tự nhiên ('require legal responsibility', 'works best as consultation').",
+          "Câu dài đôi khi thiếu từ nối làm ý bị lủng củng ('results, abilities...').",
+          "Chưa mở rộng cụ thể các cơ chế tham gia ngoài 'school councils' (ví dụ: khảo sát, ủy ban).",
+          "Có thể làm rõ hơn phạm vi 'appropriate issues' để tăng tính thuyết phục."
+        ]
+      }
     },
     {
       "questionId": 368,
@@ -6470,7 +7355,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:30:49.722Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8 tổng quan nhờ lập trường rõ ràng, lập luận logic và vốn từ tốt. Điểm yếu chính là một số collocation chưa tự nhiên và cách tổ chức đoạn thứ hai hơi dồn ý. Nếu khắc phục hai điểm này, bài có thể tiến tới 8.5.",
+        "weaknesses": [
+          "Một số cụm collocation chưa tự nhiên (interest drives careers, go unmeasured, keep a role).",
+          "Đoạn thân thứ hai dồn nhiều ý, nên tách thành hai đoạn nhỏ để phát triển ý rõ hơn.",
+          "Phần bàn về vai trò tích cực của kỳ thi còn sơ sài, chưa thực sự củng cố lập trường 'largely agree'."
+        ]
+      }
     },
     {
       "questionId": 371,
@@ -6547,7 +7450,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:30:35.664Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết đạt khoảng band 7.0. Tác giả trả lời đúng trọng tâm đề bài, bố cục mạch lạc, từ vựng khá tốt. Để nâng điểm, cần phát triển ý cụ thể hơn, đa dạng hóa từ nối và làm rõ một số cụm từ dễ gây nhầm lẫn.",
+        "weaknesses": [
+          "Các giải pháp còn chung chung, thiếu dẫn chứng hoặc ví dụ thực tế để tăng sức thuyết phục.",
+          "Lặp lại một số từ nối ('In addition') và cấu trúc câu có phần lặp khuôn.",
+          "Một số cụm từ diễn đạt chưa thật tự nhiên ('large, sometimes difficult classes', 'constant replacements').",
+          "Kết luận chưa tóm tắt đầy đủ các nguyên nhân (thiếu đề cập đến lương thấp)."
+        ]
+      }
     },
     {
       "questionId": 376,
@@ -6626,7 +7548,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:30:48.561Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết bám sát đề, lập luận chặt chẽ và sử dụng ngôn ngữ ở mức tốt. Đây là một bài viết đạt khoảng band 8 và có thể nâng lên bằng cách tinh chỉnh một số câu dài và đa dạng hóa từ nối. Tổng thể ấn tượng với độ chính xác cao.",
+        "weaknesses": [
+          "Một vài câu dài có thể khiến người đọc phải theo dõi nhiều ý cùng lúc.",
+          "Từ nối hơi an toàn, có thể thay bằng các liên từ học thuật hơn để tăng tính tinh tế.",
+          "Phần hạn chế của podcast mới chỉ nêu ngắn gọn, có thể phát triển thêm một chút để cân bằng."
+        ]
+      }
     },
     {
       "questionId": 379,
@@ -6708,7 +7648,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:31:37.925Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8.0 tổng thể. Học viên hoàn thành tốt yêu cầu đề với lập luận rõ ràng, dẫn chứng phù hợp, vốn từ và ngữ pháp chắc chắn. Để đạt band cao hơn, có thể mở rộng thêm chiều sâu phân tích và sử dụng từ vựng tinh tế hơn.",
+        "weaknesses": [
+          "Đôi khi còn lặp lại cụm 'lifelong learning programmes'.",
+          "Một số cụm từ có thể trang trọng hơn như 'make friends', 'free public money'.",
+          "Phạm vi ví dụ còn giới hạn ở hai khía cạnh, chưa mở rộng thêm các lĩnh vực khác như văn hóa hay công nghệ.",
+          "Có thể đa dạng hóa từ nối để tránh cảm giác hơi công thức."
+        ]
+      }
     },
     {
       "questionId": 391,
@@ -6786,7 +7745,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:31:31.726Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết đạt yêu cầu của đề, nêu rõ nguyên nhân và giải pháp, có lập luận mạch lạc. Từ vựng và ngữ pháp ở mức khá, nhưng cần tránh một số cách diễn đạt hơi vụng và phát triển ý sâu hơn để đạt band cao hơn.",
+        "weaknesses": [
+          "Một số câu dài và cấu trúc rối, gây khó theo dõi.",
+          "Phần giải pháp còn liệt kê, chưa phân tích sâu tính khả thi.",
+          "Lặp từ nối 'In addition' và có cách diễn đạt chưa tự nhiên (authorities that track migration).",
+          "Một số collocation chưa chính xác (resulting strain makes...)."
+        ]
+      }
     },
     {
       "questionId": 402,
@@ -6866,7 +7844,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:31:29.306Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt band 8.0 về tổng thể, trả lời đúng trọng tâm, lập luận mạch lạc và ngôn ngữ tự nhiên. Để đạt cao hơn, cần tinh chỉnh một số collocation và tránh lặp từ.",
+        "weaknesses": [
+          "Một vài collocation chưa tự nhiên ('share cooking', 'weakens prejudice').",
+          "Đại từ quan hệ 'which' có thể gây mơ hồ nghĩa.",
+          "Lặp lại từ 'diversity' và 'promoting' hơi nhiều.",
+          "Chưa khai thác sâu mặt trái hoặc giới hạn của việc thúc đẩy nếu không khéo léo (ngoại trừ nhắc tokenistic)."
+        ]
+      }
     },
     {
       "questionId": 405,
@@ -6943,7 +7940,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:32:33.584Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề: nêu được vai trò của gia sư, lập luận rõ ràng và có ví dụ thực tế. Điểm mạnh là từ vựng và ngữ pháp; điểm cần cải thiện là tổ chức ý trong đoạn thân bài thứ hai và sự nhất quán giữa mở bài và nội dung. Với bài này, thí sinh có thể đạt khoảng 7.0-7.5 nếu khắc phục điểm trên.",
+        "weaknesses": [
+          "Đoạn thân thứ hai pha trộn vai trò và hạn chế/giải pháp, làm loãng trọng tâm.",
+          "Mở bài hứa 'outline two roles' nhưng bài lại bàn thêm hạn chế; thiếu nhất quán.",
+          "Một số cụm từ chưa tự nhiên ('at once', 'patient adult') ảnh hưởng đến độ chính xác từ vựng.",
+          "Chưa khai thác sâu khía cạnh 'supplementing education' (bổ trợ, không thay thế) nên lập luận hơi chung."
+        ]
+      }
     },
     {
       "questionId": 417,
@@ -7028,7 +8044,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:32:35.495Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết hoàn thành tốt yêu cầu đề, lập luận rõ ràng và có sức thuyết phục. Điểm yếu chủ yếu nằm ở một số diễn đạt từ vựng và liên kết nhỏ, nhưng không ảnh hưởng nhiều đến sự mạch lạc. Với bài thi thật, bài có thể đạt khoảng 7.5-8.0.",
+        "weaknesses": [
+          "Một số cụm từ chưa tự nhiên, ví dụ 'physical health, which is increasingly urgent'.",
+          "Việc lặp từ 'sport' và 'art' khá nhiều, chưa paraphrase đa dạng.",
+          "Liên kết 'For this reason' dùng chưa chính xác khi nêu nhiều lý do.",
+          "Còn vài lỗi nhỏ về số ít/số nhiều ('related illness')."
+        ]
+      }
     },
     {
       "questionId": 419,
@@ -7109,7 +8144,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:32:41.926Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết khá tốt, trả lời đúng đề bài và có dẫn chứng minh hoạ. Điểm yếu chính nằm ở một số cụm từ chưa chuẩn xác và việc phát triển ý hơi dàn trải ở đoạn thân bài thứ hai. Nhìn chung, bài đạt khoảng band 7.5.",
+        "weaknesses": [
+          "Một số cụm từ chưa chính xác hoặc kém tự nhiên ('personal advancement', 'road awareness', 'spared tragedy').",
+          "Đoạn thân bài thứ hai gộp nhiều ý chưa được phát triển sâu; nên tách bạch hoặc chọn một trọng tâm.",
+          "Chưa có ví dụ cụ thể về quốc gia hoặc số liệu để tăng tính thuyết phục cho lập luận."
+        ]
+      }
     },
     {
       "questionId": 423,
@@ -7189,7 +8242,25 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:33:29.618Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 8,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng band 7.5-8: lập luận rõ ràng, từ vựng và ngữ pháp tốt. Để lên band 8, em nên thêm ví dụ cụ thể ở thân bài thứ hai và siết chặt một số cách diễn đạt chưa tự nhiên.",
+        "weaknesses": [
+          "Thân bài thứ hai chưa có ví dụ minh hoạ, hơi lý thuyết.",
+          "Một số diễn đạt chưa hoàn toàn tự nhiên (belongs at home, it develops...).",
+          "Đôi chỗ dấu câu còn thiếu (trước and trong câu phức)."
+        ]
+      }
     },
     {
       "questionId": 428,
@@ -7296,7 +8367,26 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T18:33:32.628Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết tốt, thể hiện lập luận chặt chẽ và từ vựng khá. Cần chỉnh một số lỗi ngữ pháp và collocation để đạt band 8 trở lên.",
+        "weaknesses": [
+          "Lỗi nhỏ về mạo từ và danh từ không đếm được (a confidence).",
+          "Đôi chỗ dùng thì chưa nhất quán trong ví dụ (encouraged thay vì has encouraged).",
+          "Một số collocation chưa tự nhiên (internet connection thay vì internet access).",
+          "Lặp từ 'technology', 'teachers' nhiều lần."
+        ]
+      }
     },
     {
       "questionId": 443,
@@ -7367,7 +8457,26 @@
         "newEntries": []
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:33:33.700Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Tổng thể bài viết tốt, đạt khoảng 7.5–8.0. Ưu điểm chính là lập luận mạch lạc, vốn từ học thuật ổn, ngữ pháp chính xác; điểm cần cải thiện là chọn collocation tự nhiên hơn và tránh lỗi nhỏ về đại từ.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên ('hold advanced language qualifications').",
+          "Lỗi đại từ 'herself' giả định giới tính, nên dùng 'themselves'.",
+          "Phần phản biện hơi ngắn, chưa có ví dụ hoặc dẫn chứng cụ thể.",
+          "Diễn đạt đôi chỗ còn dài dòng, có thể rút gọn để tăng tính súc tích."
+        ]
+      }
     },
     {
       "questionId": 448,
@@ -7444,7 +8553,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:34:44.810Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 8,
+          "grammar": 8
+        },
+        "summary": "Bài viết ở mức khá tốt, trả lời đúng trọng tâm đề, lập luận chặt chẽ và từ vựng phong phú. Điểm yếu chính nằm ở việc tổ chức đoạn thứ hai chưa thật tập trung và một vài câu quá dài. Với những cải thiện nhỏ về bố cục và cách diễn đạt, bài có thể đạt band 8.",
+        "weaknesses": [
+          "Đoạn văn thứ hai ôm đồm nhiều ý: lợi ích hợp tác, giữ thể lực, rồi chuyển sang cảnh báo; nên tách hoặc dùng câu chủ đề bao quát.",
+          "Một số câu quá dài khiến mạch ý kém rõ ràng, có thể tách câu.",
+          "Mức độ đồng ý ('to what extent') chưa được nhấn mạnh rõ trong thân bài.",
+          "Có thể thêm ví dụ cụ thể hơn để tăng tính thuyết phục."
+        ]
+      }
     },
     {
       "questionId": 467,
@@ -7530,7 +8658,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:34:15.177Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt yêu cầu về nội dung và có lập luận rõ ràng. Từ vựng và ngữ pháp ở mức khá tốt, nhưng cần trau chuốt collocation và tránh một số cấu trúc dài dễ gây tối nghĩa. Nhìn chung, bài viết đang ở mức band 7.5-8.0.",
+        "weaknesses": [
+          "Một số collocation chưa tự nhiên như 'same conditions and the same support', 'guidance on information'.",
+          "Vài câu dài khiến ý bị chồng chéo, cần tách câu để rõ ràng hơn.",
+          "Phần kết bài có thể làm rõ hơn cách hiện đại hóa thư viện để tăng tính thuyết phục.",
+          "Thiếu mạo từ ở một vài danh từ số nhiều đã xác định."
+        ]
+      }
     },
     {
       "questionId": 471,
@@ -7609,7 +8756,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:34:46.568Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Bài viết đạt khoảng 7.0, trả lời đúng đề, có bố cục rõ ràng, vốn từ khá và ít lỗi ngữ pháp. Để lên band 8, cần phát triển luận điểm sâu hơn, tách riêng từng nguyên nhân/giải pháp, dùng collocations tự nhiên và đa dạng hóa cấu trúc câu hơn.",
+        "weaknesses": [
+          "Các luận điểm còn chung, chưa phân tích sâu nguyên nhân và giải pháp.",
+          "Đoạn nguyên nhân gộp hai ý nhưng ví dụ không bao phủ hết ý về nhận thức/động lực.",
+          "Một số collocations chưa tự nhiên (play a substantial part, barriers fall).",
+          "Cấu trúc câu còn khá an toàn, ít biến đổi linh hoạt."
+        ]
+      }
     },
     {
       "questionId": 475,
@@ -7690,7 +8856,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T18:35:00.998Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Bài viết đạt khoảng 7.5, phản hồi đúng đề, lập luận rõ ràng và có ví dụ; chỉ cần cải thiện bố cục đoạn và độ chính xác từ vựng để lên 8.0.",
+        "weaknesses": [
+          "Đoạn thứ hai gộp nhiều ý, làm giảm tính mạch lạc.",
+          "Phần hạn chế chưa được phát triển đủ sâu.",
+          "Một vài collocation chưa chính xác (set exercises, good tutoring).",
+          "Thiếu thì tương lai/mạo từ ở một số chỗ (depend nên là will depend, individual attention nên có the)."
+        ]
+      }
     }
   ]
 }
