@@ -1,0 +1,122 @@
+{
+  "questionId": 326,
+  "text": "Videos of morning routines, extreme diets and expensive holidays attract millions of viewers, and many feel that online influencers promote unhealthy lifestyles. I agree to a large extent, since they are paid per click and rarely have medical training, although some influencers offer helpful ideas.\n\nTo begin with, some influencers promote unhealthy lifestyles by recommending extreme diets, supplements and constant spending. They are paid per click and rarely have medical training, so followers copy risky habits. A fitness influencer who claims that she lost ten kilos in two weeks by drinking only juice, for example, may persuade young viewers to starve themselves, and some of the supplements that she promotes have never been tested. Others encourage heavy drinking, unhealthy snacks or gambling, because sponsors pay for these messages. Pictures of perfect bodies and luxurious lives create pressure to look and spend in the same way, which can lead to eating disorders and debt.\n\nHowever, not all influencers harm their followers. Others share fitness and cooking ideas that help, such as simple home exercises, balanced recipes and advice about sleep or mental health. A chef who shows how to prepare cheap, healthy meals, for example, can improve the diet of thousands of families. Many influencers also raise awareness of illnesses and encourage medical check-ups. Disclosure rules and critical viewers limit the harm. Laws should require influencers to state when they are paid and to avoid health claims that cannot be proved, platforms can remove dangerous content, and parents and schools should teach young people to question what they see and to seek advice from qualified professionals.\n\nIn conclusion, I agree to a large extent that online influencers promote unhealthy lifestyles, but regulation and media literacy can reduce the risks.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: người ảnh hưởng quảng bá lối sống không lành mạnh — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu video thói quen sáng, ăn kiêng cực đoan; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Một số quảng bá ăn kiêng cực đoan, thực phẩm chức năng, tiêu xài: trả theo lượt, ít đào tạo y tế nên người theo bắt chước; ví dụ người ảnh hưởng thể hình nói giảm 10 kg trong hai tuần chỉ uống nước ép khiến người trẻ nhịn đói, chất bổ chưa kiểm nghiệm; rượu, đồ ăn vặt, cờ bạc do nhà tài trợ; thân hình hoàn hảo, sống xa hoa dẫn rối loạn ăn uống, nợ.",
+        "refs": [
+          "ID-media-influencers-lifestyle",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải ai cũng hại: chia sẻ thể dục, nấu ăn có ích; ví dụ đầu bếp chỉ món rẻ lành mạnh cải thiện bữa ăn hàng nghìn gia đình; nâng nhận thức bệnh, khám; luật công khai được trả, tuyên bố sức khoẻ có chứng minh; nền tảng gỡ nội dung nguy hiểm; dạy người trẻ nghi vấn, tìm chuyên gia.",
+        "refs": [
+          "ID-media-influencers-lifestyle",
+          "ID-media-celebrity-endorsement",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; điều tiết, hiểu biết truyền thông giảm rủi ro.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-influencers-lifestyle"
+    ]
+  },
+  "chunks": [
+    [
+      "morning routines, extreme diets and expensive holidays",
+      "thói quen buổi sáng, chế độ ăn kiêng cực đoan và những kỳ nghỉ đắt tiền"
+    ],
+    [
+      "online influencers promote unhealthy lifestyles",
+      "người ảnh hưởng trực tuyến quảng bá lối sống không lành mạnh"
+    ],
+    [
+      "extreme diets, supplements and constant spending",
+      "ăn kiêng cực đoan, thực phẩm chức năng và chi tiêu liên tục"
+    ],
+    [
+      "paid per click",
+      "được trả theo lượt nhấp"
+    ],
+    [
+      "rarely have medical training",
+      "hiếm khi được đào tạo y khoa"
+    ],
+    [
+      "copy risky habits",
+      "bắt chước thói quen rủi ro"
+    ],
+    [
+      "lost ten kilos in two weeks",
+      "giảm mười ký trong hai tuần"
+    ],
+    [
+      "drinking only juice",
+      "chỉ uống nước ép"
+    ],
+    [
+      "starve themselves",
+      "tự bỏ đói bản thân"
+    ],
+    [
+      "never been tested",
+      "chưa từng được kiểm nghiệm"
+    ],
+    [
+      "heavy drinking, unhealthy snacks or gambling",
+      "uống rượu nhiều, đồ ăn vặt không lành mạnh hoặc cờ bạc"
+    ],
+    [
+      "sponsors pay for these messages",
+      "nhà tài trợ trả tiền cho những thông điệp này"
+    ],
+    [
+      "Pictures of perfect bodies and luxurious lives",
+      "hình ảnh cơ thể hoàn hảo và cuộc sống xa hoa"
+    ],
+    [
+      "eating disorders and debt",
+      "rối loạn ăn uống và nợ nần"
+    ],
+    [
+      "simple home exercises, balanced recipes",
+      "bài tập đơn giản tại nhà, công thức cân bằng"
+    ],
+    [
+      "cheap, healthy meals",
+      "bữa ăn rẻ và lành mạnh"
+    ],
+    [
+      "medical check-ups",
+      "khám sức khoẻ"
+    ],
+    [
+      "Disclosure rules and critical viewers",
+      "quy tắc công khai và người xem biết phê phán"
+    ],
+    [
+      "qualified professionals",
+      "chuyên gia có trình độ"
+    ]
+  ]
+}

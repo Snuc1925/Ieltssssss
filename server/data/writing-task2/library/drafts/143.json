@@ -1,0 +1,126 @@
+{
+  "questionId": 143,
+  "text": "Documentaries about nature, history and social problems attract millions of viewers on television and streaming platforms, and this essay will discuss the role of documentaries in educating the public, focusing on how they present evidence and how they raise awareness.\n\nTo begin with, documentaries educate the public by showing real events and complex issues in an accessible way. Film combines evidence, interviews and images that make topics such as climate or history memorable. A viewer who watches a documentary about plastic in the oceans, for example, sees turtles caught in nets and beaches covered in rubbish, which is far more powerful than reading a statistic. Experts explain difficult ideas in plain language, and animation, maps and archive footage make them easier to grasp. People who would never open a scientific textbook may therefore learn about medicine, space or economics in an evening.\n\nFurthermore, documentaries raise awareness and encourage action. They bring attention to problems that are neglected in the news, such as modern slavery, and they can change opinions and policies. Several films about food production have led consumers to change their habits and governments to tighten rules. Schools use documentaries to bring lessons to life, and they allow viewers to visit places and cultures they could never see. However, directors may present a one-sided view or simplify, and viewers should not accept every claim without question. Documentaries are best treated as a starting point for further reading, discussion and independent thinking.\n\nIn conclusion, documentaries play an important role in educating the public by presenting evidence vividly and drawing attention to important issues, provided that viewers remain critical.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò phim tài liệu trong giáo dục công chúng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu phim tài liệu thiên nhiên, lịch sử, xã hội; hai ý: bằng chứng; nâng nhận thức.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Giáo dục bằng sự kiện thật, vấn đề phức tạp dễ tiếp cận: phim kết hợp bằng chứng, phỏng vấn, hình ảnh; ví dụ người xem phim rác nhựa ở đại dương thấy rùa mắc lưới, bãi biển đầy rác mạnh hơn thống kê; chuyên gia giải thích dễ hiểu, hoạt hình, bản đồ, tư liệu; người không đọc giáo trình học y học, vũ trụ, kinh tế.",
+        "refs": [
+          "ID-media-documentaries",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + giới hạn",
+        "think": "Nâng nhận thức, khuyến khích hành động: chú ý vấn đề bị bỏ quên (nô lệ hiện đại), thay đổi ý kiến, chính sách; phim về thực phẩm đổi thói quen, siết quy định; trường dùng; thăm nơi, văn hoá; nhưng thiên lệch, đơn giản hoá, điểm khởi đầu.",
+        "refs": [
+          "ID-media-documentaries",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò quan trọng nếu người xem phê phán.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-documentaries"
+    ]
+  },
+  "chunks": [
+    [
+      "Documentaries about nature, history and social problems",
+      "phim tài liệu về thiên nhiên, lịch sử và các vấn đề xã hội"
+    ],
+    [
+      "educating the public",
+      "giáo dục công chúng"
+    ],
+    [
+      "present evidence",
+      "trình bày bằng chứng"
+    ],
+    [
+      "raise awareness",
+      "nâng cao nhận thức"
+    ],
+    [
+      "showing real events and complex issues in an accessible way",
+      "cho thấy sự kiện thật và vấn đề phức tạp theo cách dễ tiếp cận"
+    ],
+    [
+      "evidence, interviews and images",
+      "bằng chứng, phỏng vấn và hình ảnh"
+    ],
+    [
+      "plastic in the oceans",
+      "nhựa trong đại dương"
+    ],
+    [
+      "turtles caught in nets",
+      "rùa mắc kẹt trong lưới"
+    ],
+    [
+      "beaches covered in rubbish",
+      "bãi biển phủ đầy rác"
+    ],
+    [
+      "more powerful than reading a statistic",
+      "mạnh mẽ hơn việc đọc một con số thống kê"
+    ],
+    [
+      "Experts explain difficult ideas in plain language",
+      "chuyên gia giải thích ý tưởng khó bằng ngôn ngữ đơn giản"
+    ],
+    [
+      "animation, maps and archive footage",
+      "hoạt hình, bản đồ và tư liệu lưu trữ"
+    ],
+    [
+      "scientific textbook",
+      "giáo trình khoa học"
+    ],
+    [
+      "encourage action",
+      "khuyến khích hành động"
+    ],
+    [
+      "neglected in the news",
+      "bị bỏ quên trong tin tức"
+    ],
+    [
+      "modern slavery",
+      "nô lệ thời hiện đại"
+    ],
+    [
+      "change opinions and policies",
+      "thay đổi quan điểm và chính sách"
+    ],
+    [
+      "bring lessons to life",
+      "làm bài học trở nên sống động"
+    ],
+    [
+      "a one-sided view or simplify",
+      "cái nhìn một chiều hoặc đơn giản hoá"
+    ],
+    [
+      "a starting point for further reading",
+      "điểm khởi đầu cho việc đọc thêm"
+    ]
+  ]
+}

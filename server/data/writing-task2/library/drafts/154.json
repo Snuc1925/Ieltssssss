@@ -1,0 +1,121 @@
+{
+  "questionId": 154,
+  "text": "Programmes in which strangers share a house or compete for a prize are popular around the world, and many people think that reality television encourages bad behaviour. I agree to a large extent, since such shows often reward conflict and shallow fame, although a few have positive aspects.\n\nTo begin with, reality television often rewards conflict and shallow fame, which can encourage poor behaviour. Producers choose arguments, insults and scandals that attract viewers, so young audiences may imitate rudeness and think fame matters more than effort. A contestant who shouts at others and receives millions of views, for example, may become a celebrity, which sends the message that aggression is a path to success. Editing creates villains and exaggerates quarrels, and participants are encouraged to gossip, lie and betray each other in order to win. Viewers who watch such behaviour week after week may come to see it as normal and may copy the language and attitudes in their own schools and offices.\n\nHowever, not all reality shows are harmful, and a few teach skills or kindness. Cooking and singing competitions, for example, show contestants who practise for years and support each other, and home renovation programmes demonstrate practical skills. Some documentaries in the genre follow families through difficult times and increase understanding of other people. The influence therefore depends on the programme and on the viewer. Parents should talk with children about what they watch, and broadcasters should avoid deliberately provoking conflict or humiliating participants. Viewers need critical awareness and should remember that what they see has been edited for entertainment.\n\nIn conclusion, I agree to a large extent that reality television encourages bad behaviour, but its effect depends on the programme and on how critically it is watched.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: truyền hình thực tế khuyến khích hành vi xấu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chương trình người lạ ở chung nhà, thi lấy giải; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Thưởng xung đột, nổi tiếng nông: nhà sản xuất chọn cãi nhau, lăng mạ, bê bối; khán giả trẻ bắt chước thô lỗ, nghĩ nổi tiếng hơn nỗ lực; ví dụ thí sinh quát người khác được hàng triệu lượt xem thành ngôi sao, hung hăng là đường đến thành công; dựng phim tạo kẻ xấu, phóng đại; nói xấu, nói dối, phản bội; xem lâu coi là bình thường, bắt chước.",
+        "refs": [
+          "ID-media-reality-tv",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải tất cả: thi nấu ăn, hát cho thấy luyện tập, hỗ trợ; cải tạo nhà dạy kỹ năng; tài liệu theo gia đình khó khăn; phụ thuộc chương trình và người xem; cha mẹ trò chuyện; đài tránh khiêu khích; nhận thức phê phán.",
+        "refs": [
+          "ID-media-reality-tv",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; phụ thuộc chương trình và cách xem.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-reality-tv"
+    ]
+  },
+  "chunks": [
+    [
+      "strangers share a house or compete for a prize",
+      "người lạ ở chung nhà hoặc thi đấu giành giải"
+    ],
+    [
+      "reality television encourages bad behaviour",
+      "truyền hình thực tế khuyến khích hành vi xấu"
+    ],
+    [
+      "rewards conflict and shallow fame",
+      "thưởng cho xung đột và sự nổi tiếng hời hợt"
+    ],
+    [
+      "arguments, insults and scandals",
+      "cãi vã, lăng mạ và bê bối"
+    ],
+    [
+      "imitate rudeness",
+      "bắt chước sự thô lỗ"
+    ],
+    [
+      "fame matters more than effort",
+      "sự nổi tiếng quan trọng hơn nỗ lực"
+    ],
+    [
+      "shouts at others",
+      "quát người khác"
+    ],
+    [
+      "receives millions of views",
+      "nhận hàng triệu lượt xem"
+    ],
+    [
+      "aggression is a path to success",
+      "sự hung hăng là con đường đến thành công"
+    ],
+    [
+      "Editing creates villains and exaggerates quarrels",
+      "việc dựng phim tạo ra kẻ xấu và phóng đại các cuộc cãi vã"
+    ],
+    [
+      "gossip, lie and betray each other",
+      "nói xấu, nói dối và phản bội nhau"
+    ],
+    [
+      "see it as normal",
+      "coi đó là bình thường"
+    ],
+    [
+      "copy the language and attitudes",
+      "bắt chước ngôn ngữ và thái độ"
+    ],
+    [
+      "teach skills or kindness",
+      "dạy kỹ năng hoặc lòng tốt"
+    ],
+    [
+      "Cooking and singing competitions",
+      "các cuộc thi nấu ăn và ca hát"
+    ],
+    [
+      "practise for years and support each other",
+      "luyện tập nhiều năm và hỗ trợ lẫn nhau"
+    ],
+    [
+      "home renovation programmes",
+      "chương trình cải tạo nhà"
+    ],
+    [
+      "humiliating participants",
+      "làm nhục người tham gia"
+    ],
+    [
+      "edited for entertainment",
+      "được dựng để giải trí"
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "questionId": 284,
+  "text": "Advertisements show flawless models, spotless kitchens and products that promise happiness, and many feel that advertising creates unrealistic expectations. I agree with this view, since it presents edited images and exaggerated promises, although some adverts are honest.\n\nTo begin with, advertising creates unrealistic expectations of appearance and lifestyle. Edited models, perfect homes and promises of instant results make ordinary bodies and lives look inadequate. A woman who sees a skin cream advertised by a model with no visible pores, for example, may believe that the product will give her the same appearance, although the picture was altered by software and the model wears heavy make-up. Slimming products promise rapid weight loss without effort, and car adverts present empty roads and happy families, which do not match real traffic and daily stress. People who compare themselves with these images feel dissatisfied with their looks, homes and incomes, and they may buy more products in an attempt to close the gap.\n\nFurthermore, unrealistic expectations can damage wellbeing, especially among teenagers who are still forming their self-image. Research links exposure to idealised bodies with low self-esteem and eating disorders. However, not all advertising is dishonest, and some campaigns now show diverse body types and real people. Honest labelling and diverse images reduce the harm. Laws can require clear notices when photographs have been retouched and ban claims that cannot be proved, while schools should teach students how images are produced. Consumers also have a role in treating advertisements with healthy scepticism.\n\nIn conclusion, I agree that advertising creates unrealistic expectations, but regulation and media education can limit its effects.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: quảng cáo tạo kỳ vọng phi thực tế — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người mẫu hoàn hảo, bếp sạch tinh tươm; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Kỳ vọng phi thực tế về ngoại hình, lối sống: người mẫu chỉnh sửa, nhà hoàn hảo, kết quả tức thì; ví dụ phụ nữ thấy kem da quảng cáo bởi người mẫu không lỗ chân lông tin sản phẩm cho giống dù ảnh chỉnh, trang điểm đậm; giảm cân nhanh không cố gắng; xe đường vắng, gia đình vui; so sánh không hài lòng, mua thêm.",
+        "refs": [
+          "ID-media-ads-unrealistic",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hậu quả + giới hạn",
+        "think": "Hại sức khoẻ tinh thần nhất là thiếu niên: tự trọng thấp, rối loạn ăn uống; nhưng không phải quảng cáo nào cũng giả, nhiều chiến dịch cho thấy thân hình đa dạng; luật nhãn ảnh chỉnh, cấm tuyên bố không chứng minh; trường dạy cách ảnh tạo ra; người tiêu dùng hoài nghi lành mạnh.",
+        "refs": [
+          "ID-media-ads-unrealistic",
+          "ID-media-misleading-posts",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; quy định và giáo dục hạn chế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-ads-unrealistic"
+    ]
+  },
+  "chunks": [
+    [
+      "flawless models, spotless kitchens and products that promise happiness",
+      "người mẫu hoàn hảo, nhà bếp sạch tinh tươm và những sản phẩm hứa hẹn hạnh phúc"
+    ],
+    [
+      "advertising creates unrealistic expectations",
+      "quảng cáo tạo ra kỳ vọng phi thực tế"
+    ],
+    [
+      "edited images and exaggerated promises",
+      "hình ảnh đã chỉnh sửa và lời hứa thổi phồng"
+    ],
+    [
+      "Edited models, perfect homes and promises of instant results",
+      "người mẫu chỉnh sửa, ngôi nhà hoàn hảo và lời hứa kết quả tức thì"
+    ],
+    [
+      "ordinary bodies and lives look inadequate",
+      "khiến cơ thể và cuộc sống bình thường trông thiếu sót"
+    ],
+    [
+      "a skin cream advertised by a model with no visible pores",
+      "kem dưỡng da được quảng cáo bởi người mẫu không có lỗ chân lông nhìn thấy được"
+    ],
+    [
+      "altered by software",
+      "bị phần mềm chỉnh sửa"
+    ],
+    [
+      "heavy make-up",
+      "trang điểm đậm"
+    ],
+    [
+      "Slimming products promise rapid weight loss without effort",
+      "sản phẩm giảm cân hứa hẹn giảm cân nhanh mà không cần nỗ lực"
+    ],
+    [
+      "empty roads and happy families",
+      "những con đường vắng và gia đình hạnh phúc"
+    ],
+    [
+      "real traffic and daily stress",
+      "giao thông thực tế và căng thẳng hằng ngày"
+    ],
+    [
+      "dissatisfied with their looks, homes and incomes",
+      "không hài lòng với ngoại hình, nhà cửa và thu nhập của mình"
+    ],
+    [
+      "close the gap",
+      "thu hẹp khoảng cách"
+    ],
+    [
+      "still forming their self-image",
+      "vẫn đang hình thành hình ảnh bản thân"
+    ],
+    [
+      "low self-esteem and eating disorders",
+      "lòng tự trọng thấp và rối loạn ăn uống"
+    ],
+    [
+      "diverse body types and real people",
+      "các dạng thân hình đa dạng và con người thật"
+    ],
+    [
+      "Honest labelling and diverse images",
+      "dán nhãn trung thực và hình ảnh đa dạng"
+    ],
+    [
+      "retouched",
+      "được chỉnh sửa"
+    ],
+    [
+      "healthy scepticism",
+      "sự hoài nghi lành mạnh"
+    ]
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questionId": 224,
+  "text": "Pop-up windows, videos that start automatically and adverts that seem to follow users from site to site are part of everyday browsing, and many feel that online advertising is intrusive. I agree with this view, since it interrupts and tracks users, although it pays for much free content.\n\nTo begin with, online advertising is intrusive because it interrupts and tracks users. Pop-ups, autoplay videos and personalised tracking disturb browsing and collect data. A reader who tries to follow a news article, for example, may have to close three banners, wait for an advert to end and then find that the page jumps while it loads. Companies collect information about searches, locations and purchases to target adverts, which many people find uncomfortable, especially when they see ads for something that they mentioned in a private conversation. Mobile phone users also pay for the data that adverts consume, and some adverts slow devices or contain harmful software.\n\nHowever, advertising revenue keeps many websites free, and some adverts are useful. Newspapers, video platforms and search engines depend on it, and without it, readers might have to pay for subscriptions that many cannot afford. A shopper who receives an advert for a product she was looking for may actually benefit. The answer is therefore not to abolish online advertising but to make it less intrusive. Better rules and tools balance both sides: laws should require clear consent before data are collected, limit tracking, and ban the most annoying formats, while browsers and ad blockers allow users to protect themselves. Responsible advertisers who respect users can build trust.\n\nIn conclusion, I agree that online advertising is intrusive, but with proper regulation it can remain a fair way to fund content.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: quảng cáo trực tuyến xâm phạm — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu pop-up, video tự phát, quảng cáo bám theo người dùng; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Làm gián đoạn và theo dõi: pop-up, video tự phát, theo dõi cá nhân làm phiền, thu dữ liệu; ví dụ người đọc báo phải đóng ba biểu ngữ, chờ quảng cáo, trang nhảy khi tải; thu thập tìm kiếm, vị trí, mua sắm; quảng cáo về điều nhắc trong trò chuyện riêng; tốn dữ liệu, làm chậm, phần mềm độc hại.",
+        "refs": [
+          "ID-media-online-ads-intrusive",
+          "ID-tech-privacy-disappearing",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Doanh thu quảng cáo giữ trang miễn phí; báo, video, công cụ tìm kiếm phụ thuộc; không có phải trả thuê bao; ví dụ người mua nhận quảng cáo sản phẩm đang tìm có lợi; giải pháp ít xâm phạm: luật yêu cầu đồng ý rõ, hạn chế theo dõi, cấm dạng phiền nhất; trình duyệt chặn quảng cáo; nhà quảng cáo tôn trọng xây niềm tin.",
+        "refs": [
+          "ID-media-online-ads-intrusive",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; điều tiết hợp lý vẫn tài trợ nội dung công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-online-ads-intrusive"
+    ]
+  },
+  "chunks": [
+    [
+      "Pop-up windows, videos that start automatically",
+      "cửa sổ bật lên, video tự động phát"
+    ],
+    [
+      "follow users from site to site",
+      "bám theo người dùng từ trang này sang trang khác"
+    ],
+    [
+      "online advertising is intrusive",
+      "quảng cáo trực tuyến mang tính xâm phạm"
+    ],
+    [
+      "interrupts and tracks users",
+      "làm gián đoạn và theo dõi người dùng"
+    ],
+    [
+      "Pop-ups, autoplay videos and personalised tracking",
+      "cửa sổ bật lên, video tự phát và theo dõi cá nhân hoá"
+    ],
+    [
+      "disturb browsing and collect data",
+      "làm phiền việc duyệt web và thu thập dữ liệu"
+    ],
+    [
+      "close three banners",
+      "đóng ba biểu ngữ"
+    ],
+    [
+      "wait for an advert to end",
+      "chờ một quảng cáo kết thúc"
+    ],
+    [
+      "the page jumps while it loads",
+      "trang nhảy khi đang tải"
+    ],
+    [
+      "searches, locations and purchases",
+      "tìm kiếm, vị trí và mua sắm"
+    ],
+    [
+      "target adverts",
+      "nhắm mục tiêu quảng cáo"
+    ],
+    [
+      "uncomfortable",
+      "khó chịu"
+    ],
+    [
+      "pay for the data that adverts consume",
+      "trả tiền cho dữ liệu mà quảng cáo tiêu tốn"
+    ],
+    [
+      "slow devices or contain harmful software",
+      "làm chậm thiết bị hoặc chứa phần mềm độc hại"
+    ],
+    [
+      "Advertising revenue keeps many websites free",
+      "doanh thu quảng cáo giữ nhiều trang web miễn phí"
+    ],
+    [
+      "subscriptions that many cannot afford",
+      "gói đăng ký mà nhiều người không đủ khả năng"
+    ],
+    [
+      "clear consent before data are collected",
+      "sự đồng ý rõ ràng trước khi dữ liệu được thu thập"
+    ],
+    [
+      "ban the most annoying formats",
+      "cấm các định dạng gây phiền nhất"
+    ],
+    [
+      "ad blockers",
+      "phần mềm chặn quảng cáo"
+    ],
+    [
+      "Better rules and tools balance both sides",
+      "quy tắc và công cụ tốt hơn cân bằng cả hai phía"
+    ]
+  ]
+}

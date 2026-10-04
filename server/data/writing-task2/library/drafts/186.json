@@ -1,0 +1,123 @@
+{
+  "questionId": 186,
+  "text": "Children watch cartoons and educational programmes for hours every week, and some people think that advertising should be banned from children's programmes. I agree to a large extent, since such a ban would protect young viewers, although the television industry will need alternative funding.\n\nTo begin with, advertising should be banned from children's programmes because it exploits young viewers. Children cannot judge persuasion, and adverts fuel pester power, which means that they keep demanding products from their parents. A child who sees a toy advertised between two cartoons, for example, believes that she needs it, and a parent who refuses may face tears and arguments. Many adverts promote sugary snacks and expensive items, which encourages unhealthy habits and materialism. Some countries, including Sweden and Norway, have banned or strictly limited advertising aimed at children, and they have not seen the quality of programmes decline. A programme that is free of commercial breaks allows children to concentrate on the story and the lesson.\n\nHowever, channels rely on advertising income, so alternative funding is needed. If commercial channels lose income, they may reduce the quality or quantity of children's programmes, which would harm young viewers. Public funding, subsidies for educational content or limited sponsorship that does not promote products can fill the gap. In addition, children now watch many videos online, where a ban on television alone would have little effect, so rules should cover digital platforms too. Parents can also teach children how advertising works. Quality television for children can survive without ads, as public broadcasters have shown for decades.\n\nIn conclusion, I agree that advertising should be banned from children's programmes, provided that governments find other sources of funding.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: cấm quảng cáo trong chương trình trẻ em — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu trẻ xem hoạt hình, chương trình giáo dục hàng giờ; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Quảng cáo khai thác người xem trẻ: trẻ không phán đoán được thuyết phục, thúc ép cha mẹ; ví dụ trẻ thấy đồ chơi giữa hai phim hoạt hình tin cần có, cha mẹ từ chối bị khóc, cãi; quảng cáo kẹo, đồ đắt khuyến khích thói quen xấu, vật chất; Thuỵ Điển, Na Uy cấm hoặc hạn chế mà chất lượng không giảm; chương trình không quảng cáo tập trung.",
+        "refs": [
+          "ID-media-ban-ads-children-tv",
+          "ID-media-ads-children",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Kênh phụ thuộc quảng cáo: mất thu nhập giảm chất lượng; tài trợ công, trợ cấp nội dung giáo dục, tài trợ hạn chế không quảng bá sản phẩm; trẻ xem video trực tuyến nên quy tắc cần phủ nền tảng số; cha mẹ dạy; đài công cho thấy có thể.",
+        "refs": [
+          "ID-media-ban-ads-children-tv",
+          "ID-media-public-broadcasting",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu tìm nguồn tài trợ khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-ban-ads-children-tv"
+    ]
+  },
+  "chunks": [
+    [
+      "cartoons and educational programmes",
+      "phim hoạt hình và chương trình giáo dục"
+    ],
+    [
+      "advertising should be banned from children's programmes",
+      "quảng cáo nên bị cấm trong các chương trình dành cho trẻ em"
+    ],
+    [
+      "exploits young viewers",
+      "khai thác người xem nhỏ tuổi"
+    ],
+    [
+      "fuel pester power",
+      "thúc đẩy sức ép đòi hỏi của trẻ"
+    ],
+    [
+      "keep demanding products from their parents",
+      "liên tục đòi cha mẹ mua sản phẩm"
+    ],
+    [
+      "advertised between two cartoons",
+      "được quảng cáo giữa hai bộ phim hoạt hình"
+    ],
+    [
+      "tears and arguments",
+      "nước mắt và cãi vã"
+    ],
+    [
+      "sugary snacks and expensive items",
+      "đồ ăn vặt nhiều đường và đồ đắt tiền"
+    ],
+    [
+      "encourages unhealthy habits and materialism",
+      "khuyến khích thói quen không lành mạnh và chủ nghĩa vật chất"
+    ],
+    [
+      "banned or strictly limited advertising aimed at children",
+      "cấm hoặc hạn chế chặt quảng cáo nhắm vào trẻ em"
+    ],
+    [
+      "quality of programmes decline",
+      "chất lượng chương trình suy giảm"
+    ],
+    [
+      "free of commercial breaks",
+      "không có quảng cáo xen giữa"
+    ],
+    [
+      "rely on advertising income",
+      "dựa vào thu nhập quảng cáo"
+    ],
+    [
+      "alternative funding",
+      "nguồn tài trợ thay thế"
+    ],
+    [
+      "Public funding, subsidies for educational content",
+      "tài trợ công, trợ cấp cho nội dung giáo dục"
+    ],
+    [
+      "limited sponsorship",
+      "tài trợ có giới hạn"
+    ],
+    [
+      "children now watch many videos online",
+      "trẻ em giờ xem nhiều video trực tuyến"
+    ],
+    [
+      "digital platforms",
+      "nền tảng kỹ thuật số"
+    ],
+    [
+      "public broadcasters",
+      "các đài phát thanh truyền hình công"
+    ]
+  ]
+}

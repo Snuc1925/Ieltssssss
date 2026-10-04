@@ -1,0 +1,124 @@
+{
+  "questionId": 26,
+  "text": "Millions of people check their phones many times a day to see messages and photographs from friends, and some claim that social media causes loneliness. I agree to a limited extent, since social media can increase loneliness when it replaces real contact, but it also connects isolated people.\n\nTo begin with, social media can increase loneliness when it replaces face-to-face contact. Hours of scrolling reduce time spent with real friends and invite unhealthy comparison. A teenager who spends every evening looking at pictures of friends at parties, for example, may feel excluded and conclude that her own life is dull. Fear of missing out is a common feeling, and counting likes can make users anxious about their popularity. Online friendships are often shallow, since people share only the best moments and rarely talk about real worries, so that users may have hundreds of contacts yet nobody to confide in. Several studies have linked heavy use with depression and lower life satisfaction.\n\nHowever, social media can also reduce isolation. Online groups help the housebound, migrants and people with rare interests to find friends. An elderly woman who cannot leave her flat, for example, can chat with grandchildren on video and join a discussion group for her hobbies. People who live abroad can stay in touch with their families, and those who are shy may find it easier to start conversations online and then meet in person. The effect therefore depends on how it is used: as a complement to real relationships, social media can be helpful, while as a substitute it is harmful. Setting limits on screen time and prioritising real meetings can protect users.\n\nIn conclusion, social media causes loneliness only to a limited extent, and its effect depends on how people use it.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): mạng xã hội gây cô đơn — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người kiểm tra điện thoại nhiều lần; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Tăng cô đơn khi thay thế tiếp xúc trực tiếp: cuộn nhiều giờ giảm thời gian với bạn thật, so sánh; ví dụ thiếu niên mỗi tối xem ảnh bạn bè dự tiệc thấy bị loại; sợ bỏ lỡ; đếm lượt thích lo lắng; quan hệ trực tuyến nông, hàng trăm liên hệ không có ai tâm sự; nghiên cứu liên hệ trầm cảm.",
+        "refs": [
+          "ID-media-social-loneliness",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Cũng giảm cô lập: nhóm trực tuyến giúp người ở nhà, người nhập cư, sở thích hiếm; ví dụ bà cụ không ra khỏi nhà trò chuyện video với cháu, tham gia nhóm sở thích; xa nhà giữ liên lạc; người nhút nhát; tuỳ cách dùng: bổ sung thì có ích, thay thế thì hại; giới hạn thời gian, ưu tiên gặp thật.",
+        "refs": [
+          "ID-media-social-loneliness",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Gây cô đơn chỉ ở mức hạn chế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-social-loneliness"
+    ]
+  },
+  "chunks": [
+    [
+      "check their phones many times a day",
+      "kiểm tra điện thoại nhiều lần mỗi ngày"
+    ],
+    [
+      "social media causes loneliness",
+      "mạng xã hội gây ra sự cô đơn"
+    ],
+    [
+      "replaces face-to-face contact",
+      "thay thế tiếp xúc trực tiếp"
+    ],
+    [
+      "Hours of scrolling",
+      "nhiều giờ cuộn màn hình"
+    ],
+    [
+      "invite unhealthy comparison",
+      "dẫn đến sự so sánh không lành mạnh"
+    ],
+    [
+      "pictures of friends at parties",
+      "ảnh bạn bè dự tiệc"
+    ],
+    [
+      "feel excluded",
+      "cảm thấy bị loại trừ"
+    ],
+    [
+      "Fear of missing out",
+      "nỗi sợ bỏ lỡ"
+    ],
+    [
+      "counting likes",
+      "đếm lượt thích"
+    ],
+    [
+      "anxious about their popularity",
+      "lo lắng về mức độ nổi tiếng của mình"
+    ],
+    [
+      "Online friendships are often shallow",
+      "tình bạn trực tuyến thường hời hợt"
+    ],
+    [
+      "hundreds of contacts yet nobody to confide in",
+      "hàng trăm liên hệ nhưng không có ai để tâm sự"
+    ],
+    [
+      "depression and lower life satisfaction",
+      "trầm cảm và sự hài lòng cuộc sống thấp hơn"
+    ],
+    [
+      "reduce isolation",
+      "giảm sự cô lập"
+    ],
+    [
+      "the housebound, migrants and people with rare interests",
+      "người không ra khỏi nhà, người nhập cư và người có sở thích hiếm"
+    ],
+    [
+      "cannot leave her flat",
+      "không thể ra khỏi căn hộ"
+    ],
+    [
+      "chat with grandchildren on video",
+      "trò chuyện video với cháu"
+    ],
+    [
+      "stay in touch with their families",
+      "giữ liên lạc với gia đình"
+    ],
+    [
+      "a complement to real relationships",
+      "sự bổ sung cho các mối quan hệ thực"
+    ],
+    [
+      "prioritising real meetings",
+      "ưu tiên các cuộc gặp thực"
+    ]
+  ]
+}

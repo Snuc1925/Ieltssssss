@@ -1,0 +1,121 @@
+{
+  "questionId": 214,
+  "text": "Streaming platforms release whole series at once, and many people watch ten episodes in a single weekend, so many people think that binge-watching TV has negative effects. I agree to a large extent when it is excessive, although occasional marathons are harmless.\n\nTo begin with, binge-watching harms health and time use when it is excessive. Hours of sitting reduce sleep and exercise and replace study or social time. A student who stays up until four in the morning to finish a series, for example, will be exhausted at lectures and may fall behind with her work. Long periods of inactivity are linked to weight gain, back pain and heart problems, and blue light from screens disturbs sleep. Researchers have also found that heavy bingers feel more lonely and more depressed than moderate viewers, partly because they may avoid friends and activities. Some people find it hard to stop, since autoplay starts the next episode automatically and the story is designed to be gripping.\n\nHowever, binge-watching is not always harmful. Watching a favourite series with friends on a rainy weekend can relax and bond people, and shared programmes provide topics for conversation. Compared with stressful work, a few hours of entertainment can be a legitimate way to recover, and many programmes are educational or artistic. The effect therefore depends on moderation and planning. Viewers can set limits, turn off autoplay, take breaks to move around and avoid watching late at night before important duties. Parents can also guide children's viewing habits.\n\nIn conclusion, I agree that binge-watching has negative effects when excessive, but moderate viewing is harmless and can be enjoyable.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: cày phim có tác động tiêu cực — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nền tảng phát cả series, xem 10 tập một cuối tuần; largely agree khi quá mức.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Hại sức khoẻ, thời gian khi quá mức: ngồi lâu giảm ngủ, tập; ví dụ sinh viên thức đến 4 giờ sáng kiệt sức ở giảng đường, học tụt; ít vận động liên quan tăng cân, đau lưng, tim; ánh sáng xanh; cô đơn, trầm cảm; tự phát tập tiếp.",
+        "refs": [
+          "ID-media-binge",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không luôn có hại: xem với bạn thư giãn, gắn kết, chủ đề trò chuyện; so với công việc căng thẳng giải trí giúp hồi phục; chương trình giáo dục nghệ thuật; điều độ: giới hạn, tắt tự phát, nghỉ vận động, không xem muộn; cha mẹ hướng dẫn.",
+        "refs": [
+          "ID-media-binge",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tiêu cực khi quá mức; điều độ vô hại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-binge"
+    ]
+  },
+  "chunks": [
+    [
+      "Streaming platforms release whole series at once",
+      "các nền tảng phát trực tuyến phát hành cả loạt phim cùng lúc"
+    ],
+    [
+      "ten episodes in a single weekend",
+      "mười tập trong một cuối tuần"
+    ],
+    [
+      "binge-watching TV has negative effects",
+      "cày phim truyền hình có tác động tiêu cực"
+    ],
+    [
+      "Hours of sitting reduce sleep and exercise",
+      "nhiều giờ ngồi làm giảm giấc ngủ và vận động"
+    ],
+    [
+      "replace study or social time",
+      "thay thế thời gian học hoặc giao tiếp xã hội"
+    ],
+    [
+      "stays up until four in the morning",
+      "thức đến bốn giờ sáng"
+    ],
+    [
+      "exhausted at lectures",
+      "kiệt sức ở các buổi giảng"
+    ],
+    [
+      "fall behind with her work",
+      "bị tụt lại với việc học"
+    ],
+    [
+      "Long periods of inactivity",
+      "thời gian dài không vận động"
+    ],
+    [
+      "weight gain, back pain and heart problems",
+      "tăng cân, đau lưng và vấn đề tim mạch"
+    ],
+    [
+      "blue light from screens disturbs sleep",
+      "ánh sáng xanh từ màn hình làm rối loạn giấc ngủ"
+    ],
+    [
+      "more lonely and more depressed",
+      "cô đơn và trầm cảm hơn"
+    ],
+    [
+      "autoplay starts the next episode automatically",
+      "tính năng tự phát tự động bắt đầu tập tiếp theo"
+    ],
+    [
+      "relax and bond people",
+      "thư giãn và gắn kết mọi người"
+    ],
+    [
+      "topics for conversation",
+      "chủ đề để trò chuyện"
+    ],
+    [
+      "a legitimate way to recover",
+      "cách hợp lý để phục hồi"
+    ],
+    [
+      "moderation and planning",
+      "sự điều độ và lập kế hoạch"
+    ],
+    [
+      "set limits, turn off autoplay",
+      "đặt giới hạn, tắt tự động phát"
+    ],
+    [
+      "take breaks to move around",
+      "nghỉ để đi lại vận động"
+    ]
+  ]
+}

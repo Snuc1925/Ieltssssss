@@ -1,0 +1,127 @@
+{
+  "questionId": 336,
+  "text": "Some users film strangers in distress, post children in humiliating situations or invent emotional stories in order to get attention, and many people think that exploitative behaviour on social media is harmful. I agree with this view, since it turns the suffering or trust of others into profit.\n\nTo begin with, exploitative behaviour on social media harms victims by turning their suffering or trust into profit. Some users film children or accidents for views, scammers use fake charities, and platforms reward shocking content. A parent who films a small child crying in order to produce a funny video, for example, may earn money, but the child is deprived of privacy and may be embarrassed for years when classmates find the clip. People who record an accident instead of helping gain attention at the expense of the victims and their families. Scam accounts that appeal for money for sick children cause donors to lose money and harm genuine charities. Vulnerable people, including the elderly and the lonely, are often targeted by fraudsters who pretend to be friends or partners.\n\nFurthermore, such behaviour affects society by making cruelty and deception normal. Users learn that shocking or dishonest content earns rewards, which encourages more of it. However, not all attention-seeking is exploitative, and many creators earn a living honestly. Rules, reporting tools and public pressure are needed to limit the harm. Governments should protect children by regulating the use of minors in online content, platforms should remove scams and offer easy reporting systems, and users should refuse to share or reward exploitative posts. Education can also help people to recognise warning signs of fraud.\n\nIn conclusion, I agree that exploitative behaviour on social media is harmful, and it requires action by platforms, governments and users.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: hành vi khai thác trên mạng xã hội có hại — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người quay người lạ gặp nạn, đăng trẻ bị làm nhục; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Biến đau khổ, niềm tin thành lợi nhuận: quay trẻ, tai nạn lấy lượt xem, lừa đảo từ thiện giả, nền tảng thưởng nội dung gây sốc; ví dụ phụ huynh quay con khóc làm video hài kiếm tiền nhưng trẻ mất riêng tư, xấu hổ nhiều năm khi bạn học thấy; quay tai nạn thay vì giúp; tài khoản lừa quyên tiền trẻ ốm, hại từ thiện thật; người già, cô đơn bị lừa.",
+        "refs": [
+          "ID-media-exploitative-behaviour",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hậu quả + giải pháp",
+        "think": "Làm tàn nhẫn, lừa dối thành bình thường; người dùng học nội dung gây sốc được thưởng; nhưng không phải thu hút chú ý nào cũng khai thác; luật bảo vệ trẻ, nền tảng gỡ lừa đảo, báo cáo dễ; người dùng không chia sẻ; giáo dục nhận biết dấu hiệu gian lận.",
+        "refs": [
+          "ID-media-exploitative-behaviour",
+          "ID-tech-cybercrime",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; nền tảng, chính phủ, người dùng cùng hành động.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-exploitative-behaviour"
+    ]
+  },
+  "chunks": [
+    [
+      "film strangers in distress",
+      "quay người lạ đang gặp nạn"
+    ],
+    [
+      "humiliating situations",
+      "tình huống làm nhục"
+    ],
+    [
+      "exploitative behaviour on social media is harmful",
+      "hành vi khai thác trên mạng xã hội là có hại"
+    ],
+    [
+      "turning their suffering or trust into profit",
+      "biến nỗi đau hay sự tin tưởng của họ thành lợi nhuận"
+    ],
+    [
+      "film children or accidents for views",
+      "quay trẻ em hoặc tai nạn để lấy lượt xem"
+    ],
+    [
+      "scammers use fake charities",
+      "kẻ lừa đảo dùng tổ chức từ thiện giả"
+    ],
+    [
+      "platforms reward shocking content",
+      "nền tảng thưởng cho nội dung gây sốc"
+    ],
+    [
+      "a small child crying",
+      "đứa trẻ nhỏ đang khóc"
+    ],
+    [
+      "deprived of privacy",
+      "bị tước đoạt quyền riêng tư"
+    ],
+    [
+      "embarrassed for years",
+      "xấu hổ suốt nhiều năm"
+    ],
+    [
+      "record an accident instead of helping",
+      "quay lại vụ tai nạn thay vì giúp đỡ"
+    ],
+    [
+      "at the expense of the victims and their families",
+      "với cái giá là nạn nhân và gia đình họ"
+    ],
+    [
+      "appeal for money for sick children",
+      "kêu gọi tiền cho trẻ em bị bệnh"
+    ],
+    [
+      "lose money and harm genuine charities",
+      "mất tiền và gây hại cho các tổ chức từ thiện thật"
+    ],
+    [
+      "The elderly and the lonely",
+      "người cao tuổi và người cô đơn"
+    ],
+    [
+      "fraudsters who pretend to be friends or partners",
+      "kẻ lừa đảo giả làm bạn bè hoặc người yêu"
+    ],
+    [
+      "making cruelty and deception normal",
+      "làm cho sự tàn nhẫn và lừa dối trở thành bình thường"
+    ],
+    [
+      "Rules, reporting tools and public pressure",
+      "quy tắc, công cụ báo cáo và áp lực công chúng"
+    ],
+    [
+      "regulating the use of minors in online content",
+      "quản lý việc sử dụng trẻ vị thành niên trong nội dung trực tuyến"
+    ],
+    [
+      "warning signs of fraud",
+      "dấu hiệu cảnh báo gian lận"
+    ]
+  ]
+}

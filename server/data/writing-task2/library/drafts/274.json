@@ -1,0 +1,122 @@
+{
+  "questionId": 274,
+  "text": "Magazines, television and social media fill daily life with pictures of famous people in expensive clothes, cars and houses, and many people think that celebrity culture encourages materialism. I agree with this view, since it presents luxury as the measure of success, although some celebrities live modestly.\n\nTo begin with, celebrity culture encourages materialism by presenting luxury as the measure of success. Constant images of designer clothes, cars and mansions make ordinary people feel that happiness depends on possessions. A young fan who sees her favourite singer buy a new handbag every week, for example, may start to believe that she needs the same brand in order to fit in. Programmes that show the homes and holidays of the rich make wealth appear normal and desirable, and advertisers use stars to sell products to millions of followers. Surveys suggest that young people who follow celebrity news closely place more importance on money and appearance and are more likely to run into debt.\n\nHowever, not all celebrities encourage materialism. Some live modestly, give much of their income to charity or campaign for causes such as the environment and education, which shows that fame can serve other values. A footballer who funds a hospital instead of buying a fifth car, for example, sets a very different example. The influence also depends on the viewer, since families and schools can teach that character, effort and kindness matter more than possessions. Young people need alternative role models. Media can help by giving more attention to scientists, teachers, doctors and community leaders, whose achievements are based on knowledge and service and not on display.\n\nIn conclusion, I agree that celebrity culture encourages materialism, but its effect can be reduced by promoting different role models and values.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: văn hoá người nổi tiếng khuyến khích vật chất — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hình ảnh người nổi tiếng xa hoa; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Trình bày xa xỉ là thước đo thành công: hình ảnh quần áo, xe, biệt thự khiến người thường nghĩ hạnh phúc là tài sản; ví dụ fan trẻ thấy ca sĩ yêu thích mua túi mới mỗi tuần nghĩ cần cùng nhãn để hoà nhập; chương trình về nhà, kỳ nghỉ của người giàu làm giàu có hấp dẫn; nhà quảng cáo dùng ngôi sao; khảo sát: coi trọng tiền, ngoại hình, nợ.",
+        "refs": [
+          "ID-media-celebrity-materialism",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải tất cả: sống giản dị, quyên thu nhập, vận động môi trường, giáo dục; ví dụ cầu thủ tài trợ bệnh viện thay vì mua xe thứ năm; tuỳ người xem, gia đình, trường dạy nhân cách; hình mẫu thay thế: khoa học gia, giáo viên, bác sĩ.",
+        "refs": [
+          "ID-media-celebrity-materialism",
+          "ID-media-celebrity-influence",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; giảm bằng hình mẫu khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-celebrity-materialism"
+    ]
+  },
+  "chunks": [
+    [
+      "pictures of famous people in expensive clothes, cars and houses",
+      "hình ảnh người nổi tiếng với quần áo, xe hơi và nhà cửa đắt tiền"
+    ],
+    [
+      "celebrity culture encourages materialism",
+      "văn hoá người nổi tiếng khuyến khích chủ nghĩa vật chất"
+    ],
+    [
+      "presenting luxury as the measure of success",
+      "trình bày sự xa hoa như thước đo thành công"
+    ],
+    [
+      "designer clothes, cars and mansions",
+      "quần áo hàng hiệu, xe hơi và biệt thự"
+    ],
+    [
+      "happiness depends on possessions",
+      "hạnh phúc phụ thuộc vào tài sản"
+    ],
+    [
+      "buy a new handbag every week",
+      "mua một chiếc túi xách mới mỗi tuần"
+    ],
+    [
+      "fit in",
+      "hoà nhập"
+    ],
+    [
+      "the homes and holidays of the rich",
+      "nhà cửa và kỳ nghỉ của người giàu"
+    ],
+    [
+      "wealth appear normal and desirable",
+      "khiến sự giàu có trông bình thường và đáng khao khát"
+    ],
+    [
+      "sell products to millions of followers",
+      "bán sản phẩm cho hàng triệu người theo dõi"
+    ],
+    [
+      "place more importance on money and appearance",
+      "coi trọng tiền bạc và ngoại hình hơn"
+    ],
+    [
+      "run into debt",
+      "rơi vào nợ nần"
+    ],
+    [
+      "live modestly",
+      "sống giản dị"
+    ],
+    [
+      "give much of their income to charity",
+      "tặng phần lớn thu nhập cho từ thiện"
+    ],
+    [
+      "funds a hospital instead of buying a fifth car",
+      "tài trợ bệnh viện thay vì mua chiếc xe thứ năm"
+    ],
+    [
+      "character, effort and kindness",
+      "nhân cách, nỗ lực và lòng tốt"
+    ],
+    [
+      "alternative role models",
+      "hình mẫu thay thế"
+    ],
+    [
+      "scientists, teachers, doctors and community leaders",
+      "nhà khoa học, giáo viên, bác sĩ và lãnh đạo cộng đồng"
+    ],
+    [
+      "knowledge and service",
+      "tri thức và sự phục vụ"
+    ]
+  ]
+}

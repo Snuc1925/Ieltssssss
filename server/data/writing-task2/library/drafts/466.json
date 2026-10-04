@@ -1,0 +1,126 @@
+{
+  "questionId": 466,
+  "text": "Millions of viewers watch talent shows in which famous singers, dancers and producers decide who goes through to the next round, and many feel that celebrity judges on talent shows are unfair. I agree to some extent, since entertainment value and personal taste can outweigh talent, although many judges give honest and useful feedback.\n\nTo begin with, celebrity judges can be unfair when entertainment value and personal taste outweigh talent. Producers want drama, so judges may mock contestants or favour characters with a good story. A shy singer with a beautiful voice, for example, may be criticised harshly or sent home, while a less talented contestant who is funny or emotional receives praise because he makes better television. Judges may have favourites from the beginning, and their comments may follow a script written to create conflict. Some contestants have said that they were chosen or rejected according to the story the programme wanted to tell. Because judges are celebrities themselves, they may also be tempted to say shocking things in order to attract attention.\n\nHowever, many judges are experienced professionals, whose honest feedback helps performers to improve. A well-known vocal coach who tells a candidate that her pitch is unreliable, for example, gives advice that may help her for years. The judging of art is also partly subjective, so differences in opinion are natural and do not always indicate unfairness. Transparent voting and fair rules improve trust. Many shows now give the audience a vote, publish the criteria for judging and use independent supervisors to check procedures. Contestants should also be given clear contracts that explain how the programme will edit and present them.\n\nIn conclusion, I agree to some extent that celebrity judges can be unfair, but transparency and public voting can make talent shows fairer.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: giám khảo nổi tiếng trên chương trình tài năng không công bằng — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chương trình tài năng với giám khảo nổi tiếng; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Không công bằng khi giá trị giải trí, sở thích cá nhân hơn tài năng: nhà sản xuất muốn kịch tính, giám khảo chế giễu hoặc thiên vị nhân vật có câu chuyện; ví dụ ca sĩ nhút nhát giọng đẹp bị chê, về, thí sinh kém hơn hài hước, xúc động được khen vì hay trên tivi; có người yêu thích từ đầu; bình luận theo kịch bản gây xung đột; thí sinh nói bị chọn, loại theo câu chuyện; giám khảo nổi tiếng nói gây sốc.",
+        "refs": [
+          "ID-media-celebrity-judges",
+          "ID-media-reality-tv",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Nhiều giám khảo chuyên nghiệp, phản hồi trung thực giúp; ví dụ huấn luyện viên thanh nhạc nói cao độ không ổn cho lời khuyên nhiều năm; đánh giá nghệ thuật phần chủ quan; bình chọn minh bạch, quy tắc công bằng: khán giả bình chọn, công bố tiêu chí, người giám sát độc lập; hợp đồng rõ ràng cho thí sinh.",
+        "refs": [
+          "ID-media-celebrity-judges",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree một phần; minh bạch và bình chọn công khai làm công bằng hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-celebrity-judges"
+    ]
+  },
+  "chunks": [
+    [
+      "talent shows in which famous singers, dancers and producers decide",
+      "các chương trình tài năng trong đó ca sĩ, vũ công và nhà sản xuất nổi tiếng quyết định"
+    ],
+    [
+      "celebrity judges on talent shows are unfair",
+      "giám khảo nổi tiếng trong các chương trình tài năng không công bằng"
+    ],
+    [
+      "entertainment value and personal taste can outweigh talent",
+      "giá trị giải trí và sở thích cá nhân có thể lấn át tài năng"
+    ],
+    [
+      "Producers want drama",
+      "nhà sản xuất muốn có kịch tính"
+    ],
+    [
+      "mock contestants",
+      "chế giễu thí sinh"
+    ],
+    [
+      "favour characters with a good story",
+      "thiên vị nhân vật có câu chuyện hay"
+    ],
+    [
+      "a shy singer with a beautiful voice",
+      "một ca sĩ nhút nhát có giọng hát đẹp"
+    ],
+    [
+      "criticised harshly or sent home",
+      "bị chỉ trích gay gắt hoặc bị loại"
+    ],
+    [
+      "makes better television",
+      "làm truyền hình hay hơn"
+    ],
+    [
+      "favourites from the beginning",
+      "người được yêu thích từ đầu"
+    ],
+    [
+      "a script written to create conflict",
+      "kịch bản được viết để tạo xung đột"
+    ],
+    [
+      "the story the programme wanted to tell",
+      "câu chuyện mà chương trình muốn kể"
+    ],
+    [
+      "shocking things in order to attract attention",
+      "những điều gây sốc để thu hút sự chú ý"
+    ],
+    [
+      "experienced professionals",
+      "những chuyên gia giàu kinh nghiệm"
+    ],
+    [
+      "honest feedback helps performers to improve",
+      "phản hồi trung thực giúp người biểu diễn tiến bộ"
+    ],
+    [
+      "a well-known vocal coach",
+      "một huấn luyện viên thanh nhạc nổi tiếng"
+    ],
+    [
+      "her pitch is unreliable",
+      "cao độ của cô không ổn định"
+    ],
+    [
+      "partly subjective",
+      "phần nào mang tính chủ quan"
+    ],
+    [
+      "Transparent voting and fair rules improve trust",
+      "bỏ phiếu minh bạch và quy tắc công bằng nâng cao niềm tin"
+    ],
+    [
+      "independent supervisors",
+      "người giám sát độc lập"
+    ]
+  ]
+}

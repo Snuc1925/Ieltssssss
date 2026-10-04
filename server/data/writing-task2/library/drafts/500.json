@@ -1,0 +1,126 @@
+{
+  "questionId": 500,
+  "text": "Many people check platforms such as Facebook or Instagram several times a day, while others prefer meetings, phone calls or hobbies, and opinions differ on whether social media or alternatives are better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of social media argue that it is convenient for staying in touch. Platforms connect many people instantly, whatever the distance. A student who studies abroad, for example, can see her family's photographs and send a message in seconds, and she can follow news and join groups that match her interests. Social media also helps small businesses to find customers, allows people to share ideas and organise events, and gives a voice to those who might not be heard otherwise. It is usually free, and users can choose when to respond, which suits busy schedules.\n\nOn the other hand, supporters of alternatives argue that they give deeper relationships. Platforms distract and reduce privacy, whereas face-to-face contact, phone calls and hobbies offer fuller attention and trust. A group of friends who meet every week to play football or to cook together, for example, build stronger bonds than those who only exchange comments online. Voice and video calls convey emotion more clearly than text, and offline hobbies such as reading, music or sport improve concentration and health. Social media can also encourage comparison, anxiety and wasted time, so some people deliberately reduce their use. A mix suits most people.\n\nIn conclusion, both views have merit. Overall, I believe that social media is useful for keeping in contact and sharing information, but it should supplement and not replace meetings, calls and offline activities.",
+  "analysis": {
+    "type_vi": "Discuss both views: mạng xã hội hay lựa chọn khác",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người kiểm tra nền tảng nhiều lần mỗi ngày, người khác ưa gặp, gọi, sở thích.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Mạng xã hội",
+        "think": "Tiện giữ liên lạc: kết nối tức thì bất kể khoảng cách; ví dụ sinh viên học nước ngoài xem ảnh gia đình, gửi tin trong vài giây, theo dõi tin, nhóm sở thích; doanh nghiệp nhỏ tìm khách, chia sẻ ý tưởng, tổ chức sự kiện, tiếng nói người ít được nghe; miễn phí, chọn lúc phản hồi.",
+        "refs": [
+          "ID-media-social-alternatives"
+        ]
+      },
+      {
+        "step": "3. Lựa chọn khác",
+        "think": "Quan hệ sâu hơn: nền tảng xao nhãng, giảm riêng tư; gặp trực tiếp, gọi, sở thích chú ý và tin tưởng đầy đủ; ví dụ nhóm bạn gặp mỗi tuần đá bóng hay nấu ăn gắn bó hơn bình luận trực tuyến; gọi thoại, video truyền cảm xúc rõ hơn; sở thích ngoại tuyến cải thiện tập trung, sức khoẻ; mạng xã hội gây so sánh, lo âu, mất thời gian; kết hợp.",
+        "refs": [
+          "ID-media-social-alternatives",
+          "ID-media-social-loneliness"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Mạng xã hội bổ sung chứ không thay thế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-social-alternatives"
+    ]
+  },
+  "chunks": [
+    [
+      "check platforms such as Facebook or Instagram several times a day",
+      "kiểm tra các nền tảng như Facebook hay Instagram nhiều lần mỗi ngày"
+    ],
+    [
+      "meetings, phone calls or hobbies",
+      "gặp gỡ, cuộc gọi điện thoại hoặc sở thích"
+    ],
+    [
+      "social media or alternatives",
+      "mạng xã hội hay các lựa chọn thay thế"
+    ],
+    [
+      "convenient for staying in touch",
+      "tiện lợi để giữ liên lạc"
+    ],
+    [
+      "Platforms connect many people instantly",
+      "nền tảng kết nối nhiều người ngay lập tức"
+    ],
+    [
+      "studies abroad",
+      "du học"
+    ],
+    [
+      "see her family's photographs and send a message in seconds",
+      "xem ảnh gia đình và gửi tin nhắn trong vài giây"
+    ],
+    [
+      "join groups that match her interests",
+      "tham gia các nhóm phù hợp sở thích của cô"
+    ],
+    [
+      "find customers",
+      "tìm khách hàng"
+    ],
+    [
+      "share ideas and organise events",
+      "chia sẻ ý tưởng và tổ chức sự kiện"
+    ],
+    [
+      "gives a voice to those who might not be heard otherwise",
+      "trao tiếng nói cho những người nếu không sẽ không được lắng nghe"
+    ],
+    [
+      "busy schedules",
+      "lịch trình bận rộn"
+    ],
+    [
+      "deeper relationships",
+      "mối quan hệ sâu sắc hơn"
+    ],
+    [
+      "Platforms distract and reduce privacy",
+      "nền tảng gây xao nhãng và giảm sự riêng tư"
+    ],
+    [
+      "face-to-face contact, phone calls and hobbies",
+      "tiếp xúc trực tiếp, cuộc gọi và sở thích"
+    ],
+    [
+      "fuller attention and trust",
+      "sự chú ý và niềm tin trọn vẹn hơn"
+    ],
+    [
+      "build stronger bonds",
+      "xây dựng mối liên kết bền chặt hơn"
+    ],
+    [
+      "Voice and video calls convey emotion more clearly",
+      "cuộc gọi thoại và video truyền tải cảm xúc rõ ràng hơn"
+    ],
+    [
+      "comparison, anxiety and wasted time",
+      "sự so sánh, lo âu và lãng phí thời gian"
+    ],
+    [
+      "supplement and not replace",
+      "bổ sung chứ không thay thế"
+    ]
+  ]
+}

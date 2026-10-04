@@ -1,0 +1,125 @@
+{
+  "questionId": 144,
+  "text": "Many people now watch new films on a laptop or television a few weeks after release, and many feel that streaming services have reduced box office sales. I agree to a large extent, since streaming has reduced cinema attendance for ordinary films, although big releases still fill theatres.\n\nTo begin with, streaming has reduced cinema attendance for ordinary films. Viewers can watch a wide choice at home for a monthly fee. A family of four who would pay a large sum for tickets, snacks and parking, for example, can instead watch several films at home for a fraction of the cost, and they can pause, rewind and choose the time. Studios that launch their own platforms sometimes release films online on the same day as in cinemas, which gives people little reason to go out. Medium-budget dramas and comedies, which once earned steady revenue, have suffered most, and many small cinemas have closed.\n\nHowever, the large screen, sound and shared atmosphere of cinemas keep attracting audiences to major films. Spectacular action films, superhero stories and animated features regularly earn record sums, because many people want an experience that a home cannot match. A group of friends who see a new blockbuster together, for example, enjoy the excitement of reacting with a crowd. Other factors have also reduced sales, including rising ticket prices, the pandemic and competition from games and social media, so streaming is not the only cause. Cinemas can respond by offering comfortable seats, special screenings and events, which makes a visit more than just watching a film.\n\nIn conclusion, I agree to a large extent that streaming has reduced box office sales, particularly for modest films, but cinemas will survive by offering experiences that homes cannot.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: streaming làm giảm doanh thu phòng vé — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu xem phim mới trên laptop sau vài tuần; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Giảm lượng khán giả phim thường: nhiều lựa chọn ở nhà trả phí tháng; ví dụ gia đình bốn người tốn vé, đồ ăn, đỗ xe có thể xem nhiều phim ở nhà với một phần chi phí, tạm dừng, chọn giờ; hãng phát hành phim trên nền tảng cùng ngày; phim kinh phí vừa chịu nhiều nhất, rạp nhỏ đóng.",
+        "refs": [
+          "ID-media-streaming-boxoffice",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Màn hình lớn, âm thanh, không khí chung giữ khán giả phim lớn: hành động, siêu anh hùng, hoạt hình lập kỷ lục; ví dụ nhóm bạn xem bom tấn cùng phản ứng với đám đông; nguyên nhân khác: giá vé, đại dịch, game, mạng xã hội; rạp ghế thoải mái, suất chiếu đặc biệt.",
+        "refs": [
+          "ID-media-streaming-boxoffice",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm nhất là phim vừa phải; rạp tồn tại nhờ trải nghiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-streaming-boxoffice"
+    ]
+  },
+  "chunks": [
+    [
+      "watch new films on a laptop or television",
+      "xem phim mới trên máy tính xách tay hoặc tivi"
+    ],
+    [
+      "streaming services have reduced box office sales",
+      "các dịch vụ phát trực tuyến đã làm giảm doanh thu phòng vé"
+    ],
+    [
+      "cinema attendance",
+      "lượng người đến rạp"
+    ],
+    [
+      "a wide choice at home for a monthly fee",
+      "nhiều lựa chọn tại nhà với phí hằng tháng"
+    ],
+    [
+      "tickets, snacks and parking",
+      "vé, đồ ăn vặt và chỗ đỗ xe"
+    ],
+    [
+      "a fraction of the cost",
+      "một phần nhỏ chi phí"
+    ],
+    [
+      "pause, rewind and choose the time",
+      "tạm dừng, tua lại và chọn thời gian"
+    ],
+    [
+      "their own platforms",
+      "nền tảng của riêng họ"
+    ],
+    [
+      "on the same day as in cinemas",
+      "cùng ngày với rạp chiếu"
+    ],
+    [
+      "Medium-budget dramas and comedies",
+      "phim chính kịch và hài kinh phí vừa"
+    ],
+    [
+      "steady revenue",
+      "doanh thu đều đặn"
+    ],
+    [
+      "many small cinemas have closed",
+      "nhiều rạp nhỏ đã đóng cửa"
+    ],
+    [
+      "The large screen, sound and shared atmosphere",
+      "màn hình lớn, âm thanh và bầu không khí chung"
+    ],
+    [
+      "superhero stories and animated features",
+      "phim siêu anh hùng và phim hoạt hình"
+    ],
+    [
+      "record sums",
+      "những khoản kỷ lục"
+    ],
+    [
+      "an experience that a home cannot match",
+      "trải nghiệm mà ở nhà không sánh được"
+    ],
+    [
+      "a new blockbuster",
+      "một bộ phim bom tấn mới"
+    ],
+    [
+      "rising ticket prices",
+      "giá vé tăng"
+    ],
+    [
+      "competition from games and social media",
+      "sự cạnh tranh từ trò chơi và mạng xã hội"
+    ],
+    [
+      "special screenings and events",
+      "các suất chiếu và sự kiện đặc biệt"
+    ]
+  ]
+}

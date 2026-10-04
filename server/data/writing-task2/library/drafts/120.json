@@ -1,0 +1,126 @@
+{
+  "questionId": 120,
+  "text": "Posts, videos and comments spread across social platforms in seconds, and the question is to what extent governments should regulate social media content. I believe that governments should regulate illegal and harmful content, but they should avoid censoring legitimate opinion.\n\nTo begin with, governments should regulate content that is clearly illegal or harmful. Platforms spread hate speech, threats and content harmful to children, so laws can demand quick removal. A video that encourages violence against a minority group, for example, can lead to real attacks if it is shared widely, and companies may not act unless they face penalties. Material such as child abuse images, terrorist propaganda and fraud is already illegal offline, and there is no reason why it should be tolerated online. Governments can also require platforms to protect young users, to publish reports on the removal of harmful posts and to give users ways to complain. Without regulation, companies tend to put profit before safety.\n\nHowever, vague or excessive rules allow officials to silence critics, and freedom of expression is a basic right. A law that bans posts that insult the government, for example, could be used to punish journalists and opponents. Opinions that are unpopular or offensive to some people are not necessarily harmful, and open debate helps societies to find the truth. Clear, narrow rules, with independent oversight and the right to appeal, protect both safety and freedom. Platforms should also be transparent about how their algorithms and moderation work. Cooperation between governments, companies and civil society is more effective than control by the state alone.\n\nIn conclusion, governments should regulate social media content to a moderate extent, concentrating on illegal and clearly harmful material while protecting freedom of speech.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ điều tiết nội dung mạng xã hội đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nội dung lan trong vài giây; đáp: điều tiết nội dung bất hợp pháp, có hại, tránh kiểm duyệt ý kiến chính đáng.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Cần điều tiết",
+        "think": "Nội dung rõ ràng bất hợp pháp hoặc có hại: thù hận, đe doạ, hại trẻ nên luật đòi gỡ nhanh; ví dụ video kích động bạo lực nhắm thiểu số dẫn tấn công thật; công ty không hành động nếu không bị phạt; hình ảnh lạm dụng trẻ, tuyên truyền khủng bố, lừa đảo đã bất hợp pháp ngoài đời; bảo vệ người dùng trẻ, báo cáo gỡ, khiếu nại; không điều tiết lợi nhuận trước an toàn.",
+        "refs": [
+          "ID-media-regulate-content",
+          "ID-gov-hate-speech",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Quy tắc mơ hồ cho phép bịt miệng người phê phán; ví dụ luật cấm bài xúc phạm chính phủ trừng phạt nhà báo; ý kiến không phổ biến không nhất thiết có hại; quy tắc rõ, hẹp, giám sát độc lập, quyền khiếu nại; nền tảng minh bạch thuật toán; hợp tác chính phủ, công ty, xã hội dân sự.",
+        "refs": [
+          "ID-media-regulate-content",
+          "ID-gov-censorship",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Điều tiết mức vừa phải, tập trung nội dung bất hợp pháp và có hại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-regulate-content"
+    ]
+  },
+  "chunks": [
+    [
+      "Posts, videos and comments spread across social platforms in seconds",
+      "bài đăng, video và bình luận lan khắp nền tảng xã hội trong vài giây"
+    ],
+    [
+      "regulate social media content",
+      "điều tiết nội dung mạng xã hội"
+    ],
+    [
+      "clearly illegal or harmful",
+      "rõ ràng là bất hợp pháp hoặc có hại"
+    ],
+    [
+      "hate speech, threats and content harmful to children",
+      "ngôn từ thù ghét, đe doạ và nội dung có hại cho trẻ em"
+    ],
+    [
+      "demand quick removal",
+      "yêu cầu gỡ bỏ nhanh chóng"
+    ],
+    [
+      "encourages violence against a minority group",
+      "kích động bạo lực chống lại một nhóm thiểu số"
+    ],
+    [
+      "real attacks",
+      "các vụ tấn công thực sự"
+    ],
+    [
+      "face penalties",
+      "đối mặt hình phạt"
+    ],
+    [
+      "child abuse images, terrorist propaganda and fraud",
+      "hình ảnh lạm dụng trẻ em, tuyên truyền khủng bố và lừa đảo"
+    ],
+    [
+      "protect young users",
+      "bảo vệ người dùng trẻ"
+    ],
+    [
+      "reports on the removal of harmful posts",
+      "báo cáo về việc gỡ bỏ bài đăng có hại"
+    ],
+    [
+      "profit before safety",
+      "lợi nhuận trước an toàn"
+    ],
+    [
+      "silence critics",
+      "bịt miệng người phê phán"
+    ],
+    [
+      "freedom of expression is a basic right",
+      "tự do ngôn luận là quyền cơ bản"
+    ],
+    [
+      "a law that bans posts that insult the government",
+      "luật cấm bài đăng xúc phạm chính phủ"
+    ],
+    [
+      "Clear, narrow rules",
+      "quy tắc rõ ràng và hẹp"
+    ],
+    [
+      "independent oversight and the right to appeal",
+      "giám sát độc lập và quyền khiếu nại"
+    ],
+    [
+      "transparent about how their algorithms and moderation work",
+      "minh bạch về cách thuật toán và việc kiểm duyệt của họ vận hành"
+    ],
+    [
+      "civil society",
+      "xã hội dân sự"
+    ],
+    [
+      "protecting freedom of speech",
+      "bảo vệ tự do ngôn luận"
+    ]
+  ]
+}

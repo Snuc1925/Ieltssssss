@@ -1,0 +1,121 @@
+{
+  "questionId": 64,
+  "text": "Readers once relied on newspapers and television bulletins, but today many get their information from websites and social networks, and many feel that traditional media is less trustworthy than online sources. I disagree with this view, since traditional media usually checks facts and carries legal responsibility, although it is not perfect.\n\nTo begin with, traditional media is usually more reliable than online sources. Editors verify stories and can be held accountable, while anyone can post online without checking. A national newspaper that publishes a false claim, for example, risks legal action and loss of reputation, so reporters need two or more sources before printing. Professional journalists are trained in ethics, and newsrooms have procedures for corrections. Many online sources, in contrast, are anonymous, funded by advertising that rewards shocking headlines, or created to spread a political message. Fake stories travel faster than corrections on social platforms, and users often share content without reading it.\n\nHowever, traditional media is not free from faults. It can be biased by owners or political leanings, it may be slow to react to events, and it sometimes ignores topics that do not interest its main audience. Online sources have advantages: they are fast, offer diverse views and allow ordinary people to record events that official media overlook. Some independent websites and blogs provide excellent analysis. Readers should therefore compare several sources, check who is responsible for a report and look for evidence. Schools can teach media literacy so that young people learn to distinguish reliable from unreliable information.\n\nIn conclusion, I disagree that traditional media is less trustworthy than online sources, although readers should always use several sources and think critically.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: truyền thông truyền thống kém đáng tin hơn nguồn trực tuyến — disagree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người đọc chuyển sang web, mạng xã hội; disagree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Truyền thống thường đáng tin hơn: biên tập kiểm chứng, chịu trách nhiệm; ví dụ báo quốc gia đăng tin sai có nguy cơ kiện, mất uy tín nên cần hai nguồn; nhà báo được đào tạo đạo đức, quy trình đính chính; nguồn trực tuyến ẩn danh, quảng cáo thưởng tiêu đề giật gân, thông điệp chính trị; tin giả nhanh hơn đính chính.",
+        "refs": [
+          "ID-media-trust",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Truyền thống không hoàn hảo: thiên lệch bởi chủ sở hữu, chính trị, chậm, bỏ qua chủ đề; trực tuyến nhanh, đa dạng, ghi lại sự kiện; vài blog phân tích tốt; so sánh nhiều nguồn, kiểm tra trách nhiệm, bằng chứng; dạy hiểu biết truyền thông.",
+        "refs": [
+          "ID-media-trust",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree nhưng dùng nhiều nguồn, tư duy phản biện.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-trust"
+    ]
+  },
+  "chunks": [
+    [
+      "newspapers and television bulletins",
+      "báo chí và bản tin truyền hình"
+    ],
+    [
+      "websites and social networks",
+      "trang web và mạng xã hội"
+    ],
+    [
+      "traditional media is less trustworthy than online sources",
+      "truyền thông truyền thống kém đáng tin hơn nguồn trực tuyến"
+    ],
+    [
+      "checks facts and carries legal responsibility",
+      "kiểm chứng sự thật và chịu trách nhiệm pháp lý"
+    ],
+    [
+      "Editors verify stories and can be held accountable",
+      "biên tập viên xác minh tin và có thể bị quy trách nhiệm"
+    ],
+    [
+      "anyone can post online without checking",
+      "bất kỳ ai cũng đăng trực tuyến mà không kiểm chứng"
+    ],
+    [
+      "risks legal action and loss of reputation",
+      "đối mặt nguy cơ kiện tụng và mất uy tín"
+    ],
+    [
+      "two or more sources",
+      "hai nguồn trở lên"
+    ],
+    [
+      "trained in ethics",
+      "được đào tạo về đạo đức"
+    ],
+    [
+      "procedures for corrections",
+      "quy trình đính chính"
+    ],
+    [
+      "anonymous",
+      "ẩn danh"
+    ],
+    [
+      "advertising that rewards shocking headlines",
+      "quảng cáo thưởng cho những tiêu đề giật gân"
+    ],
+    [
+      "Fake stories travel faster than corrections",
+      "tin giả lan nhanh hơn lời đính chính"
+    ],
+    [
+      "biased by owners or political leanings",
+      "thiên lệch do chủ sở hữu hoặc khuynh hướng chính trị"
+    ],
+    [
+      "slow to react to events",
+      "chậm phản ứng trước sự kiện"
+    ],
+    [
+      "fast, offer diverse views",
+      "nhanh, đưa ra nhiều quan điểm"
+    ],
+    [
+      "record events that official media overlook",
+      "ghi lại những sự kiện mà truyền thông chính thống bỏ qua"
+    ],
+    [
+      "compare several sources",
+      "so sánh nhiều nguồn"
+    ],
+    [
+      "media literacy",
+      "hiểu biết về truyền thông"
+    ]
+  ]
+}

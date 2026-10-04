@@ -1,0 +1,123 @@
+{
+  "questionId": 386,
+  "text": "Followers see influencers on tropical beaches, in luxury hotels and in spotless homes, and many feel that influencer culture creates unrealistic lifestyles. I agree with this view, since sponsored, staged and edited content hides the effort and money behind it.\n\nTo begin with, influencer culture creates unrealistic lifestyles by showing sponsored, staged and edited versions of life. Free gifts, paid trips and perfect scenes hide the effort and money behind them. A travel influencer who posts a photograph from a luxury resort, for example, may have received the stay free in return for promotion, and may have taken dozens of shots before choosing the one with perfect light. The viewer, who sees only the final picture, believes that the lifestyle is normal and affordable. Many influencers rent clothes, cars and even houses for filming, and some use filters that change their appearance. The constant stream of glamorous images makes ordinary routines look dull by comparison.\n\nFurthermore, this affects followers. People feel that their own lives are not good enough, and some spend money or borrow to keep up with what they see. Young people, who spend hours on these platforms, are particularly vulnerable, and studies connect heavy use with anxiety and low self-confidence. However, not every influencer is dishonest, and some share real struggles and everyday life. Honest disclosure and critical viewing reduce the harm. Rules can require influencers to label paid partnerships and edited images, and platforms can promote creators who show realistic content. Parents and teachers should discuss with young people how these images are produced and encourage them to measure their lives by their own values.\n\nIn conclusion, I agree that influencer culture creates unrealistic lifestyles, but transparency and media education can reduce its effects.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: văn hoá người ảnh hưởng tạo lối sống phi thực tế — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người ảnh hưởng ở bãi biển nhiệt đới, khách sạn sang; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Cho thấy phiên bản được tài trợ, dàn dựng, chỉnh sửa: quà tặng, chuyến đi trả tiền, cảnh hoàn hảo che nỗ lực, tiền; ví dụ người ảnh hưởng du lịch đăng ảnh khu nghỉ sang có thể được ở miễn phí đổi quảng bá, chụp hàng chục kiểu mới chọn ánh sáng hoàn hảo; người xem tin bình thường, mua nổi; thuê quần áo, xe, nhà để quay; bộ lọc; dòng ảnh quyến rũ làm đời thường nhàm.",
+        "refs": [
+          "ID-media-influencer-unrealistic",
+          "ID-media-misleading-posts",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hậu quả + giới hạn",
+        "think": "Người theo dõi thấy cuộc sống mình chưa đủ, chi tiêu hoặc vay để theo kịp; người trẻ dễ tổn thương, lo âu, tự tin thấp; nhưng không phải ai cũng không trung thực; công khai, xem phê phán giảm hại; quy tắc dán nhãn hợp tác trả phí, ảnh chỉnh; nền tảng quảng bá nội dung thực tế; cha mẹ, giáo viên thảo luận.",
+        "refs": [
+          "ID-media-influencer-unrealistic",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; minh bạch và giáo dục giảm tác động.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-influencer-unrealistic"
+    ]
+  },
+  "chunks": [
+    [
+      "influencers on tropical beaches, in luxury hotels and in spotless homes",
+      "người ảnh hưởng trên bãi biển nhiệt đới, trong khách sạn sang trọng và trong những ngôi nhà tinh tươm"
+    ],
+    [
+      "influencer culture creates unrealistic lifestyles",
+      "văn hoá người ảnh hưởng tạo ra lối sống phi thực tế"
+    ],
+    [
+      "sponsored, staged and edited versions of life",
+      "các phiên bản cuộc sống được tài trợ, dàn dựng và chỉnh sửa"
+    ],
+    [
+      "Free gifts, paid trips and perfect scenes",
+      "quà tặng miễn phí, chuyến đi trả phí và cảnh hoàn hảo"
+    ],
+    [
+      "hide the effort and money behind them",
+      "che giấu nỗ lực và tiền bạc đằng sau"
+    ],
+    [
+      "a luxury resort",
+      "một khu nghỉ dưỡng sang trọng"
+    ],
+    [
+      "received the stay free in return for promotion",
+      "được ở miễn phí đổi lại việc quảng bá"
+    ],
+    [
+      "dozens of shots",
+      "hàng chục bức ảnh"
+    ],
+    [
+      "perfect light",
+      "ánh sáng hoàn hảo"
+    ],
+    [
+      "normal and affordable",
+      "bình thường và có thể mua nổi"
+    ],
+    [
+      "rent clothes, cars and even houses for filming",
+      "thuê quần áo, xe hơi và thậm chí nhà để quay phim"
+    ],
+    [
+      "filters that change their appearance",
+      "bộ lọc thay đổi diện mạo của họ"
+    ],
+    [
+      "glamorous images",
+      "những hình ảnh hào nhoáng"
+    ],
+    [
+      "ordinary routines look dull",
+      "khiến thói quen bình thường trông tẻ nhạt"
+    ],
+    [
+      "borrow to keep up",
+      "vay tiền để theo kịp"
+    ],
+    [
+      "anxiety and low self-confidence",
+      "lo âu và thiếu tự tin"
+    ],
+    [
+      "share real struggles and everyday life",
+      "chia sẻ khó khăn thực và cuộc sống thường ngày"
+    ],
+    [
+      "label paid partnerships",
+      "dán nhãn các hợp tác có trả phí"
+    ],
+    [
+      "measure their lives by their own values",
+      "đánh giá cuộc sống theo giá trị của riêng mình"
+    ]
+  ]
+}

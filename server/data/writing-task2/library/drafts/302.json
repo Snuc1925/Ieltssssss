@@ -1,0 +1,123 @@
+{
+  "questionId": 302,
+  "text": "Famous actors, athletes and singers occupy magazines and screens in many nations, and this essay will discuss the benefits for a country that focuses on celebrity culture, using examples such as South Korea and the United States.\n\nTo begin with, a country with a strong celebrity culture gains tourism, cultural influence and fundraising power. Famous actors, athletes and musicians attract visitors and promote the nation abroad. South Korea, for example, has used its pop groups and television dramas to create worldwide interest in its language, food and fashion, and millions of tourists visit locations from their favourite programmes. Such soft power helps exports of cosmetics, electronics and cars, and it improves the country's image. Celebrity athletes can also inspire national pride during international competitions and encourage young people to take up sport.\n\nFurthermore, celebrity culture supports a large entertainment industry and charitable giving. Film studios, record companies, fashion houses and media outlets create jobs for performers, technicians and designers, and their products earn export income. When stars campaign for charities, they can raise large sums quickly, as with the concerts and appeals held after natural disasters. Famous people also draw attention to causes such as the environment, health and education. The disadvantages include materialism, pressure on privacy and unrealistic images, but good regulation and attention to role models can reduce them. A country that manages celebrity culture well gains economic benefits and international prestige, while giving its young people examples of talent and hard work.\n\nIn conclusion, a country that focuses on celebrity culture benefits through tourism, cultural influence, jobs and fundraising, although the downsides must be managed.",
+  "analysis": {
+    "type_vi": "A/D (benefits): văn hoá người nổi tiếng đối với quốc gia — Hàn Quốc, Mỹ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu diễn viên, vận động viên, ca sĩ ở nhiều nước; lợi ích kèm ví dụ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Du lịch, ảnh hưởng văn hoá, gây quỹ: người nổi tiếng thu hút khách, quảng bá quốc gia; ví dụ Hàn Quốc dùng nhóm nhạc pop, phim truyền hình tạo quan tâm toàn cầu ngôn ngữ, ẩm thực, thời trang, khách thăm địa điểm; quyền lực mềm hỗ trợ xuất khẩu mỹ phẩm, điện tử, xe; vận động viên truyền lòng tự hào, khuyến khích thể thao.",
+        "refs": [
+          "ID-media-celebrity-benefits",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 + nhược",
+        "think": "Ngành giải trí lớn, từ thiện: hãng phim, đĩa, thời trang tạo việc, xuất khẩu; ngôi sao vận động gây quỹ nhanh sau thiên tai; chú ý môi trường, y tế, giáo dục; nhược: vật chất, riêng tư, hình ảnh phi thực tế; quản lý tốt giảm; lợi ích kinh tế, uy tín.",
+        "refs": [
+          "ID-media-celebrity-benefits",
+          "ID-media-celebrity-materialism",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Du lịch, ảnh hưởng, việc làm, gây quỹ; quản lý mặt trái.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-celebrity-benefits"
+    ]
+  },
+  "chunks": [
+    [
+      "Famous actors, athletes and singers",
+      "diễn viên, vận động viên và ca sĩ nổi tiếng"
+    ],
+    [
+      "celebrity culture",
+      "văn hoá người nổi tiếng"
+    ],
+    [
+      "tourism, cultural influence and fundraising power",
+      "du lịch, ảnh hưởng văn hoá và khả năng gây quỹ"
+    ],
+    [
+      "attract visitors and promote the nation abroad",
+      "thu hút du khách và quảng bá quốc gia ra nước ngoài"
+    ],
+    [
+      "pop groups and television dramas",
+      "nhóm nhạc pop và phim truyền hình"
+    ],
+    [
+      "worldwide interest in its language, food and fashion",
+      "sự quan tâm toàn cầu đến ngôn ngữ, ẩm thực và thời trang"
+    ],
+    [
+      "millions of tourists visit locations from their favourite programmes",
+      "hàng triệu du khách đến thăm các địa điểm trong chương trình yêu thích"
+    ],
+    [
+      "soft power",
+      "quyền lực mềm"
+    ],
+    [
+      "exports of cosmetics, electronics and cars",
+      "xuất khẩu mỹ phẩm, đồ điện tử và ô tô"
+    ],
+    [
+      "national pride",
+      "niềm tự hào dân tộc"
+    ],
+    [
+      "a large entertainment industry",
+      "một ngành giải trí lớn"
+    ],
+    [
+      "Film studios, record companies, fashion houses",
+      "hãng phim, công ty thu âm, nhà mốt"
+    ],
+    [
+      "jobs for performers, technicians and designers",
+      "việc làm cho nghệ sĩ, kỹ thuật viên và nhà thiết kế"
+    ],
+    [
+      "raise large sums quickly",
+      "gây quỹ lớn nhanh chóng"
+    ],
+    [
+      "after natural disasters",
+      "sau thiên tai"
+    ],
+    [
+      "draw attention to causes",
+      "thu hút sự chú ý đến các vấn đề"
+    ],
+    [
+      "materialism, pressure on privacy and unrealistic images",
+      "chủ nghĩa vật chất, áp lực lên đời tư và hình ảnh phi thực tế"
+    ],
+    [
+      "international prestige",
+      "uy tín quốc tế"
+    ],
+    [
+      "talent and hard work",
+      "tài năng và sự chăm chỉ"
+    ]
+  ]
+}

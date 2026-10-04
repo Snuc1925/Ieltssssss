@@ -1,0 +1,122 @@
+{
+  "questionId": 263,
+  "text": "In a village or a small town, the weekly newspaper, the local radio station and the community website often provide the only news about what happens nearby, and this essay will discuss the role of local media in small communities, focusing on information and community identity.\n\nTo begin with, local media informs small communities about issues that national outlets ignore. A local paper or station reports council decisions, school events and local business, and holds officials to account. A resident who reads that the council plans to close a library, for example, can attend the meeting and protest before the decision is final. National channels rarely cover road repairs, planning applications or a missing pet, yet these affect everyday life. Local reporters know the area and can question mayors and officials, which makes corruption and waste harder to hide. Advertising in local media also helps small shops and farms to reach customers close by.\n\nFurthermore, local media strengthens community identity. It celebrates local sports teams, festivals and achievements, gives space to residents' opinions and helps newcomers to feel at home. A radio programme in which elderly villagers tell stories about the past, for example, preserves memories and dialects that would otherwise be lost. In emergencies such as floods or snow, local stations provide immediate and relevant advice. However, falling advertising revenue and competition from online platforms make it hard for many small outlets to survive. Support from councils, donations from readers and partnerships with schools can keep them alive. When local media thrives, communities remain informed and connected.\n\nIn conclusion, local media plays an essential role in small communities by providing relevant news, holding authorities to account and strengthening a shared identity.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò truyền thông địa phương ở cộng đồng nhỏ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu báo tuần, đài địa phương; hai ý: thông tin; bản sắc cộng đồng.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Thông báo vấn đề kênh quốc gia bỏ qua: quyết định hội đồng, sự kiện trường, kinh doanh, giám sát; ví dụ cư dân đọc hội đồng định đóng thư viện dự họp phản đối trước khi quyết định; kênh quốc gia ít đưa sửa đường, đơn quy hoạch, thú lạc; phóng viên biết khu vực chất vấn thị trưởng; quảng cáo giúp cửa hàng nhỏ, nông trại.",
+        "refs": [
+          "ID-media-local-media",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + khó khăn",
+        "think": "Củng cố bản sắc: đội thể thao, lễ hội, ý kiến cư dân, người mới; ví dụ chương trình radio người già kể chuyện bảo tồn ký ức, phương ngữ; lũ, tuyết cảnh báo kịp thời; doanh thu quảng cáo giảm, cạnh tranh trực tuyến; hội đồng hỗ trợ, độc giả quyên góp, hợp tác trường.",
+        "refs": [
+          "ID-media-local-media",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò thiết yếu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-local-media"
+    ]
+  },
+  "chunks": [
+    [
+      "the weekly newspaper, the local radio station and the community website",
+      "tờ báo tuần, đài phát thanh địa phương và trang web cộng đồng"
+    ],
+    [
+      "local media in small communities",
+      "truyền thông địa phương trong các cộng đồng nhỏ"
+    ],
+    [
+      "information and community identity",
+      "thông tin và bản sắc cộng đồng"
+    ],
+    [
+      "issues that national outlets ignore",
+      "các vấn đề mà truyền thông quốc gia bỏ qua"
+    ],
+    [
+      "council decisions, school events and local business",
+      "quyết định của hội đồng, sự kiện trường học và doanh nghiệp địa phương"
+    ],
+    [
+      "holds officials to account",
+      "buộc quan chức phải giải trình"
+    ],
+    [
+      "plans to close a library",
+      "dự định đóng cửa một thư viện"
+    ],
+    [
+      "attend the meeting and protest",
+      "dự họp và phản đối"
+    ],
+    [
+      "road repairs, planning applications or a missing pet",
+      "sửa đường, đơn xin quy hoạch hay một con thú cưng bị mất"
+    ],
+    [
+      "question mayors and officials",
+      "chất vấn thị trưởng và quan chức"
+    ],
+    [
+      "corruption and waste harder to hide",
+      "khiến tham nhũng và lãng phí khó che giấu hơn"
+    ],
+    [
+      "small shops and farms to reach customers",
+      "cửa hàng nhỏ và nông trại tiếp cận khách hàng"
+    ],
+    [
+      "celebrates local sports teams, festivals and achievements",
+      "tôn vinh đội thể thao, lễ hội và thành tựu địa phương"
+    ],
+    [
+      "feel at home",
+      "cảm thấy như ở nhà"
+    ],
+    [
+      "preserves memories and dialects",
+      "bảo tồn ký ức và phương ngữ"
+    ],
+    [
+      "floods or snow",
+      "lũ lụt hoặc tuyết"
+    ],
+    [
+      "falling advertising revenue",
+      "doanh thu quảng cáo giảm"
+    ],
+    [
+      "donations from readers",
+      "đóng góp từ độc giả"
+    ],
+    [
+      "informed and connected",
+      "được thông tin và kết nối"
+    ]
+  ]
+}

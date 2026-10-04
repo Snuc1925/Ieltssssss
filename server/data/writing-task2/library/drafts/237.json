@@ -1,0 +1,121 @@
+{
+  "questionId": 237,
+  "text": "Some countries fund television and radio channels through licence fees or taxes, and this essay will discuss the benefits for a country that focuses on public broadcasting, using examples from several nations.\n\nTo begin with, public broadcasting provides reliable information and cultural programmes that commercial channels may not. Funded by licence fees or taxes, it can serve minorities, schools and remote regions and keep news independent of advertisers. The British Broadcasting Corporation, for example, produces news, drama, children's programmes and educational series that are available to everyone, and its reports are widely trusted around the world. Because public channels do not depend on audience ratings alone, they can broadcast documentaries, classical music and regional languages that attract smaller audiences but add to national culture. In emergencies such as floods, they provide accurate and calm warnings and advice to the whole population.\n\nFurthermore, public broadcasting benefits democracy and society. It offers balanced coverage of elections and political debates, which helps citizens to make informed decisions, and it brings people together through shared experiences such as sporting events and national celebrations. Schools use its programmes in lessons, and its children's channels are free of advertising. The disadvantages are the cost to taxpayers and the risk of political pressure, but strong independence rules, transparent funding and an independent board can protect against these problems. Citizens are better informed and more united in countries with strong public broadcasters, and commercial channels also gain by competing against high standards.\n\nIn conclusion, a country that focuses on public broadcasting benefits from independent information, rich culture and a more informed society.",
+  "analysis": {
+    "type_vi": "A/D (benefits): phát thanh truyền hình công — ví dụ BBC",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tài trợ bằng phí cấp phép hoặc thuế; lợi ích với ví dụ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Thông tin đáng tin, chương trình văn hoá thương mại bỏ qua: phục vụ thiểu số, trường, vùng xa, tin độc lập với nhà quảng cáo; ví dụ BBC tin, kịch, trẻ em, giáo dục cho mọi người, tin cậy toàn cầu; không phụ thuộc rating nên có tài liệu, nhạc cổ điển, ngôn ngữ vùng; khẩn cấp lũ cảnh báo chính xác.",
+        "refs": [
+          "ID-media-public-broadcasting",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2",
+        "think": "Lợi cho dân chủ và xã hội: bầu cử cân bằng, quyết định sáng suốt; gắn kết qua sự kiện thể thao, lễ quốc gia; trường dùng; kênh trẻ em không quảng cáo; nhược: chi phí thuế, áp lực chính trị; quy tắc độc lập, tài trợ minh bạch, hội đồng độc lập; kênh thương mại cạnh tranh chuẩn cao.",
+        "refs": [
+          "ID-media-public-broadcasting",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thông tin độc lập, văn hoá, xã hội hiểu biết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-public-broadcasting"
+    ]
+  },
+  "chunks": [
+    [
+      "television and radio channels through licence fees or taxes",
+      "kênh truyền hình và phát thanh qua phí cấp phép hoặc thuế"
+    ],
+    [
+      "public broadcasting",
+      "phát thanh truyền hình công"
+    ],
+    [
+      "reliable information and cultural programmes",
+      "thông tin đáng tin cậy và chương trình văn hoá"
+    ],
+    [
+      "serve minorities, schools and remote regions",
+      "phục vụ nhóm thiểu số, trường học và vùng xa"
+    ],
+    [
+      "keep news independent of advertisers",
+      "giữ tin tức độc lập với nhà quảng cáo"
+    ],
+    [
+      "news, drama, children's programmes and educational series",
+      "tin tức, kịch, chương trình trẻ em và loạt chương trình giáo dục"
+    ],
+    [
+      "widely trusted around the world",
+      "được tin cậy rộng rãi trên thế giới"
+    ],
+    [
+      "audience ratings",
+      "chỉ số người xem"
+    ],
+    [
+      "documentaries, classical music and regional languages",
+      "phim tài liệu, nhạc cổ điển và ngôn ngữ vùng miền"
+    ],
+    [
+      "national culture",
+      "văn hoá quốc gia"
+    ],
+    [
+      "floods",
+      "lũ lụt"
+    ],
+    [
+      "accurate and calm warnings",
+      "những cảnh báo chính xác và bình tĩnh"
+    ],
+    [
+      "balanced coverage of elections and political debates",
+      "đưa tin cân bằng về bầu cử và tranh luận chính trị"
+    ],
+    [
+      "informed decisions",
+      "các quyết định sáng suốt"
+    ],
+    [
+      "sporting events and national celebrations",
+      "sự kiện thể thao và lễ kỷ niệm quốc gia"
+    ],
+    [
+      "free of advertising",
+      "không có quảng cáo"
+    ],
+    [
+      "political pressure",
+      "áp lực chính trị"
+    ],
+    [
+      "strong independence rules, transparent funding",
+      "quy tắc độc lập mạnh, nguồn tài trợ minh bạch"
+    ],
+    [
+      "more informed and more united",
+      "hiểu biết hơn và đoàn kết hơn"
+    ]
+  ]
+}

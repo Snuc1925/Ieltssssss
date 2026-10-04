@@ -1,0 +1,121 @@
+{
+  "questionId": 254,
+  "text": "Questions about health, politics and technology are answered in seconds on online forums, and many people think that online forums spread misinformation. I agree to some extent, since posts are unchecked, although many forums also share expert help.\n\nTo begin with, online forums can spread misinformation because posts are unchecked. Anyone can post opinions as facts, and popular replies are not necessarily accurate. A user who asks about a medical symptom, for example, may receive a dozen confident answers from strangers with no training, and some of the advice may be dangerous. People often trust a reply simply because many others agree, and false claims that are repeated can start to look true. Anonymous accounts feel no responsibility for what they write, and some deliberately spread rumours or promote products. Because discussions move quickly, corrections are often buried and the original mistake spreads.\n\nHowever, forums also have positive aspects. Moderators, expert members and links to sources correct many errors, and communities for professionals, such as programmers or doctors, often provide high-quality advice. A beginner who posts a computer problem, for example, can receive a precise solution from an expert within minutes. Forums are also a place where people can compare experiences, which is valuable when official information is limited. Users must verify claims. They should check whether a reply cites reliable sources, compare several opinions and consult professionals before acting on advice about health or money. Forum owners can improve quality through clear rules, active moderation and tools that highlight verified experts.\n\nIn conclusion, I agree to some extent that online forums spread misinformation, but careful use and good moderation can reduce the risk.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: diễn đàn trực tuyến lan thông tin sai — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu câu hỏi được trả lời trong vài giây; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Bài đăng không kiểm: ai cũng đăng ý kiến như sự thật; ví dụ người hỏi triệu chứng nhận chục câu trả lời tự tin từ người lạ không đào tạo, lời khuyên nguy hiểm; tin vì nhiều người đồng ý, lặp lại thành thật; tài khoản ẩn danh không trách nhiệm, tung tin đồn, quảng cáo; đính chính chìm.",
+        "refs": [
+          "ID-media-forums-misinfo",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Diễn đàn cũng tích cực: người điều hành, chuyên gia, nguồn sửa lỗi; cộng đồng chuyên môn; ví dụ người mới đăng lỗi máy tính nhận giải pháp chính xác trong vài phút; so sánh trải nghiệm; người dùng xác minh, kiểm nguồn, hỏi chuyên gia; chủ diễn đàn quy tắc, kiểm duyệt, đánh dấu chuyên gia.",
+        "refs": [
+          "ID-media-forums-misinfo",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree một phần; dùng cẩn thận và kiểm duyệt tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-forums-misinfo"
+    ]
+  },
+  "chunks": [
+    [
+      "answered in seconds on online forums",
+      "được trả lời trong vài giây trên các diễn đàn trực tuyến"
+    ],
+    [
+      "online forums spread misinformation",
+      "diễn đàn trực tuyến lan truyền thông tin sai lệch"
+    ],
+    [
+      "posts are unchecked",
+      "các bài đăng không được kiểm chứng"
+    ],
+    [
+      "post opinions as facts",
+      "đăng ý kiến như thể là sự thật"
+    ],
+    [
+      "popular replies are not necessarily accurate",
+      "những câu trả lời phổ biến không nhất thiết chính xác"
+    ],
+    [
+      "a medical symptom",
+      "một triệu chứng y khoa"
+    ],
+    [
+      "a dozen confident answers from strangers with no training",
+      "hàng chục câu trả lời tự tin từ người lạ không được đào tạo"
+    ],
+    [
+      "dangerous",
+      "nguy hiểm"
+    ],
+    [
+      "trust a reply simply because many others agree",
+      "tin một câu trả lời chỉ vì nhiều người khác đồng ý"
+    ],
+    [
+      "false claims that are repeated",
+      "những tuyên bố sai bị lặp lại"
+    ],
+    [
+      "Anonymous accounts feel no responsibility",
+      "tài khoản ẩn danh không cảm thấy trách nhiệm"
+    ],
+    [
+      "deliberately spread rumours",
+      "cố ý lan truyền tin đồn"
+    ],
+    [
+      "corrections are often buried",
+      "lời đính chính thường bị chìm"
+    ],
+    [
+      "Moderators, expert members and links to sources",
+      "người điều hành, thành viên chuyên gia và liên kết đến nguồn"
+    ],
+    [
+      "high-quality advice",
+      "lời khuyên chất lượng cao"
+    ],
+    [
+      "a precise solution from an expert within minutes",
+      "giải pháp chính xác từ chuyên gia trong vài phút"
+    ],
+    [
+      "compare experiences",
+      "so sánh trải nghiệm"
+    ],
+    [
+      "consult professionals",
+      "tham khảo chuyên gia"
+    ],
+    [
+      "active moderation",
+      "kiểm duyệt tích cực"
+    ]
+  ]
+}

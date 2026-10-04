@@ -1,0 +1,118 @@
+{
+  "questionId": 84,
+  "text": "A holiday photograph with perfect light, a smiling family and a spotless home appears in thousands of feeds every day, and many feel that photos and posts on social media are misleading. I agree with this view, since people edit and select what they show, although some posts are honest.\n\nTo begin with, photos and posts on social media are often misleading because people edit and select what they show. Filters, editing and carefully chosen moments create flawless images of life. A young woman who spends an hour taking fifty pictures before posting the best one, for example, may use filters to change her skin and shape, so that the result differs greatly from reality. People share holidays, promotions and celebrations, but rarely mention arguments, failures and ordinary days. Influencers may also be paid to praise products without admitting that they have not used them, and some staged scenes are presented as spontaneous.\n\nFurthermore, these images affect viewers. Those who see only perfect lives compare themselves unfairly and feel dissatisfied with their own appearance, income or relationships. Teenagers are especially vulnerable, since they are still forming their identity, and research has linked heavy use with anxiety and low self-esteem. However, not all posts are dishonest, and many people use the platforms to share real experiences, news and creative work. Media literacy and honest labelling reduce the harm. Schools can teach students how images are edited, platforms can require labels on altered or sponsored photographs, and users can remind themselves that online lives are selected highlights.\n\nIn conclusion, I agree that many photos and posts on social media are misleading, but education and clear labelling can help people to view them more critically.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: ảnh, bài đăng mạng xã hội gây hiểu lầm — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu bức ảnh kỳ nghỉ hoàn hảo; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Chỉnh sửa và chọn lọc: bộ lọc, khoảnh khắc chọn tạo hình ảnh hoàn hảo; ví dụ cô gái chụp 50 ảnh một giờ chọn một, dùng bộ lọc đổi da, dáng khác hẳn thực; chia sẻ kỳ nghỉ, thăng chức, ít cãi vã, thất bại; người ảnh hưởng được trả khen sản phẩm chưa dùng; cảnh dàn dựng như tự nhiên.",
+        "refs": [
+          "ID-media-misleading-posts",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Ảnh hưởng người xem: so sánh không công bằng, không hài lòng ngoại hình, thu nhập, quan hệ; thiếu niên dễ tổn thương, nghiên cứu liên hệ lo âu; nhưng không phải bài nào cũng giả; hiểu biết truyền thông, nhãn trung thực; trường dạy cách chỉnh ảnh, nền tảng yêu cầu nhãn ảnh chỉnh, tài trợ.",
+        "refs": [
+          "ID-media-misleading-posts",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; giáo dục, dán nhãn giúp nhìn phê phán.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-misleading-posts"
+    ]
+  },
+  "chunks": [
+    [
+      "A holiday photograph with perfect light",
+      "một bức ảnh kỳ nghỉ với ánh sáng hoàn hảo"
+    ],
+    [
+      "photos and posts on social media are misleading",
+      "ảnh và bài đăng trên mạng xã hội gây hiểu lầm"
+    ],
+    [
+      "edit and select what they show",
+      "chỉnh sửa và chọn lọc những gì họ cho thấy"
+    ],
+    [
+      "Filters, editing and carefully chosen moments",
+      "bộ lọc, chỉnh sửa và những khoảnh khắc được chọn cẩn thận"
+    ],
+    [
+      "flawless images of life",
+      "những hình ảnh cuộc sống không tì vết"
+    ],
+    [
+      "fifty pictures",
+      "năm mươi bức ảnh"
+    ],
+    [
+      "change her skin and shape",
+      "thay đổi làn da và vóc dáng của cô"
+    ],
+    [
+      "differs greatly from reality",
+      "khác xa thực tế"
+    ],
+    [
+      "arguments, failures and ordinary days",
+      "những cuộc cãi vã, thất bại và ngày bình thường"
+    ],
+    [
+      "paid to praise products",
+      "được trả tiền để khen sản phẩm"
+    ],
+    [
+      "staged scenes",
+      "cảnh dàn dựng"
+    ],
+    [
+      "compare themselves unfairly",
+      "so sánh bản thân một cách không công bằng"
+    ],
+    [
+      "dissatisfied with their own appearance, income or relationships",
+      "không hài lòng với ngoại hình, thu nhập hay các mối quan hệ của mình"
+    ],
+    [
+      "still forming their identity",
+      "vẫn đang hình thành bản sắc"
+    ],
+    [
+      "anxiety and low self-esteem",
+      "lo âu và lòng tự trọng thấp"
+    ],
+    [
+      "Media literacy and honest labelling",
+      "hiểu biết truyền thông và việc dán nhãn trung thực"
+    ],
+    [
+      "altered or sponsored photographs",
+      "ảnh đã chỉnh sửa hoặc được tài trợ"
+    ],
+    [
+      "selected highlights",
+      "những điểm sáng được chọn lọc"
+    ]
+  ]
+}

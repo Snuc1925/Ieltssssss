@@ -1,0 +1,121 @@
+{
+  "questionId": 24,
+  "text": "Advertisements now appear on screens, streets and phones, and many feel that advertising harms traditional values. I agree to some extent, since advertising can weaken traditional values by promoting consumption, although it is not the only influence on society.\n\nTo begin with, advertising can weaken traditional values. Adverts that link happiness to buying and that use foreign lifestyles can displace modest habits and family customs. A campaign that shows a perfect life as one with the latest phone and fashionable clothes, for example, may persuade young people that status matters more than modesty or respect for elders. Traditional values such as saving money, repairing old things and sharing with relatives can seem old-fashioned when advertisers present constant consumption as normal. Children who grow up with such messages often put pressure on their parents to buy brands, which strains family budgets and relationships.\n\nHowever, advertising is not the only force that changes values, and it can sometimes support them. Some campaigns celebrate local festivals, family reunions and national crafts, and they make traditions visible to a wide audience. A holiday advert that shows several generations eating together, for example, reminds viewers of the importance of family. Values also change through education, migration, travel and the internet, so that blaming advertising alone is unfair. Governments can reduce the harm by setting standards on honesty and by encouraging adverts which respect local culture, while families and schools teach critical thinking about commercial messages.\n\nIn conclusion, I agree to some extent that advertising harms traditional values, particularly by encouraging materialism, but its influence should not be exaggerated.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: quảng cáo làm hại giá trị truyền thống — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu quảng cáo khắp nơi; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Quảng cáo làm yếu giá trị truyền thống: gắn hạnh phúc với mua sắm, lối sống nước ngoài thay thói quen giản dị; ví dụ chiến dịch cho cuộc sống hoàn hảo là điện thoại mới, thời trang khiến trẻ nghĩ địa vị hơn khiêm tốn, kính trọng người lớn; tiết kiệm, sửa đồ cũ, chia sẻ họ hàng thành lỗi thời; trẻ ép cha mẹ mua nhãn hiệu.",
+        "refs": [
+          "ID-media-ads-values",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải lực duy nhất, đôi khi hỗ trợ: quảng bá lễ hội, đoàn tụ, nghề truyền thống; ví dụ quảng cáo ngày lễ cho thấy nhiều thế hệ ăn cùng nhắc tầm quan trọng gia đình; giáo dục, di cư, du lịch, internet; chính phủ đặt chuẩn trung thực, khuyến khích quảng cáo tôn trọng văn hoá; gia đình, trường dạy tư duy phản biện.",
+        "refs": [
+          "ID-media-ads-values",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý một phần; không nên phóng đại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-ads-values"
+    ]
+  },
+  "chunks": [
+    [
+      "Advertisements now appear on screens, streets and phones",
+      "quảng cáo nay xuất hiện trên màn hình, đường phố và điện thoại"
+    ],
+    [
+      "advertising harms traditional values",
+      "quảng cáo làm hại các giá trị truyền thống"
+    ],
+    [
+      "promoting consumption",
+      "thúc đẩy tiêu dùng"
+    ],
+    [
+      "link happiness to buying",
+      "gắn hạnh phúc với việc mua sắm"
+    ],
+    [
+      "foreign lifestyles",
+      "lối sống nước ngoài"
+    ],
+    [
+      "displace modest habits and family customs",
+      "thay thế thói quen giản dị và phong tục gia đình"
+    ],
+    [
+      "the latest phone and fashionable clothes",
+      "điện thoại mới nhất và quần áo thời trang"
+    ],
+    [
+      "status matters more than modesty or respect for elders",
+      "địa vị quan trọng hơn sự khiêm tốn hay tôn trọng người lớn tuổi"
+    ],
+    [
+      "saving money, repairing old things and sharing with relatives",
+      "tiết kiệm tiền, sửa đồ cũ và chia sẻ với họ hàng"
+    ],
+    [
+      "old-fashioned",
+      "lỗi thời"
+    ],
+    [
+      "constant consumption",
+      "tiêu dùng liên tục"
+    ],
+    [
+      "put pressure on their parents to buy brands",
+      "gây áp lực để cha mẹ mua hàng hiệu"
+    ],
+    [
+      "strains family budgets",
+      "làm căng thẳng ngân sách gia đình"
+    ],
+    [
+      "celebrate local festivals, family reunions and national crafts",
+      "tôn vinh lễ hội địa phương, đoàn tụ gia đình và nghề thủ công dân tộc"
+    ],
+    [
+      "several generations eating together",
+      "nhiều thế hệ cùng ăn với nhau"
+    ],
+    [
+      "education, migration, travel and the internet",
+      "giáo dục, di cư, du lịch và internet"
+    ],
+    [
+      "standards on honesty",
+      "các tiêu chuẩn về sự trung thực"
+    ],
+    [
+      "respect local culture",
+      "tôn trọng văn hoá địa phương"
+    ],
+    [
+      "critical thinking about commercial messages",
+      "tư duy phản biện về thông điệp thương mại"
+    ]
+  ]
+}

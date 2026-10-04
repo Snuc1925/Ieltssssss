@@ -1,0 +1,121 @@
+{
+  "questionId": 86,
+  "text": "Every year, popular novels are turned into films, and people often debate which form is better, so that the statement that books are better than films raises a lively question. I agree to a large extent, although films have strengths of their own.\n\nTo begin with, books develop imagination and language more deeply. Reading requires readers to picture scenes, builds vocabulary and allows detailed ideas. A reader of a long novel, for example, imagines the faces, voices and places in his own way, and meets sentences and words that he would rarely hear in conversation. Books allow access to the inner thoughts of characters, which films can only suggest, and they can explore complicated arguments, history and science in great depth. Reading also improves concentration and writing skills, and it is a portable and cheap hobby that can be enjoyed anywhere. Studies suggest that regular readers have larger vocabularies and better understanding of others.\n\nHowever, films give vivid and emotional experiences quickly. They combine images, music and acting to deliver a story in two hours, which suits people who have little time. A film adaptation of a classic, for example, can introduce a story to those who would never open the book, and spectacular scenes such as battles or landscapes are more powerful on screen. Films can also be watched with friends and discussed afterwards. Therefore, each form has its strengths, and the best choice depends on purpose: for deep learning, language and reflection, books are superior, while for entertainment and shared experience, films are often more convenient.\n\nIn conclusion, I agree to a large extent that books are better than films, but both have an important place in culture.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: sách tốt hơn phim — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tiểu thuyết nổi tiếng được chuyển thể; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Sách phát triển trí tưởng tượng, ngôn ngữ sâu hơn: tưởng tượng cảnh, từ vựng, ý chi tiết; ví dụ người đọc tiểu thuyết dài tưởng tượng mặt, giọng, nơi theo cách riêng, gặp câu từ ít nghe; nội tâm nhân vật; lập luận phức tạp, lịch sử, khoa học; tập trung, viết; rẻ; từ vựng, thấu hiểu.",
+        "refs": [
+          "ID-media-books-films",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Phim sống động, cảm xúc nhanh: hình ảnh, nhạc, diễn xuất, hai giờ; ví dụ chuyển thể kinh điển giới thiệu cho người không mở sách, cảnh chiến đấu, phong cảnh; xem với bạn thảo luận; tuỳ mục đích: học sâu thì sách, giải trí và trải nghiệm chung thì phim.",
+        "refs": [
+          "ID-media-books-films",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Sách tốt hơn ở mức lớn; cả hai quan trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-books-films"
+    ]
+  },
+  "chunks": [
+    [
+      "popular novels are turned into films",
+      "tiểu thuyết nổi tiếng được chuyển thành phim"
+    ],
+    [
+      "books are better than films",
+      "sách hay hơn phim"
+    ],
+    [
+      "develop imagination and language more deeply",
+      "phát triển trí tưởng tượng và ngôn ngữ sâu sắc hơn"
+    ],
+    [
+      "picture scenes",
+      "hình dung các cảnh"
+    ],
+    [
+      "builds vocabulary",
+      "xây dựng vốn từ vựng"
+    ],
+    [
+      "imagines the faces, voices and places in his own way",
+      "tưởng tượng khuôn mặt, giọng nói và địa điểm theo cách riêng"
+    ],
+    [
+      "the inner thoughts of characters",
+      "suy nghĩ nội tâm của nhân vật"
+    ],
+    [
+      "complicated arguments, history and science",
+      "những lập luận phức tạp, lịch sử và khoa học"
+    ],
+    [
+      "improves concentration and writing skills",
+      "cải thiện sự tập trung và kỹ năng viết"
+    ],
+    [
+      "portable and cheap",
+      "dễ mang theo và rẻ"
+    ],
+    [
+      "larger vocabularies",
+      "vốn từ vựng lớn hơn"
+    ],
+    [
+      "vivid and emotional experiences",
+      "trải nghiệm sống động và giàu cảm xúc"
+    ],
+    [
+      "combine images, music and acting",
+      "kết hợp hình ảnh, âm nhạc và diễn xuất"
+    ],
+    [
+      "deliver a story in two hours",
+      "truyền tải câu chuyện trong hai giờ"
+    ],
+    [
+      "a film adaptation of a classic",
+      "bản chuyển thể điện ảnh của tác phẩm kinh điển"
+    ],
+    [
+      "spectacular scenes",
+      "những cảnh ngoạn mục"
+    ],
+    [
+      "watched with friends and discussed afterwards",
+      "xem cùng bạn bè và thảo luận sau đó"
+    ],
+    [
+      "the best choice depends on purpose",
+      "lựa chọn tốt nhất phụ thuộc mục đích"
+    ],
+    [
+      "entertainment and shared experience",
+      "giải trí và trải nghiệm chung"
+    ]
+  ]
+}

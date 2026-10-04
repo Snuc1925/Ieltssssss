@@ -1,0 +1,126 @@
+{
+  "questionId": 134,
+  "text": "A cruel message, a humiliating photograph or a false rumour can reach a whole school within minutes, and many people think that social networks increase cyberbullying. I agree with this view, since abuse can be anonymous, constant and public, although bullying also exists offline.\n\nTo begin with, social networks increase cyberbullying because abuse can be anonymous, constant and public. Bullies can reach victims at any hour and share insults with a large audience, so harm spreads quickly and is hard to escape. A girl who is mocked by classmates in a group chat, for example, may receive messages late at night in her own bedroom, where she once felt safe. Offensive comments and edited pictures can be copied and shared endlessly, and they can remain online for years. Anonymous accounts remove the fear of being identified, which makes some people far crueller than they would be in person, and observers often join in without thinking.\n\nFurthermore, the consequences can be severe. Victims often suffer anxiety, depression and loss of sleep, perform worse at school and, in tragic cases, harm themselves. However, bullying existed long before the internet, and some of it still takes place in classrooms and playgrounds. Social networks have not created cruelty; they have given it new tools and a larger audience. Platforms, schools and parents must therefore act together. Platforms should make it easy to report abuse, remove harmful posts quickly and block repeat offenders, schools should teach students how to behave online and how to support victims, and parents should talk openly with their children and keep an eye on warning signs.\n\nIn conclusion, I agree that social networks increase cyberbullying, and effective protection requires cooperation between technology companies, schools and families.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: mạng xã hội tăng bắt nạt trực tuyến — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tin nhắn độc ác, ảnh làm nhục, tin đồn lan cả trường; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Lạm dụng ẩn danh, liên tục, công khai: bắt nạt tiếp cận nạn nhân mọi giờ, chia sẻ với khán giả lớn; ví dụ cô gái bị bạn chế giễu trong nhóm chat nhận tin muộn trong phòng ngủ an toàn; bình luận, ảnh chỉnh sao chép chia sẻ mãi, tồn tại nhiều năm; tài khoản ẩn danh mất sợ bị nhận ra; người xem hùa theo.",
+        "refs": [
+          "ID-media-cyberbullying",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hậu quả + nhượng bộ",
+        "think": "Nạn nhân lo âu, trầm cảm, mất ngủ, học kém, trường hợp bi thảm tự hại; nhưng bắt nạt có từ trước, vẫn ở lớp học, sân chơi; mạng xã hội cho công cụ mới và khán giả lớn; nền tảng báo cáo dễ, gỡ nhanh, chặn người lặp lại; trường dạy ứng xử; cha mẹ trò chuyện, để ý dấu hiệu.",
+        "refs": [
+          "ID-media-cyberbullying",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; cần hợp tác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-cyberbullying"
+    ]
+  },
+  "chunks": [
+    [
+      "A cruel message, a humiliating photograph or a false rumour",
+      "một tin nhắn độc ác, một bức ảnh làm nhục hay một tin đồn sai sự thật"
+    ],
+    [
+      "social networks increase cyberbullying",
+      "mạng xã hội làm tăng bắt nạt trực tuyến"
+    ],
+    [
+      "anonymous, constant and public",
+      "ẩn danh, liên tục và công khai"
+    ],
+    [
+      "reach victims at any hour",
+      "tiếp cận nạn nhân vào bất cứ giờ nào"
+    ],
+    [
+      "share insults with a large audience",
+      "chia sẻ những lời lăng mạ với lượng khán giả lớn"
+    ],
+    [
+      "hard to escape",
+      "khó thoát khỏi"
+    ],
+    [
+      "mocked by classmates in a group chat",
+      "bị bạn cùng lớp chế giễu trong nhóm chat"
+    ],
+    [
+      "late at night in her own bedroom",
+      "đêm khuya trong chính phòng ngủ của cô"
+    ],
+    [
+      "Offensive comments and edited pictures",
+      "bình luận xúc phạm và ảnh bị chỉnh sửa"
+    ],
+    [
+      "copied and shared endlessly",
+      "bị sao chép và chia sẻ không ngừng"
+    ],
+    [
+      "remain online for years",
+      "tồn tại trực tuyến nhiều năm"
+    ],
+    [
+      "remove the fear of being identified",
+      "loại bỏ nỗi sợ bị nhận diện"
+    ],
+    [
+      "join in without thinking",
+      "hùa theo mà không suy nghĩ"
+    ],
+    [
+      "anxiety, depression and loss of sleep",
+      "lo âu, trầm cảm và mất ngủ"
+    ],
+    [
+      "harm themselves",
+      "tự làm hại bản thân"
+    ],
+    [
+      "bullying existed long before the internet",
+      "nạn bắt nạt tồn tại từ lâu trước khi có internet"
+    ],
+    [
+      "classrooms and playgrounds",
+      "lớp học và sân chơi"
+    ],
+    [
+      "report abuse",
+      "báo cáo sự lạm dụng"
+    ],
+    [
+      "block repeat offenders",
+      "chặn những kẻ tái phạm"
+    ],
+    [
+      "warning signs",
+      "dấu hiệu cảnh báo"
+    ]
+  ]
+}

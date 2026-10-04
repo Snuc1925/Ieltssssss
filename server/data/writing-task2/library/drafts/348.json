@@ -1,0 +1,125 @@
+{
+  "questionId": 348,
+  "text": "Fewer people buy printed newspapers each year, and the question is to what extent traditional newspapers will disappear. I agree to a limited extent, since print newspapers will shrink and may largely disappear, but quality journalism will continue online.\n\nTo begin with, print newspapers are in long-term decline. Readers and advertisers have moved to digital platforms, making printing expensive. A local newspaper that once sold twenty thousand copies a day, for example, may now sell only a few thousand, and it cannot cover the cost of paper, ink and delivery. Young people get news from their phones and rarely buy a paper, and classified advertisements, which used to produce large profits, have moved to websites. Many titles have closed or merged, and some have stopped printing on weekdays. If this trend continues, print editions may become rare luxury items.\n\nHowever, journalism itself will not disappear, and a number of newspapers are adapting successfully. Many titles keep subscribers and move to paid websites and apps, which give them a direct relationship with readers and allow them to produce investigative reporting. Some readers also value the paper format for long articles, for the feel of a weekend edition and for relaxing away from screens. A newspaper that publishes a weekly printed magazine with in-depth essays, for example, can still attract loyal customers. The medium will therefore change while news survives. Society needs trained reporters to check facts and to question those in power, and readers who recognise this value are willing to pay for it.\n\nIn conclusion, traditional printed newspapers will probably shrink greatly, but journalism will continue in digital form, so I agree only to a limited extent that newspapers will disappear.",
+  "analysis": {
+    "type_vi": "Extent: báo giấy sẽ biến mất đến đâu — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu ngày càng ít người mua báo giấy; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Suy giảm",
+        "think": "Báo giấy suy giảm dài hạn: người đọc, nhà quảng cáo chuyển số, in đắt; ví dụ báo địa phương từng 20.000 bản/ngày chỉ vài nghìn, không đủ giấy, mực, giao; người trẻ đọc tin trên điện thoại; rao vặt chuyển web; nhiều tờ đóng, sáp nhập, bỏ in ngày thường; thành hàng xa xỉ.",
+        "refs": [
+          "ID-media-newspapers-disappear",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Báo chí vẫn tồn tại",
+        "think": "Báo chí không biến mất, nhiều tờ thích nghi: giữ người đăng ký, chuyển trang trả phí, ứng dụng, quan hệ trực tiếp, phóng sự điều tra; một số độc giả thích giấy cho bài dài, số cuối tuần, tránh màn hình; ví dụ tạp chí in hàng tuần có bài sâu vẫn hút khách trung thành; xã hội cần phóng viên kiểm chứng, chất vấn người có quyền; độc giả trả tiền.",
+        "refs": [
+          "ID-media-newspapers-disappear",
+          "ID-media-trust",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Báo in co lại nhiều nhưng báo chí tiếp tục số hoá.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-newspapers-disappear"
+    ]
+  },
+  "chunks": [
+    [
+      "Fewer people buy printed newspapers each year",
+      "mỗi năm ít người mua báo in hơn"
+    ],
+    [
+      "traditional newspapers will disappear",
+      "báo truyền thống sẽ biến mất"
+    ],
+    [
+      "print newspapers will shrink",
+      "báo in sẽ thu hẹp"
+    ],
+    [
+      "quality journalism will continue online",
+      "báo chí chất lượng sẽ tiếp tục tồn tại trực tuyến"
+    ],
+    [
+      "long-term decline",
+      "sự suy giảm dài hạn"
+    ],
+    [
+      "Readers and advertisers have moved to digital platforms",
+      "độc giả và nhà quảng cáo đã chuyển sang nền tảng số"
+    ],
+    [
+      "twenty thousand copies a day",
+      "hai mươi nghìn bản mỗi ngày"
+    ],
+    [
+      "the cost of paper, ink and delivery",
+      "chi phí giấy, mực và phát hành"
+    ],
+    [
+      "get news from their phones",
+      "lấy tin tức từ điện thoại"
+    ],
+    [
+      "classified advertisements",
+      "quảng cáo rao vặt"
+    ],
+    [
+      "closed or merged",
+      "đóng cửa hoặc sáp nhập"
+    ],
+    [
+      "rare luxury items",
+      "món xa xỉ hiếm hoi"
+    ],
+    [
+      "keep subscribers and move to paid websites and apps",
+      "giữ người đăng ký và chuyển sang trang web và ứng dụng trả phí"
+    ],
+    [
+      "a direct relationship with readers",
+      "mối quan hệ trực tiếp với độc giả"
+    ],
+    [
+      "investigative reporting",
+      "phóng sự điều tra"
+    ],
+    [
+      "the paper format",
+      "định dạng giấy"
+    ],
+    [
+      "relaxing away from screens",
+      "thư giãn tránh xa màn hình"
+    ],
+    [
+      "in-depth essays",
+      "các bài tiểu luận chuyên sâu"
+    ],
+    [
+      "question those in power",
+      "chất vấn những người nắm quyền"
+    ],
+    [
+      "willing to pay for it",
+      "sẵn sàng trả tiền cho nó"
+    ]
+  ]
+}

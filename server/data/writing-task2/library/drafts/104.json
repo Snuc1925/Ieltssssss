@@ -1,0 +1,122 @@
+{
+  "questionId": 104,
+  "text": "Cartoon characters, free toys and bright colours fill many programmes and websites that children watch, and many feel that adverts target children inappropriately. I agree with this view, since young children cannot judge persuasion, although some advertising can be harmless.\n\nTo begin with, advertising aimed at children is unfair because they cannot judge persuasion. Young children do not understand that adverts sell, so cartoon characters and games lead them to demand toys and sugary snacks. A six-year-old who sees a favourite character on a cereal box, for example, believes that the product is special and will repeat the request until her parents agree. Children do not have the experience to evaluate claims or to resist pressure, and psychologists say that before the age of eight they take messages at face value. Advertisers also use tricks such as competitions, collectable items and websites that blend games with promotions to make children want the brand.\n\nFurthermore, such advertising has harmful effects. It pressures parents who must refuse again and again, and it encourages materialism and unhealthy habits, because many adverts promote sweets, fast food and expensive toys. Children who cannot have the latest fashion may feel left out, which damages their self-esteem. However, not all advertising to children is harmful, and some promotes books, sports or educational games. Strict rules are nevertheless justified: governments can ban manipulative techniques, limit adverts during children's programmes, require clear labelling of promotions and restrict the promotion of unhealthy food. Parents and schools should also teach children how advertising works.\n\nIn conclusion, I agree that adverts target children inappropriately, and stricter regulation would protect them.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: quảng cáo nhắm vào trẻ em không phù hợp — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhân vật hoạt hình, đồ chơi miễn phí; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Bất công vì trẻ không phán đoán được thuyết phục: không hiểu quảng cáo để bán, nhân vật hoạt hình, trò chơi dẫn đòi đồ chơi, đồ ngọt; ví dụ bé sáu tuổi thấy nhân vật yêu thích trên hộp ngũ cốc tin sản phẩm đặc biệt, đòi đến khi cha mẹ đồng ý; thiếu kinh nghiệm; trước tám tuổi tin nguyên văn; mánh khoé thi, sưu tập, trang web trộn game và khuyến mãi.",
+        "refs": [
+          "ID-media-ads-children",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Hậu quả: ép cha mẹ, chủ nghĩa vật chất, thói quen không lành mạnh (kẹo, đồ ăn nhanh, đồ chơi đắt); trẻ không có đồ mới tự ti; nhưng không phải quảng cáo nào cũng hại (sách, thể thao); quy tắc: cấm kỹ thuật thao túng, giới hạn trong chương trình trẻ em, nhãn, hạn chế đồ ăn không lành mạnh; dạy trẻ.",
+        "refs": [
+          "ID-media-ads-children",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; quy định chặt hơn bảo vệ trẻ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-ads-children"
+    ]
+  },
+  "chunks": [
+    [
+      "Cartoon characters, free toys and bright colours",
+      "nhân vật hoạt hình, đồ chơi miễn phí và màu sắc sặc sỡ"
+    ],
+    [
+      "adverts target children inappropriately",
+      "quảng cáo nhắm vào trẻ em một cách không phù hợp"
+    ],
+    [
+      "cannot judge persuasion",
+      "không thể đánh giá sự thuyết phục"
+    ],
+    [
+      "do not understand that adverts sell",
+      "không hiểu rằng quảng cáo để bán hàng"
+    ],
+    [
+      "demand toys and sugary snacks",
+      "đòi đồ chơi và đồ ăn vặt nhiều đường"
+    ],
+    [
+      "a favourite character on a cereal box",
+      "nhân vật yêu thích trên hộp ngũ cốc"
+    ],
+    [
+      "repeat the request until her parents agree",
+      "lặp lại yêu cầu cho đến khi cha mẹ đồng ý"
+    ],
+    [
+      "evaluate claims or to resist pressure",
+      "đánh giá các tuyên bố hoặc chống lại áp lực"
+    ],
+    [
+      "take messages at face value",
+      "tin thông điệp theo nghĩa đen"
+    ],
+    [
+      "competitions, collectable items",
+      "cuộc thi, vật phẩm sưu tầm"
+    ],
+    [
+      "blend games with promotions",
+      "pha trộn trò chơi với khuyến mãi"
+    ],
+    [
+      "pressures parents",
+      "gây áp lực lên cha mẹ"
+    ],
+    [
+      "encourages materialism and unhealthy habits",
+      "khuyến khích chủ nghĩa vật chất và thói quen không lành mạnh"
+    ],
+    [
+      "sweets, fast food and expensive toys",
+      "kẹo, đồ ăn nhanh và đồ chơi đắt tiền"
+    ],
+    [
+      "feel left out",
+      "cảm thấy bị bỏ rơi"
+    ],
+    [
+      "damages their self-esteem",
+      "làm tổn hại lòng tự trọng của họ"
+    ],
+    [
+      "ban manipulative techniques",
+      "cấm các kỹ thuật thao túng"
+    ],
+    [
+      "clear labelling of promotions",
+      "dán nhãn rõ ràng cho khuyến mãi"
+    ],
+    [
+      "stricter regulation",
+      "quy định chặt chẽ hơn"
+    ]
+  ]
+}

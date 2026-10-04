@@ -1,0 +1,124 @@
+{
+  "questionId": 377,
+  "text": "Children see thousands of advertisements every year, and some believe that advertising to children should be tightly regulated. I agree to a large extent, since children cannot judge persuasion and need protection, although parents also have a role.\n\nTo begin with, advertising to children should be tightly regulated because they are unable to judge persuasion. Young children do not understand that adverts sell, so cartoon characters and games lead them to demand toys and sugary snacks. A boy who sees a famous footballer promoting a fizzy drink, for example, may believe that the drink will make him strong, and he will ask his parents for it repeatedly. Advertisers deliberately use bright colours, catchy songs and free gifts to attract children and to create brand loyalty at an early age. This pressure on parents, called pester power, causes family conflict and spending that families may not be able to afford, and it increases demand for unhealthy products.\n\nHowever, regulation should be balanced and supported by other measures. Parents have an important responsibility to monitor what their children watch, to explain how advertising works and to say no. Schools can include media education in their lessons, and broadcasters can voluntarily follow codes of conduct. Some advertisements for books, sports equipment or educational products are beneficial, so a total ban may be unnecessary. Strict rules should nevertheless exist: governments can prohibit adverts for unhealthy foods during children's programmes, forbid the use of cartoon characters to sell harmful products, ban direct appeals to buy and check that websites and games do not hide promotions in entertainment. Effective enforcement with fines for violations is essential.\n\nIn conclusion, I agree that advertising to children should be tightly regulated, as long as parents and schools also help children to understand advertising.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): quảng cáo cho trẻ em nên điều tiết chặt — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu trẻ thấy hàng nghìn quảng cáo mỗi năm; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Trẻ không phán đoán được thuyết phục: không hiểu quảng cáo bán, nhân vật hoạt hình dẫn đòi đồ chơi, đồ ngọt; ví dụ bé trai thấy cầu thủ nổi tiếng quảng cáo nước ngọt tin sẽ mạnh, đòi cha mẹ nhiều lần; màu sắc, bài hát, quà tặng tạo lòng trung thành thương hiệu sớm; pester power gây xung đột, chi tiêu, tăng cầu đồ không lành mạnh.",
+        "refs": [
+          "ID-media-ads-children",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Điều tiết cân bằng, kết hợp biện pháp khác: cha mẹ theo dõi, giải thích, nói không; trường dạy giáo dục truyền thông; đài tự nguyện quy tắc; quảng cáo sách, thể thao có lợi nên cấm hoàn toàn chưa cần; quy tắc chặt: cấm đồ ăn không lành mạnh khi chương trình trẻ em, cấm nhân vật hoạt hình bán sản phẩm hại, cấm kêu gọi mua trực tiếp, kiểm tra trang web, trò chơi; thực thi, phạt.",
+        "refs": [
+          "ID-media-ads-children",
+          "ID-media-ban-ads-children-tv",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu cha mẹ, trường cùng giúp trẻ hiểu quảng cáo.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "thousands of advertisements every year",
+      "hàng nghìn quảng cáo mỗi năm"
+    ],
+    [
+      "advertising to children should be tightly regulated",
+      "quảng cáo nhắm vào trẻ em nên được điều tiết chặt chẽ"
+    ],
+    [
+      "unable to judge persuasion",
+      "không thể đánh giá sự thuyết phục"
+    ],
+    [
+      "a famous footballer promoting a fizzy drink",
+      "một cầu thủ nổi tiếng quảng bá nước ngọt có ga"
+    ],
+    [
+      "make him strong",
+      "làm cậu mạnh mẽ"
+    ],
+    [
+      "Bright colours, catchy songs and free gifts",
+      "màu sắc rực rỡ, bài hát dễ nhớ và quà tặng miễn phí"
+    ],
+    [
+      "brand loyalty at an early age",
+      "lòng trung thành với thương hiệu từ nhỏ"
+    ],
+    [
+      "pester power",
+      "sức ép đòi hỏi của trẻ"
+    ],
+    [
+      "family conflict",
+      "xung đột gia đình"
+    ],
+    [
+      "increases demand for unhealthy products",
+      "tăng nhu cầu đối với sản phẩm không lành mạnh"
+    ],
+    [
+      "monitor what their children watch",
+      "theo dõi những gì con họ xem"
+    ],
+    [
+      "explain how advertising works",
+      "giải thích quảng cáo hoạt động như thế nào"
+    ],
+    [
+      "media education",
+      "giáo dục truyền thông"
+    ],
+    [
+      "codes of conduct",
+      "quy tắc ứng xử"
+    ],
+    [
+      "a total ban",
+      "lệnh cấm hoàn toàn"
+    ],
+    [
+      "adverts for unhealthy foods during children's programmes",
+      "quảng cáo đồ ăn không lành mạnh trong chương trình thiếu nhi"
+    ],
+    [
+      "cartoon characters to sell harmful products",
+      "nhân vật hoạt hình để bán sản phẩm có hại"
+    ],
+    [
+      "direct appeals to buy",
+      "lời kêu gọi mua trực tiếp"
+    ],
+    [
+      "hide promotions in entertainment",
+      "giấu quảng cáo trong giải trí"
+    ],
+    [
+      "fines for violations",
+      "tiền phạt cho hành vi vi phạm"
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "questionId": 363,
+  "text": "Posters on the sides of buses and in metro carriages are seen by millions of passengers, and some people say that commercial advertising on public transport should be banned. I disagree, since advertising raises money to keep fares low, although content rules are needed.\n\nTo begin with, advertising on public transport raises money to keep fares low. Operators earn substantial income from adverts, which helps to pay for services. A city whose buses carry posters, for example, may collect millions each year, which can be used to maintain vehicles, lower ticket prices or run extra services at night. If advertising were banned, the revenue would have to come from higher fares or from taxpayers, which means that poorer passengers would pay more or that other public services would be cut. Adverts on trains and stations also help local businesses and event organisers to reach a large audience cheaply, and they can brighten otherwise dull spaces with colour and creativity.\n\nHowever, passengers cannot avoid advertisements, and some images are offensive or unhealthy. Travellers who stand in a carriage are forced to look at posters for alcohol, junk food or unrealistic body images, and parents of young children may object. Rather than a total ban, strict content rules would be a better answer. Authorities can prohibit adverts that are sexist, violent or misleading, restrict promotion of tobacco, alcohol and unhealthy food on public property, and limit the number of adverts in each vehicle. Regulated advertising balances revenue and public interest, and it respects both passengers and operators.\n\nIn conclusion, I disagree that commercial advertising on public transport should be banned, but it should be regulated carefully.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: cấm quảng cáo thương mại trên GTCC — disagree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu áp phích trên xe buýt, toa metro; disagree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Quảng cáo kiếm tiền giữ giá vé thấp: nhà vận hành thu nhập đáng kể; ví dụ thành phố buýt có áp phích thu hàng triệu mỗi năm bảo trì xe, giảm giá vé, thêm chuyến đêm; cấm thì tăng giá vé hoặc thuế, người nghèo trả nhiều hơn hoặc cắt dịch vụ; giúp doanh nghiệp địa phương, sự kiện, tô màu không gian.",
+        "refs": [
+          "ID-media-transport-ads",
+          "ID-city-public-transport-lives",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Hành khách không tránh được, hình ảnh phản cảm hoặc không lành mạnh: đứng trong toa phải nhìn quảng cáo rượu, đồ ăn vặt, hình thể phi thực tế; phụ huynh phản đối; thay vì cấm hoàn toàn là quy tắc nội dung: cấm quảng cáo phân biệt giới, bạo lực, gây hiểu lầm; hạn chế thuốc lá, rượu, đồ ăn không lành mạnh; giới hạn số lượng; cân bằng doanh thu và lợi ích công.",
+        "refs": [
+          "ID-media-transport-ads",
+          "ID-media-ads-unrealistic",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không cấm nhưng điều tiết cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-transport-ads"
+    ]
+  },
+  "chunks": [
+    [
+      "Posters on the sides of buses and in metro carriages",
+      "áp phích bên hông xe buýt và trong toa tàu điện ngầm"
+    ],
+    [
+      "commercial advertising on public transport should be banned",
+      "quảng cáo thương mại trên phương tiện công cộng nên bị cấm"
+    ],
+    [
+      "raises money to keep fares low",
+      "gây quỹ để giữ giá vé thấp"
+    ],
+    [
+      "Operators earn substantial income from adverts",
+      "các nhà vận hành thu thu nhập đáng kể từ quảng cáo"
+    ],
+    [
+      "collect millions each year",
+      "thu hàng triệu mỗi năm"
+    ],
+    [
+      "maintain vehicles, lower ticket prices or run extra services at night",
+      "bảo trì xe, giảm giá vé hoặc chạy thêm chuyến vào ban đêm"
+    ],
+    [
+      "higher fares or from taxpayers",
+      "giá vé cao hơn hoặc từ người nộp thuế"
+    ],
+    [
+      "poorer passengers would pay more",
+      "hành khách nghèo hơn phải trả nhiều hơn"
+    ],
+    [
+      "other public services would be cut",
+      "các dịch vụ công khác sẽ bị cắt giảm"
+    ],
+    [
+      "local businesses and event organisers",
+      "doanh nghiệp địa phương và nhà tổ chức sự kiện"
+    ],
+    [
+      "reach a large audience cheaply",
+      "tiếp cận lượng khán giả lớn với chi phí rẻ"
+    ],
+    [
+      "brighten otherwise dull spaces",
+      "làm sáng lên những không gian vốn tẻ nhạt"
+    ],
+    [
+      "passengers cannot avoid advertisements",
+      "hành khách không thể tránh quảng cáo"
+    ],
+    [
+      "offensive or unhealthy",
+      "phản cảm hoặc không lành mạnh"
+    ],
+    [
+      "alcohol, junk food or unrealistic body images",
+      "rượu, đồ ăn vặt kém lành mạnh hoặc hình ảnh cơ thể phi thực tế"
+    ],
+    [
+      "a total ban",
+      "một lệnh cấm hoàn toàn"
+    ],
+    [
+      "sexist, violent or misleading",
+      "phân biệt giới, bạo lực hoặc gây hiểu lầm"
+    ],
+    [
+      "tobacco, alcohol and unhealthy food on public property",
+      "thuốc lá, rượu và đồ ăn không lành mạnh trên tài sản công"
+    ],
+    [
+      "Regulated advertising balances revenue and public interest",
+      "quảng cáo được điều tiết cân bằng doanh thu và lợi ích công"
+    ]
+  ]
+}

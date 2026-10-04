@@ -1,0 +1,121 @@
+{
+  "questionId": 44,
+  "text": "Young people follow singers, footballers and film stars on screens every day, and many feel that celebrities have a negative influence on them. I agree to some extent, since some celebrities set a poor example, although others have a very positive influence.\n\nTo begin with, celebrities can set a negative example for young fans. Young people imitate stars who display luxury, extreme diets or reckless behaviour. A teenager who sees an idol spend huge sums on fashion and cars, for example, may feel that happiness depends on money and may try to copy that lifestyle. Pictures of unnaturally thin models and edited bodies can lead to dissatisfaction with appearance and eating problems, and scandals involving drugs, alcohol or violence may make such behaviour seem acceptable. Because fans often look up to their idols, they may defend their actions or follow their habits without thinking about the consequences. Many stars also promote products in return for payment, which encourages young people to buy things they do not need.\n\nHowever, many celebrities inspire positive habits. Athletes and artists who work hard, give to charity or speak about mental health encourage young people to do the same. A footballer who grew up in poverty and now funds schools, for example, shows what discipline and generosity can achieve. Musicians who talk openly about their own struggles help fans to feel less alone, and actors who support environmental campaigns raise awareness among their followers. The influence therefore depends on which role models are promoted. Parents and teachers can help by discussing the lives of public figures critically and by drawing attention to those who offer genuine examples.\n\nIn conclusion, I agree to some extent that celebrities can influence young people negatively, but the overall effect depends on the example that they set.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: người nổi tiếng ảnh hưởng tiêu cực tới giới trẻ — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người trẻ theo dõi ca sĩ, cầu thủ, ngôi sao; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Tiêu cực",
+        "think": "Làm gương xấu: bắt chước xa hoa, ăn kiêng cực đoan, liều lĩnh; ví dụ thiếu niên thấy thần tượng tiêu tiền thời trang, xe nghĩ hạnh phúc là tiền; người mẫu gầy, chỉnh sửa gây không hài lòng ngoại hình, rối loạn ăn uống; bê bối ma tuý, rượu bia, bạo lực; quảng cáo trả tiền.",
+        "refs": [
+          "ID-media-celebrity-influence",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Tích cực",
+        "think": "Nhiều người truyền cảm hứng: vận động viên, nghệ sĩ chăm chỉ, từ thiện, nói về sức khoẻ tâm thần; ví dụ cầu thủ lớn lên nghèo nay tài trợ trường; nhạc sĩ nói về khó khăn giúp fan bớt cô đơn; diễn viên vận động môi trường; phụ huynh, giáo viên thảo luận phản biện.",
+        "refs": [
+          "ID-media-celebrity-influence",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ tấm gương họ đặt ra.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-celebrity-influence"
+    ]
+  },
+  "chunks": [
+    [
+      "singers, footballers and film stars",
+      "ca sĩ, cầu thủ bóng đá và ngôi sao điện ảnh"
+    ],
+    [
+      "celebrities have a negative influence",
+      "người nổi tiếng có ảnh hưởng tiêu cực"
+    ],
+    [
+      "set a negative example for young fans",
+      "làm gương xấu cho người hâm mộ trẻ"
+    ],
+    [
+      "display luxury, extreme diets or reckless behaviour",
+      "phô trương xa hoa, ăn kiêng cực đoan hoặc hành vi liều lĩnh"
+    ],
+    [
+      "spend huge sums on fashion and cars",
+      "tiêu những khoản khổng lồ vào thời trang và xe hơi"
+    ],
+    [
+      "happiness depends on money",
+      "hạnh phúc phụ thuộc vào tiền bạc"
+    ],
+    [
+      "unnaturally thin models and edited bodies",
+      "người mẫu gầy không tự nhiên và cơ thể đã chỉnh sửa"
+    ],
+    [
+      "dissatisfaction with appearance and eating problems",
+      "sự không hài lòng về ngoại hình và các vấn đề ăn uống"
+    ],
+    [
+      "scandals involving drugs, alcohol or violence",
+      "bê bối liên quan đến ma tuý, rượu hoặc bạo lực"
+    ],
+    [
+      "look up to their idols",
+      "ngưỡng mộ thần tượng"
+    ],
+    [
+      "promote products in return for payment",
+      "quảng bá sản phẩm để đổi lấy tiền"
+    ],
+    [
+      "inspire positive habits",
+      "truyền cảm hứng cho thói quen tích cực"
+    ],
+    [
+      "speak about mental health",
+      "nói về sức khoẻ tâm thần"
+    ],
+    [
+      "grew up in poverty",
+      "lớn lên trong nghèo khó"
+    ],
+    [
+      "funds schools",
+      "tài trợ cho trường học"
+    ],
+    [
+      "help fans to feel less alone",
+      "giúp người hâm mộ bớt cô đơn"
+    ],
+    [
+      "raise awareness among their followers",
+      "nâng cao nhận thức trong số những người theo dõi"
+    ],
+    [
+      "role models",
+      "hình mẫu"
+    ],
+    [
+      "discussing the lives of public figures critically",
+      "thảo luận có phê phán về đời sống các nhân vật công chúng"
+    ]
+  ]
+}

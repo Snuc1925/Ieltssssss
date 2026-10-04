@@ -1,0 +1,126 @@
+{
+  "questionId": 366,
+  "text": "Schools, museums and television channels all use films to teach, and many people feel that documentary films are more educational than fictional films. I agree to a large extent, since documentaries present facts and evidence about real subjects, although fiction can teach in other ways.\n\nTo begin with, documentaries are usually more directly educational. They present facts, interviews and evidence about real subjects, such as wildlife, wars or scientific discoveries. A student who watches a documentary about the rainforest, for example, sees real animals, hears from biologists and learns how forests affect the climate, all within one hour. Maps, graphs and archive film make complex information clear, and the viewer can check the sources and continue reading afterwards. Teachers often use documentaries to supplement textbooks, because they bring distant places and events into the classroom. Because they aim to inform, they usually stay close to the truth and avoid the invented events and exaggerations that fiction often contains.\n\nHowever, fiction can also teach important lessons. Stories build understanding of people and history through characters who move viewers, and they develop empathy by letting audiences see the world through other eyes. A film about a family during a war, for example, may help young people to understand suffering far better than a list of dates and numbers. Historical dramas can inspire interest in a period that leads viewers to further study. Both belong in education, but they serve different purposes: documentaries give knowledge and evidence, and fiction gives emotional insight. Teachers should combine them and encourage students to ask which parts are true and which are imagined.\n\nIn conclusion, I agree to a large extent that documentary films are more educational than fictional films, although fiction has its own value.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: phim tài liệu giáo dục hơn phim hư cấu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu trường, bảo tàng, truyền hình dùng phim dạy; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Giáo dục trực tiếp hơn: sự thật, phỏng vấn, bằng chứng về chủ đề thật; ví dụ học sinh xem phim rừng mưa thấy động vật thật, nghe nhà sinh vật, hiểu khí hậu trong một giờ; bản đồ, đồ thị, tư liệu; kiểm nguồn; giáo viên bổ sung giáo trình; ít bịa đặt.",
+        "refs": [
+          "ID-media-doc-vs-fiction",
+          "ID-media-documentaries",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Hư cấu cũng dạy: hiểu con người, lịch sử qua nhân vật, đồng cảm; ví dụ phim về gia đình thời chiến giúp trẻ hiểu đau khổ hơn danh sách ngày tháng; chính kịch lịch sử gợi hứng; cả hai mục đích khác nhau: kiến thức vs cảm xúc; giáo viên kết hợp, hỏi phần thật phần tưởng tượng.",
+        "refs": [
+          "ID-media-doc-vs-fiction",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; hư cấu có giá trị riêng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-doc-vs-fiction"
+    ]
+  },
+  "chunks": [
+    [
+      "Schools, museums and television channels all use films to teach",
+      "trường học, bảo tàng và kênh truyền hình đều dùng phim để dạy"
+    ],
+    [
+      "documentary films are more educational than fictional films",
+      "phim tài liệu có tính giáo dục hơn phim hư cấu"
+    ],
+    [
+      "facts and evidence about real subjects",
+      "sự thật và bằng chứng về các chủ đề có thật"
+    ],
+    [
+      "wildlife, wars or scientific discoveries",
+      "động vật hoang dã, chiến tranh hay phát minh khoa học"
+    ],
+    [
+      "a documentary about the rainforest",
+      "phim tài liệu về rừng mưa nhiệt đới"
+    ],
+    [
+      "hears from biologists",
+      "nghe các nhà sinh vật học nói"
+    ],
+    [
+      "how forests affect the climate",
+      "rừng ảnh hưởng đến khí hậu như thế nào"
+    ],
+    [
+      "Maps, graphs and archive film",
+      "bản đồ, đồ thị và phim tư liệu"
+    ],
+    [
+      "check the sources",
+      "kiểm tra các nguồn"
+    ],
+    [
+      "supplement textbooks",
+      "bổ sung cho sách giáo khoa"
+    ],
+    [
+      "bring distant places and events into the classroom",
+      "đưa những nơi và sự kiện xa xôi vào lớp học"
+    ],
+    [
+      "invented events and exaggerations",
+      "sự kiện bịa đặt và sự phóng đại"
+    ],
+    [
+      "build understanding of people and history through characters",
+      "xây dựng hiểu biết về con người và lịch sử qua các nhân vật"
+    ],
+    [
+      "develop empathy",
+      "phát triển sự đồng cảm"
+    ],
+    [
+      "see the world through other eyes",
+      "nhìn thế giới qua đôi mắt khác"
+    ],
+    [
+      "a family during a war",
+      "một gia đình trong thời chiến"
+    ],
+    [
+      "a list of dates and numbers",
+      "một danh sách ngày tháng và con số"
+    ],
+    [
+      "Historical dramas",
+      "phim chính kịch lịch sử"
+    ],
+    [
+      "knowledge and evidence",
+      "kiến thức và bằng chứng"
+    ],
+    [
+      "emotional insight",
+      "sự thấu hiểu về cảm xúc"
+    ]
+  ]
+}

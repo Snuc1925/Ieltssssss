@@ -1,0 +1,123 @@
+{
+  "questionId": 164,
+  "text": "A shocking headline can be shared with thousands of people before anyone checks whether it is true, and many feel that fake news spreads too easily online. I agree with this view, since sharing is instant and emotional stories travel fastest, although some measures can limit the problem.\n\nTo begin with, fake news spreads too easily because sharing is instant and emotional stories travel fastest. Users forward posts without checking, algorithms promote shocking content, and false stories can reach millions before corrections appear. A false report about a medicine that cures a disease, for example, may be shared by worried relatives who believe they are helping, and some may then refuse proper treatment. Studies show that untrue stories are more likely to be shared than accurate ones because they are surprising and provoke anger or fear. Anyone can create a convincing website or video using cheap tools, and fake accounts can make a story look popular.\n\nFurthermore, the consequences are serious. False claims about vaccines have reduced immunisation, rumours during elections influence voters and invented stories about minorities have caused violence. However, the situation is not hopeless. Verification tools, fact-checking organisations and labels on disputed posts help users to identify misleading content, and platforms can reduce the reach of repeated offenders. Media education is also vital: schools should teach students to check sources, look for evidence and think before sharing. When these steps are combined with fair laws against deliberate disinformation, fake news will find it harder to spread.\n\nIn conclusion, I agree that fake news spreads too easily online, and responsibility is shared by platforms, governments, schools and ordinary users.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: tin giả lan quá dễ — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tiêu đề gây sốc chia sẻ trước khi kiểm; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Chia sẻ tức thì, chuyện cảm xúc lan nhanh nhất: người dùng chuyển tiếp không kiểm, thuật toán đẩy nội dung gây sốc; ví dụ tin sai về thuốc chữa bệnh được người thân lo lắng chia sẻ, có người từ chối điều trị; nghiên cứu: chuyện sai dễ chia sẻ hơn vì bất ngờ, gây giận, sợ; công cụ rẻ tạo trang web, video thuyết phục, tài khoản giả tạo cảm giác phổ biến.",
+        "refs": [
+          "ID-media-fake-news",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hậu quả + giải pháp",
+        "think": "Hậu quả nghiêm trọng: vắc-xin giảm tiêm chủng, bầu cử, bạo lực chống thiểu số; công cụ xác minh, tổ chức kiểm chứng, nhãn; nền tảng giảm tiếp cận; giáo dục truyền thông: kiểm nguồn, tìm bằng chứng, suy nghĩ trước khi chia sẻ; luật công bằng chống thông tin sai cố ý.",
+        "refs": [
+          "ID-media-fake-news",
+          "ID-media-misleading-posts",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trách nhiệm chung.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-fake-news"
+    ]
+  },
+  "chunks": [
+    [
+      "A shocking headline",
+      "một tiêu đề gây sốc"
+    ],
+    [
+      "before anyone checks whether it is true",
+      "trước khi ai đó kiểm tra xem có đúng không"
+    ],
+    [
+      "fake news spreads too easily online",
+      "tin giả lan truyền quá dễ dàng trên mạng"
+    ],
+    [
+      "sharing is instant and emotional stories travel fastest",
+      "việc chia sẻ diễn ra tức thì và những câu chuyện cảm xúc lan nhanh nhất"
+    ],
+    [
+      "forward posts without checking",
+      "chuyển tiếp bài đăng mà không kiểm tra"
+    ],
+    [
+      "algorithms promote shocking content",
+      "thuật toán thúc đẩy nội dung gây sốc"
+    ],
+    [
+      "reach millions before corrections appear",
+      "đến hàng triệu người trước khi lời đính chính xuất hiện"
+    ],
+    [
+      "a medicine that cures a disease",
+      "một loại thuốc chữa khỏi bệnh"
+    ],
+    [
+      "refuse proper treatment",
+      "từ chối điều trị đúng đắn"
+    ],
+    [
+      "surprising and provoke anger or fear",
+      "gây bất ngờ và khơi dậy giận dữ hoặc sợ hãi"
+    ],
+    [
+      "a convincing website or video",
+      "một trang web hay video thuyết phục"
+    ],
+    [
+      "fake accounts can make a story look popular",
+      "tài khoản giả có thể khiến câu chuyện trông phổ biến"
+    ],
+    [
+      "False claims about vaccines have reduced immunisation",
+      "những tuyên bố sai về vắc-xin đã làm giảm tỷ lệ tiêm chủng"
+    ],
+    [
+      "rumours during elections influence voters",
+      "tin đồn trong bầu cử ảnh hưởng đến cử tri"
+    ],
+    [
+      "invented stories about minorities",
+      "những câu chuyện bịa đặt về nhóm thiểu số"
+    ],
+    [
+      "Verification tools, fact-checking organisations and labels",
+      "công cụ xác minh, tổ chức kiểm chứng sự thật và nhãn cảnh báo"
+    ],
+    [
+      "reduce the reach of repeated offenders",
+      "giảm phạm vi tiếp cận của những kẻ tái phạm"
+    ],
+    [
+      "check sources, look for evidence and think before sharing",
+      "kiểm tra nguồn, tìm bằng chứng và suy nghĩ trước khi chia sẻ"
+    ],
+    [
+      "deliberate disinformation",
+      "thông tin sai lệch có chủ ý"
+    ]
+  ]
+}

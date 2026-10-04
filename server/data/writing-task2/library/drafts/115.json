@@ -1,0 +1,117 @@
+{
+  "questionId": 115,
+  "text": "Posters for burgers, sweets and fizzy drinks surround children on screens and streets, and some believe that governments should limit advertising of unhealthy food. I agree to a large extent, since such advertising shapes children's choices and fuels obesity, although education must go with it.\n\nTo begin with, governments should restrict advertising of unhealthy food because it shapes children's choices. Repeated adverts for sweets and fast food make them attractive and normal. A child who sees a burger advertised during every cartoon, for example, will ask for it, and food companies spend huge sums on this because it works. Obesity and type two diabetes are rising rapidly among young people, which costs health services billions and shortens lives. Experiments show that children who watch such adverts eat more snacks immediately afterwards. Limiting broadcast times and locations reduces demand, and countries that have banned such advertising before nine in the evening or near schools have recorded reductions in the purchase of unhealthy products.\n\nHowever, advertising limits alone are not sufficient, and they raise questions about freedom of trade. Companies argue that their products are legal and that consumers are responsible for their own choices. Parents also have a role in shaping habits at home. Education should therefore accompany restrictions: schools can teach nutrition and cooking, labelling can show sugar and fat clearly, and healthy food should be made cheaper and easier to find. Taxes on sugary drinks have also encouraged manufacturers to reduce sugar. When these measures are combined, public health costs fall and children grow up with better habits.\n\nIn conclusion, I agree that governments should limit the advertising of unhealthy food, as long as this is part of a wider strategy for healthy living.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): chính phủ hạn chế quảng cáo đồ ăn không lành mạnh — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu áp phích burger, kẹo, nước ngọt bao quanh trẻ; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Quảng cáo định hình lựa chọn của trẻ: lặp lại làm hấp dẫn và bình thường; ví dụ trẻ thấy burger quảng cáo mỗi phim hoạt hình sẽ đòi; công ty chi khổng lồ vì hiệu quả; béo phì, tiểu đường tăng, tốn tỷ cho y tế; thí nghiệm ăn vặt nhiều hơn; hạn chế giờ phát sóng, địa điểm giảm cầu; nước cấm trước 9 giờ tối hoặc gần trường.",
+        "refs": [
+          "ID-media-unhealthy-food-ads",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chỉ hạn chế chưa đủ, đụng tự do thương mại: công ty cho là hợp pháp, người tiêu dùng chịu trách nhiệm; cha mẹ; giáo dục: dinh dưỡng, nấu ăn, nhãn đường, chất béo, đồ lành mạnh rẻ; thuế nước ngọt; chi phí y tế giảm.",
+        "refs": [
+          "ID-media-unhealthy-food-ads",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu là chiến lược rộng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-unhealthy-food-ads"
+    ]
+  },
+  "chunks": [
+    [
+      "burgers, sweets and fizzy drinks",
+      "burger, kẹo và nước ngọt có ga"
+    ],
+    [
+      "limit advertising of unhealthy food",
+      "hạn chế quảng cáo đồ ăn không lành mạnh"
+    ],
+    [
+      "shapes children's choices and fuels obesity",
+      "định hình lựa chọn của trẻ và thúc đẩy béo phì"
+    ],
+    [
+      "Repeated adverts for sweets and fast food",
+      "quảng cáo lặp lại về kẹo và đồ ăn nhanh"
+    ],
+    [
+      "attractive and normal",
+      "hấp dẫn và bình thường"
+    ],
+    [
+      "advertised during every cartoon",
+      "được quảng cáo trong mỗi bộ phim hoạt hình"
+    ],
+    [
+      "spend huge sums",
+      "chi những khoản khổng lồ"
+    ],
+    [
+      "Obesity and type two diabetes",
+      "béo phì và tiểu đường type hai"
+    ],
+    [
+      "costs health services billions",
+      "tốn của dịch vụ y tế hàng tỷ"
+    ],
+    [
+      "eat more snacks immediately afterwards",
+      "ăn nhiều đồ ăn vặt hơn ngay sau đó"
+    ],
+    [
+      "Limiting broadcast times and locations reduces demand",
+      "giới hạn giờ phát sóng và địa điểm làm giảm nhu cầu"
+    ],
+    [
+      "before nine in the evening or near schools",
+      "trước chín giờ tối hoặc gần trường học"
+    ],
+    [
+      "freedom of trade",
+      "tự do thương mại"
+    ],
+    [
+      "consumers are responsible for their own choices",
+      "người tiêu dùng chịu trách nhiệm về lựa chọn của mình"
+    ],
+    [
+      "teach nutrition and cooking",
+      "dạy dinh dưỡng và nấu ăn"
+    ],
+    [
+      "sugar and fat clearly",
+      "đường và chất béo một cách rõ ràng"
+    ],
+    [
+      "Taxes on sugary drinks",
+      "thuế đối với đồ uống có đường"
+    ],
+    [
+      "a wider strategy for healthy living",
+      "chiến lược rộng hơn cho lối sống lành mạnh"
+    ]
+  ]
+}

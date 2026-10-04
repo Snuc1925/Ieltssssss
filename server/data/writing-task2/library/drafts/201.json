@@ -1,0 +1,127 @@
+{
+  "questionId": 201,
+  "text": "Advertisements for crisps, soft drinks and fast food appear on billboards, in magazines and during popular television shows, and some people say that advertising for unhealthy foods should be restricted. I agree with this view, since such advertising shapes choices, especially those of children, and contributes to health problems.\n\nTo begin with, advertising for unhealthy foods should be restricted because it influences what people eat. Advertisers spend large sums to make sweets and fast food look exciting, and the constant exposure makes them seem normal parts of daily life. A teenager who sees a sports star drinking a sugary beverage in an advertisement, for example, may link it with success and energy. Obesity, diabetes and heart disease are increasing worldwide, and unhealthy diets are a major cause, which burdens hospitals and reduces productivity. Children are particularly vulnerable because they cannot recognise persuasion, and food preferences formed early often last for life. Limits on broadcasting times and on advertising near schools have helped to reduce the consumption of unhealthy products in some countries.\n\nHowever, restrictions should be accompanied by other measures. Food companies argue that their products are legal and that individuals should decide for themselves, and a complete ban would reduce revenue for media and companies. A balanced approach would restrict the advertising of the unhealthiest products at times when children are watching, require clear nutritional information and encourage adverts for healthy alternatives. Education in schools can teach children about nutrition, and healthier food should be made affordable. Together, these steps lower the demand for junk food without removing freedom of choice.\n\nIn conclusion, I agree that advertising for unhealthy foods should be restricted, since it affects health, but restrictions should be part of a broader strategy.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: hạn chế quảng cáo đồ ăn không lành mạnh (khác #115: thiên về đối tượng chung)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu quảng cáo khoai chiên, nước ngọt, đồ ăn nhanh khắp nơi; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Ảnh hưởng điều con người ăn: chi nhiều làm kẹo, đồ ăn nhanh hấp dẫn, quen thuộc; ví dụ thiếu niên thấy ngôi sao thể thao uống nước ngọt gắn với thành công, năng lượng; béo phì, tiểu đường, tim tăng, gánh nặng bệnh viện; trẻ dễ tổn thương, sở thích định hình sớm; giới hạn giờ, gần trường giảm tiêu thụ.",
+        "refs": [
+          "ID-media-unhealthy-food-ads",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Biện pháp bổ sung",
+        "think": "Công ty cho là hợp pháp, cá nhân tự quyết, cấm hoàn toàn giảm thu nhập; cách cân bằng: hạn chế sản phẩm không lành mạnh nhất khi trẻ xem, thông tin dinh dưỡng rõ, quảng cáo thay thế lành mạnh; giáo dục dinh dưỡng; đồ lành mạnh giá phải chăng; giảm cầu mà giữ tự do chọn.",
+        "refs": [
+          "ID-media-unhealthy-food-ads",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; nằm trong chiến lược rộng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Advertisements for crisps, soft drinks and fast food",
+      "quảng cáo khoai tây chiên, nước ngọt và đồ ăn nhanh"
+    ],
+    [
+      "billboards, in magazines and during popular television shows",
+      "biển quảng cáo, tạp chí và trong các chương trình truyền hình nổi tiếng"
+    ],
+    [
+      "advertising for unhealthy foods should be restricted",
+      "quảng cáo đồ ăn không lành mạnh nên bị hạn chế"
+    ],
+    [
+      "influences what people eat",
+      "ảnh hưởng đến điều con người ăn"
+    ],
+    [
+      "spend large sums",
+      "chi những khoản lớn"
+    ],
+    [
+      "look exciting",
+      "trông hấp dẫn"
+    ],
+    [
+      "normal parts of daily life",
+      "những phần bình thường của cuộc sống hằng ngày"
+    ],
+    [
+      "a sugary beverage",
+      "đồ uống có đường"
+    ],
+    [
+      "link it with success and energy",
+      "gắn nó với thành công và năng lượng"
+    ],
+    [
+      "Obesity, diabetes and heart disease",
+      "béo phì, tiểu đường và bệnh tim"
+    ],
+    [
+      "burdens hospitals and reduces productivity",
+      "gây gánh nặng cho bệnh viện và giảm năng suất"
+    ],
+    [
+      "cannot recognise persuasion",
+      "không nhận ra sự thuyết phục"
+    ],
+    [
+      "food preferences formed early often last for life",
+      "sở thích ăn uống hình thành sớm thường kéo dài cả đời"
+    ],
+    [
+      "Limits on broadcasting times",
+      "giới hạn giờ phát sóng"
+    ],
+    [
+      "advertising near schools",
+      "quảng cáo gần trường học"
+    ],
+    [
+      "their products are legal",
+      "sản phẩm của họ hợp pháp"
+    ],
+    [
+      "decide for themselves",
+      "tự quyết định"
+    ],
+    [
+      "clear nutritional information",
+      "thông tin dinh dưỡng rõ ràng"
+    ],
+    [
+      "adverts for healthy alternatives",
+      "quảng cáo cho lựa chọn lành mạnh"
+    ],
+    [
+      "the demand for junk food",
+      "nhu cầu đối với đồ ăn vặt kém lành mạnh"
+    ],
+    [
+      "freedom of choice",
+      "tự do lựa chọn"
+    ]
+  ]
+}

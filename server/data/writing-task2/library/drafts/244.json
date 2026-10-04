@@ -1,0 +1,122 @@
+{
+  "questionId": 244,
+  "text": "When a famous actor smiles from a billboard while holding a perfume bottle or a bank card, viewers may assume that the star really uses it, and many feel that celebrity endorsements are misleading. I agree to a large extent, since stars are paid to praise products they may not use, although some endorsements are genuine.\n\nTo begin with, celebrity endorsements can mislead because stars are paid to praise products they may not use. Fans trust the personality and assume that the recommendation is genuine, so claims about health or beauty may influence them without evidence. A footballer who promotes an energy drink, for example, probably does not consume it before matches, and a singer who recommends a face cream may use very different products at home. Contracts often specify what the star must say, and scripts are written by advertising agencies. Some celebrities promote financial products or supplements without understanding them, and followers have lost money or suffered health problems after trusting these messages.\n\nFurthermore, endorsements exploit emotion and not reason. The product becomes attractive because of the fame of the person, not because of its quality, and this encourages purchases that people might otherwise avoid. However, not every endorsement is dishonest. Some stars choose brands that match their values and use them in real life, and a few donate their fees to charity. Transparency rules protect consumers. Laws should require stars to declare clearly when they are paid, ban claims that cannot be proved and punish false statements, and regulators can fine those who break the rules. Viewers should also remember that advertising aims to sell, and they should compare products independently.\n\nIn conclusion, I agree to a large extent that celebrity endorsements are misleading, but stricter transparency can reduce the problem.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: người nổi tiếng quảng cáo gây hiểu lầm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu diễn viên nổi tiếng trên biển quảng cáo; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Được trả khen sản phẩm có thể không dùng: người hâm mộ tin, khẳng định sức khoẻ, làm đẹp tác động không bằng chứng; ví dụ cầu thủ quảng cáo nước tăng lực có lẽ không uống trước trận, ca sĩ giới thiệu kem mặt dùng sản phẩm khác ở nhà; hợp đồng quy định nói gì, kịch bản đại lý; sản phẩm tài chính, thực phẩm chức năng mất tiền, hại sức khoẻ.",
+        "refs": [
+          "ID-media-celebrity-endorsement",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Khai thác cảm xúc không lý trí: sản phẩm hấp dẫn nhờ người nổi tiếng không phải chất lượng; nhưng không phải đều thiếu trung thực: chọn thương hiệu hợp giá trị, quyên phí từ thiện; luật yêu cầu công khai được trả, cấm tuyên bố không chứng minh, phạt; người xem so sánh độc lập.",
+        "refs": [
+          "ID-media-celebrity-endorsement",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; minh bạch giảm vấn đề.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-celebrity-endorsement"
+    ]
+  },
+  "chunks": [
+    [
+      "a famous actor smiles from a billboard",
+      "một diễn viên nổi tiếng mỉm cười trên biển quảng cáo"
+    ],
+    [
+      "celebrity endorsements are misleading",
+      "việc người nổi tiếng quảng bá sản phẩm gây hiểu lầm"
+    ],
+    [
+      "paid to praise products they may not use",
+      "được trả tiền để khen các sản phẩm mà họ có thể không dùng"
+    ],
+    [
+      "Fans trust the personality",
+      "người hâm mộ tin tưởng nhân vật nổi tiếng"
+    ],
+    [
+      "claims about health or beauty",
+      "những tuyên bố về sức khoẻ hoặc sắc đẹp"
+    ],
+    [
+      "without evidence",
+      "không có bằng chứng"
+    ],
+    [
+      "promotes an energy drink",
+      "quảng bá một loại nước tăng lực"
+    ],
+    [
+      "a face cream",
+      "kem dưỡng da mặt"
+    ],
+    [
+      "Contracts often specify what the star must say",
+      "hợp đồng thường quy định ngôi sao phải nói gì"
+    ],
+    [
+      "scripts are written by advertising agencies",
+      "kịch bản do các công ty quảng cáo viết"
+    ],
+    [
+      "financial products or supplements",
+      "sản phẩm tài chính hoặc thực phẩm chức năng"
+    ],
+    [
+      "lost money or suffered health problems",
+      "mất tiền hoặc gặp vấn đề sức khoẻ"
+    ],
+    [
+      "exploit emotion and not reason",
+      "khai thác cảm xúc chứ không phải lý trí"
+    ],
+    [
+      "the fame of the person, not because of its quality",
+      "sự nổi tiếng của người đó chứ không phải chất lượng sản phẩm"
+    ],
+    [
+      "match their values",
+      "phù hợp với giá trị của họ"
+    ],
+    [
+      "donate their fees to charity",
+      "quyên góp phí cho tổ chức từ thiện"
+    ],
+    [
+      "Transparency rules protect consumers",
+      "quy tắc minh bạch bảo vệ người tiêu dùng"
+    ],
+    [
+      "declare clearly when they are paid",
+      "công khai rõ ràng khi họ được trả tiền"
+    ],
+    [
+      "claims that cannot be proved",
+      "những tuyên bố không thể chứng minh"
+    ]
+  ]
+}

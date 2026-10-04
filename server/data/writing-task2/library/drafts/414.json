@@ -1,0 +1,128 @@
+{
+  "questionId": 414,
+  "text": "False health advice, doctored photographs and invented political stories circulate widely, and opinions differ on whether individuals should be responsible for reporting misinformation or whether society and government should act. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that ordinary users are best placed to notice and report false posts. Users spot false posts quickly and can report them. A teacher who sees a fake claim about a vaccine in a parents' group, for example, can flag it and explain the facts before it spreads, and thousands of such reports can help platforms to find harmful material. People who check a source before sharing, and who correct friends politely, make it more difficult for rumours to travel. Since misinformation spreads through personal networks, personal habits are important, and a population that learns to think critically is the strongest defence.\n\nOn the other hand, advocates of action by society and government point out that individuals lack the power to remove false posts, to check facts at scale or to punish deliberate spreaders. Individuals can flag misinformation but platforms and governments must act on it. Companies decide how algorithms work and can slow the spread of false stories, fact-checking organisations need funding, and laws can penalise organised campaigns that aim to deceive voters. A single user cannot stop a network of fake accounts, for example, that floods a platform with false claims. Without official action, reports are often ignored.\n\nIn conclusion, both views have merit. Overall, I believe that responsibility is shared: individuals should check and report misleading content, while platforms and governments must act on reports and enforce clear rules against deliberate disinformation.",
+  "analysis": {
+    "type_vi": "Discuss both views: báo cáo thông tin sai — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu lời khuyên sức khoẻ sai, ảnh chỉnh, tin chính trị bịa đặt; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Người dùng bình thường dễ nhận ra và báo cáo: ví dụ giáo viên thấy tin giả về vắc-xin trong nhóm phụ huynh báo và giải thích sự thật trước khi lan; nghìn báo cáo giúp nền tảng; kiểm nguồn trước khi chia sẻ, nhắc bạn lịch sự; thông tin sai lan qua mạng cá nhân; dân biết tư duy phản biện là phòng thủ mạnh nhất.",
+        "refs": [
+          "ID-media-report-misinformation",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội / chính phủ",
+        "think": "Cá nhân thiếu quyền gỡ, kiểm chứng quy mô, trừng phạt người cố ý: công ty quyết thuật toán, làm chậm tin sai; tổ chức kiểm chứng cần tiền; luật phạt chiến dịch lừa cử tri; ví dụ một người dùng không chặn được mạng tài khoản giả tràn ngập; không hành động chính thức báo cáo bị bỏ qua.",
+        "refs": [
+          "ID-media-report-misinformation",
+          "ID-media-regulate-content",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trách nhiệm chung.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-report-misinformation"
+    ]
+  },
+  "chunks": [
+    [
+      "False health advice, doctored photographs and invented political stories",
+      "lời khuyên sức khoẻ sai, ảnh bị chỉnh sửa và tin chính trị bịa đặt"
+    ],
+    [
+      "reporting misinformation",
+      "báo cáo thông tin sai lệch"
+    ],
+    [
+      "notice and report false posts",
+      "nhận ra và báo cáo các bài đăng sai"
+    ],
+    [
+      "Users spot false posts quickly",
+      "người dùng nhận ra bài đăng sai nhanh chóng"
+    ],
+    [
+      "a fake claim about a vaccine in a parents' group",
+      "một tuyên bố giả về vắc-xin trong nhóm phụ huynh"
+    ],
+    [
+      "flag it and explain the facts",
+      "gắn cờ và giải thích sự thật"
+    ],
+    [
+      "find harmful material",
+      "tìm ra tài liệu có hại"
+    ],
+    [
+      "check a source before sharing",
+      "kiểm tra nguồn trước khi chia sẻ"
+    ],
+    [
+      "correct friends politely",
+      "sửa sai cho bạn bè một cách lịch sự"
+    ],
+    [
+      "rumours to travel",
+      "tin đồn lan truyền"
+    ],
+    [
+      "personal networks",
+      "mạng lưới cá nhân"
+    ],
+    [
+      "think critically",
+      "tư duy phản biện"
+    ],
+    [
+      "the power to remove false posts",
+      "quyền gỡ bỏ bài đăng sai"
+    ],
+    [
+      "check facts at scale",
+      "kiểm chứng sự thật trên quy mô lớn"
+    ],
+    [
+      "punish deliberate spreaders",
+      "trừng phạt những kẻ cố ý lan truyền"
+    ],
+    [
+      "algorithms work",
+      "thuật toán hoạt động"
+    ],
+    [
+      "slow the spread of false stories",
+      "làm chậm sự lan truyền của tin giả"
+    ],
+    [
+      "fact-checking organisations",
+      "các tổ chức kiểm chứng sự thật"
+    ],
+    [
+      "organised campaigns that aim to deceive voters",
+      "chiến dịch có tổ chức nhằm đánh lừa cử tri"
+    ],
+    [
+      "a network of fake accounts",
+      "mạng lưới tài khoản giả"
+    ]
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "questionId": 465,
+  "text": "In many villages and remote districts, the internet is slow, newspapers arrive late and television reception is poor, and this essay will discuss the role of community radio in rural areas, focusing on information and on community voice.\n\nTo begin with, community radio gives rural people information and education where other media are scarce. It broadcasts farming advice, weather warnings and health messages in local languages, costs little to receive and can be heard on a cheap battery set. A farmer who hears a daily programme about prices at the market, for example, can decide when to sell his harvest, and a mother who listens to a health talk learns how to prevent common diseases in children. During floods, storms or epidemics, stations can issue immediate warnings and instructions, which saves lives. Programmes can also support adult literacy and school lessons for children who live far from classrooms.\n\nFurthermore, community radio gives rural people a voice and strengthens identity. Local volunteers present programmes, so the content reflects the language, music and concerns of the community, and residents can phone in to discuss problems with officials. Stories, songs and traditions are recorded and preserved, and young people gain experience in broadcasting. In places with many languages, minority groups can hear their own speech on air. However, stations often lack money, equipment and trained staff, and may face political pressure. Governments and donors can help by providing low-cost licences, training and funds, and by guaranteeing editorial independence. Rural communities then become better informed and more united.\n\nIn conclusion, community radio plays an essential role in rural areas by providing useful information and giving local people a voice, and it deserves support.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò đài cộng đồng ở nông thôn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu làng xa internet chậm, báo đến muộn; hai ý: thông tin; tiếng nói cộng đồng.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Thông tin, giáo dục nơi phương tiện khác khan hiếm: tư vấn nông nghiệp, cảnh báo thời tiết, thông điệp y tế bằng tiếng địa phương, rẻ, đài pin; ví dụ nông dân nghe chương trình giá chợ quyết định bán mùa, bà mẹ nghe nói chuyện sức khoẻ phòng bệnh trẻ; lũ, bão, dịch cảnh báo tức thì cứu mạng; xoá mù chữ, bài học cho trẻ ở xa lớp.",
+        "refs": [
+          "ID-media-community-radio",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + khó khăn",
+        "think": "Tiếng nói và bản sắc: tình nguyện viên địa phương dẫn nên nội dung phản ánh ngôn ngữ, âm nhạc, mối quan tâm; gọi vào thảo luận với quan chức; ghi truyện, bài hát, truyền thống; người trẻ học phát thanh; nhóm thiểu số nghe tiếng mình; nhưng thiếu tiền, thiết bị, nhân viên, áp lực chính trị; giấy phép rẻ, đào tạo, quỹ, độc lập biên tập.",
+        "refs": [
+          "ID-media-community-radio",
+          "ID-media-local-media",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò thiết yếu, xứng đáng hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-community-radio"
+    ]
+  },
+  "chunks": [
+    [
+      "the internet is slow, newspapers arrive late and television reception is poor",
+      "internet chậm, báo đến muộn và tín hiệu truyền hình kém"
+    ],
+    [
+      "community radio in rural areas",
+      "đài cộng đồng ở vùng nông thôn"
+    ],
+    [
+      "information and on community voice",
+      "thông tin và tiếng nói của cộng đồng"
+    ],
+    [
+      "where other media are scarce",
+      "nơi các phương tiện truyền thông khác khan hiếm"
+    ],
+    [
+      "farming advice, weather warnings and health messages in local languages",
+      "lời khuyên nông nghiệp, cảnh báo thời tiết và thông điệp y tế bằng ngôn ngữ địa phương"
+    ],
+    [
+      "costs little to receive",
+      "tốn rất ít để thu sóng"
+    ],
+    [
+      "a cheap battery set",
+      "một chiếc radio chạy pin rẻ tiền"
+    ],
+    [
+      "prices at the market",
+      "giá cả ở chợ"
+    ],
+    [
+      "decide when to sell his harvest",
+      "quyết định khi nào bán thu hoạch của mình"
+    ],
+    [
+      "prevent common diseases in children",
+      "phòng các bệnh thường gặp ở trẻ em"
+    ],
+    [
+      "floods, storms or epidemics",
+      "lũ lụt, bão hoặc dịch bệnh"
+    ],
+    [
+      "immediate warnings and instructions",
+      "cảnh báo và hướng dẫn tức thì"
+    ],
+    [
+      "adult literacy",
+      "xoá mù chữ cho người lớn"
+    ],
+    [
+      "live far from classrooms",
+      "sống xa lớp học"
+    ],
+    [
+      "a voice and strengthens identity",
+      "tiếng nói và củng cố bản sắc"
+    ],
+    [
+      "Local volunteers present programmes",
+      "tình nguyện viên địa phương dẫn chương trình"
+    ],
+    [
+      "phone in to discuss problems with officials",
+      "gọi điện vào để thảo luận vấn đề với quan chức"
+    ],
+    [
+      "Stories, songs and traditions are recorded and preserved",
+      "câu chuyện, bài hát và truyền thống được ghi lại và bảo tồn"
+    ],
+    [
+      "minority groups",
+      "các nhóm thiểu số"
+    ],
+    [
+      "low-cost licences, training and funds",
+      "giấy phép giá thấp, đào tạo và quỹ"
+    ],
+    [
+      "editorial independence",
+      "sự độc lập về biên tập"
+    ]
+  ]
+}

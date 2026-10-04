@@ -1,0 +1,132 @@
+{
+  "questionId": 354,
+  "text": "Television, streaming services and social networks offer unlimited content, and opinions differ on whether individuals should be responsible for their media consumption or whether society and government should regulate content. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that adults can choose what to watch and learn to judge sources. A person who dislikes violent films can simply avoid them, and viewers can compare several news outlets to find reliable information. Parents can set rules at home, use filters and talk to children about what they see, and schools can teach media literacy. Freedom of choice is also a basic principle, and regulation by officials risks restricting opinions and art that they dislike. People who learn to question what they read become more independent and less likely to be manipulated.\n\nOn the other hand, supporters of regulation point out that children and vulnerable people need protection from harmful content, which only rules and platform duties can provide. Young children cannot judge a violent or sexual video, and adults may be misled by deliberate disinformation. A child who stumbles upon extreme material through an automatic recommendation, for example, has not made a choice at all. Media companies profit from attention, and without limits they may promote sensational content. Governments can require age checks, remove illegal material, demand transparency about algorithms and punish serious abuse. Media consumption needs both responsible users and sensible rules.\n\nIn conclusion, both views have merit. Overall, I believe that responsibility should be shared: individuals and families should make informed choices, while society regulates clearly harmful material and protects children.",
+  "analysis": {
+    "type_vi": "Discuss both views: tiêu thụ truyền thông — cá nhân hay xã hội điều tiết",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nội dung vô hạn; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Người lớn chọn, học đánh giá nguồn: ai không thích phim bạo lực tránh; so sánh nhiều tờ; cha mẹ đặt quy tắc, bộ lọc, trò chuyện; trường dạy hiểu biết truyền thông; tự do lựa chọn; điều tiết hạn chế ý kiến, nghệ thuật; học nghi vấn độc lập, ít bị thao túng.",
+        "refs": [
+          "ID-media-consumption-responsibility",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội",
+        "think": "Trẻ, người dễ tổn thương cần bảo vệ khỏi nội dung có hại: trẻ nhỏ không phán đoán video bạo lực, tình dục; người lớn bị dắt bởi thông tin sai có chủ ý; ví dụ trẻ tình cờ gặp nội dung cực đoan qua gợi ý tự động chưa lựa chọn; công ty hưởng lợi từ chú ý, quảng bá giật gân; chính phủ kiểm tra tuổi, gỡ nội dung bất hợp pháp, minh bạch thuật toán, phạt.",
+        "refs": [
+          "ID-media-consumption-responsibility",
+          "ID-media-regulate-content",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trách nhiệm chia sẻ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-consumption-responsibility"
+    ]
+  },
+  "chunks": [
+    [
+      "Television, streaming services and social networks offer unlimited content",
+      "truyền hình, dịch vụ phát trực tuyến và mạng xã hội cung cấp nội dung vô hạn"
+    ],
+    [
+      "media consumption",
+      "việc tiêu thụ truyền thông"
+    ],
+    [
+      "regulate content",
+      "điều tiết nội dung"
+    ],
+    [
+      "individual responsibility",
+      "trách nhiệm cá nhân"
+    ],
+    [
+      "choose what to watch and learn to judge sources",
+      "chọn xem gì và học cách đánh giá nguồn"
+    ],
+    [
+      "dislikes violent films",
+      "không thích phim bạo lực"
+    ],
+    [
+      "compare several news outlets",
+      "so sánh nhiều hãng tin"
+    ],
+    [
+      "use filters",
+      "dùng bộ lọc"
+    ],
+    [
+      "teach media literacy",
+      "dạy hiểu biết truyền thông"
+    ],
+    [
+      "Freedom of choice",
+      "quyền tự do lựa chọn"
+    ],
+    [
+      "restricting opinions and art",
+      "hạn chế ý kiến và nghệ thuật"
+    ],
+    [
+      "manipulated",
+      "bị thao túng"
+    ],
+    [
+      "children and vulnerable people need protection from harmful content",
+      "trẻ em và người dễ tổn thương cần được bảo vệ khỏi nội dung có hại"
+    ],
+    [
+      "a violent or sexual video",
+      "một video bạo lực hoặc tình dục"
+    ],
+    [
+      "deliberate disinformation",
+      "thông tin sai lệch có chủ ý"
+    ],
+    [
+      "an automatic recommendation",
+      "một gợi ý tự động"
+    ],
+    [
+      "profit from attention",
+      "kiếm lợi từ sự chú ý"
+    ],
+    [
+      "sensational content",
+      "nội dung giật gân"
+    ],
+    [
+      "age checks",
+      "kiểm tra độ tuổi"
+    ],
+    [
+      "transparency about algorithms",
+      "sự minh bạch về thuật toán"
+    ],
+    [
+      "responsible users and sensible rules",
+      "người dùng có trách nhiệm và các quy tắc hợp lý"
+    ]
+  ]
+}

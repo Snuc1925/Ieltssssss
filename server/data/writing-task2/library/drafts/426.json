@@ -1,0 +1,126 @@
+{
+  "questionId": 426,
+  "text": "Every evening, millions of people switch on the television to follow news from their country and the world, and many feel that television news is biased. I agree to a large extent, since ownership, selection and sensationalism shape the reports, although regulations limit the worst bias.\n\nTo begin with, television news is often biased through ownership, selection and sensationalism. Owners and advertisers influence what is covered, editors choose dramatic stories, and presenters frame events. A channel owned by a political party, for example, may report the successes of its allies at length and mention the failures of opponents only briefly. Even when no one intends to deceive, the choice of which stories to show and which to leave out affects what viewers think is important. Violent and emotional items attract audiences, so crime and conflict receive more time than calm progress. Short bulletins also encourage simple explanations of complex issues, and the choice of images, words and guests can lead viewers toward one conclusion.\n\nHowever, bias is not complete, and professional codes and regulators limit the worst cases. Many channels follow rules about accuracy and fairness, correct mistakes and give opponents the right to reply, and public broadcasters are required to be balanced. Journalists often try sincerely to present several sides. A report that shows both a government plan and the criticism of it, for example, helps viewers to form their own opinions. The sensible response is for viewers to compare several sources, including newspapers, radio and reliable websites, and to ask who owns a channel and what interests it may have. Schools can teach this critical approach.\n\nIn conclusion, I agree to a large extent that television news is biased, but comparing sources and strong rules can limit its influence.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: tin tức truyền hình thiên lệch — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng triệu người bật tivi xem tin; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Thiên lệch qua chủ sở hữu, chọn lọc, giật gân: chủ và nhà quảng cáo ảnh hưởng, biên tập chọn câu chuyện kịch tính, người dẫn đóng khung; ví dụ kênh của đảng chính trị đưa thành công đồng minh dài, thất bại đối thủ ngắn; không cố ý vẫn ảnh hưởng điều coi là quan trọng; bạo lực, cảm xúc hút khán giả; bản tin ngắn đơn giản hoá; hình ảnh, từ ngữ, khách mời dẫn đến một kết luận.",
+        "refs": [
+          "ID-media-tv-bias",
+          "ID-media-trust",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không hoàn toàn: quy tắc nghề, cơ quan quản lý; chính xác, công bằng, đính chính, quyền phản hồi; đài công cân bằng; nhà báo cố gắng trình bày nhiều mặt; ví dụ báo cáo cho cả kế hoạch chính phủ và chỉ trích giúp hình thành ý kiến; so sánh nhiều nguồn, hỏi chủ sở hữu; trường dạy.",
+        "refs": [
+          "ID-media-tv-bias",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; so sánh nguồn và quy định mạnh hạn chế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-media-tv-bias"
+    ]
+  },
+  "chunks": [
+    [
+      "switch on the television to follow news",
+      "bật tivi để theo dõi tin tức"
+    ],
+    [
+      "television news is biased",
+      "tin tức truyền hình thiên lệch"
+    ],
+    [
+      "ownership, selection and sensationalism",
+      "quyền sở hữu, sự chọn lọc và tính giật gân"
+    ],
+    [
+      "Owners and advertisers influence what is covered",
+      "chủ sở hữu và nhà quảng cáo ảnh hưởng đến nội dung được đưa tin"
+    ],
+    [
+      "editors choose dramatic stories",
+      "biên tập viên chọn những câu chuyện kịch tính"
+    ],
+    [
+      "presenters frame events",
+      "người dẫn chương trình đóng khung sự kiện"
+    ],
+    [
+      "owned by a political party",
+      "thuộc sở hữu của một đảng chính trị"
+    ],
+    [
+      "report the successes of its allies at length",
+      "đưa tin dài về thành công của đồng minh"
+    ],
+    [
+      "failures of opponents",
+      "thất bại của đối thủ"
+    ],
+    [
+      "which stories to show and which to leave out",
+      "câu chuyện nào đưa lên và câu chuyện nào bỏ qua"
+    ],
+    [
+      "Violent and emotional items attract audiences",
+      "các mục bạo lực và cảm xúc thu hút khán giả"
+    ],
+    [
+      "calm progress",
+      "tiến bộ êm đềm"
+    ],
+    [
+      "Short bulletins",
+      "bản tin ngắn"
+    ],
+    [
+      "simple explanations of complex issues",
+      "lời giải thích đơn giản cho những vấn đề phức tạp"
+    ],
+    [
+      "The choice of images, words and guests",
+      "việc chọn hình ảnh, từ ngữ và khách mời"
+    ],
+    [
+      "professional codes and regulators",
+      "quy tắc nghề nghiệp và cơ quan quản lý"
+    ],
+    [
+      "accuracy and fairness",
+      "tính chính xác và công bằng"
+    ],
+    [
+      "the right to reply",
+      "quyền phản hồi"
+    ],
+    [
+      "compare several sources",
+      "so sánh nhiều nguồn"
+    ],
+    [
+      "who owns a channel",
+      "ai sở hữu một kênh"
+    ]
+  ]
+}
