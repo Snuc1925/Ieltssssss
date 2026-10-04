@@ -1,0 +1,127 @@
+{
+  "questionId": 30,
+  "text": "In some countries, beaches and historic cities attract millions of visitors every year, and some argue that tourism is the main reason for economic growth. I disagree to a large extent, since tourism is important for some economies but cannot explain growth in most countries, where industry, services and technology matter more.\n\nTo begin with, tourism does bring income, jobs and foreign currency to the host country. Visitors spend money on hotels, food, transport and souvenirs, which supports many small businesses, and for small islands with few other resources it can indeed be the largest source of income. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours. In such places, tourism is a central part of growth, and its loss would be severe.\n\nHowever, for most countries tourism is not the main driver of growth. Large economies such as Germany, Japan and South Korea grew mainly through manufacturing, trade, education and technology, not through visitors. Moreover, dependence on tourism makes an economy fragile. Income rises and falls with the seasons and with events such as disease or recession, crowds strain water and roads, and much of the profit may go to foreign hotel chains. A small island that relies on tourism, for instance, can lose most of its income in a single year if flights are cancelled. Many tourism jobs are also seasonal and low-paid. A balanced economy, with agriculture, industry and services, is safer and brings more stable growth.\n\nIn conclusion, tourism contributes to economic growth in some places, but it is rarely the main reason, so I disagree with the statement to a large extent.",
+  "analysis": {
+    "type_vi": "Extent: du lịch là nguyên nhân chính của tăng trưởng kinh tế — disagree phần lớn",
+    "plan": [
+      {
+        "step": "1. Khung Extent với lập trường 'không đồng ý phần lớn'",
+        "think": "Chọn 'disagree to a large extent' vì du lịch quan trọng với một số nền kinh tế (đảo nhỏ) nhưng không giải thích tăng trưởng ở hầu hết các nước. Nhượng bộ trước rồi phản bác.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Nhượng bộ — du lịch có đóng góp",
+        "think": "Du khách chi tiêu, việc làm, ngoại tệ; với đảo nhỏ ít tài nguyên du lịch có thể là nguồn thu lớn nhất. Ví dụ gia đình mở nhà nghỉ.",
+        "refs": [
+          "ID-trv-benefits",
+          "EX-trv-guesthouse",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phản bác — không phải nguyên nhân chính",
+        "think": "Nền kinh tế lớn (Đức, Nhật, Hàn) tăng trưởng nhờ sản xuất, thương mại, giáo dục, công nghệ; phụ thuộc du lịch làm kinh tế mong manh: theo mùa, dịch bệnh, suy thoái, lợi nhuận chảy ra nước ngoài, việc làm lương thấp. Ví dụ đảo nhỏ mất phần lớn thu nhập khi chuyến bay bị huỷ.",
+        "refs": [
+          "ID-trv-limits",
+          "EX-trv-island-crash",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Du lịch góp phần ở một số nơi nhưng hiếm khi là nguyên nhân chính.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "EX-trv-island-crash"
+    ]
+  },
+  "chunks": [
+    [
+      "millions of visitors every year",
+      "hàng triệu du khách mỗi năm"
+    ],
+    [
+      "the main reason for economic growth",
+      "nguyên nhân chính của tăng trưởng kinh tế"
+    ],
+    [
+      "to a large extent",
+      "ở mức độ lớn"
+    ],
+    [
+      "cannot explain growth",
+      "không giải thích được tăng trưởng"
+    ],
+    [
+      "industry, services and technology",
+      "công nghiệp, dịch vụ và công nghệ"
+    ],
+    [
+      "small islands with few other resources",
+      "đảo nhỏ ít tài nguyên khác"
+    ],
+    [
+      "the largest source of income",
+      "nguồn thu lớn nhất"
+    ],
+    [
+      "a central part of growth",
+      "phần trung tâm của tăng trưởng"
+    ],
+    [
+      "its loss would be severe",
+      "mất nó sẽ rất nghiêm trọng"
+    ],
+    [
+      "the main driver of growth",
+      "động lực chính của tăng trưởng"
+    ],
+    [
+      "manufacturing, trade, education and technology",
+      "sản xuất, thương mại, giáo dục và công nghệ"
+    ],
+    [
+      "makes an economy fragile",
+      "làm nền kinh tế mong manh"
+    ],
+    [
+      "rises and falls with the seasons",
+      "tăng giảm theo mùa"
+    ],
+    [
+      "disease or recession",
+      "dịch bệnh hoặc suy thoái"
+    ],
+    [
+      "crowds strain water and roads",
+      "đám đông gây áp lực lên nước và đường"
+    ],
+    [
+      "foreign hotel chains",
+      "chuỗi khách sạn nước ngoài"
+    ],
+    [
+      "cancelled",
+      "bị huỷ"
+    ],
+    [
+      "seasonal and low-paid",
+      "theo mùa và lương thấp"
+    ],
+    [
+      "a balanced economy",
+      "nền kinh tế cân bằng"
+    ],
+    [
+      "more stable growth",
+      "tăng trưởng ổn định hơn"
+    ]
+  ]
+}

@@ -9,8 +9,8 @@ const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', '..')
 const LIB = path.join(ROOT, 'server', 'data', 'writing-task2', 'library');
 const OUT = path.join(ROOT, 'exports');
 const TOPIC = process.argv[2] || 'education';
-const TOPIC_NAME = { education: 'Education', environment: 'Environment & Energy', health: 'Health & Sport' }[TOPIC] || TOPIC;
-const FILE_BASE = { education: 'Education', environment: 'Environment-Energy', health: 'Health-Sport' }[TOPIC] || TOPIC;
+const TOPIC_NAME = { education: 'Education',environment: 'Environment & Energy',health: 'Health & Sport',transport: 'Transport, Housing & Cities',technology: 'Technology & Science',travel: 'Travel & Tourism',economy: 'Economy & Business',media: 'Media & Advertising',work: 'Work & Careers',arts: 'Arts & Culture',family: 'Family & Society',crime: 'Crime & Law',government: 'Government & Politics' }[TOPIC] || TOPIC;
+const FILE_BASE = { education: 'Education',environment: 'Environment-Energy',health: 'Health-Sport',transport: 'Transport-Housing-Cities',technology: 'Technology-Science',travel: 'Travel-Tourism',economy: 'Economy-Business',media: 'Media-Advertising',work: 'Work-Careers',arts: 'Arts-Culture',family: 'Family-Society',crime: 'Crime-Law',government: 'Government-Politics' }[TOPIC] || TOPIC;
 fs.mkdirSync(OUT, { recursive: true });
 
 const lex = JSON.parse(fs.readFileSync(path.join(LIB, 'lexicon.json'), 'utf8')).entries;

@@ -1,0 +1,1087 @@
+{
+  "topic": "travel",
+  "passScore": 7,
+  "essays": [
+    {
+      "questionId": 17,
+      "qtype": "Advantages / Disadvantages",
+      "question": "What are the benefits for a country that focuses on tourism? Use examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:48.432Z",
+          "words": 284,
+          "text": "Tourism is one of the world's largest industries, and many countries try to attract more visitors. This essay will outline two principal benefits for a country that focuses on tourism: economic gains and a stronger sense of cultural pride.\n\nFirst and foremost, tourism brings income, jobs and foreign currency to the host country. Visitors spend money on hotels, food, transport and souvenirs, which supports many small businesses, and the roads, airports and services built for tourists also benefit residents. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours, so the money spreads through the community. Tourism creates jobs for people with a wide range of skills, from guides and drivers to cooks and cleaners, and it can reach regions where other industries are weak. Foreign currency earned from visitors can pay for imports and help the national economy.\n\nIn addition, tourism strengthens cultural pride and understanding. When visitors show interest in local traditions, music, food and history, residents have a reason to preserve them, and crafts that might have disappeared can survive because tourists want to buy them. Contact with people from other countries also broadens horizons, encourages language learning and can reduce prejudice on both sides. Historic buildings and parks that would be too expensive to maintain from local taxes alone can be protected using entrance fees. Although tourism needs careful management so that it does not damage the places it depends on, a country that plans well can enjoy lasting benefits.\n\nTo sum up, tourism brings clear benefits to a country, above all income and employment and a stronger sense of cultural identity. For these reasons, it deserves sustained public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết của bạn có cấu trúc tốt, lập luận mạch lạc và đáp ứng đầy đủ yêu cầu về mặt nội dung lẫn độ dài (trên 250 từ). Với một số cải thiện nhỏ về ngữ pháp và từ vựng nâng cao, bạn hoàn toàn có thể đạt band điểm cao hơn.",
+            "weaknesses": [
+              "Câu văn đôi khi bị kéo dài bằng cách lạm dụng liên từ 'and', làm giảm tính trang trọng.",
+              "Thiếu một số từ vựng và cụm từ mang tính học thuật cao (less common lexical items)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài, tập trung phân tích các lợi ích chính của du lịch kèm theo ví dụ cụ thể. Lập trường rõ ràng từ phần mở bài đến kết bài, đáp ứng tốt tiêu chí Task Response.",
+              "coherenceCohesion": "Bố cục bài viết được chia đoạn rõ ràng theo đúng chuẩn IELTS Writing. Các liên từ và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ dàng theo dõi mạch ý tưởng.",
+              "lexicalResource": "Từ vựng được sử dụng tự nhiên, phù hợp với chủ đề du lịch và kinh tế. Tuy nhiên, các cụm từ nâng cao (advanced collocations) chưa thực sự phong phú để vươn lên mức điểm cao hơn.",
+              "grammar": "Cấu trúc câu khá đa dạng với sự kết hợp giữa câu đơn và câu phức. Dù vậy, vẫn xuất hiện một số câu dài có xu hướng lạm dụng liên từ 'and' thay vì ngắt nghỉ hoặc dùng mệnh đề quan hệ tinh tế hơn."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào du lịch — dùng ví dụ",
+        "plan": [
+          {
+            "step": "1. Khung 'benefits'",
+            "think": "Dùng khung các đề benefits trước (197, 77, 5): báo trước hai lợi ích (kinh tế; tự hào văn hoá), mỗi thân bài một lợi ích.",
+            "refs": [
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Lợi ích 1 — kinh tế",
+            "think": "Du khách chi cho khách sạn, thức ăn, vận chuyển, quà lưu niệm; hạ tầng cũng có lợi cho cư dân; việc làm cho nhiều kỹ năng; ngoại tệ. Ví dụ gia đình mở nhà nghỉ nhỏ.",
+            "refs": [
+              "ID-trv-benefits",
+              "EX-trv-guesthouse"
+            ]
+          },
+          {
+            "step": "3. Lợi ích 2 — văn hoá + nhượng bộ",
+            "think": "Du khách quan tâm truyền thống thì cư dân có lý do giữ gìn; nghề thủ công sống sót vì có người mua; giao lưu mở rộng tầm nhìn; phí vào cửa bảo tồn di tích. Nhượng bộ ngắn: cần quản lý để không hại nơi mình phụ thuộc.",
+            "refs": [
+              "ID-trv-benefits",
+              "ID-trv-limits"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai lợi ích; cụm cuối quen thuộc.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-benefits",
+          "ID-trv-limits",
+          "EX-trv-guesthouse",
+          "PH-one-of-the-world-s-largest-industries",
+          "PH-attract-more-visitors",
+          "PH-economic-gains",
+          "PH-a-stronger-sense-of-cultural-pride",
+          "PH-income-jobs-and-foreign-currency",
+          "PH-the-host-country",
+          "PH-hotels-food-transport-and-souvenirs",
+          "PH-supports-many-small-businesses",
+          "PH-opens-a-small-guesthouse",
+          "PH-earns-a-living",
+          "PH-spreads-through-the-community",
+          "PH-a-wide-range-of-skills",
+          "PH-reach-regions-where-other-industries-are-wea",
+          "PH-local-traditions-music-food-and-history",
+          "PH-a-reason-to-preserve-them",
+          "PH-crafts-that-might-have-disappeared",
+          "PH-broadens-horizons",
+          "PH-entrance-fees"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 30,
+      "qtype": "Extent",
+      "question": "Some argue that tourism is the main reason for economic growth. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:48.456Z",
+          "words": 278,
+          "text": "In some countries, beaches and historic cities attract millions of visitors every year, and some argue that tourism is the main reason for economic growth. I disagree to a large extent, since tourism is important for some economies but cannot explain growth in most countries, where industry, services and technology matter more.\n\nTo begin with, tourism does bring income, jobs and foreign currency to the host country. Visitors spend money on hotels, food, transport and souvenirs, which supports many small businesses, and for small islands with few other resources it can indeed be the largest source of income. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours. In such places, tourism is a central part of growth, and its loss would be severe.\n\nHowever, for most countries tourism is not the main driver of growth. Large economies such as Germany, Japan and South Korea grew mainly through manufacturing, trade, education and technology, not through visitors. Moreover, dependence on tourism makes an economy fragile. Income rises and falls with the seasons and with events such as disease or recession, crowds strain water and roads, and much of the profit may go to foreign hotel chains. A small island that relies on tourism, for instance, can lose most of its income in a single year if flights are cancelled. Many tourism jobs are also seasonal and low-paid. A balanced economy, with agriculture, industry and services, is safer and brings more stable growth.\n\nIn conclusion, tourism contributes to economic growth in some places, but it is rarely the main reason, so I disagree with the statement to a large extent.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt yêu cầu về độ dài và bố cục của một bài IELTS Writing Task 2. Người viết thể hiện rõ quan điểm cá nhân, lập luận chặt chẽ nhưng cần trau chuốt thêm một số từ vựng và cấu trúc để đạt band điểm cao hơn.",
+            "weaknesses": [
+              "Một số luận điểm về ngành công nghiệp và dịch vụ chưa được phân tích sâu.",
+              "Sử dụng một vài cụm từ diễn đạt còn hơi đơn giản, chưa thật sự mang tính học thuật cao."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng 'To what extent', đưa ra lập trường rõ ràng ngay từ mở bài và duy trì xuyên suốt. Các luận điểm đưa ra logic, tuy nhiên việc phân tích các ngành kinh tế thay thế có thể được đào sâu hơn để củng cố mức điểm cao hơn.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng với 4 đoạn văn chuẩn mực (mở bài, thân bài 1, thân bài 2, kết bài). Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp mạch văn trôi chảy và dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, liên quan tốt đến chủ đề kinh tế và du lịch (foreign currency, small businesses, fragile, seasonal and low-paid). Chính tả tốt, tuy nhiên cần chú ý một vài cụm từ collocation để tự nhiên hơn nữa.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Ngữ pháp chính xác, các thì được sử dụng đúng ngữ cảnh và không có lỗi cấu trúc nặng."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: du lịch là nguyên nhân chính của tăng trưởng kinh tế — disagree phần lớn",
+        "plan": [
+          {
+            "step": "1. Khung Extent với lập trường 'không đồng ý phần lớn'",
+            "think": "Chọn 'disagree to a large extent' vì du lịch quan trọng với một số nền kinh tế (đảo nhỏ) nhưng không giải thích tăng trưởng ở hầu hết các nước. Nhượng bộ trước rồi phản bác.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-disagree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Nhượng bộ — du lịch có đóng góp",
+            "think": "Du khách chi tiêu, việc làm, ngoại tệ; với đảo nhỏ ít tài nguyên du lịch có thể là nguồn thu lớn nhất. Ví dụ gia đình mở nhà nghỉ.",
+            "refs": [
+              "ID-trv-benefits",
+              "EX-trv-guesthouse",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Phản bác — không phải nguyên nhân chính",
+            "think": "Nền kinh tế lớn (Đức, Nhật, Hàn) tăng trưởng nhờ sản xuất, thương mại, giáo dục, công nghệ; phụ thuộc du lịch làm kinh tế mong manh: theo mùa, dịch bệnh, suy thoái, lợi nhuận chảy ra nước ngoài, việc làm lương thấp. Ví dụ đảo nhỏ mất phần lớn thu nhập khi chuyến bay bị huỷ.",
+            "refs": [
+              "ID-trv-limits",
+              "EX-trv-island-crash",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Du lịch góp phần ở một số nơi nhưng hiếm khi là nguyên nhân chính.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "EX-trv-island-crash",
+          "PH-millions-of-visitors-every-year",
+          "PH-the-main-reason-for-economic-growth",
+          "PH-to-a-large-extent",
+          "PH-cannot-explain-growth",
+          "PH-industry-services-and-technology",
+          "PH-small-islands-with-few-other-resources",
+          "PH-the-largest-source-of-income",
+          "PH-a-central-part-of-growth",
+          "PH-its-loss-would-be-severe",
+          "PH-the-main-driver-of-growth",
+          "PH-manufacturing-trade-education-and-technology",
+          "PH-makes-an-economy-fragile",
+          "PH-rises-and-falls-with-the-seasons",
+          "PH-disease-or-recession",
+          "PH-crowds-strain-water-and-roads",
+          "PH-foreign-hotel-chains",
+          "PH-cancelled",
+          "PH-seasonal-and-low-paid",
+          "PH-a-balanced-economy",
+          "PH-more-stable-growth"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 128,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Discuss the advantages and disadvantages of tourism for rural areas.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:47.953Z",
+          "words": 277,
+          "text": "Many villages and small towns in the countryside are turning to tourism as farming and traditional industries decline. This essay will discuss the main advantages and disadvantages of tourism for rural areas before explaining my own view.\n\nOn the positive side, tourism can give rural communities a new source of income. Farm stays, guided walks and craft sales create jobs where few exist and encourage young people to stay, which slows the decline of villages. A village that offers farm stays, for example, can keep young people from leaving to find work in cities. Visitors also buy local food and handmade goods, so traditional skills and products gain a market, and money spent in the countryside tends to stay there if owners are local. The investment in roads, internet and services that tourism brings also improves daily life for residents.\n\nOn the negative side, however, tourism has real drawbacks. The work is often seasonal and low-paid, prices for housing and food may rise so that local people struggle to afford them, and outside investors may take the profits. Crowds, traffic and noise can spoil the peaceful character that attracted visitors in the first place, and traditional ways of life may be turned into a show for tourists. Nevertheless, these problems can be reduced. Benefits are greatest when the community owns and controls the businesses, when numbers of visitors are limited and when regulations protect the landscape and local housing.\n\nIn conclusion, tourism offers rural areas valuable income and jobs, but it can bring pressure on prices and traditions. On balance, I believe that it is beneficial when it is small in scale, locally owned and carefully managed.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết hoàn chỉnh, bố cục tốt và đáp ứng đủ độ dài tối thiểu với ngữ pháp và từ vựng vững chắc. Tuy nhiên, để đạt band cao hơn, học viên cần bổ sung thêm các từ vựng học thuật nâng cao và phát triển ý sâu sắc hơn nữa.",
+            "weaknesses": [
+              "Thiếu một số từ vựng học thuật nâng cao (advanced vocabulary).",
+              "Một số ví dụ còn khá đơn giản, chưa thực sự mang tính thuyết phục cao."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt yêu cầu của đề bài bằng cách thảo luận cả ưu điểm và nhược điểm của du lịch đối với vùng nông thôn, đồng thời đưa ra quan điểm cá nhân rõ ràng. Tuy nhiên, phần phân tích có thể mở rộng sâu hơn về mặt xã hội và văn hóa để đạt điểm cao hơn.",
+              "coherenceCohesion": "Bố cục bài viết rất chặt chẽ với phần mở đầu, các đoạn thân bài rõ ràng cho từng khía cạnh và phần kết luận tóm tắt tốt. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, phù hợp với chủ đề nông thôn và du lịch như 'traditional industries', 'farm stays', 'seasonal and low-paid', 'peaceful character'. Tuy nhiên, bài viết thiếu các từ vựng học thuật nâng cao hơn hoặc các collocations hiếm.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức, với độ chính xác cao. Việc sử dụng các mệnh đề quan hệ và cấu trúc điều kiện/nhượng bộ giúp câu văn uyển chuyển và tự nhiên."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "A/D: du lịch ở vùng nông thôn",
+        "plan": [
+          {
+            "step": "1. Khung A/D",
+            "think": "Mở bài nêu lý do nông thôn chuyển sang du lịch (nông nghiệp, ngành truyền thống suy giảm); kết luận chọn lập trường 'có lợi nếu quy mô nhỏ, do người địa phương sở hữu và quản lý tốt'.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm",
+            "think": "Nguồn thu mới; nhà nghỉ nông trại, đi bộ có hướng dẫn, bán đồ thủ công tạo việc làm; giữ người trẻ ở lại; sản phẩm truyền thống có thị trường; hạ tầng (đường, internet) cải thiện đời sống. Ví dụ làng có nhà nghỉ nông trại.",
+            "refs": [
+              "ID-trv-rural",
+              "EX-trv-farm-stay",
+              "ID-trv-benefits"
+            ]
+          },
+          {
+            "step": "3. Nhược điểm + phản bác",
+            "think": "Việc làm theo mùa lương thấp; giá nhà và thực phẩm tăng; nhà đầu tư ngoài lấy lợi nhuận; đông, tắc đường, ồn phá không khí yên bình; lối sống truyền thống thành trò diễn. Nevertheless: cộng đồng sở hữu và kiểm soát, giới hạn lượng khách, quy định bảo vệ cảnh quan và nhà ở.",
+            "refs": [
+              "ID-trv-rural",
+              "ID-trv-limits",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Có lợi khi quy mô nhỏ, sở hữu địa phương, quản lý cẩn thận.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-rural",
+          "EX-trv-farm-stay",
+          "PH-villages-and-small-towns-in-the-countryside",
+          "PH-turning-to-tourism",
+          "PH-farming-and-traditional-industries-decline",
+          "PH-rural-communities",
+          "PH-a-new-source-of-income",
+          "PH-farm-stays-guided-walks-and-craft-sales",
+          "PH-create-jobs-where-few-exist",
+          "PH-encourage-young-people-to-stay",
+          "PH-slows-the-decline-of-villages",
+          "PH-keep-young-people-from-leaving",
+          "PH-traditional-skills-and-products-gain-a-marke",
+          "PH-stay-there-if-owners-are-local",
+          "PH-prices-for-housing-and-food-may-rise",
+          "PH-outside-investors-may-take-the-profits",
+          "PH-crowds-traffic-and-noise",
+          "PH-peaceful-character",
+          "PH-a-show-for-tourists",
+          "PH-owns-and-controls-the-businesses",
+          "PH-small-in-scale-locally-owned-and-carefully-m"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 190,
+      "qtype": "Extent",
+      "question": "Some argue that cultural festivals boost tourism. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:53.658Z",
+          "words": 282,
+          "text": "Cities and towns around the world hold music, food, lantern and religious festivals, and some argue that cultural festivals boost tourism. I largely agree, since a well-known festival gives visitors a clear reason to travel, although the effect depends on how well it is organised.\n\nTo begin with, festivals give visitors a clear reason to travel and to spend money. A well-known music, food or cultural festival attracts people from other regions and countries, often outside the main holiday season, and fills hotels, restaurants and shops. A lantern festival held in the quiet winter months, for example, can fill hotels that would otherwise be empty. Visitors often stay several days and spend on transport, food and gifts, so local businesses benefit widely. Festivals also provide ready-made material for photographs, videos and social media, which spreads the name of the destination far beyond its own borders at very low cost.\n\nFurthermore, festivals shape the image of a place and encourage repeat visits. A town that becomes famous for a distinctive celebration is remembered as lively and welcoming, and many visitors return, sometimes outside the festival dates, to explore further. However, the effect is not guaranteed. Festivals are temporary, and tourism in the rest of the year may stay weak if the town has little else to offer. Overcrowding, noise and rubbish can upset residents, and a poorly organised or badly advertised festival may attract few people. Authorities should therefore plan transport, safety and cleaning carefully, involve local people and combine festivals with other attractions throughout the year.\n\nIn conclusion, cultural festivals boost tourism to a large extent by attracting visitors and publicity, provided that they are well run and supported by year-round attractions.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận thuyết phục và đáp ứng đầy đủ yêu cầu của đề bài Writing Task 2 về mức độ đồng ý. Ngữ pháp và từ vựng đạt độ chính xác cao, bố cục rõ ràng.",
+            "weaknesses": [
+              "Một số ý trong đoạn thân bài 1 bị lặp lại ý chính đã nêu ở phần mở bài.",
+              "Thiếu các ví dụ cụ thể mang tính thực tế (real-world examples) thay vì ví dụ giả định chung chung.",
+              "Phạm vi từ vựng đôi khi còn an toàn, chưa có nhiều từ vựng thuộc band 8-9."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng đồng ý phần lớn (largely agree), đưa ra các luận điểm chặt chẽ về lợi ích kinh tế, hình ảnh điểmหมาย và có xét đến điều kiện giới hạn. Lập trường rõ ràng từ đầu đến cuối.",
+              "coherenceCohesion": "Các đoạn văn được liên kết mạch lạc với các từ nối tốt (To begin with, Furthermore, However, In conclusion). Sự phát triển ý trong từng đoạn logic và dễ theo dõi.",
+              "lexicalResource": "Sử dụng từ vựng tự nhiên, chủ đề du lịch và lễ hội phong phú (ready-made material, distinctive celebration, overcrowding). Tuy nhiên, có thể nâng cấp thêm một số cụm từ học thuật nâng cao.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức với các mệnh đề trạng ngữ (although the effect depends on..., provided that they are well run). Ngữ pháp và chính tả chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: lễ hội văn hoá có thúc đẩy du lịch không — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài nêu các loại lễ hội (âm nhạc, ẩm thực, đèn lồng, tôn giáo) rồi largely agree + giới hạn (phụ thuộc tổ chức).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — lý do để đi và chi tiêu",
+            "think": "Lễ hội nổi tiếng thu hút người từ vùng và nước khác, thường ngoài mùa cao điểm, lấp đầy khách sạn, nhà hàng, cửa hàng. Ví dụ lễ hội đèn lồng vào mùa đông vắng. Khách ở vài ngày; ảnh và video lan toả điểm đến với chi phí thấp.",
+            "refs": [
+              "ID-trv-festival",
+              "EX-trv-lantern-festival",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — hình ảnh và quay lại + giới hạn",
+            "think": "Thị trấn nổi tiếng vì lễ hội đặc sắc được nhớ là sôi động, hiếu khách; khách quay lại. Giới hạn: lễ hội tạm thời, phần còn lại của năm có thể yếu; đông đúc, ồn, rác; tổ chức kém thu hút ít; cần quy hoạch giao thông, an ninh, vệ sinh, cho người địa phương tham gia, kết hợp điểm tham quan quanh năm.",
+            "refs": [
+              "ID-trv-festival",
+              "ID-trv-limits",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Thúc đẩy du lịch ở mức độ lớn nếu tổ chức tốt và có điểm hấp dẫn quanh năm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-festival",
+          "EX-trv-lantern-festival",
+          "PH-music-food-lantern-and-religious-festivals",
+          "PH-cultural-festivals-boost-tourism",
+          "PH-a-clear-reason-to-travel",
+          "PH-how-well-it-is-organised",
+          "PH-attracts-people-from-other-regions-and-count",
+          "PH-outside-the-main-holiday-season",
+          "PH-fills-hotels-restaurants-and-shops",
+          "PH-would-otherwise-be-empty",
+          "PH-stay-several-days",
+          "PH-local-businesses-benefit-widely",
+          "PH-ready-made-material-for-photographs-videos-a",
+          "PH-spreads-the-name-of-the-destination",
+          "PH-at-very-low-cost",
+          "PH-shape-the-image-of-a-place",
+          "PH-lively-and-welcoming",
+          "PH-encourage-repeat-visits",
+          "PH-not-guaranteed",
+          "PH-overcrowding-noise-and-rubbish",
+          "PH-badly-advertised",
+          "PH-year-round-attractions"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 310,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Discuss the advantages and disadvantages of encouraging tourism in fragile ecosystems.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:53.852Z",
+          "words": 280,
+          "text": "Rainforests, coral reefs, mountains and polar regions attract adventurous travellers, but these ecosystems recover slowly from damage. This essay will discuss the advantages and disadvantages of encouraging tourism in fragile ecosystems before explaining my own view.\n\nOn the positive side, tourism in fragile ecosystems can fund their protection. Entrance fees and local jobs give people a reason to protect wildlife instead of hunting or clearing land, and visitors who see these places in person often become supporters of conservation. A national park that charges visitors, for example, can pay rangers and research that would otherwise be unaffordable. Guides, boat operators and lodge workers earn a living from nature that is kept intact, which reduces pressure from poaching and logging. Tourism also raises international awareness, which can attract donations and political support.\n\nOn the negative side, however, tourism can damage the places that visitors come to admire. Trampling, litter, noise and introduced species can harm habitats that recover slowly, and wildlife may change its behaviour or leave when disturbed. Divers who touch a coral reef, for example, can destroy in a moment what took decades to grow. Hotels, roads and airports built for visitors cause further harm, and flights add greenhouse gas emissions. Nevertheless, these risks can be managed through strict limits on visitor numbers and behaviour, permits, trained guides, zoning of sensitive areas and the use of fees to fund monitoring. Where such controls are absent, tourism should not be encouraged.\n\nIn conclusion, tourism can pay for the protection of fragile ecosystems, but it can also destroy them. On balance, I believe that it should be encouraged only in small numbers, under strict control, and where the income supports conservation.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức band 7.0 với lập luận chặt chẽ, từ vựng chủ đề môi trường phong phú và ngữ pháp ổn định. Việc cải thiện một số lỗi nhỏ về diễn đạt và cách dùng từ sẽ giúp nâng cao điểm số.",
+            "weaknesses": [
+              "Một số cụm từ diễn đạt chưa hoàn toàn chuẩn xác (ví dụ: pay rangers and research).",
+              "Phần mở bài nêu sẽ giải thích quan điểm cá nhân ngay nhưng thực tế lại dồn quan điểm xuống phần kết luận."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận đầy đủ cả ưu điểm và nhược điểm của việc phát triển du lịch ở các hệ sinh thái mỏng manh, đồng thời đưa ra quan điểm cá nhân rõ ràng. Tuy nhiên, phần mở bài hứa hẹn nêu quan điểm cá nhân nhưng thân bài lại tập trung thảo luận ưu/nhược điểm trước rồi mới kết luận rõ, cấu trúc có thể mạch lạc hơn chút.",
+              "coherenceCohesion": "Bài viết có bố cục rõ ràng với phần mở bài, thân bài tách bạch ưu và nhược điểm, và kết bài tổng kết. Các từ nối và phương tiện liên kết (On the positive side, On the negative side, In conclusion) được sử dụng hiệu quả.",
+              "lexicalResource": "Vốn từ vựng khá phong phú và phù hợp với chủ đề môi trường và du lịch (fragile ecosystems, conservation, poaching, greenhouse gas emissions, trampling). Tuy nhiên, có một vài chỗ kết hợp từ hoặc cấu trúc chưa hoàn toàn tự nhiên.",
+              "grammar": "Ngữ pháp khá vững chắc, sử dụng đa dạng các cấu trúc câu phức và mệnh đề quan hệ. Các lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền đạt ý nghĩa."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "A/D: khuyến khích du lịch ở hệ sinh thái mong manh",
+        "plan": [
+          {
+            "step": "1. Khung A/D",
+            "think": "Mở bài nêu các hệ sinh thái (rừng mưa, rạn san hô, núi, vùng cực) và đặc điểm hồi phục chậm; kết luận chọn lập trường có điều kiện.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm",
+            "think": "Phí vào cửa và việc làm địa phương cho người dân lý do bảo vệ thay vì săn bắn, phá đất; du khách trở thành người ủng hộ bảo tồn; vườn quốc gia thu phí trả cho kiểm lâm, nghiên cứu; nâng nhận thức quốc tế.",
+            "refs": [
+              "ID-trv-fragile",
+              "ID-env-wildlife-benefits"
+            ]
+          },
+          {
+            "step": "3. Nhược điểm + phản bác",
+            "think": "Giẫm đạp, rác, tiếng ồn, loài ngoại lai hại môi trường sống hồi phục chậm; động vật thay đổi hành vi hoặc bỏ đi. Ví dụ thợ lặn chạm rạn san hô phá cái mất hàng chục năm để lớn. Khách sạn, đường, sân bay và chuyến bay thêm khí thải. Nevertheless: giới hạn số khách, giấy phép, hướng dẫn viên, phân vùng, phí cho giám sát.",
+            "refs": [
+              "ID-trv-fragile",
+              "EX-trv-reef-visitors",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chỉ khuyến khích với số lượng nhỏ, kiểm soát chặt, thu nhập phục vụ bảo tồn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-fragile",
+          "EX-trv-reef-visitors",
+          "PH-rainforests-coral-reefs-mountains-and-polar",
+          "PH-adventurous-travellers",
+          "PH-recover-slowly-from-damage",
+          "PH-fragile-ecosystems",
+          "PH-fund-their-protection",
+          "PH-entrance-fees-and-local-jobs",
+          "PH-hunting-or-clearing-land",
+          "PH-supporters-of-conservation",
+          "PH-a-national-park-that-charges-visitors",
+          "PH-pay-rangers-and-research",
+          "PH-earn-a-living-from-nature-that-is-kept-intac",
+          "PH-poaching-and-logging",
+          "PH-raises-international-awareness",
+          "PH-trampling-litter-noise-and-introduced-specie",
+          "PH-change-its-behaviour-or-leave",
+          "PH-destroy-in-a-moment-what-took-decades-to-gro",
+          "PH-strict-limits-on-visitor-numbers-and-behavio",
+          "PH-permits-trained-guides",
+          "PH-zoning-of-sensitive-areas"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 320,
+      "qtype": "Discuss both views",
+      "question": "Some people prefer solo travel while others prefer group tours. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:54.128Z",
+          "words": 287,
+          "text": "Some travellers book flights and hotels on their own and go wherever they please, while others join organised group tours. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of solo travel argue that it offers freedom, flexibility and personal growth. Travellers choose their own route and pace, stay longer where they feel happy and leave places they dislike, and they meet local people more easily because they are not part of a crowd. A solo traveller who changes plans to follow a local's recommendation, for example, may discover a village that no tour would visit. Solving problems alone, from reading maps to bargaining for a bed, builds confidence and independence, and many people return from such journeys more mature. Travelling alone can also be cheaper if one chooses simple food and transport.\n\nOn the other hand, supporters of group tours point out that they are convenient, safe and good value. Transport, hotels and guides are organised in advance, costs are shared, and a knowledgeable guide explains the history of each place. A group visiting an ancient temple with a trained guide, for example, learns far more than someone reading a brief sign. Group tours are especially suitable for first-time travellers, older people and those who do not speak the local language, because help is always at hand. Friendships formed on the trip can also be rewarding. However, the schedule is fixed and contact with local life may be limited.\n\nIn conclusion, both views have merit. Personally, I prefer to travel alone or with a small group of friends in familiar places, but I would choose a guided tour for remote or unfamiliar regions where safety and language are concerns.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận chặt chẽ và từ vựng phong phú về chủ đề du lịch độc lập và du lịch theo tour. Dù có một vài lỗi nhỏ về ngữ pháp và từ vựng, bài viết hoàn toàn đáp ứng tốt yêu cầu của một bài luận Task 2 band 7.5.",
+            "weaknesses": [
+              "Một số câu ghép dài chứa quá nhiều ý, làm giảm độ mượt mà của mạch văn.",
+              "Quan điểm cá nhân ở phần kết luận hơi rườm rà và pha trộn nhiều điều kiện (với bạn bè, ở nơi quen thuộc, nơi hoang vắng) thay vì tập trung vào lựa chọn chính."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt yêu cầu đề bài dạng Discuss both views và đưa ra quan điểm cá nhân rõ ràng. Các luận điểm cho cả hai phía được triển khai chi tiết với ví dụ minh họa hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc gồm 4 đoạn rõ ràng, các từ nối và phương tiện liên kết được sử dụng tự nhiên. Các đoạn thân bài phân chia ý chính tốt, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng linh hoạt các cụm từ theo chủ đề du lịch như 'organised group tours', 'personal growth', 'knowledgeable guide'. Một số lỗi nhỏ trong việc kết hợp từ nhưng không ảnh hưởng đến tổng thể.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp hài hòa giữa câu đơn và câu phức. Ngữ pháp nhìn chung chính xác, tuy nhiên có một vài lỗi nhỏ về sự hòa hợp thì và cấu trúc câu điều kiện hoặc mệnh đề phụ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: du lịch một mình hay đi tour đoàn",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài mô tả hai cách đi (tự đặt vé và đi tuỳ ý / tham gia tour tổ chức sẵn); mỗi thân bài một phía; ý kiến riêng linh hoạt theo hoàn cảnh.",
+            "refs": [
+              "FR-struct-both",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe một mình",
+            "think": "Tự do, linh hoạt, trưởng thành: chọn lộ trình và nhịp độ; ở lâu nơi thích; gặp người địa phương dễ hơn; tự giải quyết vấn đề xây dựng tự tin; có thể rẻ hơn. Ví dụ du khách đổi kế hoạch theo gợi ý của người địa phương phát hiện ngôi làng không tour nào đến.",
+            "refs": [
+              "ID-trv-solo",
+              "EX-trv-solo-rail"
+            ]
+          },
+          {
+            "step": "3. Phe tour đoàn",
+            "think": "Tiện, an toàn, giá trị tốt: vận chuyển, khách sạn, hướng dẫn viên sắp sẵn; chia chi phí; hướng dẫn viên giải thích lịch sử. Ví dụ nhóm thăm đền cổ có hướng dẫn viên. Hợp người đi lần đầu, người lớn tuổi, không biết ngôn ngữ. Giới hạn: lịch trình cố định, ít tiếp xúc cuộc sống địa phương.",
+            "refs": [
+              "ID-trv-group",
+              "EX-trv-group-guide"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tự đi hoặc nhóm nhỏ nơi quen thuộc; chọn tour có hướng dẫn cho vùng xa lạ cần an toàn và ngôn ngữ.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-solo",
+          "ID-trv-group",
+          "EX-trv-solo-rail",
+          "EX-trv-group-guide",
+          "PH-book-flights-and-hotels-on-their-own",
+          "PH-go-wherever-they-please",
+          "PH-organised-group-tours",
+          "PH-supporters-of-solo-travel",
+          "PH-freedom-flexibility-and-personal-growth",
+          "PH-choose-their-own-route-and-pace",
+          "PH-part-of-a-crowd",
+          "PH-follow-a-local-s-recommendation",
+          "PH-discover-a-village-that-no-tour-would-visit",
+          "PH-bargaining-for-a-bed",
+          "PH-builds-confidence-and-independence",
+          "PH-convenient-safe-and-good-value",
+          "PH-organised-in-advance",
+          "PH-costs-are-shared",
+          "PH-a-knowledgeable-guide",
+          "PH-first-time-travellers",
+          "PH-help-is-always-at-hand",
+          "PH-the-schedule-is-fixed",
+          "PH-remote-or-unfamiliar-regions"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 404,
+      "qtype": "Causes / Solutions",
+      "question": "How can governments foster responsible tourism? Suggest practical measures.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:59.092Z",
+          "words": 278,
+          "text": "Millions of people now travel for pleasure, and popular destinations suffer from litter, crowds, rising prices and damage to nature. This essay will suggest practical measures that governments could take, focusing on limiting the impact of visitors and on keeping the benefits in local communities.\n\nTo begin with, governments should limit the impact of visitors on popular sites. Visitor caps and environmental fees protect fragile places, rules on waste and water reduce pollution, and strict building regulations prevent hotels from destroying coastlines and forests. A famous trail that issues only a fixed number of daily permits, for example, stays in good condition while still welcoming visitors. Public transport and walking routes can replace cars in crowded areas, and tourist taxes can pay for cleaning, repairs and conservation. Information at airports and hotels can explain local rules, such as not feeding animals or touching coral.\n\nIn addition, authorities should make sure that tourism benefits local people and respects their culture. Certification schemes and loans for small, locally owned guesthouses and tour operators keep more income in the community, while training helps residents to work as guides and managers instead of low-paid staff. Governments can also require consultation with villages before new developments are approved, and support the preservation of local crafts and traditions. Equally important, campaigns can encourage visitors to choose responsible operators and to behave respectfully, for example by dressing appropriately at sacred sites. These measures cost little compared with the long-term damage caused by uncontrolled tourism, and they protect the places that visitors come to see.\n\nIn conclusion, limiting the impact of visitors and keeping the benefits local offer the most realistic way of fostering responsible tourism.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết của bạn đạt chất lượng khá tốt với bố cục chuẩn mực, từ vựng chủ đề phong phú và ngữ pháp ổn định. Bạn đã đưa ra các giải pháp rất thực tế cho vấn đề du lịch có trách nhiệm, tuy nhiên cần chú ý phát triển sâu hơn thay vì liệt kê quá nhiều ý trong một câu.",
+            "weaknesses": [
+              "Các câu văn ở phần thân bài mang tính chất liệt kê nhiều ý nhỏ (liệt kê bằng dấu phẩy) làm giảm sức nặng của lập luận.",
+              "Thiếu sự phát triển sâu (explanation/result) cho một số giải pháp được đưa ra."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi của đề bài bằng cách đưa ra các giải pháp thực tế từ phía chính phủ như giới hạn lượng khách, áp dụng phí môi trường và hỗ trợ cộng đồng địa phương. Tuy nhiên, lập luận có thể được đào sâu hơn nữa bằng cách phân tích rõ cơ chế hoạt động của từng giải pháp.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với phần mở đầu, các đoạn thân bài tập trung vào từng khía cạnh và phần kết luận tóm tắt tốt. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, phù hợp với chủ đề du lịch và phát triển bền vững (như 'fragile places', 'environmental fees', 'certification schemes', 'uncontrolled tourism'). Tuy nhiên, một số cụm từ diễn đạt còn mang tính liệt kê thay vì phân tích sâu.",
+              "grammar": "Cấu trúc câu đa dạng, sử dụng linh hoạt các câu phức và mệnh đề quan hệ. Đa số các câu đều chính xác về mặt ngữ pháp, nhưng vẫn có một số lỗi nhỏ trong việc sắp xếp ý khi câu quá dài."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Solutions only: chính phủ thúc đẩy du lịch có trách nhiệm",
+        "plan": [
+          {
+            "step": "1. Khung giải pháp",
+            "think": "Mở bài nêu vấn đề (rác, đông đúc, giá tăng, hại thiên nhiên ở điểm nổi tiếng) và hai nhóm: hạn chế tác động của du khách; giữ lợi ích trong cộng đồng địa phương.",
+            "refs": [
+              "FR-struct-solutions",
+              "FR-this-essay-will",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nhóm 1 — hạn chế tác động",
+            "think": "Giới hạn lượng khách, phí môi trường, quy tắc rác và nước, quy định xây dựng; ví dụ tuyến đường nổi tiếng chỉ cấp số giấy phép cố định mỗi ngày; giao thông công cộng thay xe; thuế du lịch trả cho dọn dẹp, bảo tồn; thông tin về quy tắc địa phương.",
+            "refs": [
+              "ID-trv-responsible",
+              "EX-trv-permit-limit",
+              "ID-env-gov-rules",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Nhóm 2 — lợi ích cho người địa phương",
+            "think": "Chứng nhận và vay cho nhà nghỉ, công ty tour nhỏ do người địa phương sở hữu; đào tạo hướng dẫn viên, quản lý; tham vấn làng trước khi phê duyệt dự án; bảo tồn nghề thủ công; chiến dịch khuyến khích chọn nhà tổ chức có trách nhiệm và tôn trọng văn hoá.",
+            "refs": [
+              "ID-trv-responsible",
+              "ID-trv-rural",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai nhóm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-responsible",
+          "EX-trv-permit-limit",
+          "PH-travel-for-pleasure",
+          "PH-popular-destinations-suffer-from-litter-crow",
+          "PH-rising-prices",
+          "PH-limiting-the-impact-of-visitors",
+          "PH-keeping-the-benefits-in-local-communities",
+          "PH-visitor-caps-and-environmental-fees",
+          "PH-protect-fragile-places",
+          "PH-rules-on-waste-and-water",
+          "PH-strict-building-regulations",
+          "PH-issues-only-a-fixed-number-of-daily-permits",
+          "PH-stays-in-good-condition",
+          "PH-tourist-taxes",
+          "PH-cleaning-repairs-and-conservation",
+          "PH-certification-schemes-and-loans",
+          "PH-locally-owned-guesthouses",
+          "PH-keep-more-income-in-the-community",
+          "PH-consultation-with-villages",
+          "PH-respectfully",
+          "PH-uncontrolled-tourism"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 407,
+      "qtype": "Discuss both views",
+      "question": "Some people believe that space tourism will benefit humanity. Others disagree. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:58.880Z",
+          "words": 292,
+          "text": "A few private companies now offer short trips beyond the atmosphere to those who can pay, and some people believe that space tourism will benefit humanity. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that space tourism may drive new technology and inspire people. Competition between companies can lower the cost of rockets, and developments in materials, engines and life-support systems often find uses on Earth, as earlier space programmes did. The sight of ordinary people travelling to orbit may also encourage young people to study science and engineering, and astronauts who see the planet from space often describe a stronger sense of its fragility and unity. A company that learns to reuse rockets, for example, may make future satellite launches cheaper, which benefits communication and weather forecasting. Over time, space tourism might even help to develop research facilities in orbit.\n\nOn the other hand, critics point out that its benefits to humanity are uncertain. Flights are affordable only to the very rich, release significant emissions and carry real risks, and the same money and talent could be used on problems such as poverty, disease and climate change. Public attention and funding may also be diverted from more useful space science, such as monitoring the Earth. A flight that costs as much as a hospital ward, for instance, seems a poor use of resources when many people lack basic care. Supporters of the industry may exaggerate its social value to attract investors.\n\nIn conclusion, both views have merit. Personally, I believe that space tourism is mainly an entertainment for the wealthy, and that its benefits to humanity will be limited unless emissions are controlled and the technology serves wider scientific goals.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, hoàn thành đúng yêu cầu đề bài với văn phong trang trọng, bố cục rõ ràng và ngữ pháp chính xác. Bạn chỉ cần cải thiện thêm sự sắc bén trong từ vựng và mở rộng ý tưởng để đạt điểm cao hơn.",
+            "weaknesses": [
+              "Một số ý tưởng triển khai còn hơi chung chung, thiếu sự đột phá trong lập luận.",
+              "Từ vựng ở mức độ tốt nhưng chưa có nhiều cụm từ nâng cao (advanced collocations) gây ấn tượng mạnh."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận đầy đủ cả hai quan điểm và đưa ra ý kiến cá nhân rõ ràng ở phần mở bài và kết bài. Các luận điểm được phát triển tốt với ví dụ cụ thể, tuy nhiên phần lập luận về mặt lợi ích có thể được đào sâu hơn để đạt điểm cao hơn.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng theo đúng cấu trúc bài Discuss both views. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả giữa các câu và các đoạn.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề không gian và công nghệ (fragility and unity, life-support systems, diverted). Tuy nhiên, một số cụm từ còn mang tính phổ biến, có thể dùng các collocations học thuật hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Hầu như không có lỗi ngữ pháp lớn nào xuất hiện trong bài viết của bạn."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: du lịch vũ trụ có đem lại lợi ích cho nhân loại không",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài mô tả hiện trạng (vài công ty tư nhân bán chuyến ngắn ra ngoài khí quyển); mỗi thân bài một phía; ý kiến riêng thiên về hoài nghi có điều kiện.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe ủng hộ",
+            "think": "Cạnh tranh giảm chi phí tên lửa; vật liệu, động cơ, hệ thống hỗ trợ sự sống có ứng dụng trên Trái Đất; truyền cảm hứng người trẻ học khoa học; phi hành gia thấy hành tinh mong manh. Ví dụ công ty học tái sử dụng tên lửa làm phóng vệ tinh rẻ hơn.",
+            "refs": [
+              "ID-trv-space",
+              "ID-health-tech-diagnosis"
+            ]
+          },
+          {
+            "step": "3. Phe phản đối",
+            "think": "Chỉ người rất giàu mua nổi, phát thải đáng kể, rủi ro; tiền và nhân tài có thể dùng cho nghèo đói, bệnh tật, khí hậu; sự chú ý có thể chệch khỏi khoa học vũ trụ hữu ích hơn. Ví dụ chuyến bay đắt bằng một khoa bệnh viện.",
+            "refs": [
+              "ID-trv-space",
+              "ID-env-other-priorities"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chủ yếu là giải trí cho người giàu; lợi ích hạn chế trừ khi kiểm soát phát thải và phục vụ mục tiêu khoa học rộng hơn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-space",
+          "PH-beyond-the-atmosphere",
+          "PH-space-tourism",
+          "PH-benefit-humanity",
+          "PH-drive-new-technology-and-inspire-people",
+          "PH-lower-the-cost-of-rockets",
+          "PH-materials-engines-and-life-support-systems",
+          "PH-find-uses-on-earth",
+          "PH-encourage-young-people-to-study-science-and",
+          "PH-reuse-rockets",
+          "PH-satellite-launches",
+          "PH-communication-and-weather-forecasting",
+          "PH-affordable-only-to-the-very-rich",
+          "PH-release-significant-emissions",
+          "PH-carry-real-risks",
+          "PH-poverty-disease-and-climate-change",
+          "PH-diverted-from-more-useful-space-science",
+          "PH-a-poor-use-of-resources",
+          "PH-exaggerate-its-social-value",
+          "PH-an-entertainment-for-the-wealthy"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 420,
+      "qtype": "Discuss both views",
+      "question": "Some people prefer to travel by train while others prefer air travel. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:10:59.367Z",
+          "words": 282,
+          "text": "Travellers today can cross a continent by high-speed train or fly across an ocean in a few hours, and opinions differ on which is the better way to travel. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of train travel point to comfort, convenience and environmental benefits. Trains produce far fewer emissions per passenger, run from city centre to city centre and offer space, comfort and scenery. A traveller who takes a train between two capital cities four hours apart, for example, arrives in the centre, rested, without airport queues, security checks and long journeys to distant terminals. Passengers can work, read or sleep on board, and stations are often close to restaurants and hotels. For journeys up to about five hours, trains can be as quick as planes when travel to the airport and waiting time are included, and they are less affected by weather.\n\nOn the other hand, supporters of air travel emphasise speed and reach. Planes cut hours from long journeys and connect places that no railway could, such as islands and continents divided by oceans. For a trip of several thousand kilometres, flying is the only realistic option for most people, and low-cost airlines have made it cheaper than many train tickets. Business travellers who must attend a meeting overseas, for instance, cannot afford to spend two days on trains. However, flying causes pollution, noise and stress at airports, and flight delays are common.\n\nIn conclusion, both views have merit. Personally, I believe that trains are the better choice for short and medium distances, because they are cleaner and more pleasant, while planes remain necessary for long journeys across oceans.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7.5,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn rất mạch lạc, có tư duy lập luận tốt và ngôn ngữ tự nhiên, đạt mức điểm khá cao. Bạn chỉ cần chú ý tinh chỉnh một số lỗi nhỏ về dấu câu và sự thống nhất ngữ pháp để nâng cao hơn nữa chất lượng bài viết.",
+            "weaknesses": [
+              "Một số câu khá dài và chứa nhiều mệnh đề phụ, có thể gây khó đọc nhẹ nếu người chấm không tập trung.",
+              "Cách diễn đạt ở phần kết luận có thể được trau chuốt thêm để tạo ấn tượng mạnh mẽ hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận tốt cả hai quan điểm về việc đi tàu và đi máy bay, đồng thời đưa ra quan điểm cá nhân rõ ràng ở phần mở bài và kết bài. Các luận điểm được phát triển đầy đủ với các ví dụ cụ thể, đáp ứng tốt yêu cầu của dạng bài Discuss both views and give your opinion.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia thành 4 đoạn rõ ràng theo đúng chuẩn IELTS Writing Task 2. Các liên kết câu và chuyển ý giữa các đoạn được sử dụng tự nhiên, giúp người đọc dễ theo dõi mạch lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều từ ngữ và cụm từ liên quan đến chủ đề du lịch và giao thông như 'high-speed train', 'emissions', 'distant terminals', 'low-cost airlines'. Lỗi chính tả và dùng từ không đáng kể, các collocations tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu phức và câu ghép với độ chính xác cao. Ngữ pháp vững chắc, không có lỗi cấu trúc lớn nào ảnh hưởng đến việc truyền đạt ý nghĩa."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: đi tàu hoả hay máy bay",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu hai khả năng (tàu cao tốc băng qua lục địa / máy bay vượt đại dương trong vài giờ); mỗi thân bài một phía; ý kiến riêng theo khoảng cách.",
+            "refs": [
+              "FR-struct-both",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe tàu hoả",
+            "think": "Thoải mái, tiện, thân thiện môi trường: phát thải mỗi hành khách ít hơn nhiều, từ trung tâm đến trung tâm; ví dụ hành khách giữa hai thủ đô cách bốn giờ đến trung tâm, nghỉ ngơi, không xếp hàng sân bay; làm việc, đọc, ngủ; với chặng đến khoảng năm giờ tàu có thể nhanh ngang máy bay, ít bị thời tiết.",
+            "refs": [
+              "ID-trv-train-air",
+              "EX-trv-train-capital",
+              "ID-env-ev-health"
+            ]
+          },
+          {
+            "step": "3. Phe máy bay",
+            "think": "Tốc độ và tầm với: rút ngắn hàng giờ, nối nơi tàu không tới (đảo, lục địa cách đại dương); hãng giá rẻ rẻ hơn nhiều vé tàu; ví dụ doanh nhân họp ở nước ngoài không thể mất hai ngày. Giới hạn: ô nhiễm, ồn, căng thẳng sân bay, hoãn chuyến.",
+            "refs": [
+              "ID-trv-train-air",
+              "ID-env-other-priorities"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tàu cho chặng ngắn và vừa vì sạch và dễ chịu hơn; máy bay cần thiết cho chặng dài qua đại dương.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-train-air",
+          "EX-trv-train-capital",
+          "PH-cross-a-continent-by-high-speed-train",
+          "PH-fly-across-an-ocean-in-a-few-hours",
+          "PH-supporters-of-train-travel",
+          "PH-comfort-convenience-and-environmental-benefi",
+          "PH-far-fewer-emissions-per-passenger",
+          "PH-from-city-centre-to-city-centre",
+          "PH-space-comfort-and-scenery",
+          "PH-arrives-in-the-centre-rested",
+          "PH-airport-queues-security-checks",
+          "PH-distant-terminals",
+          "PH-work-read-or-sleep-on-board",
+          "PH-less-affected-by-weather",
+          "PH-speed-and-reach",
+          "PH-cut-hours-from-long-journeys",
+          "PH-islands-and-continents-divided-by-oceans",
+          "PH-the-only-realistic-option",
+          "PH-low-cost-airlines",
+          "PH-attend-a-meeting-overseas",
+          "PH-pollution-noise-and-stress-at-airports",
+          "PH-short-and-medium-distances"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 425,
+      "qtype": "Opinion",
+      "question": "Discuss the role of arts festivals in promoting tourism.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:11:03.348Z",
+          "words": 290,
+          "text": "Cities such as Edinburgh, Avignon and Salzburg are known worldwide for their arts festivals, and music, theatre and visual arts events have become a significant part of the tourism industry. This essay will outline two key roles that arts festivals play in promoting tourism: attracting visitors and spending, and building a lasting reputation for a place.\n\nFirst and foremost, arts festivals give visitors a clear reason to travel and to spend money. A well-known music, theatre or arts festival attracts people from other regions and countries, often outside the main holiday season, and fills hotels, restaurants and shops. A lantern festival held in the quiet winter months, for example, can fill hotels that would otherwise be empty, and the same is true of a jazz weekend or a film festival. Visitors usually stay several days and spend on transport, meals and gifts, and the festival creates jobs for performers, technicians, guides and hospitality staff. Local artists also gain an audience and income that they might not find otherwise.\n\nIn addition, arts festivals build a lasting reputation. A town that becomes famous for a distinctive celebration is remembered as lively, creative and welcoming, and the publicity from newspapers, television and social media spreads its name at little cost. Many visitors return in other seasons to explore more of the area, and the festival's fame can attract investment and new residents. However, the effect depends on quality and planning. Poorly organised events may disappoint visitors, and crowds can upset residents, so authorities should plan transport, safety and cleaning carefully and combine the festival with year-round attractions.\n\nTo sum up, arts festivals promote tourism by drawing visitors and spending and by creating a lasting reputation. For these reasons, they deserve continued public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn rất xuất sắc, đạt chất lượng cao về cả bố cục, ngữ pháp lẫn từ vựng. Ý tưởng mạch lạc và bám sát đề bài, chỉ cần tinh chỉnh một số từ vựng để đạt mức điểm hoàn hảo hơn.",
+            "weaknesses": [
+              "Một số từ vựng lặp lại ở mức độ cơ bản (ví dụ: spend money, visitors).",
+              "Phần ví dụ đôi khi còn hơi dài dòng, có thể cô đọng hơn để tăng tính súc tích."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài, thảo luận rõ ràng vai trò của lễ hội nghệ thuật trong việc thúc đẩy du lịch. Các luận điểm được phát triển logic, có ví dụ minh họa cụ thể và đưa ra quan điểm xuyên suốt.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng theo đúng chuẩn bài luận IELTS. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi dòng suy nghĩ.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều từ và cụm từ liên quan đến chủ đề du lịch và nghệ thuật. Tuy nhiên, một số cụm từ còn khá phổ biến, có thể nâng cấp thêm các collocation nâng cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Hầu như không có lỗi ngữ pháp, câu văn trôi chảy và mang tính hàn lâm cao."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của lễ hội nghệ thuật trong thúc đẩy du lịch",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài nêu ví dụ thành phố nổi tiếng với lễ hội nghệ thuật (Edinburgh, Avignon, Salzburg); báo hai vai trò: thu hút du khách và chi tiêu; xây dựng danh tiếng lâu dài. Khác đề 190 ở chỗ tập trung nghệ thuật (âm nhạc, sân khấu, mỹ thuật).",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Vai trò 1 — du khách và chi tiêu",
+            "think": "Lễ hội nghệ thuật nổi tiếng thu hút người từ vùng và nước khác, thường ngoài mùa cao điểm; ví dụ lễ hội đèn lồng mùa đông lấp đầy khách sạn trống; cuối tuần nhạc jazz, liên hoan phim; việc làm cho nghệ sĩ, kỹ thuật viên, hướng dẫn viên; nghệ sĩ địa phương có khán giả.",
+            "refs": [
+              "ID-trv-festival",
+              "EX-trv-lantern-festival"
+            ]
+          },
+          {
+            "step": "3. Vai trò 2 — danh tiếng + giới hạn",
+            "think": "Thị trấn nổi tiếng vì lễ hội đặc sắc được nhớ là sôi động, sáng tạo, hiếu khách; truyền thông lan toả tên; khách quay lại; thu hút đầu tư. Giới hạn: phụ thuộc chất lượng và quy hoạch; tổ chức kém làm thất vọng; đông đúc phiền cư dân; kết hợp điểm tham quan quanh năm.",
+            "refs": [
+              "ID-trv-festival",
+              "ID-trv-limits",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai vai trò; cụm 'deserve continued public support'.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-arts-festivals",
+          "PH-known-worldwide",
+          "PH-a-significant-part-of-the-tourism-industry",
+          "PH-promoting-tourism",
+          "PH-attracting-visitors-and-spending",
+          "PH-building-a-lasting-reputation",
+          "PH-a-jazz-weekend-or-a-film-festival",
+          "PH-performers-technicians-guides-and-hospitalit",
+          "PH-gain-an-audience-and-income",
+          "PH-lively-creative-and-welcoming",
+          "PH-publicity-from-newspapers-television-and-soc",
+          "PH-spreads-its-name-at-little-cost",
+          "PH-return-in-other-seasons",
+          "PH-attract-investment-and-new-residents",
+          "PH-quality-and-planning",
+          "PH-disappoint-visitors",
+          "PH-upset-residents",
+          "PH-plan-transport-safety-and-cleaning",
+          "PH-continued-public-support"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 461,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Do the advantages of mass tourism outweigh environmental damage? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:11:04.191Z",
+          "words": 286,
+          "text": "Package holidays, cruise ships and budget flights have made travel possible for millions of people, and mass tourism now affects beaches, mountains and old cities worldwide. This essay will discuss the advantages and the environmental damage before explaining whether the advantages outweigh the damage.\n\nOn the positive side, mass tourism creates income for millions of people. Hotels, restaurants, transport companies and shops depend on large numbers of visitors, and whole regions would be poor without them. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours. Taxes from tourism pay for roads, airports and public services that residents also use, and falling prices have allowed ordinary families, not just the rich, to see the world and learn about other cultures. For many developing countries, tourism is one of the few industries that can bring rapid growth.\n\nOn the negative side, however, mass tourism can harm the environment on a large scale. Crowds produce litter, emissions and heavy water use, and coastlines and wildlife suffer. A resort built directly on a beach, for example, can damage dunes and turtle nests while employing hundreds of local people. Flights add to climate change, and popular sites can be worn down by too many feet. Nevertheless, much of this damage can be reduced. Limits on visitor numbers, strict building rules, better waste treatment and fees for the use of sensitive sites can protect the environment while keeping the income. Without such controls, the damage may eventually destroy the attractions that tourism depends on.\n\nIn conclusion, the advantages of mass tourism outweigh the environmental damage only when numbers and building are carefully controlled, and governments must ensure that this is done.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có bố cục tốt, lập luận chặt chẽ và từ vựng phong phú về chủ đề du lịch đại chúng. Tuy nhiên, để đạt band điểm cao hơn, học viên cần tinh chỉnh một số cấu trúc câu và phát triển lập luận sắc bén hơn về mặt phản biện.",
+            "weaknesses": [
+              "Một số ý kiến phản biện về việc quản lý môi trường chưa được phân tích sâu sắc.",
+              "Thiếu các cấu trúc ngữ pháp nâng cao như mệnh đề phân từ rút gọn hoặc đảo ngữ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời trực tiếp câu hỏi của đề bài bằng cách phân tích cả lợi ích và tác hại môi trường, đồng thời đưa ra quan điểm rõ ràng ở phần mở bài và kết luận. Các ý được phát triển tương đối tốt với ví dụ cụ thể, tuy nhiên phần thảo luận về việc lợi ích vượt trội hơn tác hại chưa được đào sâu thêm các giải pháp thay thế.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng, tuân theo cấu trúc 4 đoạn chuẩn mực của IELTS Writing Task 2. Các liên kết câu và chuyển ý giữa các đoạn mượt mà, giúp người đọc dễ theo dõi lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng tốt các cụm từ chủ đề liên quan đến du lịch đại chúng và môi trường như 'mass tourism', 'package holidays', 'heavy water use', 'waste treatment'. Tuy nhiên, một số cụm từ còn khá phổ biến và chưa có nhiều từ vựng học thuật nâng cao ở mức band 8+.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp tốt giữa câu đơn, câu ghép và câu phức. Các lỗi ngữ pháp rất ít, nhìn chung câu văn trôi chảy và chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "A/D: lợi thế của du lịch đại trà có lớn hơn thiệt hại môi trường không — chỉ khi được kiểm soát",
+        "plan": [
+          {
+            "step": "1. Khung A/D có phán quyết",
+            "think": "Phán quyết có điều kiện: lợi thế lớn hơn chỉ khi kiểm soát số lượng và xây dựng. Thân bài 2 dùng Nevertheless để đề xuất giải pháp.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm",
+            "think": "Thu nhập cho hàng triệu người; khách sạn, nhà hàng, vận tải, cửa hàng phụ thuộc đông khách; thuế trả đường, sân bay, dịch vụ công; giá giảm cho phép người bình thường đi du lịch và hiểu văn hoá khác; ngành tăng trưởng nhanh ở nước đang phát triển. Ví dụ gia đình mở nhà nghỉ nhỏ.",
+            "refs": [
+              "ID-trv-mass",
+              "ID-trv-benefits",
+              "EX-trv-guesthouse"
+            ]
+          },
+          {
+            "step": "3. Thiệt hại + phản bác",
+            "think": "Đám đông gây rác, khí thải, dùng nhiều nước; bờ biển và động vật chịu thiệt; chuyến bay thêm biến đổi khí hậu. Ví dụ khu nghỉ dưỡng xây trực tiếp trên bãi biển phá đụn cát và tổ rùa nhưng thuê hàng trăm người địa phương. Nevertheless: giới hạn khách, quy định xây dựng, xử lý rác, phí cho khu vực nhạy cảm.",
+            "refs": [
+              "ID-trv-mass",
+              "EX-trv-beach-resort",
+              "ID-trv-responsible"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Lợi thế lớn hơn chỉ khi được kiểm soát; chính phủ phải đảm bảo.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-trv-mass",
+          "EX-trv-beach-resort",
+          "PH-package-holidays-cruise-ships-and-budget-fli",
+          "PH-mass-tourism",
+          "PH-outweigh-the-damage",
+          "PH-creates-income-for-millions-of-people",
+          "PH-depend-on-large-numbers-of-visitors",
+          "PH-whole-regions-would-be-poor-without-them",
+          "PH-pay-for-roads-airports-and-public-services",
+          "PH-falling-prices",
+          "PH-ordinary-families-not-just-the-rich",
+          "PH-learn-about-other-cultures",
+          "PH-rapid-growth",
+          "PH-harm-the-environment-on-a-large-scale",
+          "PH-litter-emissions-and-heavy-water-use",
+          "PH-coastlines-and-wildlife-suffer",
+          "PH-damage-dunes-and-turtle-nests",
+          "PH-worn-down-by-too-many-feet",
+          "PH-fees-for-the-use-of-sensitive-sites",
+          "PH-destroy-the-attractions-that-tourism-depends",
+          "PH-carefully-controlled"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    }
+  ]
+}

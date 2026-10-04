@@ -1,0 +1,126 @@
+{
+  "questionId": 425,
+  "text": "Cities such as Edinburgh, Avignon and Salzburg are known worldwide for their arts festivals, and music, theatre and visual arts events have become a significant part of the tourism industry. This essay will outline two key roles that arts festivals play in promoting tourism: attracting visitors and spending, and building a lasting reputation for a place.\n\nFirst and foremost, arts festivals give visitors a clear reason to travel and to spend money. A well-known music, theatre or arts festival attracts people from other regions and countries, often outside the main holiday season, and fills hotels, restaurants and shops. A lantern festival held in the quiet winter months, for example, can fill hotels that would otherwise be empty, and the same is true of a jazz weekend or a film festival. Visitors usually stay several days and spend on transport, meals and gifts, and the festival creates jobs for performers, technicians, guides and hospitality staff. Local artists also gain an audience and income that they might not find otherwise.\n\nIn addition, arts festivals build a lasting reputation. A town that becomes famous for a distinctive celebration is remembered as lively, creative and welcoming, and the publicity from newspapers, television and social media spreads its name at little cost. Many visitors return in other seasons to explore more of the area, and the festival's fame can attract investment and new residents. However, the effect depends on quality and planning. Poorly organised events may disappoint visitors, and crowds can upset residents, so authorities should plan transport, safety and cleaning carefully and combine the festival with year-round attractions.\n\nTo sum up, arts festivals promote tourism by drawing visitors and spending and by creating a lasting reputation. For these reasons, they deserve continued public support.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của lễ hội nghệ thuật trong thúc đẩy du lịch",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu ví dụ thành phố nổi tiếng với lễ hội nghệ thuật (Edinburgh, Avignon, Salzburg); báo hai vai trò: thu hút du khách và chi tiêu; xây dựng danh tiếng lâu dài. Khác đề 190 ở chỗ tập trung nghệ thuật (âm nhạc, sân khấu, mỹ thuật).",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — du khách và chi tiêu",
+        "think": "Lễ hội nghệ thuật nổi tiếng thu hút người từ vùng và nước khác, thường ngoài mùa cao điểm; ví dụ lễ hội đèn lồng mùa đông lấp đầy khách sạn trống; cuối tuần nhạc jazz, liên hoan phim; việc làm cho nghệ sĩ, kỹ thuật viên, hướng dẫn viên; nghệ sĩ địa phương có khán giả.",
+        "refs": [
+          "ID-trv-festival",
+          "EX-trv-lantern-festival"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — danh tiếng + giới hạn",
+        "think": "Thị trấn nổi tiếng vì lễ hội đặc sắc được nhớ là sôi động, sáng tạo, hiếu khách; truyền thông lan toả tên; khách quay lại; thu hút đầu tư. Giới hạn: phụ thuộc chất lượng và quy hoạch; tổ chức kém làm thất vọng; đông đúc phiền cư dân; kết hợp điểm tham quan quanh năm.",
+        "refs": [
+          "ID-trv-festival",
+          "ID-trv-limits",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai vai trò; cụm 'deserve continued public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "arts festivals",
+      "lễ hội nghệ thuật"
+    ],
+    [
+      "known worldwide",
+      "nổi tiếng toàn thế giới"
+    ],
+    [
+      "a significant part of the tourism industry",
+      "một phần đáng kể của ngành du lịch"
+    ],
+    [
+      "promoting tourism",
+      "thúc đẩy du lịch"
+    ],
+    [
+      "attracting visitors and spending",
+      "thu hút du khách và chi tiêu"
+    ],
+    [
+      "building a lasting reputation",
+      "xây dựng danh tiếng lâu dài"
+    ],
+    [
+      "a jazz weekend or a film festival",
+      "cuối tuần nhạc jazz hoặc liên hoan phim"
+    ],
+    [
+      "stay several days",
+      "ở lại nhiều ngày"
+    ],
+    [
+      "performers, technicians, guides and hospitality staff",
+      "nghệ sĩ, kỹ thuật viên, hướng dẫn viên và nhân viên khách sạn nhà hàng"
+    ],
+    [
+      "gain an audience and income",
+      "có khán giả và thu nhập"
+    ],
+    [
+      "lively, creative and welcoming",
+      "sôi động, sáng tạo và hiếu khách"
+    ],
+    [
+      "publicity from newspapers, television and social media",
+      "quảng bá từ báo, truyền hình và mạng xã hội"
+    ],
+    [
+      "spreads its name at little cost",
+      "lan truyền tên tuổi với chi phí thấp"
+    ],
+    [
+      "return in other seasons",
+      "quay lại vào các mùa khác"
+    ],
+    [
+      "attract investment and new residents",
+      "thu hút đầu tư và cư dân mới"
+    ],
+    [
+      "quality and planning",
+      "chất lượng và kế hoạch"
+    ],
+    [
+      "disappoint visitors",
+      "làm du khách thất vọng"
+    ],
+    [
+      "upset residents",
+      "làm cư dân khó chịu"
+    ],
+    [
+      "plan transport, safety and cleaning",
+      "lên kế hoạch giao thông, an ninh và vệ sinh"
+    ],
+    [
+      "continued public support",
+      "hỗ trợ công liên tục"
+    ]
+  ]
+}

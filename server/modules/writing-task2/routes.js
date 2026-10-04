@@ -2,7 +2,7 @@ import { Router } from 'express';
 import { getQuestions, getQuestion } from './questionBank.js';
 import { getEssay, listSummaries, saveDraft, appendGrading, deleteEssay, summarize, countWords } from './essayStore.js';
 import { gradeEssay } from './grader.js';
-import { getLibrary, setProgress } from './library.js';
+import { getLibrary, setProgress, LIBRARY_TOPICS } from './library.js';
 
 const router = Router();
 const MAX_BODY_CHARS = 20000;
@@ -27,7 +27,7 @@ async function requireQuestion(req, res) {
   return question;
 }
 
-router.get('/library/:topic(education|environment|health)', async (req, res, next) => {
+router.get('/library/:topic(' + LIBRARY_TOPICS.join('|') + ')', async (req, res, next) => {
   try {
     res.json(await getLibrary(req.params.topic));
   } catch (err) {

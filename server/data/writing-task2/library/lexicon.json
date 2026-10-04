@@ -54517,6 +54517,2903 @@
       "text": "welcome all abilities",
       "meaning_vi": "chào đón mọi khả năng",
       "from": 385
+    },
+    {
+      "id": "ID-trv-benefits",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "economy"
+      ],
+      "tags": [
+        "tourism",
+        "benefits"
+      ],
+      "stance": "pro",
+      "label_vi": "Du lịch mang lại thu nhập, việc làm, ngoại tệ, hạ tầng và niềm tự hào văn hoá",
+      "claim": "Tourism brings income, jobs and foreign currency to the host country.",
+      "because": "Visitors spend money on hotels, food, transport and souvenirs, which supports many small businesses, and the roads, airports and services built for tourists also benefit residents.",
+      "result": "Local people gain pride in their culture and history.",
+      "example_ids": [
+        "EX-trv-guesthouse"
+      ],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Extent"
+      ],
+      "reuse_vi": "Đề lợi ích của du lịch."
+    },
+    {
+      "id": "ID-trv-limits",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "economy",
+        "environment"
+      ],
+      "tags": [
+        "tourism",
+        "drawbacks"
+      ],
+      "stance": "con",
+      "label_vi": "Hạn chế: theo mùa, phụ thuộc, quá tải, thương mại hoá văn hoá, hư hại môi trường, lợi nhuận chảy ra ngoài",
+      "claim": "Dependence on tourism makes an economy fragile and can damage the places visitors come to enjoy.",
+      "because": "Income rises and falls with the seasons and with events such as disease or recession, crowds strain water and roads, and much of the profit may go to foreign companies.",
+      "result": "A balanced economy is safer than reliance on one industry.",
+      "example_ids": [
+        "EX-trv-island-crash"
+      ],
+      "fits": [
+        "Advantages / Disadvantages",
+        "Extent"
+      ],
+      "reuse_vi": "Mặt trái của du lịch, phụ thuộc một ngành."
+    },
+    {
+      "id": "ID-trv-rural",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "society",
+        "economy"
+      ],
+      "tags": [
+        "tourism",
+        "rural"
+      ],
+      "stance": "pro",
+      "label_vi": "Du lịch nông thôn: việc làm, thu nhập, giữ người trẻ ở lại, bảo tồn nghề thủ công; nhưng việc làm theo mùa lương thấp, giá tăng, ồn, mất lối sống truyền thống",
+      "claim": "Tourism can give rural communities a new source of income.",
+      "because": "Farm stays, guided walks and craft sales create jobs where few exist and encourage young people to stay, but the work is often seasonal and low-paid, prices for locals may rise, and outside investors may take the profits.",
+      "result": "Benefits are greatest when the community owns and controls the businesses.",
+      "example_ids": [
+        "EX-trv-farm-stay"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề du lịch nông thôn."
+    },
+    {
+      "id": "ID-trv-festival",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "arts",
+        "economy"
+      ],
+      "tags": [
+        "festival",
+        "tourism"
+      ],
+      "stance": "pro",
+      "label_vi": "Lễ hội thu hút du khách ngoài mùa cao điểm, tạo chi tiêu, quảng bá hình ảnh; nhưng tạm thời, đông đúc, phụ thuộc tổ chức",
+      "claim": "Festivals give visitors a clear reason to travel and to spend money.",
+      "because": "A well-known music, food or cultural festival attracts people from other regions and countries, often outside the main holiday season, and fills hotels, restaurants and shops.",
+      "result": "The area also gains publicity, although the effect lasts only as long as the festival is successful.",
+      "example_ids": [
+        "EX-trv-lantern-festival"
+      ],
+      "fits": [
+        "Extent",
+        "Opinion"
+      ],
+      "reuse_vi": "Đề lễ hội và du lịch."
+    },
+    {
+      "id": "ID-trv-fragile",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "environment"
+      ],
+      "tags": [
+        "ecotourism",
+        "ecosystem"
+      ],
+      "stance": "caveat",
+      "label_vi": "Du lịch ở hệ sinh thái mong manh: nguồn quỹ bảo tồn, nâng nhận thức, việc làm giảm săn trộm; nhưng giẫm đạp, rác, quấy rầy động vật, loài ngoại lai",
+      "claim": "Tourism in fragile ecosystems can fund their protection but also damage them.",
+      "because": "Entrance fees and local jobs give people a reason to protect wildlife, yet trampling, litter, noise and introduced species can harm habitats that recover slowly.",
+      "result": "Strict limits on visitor numbers and behaviour are essential.",
+      "example_ids": [
+        "EX-trv-reef-visitors"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề du lịch ở hệ sinh thái mong manh."
+    },
+    {
+      "id": "ID-trv-solo",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "society"
+      ],
+      "tags": [
+        "solo-travel"
+      ],
+      "stance": "pro",
+      "label_vi": "Du lịch một mình: tự do, linh hoạt, gặp người bản địa, trưởng thành; chi phí cao hơn, an toàn, cô đơn",
+      "claim": "Solo travel offers freedom, flexibility and personal growth.",
+      "because": "Travellers choose their own route and pace, meet local people more easily and learn to solve problems alone, although costs, safety and loneliness need attention.",
+      "result": "Many return more confident and independent.",
+      "example_ids": [
+        "EX-trv-solo-rail"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề du lịch một mình vs tour đoàn."
+    },
+    {
+      "id": "ID-trv-group",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "society"
+      ],
+      "tags": [
+        "group-tour"
+      ],
+      "stance": "pro",
+      "label_vi": "Tour đoàn: an toàn, tiện, chia chi phí, hướng dẫn viên giỏi, bạn mới; lịch trình cứng nhắc, ít thật",
+      "claim": "Group tours are convenient, safe and good value.",
+      "because": "Transport, hotels and guides are organised in advance, costs are shared and a knowledgeable guide explains the history of each place, although the schedule is fixed and contact with local life may be limited.",
+      "result": "They suit first-time travellers and those short of time.",
+      "example_ids": [
+        "EX-trv-group-guide"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề tour đoàn."
+    },
+    {
+      "id": "ID-trv-responsible",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "environment",
+        "government"
+      ],
+      "tags": [
+        "responsible-tourism",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp du lịch có trách nhiệm: hạn chế lượng khách, phí môi trường, hỗ trợ doanh nghiệp địa phương, quy định rác và nước, giáo dục du khách, chứng nhận lưu trú xanh",
+      "claim": "Governments should limit the impact of visitors and keep the benefits local.",
+      "because": "Visitor caps and environmental fees protect popular sites, rules on waste and water reduce pollution, and certification and loans for local businesses keep more income in the community.",
+      "result": "Tourism can continue to grow without destroying what visitors come to see.",
+      "example_ids": [
+        "EX-trv-permit-limit"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề du lịch có trách nhiệm."
+    },
+    {
+      "id": "ID-trv-space",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "technology"
+      ],
+      "tags": [
+        "space"
+      ],
+      "stance": "caveat",
+      "label_vi": "Du lịch vũ trụ: thúc đẩy công nghệ, truyền cảm hứng; nhưng chỉ người giàu, phát thải, rủi ro, tiền nên dùng cho vấn đề trên Trái Đất",
+      "claim": "Space tourism may drive new technology, but its benefits to humanity are uncertain.",
+      "because": "Competition between companies can lower the cost of rockets and inspire young people to study science, yet flights are affordable only to the very rich, release significant emissions and carry real risks.",
+      "result": "Public money is better spent on problems on Earth.",
+      "example_ids": [],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề du lịch vũ trụ."
+    },
+    {
+      "id": "ID-trv-train-air",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "environment",
+        "transport"
+      ],
+      "tags": [
+        "train",
+        "air"
+      ],
+      "stance": "caveat",
+      "label_vi": "Tàu hoả: ít phát thải, từ trung tâm đến trung tâm, thoải mái, cảnh đẹp; chậm, đắt, ít tuyến. Máy bay: nhanh, đường dài; phát thải, thủ tục sân bay",
+      "claim": "Trains suit short and medium journeys, while planes suit long distances.",
+      "because": "Trains produce far fewer emissions per passenger, run from city centre to city centre and offer comfort and scenery, whereas planes cut hours from long journeys but add airport queues and pollution.",
+      "result": "The best choice depends on distance, price and time.",
+      "example_ids": [
+        "EX-trv-train-capital"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề tàu vs máy bay."
+    },
+    {
+      "id": "ID-trv-mass",
+      "type": "idea",
+      "topics": [
+        "travel",
+        "environment",
+        "economy"
+      ],
+      "tags": [
+        "mass-tourism"
+      ],
+      "stance": "caveat",
+      "label_vi": "Du lịch đại trà: thu nhập và việc làm lớn; nhưng rác, khí thải, dùng nước, phá môi trường sống; chỉ lợi hơn khi được quản lý",
+      "claim": "Mass tourism creates income for millions but can harm the environment on a large scale.",
+      "because": "Crowds produce litter, emissions and heavy water use, and coastlines and wildlife suffer, yet whole regions depend on the jobs that visitors provide.",
+      "result": "Benefits outweigh the damage only when numbers and building are controlled.",
+      "example_ids": [
+        "EX-trv-beach-resort"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề du lịch đại trà."
+    },
+    {
+      "id": "EX-trv-guesthouse",
+      "type": "example",
+      "topics": [
+        "travel",
+        "economy"
+      ],
+      "text": "A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-island-crash",
+      "type": "example",
+      "topics": [
+        "travel",
+        "economy"
+      ],
+      "text": "A small island that relies on tourism, for instance, can lose most of its income in a single year if flights are cancelled.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-farm-stay",
+      "type": "example",
+      "topics": [
+        "travel",
+        "society"
+      ],
+      "text": "A village that offers farm stays, for example, can keep young people from leaving to find work in cities.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-lantern-festival",
+      "type": "example",
+      "topics": [
+        "travel",
+        "arts"
+      ],
+      "text": "A lantern festival held in the quiet winter months, for example, can fill hotels that would otherwise be empty.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-reef-visitors",
+      "type": "example",
+      "topics": [
+        "travel",
+        "environment"
+      ],
+      "text": "Divers who touch a coral reef, for example, can destroy in a moment what took decades to grow.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-solo-rail",
+      "type": "example",
+      "topics": [
+        "travel"
+      ],
+      "text": "A solo traveller who changes plans to follow a local's recommendation, for example, may discover a village that no tour would visit.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-group-guide",
+      "type": "example",
+      "topics": [
+        "travel"
+      ],
+      "text": "A group visiting an ancient temple with a trained guide, for example, learns far more than someone reading a brief sign.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-permit-limit",
+      "type": "example",
+      "topics": [
+        "travel",
+        "environment"
+      ],
+      "text": "A famous trail that issues only a fixed number of daily permits, for example, stays in good condition while still welcoming visitors.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-train-capital",
+      "type": "example",
+      "topics": [
+        "travel",
+        "transport"
+      ],
+      "text": "A traveller who takes a train between two capital cities four hours apart, for example, arrives in the centre, rested, without airport queues.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-trv-beach-resort",
+      "type": "example",
+      "topics": [
+        "travel",
+        "environment"
+      ],
+      "text": "A resort built directly on a beach, for example, can damage dunes and turtle nests while employing hundreds of local people.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "PH-one-of-the-world-s-largest-industries",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "one of the world's largest industries",
+      "meaning_vi": "một trong những ngành lớn nhất thế giới",
+      "from": 17
+    },
+    {
+      "id": "PH-attract-more-visitors",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attract more visitors",
+      "meaning_vi": "thu hút thêm du khách",
+      "from": 17
+    },
+    {
+      "id": "PH-economic-gains",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "economic gains",
+      "meaning_vi": "lợi ích kinh tế",
+      "from": 17
+    },
+    {
+      "id": "PH-a-stronger-sense-of-cultural-pride",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a stronger sense of cultural pride",
+      "meaning_vi": "ý thức tự hào văn hoá mạnh hơn",
+      "from": 17
+    },
+    {
+      "id": "PH-income-jobs-and-foreign-currency",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "income, jobs and foreign currency",
+      "meaning_vi": "thu nhập, việc làm và ngoại tệ",
+      "from": 17
+    },
+    {
+      "id": "PH-the-host-country",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the host country",
+      "meaning_vi": "nước chủ nhà",
+      "from": 17
+    },
+    {
+      "id": "PH-hotels-food-transport-and-souvenirs",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hotels, food, transport and souvenirs",
+      "meaning_vi": "khách sạn, thức ăn, đi lại và quà lưu niệm",
+      "from": 17
+    },
+    {
+      "id": "PH-supports-many-small-businesses",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supports many small businesses",
+      "meaning_vi": "hỗ trợ nhiều doanh nghiệp nhỏ",
+      "from": 17
+    },
+    {
+      "id": "PH-opens-a-small-guesthouse",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "opens a small guesthouse",
+      "meaning_vi": "mở một nhà nghỉ nhỏ",
+      "from": 17
+    },
+    {
+      "id": "PH-earns-a-living",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "earns a living",
+      "meaning_vi": "kiếm sống",
+      "from": 17
+    },
+    {
+      "id": "PH-spreads-through-the-community",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spreads through the community",
+      "meaning_vi": "lan toả trong cộng đồng",
+      "from": 17
+    },
+    {
+      "id": "PH-a-wide-range-of-skills",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a wide range of skills",
+      "meaning_vi": "nhiều loại kỹ năng",
+      "from": 17
+    },
+    {
+      "id": "PH-reach-regions-where-other-industries-are-wea",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reach regions where other industries are weak",
+      "meaning_vi": "đến những vùng mà ngành khác yếu",
+      "from": 17
+    },
+    {
+      "id": "PH-local-traditions-music-food-and-history",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "local traditions, music, food and history",
+      "meaning_vi": "truyền thống, âm nhạc, ẩm thực và lịch sử địa phương",
+      "from": 17
+    },
+    {
+      "id": "PH-a-reason-to-preserve-them",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a reason to preserve them",
+      "meaning_vi": "lý do để gìn giữ chúng",
+      "from": 17
+    },
+    {
+      "id": "PH-crafts-that-might-have-disappeared",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "crafts that might have disappeared",
+      "meaning_vi": "nghề thủ công có thể đã biến mất",
+      "from": 17
+    },
+    {
+      "id": "PH-broadens-horizons",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "broadens horizons",
+      "meaning_vi": "mở rộng tầm nhìn",
+      "from": 17
+    },
+    {
+      "id": "PH-entrance-fees",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "entrance fees",
+      "meaning_vi": "phí vào cửa",
+      "from": 17
+    },
+    {
+      "id": "PH-millions-of-visitors-every-year",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "millions of visitors every year",
+      "meaning_vi": "hàng triệu du khách mỗi năm",
+      "from": 30
+    },
+    {
+      "id": "PH-the-main-reason-for-economic-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the main reason for economic growth",
+      "meaning_vi": "nguyên nhân chính của tăng trưởng kinh tế",
+      "from": 30
+    },
+    {
+      "id": "PH-to-a-large-extent",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "to a large extent",
+      "meaning_vi": "ở mức độ lớn",
+      "from": 30
+    },
+    {
+      "id": "PH-cannot-explain-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot explain growth",
+      "meaning_vi": "không giải thích được tăng trưởng",
+      "from": 30
+    },
+    {
+      "id": "PH-industry-services-and-technology",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "industry, services and technology",
+      "meaning_vi": "công nghiệp, dịch vụ và công nghệ",
+      "from": 30
+    },
+    {
+      "id": "PH-small-islands-with-few-other-resources",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "small islands with few other resources",
+      "meaning_vi": "đảo nhỏ ít tài nguyên khác",
+      "from": 30
+    },
+    {
+      "id": "PH-the-largest-source-of-income",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the largest source of income",
+      "meaning_vi": "nguồn thu lớn nhất",
+      "from": 30
+    },
+    {
+      "id": "PH-a-central-part-of-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a central part of growth",
+      "meaning_vi": "phần trung tâm của tăng trưởng",
+      "from": 30
+    },
+    {
+      "id": "PH-its-loss-would-be-severe",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "its loss would be severe",
+      "meaning_vi": "mất nó sẽ rất nghiêm trọng",
+      "from": 30
+    },
+    {
+      "id": "PH-the-main-driver-of-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the main driver of growth",
+      "meaning_vi": "động lực chính của tăng trưởng",
+      "from": 30
+    },
+    {
+      "id": "PH-manufacturing-trade-education-and-technology",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "manufacturing, trade, education and technology",
+      "meaning_vi": "sản xuất, thương mại, giáo dục và công nghệ",
+      "from": 30
+    },
+    {
+      "id": "PH-makes-an-economy-fragile",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "makes an economy fragile",
+      "meaning_vi": "làm nền kinh tế mong manh",
+      "from": 30
+    },
+    {
+      "id": "PH-rises-and-falls-with-the-seasons",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rises and falls with the seasons",
+      "meaning_vi": "tăng giảm theo mùa",
+      "from": 30
+    },
+    {
+      "id": "PH-disease-or-recession",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "disease or recession",
+      "meaning_vi": "dịch bệnh hoặc suy thoái",
+      "from": 30
+    },
+    {
+      "id": "PH-crowds-strain-water-and-roads",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "crowds strain water and roads",
+      "meaning_vi": "đám đông gây áp lực lên nước và đường",
+      "from": 30
+    },
+    {
+      "id": "PH-foreign-hotel-chains",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "foreign hotel chains",
+      "meaning_vi": "chuỗi khách sạn nước ngoài",
+      "from": 30
+    },
+    {
+      "id": "PH-cancelled",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cancelled",
+      "meaning_vi": "bị huỷ",
+      "from": 30
+    },
+    {
+      "id": "PH-seasonal-and-low-paid",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "seasonal and low-paid",
+      "meaning_vi": "theo mùa và lương thấp",
+      "from": 30
+    },
+    {
+      "id": "PH-a-balanced-economy",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a balanced economy",
+      "meaning_vi": "nền kinh tế cân bằng",
+      "from": 30
+    },
+    {
+      "id": "PH-more-stable-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more stable growth",
+      "meaning_vi": "tăng trưởng ổn định hơn",
+      "from": 30
+    },
+    {
+      "id": "PH-villages-and-small-towns-in-the-countryside",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "villages and small towns in the countryside",
+      "meaning_vi": "làng và thị trấn nhỏ ở nông thôn",
+      "from": 128
+    },
+    {
+      "id": "PH-turning-to-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "turning to tourism",
+      "meaning_vi": "chuyển sang du lịch",
+      "from": 128
+    },
+    {
+      "id": "PH-farming-and-traditional-industries-decline",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "farming and traditional industries decline",
+      "meaning_vi": "nông nghiệp và ngành truyền thống suy giảm",
+      "from": 128
+    },
+    {
+      "id": "PH-rural-communities",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rural communities",
+      "meaning_vi": "cộng đồng nông thôn",
+      "from": 128
+    },
+    {
+      "id": "PH-a-new-source-of-income",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a new source of income",
+      "meaning_vi": "nguồn thu nhập mới",
+      "from": 128
+    },
+    {
+      "id": "PH-farm-stays-guided-walks-and-craft-sales",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Farm stays, guided walks and craft sales",
+      "meaning_vi": "lưu trú nông trại, đi bộ có hướng dẫn và bán hàng thủ công",
+      "from": 128
+    },
+    {
+      "id": "PH-create-jobs-where-few-exist",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "create jobs where few exist",
+      "meaning_vi": "tạo việc làm ở nơi ít việc",
+      "from": 128
+    },
+    {
+      "id": "PH-encourage-young-people-to-stay",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encourage young people to stay",
+      "meaning_vi": "khuyến khích người trẻ ở lại",
+      "from": 128
+    },
+    {
+      "id": "PH-slows-the-decline-of-villages",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "slows the decline of villages",
+      "meaning_vi": "làm chậm sự suy tàn của làng quê",
+      "from": 128
+    },
+    {
+      "id": "PH-keep-young-people-from-leaving",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep young people from leaving",
+      "meaning_vi": "giữ người trẻ khỏi rời đi",
+      "from": 128
+    },
+    {
+      "id": "PH-traditional-skills-and-products-gain-a-marke",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "traditional skills and products gain a market",
+      "meaning_vi": "kỹ năng và sản phẩm truyền thống có thị trường",
+      "from": 128
+    },
+    {
+      "id": "PH-stay-there-if-owners-are-local",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stay there if owners are local",
+      "meaning_vi": "ở lại đó nếu chủ sở hữu là người địa phương",
+      "from": 128
+    },
+    {
+      "id": "PH-prices-for-housing-and-food-may-rise",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "prices for housing and food may rise",
+      "meaning_vi": "giá nhà ở và thực phẩm có thể tăng",
+      "from": 128
+    },
+    {
+      "id": "PH-outside-investors-may-take-the-profits",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "outside investors may take the profits",
+      "meaning_vi": "nhà đầu tư bên ngoài có thể lấy lợi nhuận",
+      "from": 128
+    },
+    {
+      "id": "PH-crowds-traffic-and-noise",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Crowds, traffic and noise",
+      "meaning_vi": "đám đông, giao thông và tiếng ồn",
+      "from": 128
+    },
+    {
+      "id": "PH-peaceful-character",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "peaceful character",
+      "meaning_vi": "đặc trưng yên bình",
+      "from": 128
+    },
+    {
+      "id": "PH-a-show-for-tourists",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a show for tourists",
+      "meaning_vi": "màn trình diễn cho du khách",
+      "from": 128
+    },
+    {
+      "id": "PH-owns-and-controls-the-businesses",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "owns and controls the businesses",
+      "meaning_vi": "sở hữu và kiểm soát các doanh nghiệp",
+      "from": 128
+    },
+    {
+      "id": "PH-small-in-scale-locally-owned-and-carefully-m",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "small in scale, locally owned and carefully managed",
+      "meaning_vi": "quy mô nhỏ, do địa phương sở hữu và quản lý cẩn thận",
+      "from": 128
+    },
+    {
+      "id": "PH-music-food-lantern-and-religious-festivals",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "music, food, lantern and religious festivals",
+      "meaning_vi": "lễ hội âm nhạc, ẩm thực, đèn lồng và tôn giáo",
+      "from": 190
+    },
+    {
+      "id": "PH-cultural-festivals-boost-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cultural festivals boost tourism",
+      "meaning_vi": "lễ hội văn hoá thúc đẩy du lịch",
+      "from": 190
+    },
+    {
+      "id": "PH-a-clear-reason-to-travel",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a clear reason to travel",
+      "meaning_vi": "lý do rõ ràng để đi du lịch",
+      "from": 190
+    },
+    {
+      "id": "PH-how-well-it-is-organised",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "how well it is organised",
+      "meaning_vi": "được tổ chức tốt đến đâu",
+      "from": 190
+    },
+    {
+      "id": "PH-attracts-people-from-other-regions-and-count",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attracts people from other regions and countries",
+      "meaning_vi": "thu hút người từ vùng và nước khác",
+      "from": 190
+    },
+    {
+      "id": "PH-outside-the-main-holiday-season",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "outside the main holiday season",
+      "meaning_vi": "ngoài mùa nghỉ cao điểm",
+      "from": 190
+    },
+    {
+      "id": "PH-fills-hotels-restaurants-and-shops",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fills hotels, restaurants and shops",
+      "meaning_vi": "lấp đầy khách sạn, nhà hàng và cửa hàng",
+      "from": 190
+    },
+    {
+      "id": "PH-would-otherwise-be-empty",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "would otherwise be empty",
+      "meaning_vi": "lẽ ra sẽ trống",
+      "from": 190
+    },
+    {
+      "id": "PH-stay-several-days",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stay several days",
+      "meaning_vi": "ở lại vài ngày",
+      "from": 190
+    },
+    {
+      "id": "PH-local-businesses-benefit-widely",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "local businesses benefit widely",
+      "meaning_vi": "doanh nghiệp địa phương hưởng lợi rộng rãi",
+      "from": 190
+    },
+    {
+      "id": "PH-ready-made-material-for-photographs-videos-a",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "ready-made material for photographs, videos and social media",
+      "meaning_vi": "chất liệu sẵn có cho ảnh, video và mạng xã hội",
+      "from": 190
+    },
+    {
+      "id": "PH-spreads-the-name-of-the-destination",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spreads the name of the destination",
+      "meaning_vi": "lan toả tên điểm đến",
+      "from": 190
+    },
+    {
+      "id": "PH-at-very-low-cost",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "at very low cost",
+      "meaning_vi": "với chi phí rất thấp",
+      "from": 190
+    },
+    {
+      "id": "PH-shape-the-image-of-a-place",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shape the image of a place",
+      "meaning_vi": "định hình hình ảnh của một nơi",
+      "from": 190
+    },
+    {
+      "id": "PH-lively-and-welcoming",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lively and welcoming",
+      "meaning_vi": "sôi động và hiếu khách",
+      "from": 190
+    },
+    {
+      "id": "PH-encourage-repeat-visits",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encourage repeat visits",
+      "meaning_vi": "khuyến khích quay lại",
+      "from": 190
+    },
+    {
+      "id": "PH-not-guaranteed",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "not guaranteed",
+      "meaning_vi": "không được đảm bảo",
+      "from": 190
+    },
+    {
+      "id": "PH-overcrowding-noise-and-rubbish",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Overcrowding, noise and rubbish",
+      "meaning_vi": "đông đúc, tiếng ồn và rác",
+      "from": 190
+    },
+    {
+      "id": "PH-badly-advertised",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "badly advertised",
+      "meaning_vi": "quảng bá kém",
+      "from": 190
+    },
+    {
+      "id": "PH-year-round-attractions",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "year-round attractions",
+      "meaning_vi": "điểm hấp dẫn quanh năm",
+      "from": 190
+    },
+    {
+      "id": "PH-rainforests-coral-reefs-mountains-and-polar",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Rainforests, coral reefs, mountains and polar regions",
+      "meaning_vi": "rừng mưa, rạn san hô, núi và vùng cực",
+      "from": 310
+    },
+    {
+      "id": "PH-adventurous-travellers",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "adventurous travellers",
+      "meaning_vi": "du khách thích phiêu lưu",
+      "from": 310
+    },
+    {
+      "id": "PH-recover-slowly-from-damage",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "recover slowly from damage",
+      "meaning_vi": "hồi phục chậm sau thiệt hại",
+      "from": 310
+    },
+    {
+      "id": "PH-fragile-ecosystems",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fragile ecosystems",
+      "meaning_vi": "hệ sinh thái mong manh",
+      "from": 310
+    },
+    {
+      "id": "PH-fund-their-protection",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fund their protection",
+      "meaning_vi": "tài trợ cho việc bảo vệ chúng",
+      "from": 310
+    },
+    {
+      "id": "PH-entrance-fees-and-local-jobs",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Entrance fees and local jobs",
+      "meaning_vi": "phí vào cửa và việc làm địa phương",
+      "from": 310
+    },
+    {
+      "id": "PH-hunting-or-clearing-land",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hunting or clearing land",
+      "meaning_vi": "săn bắn hoặc phá đất",
+      "from": 310
+    },
+    {
+      "id": "PH-supporters-of-conservation",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supporters of conservation",
+      "meaning_vi": "người ủng hộ bảo tồn",
+      "from": 310
+    },
+    {
+      "id": "PH-a-national-park-that-charges-visitors",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a national park that charges visitors",
+      "meaning_vi": "vườn quốc gia thu phí du khách",
+      "from": 310
+    },
+    {
+      "id": "PH-pay-rangers-and-research",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pay rangers and research",
+      "meaning_vi": "trả kiểm lâm và nghiên cứu",
+      "from": 310
+    },
+    {
+      "id": "PH-earn-a-living-from-nature-that-is-kept-intac",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "earn a living from nature that is kept intact",
+      "meaning_vi": "kiếm sống từ thiên nhiên được giữ nguyên vẹn",
+      "from": 310
+    },
+    {
+      "id": "PH-poaching-and-logging",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poaching and logging",
+      "meaning_vi": "săn trộm và khai thác gỗ",
+      "from": 310
+    },
+    {
+      "id": "PH-raises-international-awareness",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "raises international awareness",
+      "meaning_vi": "nâng cao nhận thức quốc tế",
+      "from": 310
+    },
+    {
+      "id": "PH-trampling-litter-noise-and-introduced-specie",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Trampling, litter, noise and introduced species",
+      "meaning_vi": "giẫm đạp, rác, tiếng ồn và loài ngoại lai",
+      "from": 310
+    },
+    {
+      "id": "PH-change-its-behaviour-or-leave",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "change its behaviour or leave",
+      "meaning_vi": "thay đổi hành vi hoặc bỏ đi",
+      "from": 310
+    },
+    {
+      "id": "PH-destroy-in-a-moment-what-took-decades-to-gro",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "destroy in a moment what took decades to grow",
+      "meaning_vi": "phá trong chốc lát cái mất hàng chục năm để lớn",
+      "from": 310
+    },
+    {
+      "id": "PH-strict-limits-on-visitor-numbers-and-behavio",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "strict limits on visitor numbers and behaviour",
+      "meaning_vi": "giới hạn nghiêm về số lượng và hành vi du khách",
+      "from": 310
+    },
+    {
+      "id": "PH-permits-trained-guides",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "permits, trained guides",
+      "meaning_vi": "giấy phép, hướng dẫn viên được đào tạo",
+      "from": 310
+    },
+    {
+      "id": "PH-zoning-of-sensitive-areas",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "zoning of sensitive areas",
+      "meaning_vi": "phân vùng khu vực nhạy cảm",
+      "from": 310
+    },
+    {
+      "id": "PH-book-flights-and-hotels-on-their-own",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "book flights and hotels on their own",
+      "meaning_vi": "tự đặt chuyến bay và khách sạn",
+      "from": 320
+    },
+    {
+      "id": "PH-go-wherever-they-please",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "go wherever they please",
+      "meaning_vi": "đi bất cứ đâu họ thích",
+      "from": 320
+    },
+    {
+      "id": "PH-organised-group-tours",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "organised group tours",
+      "meaning_vi": "tour đoàn có tổ chức",
+      "from": 320
+    },
+    {
+      "id": "PH-supporters-of-solo-travel",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supporters of solo travel",
+      "meaning_vi": "người ủng hộ du lịch một mình",
+      "from": 320
+    },
+    {
+      "id": "PH-freedom-flexibility-and-personal-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "freedom, flexibility and personal growth",
+      "meaning_vi": "tự do, linh hoạt và trưởng thành cá nhân",
+      "from": 320
+    },
+    {
+      "id": "PH-choose-their-own-route-and-pace",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "choose their own route and pace",
+      "meaning_vi": "chọn lộ trình và nhịp độ riêng",
+      "from": 320
+    },
+    {
+      "id": "PH-part-of-a-crowd",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "part of a crowd",
+      "meaning_vi": "một phần của đám đông",
+      "from": 320
+    },
+    {
+      "id": "PH-follow-a-local-s-recommendation",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "follow a local's recommendation",
+      "meaning_vi": "làm theo gợi ý của người địa phương",
+      "from": 320
+    },
+    {
+      "id": "PH-discover-a-village-that-no-tour-would-visit",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "discover a village that no tour would visit",
+      "meaning_vi": "khám phá ngôi làng mà tour nào cũng không đến",
+      "from": 320
+    },
+    {
+      "id": "PH-bargaining-for-a-bed",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bargaining for a bed",
+      "meaning_vi": "mặc cả chỗ ngủ",
+      "from": 320
+    },
+    {
+      "id": "PH-builds-confidence-and-independence",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "builds confidence and independence",
+      "meaning_vi": "xây dựng sự tự tin và tính độc lập",
+      "from": 320
+    },
+    {
+      "id": "PH-convenient-safe-and-good-value",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "convenient, safe and good value",
+      "meaning_vi": "tiện lợi, an toàn và đáng tiền",
+      "from": 320
+    },
+    {
+      "id": "PH-organised-in-advance",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "organised in advance",
+      "meaning_vi": "được tổ chức trước",
+      "from": 320
+    },
+    {
+      "id": "PH-costs-are-shared",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "costs are shared",
+      "meaning_vi": "chi phí được chia sẻ",
+      "from": 320
+    },
+    {
+      "id": "PH-a-knowledgeable-guide",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a knowledgeable guide",
+      "meaning_vi": "hướng dẫn viên am hiểu",
+      "from": 320
+    },
+    {
+      "id": "PH-first-time-travellers",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "first-time travellers",
+      "meaning_vi": "du khách đi lần đầu",
+      "from": 320
+    },
+    {
+      "id": "PH-help-is-always-at-hand",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "help is always at hand",
+      "meaning_vi": "luôn có sự giúp đỡ ngay bên cạnh",
+      "from": 320
+    },
+    {
+      "id": "PH-the-schedule-is-fixed",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the schedule is fixed",
+      "meaning_vi": "lịch trình cố định",
+      "from": 320
+    },
+    {
+      "id": "PH-remote-or-unfamiliar-regions",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "remote or unfamiliar regions",
+      "meaning_vi": "vùng xa xôi hoặc xa lạ",
+      "from": 320
+    },
+    {
+      "id": "PH-travel-for-pleasure",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "travel for pleasure",
+      "meaning_vi": "đi du lịch giải trí",
+      "from": 404
+    },
+    {
+      "id": "PH-popular-destinations-suffer-from-litter-crow",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "popular destinations suffer from litter, crowds",
+      "meaning_vi": "điểm đến nổi tiếng chịu rác, đám đông",
+      "from": 404
+    },
+    {
+      "id": "PH-rising-prices",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rising prices",
+      "meaning_vi": "giá cả tăng",
+      "from": 404
+    },
+    {
+      "id": "PH-limiting-the-impact-of-visitors",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "limiting the impact of visitors",
+      "meaning_vi": "hạn chế tác động của du khách",
+      "from": 404
+    },
+    {
+      "id": "PH-keeping-the-benefits-in-local-communities",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keeping the benefits in local communities",
+      "meaning_vi": "giữ lợi ích trong cộng đồng địa phương",
+      "from": 404
+    },
+    {
+      "id": "PH-visitor-caps-and-environmental-fees",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Visitor caps and environmental fees",
+      "meaning_vi": "giới hạn lượng khách và phí môi trường",
+      "from": 404
+    },
+    {
+      "id": "PH-protect-fragile-places",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "protect fragile places",
+      "meaning_vi": "bảo vệ những nơi mong manh",
+      "from": 404
+    },
+    {
+      "id": "PH-rules-on-waste-and-water",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rules on waste and water",
+      "meaning_vi": "quy định về rác và nước",
+      "from": 404
+    },
+    {
+      "id": "PH-strict-building-regulations",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "strict building regulations",
+      "meaning_vi": "quy định xây dựng nghiêm ngặt",
+      "from": 404
+    },
+    {
+      "id": "PH-issues-only-a-fixed-number-of-daily-permits",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "issues only a fixed number of daily permits",
+      "meaning_vi": "chỉ cấp số giấy phép cố định mỗi ngày",
+      "from": 404
+    },
+    {
+      "id": "PH-stays-in-good-condition",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stays in good condition",
+      "meaning_vi": "giữ được tình trạng tốt",
+      "from": 404
+    },
+    {
+      "id": "PH-tourist-taxes",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tourist taxes",
+      "meaning_vi": "thuế du lịch",
+      "from": 404
+    },
+    {
+      "id": "PH-cleaning-repairs-and-conservation",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cleaning, repairs and conservation",
+      "meaning_vi": "dọn dẹp, sửa chữa và bảo tồn",
+      "from": 404
+    },
+    {
+      "id": "PH-certification-schemes-and-loans",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Certification schemes and loans",
+      "meaning_vi": "chương trình chứng nhận và khoản vay",
+      "from": 404
+    },
+    {
+      "id": "PH-locally-owned-guesthouses",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "locally owned guesthouses",
+      "meaning_vi": "nhà nghỉ do người địa phương sở hữu",
+      "from": 404
+    },
+    {
+      "id": "PH-keep-more-income-in-the-community",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep more income in the community",
+      "meaning_vi": "giữ nhiều thu nhập hơn trong cộng đồng",
+      "from": 404
+    },
+    {
+      "id": "PH-consultation-with-villages",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "consultation with villages",
+      "meaning_vi": "tham vấn với các làng",
+      "from": 404
+    },
+    {
+      "id": "PH-respectfully",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respectfully",
+      "meaning_vi": "một cách tôn trọng",
+      "from": 404
+    },
+    {
+      "id": "PH-uncontrolled-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "uncontrolled tourism",
+      "meaning_vi": "du lịch không kiểm soát",
+      "from": 404
+    },
+    {
+      "id": "PH-beyond-the-atmosphere",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "beyond the atmosphere",
+      "meaning_vi": "vượt ra ngoài khí quyển",
+      "from": 407
+    },
+    {
+      "id": "PH-space-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "space tourism",
+      "meaning_vi": "du lịch vũ trụ",
+      "from": 407
+    },
+    {
+      "id": "PH-benefit-humanity",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "benefit humanity",
+      "meaning_vi": "mang lại lợi ích cho nhân loại",
+      "from": 407
+    },
+    {
+      "id": "PH-drive-new-technology-and-inspire-people",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "drive new technology and inspire people",
+      "meaning_vi": "thúc đẩy công nghệ mới và truyền cảm hứng",
+      "from": 407
+    },
+    {
+      "id": "PH-lower-the-cost-of-rockets",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lower the cost of rockets",
+      "meaning_vi": "giảm chi phí tên lửa",
+      "from": 407
+    },
+    {
+      "id": "PH-materials-engines-and-life-support-systems",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "materials, engines and life-support systems",
+      "meaning_vi": "vật liệu, động cơ và hệ thống hỗ trợ sự sống",
+      "from": 407
+    },
+    {
+      "id": "PH-find-uses-on-earth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "find uses on Earth",
+      "meaning_vi": "tìm thấy ứng dụng trên Trái Đất",
+      "from": 407
+    },
+    {
+      "id": "PH-encourage-young-people-to-study-science-and",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encourage young people to study science and engineering",
+      "meaning_vi": "khuyến khích người trẻ học khoa học và kỹ thuật",
+      "from": 407
+    },
+    {
+      "id": "PH-reuse-rockets",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reuse rockets",
+      "meaning_vi": "tái sử dụng tên lửa",
+      "from": 407
+    },
+    {
+      "id": "PH-satellite-launches",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "satellite launches",
+      "meaning_vi": "các vụ phóng vệ tinh",
+      "from": 407
+    },
+    {
+      "id": "PH-communication-and-weather-forecasting",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "communication and weather forecasting",
+      "meaning_vi": "liên lạc và dự báo thời tiết",
+      "from": 407
+    },
+    {
+      "id": "PH-affordable-only-to-the-very-rich",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "affordable only to the very rich",
+      "meaning_vi": "chỉ người rất giàu mới mua nổi",
+      "from": 407
+    },
+    {
+      "id": "PH-release-significant-emissions",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "release significant emissions",
+      "meaning_vi": "thải lượng khí thải đáng kể",
+      "from": 407
+    },
+    {
+      "id": "PH-carry-real-risks",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "carry real risks",
+      "meaning_vi": "chứa rủi ro thật",
+      "from": 407
+    },
+    {
+      "id": "PH-poverty-disease-and-climate-change",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poverty, disease and climate change",
+      "meaning_vi": "nghèo đói, bệnh tật và biến đổi khí hậu",
+      "from": 407
+    },
+    {
+      "id": "PH-diverted-from-more-useful-space-science",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "diverted from more useful space science",
+      "meaning_vi": "bị chuyển khỏi khoa học vũ trụ hữu ích hơn",
+      "from": 407
+    },
+    {
+      "id": "PH-a-poor-use-of-resources",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a poor use of resources",
+      "meaning_vi": "cách dùng nguồn lực kém",
+      "from": 407
+    },
+    {
+      "id": "PH-exaggerate-its-social-value",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "exaggerate its social value",
+      "meaning_vi": "phóng đại giá trị xã hội của nó",
+      "from": 407
+    },
+    {
+      "id": "PH-an-entertainment-for-the-wealthy",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "an entertainment for the wealthy",
+      "meaning_vi": "thú tiêu khiển của người giàu",
+      "from": 407
+    },
+    {
+      "id": "PH-cross-a-continent-by-high-speed-train",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cross a continent by high-speed train",
+      "meaning_vi": "băng qua lục địa bằng tàu cao tốc",
+      "from": 420
+    },
+    {
+      "id": "PH-fly-across-an-ocean-in-a-few-hours",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fly across an ocean in a few hours",
+      "meaning_vi": "bay qua đại dương trong vài giờ",
+      "from": 420
+    },
+    {
+      "id": "PH-supporters-of-train-travel",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supporters of train travel",
+      "meaning_vi": "người ủng hộ đi tàu",
+      "from": 420
+    },
+    {
+      "id": "PH-comfort-convenience-and-environmental-benefi",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "comfort, convenience and environmental benefits",
+      "meaning_vi": "sự thoải mái, tiện lợi và lợi ích môi trường",
+      "from": 420
+    },
+    {
+      "id": "PH-far-fewer-emissions-per-passenger",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "far fewer emissions per passenger",
+      "meaning_vi": "ít khí thải hơn nhiều trên mỗi hành khách",
+      "from": 420
+    },
+    {
+      "id": "PH-from-city-centre-to-city-centre",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "from city centre to city centre",
+      "meaning_vi": "từ trung tâm thành phố đến trung tâm thành phố",
+      "from": 420
+    },
+    {
+      "id": "PH-space-comfort-and-scenery",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "space, comfort and scenery",
+      "meaning_vi": "không gian, sự thoải mái và phong cảnh",
+      "from": 420
+    },
+    {
+      "id": "PH-arrives-in-the-centre-rested",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "arrives in the centre, rested",
+      "meaning_vi": "đến trung tâm, đã nghỉ ngơi",
+      "from": 420
+    },
+    {
+      "id": "PH-airport-queues-security-checks",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "airport queues, security checks",
+      "meaning_vi": "hàng chờ sân bay, kiểm tra an ninh",
+      "from": 420
+    },
+    {
+      "id": "PH-distant-terminals",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "distant terminals",
+      "meaning_vi": "nhà ga xa",
+      "from": 420
+    },
+    {
+      "id": "PH-work-read-or-sleep-on-board",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "work, read or sleep on board",
+      "meaning_vi": "làm việc, đọc hoặc ngủ trên tàu",
+      "from": 420
+    },
+    {
+      "id": "PH-less-affected-by-weather",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "less affected by weather",
+      "meaning_vi": "ít bị ảnh hưởng bởi thời tiết",
+      "from": 420
+    },
+    {
+      "id": "PH-speed-and-reach",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "speed and reach",
+      "meaning_vi": "tốc độ và tầm với",
+      "from": 420
+    },
+    {
+      "id": "PH-cut-hours-from-long-journeys",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cut hours from long journeys",
+      "meaning_vi": "cắt giảm hàng giờ khỏi chuyến đi dài",
+      "from": 420
+    },
+    {
+      "id": "PH-islands-and-continents-divided-by-oceans",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "islands and continents divided by oceans",
+      "meaning_vi": "đảo và lục địa bị đại dương ngăn cách",
+      "from": 420
+    },
+    {
+      "id": "PH-the-only-realistic-option",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the only realistic option",
+      "meaning_vi": "lựa chọn thực tế duy nhất",
+      "from": 420
+    },
+    {
+      "id": "PH-low-cost-airlines",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "low-cost airlines",
+      "meaning_vi": "hãng hàng không giá rẻ",
+      "from": 420
+    },
+    {
+      "id": "PH-attend-a-meeting-overseas",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attend a meeting overseas",
+      "meaning_vi": "dự cuộc họp ở nước ngoài",
+      "from": 420
+    },
+    {
+      "id": "PH-pollution-noise-and-stress-at-airports",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pollution, noise and stress at airports",
+      "meaning_vi": "ô nhiễm, tiếng ồn và căng thẳng ở sân bay",
+      "from": 420
+    },
+    {
+      "id": "PH-short-and-medium-distances",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "short and medium distances",
+      "meaning_vi": "chặng ngắn và vừa",
+      "from": 420
+    },
+    {
+      "id": "PH-arts-festivals",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "arts festivals",
+      "meaning_vi": "lễ hội nghệ thuật",
+      "from": 425
+    },
+    {
+      "id": "PH-known-worldwide",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "known worldwide",
+      "meaning_vi": "nổi tiếng toàn thế giới",
+      "from": 425
+    },
+    {
+      "id": "PH-a-significant-part-of-the-tourism-industry",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a significant part of the tourism industry",
+      "meaning_vi": "một phần đáng kể của ngành du lịch",
+      "from": 425
+    },
+    {
+      "id": "PH-promoting-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "promoting tourism",
+      "meaning_vi": "thúc đẩy du lịch",
+      "from": 425
+    },
+    {
+      "id": "PH-attracting-visitors-and-spending",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attracting visitors and spending",
+      "meaning_vi": "thu hút du khách và chi tiêu",
+      "from": 425
+    },
+    {
+      "id": "PH-building-a-lasting-reputation",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "building a lasting reputation",
+      "meaning_vi": "xây dựng danh tiếng lâu dài",
+      "from": 425
+    },
+    {
+      "id": "PH-a-jazz-weekend-or-a-film-festival",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a jazz weekend or a film festival",
+      "meaning_vi": "cuối tuần nhạc jazz hoặc liên hoan phim",
+      "from": 425
+    },
+    {
+      "id": "PH-performers-technicians-guides-and-hospitalit",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "performers, technicians, guides and hospitality staff",
+      "meaning_vi": "nghệ sĩ, kỹ thuật viên, hướng dẫn viên và nhân viên khách sạn nhà hàng",
+      "from": 425
+    },
+    {
+      "id": "PH-gain-an-audience-and-income",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "gain an audience and income",
+      "meaning_vi": "có khán giả và thu nhập",
+      "from": 425
+    },
+    {
+      "id": "PH-lively-creative-and-welcoming",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lively, creative and welcoming",
+      "meaning_vi": "sôi động, sáng tạo và hiếu khách",
+      "from": 425
+    },
+    {
+      "id": "PH-publicity-from-newspapers-television-and-soc",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "publicity from newspapers, television and social media",
+      "meaning_vi": "quảng bá từ báo, truyền hình và mạng xã hội",
+      "from": 425
+    },
+    {
+      "id": "PH-spreads-its-name-at-little-cost",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spreads its name at little cost",
+      "meaning_vi": "lan truyền tên tuổi với chi phí thấp",
+      "from": 425
+    },
+    {
+      "id": "PH-return-in-other-seasons",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "return in other seasons",
+      "meaning_vi": "quay lại vào các mùa khác",
+      "from": 425
+    },
+    {
+      "id": "PH-attract-investment-and-new-residents",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attract investment and new residents",
+      "meaning_vi": "thu hút đầu tư và cư dân mới",
+      "from": 425
+    },
+    {
+      "id": "PH-quality-and-planning",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "quality and planning",
+      "meaning_vi": "chất lượng và kế hoạch",
+      "from": 425
+    },
+    {
+      "id": "PH-disappoint-visitors",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "disappoint visitors",
+      "meaning_vi": "làm du khách thất vọng",
+      "from": 425
+    },
+    {
+      "id": "PH-upset-residents",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "upset residents",
+      "meaning_vi": "làm cư dân khó chịu",
+      "from": 425
+    },
+    {
+      "id": "PH-plan-transport-safety-and-cleaning",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "plan transport, safety and cleaning",
+      "meaning_vi": "lên kế hoạch giao thông, an ninh và vệ sinh",
+      "from": 425
+    },
+    {
+      "id": "PH-continued-public-support",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "continued public support",
+      "meaning_vi": "hỗ trợ công liên tục",
+      "from": 425
+    },
+    {
+      "id": "PH-package-holidays-cruise-ships-and-budget-fli",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Package holidays, cruise ships and budget flights",
+      "meaning_vi": "tour trọn gói, tàu du lịch và vé máy bay giá rẻ",
+      "from": 461
+    },
+    {
+      "id": "PH-mass-tourism",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mass tourism",
+      "meaning_vi": "du lịch đại trà",
+      "from": 461
+    },
+    {
+      "id": "PH-outweigh-the-damage",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "outweigh the damage",
+      "meaning_vi": "lớn hơn thiệt hại",
+      "from": 461
+    },
+    {
+      "id": "PH-creates-income-for-millions-of-people",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "creates income for millions of people",
+      "meaning_vi": "tạo thu nhập cho hàng triệu người",
+      "from": 461
+    },
+    {
+      "id": "PH-depend-on-large-numbers-of-visitors",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "depend on large numbers of visitors",
+      "meaning_vi": "phụ thuộc vào lượng lớn du khách",
+      "from": 461
+    },
+    {
+      "id": "PH-whole-regions-would-be-poor-without-them",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "whole regions would be poor without them",
+      "meaning_vi": "cả vùng sẽ nghèo nếu không có họ",
+      "from": 461
+    },
+    {
+      "id": "PH-pay-for-roads-airports-and-public-services",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pay for roads, airports and public services",
+      "meaning_vi": "chi trả cho đường, sân bay và dịch vụ công",
+      "from": 461
+    },
+    {
+      "id": "PH-falling-prices",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "falling prices",
+      "meaning_vi": "giá giảm",
+      "from": 461
+    },
+    {
+      "id": "PH-ordinary-families-not-just-the-rich",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "ordinary families, not just the rich",
+      "meaning_vi": "gia đình bình thường chứ không chỉ người giàu",
+      "from": 461
+    },
+    {
+      "id": "PH-learn-about-other-cultures",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn about other cultures",
+      "meaning_vi": "tìm hiểu các nền văn hoá khác",
+      "from": 461
+    },
+    {
+      "id": "PH-rapid-growth",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rapid growth",
+      "meaning_vi": "tăng trưởng nhanh",
+      "from": 461
+    },
+    {
+      "id": "PH-harm-the-environment-on-a-large-scale",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "harm the environment on a large scale",
+      "meaning_vi": "gây hại môi trường ở quy mô lớn",
+      "from": 461
+    },
+    {
+      "id": "PH-litter-emissions-and-heavy-water-use",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "litter, emissions and heavy water use",
+      "meaning_vi": "rác, khí thải và dùng nhiều nước",
+      "from": 461
+    },
+    {
+      "id": "PH-coastlines-and-wildlife-suffer",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "coastlines and wildlife suffer",
+      "meaning_vi": "bờ biển và động vật hoang dã chịu thiệt",
+      "from": 461
+    },
+    {
+      "id": "PH-damage-dunes-and-turtle-nests",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "damage dunes and turtle nests",
+      "meaning_vi": "phá đụn cát và tổ rùa",
+      "from": 461
+    },
+    {
+      "id": "PH-worn-down-by-too-many-feet",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "worn down by too many feet",
+      "meaning_vi": "bị mòn đi vì quá nhiều bước chân",
+      "from": 461
+    },
+    {
+      "id": "PH-fees-for-the-use-of-sensitive-sites",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fees for the use of sensitive sites",
+      "meaning_vi": "phí sử dụng các địa điểm nhạy cảm",
+      "from": 461
+    },
+    {
+      "id": "PH-destroy-the-attractions-that-tourism-depends",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "destroy the attractions that tourism depends on",
+      "meaning_vi": "phá huỷ những điểm hấp dẫn mà du lịch phụ thuộc vào",
+      "from": 461
+    },
+    {
+      "id": "PH-carefully-controlled",
+      "type": "phrase",
+      "topics": [
+        "travel",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "carefully controlled",
+      "meaning_vi": "được kiểm soát cẩn thận",
+      "from": 461
     }
   ]
 }

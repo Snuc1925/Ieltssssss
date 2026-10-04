@@ -1,0 +1,128 @@
+{
+  "questionId": 420,
+  "text": "Travellers today can cross a continent by high-speed train or fly across an ocean in a few hours, and opinions differ on which is the better way to travel. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of train travel point to comfort, convenience and environmental benefits. Trains produce far fewer emissions per passenger, run from city centre to city centre and offer space, comfort and scenery. A traveller who takes a train between two capital cities four hours apart, for example, arrives in the centre, rested, without airport queues, security checks and long journeys to distant terminals. Passengers can work, read or sleep on board, and stations are often close to restaurants and hotels. For journeys up to about five hours, trains can be as quick as planes when travel to the airport and waiting time are included, and they are less affected by weather.\n\nOn the other hand, supporters of air travel emphasise speed and reach. Planes cut hours from long journeys and connect places that no railway could, such as islands and continents divided by oceans. For a trip of several thousand kilometres, flying is the only realistic option for most people, and low-cost airlines have made it cheaper than many train tickets. Business travellers who must attend a meeting overseas, for instance, cannot afford to spend two days on trains. However, flying causes pollution, noise and stress at airports, and flight delays are common.\n\nIn conclusion, both views have merit. Personally, I believe that trains are the better choice for short and medium distances, because they are cleaner and more pleasant, while planes remain necessary for long journeys across oceans.",
+  "analysis": {
+    "type_vi": "Discuss both views: đi tàu hoả hay máy bay",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hai khả năng (tàu cao tốc băng qua lục địa / máy bay vượt đại dương trong vài giờ); mỗi thân bài một phía; ý kiến riêng theo khoảng cách.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe tàu hoả",
+        "think": "Thoải mái, tiện, thân thiện môi trường: phát thải mỗi hành khách ít hơn nhiều, từ trung tâm đến trung tâm; ví dụ hành khách giữa hai thủ đô cách bốn giờ đến trung tâm, nghỉ ngơi, không xếp hàng sân bay; làm việc, đọc, ngủ; với chặng đến khoảng năm giờ tàu có thể nhanh ngang máy bay, ít bị thời tiết.",
+        "refs": [
+          "ID-trv-train-air",
+          "EX-trv-train-capital",
+          "ID-env-ev-health"
+        ]
+      },
+      {
+        "step": "3. Phe máy bay",
+        "think": "Tốc độ và tầm với: rút ngắn hàng giờ, nối nơi tàu không tới (đảo, lục địa cách đại dương); hãng giá rẻ rẻ hơn nhiều vé tàu; ví dụ doanh nhân họp ở nước ngoài không thể mất hai ngày. Giới hạn: ô nhiễm, ồn, căng thẳng sân bay, hoãn chuyến.",
+        "refs": [
+          "ID-trv-train-air",
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tàu cho chặng ngắn và vừa vì sạch và dễ chịu hơn; máy bay cần thiết cho chặng dài qua đại dương.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-train-air",
+      "EX-trv-train-capital"
+    ]
+  },
+  "chunks": [
+    [
+      "cross a continent by high-speed train",
+      "băng qua lục địa bằng tàu cao tốc"
+    ],
+    [
+      "fly across an ocean in a few hours",
+      "bay qua đại dương trong vài giờ"
+    ],
+    [
+      "supporters of train travel",
+      "người ủng hộ đi tàu"
+    ],
+    [
+      "comfort, convenience and environmental benefits",
+      "sự thoải mái, tiện lợi và lợi ích môi trường"
+    ],
+    [
+      "far fewer emissions per passenger",
+      "ít khí thải hơn nhiều trên mỗi hành khách"
+    ],
+    [
+      "from city centre to city centre",
+      "từ trung tâm thành phố đến trung tâm thành phố"
+    ],
+    [
+      "space, comfort and scenery",
+      "không gian, sự thoải mái và phong cảnh"
+    ],
+    [
+      "arrives in the centre, rested",
+      "đến trung tâm, đã nghỉ ngơi"
+    ],
+    [
+      "airport queues, security checks",
+      "hàng chờ sân bay, kiểm tra an ninh"
+    ],
+    [
+      "distant terminals",
+      "nhà ga xa"
+    ],
+    [
+      "work, read or sleep on board",
+      "làm việc, đọc hoặc ngủ trên tàu"
+    ],
+    [
+      "less affected by weather",
+      "ít bị ảnh hưởng bởi thời tiết"
+    ],
+    [
+      "speed and reach",
+      "tốc độ và tầm với"
+    ],
+    [
+      "cut hours from long journeys",
+      "cắt giảm hàng giờ khỏi chuyến đi dài"
+    ],
+    [
+      "islands and continents divided by oceans",
+      "đảo và lục địa bị đại dương ngăn cách"
+    ],
+    [
+      "the only realistic option",
+      "lựa chọn thực tế duy nhất"
+    ],
+    [
+      "low-cost airlines",
+      "hãng hàng không giá rẻ"
+    ],
+    [
+      "attend a meeting overseas",
+      "dự cuộc họp ở nước ngoài"
+    ],
+    [
+      "pollution, noise and stress at airports",
+      "ô nhiễm, tiếng ồn và căng thẳng ở sân bay"
+    ],
+    [
+      "short and medium distances",
+      "chặng ngắn và vừa"
+    ]
+  ]
+}

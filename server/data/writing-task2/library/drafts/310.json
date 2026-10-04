@@ -1,0 +1,127 @@
+{
+  "questionId": 310,
+  "text": "Rainforests, coral reefs, mountains and polar regions attract adventurous travellers, but these ecosystems recover slowly from damage. This essay will discuss the advantages and disadvantages of encouraging tourism in fragile ecosystems before explaining my own view.\n\nOn the positive side, tourism in fragile ecosystems can fund their protection. Entrance fees and local jobs give people a reason to protect wildlife instead of hunting or clearing land, and visitors who see these places in person often become supporters of conservation. A national park that charges visitors, for example, can pay rangers and research that would otherwise be unaffordable. Guides, boat operators and lodge workers earn a living from nature that is kept intact, which reduces pressure from poaching and logging. Tourism also raises international awareness, which can attract donations and political support.\n\nOn the negative side, however, tourism can damage the places that visitors come to admire. Trampling, litter, noise and introduced species can harm habitats that recover slowly, and wildlife may change its behaviour or leave when disturbed. Divers who touch a coral reef, for example, can destroy in a moment what took decades to grow. Hotels, roads and airports built for visitors cause further harm, and flights add greenhouse gas emissions. Nevertheless, these risks can be managed through strict limits on visitor numbers and behaviour, permits, trained guides, zoning of sensitive areas and the use of fees to fund monitoring. Where such controls are absent, tourism should not be encouraged.\n\nIn conclusion, tourism can pay for the protection of fragile ecosystems, but it can also destroy them. On balance, I believe that it should be encouraged only in small numbers, under strict control, and where the income supports conservation.",
+  "analysis": {
+    "type_vi": "A/D: khuyến khích du lịch ở hệ sinh thái mong manh",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu các hệ sinh thái (rừng mưa, rạn san hô, núi, vùng cực) và đặc điểm hồi phục chậm; kết luận chọn lập trường có điều kiện.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Phí vào cửa và việc làm địa phương cho người dân lý do bảo vệ thay vì săn bắn, phá đất; du khách trở thành người ủng hộ bảo tồn; vườn quốc gia thu phí trả cho kiểm lâm, nghiên cứu; nâng nhận thức quốc tế.",
+        "refs": [
+          "ID-trv-fragile",
+          "ID-env-wildlife-benefits"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Giẫm đạp, rác, tiếng ồn, loài ngoại lai hại môi trường sống hồi phục chậm; động vật thay đổi hành vi hoặc bỏ đi. Ví dụ thợ lặn chạm rạn san hô phá cái mất hàng chục năm để lớn. Khách sạn, đường, sân bay và chuyến bay thêm khí thải. Nevertheless: giới hạn số khách, giấy phép, hướng dẫn viên, phân vùng, phí cho giám sát.",
+        "refs": [
+          "ID-trv-fragile",
+          "EX-trv-reef-visitors",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chỉ khuyến khích với số lượng nhỏ, kiểm soát chặt, thu nhập phục vụ bảo tồn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-fragile",
+      "EX-trv-reef-visitors"
+    ]
+  },
+  "chunks": [
+    [
+      "Rainforests, coral reefs, mountains and polar regions",
+      "rừng mưa, rạn san hô, núi và vùng cực"
+    ],
+    [
+      "adventurous travellers",
+      "du khách thích phiêu lưu"
+    ],
+    [
+      "recover slowly from damage",
+      "hồi phục chậm sau thiệt hại"
+    ],
+    [
+      "fragile ecosystems",
+      "hệ sinh thái mong manh"
+    ],
+    [
+      "fund their protection",
+      "tài trợ cho việc bảo vệ chúng"
+    ],
+    [
+      "Entrance fees and local jobs",
+      "phí vào cửa và việc làm địa phương"
+    ],
+    [
+      "hunting or clearing land",
+      "săn bắn hoặc phá đất"
+    ],
+    [
+      "supporters of conservation",
+      "người ủng hộ bảo tồn"
+    ],
+    [
+      "a national park that charges visitors",
+      "vườn quốc gia thu phí du khách"
+    ],
+    [
+      "pay rangers and research",
+      "trả kiểm lâm và nghiên cứu"
+    ],
+    [
+      "earn a living from nature that is kept intact",
+      "kiếm sống từ thiên nhiên được giữ nguyên vẹn"
+    ],
+    [
+      "poaching and logging",
+      "săn trộm và khai thác gỗ"
+    ],
+    [
+      "raises international awareness",
+      "nâng cao nhận thức quốc tế"
+    ],
+    [
+      "Trampling, litter, noise and introduced species",
+      "giẫm đạp, rác, tiếng ồn và loài ngoại lai"
+    ],
+    [
+      "change its behaviour or leave",
+      "thay đổi hành vi hoặc bỏ đi"
+    ],
+    [
+      "destroy in a moment what took decades to grow",
+      "phá trong chốc lát cái mất hàng chục năm để lớn"
+    ],
+    [
+      "strict limits on visitor numbers and behaviour",
+      "giới hạn nghiêm về số lượng và hành vi du khách"
+    ],
+    [
+      "permits, trained guides",
+      "giấy phép, hướng dẫn viên được đào tạo"
+    ],
+    [
+      "zoning of sensitive areas",
+      "phân vùng khu vực nhạy cảm"
+    ],
+    [
+      "support conservation",
+      "hỗ trợ bảo tồn"
+    ]
+  ]
+}

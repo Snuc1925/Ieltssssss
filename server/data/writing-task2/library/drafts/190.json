@@ -1,0 +1,128 @@
+{
+  "questionId": 190,
+  "text": "Cities and towns around the world hold music, food, lantern and religious festivals, and some argue that cultural festivals boost tourism. I largely agree, since a well-known festival gives visitors a clear reason to travel, although the effect depends on how well it is organised.\n\nTo begin with, festivals give visitors a clear reason to travel and to spend money. A well-known music, food or cultural festival attracts people from other regions and countries, often outside the main holiday season, and fills hotels, restaurants and shops. A lantern festival held in the quiet winter months, for example, can fill hotels that would otherwise be empty. Visitors often stay several days and spend on transport, food and gifts, so local businesses benefit widely. Festivals also provide ready-made material for photographs, videos and social media, which spreads the name of the destination far beyond its own borders at very low cost.\n\nFurthermore, festivals shape the image of a place and encourage repeat visits. A town that becomes famous for a distinctive celebration is remembered as lively and welcoming, and many visitors return, sometimes outside the festival dates, to explore further. However, the effect is not guaranteed. Festivals are temporary, and tourism in the rest of the year may stay weak if the town has little else to offer. Overcrowding, noise and rubbish can upset residents, and a poorly organised or badly advertised festival may attract few people. Authorities should therefore plan transport, safety and cleaning carefully, involve local people and combine festivals with other attractions throughout the year.\n\nIn conclusion, cultural festivals boost tourism to a large extent by attracting visitors and publicity, provided that they are well run and supported by year-round attractions.",
+  "analysis": {
+    "type_vi": "Extent: lễ hội văn hoá có thúc đẩy du lịch không — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu các loại lễ hội (âm nhạc, ẩm thực, đèn lồng, tôn giáo) rồi largely agree + giới hạn (phụ thuộc tổ chức).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lý do để đi và chi tiêu",
+        "think": "Lễ hội nổi tiếng thu hút người từ vùng và nước khác, thường ngoài mùa cao điểm, lấp đầy khách sạn, nhà hàng, cửa hàng. Ví dụ lễ hội đèn lồng vào mùa đông vắng. Khách ở vài ngày; ảnh và video lan toả điểm đến với chi phí thấp.",
+        "refs": [
+          "ID-trv-festival",
+          "EX-trv-lantern-festival",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — hình ảnh và quay lại + giới hạn",
+        "think": "Thị trấn nổi tiếng vì lễ hội đặc sắc được nhớ là sôi động, hiếu khách; khách quay lại. Giới hạn: lễ hội tạm thời, phần còn lại của năm có thể yếu; đông đúc, ồn, rác; tổ chức kém thu hút ít; cần quy hoạch giao thông, an ninh, vệ sinh, cho người địa phương tham gia, kết hợp điểm tham quan quanh năm.",
+        "refs": [
+          "ID-trv-festival",
+          "ID-trv-limits",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thúc đẩy du lịch ở mức độ lớn nếu tổ chức tốt và có điểm hấp dẫn quanh năm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-festival",
+      "EX-trv-lantern-festival"
+    ]
+  },
+  "chunks": [
+    [
+      "music, food, lantern and religious festivals",
+      "lễ hội âm nhạc, ẩm thực, đèn lồng và tôn giáo"
+    ],
+    [
+      "cultural festivals boost tourism",
+      "lễ hội văn hoá thúc đẩy du lịch"
+    ],
+    [
+      "a clear reason to travel",
+      "lý do rõ ràng để đi du lịch"
+    ],
+    [
+      "how well it is organised",
+      "được tổ chức tốt đến đâu"
+    ],
+    [
+      "attracts people from other regions and countries",
+      "thu hút người từ vùng và nước khác"
+    ],
+    [
+      "outside the main holiday season",
+      "ngoài mùa nghỉ cao điểm"
+    ],
+    [
+      "fills hotels, restaurants and shops",
+      "lấp đầy khách sạn, nhà hàng và cửa hàng"
+    ],
+    [
+      "would otherwise be empty",
+      "lẽ ra sẽ trống"
+    ],
+    [
+      "stay several days",
+      "ở lại vài ngày"
+    ],
+    [
+      "local businesses benefit widely",
+      "doanh nghiệp địa phương hưởng lợi rộng rãi"
+    ],
+    [
+      "ready-made material for photographs, videos and social media",
+      "chất liệu sẵn có cho ảnh, video và mạng xã hội"
+    ],
+    [
+      "spreads the name of the destination",
+      "lan toả tên điểm đến"
+    ],
+    [
+      "at very low cost",
+      "với chi phí rất thấp"
+    ],
+    [
+      "shape the image of a place",
+      "định hình hình ảnh của một nơi"
+    ],
+    [
+      "lively and welcoming",
+      "sôi động và hiếu khách"
+    ],
+    [
+      "encourage repeat visits",
+      "khuyến khích quay lại"
+    ],
+    [
+      "not guaranteed",
+      "không được đảm bảo"
+    ],
+    [
+      "Overcrowding, noise and rubbish",
+      "đông đúc, tiếng ồn và rác"
+    ],
+    [
+      "badly advertised",
+      "quảng bá kém"
+    ],
+    [
+      "year-round attractions",
+      "điểm hấp dẫn quanh năm"
+    ]
+  ]
+}

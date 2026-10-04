@@ -848,7 +848,7 @@
   var TYPE_VI = { frame: 'Khung câu / bài', phrase: 'Cụm từ', synonyms: 'Từ đồng nghĩa', idea: 'Ý (lập luận)', example: 'Ví dụ', connector: 'Từ nối' };
   var TYPE_ORDER = ['frame', 'connector', 'phrase', 'synonyms', 'idea', 'example'];
   var STANCE_VI = { pro: 'ủng hộ', con: 'phản đối / nhược điểm', cause: 'nguyên nhân', solution: 'giải pháp', caveat: 'giới hạn / nhượng bộ', rebuttal: 'phản bác' };
-  var TOPIC_VI = { education: 'Education', environment: 'Environment & Energy', health: 'Health & Sport' };
+  var TOPIC_VI = { education: 'Education',environment: 'Environment & Energy',health: 'Health & Sport',transport: 'Transport, Housing & Cities',technology: 'Technology & Science',travel: 'Travel & Tourism',economy: 'Economy & Business',media: 'Media & Advertising',work: 'Work & Careers',arts: 'Arts & Culture',family: 'Family & Society',crime: 'Crime & Law',government: 'Government & Politics' };
   var MASTERY = ['Chưa nhớ', 'Mơ hồ', 'Đã thuộc'];
   var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'education', topicSel: 'education',
     tab: 'essays', q: '', ftype: '', fpass: '', sel: null, ver: null, color: true, practice: false, reveal: false, recall: '', openRef: null,

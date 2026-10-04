@@ -1,0 +1,128 @@
+{
+  "questionId": 128,
+  "text": "Many villages and small towns in the countryside are turning to tourism as farming and traditional industries decline. This essay will discuss the main advantages and disadvantages of tourism for rural areas before explaining my own view.\n\nOn the positive side, tourism can give rural communities a new source of income. Farm stays, guided walks and craft sales create jobs where few exist and encourage young people to stay, which slows the decline of villages. A village that offers farm stays, for example, can keep young people from leaving to find work in cities. Visitors also buy local food and handmade goods, so traditional skills and products gain a market, and money spent in the countryside tends to stay there if owners are local. The investment in roads, internet and services that tourism brings also improves daily life for residents.\n\nOn the negative side, however, tourism has real drawbacks. The work is often seasonal and low-paid, prices for housing and food may rise so that local people struggle to afford them, and outside investors may take the profits. Crowds, traffic and noise can spoil the peaceful character that attracted visitors in the first place, and traditional ways of life may be turned into a show for tourists. Nevertheless, these problems can be reduced. Benefits are greatest when the community owns and controls the businesses, when numbers of visitors are limited and when regulations protect the landscape and local housing.\n\nIn conclusion, tourism offers rural areas valuable income and jobs, but it can bring pressure on prices and traditions. On balance, I believe that it is beneficial when it is small in scale, locally owned and carefully managed.",
+  "analysis": {
+    "type_vi": "A/D: du lịch ở vùng nông thôn",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu lý do nông thôn chuyển sang du lịch (nông nghiệp, ngành truyền thống suy giảm); kết luận chọn lập trường 'có lợi nếu quy mô nhỏ, do người địa phương sở hữu và quản lý tốt'.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Nguồn thu mới; nhà nghỉ nông trại, đi bộ có hướng dẫn, bán đồ thủ công tạo việc làm; giữ người trẻ ở lại; sản phẩm truyền thống có thị trường; hạ tầng (đường, internet) cải thiện đời sống. Ví dụ làng có nhà nghỉ nông trại.",
+        "refs": [
+          "ID-trv-rural",
+          "EX-trv-farm-stay",
+          "ID-trv-benefits"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Việc làm theo mùa lương thấp; giá nhà và thực phẩm tăng; nhà đầu tư ngoài lấy lợi nhuận; đông, tắc đường, ồn phá không khí yên bình; lối sống truyền thống thành trò diễn. Nevertheless: cộng đồng sở hữu và kiểm soát, giới hạn lượng khách, quy định bảo vệ cảnh quan và nhà ở.",
+        "refs": [
+          "ID-trv-rural",
+          "ID-trv-limits",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi khi quy mô nhỏ, sở hữu địa phương, quản lý cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-rural",
+      "EX-trv-farm-stay"
+    ]
+  },
+  "chunks": [
+    [
+      "villages and small towns in the countryside",
+      "làng và thị trấn nhỏ ở nông thôn"
+    ],
+    [
+      "turning to tourism",
+      "chuyển sang du lịch"
+    ],
+    [
+      "farming and traditional industries decline",
+      "nông nghiệp và ngành truyền thống suy giảm"
+    ],
+    [
+      "rural communities",
+      "cộng đồng nông thôn"
+    ],
+    [
+      "a new source of income",
+      "nguồn thu nhập mới"
+    ],
+    [
+      "Farm stays, guided walks and craft sales",
+      "lưu trú nông trại, đi bộ có hướng dẫn và bán hàng thủ công"
+    ],
+    [
+      "create jobs where few exist",
+      "tạo việc làm ở nơi ít việc"
+    ],
+    [
+      "encourage young people to stay",
+      "khuyến khích người trẻ ở lại"
+    ],
+    [
+      "slows the decline of villages",
+      "làm chậm sự suy tàn của làng quê"
+    ],
+    [
+      "keep young people from leaving",
+      "giữ người trẻ khỏi rời đi"
+    ],
+    [
+      "traditional skills and products gain a market",
+      "kỹ năng và sản phẩm truyền thống có thị trường"
+    ],
+    [
+      "stay there if owners are local",
+      "ở lại đó nếu chủ sở hữu là người địa phương"
+    ],
+    [
+      "seasonal and low-paid",
+      "theo mùa và lương thấp"
+    ],
+    [
+      "prices for housing and food may rise",
+      "giá nhà ở và thực phẩm có thể tăng"
+    ],
+    [
+      "outside investors may take the profits",
+      "nhà đầu tư bên ngoài có thể lấy lợi nhuận"
+    ],
+    [
+      "Crowds, traffic and noise",
+      "đám đông, giao thông và tiếng ồn"
+    ],
+    [
+      "peaceful character",
+      "đặc trưng yên bình"
+    ],
+    [
+      "a show for tourists",
+      "màn trình diễn cho du khách"
+    ],
+    [
+      "owns and controls the businesses",
+      "sở hữu và kiểm soát các doanh nghiệp"
+    ],
+    [
+      "small in scale, locally owned and carefully managed",
+      "quy mô nhỏ, do địa phương sở hữu và quản lý cẩn thận"
+    ]
+  ]
+}

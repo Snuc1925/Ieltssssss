@@ -1,0 +1,129 @@
+{
+  "questionId": 461,
+  "text": "Package holidays, cruise ships and budget flights have made travel possible for millions of people, and mass tourism now affects beaches, mountains and old cities worldwide. This essay will discuss the advantages and the environmental damage before explaining whether the advantages outweigh the damage.\n\nOn the positive side, mass tourism creates income for millions of people. Hotels, restaurants, transport companies and shops depend on large numbers of visitors, and whole regions would be poor without them. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours. Taxes from tourism pay for roads, airports and public services that residents also use, and falling prices have allowed ordinary families, not just the rich, to see the world and learn about other cultures. For many developing countries, tourism is one of the few industries that can bring rapid growth.\n\nOn the negative side, however, mass tourism can harm the environment on a large scale. Crowds produce litter, emissions and heavy water use, and coastlines and wildlife suffer. A resort built directly on a beach, for example, can damage dunes and turtle nests while employing hundreds of local people. Flights add to climate change, and popular sites can be worn down by too many feet. Nevertheless, much of this damage can be reduced. Limits on visitor numbers, strict building rules, better waste treatment and fees for the use of sensitive sites can protect the environment while keeping the income. Without such controls, the damage may eventually destroy the attractions that tourism depends on.\n\nIn conclusion, the advantages of mass tourism outweigh the environmental damage only when numbers and building are carefully controlled, and governments must ensure that this is done.",
+  "analysis": {
+    "type_vi": "A/D: lợi thế của du lịch đại trà có lớn hơn thiệt hại môi trường không — chỉ khi được kiểm soát",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Phán quyết có điều kiện: lợi thế lớn hơn chỉ khi kiểm soát số lượng và xây dựng. Thân bài 2 dùng Nevertheless để đề xuất giải pháp.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Thu nhập cho hàng triệu người; khách sạn, nhà hàng, vận tải, cửa hàng phụ thuộc đông khách; thuế trả đường, sân bay, dịch vụ công; giá giảm cho phép người bình thường đi du lịch và hiểu văn hoá khác; ngành tăng trưởng nhanh ở nước đang phát triển. Ví dụ gia đình mở nhà nghỉ nhỏ.",
+        "refs": [
+          "ID-trv-mass",
+          "ID-trv-benefits",
+          "EX-trv-guesthouse"
+        ]
+      },
+      {
+        "step": "3. Thiệt hại + phản bác",
+        "think": "Đám đông gây rác, khí thải, dùng nhiều nước; bờ biển và động vật chịu thiệt; chuyến bay thêm biến đổi khí hậu. Ví dụ khu nghỉ dưỡng xây trực tiếp trên bãi biển phá đụn cát và tổ rùa nhưng thuê hàng trăm người địa phương. Nevertheless: giới hạn khách, quy định xây dựng, xử lý rác, phí cho khu vực nhạy cảm.",
+        "refs": [
+          "ID-trv-mass",
+          "EX-trv-beach-resort",
+          "ID-trv-responsible"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn chỉ khi được kiểm soát; chính phủ phải đảm bảo.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-mass",
+      "EX-trv-beach-resort"
+    ]
+  },
+  "chunks": [
+    [
+      "Package holidays, cruise ships and budget flights",
+      "tour trọn gói, tàu du lịch và vé máy bay giá rẻ"
+    ],
+    [
+      "mass tourism",
+      "du lịch đại trà"
+    ],
+    [
+      "outweigh the damage",
+      "lớn hơn thiệt hại"
+    ],
+    [
+      "creates income for millions of people",
+      "tạo thu nhập cho hàng triệu người"
+    ],
+    [
+      "depend on large numbers of visitors",
+      "phụ thuộc vào lượng lớn du khách"
+    ],
+    [
+      "whole regions would be poor without them",
+      "cả vùng sẽ nghèo nếu không có họ"
+    ],
+    [
+      "pay for roads, airports and public services",
+      "chi trả cho đường, sân bay và dịch vụ công"
+    ],
+    [
+      "falling prices",
+      "giá giảm"
+    ],
+    [
+      "ordinary families, not just the rich",
+      "gia đình bình thường chứ không chỉ người giàu"
+    ],
+    [
+      "learn about other cultures",
+      "tìm hiểu các nền văn hoá khác"
+    ],
+    [
+      "rapid growth",
+      "tăng trưởng nhanh"
+    ],
+    [
+      "harm the environment on a large scale",
+      "gây hại môi trường ở quy mô lớn"
+    ],
+    [
+      "litter, emissions and heavy water use",
+      "rác, khí thải và dùng nhiều nước"
+    ],
+    [
+      "coastlines and wildlife suffer",
+      "bờ biển và động vật hoang dã chịu thiệt"
+    ],
+    [
+      "damage dunes and turtle nests",
+      "phá đụn cát và tổ rùa"
+    ],
+    [
+      "worn down by too many feet",
+      "bị mòn đi vì quá nhiều bước chân"
+    ],
+    [
+      "fees for the use of sensitive sites",
+      "phí sử dụng các địa điểm nhạy cảm"
+    ],
+    [
+      "destroy the attractions that tourism depends on",
+      "phá huỷ những điểm hấp dẫn mà du lịch phụ thuộc vào"
+    ],
+    [
+      "carefully controlled",
+      "được kiểm soát cẩn thận"
+    ],
+    [
+      "only when numbers and building are controlled",
+      "chỉ khi số lượng và việc xây dựng được kiểm soát"
+    ]
+  ]
+}

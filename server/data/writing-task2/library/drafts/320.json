@@ -1,0 +1,129 @@
+{
+  "questionId": 320,
+  "text": "Some travellers book flights and hotels on their own and go wherever they please, while others join organised group tours. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of solo travel argue that it offers freedom, flexibility and personal growth. Travellers choose their own route and pace, stay longer where they feel happy and leave places they dislike, and they meet local people more easily because they are not part of a crowd. A solo traveller who changes plans to follow a local's recommendation, for example, may discover a village that no tour would visit. Solving problems alone, from reading maps to bargaining for a bed, builds confidence and independence, and many people return from such journeys more mature. Travelling alone can also be cheaper if one chooses simple food and transport.\n\nOn the other hand, supporters of group tours point out that they are convenient, safe and good value. Transport, hotels and guides are organised in advance, costs are shared, and a knowledgeable guide explains the history of each place. A group visiting an ancient temple with a trained guide, for example, learns far more than someone reading a brief sign. Group tours are especially suitable for first-time travellers, older people and those who do not speak the local language, because help is always at hand. Friendships formed on the trip can also be rewarding. However, the schedule is fixed and contact with local life may be limited.\n\nIn conclusion, both views have merit. Personally, I prefer to travel alone or with a small group of friends in familiar places, but I would choose a guided tour for remote or unfamiliar regions where safety and language are concerns.",
+  "analysis": {
+    "type_vi": "Discuss both views: du lịch một mình hay đi tour đoàn",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài mô tả hai cách đi (tự đặt vé và đi tuỳ ý / tham gia tour tổ chức sẵn); mỗi thân bài một phía; ý kiến riêng linh hoạt theo hoàn cảnh.",
+        "refs": [
+          "FR-struct-both",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe một mình",
+        "think": "Tự do, linh hoạt, trưởng thành: chọn lộ trình và nhịp độ; ở lâu nơi thích; gặp người địa phương dễ hơn; tự giải quyết vấn đề xây dựng tự tin; có thể rẻ hơn. Ví dụ du khách đổi kế hoạch theo gợi ý của người địa phương phát hiện ngôi làng không tour nào đến.",
+        "refs": [
+          "ID-trv-solo",
+          "EX-trv-solo-rail"
+        ]
+      },
+      {
+        "step": "3. Phe tour đoàn",
+        "think": "Tiện, an toàn, giá trị tốt: vận chuyển, khách sạn, hướng dẫn viên sắp sẵn; chia chi phí; hướng dẫn viên giải thích lịch sử. Ví dụ nhóm thăm đền cổ có hướng dẫn viên. Hợp người đi lần đầu, người lớn tuổi, không biết ngôn ngữ. Giới hạn: lịch trình cố định, ít tiếp xúc cuộc sống địa phương.",
+        "refs": [
+          "ID-trv-group",
+          "EX-trv-group-guide"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tự đi hoặc nhóm nhỏ nơi quen thuộc; chọn tour có hướng dẫn cho vùng xa lạ cần an toàn và ngôn ngữ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-solo",
+      "ID-trv-group",
+      "EX-trv-solo-rail",
+      "EX-trv-group-guide"
+    ]
+  },
+  "chunks": [
+    [
+      "book flights and hotels on their own",
+      "tự đặt chuyến bay và khách sạn"
+    ],
+    [
+      "go wherever they please",
+      "đi bất cứ đâu họ thích"
+    ],
+    [
+      "organised group tours",
+      "tour đoàn có tổ chức"
+    ],
+    [
+      "supporters of solo travel",
+      "người ủng hộ du lịch một mình"
+    ],
+    [
+      "freedom, flexibility and personal growth",
+      "tự do, linh hoạt và trưởng thành cá nhân"
+    ],
+    [
+      "choose their own route and pace",
+      "chọn lộ trình và nhịp độ riêng"
+    ],
+    [
+      "part of a crowd",
+      "một phần của đám đông"
+    ],
+    [
+      "follow a local's recommendation",
+      "làm theo gợi ý của người địa phương"
+    ],
+    [
+      "discover a village that no tour would visit",
+      "khám phá ngôi làng mà tour nào cũng không đến"
+    ],
+    [
+      "bargaining for a bed",
+      "mặc cả chỗ ngủ"
+    ],
+    [
+      "builds confidence and independence",
+      "xây dựng sự tự tin và tính độc lập"
+    ],
+    [
+      "return more mature",
+      "trở về chín chắn hơn"
+    ],
+    [
+      "convenient, safe and good value",
+      "tiện lợi, an toàn và đáng tiền"
+    ],
+    [
+      "organised in advance",
+      "được tổ chức trước"
+    ],
+    [
+      "costs are shared",
+      "chi phí được chia sẻ"
+    ],
+    [
+      "a knowledgeable guide",
+      "hướng dẫn viên am hiểu"
+    ],
+    [
+      "first-time travellers",
+      "du khách đi lần đầu"
+    ],
+    [
+      "help is always at hand",
+      "luôn có sự giúp đỡ ngay bên cạnh"
+    ],
+    [
+      "the schedule is fixed",
+      "lịch trình cố định"
+    ],
+    [
+      "remote or unfamiliar regions",
+      "vùng xa xôi hoặc xa lạ"
+    ]
+  ]
+}

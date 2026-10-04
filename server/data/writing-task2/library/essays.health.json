@@ -3593,7 +3593,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T21:04:42.099Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 7
+        },
+        "summary": "Đây là một bài khá chắc, đúng đề, bố cục gọn gàng và dùng từ chủ đề tốt, ước khoảng band 7.0. Hạn chế chính là các biện pháp được nêu khá dàn trải, ít đào sâu, và một số câu dài bị nối sai bằng dấu phẩy. Nếu phát triển ý sâu hơn và tách câu hợp lý, bài có thể lên 7.5.",
+        "weaknesses": [
+          "Phần lớn biện pháp chỉ được nêu trong một câu, thiếu lý giải cơ chế hoặc ví dụ nên chiều sâu phát triển ý còn hạn chế.",
+          "Ý 'viện trợ quốc tế' không thật sự là biện pháp chính phủ trực tiếp thực hiện, làm loãng tính 'practical measures' của đề.",
+          "Nhiều câu quá dài, nối các mệnh đề độc lập chỉ bằng dấu phẩy (comma splice), ảnh hưởng độ rõ ràng.",
+          "Từ 'water' lặp lại quá nhiều lần, thiếu paraphrase đa dạng."
+        ]
+      }
     },
     {
       "questionId": 285,
@@ -3690,7 +3709,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T21:04:42.922Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Đây là một bài Discuss both views chất lượng cao: trả lời đúng đề, lập trường rõ ràng, lập luận chặt chẽ và có ví dụ minh họa. Ngôn ngữ chính xác và mạch lạc, chỉ còn vài lỗi nhỏ về collocation và mạo từ. Ước tính tổng band khoảng 7.5–8.0.",
+        "weaknesses": [
+          "Một số cụm chưa chuẩn về mạo từ/giới từ: 'out of reach of ordinary fans', 'an example to young people'",
+          "Câu ở thân bài 1 ('Rare talent attracts... these profits') gộp quá nhiều mệnh đề, làm giảm độ gọn gàng",
+          "Câu mở bài mang tính khuôn mẫu ('This essay will consider both perspectives before explaining my own opinion')",
+          "Từ vựng tốt nhưng chưa có nhiều từ/cụm ít gặp và đặc sắc để vượt lên band 8"
+        ]
+      }
     },
     {
       "questionId": 290,
@@ -3789,7 +3827,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T21:04:54.490Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Đây là một bài viết tốt, lập trường rõ, ý tưởng được phát triển hợp lý và ngôn ngữ chính xác, gần như không có lỗi ngữ pháp. Điểm hạn chế chính nằm ở cách phân đoạn (phần nhượng bộ bị trộn vào đoạn thân bài 2) và độ đa dạng từ vựng/cấu trúc còn ở mức an toàn. Ước lượng tổng thể khoảng 7.5.",
+        "weaknesses": [
+          "Đoạn thân bài 2 vừa nêu thêm lợi ích vừa nhượng bộ, làm mạch lập luận gãy và khiến phần \"extent\" không được tách bạch.",
+          "Lạm dụng cụm \"environmental laws\" (hơn 5 lần) mà không dùng biến thể đồng nghĩa, làm giảm điểm Lexical Resource.",
+          "Cấu trúc câu khá đơn điệu về mẫu, thiếu câu điều kiện phức, đảo ngữ hay mệnh đề rút gọn để tăng độ đa dạng ngữ pháp.",
+          "Có một vài chỗ diễn đạt thiếu chính xác về logic/collocation, ví dụ \"limits on ... contaminated water\" và \"lowered lead poisoning in children\"."
+        ]
+      }
     },
     {
       "questionId": 291,
@@ -3886,7 +3943,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T21:05:12.930Z",
+        "overall": 7,
+        "bands": {
+          "taskResponse": 7,
+          "coherenceCohesion": 7,
+          "lexicalResource": 7,
+          "grammar": 7.5
+        },
+        "summary": "Bài viết khá tốt, đạt khoảng band 7.0 nhờ trả lời đúng đề, bố cục rõ và ngôn ngữ kiểm soát tốt. Điểm mạnh nhất là lập luận hai chiều và từ vựng chủ đề. Để lên 7.5+, cần nêu quan điểm ngay ở mở bài, dùng collocation tự nhiên hơn và làm mạch liên kết đoạn 2 mượt hơn.",
+        "weaknesses": [
+          "Mở bài chưa có thesis rõ ràng; người đọc chỉ biết quan điểm ở kết bài.",
+          "Một số collocation chưa chuẩn hoặc chưa tự nhiên: birth rate initiatives, small and slow, certain returns.",
+          "Đoạn thân thứ hai chuyển ý hơi đột ngột từ phê phán sáng kiến sinh đẻ sang lợi ích y tế.",
+          "Ví dụ còn khá giả định, chưa có so sánh định lượng hoặc dẫn chứng cụ thể để tăng sức thuyết phục."
+        ]
+      }
     },
     {
       "questionId": 296,
@@ -3985,7 +4061,26 @@
         ]
       },
       "final": 1,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 1,
+        "at": "2026-10-03T21:05:02.597Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Đây là một bài khá tốt, vượt mốc 250 từ (285 từ), lập trường rõ ràng, lập luận hai chiều và dùng từ – ngữ pháp ở mức khá cao. Điểm hạn chế chính nằm ở việc chưa làm nổi bật 'mức độ đồng ý' như đề yêu cầu và một số cách diễn đạt còn chung chung, lặp từ. Ước lượng tổng thể: khoảng 7.5.",
+        "weaknesses": [
+          "Chưa cụ thể hóa 'mức độ' đồng ý (extent) — chỉ dừng ở mức 'đồng ý một phần' chung chung mà không nói rõ mạnh hay nhẹ.",
+          "Đoạn thân 2 gom quá nhiều ý (bất bình đẳng, giáo dục, thất nghiệp, tham nhũng, phân biệt đối xử, chính sách kinh tế), khiến mỗi ý bị khai thác hời hợt.",
+          "Từ vựng đôi chỗ mơ hồ và lặp: 'difficulties', 'opportunities', 'social problems' xuất hiện nhiều lần.",
+          "Có vài chỗ diễn đạt chưa gọn và đại từ quy chiếu chưa rõ ('Tackling them...')."
+        ]
+      }
     },
     {
       "questionId": 301,
@@ -4093,7 +4188,26 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T21:05:11.083Z",
+        "overall": 8,
+        "bands": {
+          "taskResponse": 8,
+          "coherenceCohesion": 8,
+          "lexicalResource": 7.5,
+          "grammar": 8
+        },
+        "summary": "Đây là một bài khá tốt, lập trường rõ ràng, lập luận chặt chẽ và triển khai đầy đủ hai lý do như đề yêu cầu. Ngữ pháp và bố cục gần như không có lỗi, từ vựng phù hợp và tự nhiên. Để vươn lên band 8.5-9, cần đa dạng hơn cách diễn đạt (tránh lặp câu/cụm từ giữa mở bài và thân bài) và dùng từ ngữ chính xác, giàu sắc thái hơn.",
+        "weaknesses": [
+          "Câu chủ đề ở thân bài 1 lặp lại gần nguyên văn câu trong mở bài, làm giảm tính linh hoạt của diễn đạt.",
+          "Một số collocation chưa thật chuẩn xác: \"healthier people... cost less\" (người không \"cost\", chi phí tác động lên nền kinh tế/ngân sách).",
+          "Còn lặp từ khá nhiều (\"cost\", \"health\", \"economic growth\", \"country\") và thiếu synonym đa dạng.",
+          "Đại từ quan hệ \"which\" trong câu về epidemics hơi mơ hồ về quy chiếu (cả mệnh đề trước hay chỉ một phần?)."
+        ]
+      }
     },
     {
       "questionId": 303,
@@ -4199,7 +4313,26 @@
         ]
       },
       "final": 2,
-      "passed": true
+      "passed": true,
+      "crossCheck": {
+        "engine": "deepseek",
+        "version": 2,
+        "at": "2026-10-03T21:05:17.930Z",
+        "overall": 7.5,
+        "bands": {
+          "taskResponse": 7.5,
+          "coherenceCohesion": 7.5,
+          "lexicalResource": 7.5,
+          "grammar": 7.5
+        },
+        "summary": "Đây là một bài viết tốt, đúng dạng Advantages/Disadvantages, đủ số từ (273 từ) và có lập trường rõ ràng ở phần kết. Lập luận mạch lạc, phát triển ý hợp lý với ví dụ cụ thể, và ngôn ngữ khá chính xác, tự nhiên. Để đạt band 8, cần làm nổi bật quan điểm ngay từ mở bài, cân đối hơn giữa hai phía, và tinh chỉnh vài chỗ dùng từ/đại từ tham chiếu.",
+        "weaknesses": [
+          "Lập trường chưa được thể hiện ngay từ mở bài, khiến bài mang tính 'dàn ý' hơn là 'lập luận'.",
+          "Phần nhược điểm ít được phát triển hơn phần ưu điểm (thiếu ví dụ cụ thể cho phía này).",
+          "Một số cách dùng từ/cụm từ chưa thật chuẩn ('failed with dieting') và đại từ tham chiếu mơ hồ ('Their success', 'improves mobility').",
+          "Có chỗ lặp từ ('programmes', 'weight-loss interventions') và chuỗi 'and' làm câu kém trong sáng."
+        ]
+      }
     },
     {
       "questionId": 306,

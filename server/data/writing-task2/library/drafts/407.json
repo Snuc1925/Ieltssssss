@@ -1,0 +1,127 @@
+{
+  "questionId": 407,
+  "text": "A few private companies now offer short trips beyond the atmosphere to those who can pay, and some people believe that space tourism will benefit humanity. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that space tourism may drive new technology and inspire people. Competition between companies can lower the cost of rockets, and developments in materials, engines and life-support systems often find uses on Earth, as earlier space programmes did. The sight of ordinary people travelling to orbit may also encourage young people to study science and engineering, and astronauts who see the planet from space often describe a stronger sense of its fragility and unity. A company that learns to reuse rockets, for example, may make future satellite launches cheaper, which benefits communication and weather forecasting. Over time, space tourism might even help to develop research facilities in orbit.\n\nOn the other hand, critics point out that its benefits to humanity are uncertain. Flights are affordable only to the very rich, release significant emissions and carry real risks, and the same money and talent could be used on problems such as poverty, disease and climate change. Public attention and funding may also be diverted from more useful space science, such as monitoring the Earth. A flight that costs as much as a hospital ward, for instance, seems a poor use of resources when many people lack basic care. Supporters of the industry may exaggerate its social value to attract investors.\n\nIn conclusion, both views have merit. Personally, I believe that space tourism is mainly an entertainment for the wealthy, and that its benefits to humanity will be limited unless emissions are controlled and the technology serves wider scientific goals.",
+  "analysis": {
+    "type_vi": "Discuss both views: du lịch vũ trụ có đem lại lợi ích cho nhân loại không",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài mô tả hiện trạng (vài công ty tư nhân bán chuyến ngắn ra ngoài khí quyển); mỗi thân bài một phía; ý kiến riêng thiên về hoài nghi có điều kiện.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Cạnh tranh giảm chi phí tên lửa; vật liệu, động cơ, hệ thống hỗ trợ sự sống có ứng dụng trên Trái Đất; truyền cảm hứng người trẻ học khoa học; phi hành gia thấy hành tinh mong manh. Ví dụ công ty học tái sử dụng tên lửa làm phóng vệ tinh rẻ hơn.",
+        "refs": [
+          "ID-trv-space",
+          "ID-health-tech-diagnosis"
+        ]
+      },
+      {
+        "step": "3. Phe phản đối",
+        "think": "Chỉ người rất giàu mua nổi, phát thải đáng kể, rủi ro; tiền và nhân tài có thể dùng cho nghèo đói, bệnh tật, khí hậu; sự chú ý có thể chệch khỏi khoa học vũ trụ hữu ích hơn. Ví dụ chuyến bay đắt bằng một khoa bệnh viện.",
+        "refs": [
+          "ID-trv-space",
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chủ yếu là giải trí cho người giàu; lợi ích hạn chế trừ khi kiểm soát phát thải và phục vụ mục tiêu khoa học rộng hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-space"
+    ]
+  },
+  "chunks": [
+    [
+      "beyond the atmosphere",
+      "vượt ra ngoài khí quyển"
+    ],
+    [
+      "space tourism",
+      "du lịch vũ trụ"
+    ],
+    [
+      "benefit humanity",
+      "mang lại lợi ích cho nhân loại"
+    ],
+    [
+      "drive new technology and inspire people",
+      "thúc đẩy công nghệ mới và truyền cảm hứng"
+    ],
+    [
+      "lower the cost of rockets",
+      "giảm chi phí tên lửa"
+    ],
+    [
+      "materials, engines and life-support systems",
+      "vật liệu, động cơ và hệ thống hỗ trợ sự sống"
+    ],
+    [
+      "find uses on Earth",
+      "tìm thấy ứng dụng trên Trái Đất"
+    ],
+    [
+      "encourage young people to study science and engineering",
+      "khuyến khích người trẻ học khoa học và kỹ thuật"
+    ],
+    [
+      "the planet's fragility and unity",
+      "sự mong manh và thống nhất của hành tinh"
+    ],
+    [
+      "reuse rockets",
+      "tái sử dụng tên lửa"
+    ],
+    [
+      "satellite launches",
+      "các vụ phóng vệ tinh"
+    ],
+    [
+      "communication and weather forecasting",
+      "liên lạc và dự báo thời tiết"
+    ],
+    [
+      "affordable only to the very rich",
+      "chỉ người rất giàu mới mua nổi"
+    ],
+    [
+      "release significant emissions",
+      "thải lượng khí thải đáng kể"
+    ],
+    [
+      "carry real risks",
+      "chứa rủi ro thật"
+    ],
+    [
+      "poverty, disease and climate change",
+      "nghèo đói, bệnh tật và biến đổi khí hậu"
+    ],
+    [
+      "diverted from more useful space science",
+      "bị chuyển khỏi khoa học vũ trụ hữu ích hơn"
+    ],
+    [
+      "a poor use of resources",
+      "cách dùng nguồn lực kém"
+    ],
+    [
+      "exaggerate its social value",
+      "phóng đại giá trị xã hội của nó"
+    ],
+    [
+      "an entertainment for the wealthy",
+      "thú tiêu khiển của người giàu"
+    ]
+  ]
+}

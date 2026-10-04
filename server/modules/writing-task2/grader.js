@@ -1,4 +1,5 @@
-import { getClient, MODEL } from '../writing-fix/gemini.js';
+import { GoogleGenAI } from '@google/genai';
+import { MODEL } from '../writing-fix/gemini.js';
 import { countWords } from './essayStore.js';
 
 const SYSTEM_INSTRUCTION = `Bạn là giám khảo IELTS Writing Task 2 giàu kinh nghiệm, chấm bài cho người Việt đang tự học.
@@ -66,17 +67,38 @@ function extractJson(text) {
 // ---- Engine: Gemini mặc định, tự chuyển sang DeepSeek khi hết quota / quá tải ----
 const DEEPSEEK_URL = 'https://api.deepseek.com/chat/completions';
 const GEMINI_FALLBACK_RE = /429|quota|RESOURCE_EXHAUSTED|UNAVAILABLE|503|overloaded|GEMINI_API_KEY/i;
-let geminiCooldownUntil = 0;
+// Nhiều khoá Gemini: GEMINI_API_KEY trước, hết quota thì GEMINI_API_KEY_2; mỗi khoá có thời gian nghỉ riêng.
+const geminiKeys = () => [process.env.GEMINI_API_KEY, process.env.GEMINI_API_KEY_2].map((k) => (k || '').trim()).filter(Boolean);
+const geminiClients = new Map();
+const geminiCooldown = new Map();
 
-async function callGemini(prompt) {
-  const ai = getClient();
-  const response = await ai.models.generateContent({
+async function callGeminiWithKey(key, prompt) {
+  if (!geminiClients.has(key)) geminiClients.set(key, new GoogleGenAI({ apiKey: key }));
+  const response = await geminiClients.get(key).models.generateContent({
     model: MODEL,
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     config: { systemInstruction: SYSTEM_INSTRUCTION, responseMimeType: 'application/json', temperature: 0.3 },
   });
   if (!response.text) throw new Error('Gemini không trả về kết quả chấm. Vui lòng thử lại.');
   return response.text;
+}
+
+// Thử lần lượt các khoá chưa bị nghỉ; lỗi quota/quá tải thì cho khoá đó nghỉ 10 phút rồi sang khoá kế.
+async function callGemini(prompt) {
+  const keys = geminiKeys();
+  if (!keys.length) throw new Error('Thiếu GEMINI_API_KEY.');
+  let lastErr;
+  for (const key of keys) {
+    if (Date.now() < (geminiCooldown.get(key) || 0)) continue;
+    try {
+      return await callGeminiWithKey(key, prompt);
+    } catch (err) {
+      if (!GEMINI_FALLBACK_RE.test(err.message)) throw err;
+      geminiCooldown.set(key, Date.now() + 10 * 60 * 1000);
+      lastErr = err;
+    }
+  }
+  throw lastErr || new Error('Tất cả khoá Gemini đang nghỉ (429 quota).');
 }
 
 async function callDeepSeek(prompt) {
@@ -108,13 +130,10 @@ async function generate(prompt) {
   const mode = (process.env.GRADER_ENGINE || 'auto').toLowerCase();
   if (mode === 'deepseek') return { engine: 'deepseek', text: await callDeepSeek(prompt) };
   if (mode === 'gemini') return { engine: 'gemini', text: await callGemini(prompt) };
-  if (Date.now() >= geminiCooldownUntil) {
-    try {
-      return { engine: 'gemini', text: await callGemini(prompt) };
-    } catch (err) {
-      if (!GEMINI_FALLBACK_RE.test(err.message)) throw err;
-      geminiCooldownUntil = Date.now() + 10 * 60 * 1000;
-    }
+  try {
+    return { engine: 'gemini', text: await callGemini(prompt) };
+  } catch (err) {
+    if (!GEMINI_FALLBACK_RE.test(err.message) && !/Tất cả khoá Gemini/.test(err.message)) throw err;
   }
   return { engine: 'deepseek', text: await callDeepSeek(prompt) };
 }

@@ -1,0 +1,130 @@
+{
+  "questionId": 404,
+  "text": "Millions of people now travel for pleasure, and popular destinations suffer from litter, crowds, rising prices and damage to nature. This essay will suggest practical measures that governments could take, focusing on limiting the impact of visitors and on keeping the benefits in local communities.\n\nTo begin with, governments should limit the impact of visitors on popular sites. Visitor caps and environmental fees protect fragile places, rules on waste and water reduce pollution, and strict building regulations prevent hotels from destroying coastlines and forests. A famous trail that issues only a fixed number of daily permits, for example, stays in good condition while still welcoming visitors. Public transport and walking routes can replace cars in crowded areas, and tourist taxes can pay for cleaning, repairs and conservation. Information at airports and hotels can explain local rules, such as not feeding animals or touching coral.\n\nIn addition, authorities should make sure that tourism benefits local people and respects their culture. Certification schemes and loans for small, locally owned guesthouses and tour operators keep more income in the community, while training helps residents to work as guides and managers instead of low-paid staff. Governments can also require consultation with villages before new developments are approved, and support the preservation of local crafts and traditions. Equally important, campaigns can encourage visitors to choose responsible operators and to behave respectfully, for example by dressing appropriately at sacred sites. These measures cost little compared with the long-term damage caused by uncontrolled tourism, and they protect the places that visitors come to see.\n\nIn conclusion, limiting the impact of visitors and keeping the benefits local offer the most realistic way of fostering responsible tourism.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ thúc đẩy du lịch có trách nhiệm",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu vấn đề (rác, đông đúc, giá tăng, hại thiên nhiên ở điểm nổi tiếng) và hai nhóm: hạn chế tác động của du khách; giữ lợi ích trong cộng đồng địa phương.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — hạn chế tác động",
+        "think": "Giới hạn lượng khách, phí môi trường, quy tắc rác và nước, quy định xây dựng; ví dụ tuyến đường nổi tiếng chỉ cấp số giấy phép cố định mỗi ngày; giao thông công cộng thay xe; thuế du lịch trả cho dọn dẹp, bảo tồn; thông tin về quy tắc địa phương.",
+        "refs": [
+          "ID-trv-responsible",
+          "EX-trv-permit-limit",
+          "ID-env-gov-rules",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — lợi ích cho người địa phương",
+        "think": "Chứng nhận và vay cho nhà nghỉ, công ty tour nhỏ do người địa phương sở hữu; đào tạo hướng dẫn viên, quản lý; tham vấn làng trước khi phê duyệt dự án; bảo tồn nghề thủ công; chiến dịch khuyến khích chọn nhà tổ chức có trách nhiệm và tôn trọng văn hoá.",
+        "refs": [
+          "ID-trv-responsible",
+          "ID-trv-rural",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-responsible",
+      "EX-trv-permit-limit"
+    ]
+  },
+  "chunks": [
+    [
+      "travel for pleasure",
+      "đi du lịch giải trí"
+    ],
+    [
+      "popular destinations suffer from litter, crowds",
+      "điểm đến nổi tiếng chịu rác, đám đông"
+    ],
+    [
+      "rising prices",
+      "giá cả tăng"
+    ],
+    [
+      "foster responsible tourism",
+      "thúc đẩy du lịch có trách nhiệm"
+    ],
+    [
+      "limiting the impact of visitors",
+      "hạn chế tác động của du khách"
+    ],
+    [
+      "keeping the benefits in local communities",
+      "giữ lợi ích trong cộng đồng địa phương"
+    ],
+    [
+      "Visitor caps and environmental fees",
+      "giới hạn lượng khách và phí môi trường"
+    ],
+    [
+      "protect fragile places",
+      "bảo vệ những nơi mong manh"
+    ],
+    [
+      "rules on waste and water",
+      "quy định về rác và nước"
+    ],
+    [
+      "strict building regulations",
+      "quy định xây dựng nghiêm ngặt"
+    ],
+    [
+      "issues only a fixed number of daily permits",
+      "chỉ cấp số giấy phép cố định mỗi ngày"
+    ],
+    [
+      "stays in good condition",
+      "giữ được tình trạng tốt"
+    ],
+    [
+      "tourist taxes",
+      "thuế du lịch"
+    ],
+    [
+      "cleaning, repairs and conservation",
+      "dọn dẹp, sửa chữa và bảo tồn"
+    ],
+    [
+      "Certification schemes and loans",
+      "chương trình chứng nhận và khoản vay"
+    ],
+    [
+      "locally owned guesthouses",
+      "nhà nghỉ do người địa phương sở hữu"
+    ],
+    [
+      "keep more income in the community",
+      "giữ nhiều thu nhập hơn trong cộng đồng"
+    ],
+    [
+      "consultation with villages",
+      "tham vấn với các làng"
+    ],
+    [
+      "respectfully",
+      "một cách tôn trọng"
+    ],
+    [
+      "uncontrolled tourism",
+      "du lịch không kiểm soát"
+    ]
+  ]
+}

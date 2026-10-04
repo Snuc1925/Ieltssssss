@@ -1,0 +1,128 @@
+{
+  "questionId": 17,
+  "text": "Tourism is one of the world's largest industries, and many countries try to attract more visitors. This essay will outline two principal benefits for a country that focuses on tourism: economic gains and a stronger sense of cultural pride.\n\nFirst and foremost, tourism brings income, jobs and foreign currency to the host country. Visitors spend money on hotels, food, transport and souvenirs, which supports many small businesses, and the roads, airports and services built for tourists also benefit residents. A family that opens a small guesthouse, for example, earns a living and also buys food and services from neighbours, so the money spreads through the community. Tourism creates jobs for people with a wide range of skills, from guides and drivers to cooks and cleaners, and it can reach regions where other industries are weak. Foreign currency earned from visitors can pay for imports and help the national economy.\n\nIn addition, tourism strengthens cultural pride and understanding. When visitors show interest in local traditions, music, food and history, residents have a reason to preserve them, and crafts that might have disappeared can survive because tourists want to buy them. Contact with people from other countries also broadens horizons, encourages language learning and can reduce prejudice on both sides. Historic buildings and parks that would be too expensive to maintain from local taxes alone can be protected using entrance fees. Although tourism needs careful management so that it does not damage the places it depends on, a country that plans well can enjoy lasting benefits.\n\nTo sum up, tourism brings clear benefits to a country, above all income and employment and a stronger sense of cultural identity. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào du lịch — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Dùng khung các đề benefits trước (197, 77, 5): báo trước hai lợi ích (kinh tế; tự hào văn hoá), mỗi thân bài một lợi ích.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — kinh tế",
+        "think": "Du khách chi cho khách sạn, thức ăn, vận chuyển, quà lưu niệm; hạ tầng cũng có lợi cho cư dân; việc làm cho nhiều kỹ năng; ngoại tệ. Ví dụ gia đình mở nhà nghỉ nhỏ.",
+        "refs": [
+          "ID-trv-benefits",
+          "EX-trv-guesthouse"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — văn hoá + nhượng bộ",
+        "think": "Du khách quan tâm truyền thống thì cư dân có lý do giữ gìn; nghề thủ công sống sót vì có người mua; giao lưu mở rộng tầm nhìn; phí vào cửa bảo tồn di tích. Nhượng bộ ngắn: cần quản lý để không hại nơi mình phụ thuộc.",
+        "refs": [
+          "ID-trv-benefits",
+          "ID-trv-limits"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm cuối quen thuộc.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-trv-benefits",
+      "ID-trv-limits",
+      "EX-trv-guesthouse"
+    ]
+  },
+  "chunks": [
+    [
+      "one of the world's largest industries",
+      "một trong những ngành lớn nhất thế giới"
+    ],
+    [
+      "attract more visitors",
+      "thu hút thêm du khách"
+    ],
+    [
+      "economic gains",
+      "lợi ích kinh tế"
+    ],
+    [
+      "a stronger sense of cultural pride",
+      "ý thức tự hào văn hoá mạnh hơn"
+    ],
+    [
+      "income, jobs and foreign currency",
+      "thu nhập, việc làm và ngoại tệ"
+    ],
+    [
+      "the host country",
+      "nước chủ nhà"
+    ],
+    [
+      "hotels, food, transport and souvenirs",
+      "khách sạn, thức ăn, đi lại và quà lưu niệm"
+    ],
+    [
+      "supports many small businesses",
+      "hỗ trợ nhiều doanh nghiệp nhỏ"
+    ],
+    [
+      "opens a small guesthouse",
+      "mở một nhà nghỉ nhỏ"
+    ],
+    [
+      "earns a living",
+      "kiếm sống"
+    ],
+    [
+      "spreads through the community",
+      "lan toả trong cộng đồng"
+    ],
+    [
+      "a wide range of skills",
+      "nhiều loại kỹ năng"
+    ],
+    [
+      "reach regions where other industries are weak",
+      "đến những vùng mà ngành khác yếu"
+    ],
+    [
+      "local traditions, music, food and history",
+      "truyền thống, âm nhạc, ẩm thực và lịch sử địa phương"
+    ],
+    [
+      "a reason to preserve them",
+      "lý do để gìn giữ chúng"
+    ],
+    [
+      "crafts that might have disappeared",
+      "nghề thủ công có thể đã biến mất"
+    ],
+    [
+      "broadens horizons",
+      "mở rộng tầm nhìn"
+    ],
+    [
+      "reduce prejudice",
+      "giảm định kiến"
+    ],
+    [
+      "entrance fees",
+      "phí vào cửa"
+    ],
+    [
+      "lasting benefits",
+      "lợi ích lâu dài"
+    ]
+  ]
+}
