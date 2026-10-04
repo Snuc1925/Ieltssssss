@@ -1,0 +1,130 @@
+{
+  "questionId": 95,
+  "text": "Textbooks that present one national story are increasingly challenged, and some believe that history should be taught from multiple perspectives. I agree to a large extent, since it builds critical thinking and fairness, although a clear framework is needed.\n\nTo begin with, teaching history from several perspectives builds critical thinking and fairness. Events look different to winners and losers, rulers and ordinary people, and comparing accounts teaches pupils to weigh evidence and to understand why people disagree. A class that reads accounts of the same battle from both armies, for example, learns that history depends on who is telling it. Students learn to ask who wrote a source, why and for whom, skills that help them to judge news and political claims in later life. They also develop empathy, since they see how events affected different groups of people, including those who are often absent from official histories, such as women, workers and minorities.\n\nFurthermore, a single national story can create pride that blinds people to injustice, and it may leave members of minority groups feeling invisible. Presenting several perspectives gives a fuller and more honest picture, which strengthens democracy. However, too many versions without a clear framework may confuse young pupils, and teachers need to ensure that accounts are supported by evidence rather than presenting all opinions as equally valid. Some basic facts are not open to debate. Curricula should therefore set out core knowledge and chronology and then encourage comparison of interpretations, with age-appropriate material and trained teachers.\n\nIn conclusion, history should be taught from multiple perspectives to a large extent, because this develops critical thinking and understanding, provided that it is based on evidence and a clear framework.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): dạy lịch sử từ nhiều góc nhìn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu hiện tượng (sách giáo khoa chỉ một câu chuyện quốc gia ngày càng bị thách thức) rồi largely agree + lý do + giới hạn (cần khung rõ ràng).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tư duy phản biện và công bằng",
+        "think": "Sự kiện trông khác với người thắng thua, nhà cầm quyền và dân thường; so sánh các tường thuật dạy học sinh cân nhắc bằng chứng và hiểu vì sao người ta bất đồng. Ví dụ lớp đọc thuật lại cùng một trận đánh của hai đạo quân học rằng lịch sử phụ thuộc người kể. Học hỏi ai viết nguồn, vì sao, cho ai: kỹ năng đánh giá tin tức, tuyên bố chính trị về sau; phát triển đồng cảm với nhóm thường vắng mặt trong lịch sử chính thức (phụ nữ, công nhân, thiểu số).",
+        "refs": [
+          "ID-art-history-perspectives",
+          "EX-art-war-two-sides",
+          "ID-gov-social-awareness",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Một câu chuyện quốc gia có thể tạo tự hào làm mù trước bất công, khiến nhóm thiểu số thấy vô hình; nhiều góc nhìn cho bức tranh đầy đủ, trung thực, củng cố dân chủ. Giới hạn: quá nhiều phiên bản không có khung rõ có thể làm trẻ rối; giáo viên cần bảo đảm các tường thuật dựa trên bằng chứng chứ không coi mọi ý kiến đều đúng như nhau; một số sự kiện cơ bản không thể tranh luận; chương trình đặt kiến thức cốt lõi và niên biểu rồi khuyến khích so sánh diễn giải; tài liệu phù hợp tuổi, giáo viên được đào tạo.",
+        "refs": [
+          "ID-art-history-perspectives",
+          "ID-gov-censorship",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên dạy nhiều góc nhìn ở mức độ lớn vì phát triển tư duy phản biện, dựa trên bằng chứng và khung rõ ràng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-history-perspectives",
+      "EX-art-war-two-sides"
+    ]
+  },
+  "chunks": [
+    [
+      "one national story",
+      "một câu chuyện quốc gia"
+    ],
+    [
+      "taught from multiple perspectives",
+      "được dạy từ nhiều góc nhìn"
+    ],
+    [
+      "builds critical thinking and fairness",
+      "xây dựng tư duy phản biện và sự công bằng"
+    ],
+    [
+      "winners and losers, rulers and ordinary people",
+      "người thắng và người thua, người cai trị và dân thường"
+    ],
+    [
+      "comparing accounts",
+      "so sánh các tường thuật"
+    ],
+    [
+      "weigh evidence",
+      "cân nhắc bằng chứng"
+    ],
+    [
+      "understand why people disagree",
+      "hiểu vì sao người ta bất đồng"
+    ],
+    [
+      "the same battle from both armies",
+      "cùng một trận đánh từ cả hai đạo quân"
+    ],
+    [
+      "history depends on who is telling it",
+      "lịch sử phụ thuộc vào người kể"
+    ],
+    [
+      "who wrote a source, why and for whom",
+      "ai viết nguồn tài liệu, vì sao và cho ai"
+    ],
+    [
+      "judge news and political claims",
+      "đánh giá tin tức và tuyên bố chính trị"
+    ],
+    [
+      "empathy",
+      "sự đồng cảm"
+    ],
+    [
+      "women, workers and minorities",
+      "phụ nữ, công nhân và người thiểu số"
+    ],
+    [
+      "pride that blinds people to injustice",
+      "niềm tự hào làm người ta mù trước bất công"
+    ],
+    [
+      "invisible",
+      "vô hình"
+    ],
+    [
+      "a fuller and more honest picture",
+      "bức tranh đầy đủ và trung thực hơn"
+    ],
+    [
+      "strengthens democracy",
+      "củng cố dân chủ"
+    ],
+    [
+      "a clear framework",
+      "khung rõ ràng"
+    ],
+    [
+      "equally valid",
+      "đúng như nhau"
+    ],
+    [
+      "core knowledge and chronology",
+      "kiến thức cốt lõi và niên biểu"
+    ]
+  ]
+}

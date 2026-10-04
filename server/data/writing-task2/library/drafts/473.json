@@ -1,0 +1,129 @@
+{
+  "questionId": 473,
+  "text": "Governments are regularly asked to fund new galleries, theatres, stadiums and sports programmes, and opinions are divided as to whether public money should go to the arts or to sports development. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of sports development argue that sport improves health and brings communities together. Regular exercise reduces obesity and heart disease, saves health costs and gives young people a positive way to spend their time. Sporting success also creates national pride and provides role models, and major events attract visitors and publicity. A new public swimming pool in a poorer district, for example, can give hundreds of children a place to exercise that their families could not otherwise afford. Sport teaches teamwork, discipline and resilience, and it often draws in young people who are not interested in more traditional cultural activities.\n\nOn the other hand, supporters of the arts point out that they develop creativity, cultural identity and mental wellbeing. Museums, theatres and music give people meaning and a sense of belonging, bring communities together and attract tourists. Arts education improves concentration and confidence, and cultural industries create many jobs. Without public support, many cultural activities would disappear, as they cannot survive on commercial income alone, whereas professional sport, with its television rights and sponsors, is often able to fund itself. Culture also records and passes on the stories of a society.\n\nIn conclusion, both views have merit. Overall, I believe that a balanced budget is best, with sport funding concentrated on community and school facilities that improve public health, and arts funding directed to activities that the market would neglect.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho nghệ thuật hay phát triển thể thao",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (chính phủ thường được yêu cầu tài trợ phòng triển lãm, nhà hát, sân vận động, chương trình thể thao) rồi hai phe; ý kiến riêng cân bằng với thể thao tập trung cộng đồng, nghệ thuật cho hoạt động thị trường bỏ qua.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe thể thao",
+        "think": "Thể thao cải thiện sức khoẻ, gắn kết cộng đồng: vận động giảm béo phì, bệnh tim, tiết kiệm chi phí y tế, cho người trẻ cách dùng thời gian tích cực; thành công thể thao tạo tự hào quốc gia, hình mẫu; sự kiện lớn thu hút khách. Ví dụ hồ bơi công mới ở khu nghèo. Dạy làm việc nhóm, kỷ luật, bền bỉ; thu hút người trẻ không thích hoạt động văn hoá truyền thống.",
+        "refs": [
+          "ID-art-arts-vs-sport",
+          "ID-sport-facilities",
+          "EX-sport-new-pool"
+        ]
+      },
+      {
+        "step": "3. Phe nghệ thuật",
+        "think": "Nghệ thuật phát triển sáng tạo, bản sắc, sức khoẻ tinh thần: bảo tàng, nhà hát, nhạc cho ý nghĩa, cảm giác thuộc về, gắn kết, thu hút du khách; giáo dục nghệ thuật cải thiện tập trung và tự tin; công nghiệp văn hoá tạo việc làm. Không hỗ trợ công nhiều hoạt động biến mất vì không sống được bằng thu nhập thương mại, trong khi thể thao chuyên nghiệp có bản quyền truyền hình, nhà tài trợ thường tự lo; văn hoá ghi lại và truyền câu chuyện xã hội.",
+        "refs": [
+          "ID-art-arts-vs-sport",
+          "ID-art-public-funding",
+          "ID-sport-overrated"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ngân sách cân bằng: thể thao tập trung cơ sở cộng đồng và trường học cải thiện sức khoẻ; nghệ thuật cho hoạt động thị trường bỏ qua.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-arts-vs-sport"
+    ]
+  },
+  "chunks": [
+    [
+      "new galleries, theatres, stadiums and sports programmes",
+      "phòng triển lãm, nhà hát, sân vận động và chương trình thể thao mới"
+    ],
+    [
+      "the arts or to sports development",
+      "nghệ thuật hay phát triển thể thao"
+    ],
+    [
+      "improves health and brings communities together",
+      "cải thiện sức khoẻ và gắn kết cộng đồng"
+    ],
+    [
+      "reduces obesity and heart disease",
+      "giảm béo phì và bệnh tim"
+    ],
+    [
+      "saves health costs",
+      "tiết kiệm chi phí y tế"
+    ],
+    [
+      "a positive way to spend their time",
+      "cách tích cực để dùng thời gian"
+    ],
+    [
+      "national pride",
+      "niềm tự hào dân tộc"
+    ],
+    [
+      "provides role models",
+      "tạo hình mẫu"
+    ],
+    [
+      "major events attract visitors and publicity",
+      "các sự kiện lớn thu hút du khách và quảng bá"
+    ],
+    [
+      "a public swimming pool",
+      "hồ bơi công cộng"
+    ],
+    [
+      "teamwork, discipline and resilience",
+      "làm việc nhóm, kỷ luật và sự bền bỉ"
+    ],
+    [
+      "draws in young people",
+      "thu hút người trẻ"
+    ],
+    [
+      "traditional cultural activities",
+      "hoạt động văn hoá truyền thống"
+    ],
+    [
+      "develop creativity, cultural identity and mental wellbeing",
+      "phát triển sáng tạo, bản sắc văn hoá và sức khoẻ tinh thần"
+    ],
+    [
+      "meaning and a sense of belonging",
+      "ý nghĩa và cảm giác thuộc về"
+    ],
+    [
+      "improves concentration and confidence",
+      "cải thiện tập trung và tự tin"
+    ],
+    [
+      "cannot survive on commercial income alone",
+      "không thể sống chỉ bằng thu nhập thương mại"
+    ],
+    [
+      "television rights and sponsors",
+      "bản quyền truyền hình và nhà tài trợ"
+    ],
+    [
+      "fund itself",
+      "tự tài trợ cho mình"
+    ],
+    [
+      "a balanced budget",
+      "ngân sách cân bằng"
+    ]
+  ]
+}

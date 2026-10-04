@@ -1,0 +1,130 @@
+{
+  "questionId": 60,
+  "text": "In many schools, art and music lessons are the first to be cut when timetables are crowded, and some argue that they should be compulsory. I largely agree, since arts and music education develop creativity and confidence in every child, although the amount of compulsory time should be reasonable.\n\nTo begin with, arts and music education develops creativity, discipline and confidence in every child. Learning an instrument or practising drawing trains concentration and patience, gives children a way to express feelings and may reveal talents that would otherwise remain hidden. A shy pupil who joins the school choir, for example, may discover a talent and gain confidence that she would never have found in maths class. Research suggests that musical training is linked with better memory and language skills, and group performances teach teamwork and perseverance. Making these subjects compulsory also ensures access for pupils whose families cannot pay for private lessons or equipment, so that opportunities do not depend on income.\n\nFurthermore, the arts prepare young people for working life and for life as citizens. Employers value creativity, communication and the ability to work with others, and cultural experiences help young people to understand different perspectives. However, compulsion has costs. The time required may reduce time for core subjects, and pupils who dislike a particular art form may feel forced. A sensible compromise would require a modest number of hours of arts and music each week, within which pupils can choose between drawing, drama, singing or instruments, while schools ensure that teaching is of good quality. Provided that lessons are enjoyable and well taught, compulsion can introduce many children to something they will value for life.\n\nIn conclusion, arts and music should be compulsory in schools to a large extent, because they develop creativity and give all pupils access, provided that the time is reasonable and choice is offered.",
+  "analysis": {
+    "type_vi": "Extent: nghệ thuật và âm nhạc có nên bắt buộc ở trường — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu thực tế (tiết nghệ thuật và âm nhạc thường bị cắt đầu tiên khi thời khoá biểu chật) rồi largely agree + lý do + giới hạn (thời lượng bắt buộc hợp lý).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — sáng tạo, kỷ luật, tự tin",
+        "think": "Học nhạc cụ hay vẽ rèn tập trung, kiên nhẫn, cho trẻ cách bày tỏ cảm xúc, có thể phát hiện tài năng ẩn. Ví dụ học sinh nhút nhát vào dàn hợp xướng của trường phát hiện tài năng và tự tin mà giờ toán không cho. Nghiên cứu liên hệ tập nhạc với trí nhớ và ngôn ngữ tốt hơn; biểu diễn nhóm dạy làm việc nhóm; bắt buộc đảm bảo tiếp cận cho trẻ gia đình không trả nổi học phí tư.",
+        "refs": [
+          "ID-art-compulsory-school",
+          "EX-art-choir-pupil",
+          "ID-sport-youth",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Nghệ thuật chuẩn bị đời sống làm việc và công dân: nhà tuyển dụng đánh giá cao sáng tạo, giao tiếp; hiểu quan điểm khác. Giới hạn: bắt buộc có chi phí: thời gian có thể giảm môn cốt lõi; học sinh không thích một loại hình thấy bị ép; thoả hiệp: số giờ khiêm tốn mỗi tuần, trong đó chọn vẽ, kịch, hát hoặc nhạc cụ, giảng dạy chất lượng.",
+        "refs": [
+          "ID-art-compulsory-school",
+          "ID-art-vs-science",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên bắt buộc ở mức độ lớn vì phát triển sáng tạo và cho mọi học sinh tiếp cận, thời lượng hợp lý, có lựa chọn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-compulsory-school",
+      "EX-art-choir-pupil"
+    ]
+  },
+  "chunks": [
+    [
+      "art and music lessons",
+      "tiết nghệ thuật và âm nhạc"
+    ],
+    [
+      "timetables are crowded",
+      "thời khoá biểu chật"
+    ],
+    [
+      "compulsory in schools",
+      "bắt buộc ở trường"
+    ],
+    [
+      "develops creativity, discipline and confidence",
+      "phát triển sáng tạo, kỷ luật và sự tự tin"
+    ],
+    [
+      "trains concentration and patience",
+      "rèn luyện sự tập trung và kiên nhẫn"
+    ],
+    [
+      "a way to express feelings",
+      "cách để bày tỏ cảm xúc"
+    ],
+    [
+      "reveal talents that would otherwise remain hidden",
+      "phát hiện tài năng lẽ ra vẫn bị che giấu"
+    ],
+    [
+      "joins the school choir",
+      "tham gia dàn hợp xướng của trường"
+    ],
+    [
+      "discover a talent",
+      "phát hiện một tài năng"
+    ],
+    [
+      "musical training",
+      "đào tạo âm nhạc"
+    ],
+    [
+      "better memory and language skills",
+      "trí nhớ và kỹ năng ngôn ngữ tốt hơn"
+    ],
+    [
+      "teamwork and perseverance",
+      "làm việc nhóm và kiên trì"
+    ],
+    [
+      "ensures access",
+      "đảm bảo sự tiếp cận"
+    ],
+    [
+      "private lessons or equipment",
+      "bài học riêng hoặc thiết bị"
+    ],
+    [
+      "creativity, communication and the ability to work with others",
+      "sáng tạo, giao tiếp và khả năng làm việc với người khác"
+    ],
+    [
+      "understand different perspectives",
+      "hiểu các góc nhìn khác nhau"
+    ],
+    [
+      "time for core subjects",
+      "thời gian cho các môn cốt lõi"
+    ],
+    [
+      "feel forced",
+      "cảm thấy bị ép"
+    ],
+    [
+      "a sensible compromise",
+      "sự thoả hiệp hợp lý"
+    ],
+    [
+      "something they will value for life",
+      "điều họ sẽ trân trọng suốt đời"
+    ]
+  ]
+}

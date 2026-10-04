@@ -1,0 +1,130 @@
+{
+  "questionId": 436,
+  "text": "Statues of generals, kings and traders stand in many city squares, and some of them are now seen as symbols of slavery, conquest or oppression, so many people think that public monuments should remain even if controversial. I agree to a large extent, since removing them can hide uncomfortable parts of the past, although some cases need special treatment.\n\nTo begin with, controversial monuments can be kept if their history is explained. Removing them can hide uncomfortable parts of the past, whereas plaques, museums and discussion help people to learn. A statue of a controversial figure that carries a plaque explaining his crimes, for example, teaches visitors more than an empty plinth. History is not always comfortable, and a society that erases every symbol that offends someone risks forgetting what happened and why. Monuments also show how attitudes have changed, since they reflect the values of the time in which they were built, and keeping them with context allows people to see how far society has moved. Public debate about them can itself be educational.\n\nHowever, some monuments honour people responsible for great harm, and for communities that suffered, they can cause real pain. Decisions should therefore involve the affected community and clear criteria. In extreme cases, such as monuments that glorify genocide or mass violence, relocation to a museum may be justified, where they can be explained and studied instead of celebrated in a place of honour. Another option is to add new monuments that tell the stories of those who were ignored, so that the public landscape becomes more balanced. Destruction by crowds should be avoided, since decisions should be made lawfully and with debate.\n\nIn conclusion, public monuments should generally remain, even if controversial, provided that they are explained, and only in exceptional cases should they be moved, after open and fair discussion.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: đài tưởng niệm công cộng nên giữ lại dù gây tranh cãi — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu hiện tượng (tượng tướng, vua, thương nhân đứng ở nhiều quảng trường, một số nay bị coi là biểu tượng nô lệ, chinh phục, áp bức) rồi largely agree + lý do + trường hợp đặc biệt.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giữ để học",
+        "think": "Gỡ bỏ có thể che giấu phần khó chịu của quá khứ, trong khi bảng giải thích, bảo tàng, thảo luận giúp học. Ví dụ tượng nhân vật gây tranh cãi có bảng nêu tội ác dạy du khách nhiều hơn bệ trống. Lịch sử không luôn dễ chịu; xã hội xoá mọi biểu tượng làm ai đó phật lòng có nguy cơ quên điều đã xảy ra; đài tưởng niệm phản ánh giá trị thời xây nên cho thấy xã hội đã đi xa bao nhiêu; tranh luận công khai cũng mang tính giáo dục.",
+        "refs": [
+          "ID-art-monuments",
+          "EX-art-statue-plaque",
+          "ID-art-history-perspectives",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn — trường hợp đặc biệt",
+        "think": "Một số tôn vinh người gây hại lớn, với cộng đồng từng chịu khổ có thể gây đau thật; quyết định nên có cộng đồng bị ảnh hưởng và tiêu chí rõ; trường hợp cực đoan (tôn vinh diệt chủng, bạo lực hàng loạt) có thể di dời vào bảo tàng nơi được giải thích thay vì tôn vinh; thêm đài mới kể câu chuyện người bị bỏ qua; tránh đám đông phá hủy, quyết định hợp pháp và có tranh luận.",
+        "refs": [
+          "ID-art-monuments",
+          "ID-art-artifacts-abroad",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhìn chung nên giữ nếu được giải thích; chỉ trường hợp ngoại lệ mới di dời sau thảo luận công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-monuments",
+      "EX-art-statue-plaque"
+    ]
+  },
+  "chunks": [
+    [
+      "Statues of generals, kings and traders",
+      "tượng tướng quân, vua và thương nhân"
+    ],
+    [
+      "symbols of slavery, conquest or oppression",
+      "biểu tượng của nô lệ, chinh phục hoặc áp bức"
+    ],
+    [
+      "public monuments should remain",
+      "đài tưởng niệm công cộng nên được giữ lại"
+    ],
+    [
+      "controversial",
+      "gây tranh cãi"
+    ],
+    [
+      "hide uncomfortable parts of the past",
+      "che giấu những phần khó chịu của quá khứ"
+    ],
+    [
+      "plaques, museums and discussion",
+      "bảng giải thích, bảo tàng và thảo luận"
+    ],
+    [
+      "a plaque explaining his crimes",
+      "tấm bảng giải thích tội ác của ông ta"
+    ],
+    [
+      "an empty plinth",
+      "bệ trống"
+    ],
+    [
+      "erases every symbol that offends someone",
+      "xoá mọi biểu tượng làm ai đó phật lòng"
+    ],
+    [
+      "forgetting what happened and why",
+      "quên điều đã xảy ra và vì sao"
+    ],
+    [
+      "reflect the values of the time in which they were built",
+      "phản ánh giá trị của thời kỳ chúng được xây"
+    ],
+    [
+      "how far society has moved",
+      "xã hội đã tiến xa đến đâu"
+    ],
+    [
+      "honour people responsible for great harm",
+      "tôn vinh người chịu trách nhiệm cho tổn hại lớn"
+    ],
+    [
+      "real pain",
+      "nỗi đau thực sự"
+    ],
+    [
+      "the affected community and clear criteria",
+      "cộng đồng bị ảnh hưởng và tiêu chí rõ ràng"
+    ],
+    [
+      "glorify genocide or mass violence",
+      "tôn vinh diệt chủng hoặc bạo lực hàng loạt"
+    ],
+    [
+      "relocation to a museum",
+      "chuyển vào bảo tàng"
+    ],
+    [
+      "a place of honour",
+      "nơi trang trọng"
+    ],
+    [
+      "the stories of those who were ignored",
+      "câu chuyện của những người bị bỏ qua"
+    ],
+    [
+      "decisions should be made lawfully",
+      "quyết định nên được đưa ra hợp pháp"
+    ]
+  ]
+}

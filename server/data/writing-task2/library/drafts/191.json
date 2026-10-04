@@ -1,0 +1,130 @@
+{
+  "questionId": 191,
+  "text": "Governments cannot fund everything, and opinions are divided as to whether public money should be spent mainly on science or on arts funding. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of science funding argue that science drives medicine, technology and economic growth. Research produces new treatments, cleaner energy, faster communication and discoveries that improve living standards for everyone. A single breakthrough, such as a vaccine, can save millions of lives and repay its cost many times over. Countries that invest heavily in research tend to have stronger economies and greater security, and young scientists need training, laboratories and long-term support that only governments can provide. Pressing problems, from disease to climate change, can be solved only through scientific knowledge.\n\nOn the other hand, supporters of arts funding point out that the arts develop creativity, identity and wellbeing. Museums, theatres and music give people a sense of belonging and meaning, bring communities together and attract visitors, and creative skills are increasingly valued in modern work. An engineer who designs a bridge, for example, needs science to make it strong and art to make it beautiful. Arts and science also support each other, since scientific thinking depends on imagination. Without funding, many cultural institutions would close, and future generations would be culturally poorer.\n\nIn conclusion, both views have merit. Personally, I believe that science should receive the larger share, because it addresses urgent material needs and drives growth, but the arts deserve a stable and meaningful budget, since a society needs both prosperity and culture.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho khoa học hay nghệ thuật",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Dùng cấu trúc các đề 'chi tiêu chính phủ' (31, 498, 51); mỗi thân bài một phía; ý kiến riêng khoa học nhận phần lớn hơn nhưng nghệ thuật có ngân sách ổn định.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe khoa học",
+        "think": "Khoa học thúc đẩy y học, công nghệ, tăng trưởng: nghiên cứu cho điều trị mới, năng lượng sạch, liên lạc nhanh; một đột phá như vaccine cứu hàng triệu người và hoàn vốn nhiều lần; nước đầu tư mạnh có kinh tế mạnh và an ninh; nhà khoa học trẻ cần đào tạo, phòng thí nghiệm và hỗ trợ dài hạn từ chính phủ; vấn đề cấp bách (bệnh, khí hậu) chỉ giải bằng khoa học.",
+        "refs": [
+          "ID-art-science-funding",
+          "ID-health-invest-more",
+          "ID-health-foundation"
+        ]
+      },
+      {
+        "step": "3. Phe nghệ thuật",
+        "think": "Nghệ thuật phát triển sáng tạo, bản sắc, sức khoẻ tinh thần: bảo tàng, nhà hát, âm nhạc cho cảm giác thuộc về và ý nghĩa, gắn kết cộng đồng, thu hút khách; kỹ năng sáng tạo ngày càng được coi trọng. Ví dụ kỹ sư thiết kế cầu cần khoa học để cầu vững và nghệ thuật để đẹp. Khoa học cần trí tưởng tượng; không tài trợ nhiều tổ chức văn hoá đóng cửa.",
+        "refs": [
+          "ID-art-science-funding",
+          "EX-art-design-engineer",
+          "ID-art-vs-science"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Khoa học nhận phần lớn hơn vì nhu cầu vật chất cấp bách, nghệ thuật có ngân sách ổn định có ý nghĩa.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-science-funding",
+      "EX-art-design-engineer"
+    ]
+  },
+  "chunks": [
+    [
+      "cannot fund everything",
+      "không thể tài trợ cho mọi thứ"
+    ],
+    [
+      "science or on arts funding",
+      "khoa học hay tài trợ nghệ thuật"
+    ],
+    [
+      "supporters of science funding",
+      "người ủng hộ tài trợ khoa học"
+    ],
+    [
+      "drives medicine, technology and economic growth",
+      "thúc đẩy y học, công nghệ và tăng trưởng kinh tế"
+    ],
+    [
+      "new treatments, cleaner energy, faster communication",
+      "điều trị mới, năng lượng sạch hơn, liên lạc nhanh hơn"
+    ],
+    [
+      "improve living standards",
+      "cải thiện mức sống"
+    ],
+    [
+      "a single breakthrough",
+      "một đột phá duy nhất"
+    ],
+    [
+      "repay its cost many times over",
+      "hoàn vốn nhiều lần"
+    ],
+    [
+      "invest heavily in research",
+      "đầu tư mạnh vào nghiên cứu"
+    ],
+    [
+      "training, laboratories and long-term support",
+      "đào tạo, phòng thí nghiệm và hỗ trợ dài hạn"
+    ],
+    [
+      "only governments can provide",
+      "chỉ chính phủ mới cung cấp được"
+    ],
+    [
+      "develop creativity, identity and wellbeing",
+      "phát triển sự sáng tạo, bản sắc và sức khoẻ tinh thần"
+    ],
+    [
+      "a sense of belonging and meaning",
+      "cảm giác thuộc về và ý nghĩa"
+    ],
+    [
+      "creative skills are increasingly valued",
+      "kỹ năng sáng tạo ngày càng được coi trọng"
+    ],
+    [
+      "designs a bridge",
+      "thiết kế một cây cầu"
+    ],
+    [
+      "imagination",
+      "trí tưởng tượng"
+    ],
+    [
+      "culturally poorer",
+      "nghèo nàn hơn về văn hoá"
+    ],
+    [
+      "urgent material needs",
+      "nhu cầu vật chất cấp bách"
+    ],
+    [
+      "a stable and meaningful budget",
+      "ngân sách ổn định và có ý nghĩa"
+    ],
+    [
+      "prosperity and culture",
+      "thịnh vượng và văn hoá"
+    ]
+  ]
+}

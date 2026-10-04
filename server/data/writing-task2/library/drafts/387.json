@@ -1,0 +1,130 @@
+{
+  "questionId": 387,
+  "text": "Every city faces a choice between preserving old buildings and replacing them with something new, and some people believe that restoring historic buildings is more important than building new structures. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of restoration argue that old buildings carry memory and identity. Historic buildings tell the story of a community, attract tourists and often have a quality of craftsmanship that is expensive to reproduce. Once demolished, they cannot be replaced, and a city that replaces all its old streets with modern blocks loses its character. Restoration also tends to be more sustainable, since reusing a building saves the energy and materials needed for new construction. An old factory converted into flats and studios, for example, gives new life to a building while keeping the character of the district. Preserving buildings also helps local people to feel proud and connected to their area.\n\nOn the other hand, supporters of new building point out that societies have modern needs. Cities need homes, offices, schools and hospitals, and old buildings can be costly to heat, repair and adapt to modern safety standards. In a growing city, refusing to build new structures can raise housing costs and leave people living in poor conditions. New buildings can also be designed to be energy efficient, accessible and attractive, and they will become the heritage of future generations. Rigid protection of every old building can therefore hold a city back.\n\nIn conclusion, both views have merit. Personally, I believe that important and irreplaceable buildings should be restored, while ordinary ones can be adapted or replaced, and that the best solution is often to reuse historic buildings for modern purposes.",
+  "analysis": {
+    "type_vi": "Discuss both views: phục hồi toà nhà lịch sử quan trọng hơn xây công trình mới",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn của mọi thành phố (giữ toà nhà cũ hay thay mới) rồi hai phe; ý kiến riêng: phục hồi toà nhà quan trọng, không thể thay thế; toà nhà thường thì có thể thích nghi hoặc thay; tái sử dụng cho mục đích hiện đại.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe phục hồi",
+        "think": "Toà nhà cũ mang ký ức và bản sắc: kể câu chuyện cộng đồng, thu hút khách, thường có chất lượng thủ công đắt để tái tạo; phá rồi không thay được, thành phố thay hết phố cũ bằng khối hiện đại mất đặc trưng; phục hồi bền vững hơn vì tái sử dụng tiết kiệm năng lượng và vật liệu xây mới. Ví dụ nhà máy cũ chuyển thành căn hộ và xưởng nghệ sĩ giữ đặc trưng khu phố. Người địa phương tự hào, gắn với khu vực.",
+        "refs": [
+          "ID-art-restore-new",
+          "EX-art-old-factory",
+          "ID-art-preservation"
+        ]
+      },
+      {
+        "step": "3. Phe xây mới",
+        "think": "Xã hội có nhu cầu hiện đại: thành phố cần nhà, văn phòng, trường học, bệnh viện; toà nhà cũ tốn kém sưởi, sửa, nâng chuẩn an toàn; thành phố tăng trưởng từ chối xây mới có thể đẩy giá nhà, người sống điều kiện kém; công trình mới có thể thiết kế tiết kiệm năng lượng, dễ tiếp cận, đẹp, sẽ thành di sản của thế hệ sau; bảo vệ cứng nhắc mọi toà nhà cũ kìm hãm thành phố.",
+        "refs": [
+          "ID-art-restore-new",
+          "ID-env-gov-infrastructure",
+          "ID-art-heritage-infra"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phục hồi toà nhà quan trọng, thích nghi hoặc thay toà nhà thường, thường tốt nhất là tái sử dụng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-restore-new",
+      "EX-art-old-factory"
+    ]
+  },
+  "chunks": [
+    [
+      "restoring historic buildings",
+      "phục hồi các toà nhà lịch sử"
+    ],
+    [
+      "building new structures",
+      "xây dựng công trình mới"
+    ],
+    [
+      "replacing them with something new",
+      "thay chúng bằng cái mới"
+    ],
+    [
+      "supporters of restoration",
+      "người ủng hộ phục hồi"
+    ],
+    [
+      "carry memory and identity",
+      "mang ký ức và bản sắc"
+    ],
+    [
+      "tell the story of a community",
+      "kể câu chuyện của một cộng đồng"
+    ],
+    [
+      "a quality of craftsmanship",
+      "chất lượng tay nghề thủ công"
+    ],
+    [
+      "expensive to reproduce",
+      "tốn kém để tái tạo"
+    ],
+    [
+      "demolished",
+      "bị phá bỏ"
+    ],
+    [
+      "loses its character",
+      "mất đi đặc trưng"
+    ],
+    [
+      "more sustainable",
+      "bền vững hơn"
+    ],
+    [
+      "saves the energy and materials needed for new construction",
+      "tiết kiệm năng lượng và vật liệu cần cho xây mới"
+    ],
+    [
+      "An old factory converted into flats and studios",
+      "nhà máy cũ chuyển thành căn hộ và xưởng"
+    ],
+    [
+      "gives new life to a building",
+      "đem lại sức sống mới cho một toà nhà"
+    ],
+    [
+      "feel proud and connected to their area",
+      "cảm thấy tự hào và gắn bó với khu vực của mình"
+    ],
+    [
+      "modern needs",
+      "nhu cầu hiện đại"
+    ],
+    [
+      "costly to heat, repair and adapt",
+      "tốn kém để sưởi, sửa và cải tạo"
+    ],
+    [
+      "modern safety standards",
+      "tiêu chuẩn an toàn hiện đại"
+    ],
+    [
+      "raise housing costs",
+      "làm tăng chi phí nhà ở"
+    ],
+    [
+      "reuse historic buildings for modern purposes",
+      "tái sử dụng các toà nhà lịch sử cho mục đích hiện đại"
+    ]
+  ]
+}

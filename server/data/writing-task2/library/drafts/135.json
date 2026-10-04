@@ -1,0 +1,130 @@
+{
+  "questionId": 135,
+  "text": "Many national museums charge an entrance fee, while others allow anyone to walk in without paying, and some believe that museums should be free to visit. I largely agree, since free entry makes them open to everyone, although money to run them must be found elsewhere.\n\nTo begin with, free entry makes museums open to everyone, not only those who can afford a ticket. Families on low incomes, students and older people visit more often when no fee is charged, schools can bring classes without cost, and the knowledge held in public collections belongs to the public. A family with three children who would never pay for tickets, for example, may visit a free museum every month. In countries such as the United Kingdom, where many national museums are free, visitor numbers are high and include people who rarely attend cultural venues. Museums are educational institutions, and access to them should not depend on income. Free entry also encourages short, repeated visits, which are better for learning than a single expensive trip.\n\nFurthermore, free museums bring wider benefits. They attract tourists who spend money in nearby cafes, hotels and shops, and they improve a city's image. However, free entry has costs. Museums need money for conservation, security, staff and new exhibitions, and if governments reduce funding, quality may suffer. This money can be found through taxes, donations, sponsorship, shops and cafes, or through charges for special exhibitions, while permanent collections remain free. Voluntary donation boxes also allow those who can afford it to contribute. Reduced prices for tourists, who are not taxpayers, are another possibility.\n\nIn conclusion, museums should be free to a large extent, because culture and education should be open to all, provided that adequate funding is secured from other sources.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): bảo tàng nên miễn phí vào cửa — largely agree (góc tiếp cận và giáo dục)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (nhiều bảo tàng quốc gia thu phí, nơi khác cho vào tự do) rồi largely agree + lý do (mở cho mọi người) + giới hạn (tiền vận hành phải tìm nguồn khác).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — mở cho mọi người",
+        "think": "Gia đình thu nhập thấp, sinh viên, người già đến nhiều hơn khi không thu phí; trường mang lớp miễn phí; tri thức trong bộ sưu tập công thuộc về công chúng. Ví dụ gia đình ba con không bao giờ mua vé có thể đến bảo tàng miễn phí mỗi tháng. Ở Anh nhiều bảo tàng quốc gia miễn phí, lượng khách cao gồm cả người ít đến nơi văn hoá. Bảo tàng là cơ sở giáo dục; khuyến khích thăm ngắn, lặp lại tốt cho học.",
+        "refs": [
+          "ID-art-museum-free",
+          "EX-art-family-free-day",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Mang lợi ích rộng: du khách chi tiêu ở quán cà phê, khách sạn, cửa hàng gần đó; cải thiện hình ảnh thành phố. Giới hạn: bảo tàng cần tiền bảo tồn, an ninh, nhân viên, triển lãm mới; chính phủ giảm tài trợ thì chất lượng giảm; tìm tiền từ thuế, quyên góp, tài trợ, cửa hàng, quán cà phê, thu phí triển lãm đặc biệt; hộp quyên góp tự nguyện; giá giảm cho du khách.",
+        "refs": [
+          "ID-art-museum-free",
+          "ID-art-museum-charge",
+          "ID-art-public-funding",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên miễn phí ở mức độ lớn vì văn hoá và giáo dục nên mở cho mọi người, với điều kiện có nguồn kinh phí khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-museum-free",
+      "ID-art-museum-charge",
+      "EX-art-family-free-day"
+    ]
+  },
+  "chunks": [
+    [
+      "national museums charge an entrance fee",
+      "các bảo tàng quốc gia thu phí vào cửa"
+    ],
+    [
+      "free to visit",
+      "miễn phí tham quan"
+    ],
+    [
+      "open to everyone",
+      "mở cửa cho mọi người"
+    ],
+    [
+      "afford a ticket",
+      "đủ tiền mua vé"
+    ],
+    [
+      "Families on low incomes, students and older people",
+      "gia đình thu nhập thấp, sinh viên và người cao tuổi"
+    ],
+    [
+      "bring classes without cost",
+      "đưa cả lớp đến mà không tốn tiền"
+    ],
+    [
+      "the knowledge held in public collections belongs to the public",
+      "tri thức trong các bộ sưu tập công thuộc về công chúng"
+    ],
+    [
+      "rarely attend cultural venues",
+      "hiếm khi đến nơi văn hoá"
+    ],
+    [
+      "educational institutions",
+      "cơ sở giáo dục"
+    ],
+    [
+      "depend on income",
+      "phụ thuộc vào thu nhập"
+    ],
+    [
+      "short, repeated visits",
+      "những lần thăm ngắn, lặp lại"
+    ],
+    [
+      "cafes, hotels and shops",
+      "quán cà phê, khách sạn và cửa hàng"
+    ],
+    [
+      "improve a city's image",
+      "cải thiện hình ảnh của thành phố"
+    ],
+    [
+      "conservation, security, staff and new exhibitions",
+      "bảo tồn, an ninh, nhân viên và triển lãm mới"
+    ],
+    [
+      "quality may suffer",
+      "chất lượng có thể bị ảnh hưởng"
+    ],
+    [
+      "donations, sponsorship, shops and cafes",
+      "quyên góp, tài trợ, cửa hàng và quán cà phê"
+    ],
+    [
+      "charges for special exhibitions",
+      "phí cho triển lãm đặc biệt"
+    ],
+    [
+      "permanent collections remain free",
+      "bộ sưu tập thường trực vẫn miễn phí"
+    ],
+    [
+      "donation boxes",
+      "hộp quyên góp"
+    ],
+    [
+      "adequate funding is secured from other sources",
+      "có nguồn kinh phí đủ từ những nguồn khác"
+    ]
+  ]
+}

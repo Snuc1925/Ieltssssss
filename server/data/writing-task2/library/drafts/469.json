@@ -1,0 +1,129 @@
+{
+  "questionId": 469,
+  "text": "Many people work or study with headphones on, and some say that listening to music helps concentration. I largely agree, although the benefit depends on the task and the type of music.\n\nTo begin with, music can help concentration on simple or repetitive tasks. Calm, familiar music blocks out noise and improves mood, which helps with routine work. A student who listens to quiet instrumental music while tidying notes, for example, may work faster and more happily, and many people report that music helps them to exercise, clean or draw. Music can also reduce stress and boredom, so people stay with a task for longer. In an open-plan office or a noisy home, a steady background of sound can mask distracting conversations and make it easier to focus. Studies suggest that people who enjoy their music perform better on certain tasks than those who work in silence.\n\nHowever, music is not helpful for everything. Songs with lyrics compete with reading and writing, since the brain processes words in both, and the same student may find lyrics distracting during an essay. Unfamiliar, fast or loud music can draw attention away from demanding tasks such as learning new material or solving complex problems. People also differ: some find silence essential, while others cannot work without sound. The best approach is for each person to experiment, choosing instrumental or ambient music for demanding work and saving favourite songs for repetitive tasks or breaks. Volume should be kept low, since loud music can harm hearing as well as concentration.\n\nIn conclusion, I largely agree that listening to music helps concentration, particularly for simple tasks, but the effect depends on the task, the music and the individual.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): nghe nhạc giúp tập trung — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thói quen (nhiều người làm việc hoặc học với tai nghe) rồi largely agree + giới hạn (phụ thuộc nhiệm vụ và loại nhạc).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do — giúp việc đơn giản, lặp lại",
+        "think": "Nhạc êm, quen thuộc chặn tiếng ồn, cải thiện tâm trạng giúp việc thường ngày. Ví dụ sinh viên nghe nhạc không lời nhẹ khi sắp xếp ghi chép có thể làm nhanh và vui hơn; nhiều người nói nhạc giúp tập thể dục, dọn dẹp, vẽ. Giảm căng thẳng, chán nên ở lại với việc lâu hơn; văn phòng mở hoặc nhà ồn nền âm thanh đều che cuộc nói chuyện gây xao nhãng; nghiên cứu cho thấy người thích nhạc làm tốt một số việc hơn khi im lặng.",
+        "refs": [
+          "ID-art-music-focus",
+          "EX-art-study-playlist",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn — không giúp mọi thứ",
+        "think": "Bài có lời cạnh tranh với đọc, viết vì não xử lý từ ở cả hai; ví dụ cùng sinh viên thấy lời xao nhãng khi viết bài. Nhạc lạ, nhanh, to làm lệch chú ý khỏi việc đòi hỏi (học mới, giải bài phức tạp); mỗi người khác nhau: người cần im lặng, người không làm được nếu thiếu âm thanh; thử nghiệm: nhạc không lời, ambient cho việc khó, bài yêu thích cho việc lặp lại hoặc nghỉ; giữ âm lượng thấp vì to hại thính giác.",
+        "refs": [
+          "ID-art-music-focus",
+          "ID-fam-child-smartphones",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree, nhất là việc đơn giản, nhưng hiệu quả phụ thuộc nhiệm vụ, nhạc, cá nhân.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-music-focus",
+      "EX-art-study-playlist"
+    ]
+  },
+  "chunks": [
+    [
+      "with headphones on",
+      "đeo tai nghe"
+    ],
+    [
+      "listening to music helps concentration",
+      "nghe nhạc giúp tập trung"
+    ],
+    [
+      "simple or repetitive tasks",
+      "việc đơn giản hoặc lặp lại"
+    ],
+    [
+      "Calm, familiar music blocks out noise",
+      "nhạc êm, quen thuộc chặn tiếng ồn"
+    ],
+    [
+      "improves mood",
+      "cải thiện tâm trạng"
+    ],
+    [
+      "routine work",
+      "công việc thường ngày"
+    ],
+    [
+      "quiet instrumental music",
+      "nhạc không lời nhẹ nhàng"
+    ],
+    [
+      "tidying notes",
+      "sắp xếp ghi chép"
+    ],
+    [
+      "reduce stress and boredom",
+      "giảm căng thẳng và chán nản"
+    ],
+    [
+      "stay with a task for longer",
+      "gắn bó với một việc lâu hơn"
+    ],
+    [
+      "an open-plan office",
+      "văn phòng không gian mở"
+    ],
+    [
+      "a steady background of sound",
+      "âm thanh nền ổn định"
+    ],
+    [
+      "mask distracting conversations",
+      "che những cuộc trò chuyện gây xao nhãng"
+    ],
+    [
+      "Songs with lyrics compete with reading and writing",
+      "bài hát có lời cạnh tranh với việc đọc và viết"
+    ],
+    [
+      "the brain processes words",
+      "bộ não xử lý từ ngữ"
+    ],
+    [
+      "draw attention away from demanding tasks",
+      "kéo sự chú ý khỏi những việc đòi hỏi cao"
+    ],
+    [
+      "solving complex problems",
+      "giải quyết vấn đề phức tạp"
+    ],
+    [
+      "people differ",
+      "mỗi người khác nhau"
+    ],
+    [
+      "ambient music",
+      "nhạc nền êm dịu"
+    ],
+    [
+      "harm hearing",
+      "gây hại thính giác"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "questionId": 413,
+  "text": "Exchange programmes, festivals and cooperation projects between countries involve students, artists and professionals, and opinions differ on whether public money should go to cultural exchange or to infrastructure. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of cultural exchange argue that it builds understanding and brings long-term benefits. Young people who study or work in another country develop language skills, confidence and a wider outlook, and contact between peoples can reduce prejudice and strengthen friendships between nations. A student who spends a year abroad, for example, often returns with contacts that lead to trade, research or partnerships later in life. Cultural links also encourage tourism and trade, and they help a country's reputation. Such programmes are cheap compared with many infrastructure projects, and their effects may last for generations.\n\nOn the other hand, supporters of infrastructure point out that it meets urgent needs. Roads, railways, water supply and electricity affect daily life, jobs and growth, and a country that lacks them will struggle to benefit from any exchange. A farmer whose produce rots because there is no road to market, for instance, has more pressing needs than an exchange scholarship. Infrastructure projects also create employment and make a country attractive to investors, while the benefits of cultural programmes are harder to measure. In poor regions, basic services must take priority, because without them people cannot take advantage of educational and cultural opportunities.\n\nIn conclusion, both views have merit. Personally, I believe that infrastructure should take priority where basic needs are unmet, but that modest and well-targeted exchange programmes represent excellent value and should not be neglected.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho chương trình trao đổi văn hoá hay hạ tầng",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (chương trình trao đổi, lễ hội, hợp tác liên quan sinh viên, nghệ sĩ, chuyên gia) rồi hai phe; ý kiến riêng hạ tầng ưu tiên khi thiếu nhu cầu cơ bản nhưng chương trình trao đổi nhỏ có mục tiêu rất đáng đồng tiền.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe trao đổi văn hoá",
+        "think": "Xây hiểu biết và lợi ích dài hạn: người trẻ học hoặc làm việc nước khác phát triển ngôn ngữ, tự tin, tầm nhìn; giao lưu giảm định kiến, củng cố tình bạn giữa quốc gia. Ví dụ sinh viên một năm ở nước ngoài về nước với quan hệ dẫn đến thương mại, nghiên cứu, hợp tác về sau. Khuyến khích du lịch, thương mại; rẻ so với nhiều dự án hạ tầng; tác dụng qua nhiều thế hệ.",
+        "refs": [
+          "ID-art-heritage-infra",
+          "ID-trv-benefits",
+          "ID-trv-festival"
+        ]
+      },
+      {
+        "step": "3. Phe hạ tầng",
+        "think": "Đáp ứng nhu cầu cấp bách: đường, đường sắt, nước, điện ảnh hưởng đời sống, việc làm, tăng trưởng; nước thiếu hạ tầng khó hưởng lợi từ trao đổi. Ví dụ nông dân nông sản thối vì không có đường ra chợ có nhu cầu cấp bách hơn học bổng trao đổi. Dự án hạ tầng tạo việc làm, thu hút nhà đầu tư; lợi ích văn hoá khó đo; vùng nghèo dịch vụ cơ bản phải ưu tiên.",
+        "refs": [
+          "ID-art-heritage-infra",
+          "ID-env-gov-infrastructure",
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hạ tầng ưu tiên khi nhu cầu cơ bản thiếu, nhưng chương trình trao đổi nhỏ có mục tiêu đáng đồng tiền.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Exchange programmes",
+      "các chương trình trao đổi"
+    ],
+    [
+      "cultural exchange",
+      "trao đổi văn hoá"
+    ],
+    [
+      "builds understanding",
+      "xây dựng sự thấu hiểu"
+    ],
+    [
+      "long-term benefits",
+      "lợi ích lâu dài"
+    ],
+    [
+      "a wider outlook",
+      "tầm nhìn rộng hơn"
+    ],
+    [
+      "contact between peoples",
+      "tiếp xúc giữa các dân tộc"
+    ],
+    [
+      "friendships between nations",
+      "tình bạn giữa các quốc gia"
+    ],
+    [
+      "spends a year abroad",
+      "dành một năm ở nước ngoài"
+    ],
+    [
+      "contacts that lead to trade, research or partnerships",
+      "mối quan hệ dẫn đến thương mại, nghiên cứu hoặc hợp tác"
+    ],
+    [
+      "a country's reputation",
+      "danh tiếng của một quốc gia"
+    ],
+    [
+      "effects may last for generations",
+      "tác dụng có thể kéo dài qua nhiều thế hệ"
+    ],
+    [
+      "meets urgent needs",
+      "đáp ứng nhu cầu cấp bách"
+    ],
+    [
+      "Roads, railways, water supply and electricity",
+      "đường, đường sắt, cấp nước và điện"
+    ],
+    [
+      "struggle to benefit from any exchange",
+      "khó hưởng lợi từ bất kỳ sự trao đổi nào"
+    ],
+    [
+      "produce rots",
+      "nông sản bị thối"
+    ],
+    [
+      "no road to market",
+      "không có đường ra chợ"
+    ],
+    [
+      "an exchange scholarship",
+      "học bổng trao đổi"
+    ],
+    [
+      "attractive to investors",
+      "hấp dẫn nhà đầu tư"
+    ],
+    [
+      "harder to measure",
+      "khó đo lường hơn"
+    ],
+    [
+      "modest and well-targeted",
+      "khiêm tốn và nhắm mục tiêu tốt"
+    ]
+  ]
+}

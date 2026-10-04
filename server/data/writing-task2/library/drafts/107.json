@@ -1,0 +1,130 @@
+{
+  "questionId": 107,
+  "text": "Sculptures in squares, murals on blank walls and installations in parks are increasingly common, and many people say that public art improves cities. I agree with this view, since public art makes shared spaces more attractive and gives a city a distinct character, although it needs to be chosen with care.\n\nTo begin with, public art makes shared spaces more attractive and gives a city a distinct character. Sculptures, murals and installations turn ordinary streets into places that people enjoy and remember, and they can lift the mood of a whole neighbourhood. A blank wall that is turned into a colourful mural, for example, can lift the mood of a whole street, and discourage graffiti and neglect. Famous works become landmarks that appear on postcards and attract tourists, which supports local businesses. Art in public places is also free for everyone, including people who would never enter a gallery, so it brings culture to everyday life.\n\nFurthermore, public art can bring communities together and express local identity. Projects in which residents help to design or paint a work give people a sense of ownership and pride, and works can commemorate events or celebrate diversity. However, public art has limits. It costs money, and some residents may feel that it is a waste when schools or roads need funding. Tastes differ, and some works may be disliked or vandalised. Poorly maintained works can make an area look worse. To reduce these problems, cities should consult residents, involve local artists, plan for maintenance and select works that suit their surroundings. When done well, public art repays its cost many times in civic pride.\n\nIn conclusion, I agree that public art improves cities, because it creates attractive, distinctive and welcoming spaces, provided that works are chosen with the community and cared for.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: nghệ thuật công cộng cải thiện thành phố — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Mở bài nêu hiện tượng (tượng ở quảng trường, tranh tường, tác phẩm sắp đặt ở công viên ngày càng phổ biến) rồi agree + lý do + điều kiện (chọn cẩn thận).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — đẹp hơn, đặc trưng",
+        "think": "Tượng, tranh tường, tác phẩm biến phố bình thường thành nơi người ta thích và nhớ; nâng tinh thần cả khu phố. Ví dụ bức tường trống thành tranh tường nhiều màu nâng tinh thần cả phố, ngăn vẽ bậy và bỏ bê. Tác phẩm nổi tiếng thành địa danh trên bưu thiếp, thu hút du khách; miễn phí cho mọi người, kể cả người không bao giờ vào phòng tranh.",
+        "refs": [
+          "ID-art-public-art",
+          "EX-art-mural-wall",
+          "ID-trv-benefits",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Gắn kết cộng đồng và thể hiện bản sắc địa phương: dự án cư dân tham gia thiết kế hoặc vẽ cho cảm giác sở hữu, tự hào; tác phẩm tưởng niệm sự kiện hoặc tôn vinh đa dạng. Giới hạn: tốn tiền, một số cư dân thấy lãng phí khi trường, đường cần tiền; thị hiếu khác nhau, có thể bị ghét hoặc phá; bảo trì kém làm khu xấu hơn; tham vấn cư dân, nghệ sĩ địa phương, lên kế hoạch bảo trì, chọn tác phẩm hợp bối cảnh.",
+        "refs": [
+          "ID-art-public-art",
+          "ID-art-public-funding",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì tạo không gian hấp dẫn, đặc trưng, chào đón, với điều kiện chọn cùng cộng đồng và chăm sóc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-public-art",
+      "EX-art-mural-wall"
+    ]
+  },
+  "chunks": [
+    [
+      "Sculptures in squares, murals on blank walls",
+      "tượng ở quảng trường, tranh tường trên bức tường trống"
+    ],
+    [
+      "installations in parks",
+      "tác phẩm sắp đặt ở công viên"
+    ],
+    [
+      "public art improves cities",
+      "nghệ thuật công cộng cải thiện thành phố"
+    ],
+    [
+      "makes shared spaces more attractive",
+      "làm không gian chung hấp dẫn hơn"
+    ],
+    [
+      "gives a city a distinct character",
+      "cho thành phố một đặc trưng riêng"
+    ],
+    [
+      "turn ordinary streets into places that people enjoy and remember",
+      "biến phố bình thường thành nơi người ta thích và nhớ"
+    ],
+    [
+      "lift the mood of a whole neighbourhood",
+      "nâng tinh thần cả khu phố"
+    ],
+    [
+      "A blank wall",
+      "một bức tường trống"
+    ],
+    [
+      "a colourful mural",
+      "bức tranh tường nhiều màu"
+    ],
+    [
+      "discourage graffiti and neglect",
+      "ngăn vẽ bậy và sự bỏ bê"
+    ],
+    [
+      "become landmarks",
+      "trở thành địa danh"
+    ],
+    [
+      "postcards and attract tourists",
+      "bưu thiếp và thu hút du khách"
+    ],
+    [
+      "free for everyone",
+      "miễn phí cho mọi người"
+    ],
+    [
+      "bring culture to everyday life",
+      "đưa văn hoá vào đời sống hằng ngày"
+    ],
+    [
+      "bring communities together",
+      "gắn kết cộng đồng"
+    ],
+    [
+      "express local identity",
+      "thể hiện bản sắc địa phương"
+    ],
+    [
+      "a sense of ownership and pride",
+      "cảm giác sở hữu và tự hào"
+    ],
+    [
+      "vandalised",
+      "bị phá hoại"
+    ],
+    [
+      "consult residents, involve local artists",
+      "tham vấn cư dân, mời nghệ sĩ địa phương"
+    ],
+    [
+      "repays its cost many times in civic pride",
+      "hoàn vốn nhiều lần qua niềm tự hào công dân"
+    ]
+  ]
+}

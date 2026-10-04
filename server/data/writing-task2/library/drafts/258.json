@@ -1,0 +1,130 @@
+{
+  "questionId": 258,
+  "text": "A wedding or a birthday can be held in a stadium full of strangers or around a kitchen table with a few relatives, and opinions differ on whether people prefer public celebrations or private family events. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of public celebrations argue that they bring communities together and create shared memories. Festivals, parades and national days give thousands of people the chance to enjoy music, food and tradition side by side, and they build a sense of belonging that private events cannot. Public events are usually free or cheap, and they allow people who might not have large families or homes to take part in festive occasions. They also support local businesses and keep cultural customs alive. A fan who sings along with ten thousand strangers, for example, enjoys a feeling of togetherness that headphones cannot provide.\n\nOn the other hand, supporters of private family events point out that they are intimate, personal and easier to control. Small gatherings let relatives and close friends talk properly, follow their own customs and spend according to their means, whereas public celebrations are crowded, noisy and expensive for the organisers. A birthday dinner with ten relatives, for example, lets everyone talk and share stories, which is difficult in a crowd of thousands. Private events also suit people who dislike crowds, such as the elderly and families with babies. Family traditions that are repeated privately build strong bonds that last for life.\n\nIn conclusion, both views have merit. Personally, I enjoy both: public celebrations for the atmosphere and the feeling of belonging to something larger, and private events for close relationships and personal meaning.",
+  "analysis": {
+    "type_vi": "Discuss both views: thích lễ hội công cộng hay sự kiện gia đình riêng",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hình ảnh đối lập (đám cưới hay sinh nhật tổ chức trong sân vận động toàn người lạ hay quanh bàn bếp với vài người thân) rồi hai phe; ý kiến riêng: thích cả hai ở những khoảnh khắc khác nhau.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe công cộng",
+        "think": "Gắn kết cộng đồng và tạo ký ức chung: lễ hội, diễu hành, ngày quốc gia cho hàng nghìn người thưởng thức nhạc, ẩm thực, truyền thống cạnh nhau, tạo cảm giác thuộc về mà sự kiện riêng không có; thường miễn phí hoặc rẻ, cho người không có gia đình lớn hoặc nhà rộng; hỗ trợ doanh nghiệp địa phương, giữ phong tục văn hoá. Ví dụ người hâm mộ hát cùng mười nghìn người lạ có cảm giác đoàn kết mà tai nghe không mang lại.",
+        "refs": [
+          "ID-art-celebration-cost",
+          "ID-fam-community-festival",
+          "ID-art-live-recorded"
+        ]
+      },
+      {
+        "step": "3. Phe sự kiện riêng",
+        "think": "Thân mật, cá nhân, dễ kiểm soát: nhóm nhỏ cho người thân và bạn thân nói chuyện, theo phong tục riêng, chi theo khả năng; lễ công cộng đông, ồn, tốn kém cho người tổ chức. Ví dụ bữa tối sinh nhật mười người thân cho mọi người kể chuyện, khó trong đám đông hàng nghìn. Hợp người ghét đông (người già, gia đình có em bé); truyền thống gia đình lặp lại riêng xây gắn bó bền.",
+        "refs": [
+          "ID-art-private-events",
+          "EX-art-family-dinner",
+          "ID-fam-traditions-identity"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thích cả hai: công cộng cho không khí và cảm giác thuộc về cái lớn hơn; riêng cho quan hệ gần và ý nghĩa cá nhân.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-private-events",
+      "EX-art-family-dinner"
+    ]
+  },
+  "chunks": [
+    [
+      "a stadium full of strangers",
+      "sân vận động đầy người lạ"
+    ],
+    [
+      "around a kitchen table",
+      "quanh chiếc bàn bếp"
+    ],
+    [
+      "public celebrations or private family events",
+      "lễ kỷ niệm công cộng hay sự kiện gia đình riêng"
+    ],
+    [
+      "bring communities together",
+      "gắn kết cộng đồng"
+    ],
+    [
+      "create shared memories",
+      "tạo ký ức chung"
+    ],
+    [
+      "Festivals, parades and national days",
+      "lễ hội, diễu hành và ngày quốc gia"
+    ],
+    [
+      "music, food and tradition side by side",
+      "âm nhạc, ẩm thực và truyền thống cạnh nhau"
+    ],
+    [
+      "a sense of belonging that private events cannot",
+      "cảm giác thuộc về mà sự kiện riêng không có được"
+    ],
+    [
+      "free or cheap",
+      "miễn phí hoặc rẻ"
+    ],
+    [
+      "large families or homes",
+      "gia đình hoặc nhà ở lớn"
+    ],
+    [
+      "support local businesses",
+      "hỗ trợ doanh nghiệp địa phương"
+    ],
+    [
+      "keep cultural customs alive",
+      "giữ cho phong tục văn hoá sống mãi"
+    ],
+    [
+      "sings along with ten thousand strangers",
+      "hát cùng mười nghìn người lạ"
+    ],
+    [
+      "a feeling of togetherness",
+      "cảm giác đoàn kết"
+    ],
+    [
+      "intimate, personal and easier to control",
+      "thân mật, cá nhân và dễ kiểm soát hơn"
+    ],
+    [
+      "close friends talk properly",
+      "bạn thân trò chuyện đúng nghĩa"
+    ],
+    [
+      "follow their own customs",
+      "theo phong tục riêng"
+    ],
+    [
+      "crowded, noisy and expensive for the organisers",
+      "đông đúc, ồn ào và tốn kém cho người tổ chức"
+    ],
+    [
+      "dislike crowds",
+      "không thích đám đông"
+    ],
+    [
+      "strong bonds that last for life",
+      "mối gắn kết bền chặt suốt đời"
+    ]
+  ]
+}

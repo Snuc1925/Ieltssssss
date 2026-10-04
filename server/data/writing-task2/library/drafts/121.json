@@ -1,0 +1,130 @@
+{
+  "questionId": 121,
+  "text": "National days, cultural festivals and anniversary parades are common in almost every country, and some people say that public celebrations waste resources. I disagree with this view, since celebrations bring lasting benefits that usually outweigh their costs, although money should be spent with care.\n\nTo begin with, public celebrations cost money and create waste, but they also bring lasting benefits. Fireworks, decorations and security cost large sums and leave litter, yet they strengthen community spirit, attract visitors and mark shared history. A town that spends a large sum on fireworks, for example, may see them last for twenty minutes, but residents remember the evening for years. Celebrations give people a reason to meet neighbours, share food and enjoy music together, and these experiences build the trust and pride that hold communities together. They also give children a sense of belonging and tradition.\n\nFurthermore, celebrations support the local economy. Visitors fill hotels and restaurants, stallholders and performers earn income, and publicity increases a town's reputation. Cultural festivals can promote heritage, music and crafts that might otherwise be forgotten. However, spending should be sensible. Large events should be planned with budgets, sponsorship, ticket income and volunteers, litter should be recycled and noise should be controlled, so that residents are not inconvenienced. Where money is truly short, resources could be directed to the most meaningful celebrations. Simple celebrations, such as community picnics, can be inexpensive and just as enjoyable.\n\nIn conclusion, I disagree that public celebrations waste resources, because they bring social and economic benefits, provided that they are carefully planned and managed.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: lễ kỷ niệm công cộng lãng phí tài nguyên — disagree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu ví dụ (ngày quốc gia, lễ hội văn hoá, diễu hành kỷ niệm) rồi disagree + lý do + điều kiện (chi tiêu cẩn thận).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lợi ích lâu dài",
+        "think": "Nhượng bộ ngay: tốn tiền, tạo rác (pháo hoa, trang trí, an ninh) nhưng củng cố tinh thần cộng đồng, thu hút khách, đánh dấu lịch sử chung. Ví dụ thị trấn chi nhiều cho pháo hoa kéo dài hai mươi phút nhưng cư dân nhớ buổi tối nhiều năm. Cho dịp gặp hàng xóm, chia sẻ thức ăn, nghe nhạc: xây tin tưởng và tự hào; cho trẻ cảm giác thuộc về, truyền thống.",
+        "refs": [
+          "ID-art-celebration-cost",
+          "EX-art-fireworks-bill",
+          "ID-fam-community-festival",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — kinh tế + giới hạn",
+        "think": "Hỗ trợ kinh tế địa phương: khách lấp khách sạn, nhà hàng; người bán gian hàng, nghệ sĩ có thu nhập; quảng bá tăng danh tiếng; lễ hội văn hoá quảng bá di sản, âm nhạc, thủ công. Giới hạn: chi hợp lý: ngân sách, tài trợ, thu vé, tình nguyện viên; tái chế rác, kiểm soát ồn; khi thiếu tiền chọn lễ có ý nghĩa nhất; lễ đơn giản (picnic cộng đồng) rẻ mà vui.",
+        "refs": [
+          "ID-art-celebration-cost",
+          "ID-art-festival-economy",
+          "ID-trv-festival",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không lãng phí vì lợi ích xã hội và kinh tế, với điều kiện lập kế hoạch và quản lý cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-celebration-cost",
+      "EX-art-fireworks-bill"
+    ]
+  },
+  "chunks": [
+    [
+      "National days, cultural festivals and anniversary parades",
+      "ngày quốc gia, lễ hội văn hoá và diễu hành kỷ niệm"
+    ],
+    [
+      "public celebrations waste resources",
+      "lễ kỷ niệm công cộng lãng phí tài nguyên"
+    ],
+    [
+      "lasting benefits",
+      "lợi ích lâu dài"
+    ],
+    [
+      "outweigh their costs",
+      "lớn hơn chi phí của chúng"
+    ],
+    [
+      "cost money and create waste",
+      "tốn tiền và tạo ra rác thải"
+    ],
+    [
+      "Fireworks, decorations and security cost large sums",
+      "pháo hoa, đồ trang trí và an ninh tốn những khoản lớn"
+    ],
+    [
+      "leave litter",
+      "để lại rác"
+    ],
+    [
+      "strengthen community spirit",
+      "củng cố tinh thần cộng đồng"
+    ],
+    [
+      "mark shared history",
+      "đánh dấu lịch sử chung"
+    ],
+    [
+      "last for twenty minutes",
+      "kéo dài hai mươi phút"
+    ],
+    [
+      "remember the evening for years",
+      "nhớ buổi tối đó nhiều năm"
+    ],
+    [
+      "a reason to meet neighbours",
+      "lý do để gặp hàng xóm"
+    ],
+    [
+      "share food and enjoy music together",
+      "cùng chia sẻ đồ ăn và thưởng thức âm nhạc"
+    ],
+    [
+      "build the trust and pride that hold communities together",
+      "xây dựng lòng tin và niềm tự hào gắn kết cộng đồng"
+    ],
+    [
+      "a sense of belonging and tradition",
+      "cảm giác thuộc về và truyền thống"
+    ],
+    [
+      "Visitors fill hotels and restaurants",
+      "du khách lấp đầy khách sạn và nhà hàng"
+    ],
+    [
+      "stallholders and performers earn income",
+      "người bán hàng và nghệ sĩ có thu nhập"
+    ],
+    [
+      "increases a town's reputation",
+      "tăng danh tiếng của một thị trấn"
+    ],
+    [
+      "budgets, sponsorship, ticket income and volunteers",
+      "ngân sách, tài trợ, thu vé và tình nguyện viên"
+    ],
+    [
+      "community picnics",
+      "buổi dã ngoại cộng đồng"
+    ]
+  ]
+}

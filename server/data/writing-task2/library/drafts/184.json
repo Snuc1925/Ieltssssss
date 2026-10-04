@@ -1,0 +1,129 @@
+{
+  "questionId": 184,
+  "text": "Millions of songs are now available to anyone with a phone and a monthly subscription, and many feel that streaming music has changed the music industry negatively. I partly agree, since streaming has made music cheap and easy for listeners but has hurt many artists' incomes.\n\nTo begin with, streaming has made music cheap and easy to find for listeners, which is a real benefit. Millions of songs are available for a monthly fee, and new artists can reach a global audience without a record company. A teenager in a small town can discover music from every continent, and unknown musicians can build a following online. Streaming has also reduced piracy, since legal access is convenient and inexpensive. These changes have widened choice and made music more democratic than at any time before.\n\nHowever, there are negative consequences for artists and for the industry. Each stream pays only a tiny amount, so musicians who are not already famous earn little. A musician whose song is played a million times, for example, may earn only a few thousand pounds, which would not cover the cost of making an album. Songs have become shorter and designed to grab attention in the first seconds, and albums have lost importance as listeners choose individual tracks and playlists. Algorithms may favour already popular artists, and small independent labels struggle to survive. Fairer payment systems, larger shares for artists and more support for live work are needed to keep musicians in business. The result of the present arrangement is that listeners benefit more than creators.\n\nIn conclusion, streaming has changed the music industry for the better as far as listeners are concerned but for the worse for many musicians, so I agree only partly with the statement.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: streaming nhạc làm ngành âm nhạc thay đổi tiêu cực — đồng ý một phần",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến một phần",
+        "think": "Mở bài nêu hiện tượng (hàng triệu bài hát sẵn cho ai có điện thoại và gói thuê bao) rồi 'partly agree': tốt cho người nghe nhưng hại thu nhập nhiều nghệ sĩ.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần lợi cho người nghe",
+        "think": "Nhạc rẻ, dễ tìm: hàng triệu bài chỉ trả phí hằng tháng; nghệ sĩ mới có thể đến khán giả toàn cầu không cần hãng đĩa. Ví dụ thiếu niên ở thị trấn nhỏ khám phá nhạc mọi châu lục, nhạc sĩ vô danh xây lượng người theo dõi. Giảm vi phạm bản quyền vì truy cập hợp pháp tiện và rẻ; mở rộng lựa chọn, dân chủ hơn.",
+        "refs": [
+          "ID-art-streaming",
+          "ID-gov-internet-speech",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phần hại cho nghệ sĩ",
+        "think": "Mỗi lượt nghe trả rất ít nên nhạc sĩ chưa nổi kiếm ít. Ví dụ bài hát phát một triệu lần có thể chỉ kiếm vài nghìn bảng, không đủ làm album. Bài hát ngắn hơn, thiết kế bắt chú ý trong vài giây; album mất vai trò vì người nghe chọn bài lẻ và danh sách phát; thuật toán có thể ưu ái nghệ sĩ đã nổi; hãng độc lập nhỏ khó sống; cần hệ thống trả công hơn, phần lớn hơn cho nghệ sĩ, hỗ trợ biểu diễn trực tiếp.",
+        "refs": [
+          "ID-art-streaming",
+          "EX-art-stream-penny",
+          "ID-art-public-funding",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tốt hơn cho người nghe, tệ hơn cho nhiều nhạc sĩ; đồng ý một phần.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-streaming",
+      "EX-art-stream-penny"
+    ]
+  },
+  "chunks": [
+    [
+      "a monthly subscription",
+      "gói thuê bao hằng tháng"
+    ],
+    [
+      "streaming music",
+      "nghe nhạc trực tuyến"
+    ],
+    [
+      "changed the music industry negatively",
+      "làm thay đổi ngành âm nhạc theo hướng tiêu cực"
+    ],
+    [
+      "cheap and easy to find",
+      "rẻ và dễ tìm"
+    ],
+    [
+      "hurt many artists' incomes",
+      "gây hại cho thu nhập của nhiều nghệ sĩ"
+    ],
+    [
+      "a monthly fee",
+      "phí hằng tháng"
+    ],
+    [
+      "reach a global audience",
+      "tiếp cận khán giả toàn cầu"
+    ],
+    [
+      "a record company",
+      "hãng thu âm"
+    ],
+    [
+      "discover music from every continent",
+      "khám phá âm nhạc từ mọi châu lục"
+    ],
+    [
+      "build a following online",
+      "xây dựng lượng người theo dõi trực tuyến"
+    ],
+    [
+      "reduced piracy",
+      "giảm vi phạm bản quyền"
+    ],
+    [
+      "widened choice",
+      "mở rộng lựa chọn"
+    ],
+    [
+      "Each stream pays only a tiny amount",
+      "mỗi lượt nghe chỉ trả một khoản rất nhỏ"
+    ],
+    [
+      "not already famous",
+      "chưa nổi tiếng"
+    ],
+    [
+      "played a million times",
+      "được phát một triệu lần"
+    ],
+    [
+      "would not cover the cost of making an album",
+      "không đủ trang trải chi phí làm album"
+    ],
+    [
+      "grab attention in the first seconds",
+      "gây chú ý trong những giây đầu"
+    ],
+    [
+      "albums have lost importance",
+      "album mất đi tầm quan trọng"
+    ],
+    [
+      "small independent labels struggle to survive",
+      "các hãng độc lập nhỏ khó tồn tại"
+    ],
+    [
+      "Fairer payment systems",
+      "hệ thống trả công công bằng hơn"
+    ]
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "questionId": 163,
+  "text": "A kimono, a sari, a kilt and a pair of jeans all say something about the people who wear them, and fashion is often seen as a mirror of culture. This essay will explain two key roles that fashion plays in shaping cultural identity: expressing heritage and belonging, and allowing individuals and groups to define themselves.\n\nFirst and foremost, clothing communicates who people are and where they belong. Traditional dress expresses national and regional heritage, and wearing it at festivals, weddings and ceremonies keeps customs visible. A young woman who wears her grandmother's traditional dress to a festival, for example, shows pride in her heritage and starts conversations about its meaning. Particular fabrics, colours and patterns may carry religious or historical significance, and national costumes help people to recognise each other abroad. Clothing also marks belonging to groups such as schools, professions or communities, which reinforces shared identity.\n\nIn addition, fashion allows people to express personal and group identity. Individuals choose clothes to show their taste, values and mood, and youth movements from punk to hip-hop have used style to signal who they are and what they believe. Fashion also changes as cultures meet, creating new hybrid styles that reflect modern, mixed identities. However, global brands push everyone towards similar looks, and commercial pressure can turn traditional dress into costume or simply a product. Some people feel pressure to conform to the standards of beauty set by advertising. Fashion therefore both reflects and shapes cultural identity, and communities need to value their own dress while remaining open to new influences.\n\nTo sum up, fashion plays an important role in shaping cultural identity by showing heritage and by allowing people to define themselves. For these reasons, it deserves to be taken seriously as a form of culture.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của thời trang trong định hình bản sắc văn hoá",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu bốn trang phục (kimono, sari, kilt, quần jean) nói gì về người mặc; báo hai vai trò: thể hiện di sản và sự thuộc về; cho cá nhân và nhóm tự định nghĩa.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — di sản và thuộc về",
+        "think": "Trang phục truyền đạt người ta là ai và thuộc về đâu; trang phục truyền thống thể hiện di sản quốc gia, vùng; mặc ở lễ hội, đám cưới, nghi lễ giữ phong tục hiện hữu. Ví dụ cô gái trẻ mặc áo truyền thống của bà đến lễ hội thể hiện tự hào và khơi cuộc trò chuyện về ý nghĩa. Vải, màu, hoa văn có ý nghĩa tôn giáo, lịch sử; quốc phục giúp người nhận ra nhau ở nước ngoài; đánh dấu thuộc nhóm (trường, nghề).",
+        "refs": [
+          "ID-art-fashion-identity",
+          "EX-art-national-dress",
+          "ID-fam-traditions-identity"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — tự định nghĩa + giới hạn",
+        "think": "Cá nhân chọn quần áo thể hiện gu, giá trị, tâm trạng; phong trào thanh niên từ punk đến hip-hop dùng phong cách tín hiệu mình là ai; thời trang thay đổi khi các nền văn hoá gặp nhau tạo phong cách lai. Giới hạn: thương hiệu toàn cầu đẩy mọi người về diện mạo giống nhau; áp lực thương mại biến trang phục truyền thống thành hoá trang hoặc sản phẩm; áp lực theo chuẩn đẹp từ quảng cáo; cộng đồng cần trân trọng trang phục mình mà vẫn mở với ảnh hưởng mới.",
+        "refs": [
+          "ID-art-fashion-identity",
+          "ID-art-appropriation",
+          "ID-env-fast-fashion",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò quan trọng; nên coi thời trang nghiêm túc như một hình thức văn hoá.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-fashion-identity",
+      "EX-art-national-dress"
+    ]
+  },
+  "chunks": [
+    [
+      "A kimono, a sari, a kilt and a pair of jeans",
+      "kimono, sari, váy kilt và quần jean"
+    ],
+    [
+      "a mirror of culture",
+      "tấm gương của văn hoá"
+    ],
+    [
+      "shaping cultural identity",
+      "định hình bản sắc văn hoá"
+    ],
+    [
+      "expressing heritage and belonging",
+      "thể hiện di sản và sự thuộc về"
+    ],
+    [
+      "define themselves",
+      "tự định nghĩa mình"
+    ],
+    [
+      "communicates who people are and where they belong",
+      "truyền đạt người ta là ai và thuộc về đâu"
+    ],
+    [
+      "Traditional dress",
+      "trang phục truyền thống"
+    ],
+    [
+      "national and regional heritage",
+      "di sản quốc gia và vùng miền"
+    ],
+    [
+      "keeps customs visible",
+      "giữ cho phong tục hiện hữu"
+    ],
+    [
+      "her grandmother's traditional dress",
+      "áo truyền thống của bà cô"
+    ],
+    [
+      "shows pride in her heritage",
+      "thể hiện niềm tự hào về di sản"
+    ],
+    [
+      "starts conversations about its meaning",
+      "khơi mào cuộc trò chuyện về ý nghĩa của nó"
+    ],
+    [
+      "religious or historical significance",
+      "ý nghĩa tôn giáo hoặc lịch sử"
+    ],
+    [
+      "belonging to groups",
+      "thuộc về các nhóm"
+    ],
+    [
+      "express personal and group identity",
+      "thể hiện bản sắc cá nhân và nhóm"
+    ],
+    [
+      "taste, values and mood",
+      "gu thẩm mỹ, giá trị và tâm trạng"
+    ],
+    [
+      "youth movements from punk to hip-hop",
+      "phong trào thanh niên từ punk đến hip-hop"
+    ],
+    [
+      "new hybrid styles",
+      "phong cách lai mới"
+    ],
+    [
+      "push everyone towards similar looks",
+      "đẩy mọi người về diện mạo giống nhau"
+    ],
+    [
+      "turn traditional dress into costume",
+      "biến trang phục truyền thống thành đồ hoá trang"
+    ]
+  ]
+}

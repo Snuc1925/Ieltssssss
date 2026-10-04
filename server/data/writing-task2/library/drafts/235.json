@@ -1,0 +1,129 @@
+{
+  "questionId": 235,
+  "text": "Debates about whether art or science matters more are old, and some believe that art is more important than science. I disagree with this view to a large extent, since both meet essential human needs, and in terms of material survival, science is more important.\n\nTo begin with, science meets basic needs on which everything else depends. Science improves health, safety and living standards: vaccines, clean water, agriculture, energy and communications all result from scientific research. Without medicine, many people would die young, and without technology, modern life would be impossible. People who are hungry or ill cannot enjoy art, so material needs have to be met first. In emergencies such as pandemics or natural disasters, society looks to scientists for solutions, not to artists. Scientific method also teaches rational thinking, which protects people from superstition and misinformation.\n\nHowever, art is also essential in a different way. Art gives meaning, beauty and shared identity and shapes how people understand their lives. Music, literature and painting express emotions, record history and help people through difficult times, and many societies judge their achievements by their culture as much as by their wealth. An engineer who designs a bridge, for example, needs science to make it strong and art to make it beautiful. Art and science also depend on each other, since scientific discoveries are sparked by imagination and artists use new technology. To claim that one is more important than the other is therefore a false choice. A society needs both, though science has the stronger claim when it comes to survival.\n\nIn conclusion, I disagree that art is more important than science, because science meets basic needs, although art gives life meaning and the two should be valued together.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): nghệ thuật quan trọng hơn khoa học — disagree phần lớn",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu cuộc tranh luận lâu đời rồi disagree + lý do (cả hai đáp ứng nhu cầu thiết yếu; về sinh tồn vật chất khoa học quan trọng hơn).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — khoa học đáp ứng nhu cầu cơ bản",
+        "think": "Khoa học cải thiện sức khoẻ, an toàn, mức sống: vaccine, nước sạch, nông nghiệp, năng lượng, truyền thông; không có y học nhiều người chết trẻ; người đói hoặc ốm không thưởng thức nghệ thuật được nên nhu cầu vật chất trước; trong khẩn cấp (đại dịch, thiên tai) xã hội tìm giải pháp ở nhà khoa học; phương pháp khoa học dạy tư duy lý trí, tránh mê tín và thông tin sai.",
+        "refs": [
+          "ID-art-vs-science",
+          "ID-health-foundation",
+          "ID-art-science-funding",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhượng bộ — nghệ thuật cũng thiết yếu",
+        "think": "Nghệ thuật cho ý nghĩa, vẻ đẹp, bản sắc chung và định hình cách hiểu cuộc sống: âm nhạc, văn học, hội hoạ bày tỏ cảm xúc, ghi lại lịch sử, giúp vượt khó; nhiều xã hội đánh giá thành tựu bằng văn hoá chứ không chỉ giàu. Ví dụ kỹ sư thiết kế cầu cần khoa học để vững và nghệ thuật để đẹp. Hai thứ phụ thuộc nhau: khám phá khoa học khơi từ trí tưởng tượng; nghệ sĩ dùng công nghệ mới; so sánh là lựa chọn sai.",
+        "refs": [
+          "EX-art-design-engineer",
+          "ID-art-vs-science",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì khoa học đáp ứng nhu cầu cơ bản nhưng nghệ thuật cho ý nghĩa; nên coi trọng cả hai.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-vs-science"
+    ]
+  },
+  "chunks": [
+    [
+      "art or science matters more",
+      "nghệ thuật hay khoa học quan trọng hơn"
+    ],
+    [
+      "art is more important than science",
+      "nghệ thuật quan trọng hơn khoa học"
+    ],
+    [
+      "essential human needs",
+      "nhu cầu thiết yếu của con người"
+    ],
+    [
+      "material survival",
+      "sinh tồn vật chất"
+    ],
+    [
+      "meets basic needs on which everything else depends",
+      "đáp ứng nhu cầu cơ bản mà mọi thứ khác dựa vào"
+    ],
+    [
+      "improves health, safety and living standards",
+      "cải thiện sức khoẻ, an toàn và mức sống"
+    ],
+    [
+      "vaccines, clean water, agriculture, energy and communications",
+      "vaccine, nước sạch, nông nghiệp, năng lượng và truyền thông"
+    ],
+    [
+      "scientific research",
+      "nghiên cứu khoa học"
+    ],
+    [
+      "die young",
+      "chết trẻ"
+    ],
+    [
+      "hungry or ill",
+      "đói hoặc ốm"
+    ],
+    [
+      "material needs have to be met first",
+      "nhu cầu vật chất phải được đáp ứng trước"
+    ],
+    [
+      "pandemics or natural disasters",
+      "đại dịch hoặc thiên tai"
+    ],
+    [
+      "rational thinking",
+      "tư duy lý trí"
+    ],
+    [
+      "superstition and misinformation",
+      "mê tín và thông tin sai lệch"
+    ],
+    [
+      "meaning, beauty and shared identity",
+      "ý nghĩa, vẻ đẹp và bản sắc chung"
+    ],
+    [
+      "express emotions, record history",
+      "bày tỏ cảm xúc, ghi lại lịch sử"
+    ],
+    [
+      "help people through difficult times",
+      "giúp mọi người vượt qua thời kỳ khó khăn"
+    ],
+    [
+      "sparked by imagination",
+      "được khơi dậy bởi trí tưởng tượng"
+    ],
+    [
+      "a false choice",
+      "một sự lựa chọn sai"
+    ],
+    [
+      "the stronger claim",
+      "lập luận mạnh hơn"
+    ]
+  ]
+}

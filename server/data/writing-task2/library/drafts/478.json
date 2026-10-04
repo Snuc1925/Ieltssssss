@@ -1,0 +1,130 @@
+{
+  "questionId": 478,
+  "text": "Towns and cities across the world host film, food, music and heritage festivals, and many hope that they will benefit local economies. This essay will explain two key ways in which cultural festivals support local economies: through visitor spending and jobs, and through publicity and long-term investment.\n\nFirst and foremost, cultural festivals bring money, jobs and publicity to the places that host them. Visitors spend on food, accommodation and souvenirs, stalls and performers earn income, and media coverage promotes the area. A potter who sells her work at a festival stall, for example, may earn in a weekend what she usually earns in a month. Festivals often take place outside the main holiday season, which fills hotels and restaurants that would otherwise be empty, and they create temporary jobs in security, catering, transport and cleaning. Local suppliers of food, drink and equipment also benefit, so that money circulates through the community instead of leaving it.\n\nIn addition, festivals can generate long-term benefits. A successful event can become part of a town's identity and attract visitors every year, and publicity may encourage investment in hotels, transport and facilities that continue to serve residents afterwards. Some visitors return in other seasons to explore more. However, the benefits are not guaranteed. Organising a festival costs money, much of the work is temporary, and large outside companies may receive most of the income if local businesses are not involved. Crowds and rubbish can also upset residents. Local businesses gain most when residents are involved in organising and supplying the event, and when the programme reflects the character of the place.\n\nTo sum up, cultural festivals support local economies by attracting visitors and spending and by building reputation, provided that they are well planned and involve local people. For these reasons, they deserve continued support.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: lễ hội văn hoá hỗ trợ kinh tế địa phương như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu hiện tượng (nhiều thị trấn tổ chức liên hoan phim, ẩm thực, âm nhạc, di sản và hy vọng có lợi kinh tế) rồi hai cách: chi tiêu du khách và việc làm; quảng bá và đầu tư dài hạn.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — chi tiêu, việc làm",
+        "think": "Du khách chi cho thức ăn, chỗ ở, quà lưu niệm; gian hàng và nghệ sĩ có thu nhập; truyền thông quảng bá khu vực. Ví dụ thợ gốm bán ở gian hàng lễ hội kiếm trong cuối tuần bằng thu nhập thường cả tháng. Lễ hội ngoài mùa cao điểm lấp khách sạn, nhà hàng trống; việc làm tạm thời (an ninh, ăn uống, giao thông, dọn dẹp); nhà cung cấp địa phương hưởng lợi nên tiền luân chuyển trong cộng đồng.",
+        "refs": [
+          "ID-art-festival-economy",
+          "EX-art-craft-stall",
+          "ID-trv-festival"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — lợi ích dài hạn + giới hạn",
+        "think": "Sự kiện thành công thành bản sắc thị trấn, thu hút khách mỗi năm; quảng bá khuyến khích đầu tư khách sạn, giao thông, cơ sở tiếp tục phục vụ cư dân; khách quay lại. Giới hạn: không đảm bảo: tốn chi phí tổ chức, nhiều việc tạm thời; công ty lớn bên ngoài nhận phần lớn thu nếu doanh nghiệp địa phương không tham gia; đông đúc, rác phiền cư dân; lợi nhất khi cư dân tham gia tổ chức, cung ứng, chương trình phản ánh nơi.",
+        "refs": [
+          "ID-art-festival-economy",
+          "ID-trv-limits",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hỗ trợ kinh tế nếu lập kế hoạch tốt và có người địa phương tham gia; xứng đáng được tiếp tục ủng hộ.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-festival-economy",
+      "EX-art-craft-stall"
+    ]
+  },
+  "chunks": [
+    [
+      "film, food, music and heritage festivals",
+      "liên hoan phim, ẩm thực, âm nhạc và di sản"
+    ],
+    [
+      "cultural festivals support local economies",
+      "lễ hội văn hoá hỗ trợ kinh tế địa phương"
+    ],
+    [
+      "visitor spending and jobs",
+      "chi tiêu của du khách và việc làm"
+    ],
+    [
+      "publicity and long-term investment",
+      "quảng bá và đầu tư dài hạn"
+    ],
+    [
+      "bring money, jobs and publicity",
+      "đem lại tiền, việc làm và quảng bá"
+    ],
+    [
+      "food, accommodation and souvenirs",
+      "thức ăn, chỗ ở và quà lưu niệm"
+    ],
+    [
+      "media coverage promotes the area",
+      "truyền thông quảng bá khu vực"
+    ],
+    [
+      "earn in a weekend what she usually earns in a month",
+      "kiếm trong một cuối tuần bằng thu nhập thường ngày cả tháng"
+    ],
+    [
+      "a festival stall",
+      "một gian hàng lễ hội"
+    ],
+    [
+      "outside the main holiday season",
+      "ngoài mùa nghỉ cao điểm"
+    ],
+    [
+      "fills hotels and restaurants that would otherwise be empty",
+      "lấp đầy khách sạn và nhà hàng lẽ ra trống"
+    ],
+    [
+      "temporary jobs in security, catering, transport and cleaning",
+      "việc làm tạm thời trong an ninh, ăn uống, giao thông và dọn dẹp"
+    ],
+    [
+      "money circulates through the community",
+      "tiền luân chuyển trong cộng đồng"
+    ],
+    [
+      "part of a town's identity",
+      "một phần bản sắc của thị trấn"
+    ],
+    [
+      "encourage investment",
+      "khuyến khích đầu tư"
+    ],
+    [
+      "continue to serve residents afterwards",
+      "tiếp tục phục vụ cư dân sau đó"
+    ],
+    [
+      "not guaranteed",
+      "không được đảm bảo"
+    ],
+    [
+      "large outside companies",
+      "các công ty lớn bên ngoài"
+    ],
+    [
+      "involved in organising and supplying the event",
+      "tham gia tổ chức và cung ứng cho sự kiện"
+    ],
+    [
+      "reflects the character of the place",
+      "phản ánh đặc trưng của nơi đó"
+    ]
+  ]
+}

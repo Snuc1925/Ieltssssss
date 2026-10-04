@@ -1,0 +1,129 @@
+{
+  "questionId": 35,
+  "text": "Theatres, orchestras and museums often depend on grants, and some believe that the arts should be funded by government. I largely agree, since the market alone would neglect many valuable forms of art, although public money should be spent carefully and without political control.\n\nTo begin with, public funding allows the arts to exist where the market alone would neglect them. Commercial success rewards popular entertainment, so experimental theatre, classical music and local museums often need grants to survive and to offer low prices. A small theatre that stages new plays, for example, may never make a profit but enriches the cultural life of a city. Without subsidy, ticket prices would rise beyond the means of many people, and only the richest would enjoy the arts. Public support also protects cultural heritage, such as archives and traditional performances, which have no commercial value but great importance for national identity. Society gains cultural diversity and wider access to the arts.\n\nFurthermore, the arts bring benefits that justify public spending. They attract tourists, create jobs, improve the quality of city life and contribute to education and wellbeing. Studies of many cities suggest that every unit of money spent on culture returns a larger amount in local spending. However, funding should be limited and fair. Money spent on the arts cannot be used for hospitals and schools, so priorities have to be balanced, and governments must not use funds to control content or to support only the art that they approve of. An independent arts council, which allocates grants through open competition, protects artistic freedom. Artists and companies should also be encouraged to earn some income themselves.\n\nIn conclusion, the arts should be funded by government to a large extent, because they enrich society and would otherwise suffer, provided that funding is independent and balanced with other needs.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): chính phủ nên tài trợ nghệ thuật — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (nhà hát, dàn nhạc, bảo tàng thường phụ thuộc trợ cấp) rồi largely agree + lý do + điều kiện (chi tiêu cẩn thận, không kiểm soát chính trị).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thị trường bỏ qua",
+        "think": "Thành công thương mại thưởng cho giải trí phổ biến nên kịch thể nghiệm, nhạc cổ điển, bảo tàng địa phương cần trợ cấp để tồn tại và giá thấp. Ví dụ nhà hát nhỏ dàn dựng vở mới có thể không bao giờ có lãi nhưng làm giàu đời sống văn hoá thành phố. Không trợ cấp giá vé vượt khả năng nhiều người, chỉ người giàu hưởng; bảo vệ di sản văn hoá (lưu trữ, biểu diễn truyền thống).",
+        "refs": [
+          "ID-art-public-funding",
+          "EX-art-small-theatre",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Nghệ thuật mang lợi ích biện minh chi công: thu hút du khách, việc làm, chất lượng cuộc sống, giáo dục, sức khoẻ tinh thần. Giới hạn: tiền cho nghệ thuật không dùng cho bệnh viện, trường học nên cân bằng ưu tiên; chính phủ không dùng quỹ để kiểm soát nội dung; hội đồng nghệ thuật độc lập cấp theo cạnh tranh mở; khuyến khích nghệ sĩ tự kiếm một phần thu nhập.",
+        "refs": [
+          "ID-art-public-funding",
+          "ID-env-other-priorities",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên tài trợ ở mức độ lớn, quỹ độc lập và cân bằng với nhu cầu khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-public-funding",
+      "EX-art-small-theatre"
+    ]
+  },
+  "chunks": [
+    [
+      "Theatres, orchestras and museums",
+      "nhà hát, dàn nhạc và bảo tàng"
+    ],
+    [
+      "depend on grants",
+      "phụ thuộc vào khoản trợ cấp"
+    ],
+    [
+      "funded by government",
+      "được chính phủ tài trợ"
+    ],
+    [
+      "neglect many valuable forms of art",
+      "bỏ qua nhiều loại hình nghệ thuật có giá trị"
+    ],
+    [
+      "without political control",
+      "không có sự kiểm soát chính trị"
+    ],
+    [
+      "Commercial success rewards popular entertainment",
+      "thành công thương mại thưởng cho giải trí phổ biến"
+    ],
+    [
+      "experimental theatre, classical music",
+      "kịch thể nghiệm, nhạc cổ điển"
+    ],
+    [
+      "offer low prices",
+      "đưa ra giá thấp"
+    ],
+    [
+      "stages new plays",
+      "dàn dựng vở kịch mới"
+    ],
+    [
+      "never make a profit",
+      "không bao giờ có lãi"
+    ],
+    [
+      "enriches the cultural life of a city",
+      "làm giàu đời sống văn hoá của thành phố"
+    ],
+    [
+      "beyond the means of many people",
+      "vượt quá khả năng của nhiều người"
+    ],
+    [
+      "no commercial value but great importance",
+      "không có giá trị thương mại nhưng rất quan trọng"
+    ],
+    [
+      "national identity",
+      "bản sắc quốc gia"
+    ],
+    [
+      "cultural diversity and wider access",
+      "đa dạng văn hoá và tiếp cận rộng hơn"
+    ],
+    [
+      "attract tourists, create jobs",
+      "thu hút du khách, tạo việc làm"
+    ],
+    [
+      "returns a larger amount in local spending",
+      "đem lại khoản chi tiêu địa phương lớn hơn"
+    ],
+    [
+      "limited and fair",
+      "có giới hạn và công bằng"
+    ],
+    [
+      "control content",
+      "kiểm soát nội dung"
+    ],
+    [
+      "An independent arts council",
+      "một hội đồng nghệ thuật độc lập"
+    ]
+  ]
+}

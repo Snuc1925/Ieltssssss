@@ -1,0 +1,128 @@
+{
+  "questionId": 343,
+  "text": "Running a museum is expensive, and some people say that museums should charge for entry to fund operations. I disagree with this view, since charging excludes people and raises only a small part of the cost, although fees for special exhibitions can be reasonable.\n\nTo begin with, charging for entry raises money but excludes people and may reduce visitor numbers. Fees can pay for conservation and staff, yet they discourage low-income visitors, and museums have other sources of income such as grants, sponsors, shops and charges for special exhibitions. A student who cannot afford a twenty-pound ticket, for example, may never see a collection that is meant to belong to everyone. When some national museums in several countries introduced entry fees, attendance fell sharply, and when they dropped them, numbers recovered. Because visitors fall, income from shops and cafes also decreases, so the net gain from tickets is often small. Museums exist to educate the public, and an entry fee works against that aim.\n\nFurthermore, there are better ways to fund museums. Governments can pay for them because they provide education and tourism benefits, private sponsors and donors gain recognition for supporting culture, and museum shops, cafes and event hire generate income without affecting access. Memberships and voluntary donations allow those who can afford to support the museum to do so. However, some charging may be reasonable. Special exhibitions with high costs can have a ticket price, and tourists, who do not pay local taxes, could be asked for a fee, while local residents and children enter free. Such mixed models share the cost fairly.\n\nIn conclusion, I disagree that museums should charge for entry to fund their operations, because it excludes people and brings limited benefits, although charges for special exhibitions can be sensible.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bảo tàng nên thu phí vào cửa để có kinh phí — disagree (góc kinh phí, khác đề 135 về tiếp cận)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + nhượng bộ",
+        "think": "Mở bài nêu thực tế (vận hành bảo tàng đắt) rồi disagree + lý do + nhượng bộ (phí triển lãm đặc biệt hợp lý).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thu tiền nhưng loại trừ, giảm khách",
+        "think": "Phí trả bảo tồn và nhân viên nhưng làm nản người thu nhập thấp; bảo tàng có nguồn khác (trợ cấp, nhà tài trợ, cửa hàng, phí triển lãm đặc biệt). Ví dụ sinh viên không trả nổi vé hai mươi bảng có thể không bao giờ thấy bộ sưu tập vốn thuộc về mọi người. Khi một số bảo tàng quốc gia đưa ra phí, lượng khách giảm mạnh; khi bỏ, số người phục hồi. Khách giảm thì thu từ cửa hàng, quán cà phê cũng giảm nên lợi nhuận ròng từ vé thường nhỏ.",
+        "refs": [
+          "ID-art-museum-charge",
+          "EX-art-ticket-price",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Có cách tốt hơn để tài trợ: chính phủ trả vì giáo dục và du lịch, nhà tài trợ tư nhân được ghi nhận, cửa hàng, quán cà phê, cho thuê sự kiện tạo thu mà không ảnh hưởng tiếp cận; hội viên và quyên góp tự nguyện. Nhượng bộ: một số thu phí hợp lý: triển lãm đặc biệt chi phí cao có vé, du khách không đóng thuế địa phương có thể trả phí, cư dân địa phương và trẻ em vào miễn phí: mô hình hỗn hợp chia sẻ chi phí công bằng.",
+        "refs": [
+          "ID-art-museum-free",
+          "ID-art-public-funding",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì loại trừ người và lợi ích hạn chế, dù phí triển lãm đặc biệt có thể hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "EX-art-ticket-price"
+    ]
+  },
+  "chunks": [
+    [
+      "Running a museum is expensive",
+      "vận hành một bảo tàng rất tốn kém"
+    ],
+    [
+      "charge for entry to fund operations",
+      "thu phí vào cửa để tài trợ hoạt động"
+    ],
+    [
+      "raises only a small part of the cost",
+      "chỉ đáp ứng một phần nhỏ chi phí"
+    ],
+    [
+      "raises money but excludes people",
+      "thu được tiền nhưng loại trừ người ta"
+    ],
+    [
+      "reduce visitor numbers",
+      "làm giảm số lượng khách"
+    ],
+    [
+      "pay for conservation and staff",
+      "trả cho việc bảo tồn và nhân viên"
+    ],
+    [
+      "discourage low-income visitors",
+      "làm nản khách thu nhập thấp"
+    ],
+    [
+      "grants, sponsors, shops",
+      "trợ cấp, nhà tài trợ, cửa hàng"
+    ],
+    [
+      "a collection that is meant to belong to everyone",
+      "bộ sưu tập vốn thuộc về mọi người"
+    ],
+    [
+      "entry fees",
+      "phí vào cửa"
+    ],
+    [
+      "attendance fell sharply",
+      "lượng khách giảm mạnh"
+    ],
+    [
+      "numbers recovered",
+      "số lượng phục hồi"
+    ],
+    [
+      "the net gain from tickets is often small",
+      "khoản lãi ròng từ vé thường nhỏ"
+    ],
+    [
+      "educate the public",
+      "giáo dục công chúng"
+    ],
+    [
+      "works against that aim",
+      "đi ngược mục đích đó"
+    ],
+    [
+      "private sponsors and donors",
+      "nhà tài trợ và người quyên góp tư nhân"
+    ],
+    [
+      "event hire",
+      "cho thuê tổ chức sự kiện"
+    ],
+    [
+      "Memberships and voluntary donations",
+      "hội viên và quyên góp tự nguyện"
+    ],
+    [
+      "a ticket price",
+      "giá vé"
+    ],
+    [
+      "share the cost fairly",
+      "chia sẻ chi phí công bằng"
+    ]
+  ]
+}

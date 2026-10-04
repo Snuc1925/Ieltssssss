@@ -1,0 +1,130 @@
+{
+  "questionId": 309,
+  "text": "Marble halls, silent rooms and unfamiliar vocabulary can make an art gallery feel like a place for specialists, and many people say that galleries are elitist. I disagree with this view to a large extent, since galleries can feel exclusive but many are working hard to open their doors.\n\nTo begin with, galleries can feel exclusive, but that is largely a matter of habit and perception. High prices, specialist language and an intimidating atmosphere can discourage newcomers, and some people believe that they do not know enough about art to enjoy it. Surveys show that visitors tend to be more educated and wealthy than the population as a whole. Yet this does not mean that galleries are designed to exclude anyone. A first-time visitor who joins a free guided tour, for example, may find that a gallery is much friendlier than she expected. The problem is largely one of habit and confidence, which can be changed, not a rule of the institution.\n\nFurthermore, many galleries are free, offer family days, workshops, tours and talks, and show art that reflects a wide range of communities. Digital collections allow anyone to explore artworks online from home, and community projects take exhibitions into schools, libraries and shopping centres. Younger curators try to explain works in plain language. Admittedly, some private galleries remain expensive and sell works only to wealthy collectors, and the art market as a whole is dominated by large sums of money. However, public galleries exist to serve everyone, and when they are free and welcoming, they are among the most open of cultural institutions. Elitism is therefore not inherent in art, but in attitudes that can be changed.\n\nIn conclusion, I disagree that galleries are elitist, because most make real efforts to include everyone, although they should continue to lower barriers and reach new audiences.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: phòng tranh mang tính tinh hoa — disagree phần lớn",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + nhượng bộ",
+        "think": "Mở bài nêu cảm giác (sảnh đá cẩm thạch, phòng im lặng, từ ngữ lạ khiến phòng tranh như chỗ cho chuyên gia) rồi disagree 'to a large extent' + lý do.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Nhượng bộ — có thể cảm thấy loại trừ",
+        "think": "Giá cao, ngôn ngữ chuyên môn, bầu không khí đáng sợ làm nản người mới; nhiều người nghĩ mình không biết đủ về nghệ thuật; khảo sát cho thấy khách thường học vấn cao và giàu hơn dân số chung. Nhưng không có nghĩa phòng tranh thiết kế loại trừ ai: ví dụ du khách lần đầu tham gia tour miễn phí thấy phòng tranh thân thiện hơn mong đợi. Vấn đề là thói quen và tự tin, có thể thay đổi.",
+        "refs": [
+          "ID-art-elitist",
+          "EX-art-gallery-newcomer",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phản bác — nỗ lực mở cửa",
+        "think": "Nhiều phòng tranh miễn phí, có ngày gia đình, hội thảo, tour, nói chuyện, trưng bày nghệ thuật phản ánh nhiều cộng đồng; bộ sưu tập số cho khám phá từ nhà; dự án cộng đồng đưa triển lãm vào trường, thư viện, trung tâm mua sắm; giám tuyển trẻ giải thích bằng ngôn ngữ giản dị. Nhượng bộ: một số phòng tranh tư vẫn đắt, bán cho nhà sưu tầm giàu; thị trường nghệ thuật bị tiền lớn chi phối. Nhưng phòng tranh công phục vụ mọi người; chủ nghĩa tinh hoa không vốn có trong nghệ thuật mà ở thái độ có thể thay đổi.",
+        "refs": [
+          "ID-art-elitist",
+          "ID-art-museum-free",
+          "ID-art-public-art",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì đa số nỗ lực bao gồm mọi người, nhưng tiếp tục hạ rào cản và tiếp cận khán giả mới.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-elitist",
+      "EX-art-gallery-newcomer"
+    ]
+  },
+  "chunks": [
+    [
+      "Marble halls, silent rooms and unfamiliar vocabulary",
+      "sảnh cẩm thạch, phòng im lặng và từ ngữ lạ lẫm"
+    ],
+    [
+      "a place for specialists",
+      "nơi dành cho chuyên gia"
+    ],
+    [
+      "galleries are elitist",
+      "phòng tranh mang tính tinh hoa"
+    ],
+    [
+      "feel exclusive",
+      "cảm thấy mang tính loại trừ"
+    ],
+    [
+      "habit and perception",
+      "thói quen và nhận thức"
+    ],
+    [
+      "High prices, specialist language and an intimidating atmosphere",
+      "giá cao, ngôn ngữ chuyên môn và bầu không khí đáng sợ"
+    ],
+    [
+      "discourage newcomers",
+      "làm nản người mới"
+    ],
+    [
+      "more educated and wealthy than the population as a whole",
+      "học vấn cao và giàu hơn toàn bộ dân số"
+    ],
+    [
+      "designed to exclude anyone",
+      "được thiết kế để loại trừ ai đó"
+    ],
+    [
+      "a free guided tour",
+      "tour có hướng dẫn miễn phí"
+    ],
+    [
+      "much friendlier than she expected",
+      "thân thiện hơn nhiều so với cô mong đợi"
+    ],
+    [
+      "family days, workshops, tours and talks",
+      "ngày gia đình, hội thảo, tour và buổi nói chuyện"
+    ],
+    [
+      "reflects a wide range of communities",
+      "phản ánh nhiều cộng đồng"
+    ],
+    [
+      "Digital collections",
+      "bộ sưu tập số"
+    ],
+    [
+      "explore artworks online from home",
+      "khám phá tác phẩm trực tuyến tại nhà"
+    ],
+    [
+      "libraries and shopping centres",
+      "thư viện và trung tâm mua sắm"
+    ],
+    [
+      "plain language",
+      "ngôn ngữ giản dị"
+    ],
+    [
+      "sell works only to wealthy collectors",
+      "chỉ bán tác phẩm cho nhà sưu tầm giàu"
+    ],
+    [
+      "serve everyone",
+      "phục vụ mọi người"
+    ],
+    [
+      "lower barriers and reach new audiences",
+      "hạ rào cản và tiếp cận khán giả mới"
+    ]
+  ]
+}

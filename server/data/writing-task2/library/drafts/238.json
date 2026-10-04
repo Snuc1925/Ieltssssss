@@ -1,0 +1,129 @@
+{
+  "questionId": 238,
+  "text": "A song can be heard in a packed arena or through headphones on a train, and opinions differ on whether people prefer live concerts or recorded music. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of live concerts argue that they offer atmosphere and a shared experience that recordings cannot. At a concert, fans feel the energy of the performance and share emotion with thousands of others, and artists earn directly from ticket sales. A fan who sings along with ten thousand strangers, for example, enjoys a feeling of togetherness that headphones cannot provide. Live music is also unpredictable and authentic, since performers respond to the crowd and may improvise, so that no two shows are the same. Attending a concert creates lasting memories and supports the musicians that people love.\n\nOn the other hand, supporters of recorded music emphasise convenience, cost and quality. Recordings can be enjoyed anywhere, at any time, for little money, and the listener can choose from millions of songs and repeat favourite tracks as often as they like. Tickets for major concerts are expensive, crowds are tiring, travel takes time, and sound quality in large venues can be poor. A person with a long commute, for instance, can enjoy a favourite album every day at almost no cost. Recorded music also suits people who are shy, have limited mobility or live far from cities where concerts are held. Studio recordings are carefully produced, so many songs sound better on a recording than live.\n\nIn conclusion, both views have merit. Personally, I enjoy recorded music for everyday listening, but I regard live concerts as special occasions that offer something recordings cannot match.",
+  "analysis": {
+    "type_vi": "Discuss both views: thích hoà nhạc sống hay nhạc thu sẵn",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hai cách nghe (đấu trường đông chật hay tai nghe trên tàu); hai phe; ý kiến riêng: nhạc thu cho nghe hằng ngày, hoà nhạc sống là dịp đặc biệt.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe nhạc sống",
+        "think": "Không khí và trải nghiệm chung mà thu âm không có: người hâm mộ cảm năng lượng biểu diễn, chia sẻ cảm xúc với hàng nghìn người; nghệ sĩ kiếm trực tiếp từ vé. Ví dụ fan hát cùng mười nghìn người lạ có cảm giác đoàn kết mà tai nghe không cho. Nhạc sống khó đoán và chân thực vì người biểu diễn đáp lại khán giả, ứng tác nên không buổi nào giống buổi nào; tạo ký ức, ủng hộ nhạc sĩ.",
+        "refs": [
+          "ID-art-live-recorded",
+          "EX-art-concert-crowd",
+          "ID-art-streaming"
+        ]
+      },
+      {
+        "step": "3. Phe nhạc thu sẵn",
+        "think": "Tiện lợi, chi phí, chất lượng: nghe ở bất kỳ đâu, bất kỳ lúc nào, rẻ; chọn hàng triệu bài, lặp lại tuỳ thích. Vé hoà nhạc lớn đắt, đám đông mệt, đi lại tốn thời gian, âm thanh nơi lớn có thể kém. Ví dụ người đi làm xa nghe album yêu thích mỗi ngày gần như không tốn gì. Hợp người nhút nhát, hạn chế vận động, sống xa thành phố; thu phòng thu được trau chuốt nên nhiều bài nghe hay hơn bản sống.",
+        "refs": [
+          "ID-art-live-recorded",
+          "ID-art-private-events"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhạc thu cho hằng ngày; hoà nhạc sống như dịp đặc biệt không thể thay thế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-live-recorded",
+      "EX-art-concert-crowd"
+    ]
+  },
+  "chunks": [
+    [
+      "a packed arena or through headphones on a train",
+      "đấu trường đông chật hay tai nghe trên tàu"
+    ],
+    [
+      "live concerts or recorded music",
+      "hoà nhạc trực tiếp hay nhạc thu sẵn"
+    ],
+    [
+      "atmosphere and a shared experience",
+      "không khí và trải nghiệm chung"
+    ],
+    [
+      "feel the energy of the performance",
+      "cảm nhận năng lượng buổi biểu diễn"
+    ],
+    [
+      "share emotion with thousands of others",
+      "chia sẻ cảm xúc với hàng nghìn người khác"
+    ],
+    [
+      "earn directly from ticket sales",
+      "kiếm trực tiếp từ doanh thu vé"
+    ],
+    [
+      "sings along with ten thousand strangers",
+      "hát cùng mười nghìn người lạ"
+    ],
+    [
+      "a feeling of togetherness that headphones cannot provide",
+      "cảm giác đoàn kết mà tai nghe không mang lại"
+    ],
+    [
+      "unpredictable and authentic",
+      "khó đoán và chân thực"
+    ],
+    [
+      "respond to the crowd and may improvise",
+      "đáp lại đám đông và có thể ứng tác"
+    ],
+    [
+      "no two shows are the same",
+      "không có hai buổi nào giống nhau"
+    ],
+    [
+      "lasting memories",
+      "ký ức lâu dài"
+    ],
+    [
+      "convenience, cost and quality",
+      "sự tiện lợi, chi phí và chất lượng"
+    ],
+    [
+      "at any time, for little money",
+      "bất cứ lúc nào, với ít tiền"
+    ],
+    [
+      "repeat favourite tracks",
+      "nghe lặp lại bài yêu thích"
+    ],
+    [
+      "Tickets for major concerts are expensive",
+      "vé hoà nhạc lớn đắt đỏ"
+    ],
+    [
+      "crowds are tiring",
+      "đám đông gây mệt mỏi"
+    ],
+    [
+      "a long commute",
+      "quãng đường đi làm dài"
+    ],
+    [
+      "limited mobility",
+      "khả năng di chuyển hạn chế"
+    ],
+    [
+      "carefully produced",
+      "được sản xuất cẩn thận"
+    ]
+  ]
+}

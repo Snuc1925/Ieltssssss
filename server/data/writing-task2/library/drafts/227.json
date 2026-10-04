@@ -1,0 +1,128 @@
+{
+  "questionId": 227,
+  "text": "When a global brand sells clothes with patterns copied from a village, or a festival-goer wears a headdress that is sacred to another culture, controversy often follows, and many people say that cultural appropriation is harmful. I partly agree, since appropriation can exploit and offend, although cultural exchange itself is natural and often positive.\n\nTo begin with, cultural appropriation is harmful when it exploits or mocks. Companies that profit from sacred symbols without credit or payment, or costumes that reduce a culture to a stereotype, cause offence. A fashion brand that copies a sacred pattern from an indigenous community without permission, for example, profits from a tradition that its owners cannot protect. The original creators may receive no income, while outsiders become famous for work that is not theirs. When sacred objects are used as fashion accessories, it can hurt the people for whom they have deep meaning. In addition, stereotypes can reinforce prejudice, particularly when a group has already suffered discrimination and has little power to defend its traditions.\n\nHowever, cultural exchange itself is natural. Cultures have always borrowed foods, music, clothing and ideas from one another, and this has produced much of the richness of the modern world. Learning from and honouring another culture, with permission and respect, enriches both sides, and an overly strict view could discourage people from learning about or appreciating other traditions. The difference lies in respect, credit and fair sharing of benefits. A designer who works with artisans from the community, pays them fairly and names them as creators, for example, shows how exchange can benefit everyone. Blanket bans are therefore less useful than clear principles of respect.\n\nIn conclusion, cultural appropriation is harmful when it exploits, mocks or ignores the owners of a tradition, but exchange itself is valuable, so I agree only partly with the statement.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: chiếm dụng văn hoá có hại — đồng ý một phần",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến một phần",
+        "think": "Mở bài nêu tình huống gây tranh cãi (thương hiệu toàn cầu bán quần áo chép hoa văn của một ngôi làng; người dự lễ hội đội mũ thiêng của văn hoá khác) rồi 'partly agree'.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đồng ý — có hại khi lợi dụng, chế giễu",
+        "think": "Công ty hưởng lợi từ biểu tượng thiêng mà không ghi công hoặc trả tiền, trang phục rút gọn văn hoá thành khuôn mẫu gây xúc phạm. Ví dụ hãng thời trang sao chép hoa văn thiêng của cộng đồng bản địa không xin phép hưởng lợi từ truyền thống mà chủ sở hữu không bảo vệ nổi. Người sáng tạo gốc không có thu nhập trong khi người ngoài nổi tiếng; đồ thiêng thành phụ kiện làm đau người coi nó sâu sắc; khuôn mẫu củng cố định kiến, nhất là với nhóm từng bị phân biệt, ít quyền lực.",
+        "refs": [
+          "ID-art-appropriation",
+          "EX-art-sacred-pattern",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phần không đồng ý — trao đổi văn hoá là tự nhiên",
+        "think": "Văn hoá luôn vay mượn món ăn, âm nhạc, trang phục, ý tưởng, tạo sự phong phú; học hỏi và tôn vinh văn hoá khác có phép và tôn trọng làm giàu cả hai; quan điểm quá nghiêm có thể cản người học và trân trọng truyền thống khác. Khác biệt ở tôn trọng, ghi công, chia sẻ lợi ích công bằng. Ví dụ nhà thiết kế làm việc với nghệ nhân cộng đồng, trả công bằng, nêu tên là người sáng tạo. Cấm hoàn toàn kém hữu ích hơn nguyên tắc tôn trọng.",
+        "refs": [
+          "ID-art-appropriation",
+          "ID-art-crafts",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có hại khi lợi dụng, chế giễu, phớt lờ chủ sở hữu nhưng trao đổi có giá trị; đồng ý một phần.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-appropriation",
+      "EX-art-sacred-pattern"
+    ]
+  },
+  "chunks": [
+    [
+      "patterns copied from a village",
+      "hoa văn sao chép từ một ngôi làng"
+    ],
+    [
+      "a headdress that is sacred to another culture",
+      "mũ đội đầu thiêng liêng của một nền văn hoá khác"
+    ],
+    [
+      "cultural appropriation is harmful",
+      "chiếm dụng văn hoá là có hại"
+    ],
+    [
+      "exploit and offend",
+      "khai thác và xúc phạm"
+    ],
+    [
+      "cultural exchange itself is natural",
+      "bản thân trao đổi văn hoá là tự nhiên"
+    ],
+    [
+      "exploits or mocks",
+      "lợi dụng hoặc chế giễu"
+    ],
+    [
+      "profit from sacred symbols without credit or payment",
+      "hưởng lợi từ biểu tượng thiêng mà không ghi công hay trả tiền"
+    ],
+    [
+      "reduce a culture to a stereotype",
+      "rút gọn một nền văn hoá thành khuôn mẫu"
+    ],
+    [
+      "cause offence",
+      "gây xúc phạm"
+    ],
+    [
+      "an indigenous community",
+      "một cộng đồng bản địa"
+    ],
+    [
+      "a tradition that its owners cannot protect",
+      "truyền thống mà chủ sở hữu không thể bảo vệ"
+    ],
+    [
+      "receive no income",
+      "không nhận được thu nhập"
+    ],
+    [
+      "fashion accessories",
+      "phụ kiện thời trang"
+    ],
+    [
+      "reinforce prejudice",
+      "củng cố định kiến"
+    ],
+    [
+      "little power to defend its traditions",
+      "ít quyền lực để bảo vệ truyền thống của mình"
+    ],
+    [
+      "borrowed foods, music, clothing and ideas",
+      "vay mượn món ăn, âm nhạc, trang phục và ý tưởng"
+    ],
+    [
+      "the richness of the modern world",
+      "sự phong phú của thế giới hiện đại"
+    ],
+    [
+      "with permission and respect",
+      "có phép và tôn trọng"
+    ],
+    [
+      "respect, credit and fair sharing of benefits",
+      "sự tôn trọng, ghi công và chia sẻ lợi ích công bằng"
+    ],
+    [
+      "blanket bans",
+      "lệnh cấm hoàn toàn"
+    ]
+  ]
+}

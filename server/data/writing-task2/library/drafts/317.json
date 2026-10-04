@@ -1,0 +1,128 @@
+{
+  "questionId": 317,
+  "text": "Some museums tell the story of a whole civilisation, while others concentrate on a town, a trade or a family, and some believe that museums should focus on local history. I agree only to a limited extent, since local history gives museums relevance, but a purely local focus can narrow understanding.\n\nTo begin with, local history gives museums relevance and a sense of community. People connect strongly with stories about their own town, family and neighbours, and local collections are often neglected elsewhere. A museum about the town's old textile mill, for example, helps residents to understand where their grandparents worked. Local museums can preserve everyday objects, photographs and oral histories that national institutions would never collect, and they can involve residents as donors, volunteers and storytellers. This builds pride and belonging, and it attracts visitors who want to see a place from the inside. Children are often more interested in history that happened where they live.\n\nHowever, a purely local focus can narrow understanding. Local events are part of national and world history, and visitors need to see how the textile mill, for instance, connected to global trade, migration and technology. Large museums also have the resources to display collections from across the world, which allow people to learn about other cultures and periods. A museum that shows only its own area risks becoming inward-looking and uninteresting to visitors from elsewhere. A balance is best: local museums should explain their area within a wider context, and national museums should include local stories, so that visitors can see how the particular and the general connect.\n\nIn conclusion, museums should focus on local history only to a limited extent, because relevance is valuable but a wider perspective is also essential.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): bảo tàng nên tập trung vào lịch sử địa phương — đồng ý hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến hạn chế",
+        "think": "Mở bài nêu sự đa dạng bảo tàng (kể câu chuyện cả nền văn minh / thị trấn, nghề, gia đình) rồi 'agree only to a limited extent' + lý do + giới hạn.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lý do cho phần đồng ý — liên quan và cộng đồng",
+        "think": "Người ta gắn bó với câu chuyện thị trấn, gia đình, hàng xóm; bộ sưu tập địa phương thường bị bỏ quên ở nơi khác. Ví dụ bảo tàng về nhà máy dệt giúp cư dân hiểu ông bà làm việc ở đâu. Bảo tàng địa phương giữ đồ dùng hằng ngày, ảnh, lịch sử truyền miệng mà bảo tàng quốc gia không thu thập; cư dân là người tặng, tình nguyện viên, người kể; xây tự hào; trẻ thích lịch sử xảy ra nơi mình sống.",
+        "refs": [
+          "ID-art-museum-local",
+          "EX-art-local-mill",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn — tầm nhìn rộng",
+        "think": "Sự kiện địa phương là một phần lịch sử quốc gia và thế giới: khách cần thấy nhà máy dệt nối với thương mại toàn cầu, di cư, công nghệ; bảo tàng lớn có nguồn lực trưng bày bộ sưu tập khắp thế giới cho phép học văn hoá, thời kỳ khác; bảo tàng chỉ khu vực mình có nguy cơ hướng nội; cân bằng: bảo tàng địa phương giải thích khu vực trong bối cảnh rộng; bảo tàng quốc gia gồm câu chuyện địa phương.",
+        "refs": [
+          "ID-art-museum-local",
+          "ID-art-artifacts-abroad",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tập trung địa phương chỉ ở mức hạn chế vì liên quan có giá trị nhưng góc nhìn rộng cũng thiết yếu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-museum-local",
+      "EX-art-local-mill"
+    ]
+  },
+  "chunks": [
+    [
+      "tell the story of a whole civilisation",
+      "kể câu chuyện của cả một nền văn minh"
+    ],
+    [
+      "a town, a trade or a family",
+      "một thị trấn, một nghề hoặc một gia đình"
+    ],
+    [
+      "museums should focus on local history",
+      "bảo tàng nên tập trung vào lịch sử địa phương"
+    ],
+    [
+      "relevance and a sense of community",
+      "sự liên quan và cảm giác cộng đồng"
+    ],
+    [
+      "connect strongly with stories about their own town",
+      "gắn bó mạnh với câu chuyện về thị trấn của mình"
+    ],
+    [
+      "neglected elsewhere",
+      "bị bỏ quên ở nơi khác"
+    ],
+    [
+      "the town's old textile mill",
+      "nhà máy dệt cũ của thị trấn"
+    ],
+    [
+      "where their grandparents worked",
+      "nơi ông bà họ từng làm việc"
+    ],
+    [
+      "everyday objects, photographs and oral histories",
+      "đồ vật hằng ngày, ảnh và lịch sử truyền miệng"
+    ],
+    [
+      "donors, volunteers and storytellers",
+      "người tặng, tình nguyện viên và người kể chuyện"
+    ],
+    [
+      "builds pride and belonging",
+      "xây dựng niềm tự hào và cảm giác thuộc về"
+    ],
+    [
+      "see a place from the inside",
+      "nhìn một nơi từ bên trong"
+    ],
+    [
+      "narrow understanding",
+      "làm hẹp sự hiểu biết"
+    ],
+    [
+      "global trade, migration and technology",
+      "thương mại toàn cầu, di cư và công nghệ"
+    ],
+    [
+      "collections from across the world",
+      "bộ sưu tập từ khắp thế giới"
+    ],
+    [
+      "learn about other cultures and periods",
+      "tìm hiểu các nền văn hoá và thời kỳ khác"
+    ],
+    [
+      "inward-looking",
+      "hướng nội"
+    ],
+    [
+      "within a wider context",
+      "trong bối cảnh rộng hơn"
+    ],
+    [
+      "the particular and the general",
+      "cái riêng và cái chung"
+    ],
+    [
+      "a wider perspective",
+      "góc nhìn rộng hơn"
+    ]
+  ]
+}

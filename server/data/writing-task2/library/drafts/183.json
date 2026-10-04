@@ -1,0 +1,131 @@
+{
+  "questionId": 183,
+  "text": "Weaving, pottery, wood carving and embroidery were once part of everyday life in every region, and in the age of factory production, they are valued for different reasons. This essay will explain two key roles that traditional crafts play in preserving heritage: keeping skills and knowledge alive, and sustaining identity and communities.\n\nFirst and foremost, traditional crafts keep skills, stories and knowledge alive. Techniques passed from master to apprentice carry knowledge of materials and designs developed over centuries, and much of this cannot be recorded in books. A young weaver who learns patterns from an elder, for example, keeps alive a technique that no book could fully record. Each pattern, shape or colour may have symbolic meaning and tell stories about a community's beliefs, history and environment. When a craft disappears, a whole body of knowledge about local materials, from natural dyes to clay and wood, disappears with it. Museums can preserve objects, but only living practice preserves the skill.\n\nIn addition, crafts sustain identity and communities. They give communities a livelihood, particularly in rural areas, attract tourists who wish to buy authentic objects and give craftspeople pride in their heritage. Festivals and markets showcase skills and bring generations together. However, mass-produced goods threaten their survival, since they are cheaper and quicker to make, and young people often prefer better-paid jobs elsewhere. Governments and organisations can help by providing training, fair prices, protection of designs and markets for products, and by teaching crafts in schools. Without such support, many traditions may disappear within a generation.\n\nTo sum up, traditional crafts play a vital role in preserving heritage by keeping skills alive and sustaining identity and livelihoods. For these reasons, they deserve support and recognition.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của thủ công truyền thống trong bảo tồn di sản",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu bối cảnh (dệt, gốm, chạm gỗ, thêu từng là một phần đời sống hằng ngày, thời sản xuất công nghiệp được trân trọng vì lý do khác); báo hai vai trò: giữ kỹ năng và tri thức; duy trì bản sắc và cộng đồng.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — giữ kỹ năng, câu chuyện, tri thức",
+        "think": "Kỹ thuật truyền từ thầy sang học việc mang kiến thức về vật liệu và hoa văn qua nhiều thế kỷ, nhiều thứ không ghi được trong sách. Ví dụ người thợ dệt trẻ học hoa văn từ người lớn giữ sống kỹ thuật sách không ghi trọn. Mỗi hoa văn, hình dạng, màu có ý nghĩa biểu tượng, kể niềm tin, lịch sử, môi trường; mất thủ công mất cả tri thức về vật liệu địa phương (thuốc nhuộm tự nhiên, đất sét, gỗ); bảo tàng giữ đồ vật nhưng chỉ thực hành sống giữ kỹ năng.",
+        "refs": [
+          "ID-art-crafts",
+          "EX-art-weaver-apprentice",
+          "ID-art-preservation"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — bản sắc, cộng đồng + giới hạn",
+        "think": "Thủ công cho cộng đồng sinh kế (nhất là nông thôn), thu hút du khách mua hàng thật, cho thợ tự hào; lễ hội, chợ trưng bày kỹ năng, gắn kết các thế hệ. Giới hạn: hàng loạt đe doạ vì rẻ và nhanh; người trẻ thích việc lương cao nơi khác; chính phủ và tổ chức đào tạo, giá công bằng, bảo vệ mẫu, thị trường, dạy ở trường; không hỗ trợ nhiều truyền thống biến mất trong một thế hệ.",
+        "refs": [
+          "ID-art-crafts",
+          "ID-trv-rural",
+          "ID-fam-traditions-identity",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò thiết yếu; xứng đáng được hỗ trợ và công nhận.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-crafts",
+      "EX-art-weaver-apprentice"
+    ]
+  },
+  "chunks": [
+    [
+      "Weaving, pottery, wood carving and embroidery",
+      "dệt, làm gốm, chạm gỗ và thêu"
+    ],
+    [
+      "traditional crafts",
+      "nghề thủ công truyền thống"
+    ],
+    [
+      "preserving heritage",
+      "bảo tồn di sản"
+    ],
+    [
+      "keeping skills and knowledge alive",
+      "giữ cho kỹ năng và tri thức sống mãi"
+    ],
+    [
+      "sustaining identity and communities",
+      "duy trì bản sắc và cộng đồng"
+    ],
+    [
+      "Techniques passed from master to apprentice",
+      "kỹ thuật được truyền từ thầy sang học việc"
+    ],
+    [
+      "materials and designs developed over centuries",
+      "vật liệu và thiết kế phát triển qua nhiều thế kỷ"
+    ],
+    [
+      "cannot be recorded in books",
+      "không thể ghi lại trong sách"
+    ],
+    [
+      "learns patterns from an elder",
+      "học hoa văn từ người lớn tuổi"
+    ],
+    [
+      "symbolic meaning",
+      "ý nghĩa biểu tượng"
+    ],
+    [
+      "a community's beliefs, history and environment",
+      "niềm tin, lịch sử và môi trường của một cộng đồng"
+    ],
+    [
+      "natural dyes to clay and wood",
+      "thuốc nhuộm tự nhiên đến đất sét và gỗ"
+    ],
+    [
+      "only living practice preserves the skill",
+      "chỉ thực hành sống mới giữ được kỹ năng"
+    ],
+    [
+      "a livelihood",
+      "sinh kế"
+    ],
+    [
+      "authentic objects",
+      "đồ vật chính gốc"
+    ],
+    [
+      "pride in their heritage",
+      "tự hào về di sản của họ"
+    ],
+    [
+      "showcase skills",
+      "trưng bày kỹ năng"
+    ],
+    [
+      "Mass-produced goods",
+      "hàng hoá sản xuất hàng loạt"
+    ],
+    [
+      "training, fair prices, protection of designs",
+      "đào tạo, giá công bằng, bảo vệ mẫu thiết kế"
+    ],
+    [
+      "within a generation",
+      "trong vòng một thế hệ"
+    ]
+  ]
+}

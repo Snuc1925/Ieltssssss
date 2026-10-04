@@ -1,0 +1,131 @@
+{
+  "questionId": 236,
+  "text": "Learning a second language is often seen as a practical skill for work or travel, but many people also believe that it opens a door to another culture. This essay will explain two key ways in which language learning improves cultural understanding: by revealing other ways of thinking and by allowing direct contact with people and literature.\n\nFirst and foremost, learning a language gives direct access to another way of thinking and living. Idioms, humour and forms of politeness reveal values that translations lose. A learner who discovers that a polite phrase in another language has no direct translation, for example, begins to see how manners differ between cultures. Vocabulary shows what a society considers important: some languages have many words for family relationships, weather or respect, which says much about daily life. Grammar may reflect different habits of thought, such as how time or social status is expressed. By studying these differences, learners realise that their own language and customs are only one way of seeing the world.\n\nIn addition, language learning allows direct contact with people, literature and media. Learners can read novels, poetry and news in the original instead of relying on translation, watch films without subtitles and talk to people in their own words. Making the effort to speak someone's language also earns respect and opens conversations that would otherwise be impossible, which reduces stereotypes and builds friendship. However, language alone does not guarantee understanding. Learners also need to study history, customs and etiquette, and some fluent speakers still hold prejudices. Language study works best when culture is learned alongside grammar, and when it includes contact with native speakers through travel, exchange or online communities.\n\nTo sum up, language learning improves cultural understanding by revealing other ways of thinking and by allowing direct contact with people. For these reasons, it deserves a strong place in education.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: học ngôn ngữ cải thiện hiểu biết văn hoá như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu quan niệm thông thường (học ngoại ngữ là kỹ năng thực tế cho công việc, du lịch) rồi báo hai cách: cho thấy cách nghĩ khác; cho phép tiếp xúc trực tiếp với người và văn học.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — cách nghĩ và sống khác",
+        "think": "Thành ngữ, hài hước, phép lịch sự cho thấy giá trị mà bản dịch mất. Ví dụ người học phát hiện một cụm lịch sự trong ngôn ngữ khác không có bản dịch trực tiếp bắt đầu thấy phép tắc khác nhau giữa văn hoá. Từ vựng cho thấy xã hội coi gì quan trọng (nhiều từ về họ hàng, thời tiết, tôn trọng); ngữ pháp phản ánh thói quen tư duy (cách nói thời gian, địa vị xã hội); nhận ra ngôn ngữ và phong tục của mình chỉ là một cách nhìn thế giới.",
+        "refs": [
+          "ID-art-language-culture",
+          "EX-art-idiom-meaning",
+          "ID-gov-language-policy"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — tiếp xúc trực tiếp + giới hạn",
+        "think": "Đọc tiểu thuyết, thơ, tin bản gốc thay vì dịch, xem phim không phụ đề, nói chuyện bằng lời của họ; nỗ lực nói ngôn ngữ người khác tạo tôn trọng, mở cuộc trò chuyện, giảm khuôn mẫu, xây tình bạn. Giới hạn: ngôn ngữ một mình không đảm bảo hiểu biết: cần học lịch sử, phong tục, phép xã giao; người nói lưu loát vẫn có thể có định kiến; học ngôn ngữ tốt nhất khi kèm văn hoá và tiếp xúc người bản ngữ qua du lịch, trao đổi, cộng đồng trực tuyến.",
+        "refs": [
+          "ID-art-language-culture",
+          "ID-art-fiction-empathy",
+          "ID-trv-solo",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện hiểu biết văn hoá nhờ cách nghĩ khác và tiếp xúc trực tiếp; xứng đáng được chỗ đứng mạnh trong giáo dục.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-language-culture",
+      "EX-art-idiom-meaning"
+    ]
+  },
+  "chunks": [
+    [
+      "a second language",
+      "ngôn ngữ thứ hai"
+    ],
+    [
+      "a practical skill for work or travel",
+      "kỹ năng thực tế cho công việc hoặc du lịch"
+    ],
+    [
+      "opens a door to another culture",
+      "mở ra cánh cửa vào một nền văn hoá khác"
+    ],
+    [
+      "language learning improves cultural understanding",
+      "học ngôn ngữ cải thiện hiểu biết văn hoá"
+    ],
+    [
+      "revealing other ways of thinking",
+      "cho thấy những cách tư duy khác"
+    ],
+    [
+      "direct contact with people and literature",
+      "tiếp xúc trực tiếp với con người và văn học"
+    ],
+    [
+      "another way of thinking and living",
+      "một cách nghĩ và sống khác"
+    ],
+    [
+      "Idioms, humour and forms of politeness",
+      "thành ngữ, hài hước và các dạng lịch sự"
+    ],
+    [
+      "values that translations lose",
+      "giá trị mà bản dịch đánh mất"
+    ],
+    [
+      "no direct translation",
+      "không có bản dịch trực tiếp"
+    ],
+    [
+      "manners differ between cultures",
+      "phép tắc khác nhau giữa các nền văn hoá"
+    ],
+    [
+      "what a society considers important",
+      "điều một xã hội coi là quan trọng"
+    ],
+    [
+      "many words for family relationships, weather or respect",
+      "nhiều từ chỉ quan hệ họ hàng, thời tiết hay sự tôn trọng"
+    ],
+    [
+      "habits of thought",
+      "thói quen tư duy"
+    ],
+    [
+      "only one way of seeing the world",
+      "chỉ là một cách nhìn thế giới"
+    ],
+    [
+      "in the original instead of relying on translation",
+      "bản gốc thay vì dựa vào bản dịch"
+    ],
+    [
+      "watch films without subtitles",
+      "xem phim không phụ đề"
+    ],
+    [
+      "earns respect",
+      "có được sự tôn trọng"
+    ],
+    [
+      "reduces stereotypes and builds friendship",
+      "giảm khuôn mẫu và xây dựng tình bạn"
+    ],
+    [
+      "culture is learned alongside grammar",
+      "văn hoá được học cùng với ngữ pháp"
+    ]
+  ]
+}

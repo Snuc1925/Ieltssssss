@@ -1,0 +1,129 @@
+{
+  "questionId": 57,
+  "text": "Historic towns, ancient languages and traditional music are disappearing in many places, and some countries put considerable effort into protecting them. This essay will outline two principal benefits for a country that focuses on cultural preservation: economic gains and a stronger sense of identity.\n\nFirst and foremost, cultural preservation brings economic benefits. Historic sites, festivals and traditions attract visitors who spend money on hotels, restaurants and souvenirs, and tourism based on heritage creates jobs for guides, craftspeople and hospitality workers. A well-preserved old town, for example, can draw visitors from around the world and support hundreds of local jobs. Heritage also gives communities a reason to maintain buildings and skills that might otherwise be lost, and it supports industries such as traditional crafts, local food and film locations. Italy, Egypt and Cambodia are examples of countries where cultural heritage is a major source of income.\n\nIn addition, cultural preservation strengthens identity, education and social cohesion. Historic sites, languages and traditions teach new generations about their roots and give communities a shared sense of belonging, which can help to bring together people of different backgrounds. Schools can use museums and monuments to bring history alive, and young people who understand their heritage are more likely to respect it. Preservation also protects knowledge that cannot be replaced, such as languages or craft techniques that, once lost, cannot be recreated. Although conservation can be expensive and may conflict with development, careful planning can protect the past while allowing the future to be built.\n\nTo sum up, cultural preservation brings clear benefits to a country, above all income from tourism and a stronger sense of identity. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào bảo tồn văn hoá — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu thực trạng (thị trấn lịch sử, ngôn ngữ cổ, âm nhạc truyền thống đang biến mất) và nỗ lực của một số nước; báo hai lợi ích: kinh tế; ý thức bản sắc.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — kinh tế",
+        "think": "Di tích, lễ hội, truyền thống thu hút khách chi tiêu khách sạn, nhà hàng, quà lưu niệm; du lịch di sản tạo việc làm cho hướng dẫn viên, thợ thủ công, nhân viên khách sạn. Ví dụ phố cổ được bảo tồn tốt thu hút khách khắp thế giới và nuôi hàng trăm việc làm địa phương. Cộng đồng có lý do giữ toà nhà và kỹ năng; hỗ trợ thủ công, ẩm thực địa phương, phim trường; Ý, Ai Cập, Campuchia.",
+        "refs": [
+          "ID-art-preservation",
+          "EX-art-old-town",
+          "ID-trv-benefits"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — bản sắc, giáo dục, gắn kết",
+        "think": "Di tích, ngôn ngữ, truyền thống dạy thế hệ mới về cội nguồn và cho cộng đồng cảm giác thuộc về chung; trường dùng bảo tàng, đài tưởng niệm làm lịch sử sống động; người trẻ hiểu di sản sẽ tôn trọng; bảo tồn kiến thức không thay thế được. Nhượng bộ: tốn kém, có thể xung đột với phát triển; quy hoạch cẩn thận.",
+        "refs": [
+          "ID-art-preservation",
+          "ID-fam-traditions-identity",
+          "ID-art-heritage-infra"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-preservation",
+      "EX-art-old-town"
+    ]
+  },
+  "chunks": [
+    [
+      "Historic towns, ancient languages and traditional music",
+      "thị trấn lịch sử, ngôn ngữ cổ và âm nhạc truyền thống"
+    ],
+    [
+      "cultural preservation",
+      "bảo tồn văn hoá"
+    ],
+    [
+      "economic gains and a stronger sense of identity",
+      "lợi ích kinh tế và ý thức bản sắc mạnh hơn"
+    ],
+    [
+      "Historic sites, festivals and traditions attract visitors",
+      "di tích, lễ hội và truyền thống thu hút du khách"
+    ],
+    [
+      "hotels, restaurants and souvenirs",
+      "khách sạn, nhà hàng và quà lưu niệm"
+    ],
+    [
+      "tourism based on heritage",
+      "du lịch dựa trên di sản"
+    ],
+    [
+      "guides, craftspeople and hospitality workers",
+      "hướng dẫn viên, thợ thủ công và nhân viên khách sạn nhà hàng"
+    ],
+    [
+      "a well-preserved old town",
+      "một khu phố cổ được bảo tồn tốt"
+    ],
+    [
+      "support hundreds of local jobs",
+      "nuôi sống hàng trăm việc làm địa phương"
+    ],
+    [
+      "buildings and skills that might otherwise be lost",
+      "toà nhà và kỹ năng có thể bị mất"
+    ],
+    [
+      "traditional crafts, local food and film locations",
+      "thủ công truyền thống, ẩm thực địa phương và địa điểm quay phim"
+    ],
+    [
+      "a major source of income",
+      "nguồn thu nhập chính"
+    ],
+    [
+      "teach new generations about their roots",
+      "dạy thế hệ mới về cội nguồn"
+    ],
+    [
+      "a shared sense of belonging",
+      "cảm giác thuộc về chung"
+    ],
+    [
+      "bring history alive",
+      "làm lịch sử sống động"
+    ],
+    [
+      "respect it",
+      "tôn trọng nó"
+    ],
+    [
+      "cannot be replaced",
+      "không thể thay thế"
+    ],
+    [
+      "cannot be recreated",
+      "không thể tái tạo"
+    ],
+    [
+      "conflict with development",
+      "xung đột với phát triển"
+    ],
+    [
+      "protect the past while allowing the future to be built",
+      "bảo vệ quá khứ trong khi vẫn cho xây dựng tương lai"
+    ]
+  ]
+}

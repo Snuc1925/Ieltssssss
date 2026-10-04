@@ -1,0 +1,130 @@
+{
+  "questionId": 286,
+  "text": "Millions of people read novels, and many say that reading fiction improves empathy. I largely agree, since fiction lets readers live inside other minds, although the effect depends on how readers engage with stories.\n\nTo begin with, reading fiction lets people live inside other minds and so strengthens empathy. Novels invite readers to share the thoughts and feelings of characters from different backgrounds, which trains the habit of seeing situations from another point of view. A reader who follows a refugee's journey in a novel, for example, may understand fear and hope in a way that a news report does not convey. Unlike films, books describe thoughts and emotions in detail, so readers have to imagine and interpret, which exercises the mental skills that empathy needs. Some studies have found that readers of literary fiction score higher on tests of understanding other people's feelings, although the evidence is not always consistent.\n\nFurthermore, fiction offers safe experiences of situations that readers may never face. Through stories they can feel what it is like to be poor, ill, powerful or an outsider, and to see how the same event looks different to different people. This may reduce prejudice and encourage kindness. However, reading does not automatically make people more empathetic. Some readers read only to be entertained, or identify only with characters who resemble themselves, and empathy ultimately depends on action as well as imagination. Reading non-fiction, travelling and meeting different people also build understanding, so fiction is only one route. Fiction is most powerful when readers discuss it and think about its characters' choices.\n\nIn conclusion, I largely agree that reading fiction improves empathy, because it trains readers to understand other people's perspectives, though its effect varies from person to person.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): đọc tiểu thuyết cải thiện sự đồng cảm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (hàng triệu người đọc tiểu thuyết) rồi largely agree + lý do + giới hạn (phụ thuộc cách người đọc tiếp nhận).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — sống trong tâm trí người khác",
+        "think": "Tiểu thuyết mời người đọc chia sẻ suy nghĩ cảm xúc nhân vật xuất thân khác, rèn thói quen nhìn từ quan điểm khác. Ví dụ người đọc theo hành trình người tị nạn trong tiểu thuyết hiểu sợ hãi và hy vọng theo cách bản tin không truyền đạt. Khác phim, sách mô tả suy nghĩ cảm xúc chi tiết nên phải tưởng tượng, diễn giải, rèn kỹ năng tinh thần của đồng cảm; một số nghiên cứu thấy người đọc văn học điểm cao hơn trong thử nghiệm hiểu cảm xúc người khác, dù bằng chứng chưa nhất quán.",
+        "refs": [
+          "ID-art-fiction-empathy",
+          "EX-art-novel-refugee",
+          "ID-reading-habit-enjoy",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Tiểu thuyết cho trải nghiệm an toàn về tình huống người đọc có thể không bao giờ gặp (nghèo, ốm, quyền lực, người ngoài); thấy cùng một sự kiện khác nhau với từng người; có thể giảm định kiến. Giới hạn: đọc không tự động làm đồng cảm hơn: có người đọc chỉ để giải trí hoặc chỉ đồng nhất với nhân vật giống mình; đồng cảm phụ thuộc hành động cùng tưởng tượng; sách phi hư cấu, du lịch, gặp người khác cũng xây hiểu biết; mạnh nhất khi thảo luận.",
+        "refs": [
+          "ID-art-fiction-empathy",
+          "ID-art-language-culture",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree vì rèn khả năng hiểu quan điểm người khác, tác dụng khác nhau tuỳ người.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-fiction-empathy",
+      "EX-art-novel-refugee"
+    ]
+  },
+  "chunks": [
+    [
+      "Millions of people read novels",
+      "hàng triệu người đọc tiểu thuyết"
+    ],
+    [
+      "reading fiction improves empathy",
+      "đọc tiểu thuyết cải thiện sự đồng cảm"
+    ],
+    [
+      "live inside other minds",
+      "sống trong tâm trí người khác"
+    ],
+    [
+      "share the thoughts and feelings of characters",
+      "chia sẻ suy nghĩ và cảm xúc của nhân vật"
+    ],
+    [
+      "different backgrounds",
+      "xuất thân khác nhau"
+    ],
+    [
+      "seeing situations from another point of view",
+      "nhìn tình huống từ góc nhìn khác"
+    ],
+    [
+      "follows a refugee's journey",
+      "theo dõi hành trình của một người tị nạn"
+    ],
+    [
+      "fear and hope",
+      "nỗi sợ và hy vọng"
+    ],
+    [
+      "a news report does not convey",
+      "bản tin không truyền đạt được"
+    ],
+    [
+      "describe thoughts and emotions in detail",
+      "mô tả chi tiết suy nghĩ và cảm xúc"
+    ],
+    [
+      "imagine and interpret",
+      "tưởng tượng và diễn giải"
+    ],
+    [
+      "the mental skills that empathy needs",
+      "kỹ năng tinh thần mà sự đồng cảm cần"
+    ],
+    [
+      "understanding other people's feelings",
+      "hiểu cảm xúc của người khác"
+    ],
+    [
+      "not always consistent",
+      "không phải lúc nào cũng nhất quán"
+    ],
+    [
+      "safe experiences of situations that readers may never face",
+      "trải nghiệm an toàn về những tình huống người đọc có thể không bao giờ gặp"
+    ],
+    [
+      "poor, ill, powerful or an outsider",
+      "nghèo, ốm, có quyền lực hoặc là người ngoài cuộc"
+    ],
+    [
+      "reduce prejudice",
+      "giảm định kiến"
+    ],
+    [
+      "automatically",
+      "một cách tự động"
+    ],
+    [
+      "only to be entertained",
+      "chỉ để giải trí"
+    ],
+    [
+      "varies from person to person",
+      "khác nhau tuỳ từng người"
+    ]
+  ]
+}

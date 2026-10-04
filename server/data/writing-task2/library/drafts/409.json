@@ -1,0 +1,130 @@
+{
+  "questionId": 409,
+  "text": "In airports, railway stations and city streets, signs increasingly appear in two languages, and many people say that bilingual signs in public places are helpful. I agree with this view, since they help visitors and residents to find their way and feel respected, although they have costs.\n\nTo begin with, bilingual signs help visitors and residents to find their way and feel respected. Tourists, newcomers and speakers of minority languages can understand directions, warnings and services, which improves safety and access. A railway station with signs in two languages, for example, helps a traveller to find the right platform without asking for help. In an emergency, clear information in a familiar language can prevent confusion and save lives. For migrants who are learning the local language, bilingual signs make daily life easier and reduce stress. Tourists, who contribute to the economy, are more likely to visit places where they feel welcome and can move around independently.\n\nFurthermore, bilingual signs show respect for minority languages and cultures. In regions where two languages are spoken, they treat both communities as equal and help to preserve the weaker language, which strengthens social harmony. However, there are disadvantages. Extra text costs money and can clutter signs, making them harder to read, particularly for drivers who must take in information quickly. Which languages to include can also be a source of dispute. These problems can be reduced by good design, such as using internationally recognised symbols, clear fonts and a limited amount of text, and by choosing languages according to the needs of the local population and visitors. The benefits of inclusion generally outweigh the extra cost.\n\nIn conclusion, I agree that bilingual signs in public places are helpful, because they improve access, safety and respect, provided that they are clearly designed.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: biển báo song ngữ ở nơi công cộng hữu ích — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Mở bài nêu hiện tượng (biển báo hai ngôn ngữ ngày càng nhiều ở sân bay, ga tàu, đường phố) rồi agree + lý do + điều kiện (thiết kế rõ ràng).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giúp tìm đường, cảm thấy được tôn trọng",
+        "think": "Du khách, người mới đến, người nói ngôn ngữ thiểu số hiểu chỉ dẫn, cảnh báo, dịch vụ nên an toàn và tiếp cận tốt hơn. Ví dụ ga tàu có biển hai ngôn ngữ giúp hành khách tìm đúng sân ga không cần hỏi. Khẩn cấp: thông tin rõ bằng ngôn ngữ quen ngăn nhầm lẫn, cứu mạng; người di cư đang học ngôn ngữ địa phương đời sống dễ hơn, ít căng thẳng; du khách (đóng góp kinh tế) dễ đến nơi cảm thấy được chào đón.",
+        "refs": [
+          "ID-art-bilingual-signs",
+          "EX-art-station-sign",
+          "ID-gov-language-policy",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Thể hiện tôn trọng ngôn ngữ và văn hoá thiểu số: vùng hai ngôn ngữ coi hai cộng đồng như nhau, giúp giữ ngôn ngữ yếu, củng cố hoà hợp. Giới hạn: chữ thêm tốn tiền và làm rối biển, khó đọc nhất với tài xế cần tiếp nhận nhanh; chọn ngôn ngữ nào có thể gây tranh cãi; giảm bằng thiết kế tốt (biểu tượng quốc tế, phông rõ, ít chữ), chọn ngôn ngữ theo nhu cầu dân cư và du khách; lợi ích thường lớn hơn chi phí.",
+        "refs": [
+          "ID-art-bilingual-signs",
+          "ID-trv-benefits",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì cải thiện tiếp cận, an toàn, tôn trọng, với điều kiện thiết kế rõ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-bilingual-signs",
+      "EX-art-station-sign"
+    ]
+  },
+  "chunks": [
+    [
+      "Airports, railway stations and city streets",
+      "sân bay, nhà ga và đường phố"
+    ],
+    [
+      "bilingual signs",
+      "biển báo song ngữ"
+    ],
+    [
+      "find their way",
+      "tìm đường"
+    ],
+    [
+      "feel respected",
+      "cảm thấy được tôn trọng"
+    ],
+    [
+      "Tourists, newcomers and speakers of minority languages",
+      "du khách, người mới đến và người nói ngôn ngữ thiểu số"
+    ],
+    [
+      "directions, warnings and services",
+      "chỉ dẫn, cảnh báo và dịch vụ"
+    ],
+    [
+      "improves safety and access",
+      "cải thiện an toàn và khả năng tiếp cận"
+    ],
+    [
+      "the right platform",
+      "đúng sân ga"
+    ],
+    [
+      "without asking for help",
+      "không cần hỏi giúp"
+    ],
+    [
+      "prevent confusion and save lives",
+      "ngăn nhầm lẫn và cứu mạng"
+    ],
+    [
+      "learning the local language",
+      "đang học ngôn ngữ địa phương"
+    ],
+    [
+      "reduce stress",
+      "giảm căng thẳng"
+    ],
+    [
+      "move around independently",
+      "di chuyển một cách độc lập"
+    ],
+    [
+      "show respect for minority languages and cultures",
+      "thể hiện sự tôn trọng ngôn ngữ và văn hoá thiểu số"
+    ],
+    [
+      "treat both communities as equal",
+      "đối xử cả hai cộng đồng ngang nhau"
+    ],
+    [
+      "preserve the weaker language",
+      "bảo tồn ngôn ngữ yếu hơn"
+    ],
+    [
+      "social harmony",
+      "sự hoà hợp xã hội"
+    ],
+    [
+      "Extra text costs money and can clutter signs",
+      "chữ thêm tốn tiền và có thể làm biển rối mắt"
+    ],
+    [
+      "internationally recognised symbols",
+      "biểu tượng được quốc tế công nhận"
+    ],
+    [
+      "outweigh the extra cost",
+      "lớn hơn chi phí thêm"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 322,
+  "text": "Films, books, music, theatre and design employ millions of people and shape national identity, and the question is how far governments should subsidise cultural industries. I believe that they should do so to a considerable extent, since subsidies can protect valuable local culture, although support must be targeted and time-limited where possible.\n\nTo begin with, subsidies can protect cultural industries from global competition. Small film, publishing and music sectors cannot match the budgets of international giants, and support lets local stories and languages survive while creating jobs and exports. A small country that funds its own films, for example, can tell stories in its own language that foreign studios would never produce. Without support, audiences might see little of their own culture, and young artists might leave to work abroad. Subsidies for training, festivals and translation also open international markets to local creators, so that cultural products become a source of pride and income.\n\nFurthermore, cultural industries bring wider benefits. They create jobs, attract tourists, improve the image of a country and contribute to education and social cohesion. Some cultural activity, such as poetry, folk music or minority-language publishing, will never be commercially profitable, yet it has great value for society. However, too much aid can reduce efficiency. Producers who rely on guaranteed funding may take few risks or make work that appeals to officials instead of audiences, and taxpayers may question paying for entertainment that others enjoy. Support should therefore be competitive, transparent and linked to results, with some projects expected to earn part of their income. Money should be especially available for those that would otherwise disappear.\n\nIn conclusion, governments should subsidise cultural industries to a large extent, because they protect diversity and create wider benefits, provided that the support is targeted and accountable.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ nên trợ cấp công nghiệp văn hoá đến mức nào — to a considerable extent",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu quy mô công nghiệp văn hoá (phim, sách, nhạc, sân khấu, thiết kế thuê hàng triệu người) rồi lập trường 'to a considerable extent' + giới hạn (nhắm mục tiêu, có thời hạn).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bảo vệ khỏi cạnh tranh toàn cầu",
+        "think": "Ngành phim, xuất bản, âm nhạc nhỏ không bằng ngân sách tập đoàn quốc tế; hỗ trợ giúp câu chuyện và ngôn ngữ địa phương tồn tại, tạo việc làm và xuất khẩu. Ví dụ nước nhỏ tài trợ phim riêng có thể kể chuyện bằng ngôn ngữ mình mà xưởng nước ngoài không làm. Không hỗ trợ khán giả ít thấy văn hoá mình, nghệ sĩ trẻ ra nước ngoài; trợ cấp đào tạo, liên hoan, dịch mở thị trường quốc tế.",
+        "refs": [
+          "ID-art-subsidy-culture",
+          "EX-art-local-film",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Mang lợi ích rộng: việc làm, du khách, hình ảnh quốc gia, giáo dục, gắn kết xã hội; một số hoạt động (thơ, nhạc dân gian, xuất bản ngôn ngữ thiểu số) không bao giờ có lãi nhưng có giá trị. Giới hạn: trợ cấp quá nhiều giảm hiệu quả, ít rủi ro, làm cho quan chức thay vì khán giả; người đóng thuế nghi ngờ; hỗ trợ cạnh tranh, minh bạch, gắn kết quả, một phần tự kiếm; ưu tiên thứ sẽ biến mất.",
+        "refs": [
+          "ID-art-subsidy-culture",
+          "ID-art-public-funding",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trợ cấp ở mức độ lớn vì bảo vệ đa dạng và lợi ích rộng, nhắm mục tiêu và chịu trách nhiệm giải trình.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-subsidy-culture",
+      "EX-art-local-film"
+    ]
+  },
+  "chunks": [
+    [
+      "Films, books, music, theatre and design",
+      "phim, sách, âm nhạc, sân khấu và thiết kế"
+    ],
+    [
+      "shape national identity",
+      "định hình bản sắc quốc gia"
+    ],
+    [
+      "subsidise cultural industries",
+      "trợ cấp các ngành công nghiệp văn hoá"
+    ],
+    [
+      "to a considerable extent",
+      "ở mức độ đáng kể"
+    ],
+    [
+      "targeted and time-limited",
+      "nhắm mục tiêu và có thời hạn"
+    ],
+    [
+      "protect cultural industries from global competition",
+      "bảo vệ ngành công nghiệp văn hoá khỏi cạnh tranh toàn cầu"
+    ],
+    [
+      "match the budgets of international giants",
+      "sánh được ngân sách của các tập đoàn quốc tế"
+    ],
+    [
+      "let local stories and languages survive",
+      "giúp câu chuyện và ngôn ngữ địa phương tồn tại"
+    ],
+    [
+      "jobs and exports",
+      "việc làm và xuất khẩu"
+    ],
+    [
+      "funds its own films",
+      "tài trợ cho phim của chính mình"
+    ],
+    [
+      "foreign studios would never produce",
+      "xưởng phim nước ngoài sẽ không bao giờ sản xuất"
+    ],
+    [
+      "leave to work abroad",
+      "ra nước ngoài làm việc"
+    ],
+    [
+      "open international markets",
+      "mở thị trường quốc tế"
+    ],
+    [
+      "a source of pride and income",
+      "nguồn tự hào và thu nhập"
+    ],
+    [
+      "social cohesion",
+      "sự gắn kết xã hội"
+    ],
+    [
+      "commercially profitable",
+      "có lãi về mặt thương mại"
+    ],
+    [
+      "reduce efficiency",
+      "làm giảm hiệu quả"
+    ],
+    [
+      "appeals to officials instead of audiences",
+      "hấp dẫn quan chức thay vì khán giả"
+    ],
+    [
+      "competitive, transparent and linked to results",
+      "cạnh tranh, minh bạch và gắn với kết quả"
+    ],
+    [
+      "disappear",
+      "biến mất"
+    ]
+  ]
+}

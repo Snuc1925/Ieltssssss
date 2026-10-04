@@ -1,0 +1,129 @@
+{
+  "questionId": 477,
+  "text": "Museums in London, Paris and Berlin hold statues, jewellery and manuscripts from all over the world, and some believe that national museums should display artefacts from other countries. I agree to a large extent, since it widens understanding between cultures, although the way in which objects were acquired matters.\n\nTo begin with, displaying artefacts from other countries widens understanding and gives access to those who could never travel. National museums let visitors compare cultures and see objects that they would otherwise never be able to see, and a child in a small town can learn about ancient Egypt or China without leaving the country. Seeing the achievements of other peoples helps to challenge stereotypes and builds respect, and well-resourced museums can protect fragile objects with expert care. Such collections encourage scholars from different countries to study objects side by side and to share knowledge. Many museums also invite experts from the countries of origin to help with interpretation.\n\nHowever, how objects were acquired matters. Many items were taken during colonial rule or without consent, so countries of origin ask for their return and see their display as a continuing injustice. A statue removed from a temple without permission, for example, may be returned or shared on loan after discussions between the museum and the country of origin. Items that were acquired legitimately, through purchase or gift, can remain on show, while those that were stolen or looted should be returned, or shared through long-term loans and digital access. Museums should also be open about the history of their collections and work in partnership with source communities. This approach allows people everywhere to enjoy shared heritage while respecting the rights of its owners.\n\nIn conclusion, national museums should display artefacts from other countries to a large extent, provided that they were acquired fairly and that disputed items are returned or shared.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): bảo tàng quốc gia nên trưng bày hiện vật nước khác — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu ví dụ (bảo tàng ở London, Paris, Berlin giữ tượng, trang sức, bản thảo khắp thế giới) rồi largely agree + lý do + giới hạn (cách có được hiện vật).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — mở rộng hiểu biết và tiếp cận",
+        "think": "Bảo tàng quốc gia cho khách so sánh văn hoá và xem đồ vật không bao giờ đi tới được; trẻ ở thị trấn nhỏ học về Ai Cập cổ đại hay Trung Quốc mà không rời nước; thấy thành tựu dân tộc khác thách thức định kiến, xây tôn trọng; bảo tàng đủ nguồn lực bảo vệ đồ dễ vỡ; học giả nhiều nước nghiên cứu bên nhau; mời chuyên gia từ nước nguồn gốc.",
+        "refs": [
+          "ID-art-artifacts-abroad",
+          "ID-art-museum-free",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn — cách có hiện vật",
+        "think": "Nhiều món bị lấy dưới thời thuộc địa hoặc không có sự đồng ý nên nước nguồn gốc đòi trả và coi trưng bày là bất công kéo dài. Ví dụ bức tượng bị lấy khỏi đền không phép có thể được trả hoặc cho mượn chung sau thảo luận. Món có được hợp pháp (mua, tặng) có thể ở lại trưng bày; bị trộm hoặc cướp nên trả hoặc cho mượn dài hạn, truy cập số; bảo tàng minh bạch lịch sử bộ sưu tập, hợp tác với cộng đồng nguồn gốc.",
+        "refs": [
+          "ID-art-artifacts-abroad",
+          "EX-art-returned-statue",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên trưng bày ở mức độ lớn nếu có được công bằng, hiện vật tranh chấp được trả hoặc chia sẻ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-artifacts-abroad",
+      "EX-art-returned-statue"
+    ]
+  },
+  "chunks": [
+    [
+      "statues, jewellery and manuscripts from all over the world",
+      "tượng, trang sức và bản thảo từ khắp thế giới"
+    ],
+    [
+      "display artefacts from other countries",
+      "trưng bày hiện vật từ nước khác"
+    ],
+    [
+      "widens understanding between cultures",
+      "mở rộng sự hiểu biết giữa các nền văn hoá"
+    ],
+    [
+      "how objects were acquired",
+      "cách các đồ vật được có được"
+    ],
+    [
+      "could never travel",
+      "không bao giờ có thể đi tới"
+    ],
+    [
+      "compare cultures",
+      "so sánh các nền văn hoá"
+    ],
+    [
+      "ancient Egypt or China",
+      "Ai Cập hoặc Trung Quốc cổ đại"
+    ],
+    [
+      "challenge stereotypes",
+      "thách thức định kiến"
+    ],
+    [
+      "protect fragile objects with expert care",
+      "bảo vệ đồ vật mong manh bằng sự chăm sóc chuyên môn"
+    ],
+    [
+      "study objects side by side",
+      "nghiên cứu hiện vật cạnh nhau"
+    ],
+    [
+      "countries of origin",
+      "nước nguồn gốc"
+    ],
+    [
+      "taken during colonial rule",
+      "bị lấy dưới thời thuộc địa"
+    ],
+    [
+      "without consent",
+      "không có sự đồng ý"
+    ],
+    [
+      "a continuing injustice",
+      "sự bất công kéo dài"
+    ],
+    [
+      "removed from a temple without permission",
+      "bị lấy khỏi ngôi đền khi không có phép"
+    ],
+    [
+      "shared on loan",
+      "được cho mượn chung"
+    ],
+    [
+      "acquired legitimately",
+      "có được một cách hợp pháp"
+    ],
+    [
+      "stolen or looted",
+      "bị trộm hoặc cướp bóc"
+    ],
+    [
+      "long-term loans and digital access",
+      "cho mượn dài hạn và truy cập số"
+    ],
+    [
+      "source communities",
+      "cộng đồng nguồn gốc"
+    ]
+  ]
+}

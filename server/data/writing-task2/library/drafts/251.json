@@ -1,0 +1,130 @@
+{
+  "questionId": 251,
+  "text": "Cities and countries often have to choose between repairing old monuments and building new roads, bridges and railways, and opinions differ on whether public money should be spent on cultural heritage or on new infrastructure. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of heritage argue that it cannot be replaced. Historic buildings, traditions and sites carry the identity of a nation and attract visitors from around the world, and once lost they cannot be rebuilt. A medieval bridge that is allowed to fall into the river, for example, can never be rebuilt, whereas a modern road can be repaired next year. Heritage teaches people about their past, which helps them to understand who they are, and tourism linked to historic sites creates jobs and income for local people. Money spent on conservation is therefore an investment in something that belongs to future generations as well.\n\nOn the other hand, supporters of infrastructure point out that it meets daily needs. Roads, water supply, energy, hospitals and public transport affect safety, jobs and living standards immediately, and poor infrastructure can hold back whole regions. A town without reliable roads or clean water, for instance, will find it hard to care about its old buildings. In developing countries especially, basic services must come first, and there is a danger that heritage becomes a luxury when people lack essentials. Good infrastructure also helps tourists to reach heritage sites.\n\nIn conclusion, both views have merit. Overall, I believe that a balanced budget is wise: urgent infrastructure should receive priority where people lack basic services, while irreplaceable heritage should be protected, as its loss would be permanent.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho di sản văn hoá hay hạ tầng mới",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn thực tế (sửa di tích cũ hay xây đường, cầu, đường sắt mới); hai phe; ý kiến riêng cân bằng, ưu tiên hạ tầng khẩn cấp ở nơi thiếu dịch vụ cơ bản, bảo vệ di sản không thể thay thế.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe di sản",
+        "think": "Di sản không thể thay thế: toà nhà, truyền thống, di tích mang bản sắc quốc gia, thu hút du khách và mất rồi không xây lại được. Ví dụ cây cầu trung cổ để rơi xuống sông không bao giờ xây lại, còn đường hiện đại sửa được năm sau. Dạy mọi người về quá khứ; du lịch gắn di tích tạo việc làm; chi bảo tồn là đầu tư cho thế hệ sau.",
+        "refs": [
+          "ID-art-heritage-infra",
+          "EX-art-old-bridge",
+          "ID-art-preservation"
+        ]
+      },
+      {
+        "step": "3. Phe hạ tầng",
+        "think": "Đáp ứng nhu cầu hằng ngày: đường, nước, năng lượng, bệnh viện, giao thông công cộng ảnh hưởng an toàn, việc làm, mức sống ngay; hạ tầng kém kìm hãm cả vùng. Ví dụ thị trấn không có đường tốt hay nước sạch khó quan tâm toà nhà cũ. Nước đang phát triển dịch vụ cơ bản phải đến trước; di sản có nguy cơ thành xa xỉ; hạ tầng tốt giúp du khách đến di tích.",
+        "refs": [
+          "ID-art-heritage-infra",
+          "ID-env-gov-infrastructure",
+          "ID-env-other-priorities"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ngân sách cân bằng: hạ tầng khẩn cấp ưu tiên ở nơi thiếu, di sản không thể thay thế được bảo vệ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-art-heritage-infra",
+      "EX-art-old-bridge"
+    ]
+  },
+  "chunks": [
+    [
+      "repairing old monuments",
+      "sửa chữa di tích cổ"
+    ],
+    [
+      "new roads, bridges and railways",
+      "đường, cầu và đường sắt mới"
+    ],
+    [
+      "cultural heritage or on new infrastructure",
+      "di sản văn hoá hay hạ tầng mới"
+    ],
+    [
+      "cannot be replaced",
+      "không thể thay thế"
+    ],
+    [
+      "carry the identity of a nation",
+      "mang bản sắc của một quốc gia"
+    ],
+    [
+      "attract visitors from around the world",
+      "thu hút du khách từ khắp thế giới"
+    ],
+    [
+      "cannot be rebuilt",
+      "không thể xây lại"
+    ],
+    [
+      "A medieval bridge",
+      "một cây cầu thời trung cổ"
+    ],
+    [
+      "fall into the river",
+      "đổ xuống sông"
+    ],
+    [
+      "understand who they are",
+      "hiểu mình là ai"
+    ],
+    [
+      "jobs and income for local people",
+      "việc làm và thu nhập cho người địa phương"
+    ],
+    [
+      "conservation",
+      "bảo tồn"
+    ],
+    [
+      "belongs to future generations",
+      "thuộc về các thế hệ tương lai"
+    ],
+    [
+      "meets daily needs",
+      "đáp ứng nhu cầu hằng ngày"
+    ],
+    [
+      "Roads, water supply, energy, hospitals and public transport",
+      "đường, cấp nước, năng lượng, bệnh viện và giao thông công cộng"
+    ],
+    [
+      "hold back whole regions",
+      "kìm hãm cả các vùng"
+    ],
+    [
+      "reliable roads or clean water",
+      "đường xá đáng tin cậy hoặc nước sạch"
+    ],
+    [
+      "become a luxury",
+      "trở thành xa xỉ"
+    ],
+    [
+      "basic services must come first",
+      "dịch vụ cơ bản phải đến trước"
+    ],
+    [
+      "its loss would be permanent",
+      "việc mất nó sẽ là vĩnh viễn"
+    ]
+  ]
+}
