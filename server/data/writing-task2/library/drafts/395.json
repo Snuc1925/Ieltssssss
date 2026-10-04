@@ -1,0 +1,125 @@
+{
+  "questionId": 395,
+  "text": "Bitcoin and other digital currencies have grown from a niche idea into assets worth trillions, and the question is how far they will affect global finance within twenty years. I believe that they will change payments and settlement considerably, although they will not replace traditional money.\n\nTo begin with, digital currencies will change payments. They can make cross-border transfers cheap and widen access to finance. A migrant worker who sends money to her family, for example, may pay a small fee and see it arrive within minutes, instead of paying high commissions and waiting for days. Millions of people in countries with weak banking systems already use mobile money, and digital wallets allow them to save, borrow and trade without a bank account. Many central banks are developing their own digital currencies, which would allow instant, low-cost payments between businesses and individuals and give governments better information about the economy. Smart contracts could automate settlement in securities and trade finance.\n\nHowever, price swings, fraud and the risk to monetary control mean central banks are cautious. The value of some cryptocurrencies has fallen by half in weeks, which makes them unreliable for everyday use, and scams and thefts from exchanges have cost investors billions. If large amounts of money moved outside the banking system, authorities would find it harder to manage interest rates and to stop money laundering. State-backed digital money is more likely than private coins to dominate. Governments will probably regulate private coins strictly, require exchanges to follow banking rules and issue their own digital currencies to keep control of the monetary system.\n\nIn conclusion, digital currencies will affect global finance to a considerable extent over the next twenty years, mainly through faster payments and official digital money, but they are unlikely to replace existing currencies.",
+  "analysis": {
+    "type_vi": "Extent: tiền kỹ thuật số ảnh hưởng tài chính toàn cầu đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu Bitcoin từ ý tưởng nhỏ thành tài sản hàng nghìn tỷ; đáp: thay đổi thanh toán đáng kể, không thay tiền truyền thống.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Thanh toán: chuyển xuyên biên giới rẻ, mở rộng tiếp cận; ví dụ lao động nhập cư gửi tiền về gia đình phí nhỏ đến trong vài phút thay vì hoa hồng cao chờ nhiều ngày; hàng triệu người ở nước ngân hàng yếu dùng tiền di động, ví số tiết kiệm, vay không tài khoản; ngân hàng trung ương phát triển tiền số riêng thanh toán tức thì rẻ, thông tin kinh tế; hợp đồng thông minh tự động thanh toán chứng khoán.",
+        "refs": [
+          "ID-eco-digital-currency",
+          "ID-tech-blockchain-banking",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Biến động giá, gian lận, rủi ro kiểm soát tiền tệ: giá tiền mã hoá giảm một nửa trong vài tuần không tin cậy; lừa đảo, trộm sàn mất hàng tỷ; tiền ra ngoài hệ ngân hàng khó quản lãi suất, chống rửa tiền; tiền số nhà nước thắng; điều tiết nghiêm, sàn theo luật ngân hàng, phát hành tiền số riêng.",
+        "refs": [
+          "ID-eco-digital-currency",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng đáng kể qua thanh toán nhanh và tiền số chính thức, khó thay tiền hiện có.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-digital-currency"
+    ]
+  },
+  "chunks": [
+    [
+      "Bitcoin and other digital currencies",
+      "Bitcoin và các loại tiền kỹ thuật số khác"
+    ],
+    [
+      "a niche idea into assets worth trillions",
+      "từ một ý tưởng ngách thành tài sản trị giá hàng nghìn tỷ"
+    ],
+    [
+      "digital currencies will affect global finance",
+      "tiền kỹ thuật số sẽ ảnh hưởng đến tài chính toàn cầu"
+    ],
+    [
+      "change payments and settlement",
+      "thay đổi thanh toán và bù trừ"
+    ],
+    [
+      "cross-border transfers cheap and widen access to finance",
+      "chuyển khoản xuyên biên giới rẻ và mở rộng khả năng tiếp cận tài chính"
+    ],
+    [
+      "sends money to her family",
+      "gửi tiền cho gia đình"
+    ],
+    [
+      "arrive within minutes",
+      "đến nơi trong vài phút"
+    ],
+    [
+      "high commissions and waiting for days",
+      "hoa hồng cao và chờ nhiều ngày"
+    ],
+    [
+      "weak banking systems",
+      "hệ thống ngân hàng yếu"
+    ],
+    [
+      "mobile money",
+      "tiền di động"
+    ],
+    [
+      "save, borrow and trade without a bank account",
+      "tiết kiệm, vay và giao dịch mà không cần tài khoản ngân hàng"
+    ],
+    [
+      "central banks are developing their own digital currencies",
+      "các ngân hàng trung ương đang phát triển tiền kỹ thuật số của riêng mình"
+    ],
+    [
+      "instant, low-cost payments",
+      "thanh toán tức thì, chi phí thấp"
+    ],
+    [
+      "Smart contracts could automate settlement in securities",
+      "hợp đồng thông minh có thể tự động hoá việc thanh toán bù trừ chứng khoán"
+    ],
+    [
+      "price swings, fraud and the risk to monetary control",
+      "biến động giá, gian lận và rủi ro đối với việc kiểm soát tiền tệ"
+    ],
+    [
+      "fallen by half in weeks",
+      "giảm một nửa trong vài tuần"
+    ],
+    [
+      "thefts from exchanges",
+      "các vụ trộm từ sàn giao dịch"
+    ],
+    [
+      "manage interest rates and to stop money laundering",
+      "quản lý lãi suất và ngăn chặn rửa tiền"
+    ],
+    [
+      "State-backed digital money",
+      "tiền kỹ thuật số do nhà nước bảo chứng"
+    ],
+    [
+      "private coins",
+      "các đồng tiền tư nhân"
+    ]
+  ]
+}

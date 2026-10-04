@@ -1,0 +1,125 @@
+{
+  "questionId": 432,
+  "text": "Yachts, designer handbags and sports cars are bought by only a few, and some argue that higher taxes on luxury goods reduce inequality. I agree only to a limited extent, since such taxes raise some money from the wealthy, but wealth is better addressed through income and property taxes.\n\nTo begin with, luxury taxes can make a small contribution. They raise some revenue from wealthy buyers and make the tax system look fairer. A tax of twenty per cent on a yacht, for example, falls almost entirely on people who have plenty of money and who can afford to pay it, and the proceeds can fund schools or healthcare that benefit poorer people. Because luxury goods are not necessities, taxing them does not harm the poor. Higher prices may also discourage showy consumption, which can reduce the social pressure that people feel to compete in spending. Several countries have used such taxes on cars, jewellery and watches.\n\nHowever, the amounts are small, buyers can purchase abroad and jobs in luxury industries may suffer. The wealthiest people can buy a yacht in another country or register it elsewhere, and the revenue from luxury items is tiny compared with income tax or property tax. Factories that produce fine furniture or jewellery may lose orders and dismiss craft workers. Broader progressive taxation is more effective. Higher rates of income tax for top earners, taxes on inheritance and capital gains, and a modest annual tax on very large fortunes raise far more money, while spending on education, health care and housing for poorer families addresses inequality directly.\n\nIn conclusion, higher taxes on luxury goods reduce inequality only to a limited extent, and governments should rely mainly on wider progressive taxation.",
+  "analysis": {
+    "type_vi": "Extent: thuế hàng xa xỉ cao hơn giảm bất bình đẳng — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu du thuyền, túi hiệu, xe thể thao chỉ vài người mua; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Đóng góp nhỏ: thu thuế từ người mua giàu, hệ thống thuế công bằng hơn; ví dụ thuế 20% du thuyền rơi gần hết vào người nhiều tiền, tiền thu tài trợ trường, y tế cho người nghèo; hàng xa xỉ không thiết yếu nên không hại người nghèo; giá cao có thể nản phô trương, giảm áp lực xã hội; nhiều nước đánh xe, trang sức, đồng hồ.",
+        "refs": [
+          "ID-eco-luxury-tax",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Số tiền nhỏ, mua ở nước ngoài, việc làm ngành xa xỉ chịu hại: người rất giàu mua du thuyền nước khác, đăng ký nơi khác, nguồn thu nhỏ so với thuế thu nhập, tài sản; nhà máy đồ nội thất, trang sức mất đơn, sa thải thợ; thuế luỹ tiến rộng hiệu quả: thuế thu nhập người cao, thừa kế, lãi vốn, thuế tài sản lớn; chi giáo dục, y tế, nhà ở trực tiếp.",
+        "refs": [
+          "ID-eco-luxury-tax",
+          "ID-eco-corporate-tax",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm bất bình đẳng hạn chế; dựa thuế luỹ tiến rộng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-luxury-tax"
+    ]
+  },
+  "chunks": [
+    [
+      "Yachts, designer handbags and sports cars",
+      "du thuyền, túi xách hàng hiệu và xe thể thao"
+    ],
+    [
+      "higher taxes on luxury goods reduce inequality",
+      "thuế cao hơn đối với hàng xa xỉ giảm bất bình đẳng"
+    ],
+    [
+      "raise some revenue from wealthy buyers",
+      "thu một phần nguồn thu từ người mua giàu có"
+    ],
+    [
+      "make the tax system look fairer",
+      "làm hệ thống thuế trông công bằng hơn"
+    ],
+    [
+      "twenty per cent on a yacht",
+      "hai mươi phần trăm đối với một chiếc du thuyền"
+    ],
+    [
+      "fall almost entirely on people who have plenty of money",
+      "gần như hoàn toàn đánh vào những người có nhiều tiền"
+    ],
+    [
+      "fund schools or healthcare",
+      "tài trợ cho trường học hoặc chăm sóc y tế"
+    ],
+    [
+      "luxury goods are not necessities",
+      "hàng xa xỉ không phải nhu yếu phẩm"
+    ],
+    [
+      "discourage showy consumption",
+      "làm nản việc tiêu dùng phô trương"
+    ],
+    [
+      "cars, jewellery and watches",
+      "xe hơi, trang sức và đồng hồ"
+    ],
+    [
+      "the amounts are small, buyers can purchase abroad",
+      "số tiền nhỏ, người mua có thể mua ở nước ngoài"
+    ],
+    [
+      "register it elsewhere",
+      "đăng ký ở nơi khác"
+    ],
+    [
+      "tiny compared with income tax or property tax",
+      "rất nhỏ so với thuế thu nhập hoặc thuế tài sản"
+    ],
+    [
+      "fine furniture or jewellery",
+      "đồ nội thất cao cấp hoặc trang sức"
+    ],
+    [
+      "craft workers",
+      "thợ thủ công"
+    ],
+    [
+      "Broader progressive taxation is more effective",
+      "thuế luỹ tiến rộng hơn thì hiệu quả hơn"
+    ],
+    [
+      "Higher rates of income tax for top earners",
+      "thuế suất thu nhập cao hơn cho người có thu nhập cao nhất"
+    ],
+    [
+      "inheritance and capital gains",
+      "thừa kế và lãi vốn"
+    ],
+    [
+      "a modest annual tax on very large fortunes",
+      "thuế hằng năm vừa phải đánh vào những khối tài sản rất lớn"
+    ],
+    [
+      "housing for poorer families",
+      "nhà ở cho các gia đình nghèo hơn"
+    ]
+  ]
+}

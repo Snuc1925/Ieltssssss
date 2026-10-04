@@ -1,0 +1,123 @@
+{
+  "questionId": 174,
+  "text": "Ordinary users who gain millions of followers are now paid by brands to recommend products, and many people think that influencer marketing misleads consumers. I agree to a large extent, since sponsorship is often hidden and claims are exaggerated, although some influencers are honest.\n\nTo begin with, influencer marketing can mislead consumers when sponsorship is hidden or claims are exaggerated. Followers trust influencers as friends, so undisclosed payments make recommendations look sincere. A beauty influencer who shows a new cream and says that it changed her skin in a week, for example, may have been paid and given the product free, and the improvement may result from lighting and filters. Posts that look like personal opinions are often scripted by advertising agencies. Young followers in particular may not realise that they are watching an advertisement, and they may buy products that they do not need or that do not work as promised. Some influencers promote financial schemes or supplements without any expertise, which can cause real damage.\n\nHowever, not all influencers are dishonest. Many state clearly when a post is sponsored, test products before recommending them and refuse offers that do not fit their values. A cooking channel that explains why it uses a certain brand of knife, and mentions the free sample, for example, gives useful information. Disclosure rules protect buyers. Authorities can require labels such as \"advert\" or \"paid partnership\" on every sponsored post, punish false claims and educate young people on how influencer marketing works. Platforms can also build tools that mark paid content automatically. Consumers should treat recommendations as one source among many and read independent reviews.\n\nIn conclusion, I agree to a large extent that influencer marketing misleads consumers, but clear rules and critical attitudes can reduce the problem.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: tiếp thị người ảnh hưởng gây hiểu lầm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người dùng thường có hàng triệu người theo dõi được thương hiệu trả tiền; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Gây hiểu lầm khi giấu tài trợ, phóng đại: người theo dõi tin như bạn nên khoản trả không công khai làm lời giới thiệu thật; ví dụ người ảnh hưởng làm đẹp nói kem đổi da trong một tuần có thể được trả, tặng sản phẩm, cải thiện do ánh sáng, bộ lọc; bài tưởng ý kiến cá nhân do đại lý viết kịch bản; người theo dõi trẻ không biết là quảng cáo; mua thứ không cần; đề án tài chính, thực phẩm chức năng không chuyên môn.",
+        "refs": [
+          "ID-eco-influencer-marketing",
+          "ID-media-influencers-lifestyle",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải ai cũng không trung thực: nêu rõ tài trợ, thử trước, từ chối không hợp giá trị; ví dụ kênh nấu ăn giải thích dùng nhãn dao và nhắc mẫu miễn phí; quy tắc công khai: nhãn quảng cáo, hợp tác trả phí, phạt tuyên bố sai, giáo dục; nền tảng tự đánh dấu; người tiêu dùng đọc đánh giá độc lập.",
+        "refs": [
+          "ID-eco-influencer-marketing",
+          "ID-media-celebrity-endorsement",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; quy tắc rõ và thái độ phê phán giảm vấn đề.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-influencer-marketing"
+    ]
+  },
+  "chunks": [
+    [
+      "gain millions of followers",
+      "có hàng triệu người theo dõi"
+    ],
+    [
+      "influencer marketing misleads consumers",
+      "tiếp thị qua người ảnh hưởng gây hiểu lầm cho người tiêu dùng"
+    ],
+    [
+      "sponsorship is hidden or claims are exaggerated",
+      "việc tài trợ bị giấu hoặc tuyên bố bị phóng đại"
+    ],
+    [
+      "Followers trust influencers as friends",
+      "người theo dõi tin người ảnh hưởng như bạn bè"
+    ],
+    [
+      "undisclosed payments make recommendations look sincere",
+      "các khoản thanh toán không công khai khiến lời giới thiệu có vẻ chân thành"
+    ],
+    [
+      "changed her skin in a week",
+      "thay đổi làn da của cô trong một tuần"
+    ],
+    [
+      "given the product free",
+      "được tặng sản phẩm miễn phí"
+    ],
+    [
+      "lighting and filters",
+      "ánh sáng và bộ lọc"
+    ],
+    [
+      "scripted by advertising agencies",
+      "được các đại lý quảng cáo viết kịch bản"
+    ],
+    [
+      "watching an advertisement",
+      "đang xem một quảng cáo"
+    ],
+    [
+      "products that they do not need",
+      "những sản phẩm họ không cần"
+    ],
+    [
+      "financial schemes or supplements without any expertise",
+      "các kế hoạch tài chính hoặc thực phẩm bổ sung mà không có chuyên môn"
+    ],
+    [
+      "state clearly when a post is sponsored",
+      "nêu rõ khi bài đăng được tài trợ"
+    ],
+    [
+      "test products before recommending them",
+      "thử sản phẩm trước khi giới thiệu"
+    ],
+    [
+      "the free sample",
+      "mẫu thử miễn phí"
+    ],
+    [
+      "Disclosure rules protect buyers",
+      "quy tắc công khai bảo vệ người mua"
+    ],
+    [
+      "\"advert\" or \"paid partnership\"",
+      "\"quảng cáo\" hoặc \"hợp tác trả phí\""
+    ],
+    [
+      "mark paid content automatically",
+      "tự động đánh dấu nội dung trả phí"
+    ],
+    [
+      "independent reviews",
+      "đánh giá độc lập"
+    ]
+  ]
+}

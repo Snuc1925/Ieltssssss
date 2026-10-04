@@ -1,0 +1,126 @@
+{
+  "questionId": 156,
+  "text": "Many supermarket shelves carry products labelled fair trade, organic or recycled, and this essay will discuss how corporate social responsibility affects consumer choices, focusing on ethical preferences and on trust.\n\nTo begin with, corporate social responsibility shapes consumer choice because many shoppers prefer ethical brands. Customers reward companies that treat workers fairly and protect the environment. A shopper who has two similar pairs of trainers at similar prices, for example, may choose the one made by a brand that publishes its factory standards and uses recycled materials. Surveys show that many people, especially the young, are willing to pay a little more for products that are ethical, and they may stop buying from companies that are connected with child labour or pollution. Strong programmes also build loyalty, since customers feel that they share the company's values and are contributing to a good cause.\n\nHowever, greenwashing and higher prices can limit the effect. Some companies advertise small ethical gestures while continuing harmful practices, which makes consumers cynical, and families on tight budgets cannot always afford more expensive goods. Honest, visible responsibility builds loyalty. A company that publishes how it treats its suppliers and what it does to cut waste, for example, gives customers real information on which to base their decision. Firms must back their claims with independent certification, clear reports and real changes in their supply chains, and governments can punish false claims. Consumers should look for trusted labels and ask questions before they buy. When companies and shoppers both take responsibility seriously, ethical behaviour becomes an advantage in the market rather than a cost.\n\nIn conclusion, corporate social responsibility influences consumer choices considerably, particularly where it is genuine and well communicated.",
+  "analysis": {
+    "type_vi": "Opinion: CSR ảnh hưởng lựa chọn người tiêu dùng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhãn công bằng, hữu cơ, tái chế; hai ý: ưu tiên đạo đức; lòng tin.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ảnh hưởng",
+        "think": "Nhiều người ưa thương hiệu đạo đức: khách thưởng công ty đối xử công bằng với công nhân, bảo vệ môi trường; ví dụ người mua hai đôi giày giống giá chọn hãng công bố tiêu chuẩn nhà máy, dùng vật liệu tái chế; khảo sát: nhất là người trẻ sẵn trả hơn; dừng mua công ty liên quan lao động trẻ em, ô nhiễm; chương trình mạnh xây lòng trung thành.",
+        "refs": [
+          "ID-eco-csr",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Greenwashing, giá cao hạn chế: công ty quảng cáo cử chỉ nhỏ trong khi tiếp tục tác hại, người tiêu dùng hoài nghi; gia đình ngân sách chặt không mua nổi; trách nhiệm trung thực, hữu hình; chứng nhận độc lập, báo cáo rõ, thay đổi thật chuỗi cung ứng; chính phủ phạt; nhãn đáng tin.",
+        "refs": [
+          "ID-eco-csr",
+          "ID-media-celebrity-endorsement",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng đáng kể khi chân thật, truyền đạt tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-csr"
+    ]
+  },
+  "chunks": [
+    [
+      "products labelled fair trade, organic or recycled",
+      "sản phẩm gắn nhãn thương mại công bằng, hữu cơ hoặc tái chế"
+    ],
+    [
+      "corporate social responsibility affects consumer choices",
+      "trách nhiệm xã hội doanh nghiệp ảnh hưởng đến lựa chọn của người tiêu dùng"
+    ],
+    [
+      "shoppers prefer ethical brands",
+      "người mua ưa thích thương hiệu đạo đức"
+    ],
+    [
+      "Customers reward companies that treat workers fairly and protect the environment",
+      "khách hàng thưởng cho công ty đối xử công bằng với công nhân và bảo vệ môi trường"
+    ],
+    [
+      "two similar pairs of trainers at similar prices",
+      "hai đôi giày thể thao tương tự với giá tương đương"
+    ],
+    [
+      "publishes its factory standards",
+      "công bố tiêu chuẩn nhà máy của mình"
+    ],
+    [
+      "uses recycled materials",
+      "dùng vật liệu tái chế"
+    ],
+    [
+      "willing to pay a little more",
+      "sẵn lòng trả thêm một chút"
+    ],
+    [
+      "child labour or pollution",
+      "lao động trẻ em hoặc ô nhiễm"
+    ],
+    [
+      "build loyalty",
+      "xây dựng lòng trung thành"
+    ],
+    [
+      "share the company's values",
+      "chia sẻ giá trị của công ty"
+    ],
+    [
+      "greenwashing",
+      "tẩy xanh"
+    ],
+    [
+      "small ethical gestures",
+      "những cử chỉ đạo đức nhỏ"
+    ],
+    [
+      "harmful practices",
+      "hành vi có hại"
+    ],
+    [
+      "tight budgets",
+      "ngân sách eo hẹp"
+    ],
+    [
+      "independent certification, clear reports",
+      "chứng nhận độc lập, báo cáo rõ ràng"
+    ],
+    [
+      "supply chains",
+      "chuỗi cung ứng"
+    ],
+    [
+      "punish false claims",
+      "phạt các tuyên bố sai"
+    ],
+    [
+      "trusted labels",
+      "nhãn đáng tin cậy"
+    ],
+    [
+      "an advantage in the market rather than a cost",
+      "lợi thế trên thị trường thay vì một chi phí"
+    ]
+  ]
+}

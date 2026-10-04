@@ -1,0 +1,128 @@
+{
+  "questionId": 225,
+  "text": "Ships, planes and cables carry goods, services and money between almost every country, and opinions differ on whether global trade benefits all countries. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters argue that global trade benefits countries on average. Specialisation and larger markets raise efficiency and lower prices. A country with a warm climate that exports fruit and imports machinery, for example, can enjoy goods that it could produce only at a very high cost, and its farmers sell to millions of customers abroad. Trade brings competition, which encourages firms to improve quality and to innovate, and it gives consumers cheaper and more varied products. Many countries in East Asia grew rapidly by exporting manufactured goods and lifted millions of people out of poverty. Trade also creates links between nations that make conflict less likely.\n\nOn the other hand, critics argue that gains are uneven and some countries lose. Poorer countries may rely on raw exports with unstable prices, while the profits of processing go elsewhere. Industries that cannot compete close, workers lose their jobs and communities decline. A country that depends on selling a single crop, for example, may suffer badly when its price falls on world markets. Unequal bargaining power allows rich countries to set rules in their favour, and trade can encourage pollution and poor working conditions. Fair rules and support for losers are needed. These include trade agreements that protect labour and environmental standards, aid for developing nations to build industries and retraining for displaced workers.\n\nIn conclusion, both views have merit. Overall, I believe that global trade benefits most countries over time, but it does not benefit all equally, so cooperation and fair rules are essential.",
+  "analysis": {
+    "type_vi": "Discuss both views: thương mại toàn cầu có lợi mọi nước",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tàu, máy bay, cáp chở hàng, dịch vụ, tiền giữa các nước; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Có lợi",
+        "think": "Trung bình có lợi: chuyên môn hoá, thị trường lớn tăng hiệu quả, giảm giá; ví dụ nước khí hậu ấm xuất trái cây nhập máy móc hưởng hàng sản xuất rất đắt, nông dân bán cho hàng triệu khách; cạnh tranh nâng chất lượng, đổi mới; người tiêu dùng rẻ, đa dạng; Đông Á tăng trưởng xuất khẩu, thoát nghèo; liên kết giảm xung đột.",
+        "refs": [
+          "ID-eco-global-trade",
+          "ID-eco-globalisation",
+          "ID-work-trade-employment"
+        ]
+      },
+      {
+        "step": "3. Không đều",
+        "think": "Lợi ích không đều: nước nghèo dựa xuất hàng thô giá bất ổn, lợi nhuận chế biến nơi khác; ngành không cạnh tranh đóng cửa, công nhân mất việc; ví dụ nước phụ thuộc một cây trồng chịu khi giá giảm; quyền thương lượng không cân, nước giàu đặt luật; ô nhiễm, điều kiện lao động; quy tắc công bằng: hiệp định bảo vệ lao động, môi trường, hỗ trợ nước đang phát triển xây công nghiệp, đào tạo lại.",
+        "refs": [
+          "ID-eco-global-trade",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi hầu hết nước theo thời gian nhưng không đều; cần hợp tác, quy tắc công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-global-trade"
+    ]
+  },
+  "chunks": [
+    [
+      "Ships, planes and cables carry goods, services and money",
+      "tàu, máy bay và cáp chuyển hàng hoá, dịch vụ và tiền"
+    ],
+    [
+      "global trade benefits all countries",
+      "thương mại toàn cầu có lợi cho mọi quốc gia"
+    ],
+    [
+      "Specialisation and larger markets raise efficiency and lower prices",
+      "chuyên môn hoá và thị trường lớn hơn nâng cao hiệu quả và hạ giá"
+    ],
+    [
+      "exports fruit and imports machinery",
+      "xuất khẩu trái cây và nhập khẩu máy móc"
+    ],
+    [
+      "a very high cost",
+      "chi phí rất cao"
+    ],
+    [
+      "sell to millions of customers abroad",
+      "bán cho hàng triệu khách hàng ở nước ngoài"
+    ],
+    [
+      "encourages firms to improve quality and to innovate",
+      "khuyến khích công ty cải thiện chất lượng và đổi mới"
+    ],
+    [
+      "cheaper and more varied products",
+      "sản phẩm rẻ hơn và đa dạng hơn"
+    ],
+    [
+      "East Asia grew rapidly by exporting manufactured goods",
+      "Đông Á tăng trưởng nhanh nhờ xuất khẩu hàng chế tạo"
+    ],
+    [
+      "lifted millions of people out of poverty",
+      "giúp hàng triệu người thoát nghèo"
+    ],
+    [
+      "conflict less likely",
+      "xung đột ít xảy ra hơn"
+    ],
+    [
+      "gains are uneven and some countries lose",
+      "lợi ích không đồng đều và một số nước thua thiệt"
+    ],
+    [
+      "rely on raw exports with unstable prices",
+      "dựa vào xuất khẩu nguyên liệu thô với giá không ổn định"
+    ],
+    [
+      "profits of processing go elsewhere",
+      "lợi nhuận từ chế biến chảy sang nơi khác"
+    ],
+    [
+      "sells a single crop",
+      "bán một loại cây trồng duy nhất"
+    ],
+    [
+      "when its price falls on world markets",
+      "khi giá của nó giảm trên thị trường thế giới"
+    ],
+    [
+      "Unequal bargaining power",
+      "quyền thương lượng không bình đẳng"
+    ],
+    [
+      "Fair rules and support for losers",
+      "quy tắc công bằng và hỗ trợ cho người thua thiệt"
+    ],
+    [
+      "labour and environmental standards",
+      "tiêu chuẩn lao động và môi trường"
+    ],
+    [
+      "retraining for displaced workers",
+      "đào tạo lại cho người lao động bị mất việc"
+    ]
+  ]
+}

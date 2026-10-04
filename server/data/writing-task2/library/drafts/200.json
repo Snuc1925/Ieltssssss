@@ -1,0 +1,129 @@
+{
+  "questionId": 200,
+  "text": "Governments collect taxes mainly to pay for hospitals, schools, defence and roads, yet they also finance museums, orchestras, festivals and historic buildings, and the question is to what extent tax revenue should be used for cultural projects. I believe that some of it should, but only after essential services are secure.\n\nTo begin with, culture deserves a share of public money because it preserves identity and benefits society. Museums, heritage sites and arts education preserve identity and attract tourists. A city that restores its old town and supports a theatre, for example, gains visitors who spend money in hotels and shops, and residents feel pride in their history. Culture also enriches education, since children who learn music, drama or art develop creativity and confidence, and free access to galleries allows poorer families to enjoy it. Private markets alone may not support activities with small audiences, such as classical music or traditional crafts, which would disappear without help.\n\nHowever, hospitals, schools and housing meet more urgent needs, so culture should receive a limited, accountable share. A government that spends millions on a grand opera house while clinics lack equipment, for example, would be criticised for its priorities. Culture projects should therefore be chosen carefully, with clear aims and regular reports on costs and results. Partnerships with private donors stretch the budget: companies and individuals can sponsor exhibitions, and ticket sales and shops can raise part of the cost. Local communities should also have a say in which projects are funded, so that the money benefits ordinary people and not only an educated minority.\n\nIn conclusion, tax revenue should be used for cultural projects to a moderate extent, after essential services have been funded.",
+  "analysis": {
+    "type_vi": "Extent: thuế dùng cho dự án văn hoá đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thuế trả bệnh viện, trường, quốc phòng, đường nhưng cũng bảo tàng, dàn nhạc; đáp: một phần, sau dịch vụ thiết yếu.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Nên có phần",
+        "think": "Văn hoá giữ bản sắc, lợi xã hội: bảo tàng, di sản, giáo dục nghệ thuật, thu hút du khách; ví dụ thành phố trùng tu khu cổ, hỗ trợ nhà hát có du khách chi tiêu, cư dân tự hào; trẻ học nhạc, kịch, mỹ thuật sáng tạo, tự tin; gallery miễn phí cho gia đình nghèo; thị trường tư không nuôi hoạt động ít khán giả (nhạc cổ điển, nghề truyền thống).",
+        "refs": [
+          "ID-eco-culture-spending",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Bệnh viện, trường, nhà ở cấp bách hơn: ví dụ chính phủ chi hàng triệu cho nhà hát opera khi trạm y tế thiếu thiết bị bị chỉ trích; chọn kỹ, mục tiêu rõ, báo cáo; hợp tác nhà tài trợ tư: tài trợ triển lãm, vé, cửa hàng; cộng đồng có tiếng nói.",
+        "refs": [
+          "ID-eco-culture-spending",
+          "ID-tech-research-vs-services",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Mức vừa phải sau khi tài trợ dịch vụ thiết yếu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-culture-spending"
+    ]
+  },
+  "chunks": [
+    [
+      "hospitals, schools, defence and roads",
+      "bệnh viện, trường học, quốc phòng và đường sá"
+    ],
+    [
+      "museums, orchestras, festivals and historic buildings",
+      "bảo tàng, dàn nhạc, lễ hội và công trình lịch sử"
+    ],
+    [
+      "tax revenue should be used for cultural projects",
+      "nguồn thu thuế nên được dùng cho các dự án văn hoá"
+    ],
+    [
+      "preserves identity and benefits society",
+      "bảo tồn bản sắc và có lợi cho xã hội"
+    ],
+    [
+      "Museums, heritage sites and arts education",
+      "bảo tàng, di sản và giáo dục nghệ thuật"
+    ],
+    [
+      "attract tourists",
+      "thu hút du khách"
+    ],
+    [
+      "restores its old town",
+      "trùng tu khu phố cổ"
+    ],
+    [
+      "supports a theatre",
+      "hỗ trợ một nhà hát"
+    ],
+    [
+      "spend money in hotels and shops",
+      "chi tiền ở khách sạn và cửa hàng"
+    ],
+    [
+      "pride in their history",
+      "niềm tự hào về lịch sử của họ"
+    ],
+    [
+      "develop creativity and confidence",
+      "phát triển sự sáng tạo và sự tự tin"
+    ],
+    [
+      "free access to galleries",
+      "vào cửa miễn phí các phòng tranh"
+    ],
+    [
+      "classical music or traditional crafts",
+      "nhạc cổ điển hoặc nghề thủ công truyền thống"
+    ],
+    [
+      "would disappear without help",
+      "sẽ biến mất nếu không có sự giúp đỡ"
+    ],
+    [
+      "hospitals, schools and housing meet more urgent needs",
+      "bệnh viện, trường học và nhà ở đáp ứng nhu cầu cấp bách hơn"
+    ],
+    [
+      "limited, accountable share",
+      "phần có hạn và có trách nhiệm giải trình"
+    ],
+    [
+      "a grand opera house while clinics lack equipment",
+      "một nhà hát opera lớn trong khi các phòng khám thiếu thiết bị"
+    ],
+    [
+      "regular reports on costs and results",
+      "báo cáo định kỳ về chi phí và kết quả"
+    ],
+    [
+      "Partnerships with private donors",
+      "hợp tác với nhà tài trợ tư nhân"
+    ],
+    [
+      "sponsor exhibitions",
+      "tài trợ các cuộc triển lãm"
+    ],
+    [
+      "an educated minority",
+      "một thiểu số có học thức"
+    ]
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "questionId": 187,
+  "text": "Hunger, disease and lack of schooling affect hundreds of millions of people, and many people say that tackling poverty requires international cooperation. I agree with this view, since the causes of poverty cross borders, although each country must also act at home.\n\nTo begin with, tackling poverty needs international cooperation because its causes cross borders. Trade rules, debt, climate change and disease affect poor countries more than they can handle alone. A small farming nation whose crops are destroyed by drought caused by global warming, for example, cannot solve the problem by itself, and a pandemic spreads quickly from one country to another. Rich nations can offer aid, debt relief and technology, and international organisations can coordinate responses to disasters and share knowledge about successful programmes, such as vaccination and school meals. Fair trade rules that open markets to poor countries allow them to sell their goods and earn money. Without cooperation, poor countries may remain trapped.\n\nHowever, each government must also take responsibility at home. Good governance, honest institutions, investment in education and health, and policies that encourage business are essential, and aid can be wasted where corruption is widespread. Countries such as South Korea and Vietnam improved living standards mainly through their own policies, with outside support playing a secondary role. Joint action multiplies local effort. Aid should therefore be targeted, transparent and designed together with the recipients, and it should aim to build skills and institutions that make dependency unnecessary. Individuals and charities also help through donations and volunteering.\n\nIn conclusion, I agree that tackling poverty requires international cooperation, but its success depends equally on responsible policies within each country.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: chống nghèo cần hợp tác quốc tế — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu đói, bệnh, thiếu học hàng trăm triệu người; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Nguyên nhân vượt biên giới: quy tắc thương mại, nợ, biến đổi khí hậu, dịch bệnh; ví dụ nước nông nghiệp nhỏ mất mùa do hạn hán do ấm lên toàn cầu không tự giải quyết, đại dịch lan nhanh; nước giàu viện trợ, giảm nợ, công nghệ; tổ chức quốc tế điều phối thảm hoạ, chia sẻ tiêm chủng, bữa ăn học đường; thương mại công bằng mở thị trường; thiếu hợp tác bị mắc kẹt.",
+        "refs": [
+          "ID-eco-intl-poverty",
+          "ID-eco-globalisation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Mỗi chính phủ chịu trách nhiệm trong nước: quản trị tốt, thể chế trung thực, đầu tư giáo dục, y tế, khuyến khích kinh doanh; viện trợ lãng phí khi tham nhũng; Hàn Quốc, Việt Nam cải thiện chủ yếu bằng chính sách riêng; viện trợ có mục tiêu, minh bạch, thiết kế cùng bên nhận, xây kỹ năng, thể chế; cá nhân, từ thiện.",
+        "refs": [
+          "ID-eco-intl-poverty",
+          "ID-env-partnership",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, nhưng thành công còn phụ thuộc chính sách trong nước.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-intl-poverty"
+    ]
+  },
+  "chunks": [
+    [
+      "Hunger, disease and lack of schooling",
+      "đói, bệnh tật và thiếu giáo dục"
+    ],
+    [
+      "tackling poverty requires international cooperation",
+      "xoá nghèo đòi hỏi sự hợp tác quốc tế"
+    ],
+    [
+      "its causes cross borders",
+      "nguyên nhân của nó vượt biên giới"
+    ],
+    [
+      "Trade rules, debt, climate change and disease",
+      "quy tắc thương mại, nợ, biến đổi khí hậu và dịch bệnh"
+    ],
+    [
+      "handle alone",
+      "tự xử lý"
+    ],
+    [
+      "a small farming nation",
+      "một quốc gia nông nghiệp nhỏ"
+    ],
+    [
+      "drought caused by global warming",
+      "hạn hán do nóng lên toàn cầu"
+    ],
+    [
+      "a pandemic spreads quickly from one country to another",
+      "đại dịch lan nhanh từ nước này sang nước khác"
+    ],
+    [
+      "aid, debt relief and technology",
+      "viện trợ, xoá nợ và công nghệ"
+    ],
+    [
+      "coordinate responses to disasters",
+      "điều phối ứng phó với thảm hoạ"
+    ],
+    [
+      "vaccination and school meals",
+      "tiêm chủng và bữa ăn học đường"
+    ],
+    [
+      "Fair trade rules that open markets to poor countries",
+      "quy tắc thương mại công bằng mở cửa thị trường cho các nước nghèo"
+    ],
+    [
+      "trapped",
+      "bị mắc kẹt"
+    ],
+    [
+      "Good governance, honest institutions",
+      "quản trị tốt, thể chế liêm chính"
+    ],
+    [
+      "aid can be wasted where corruption is widespread",
+      "viện trợ có thể bị lãng phí nơi tham nhũng phổ biến"
+    ],
+    [
+      "improved living standards mainly through their own policies",
+      "cải thiện mức sống chủ yếu nhờ chính sách của chính họ"
+    ],
+    [
+      "Joint action multiplies local effort",
+      "hành động chung nhân lên nỗ lực địa phương"
+    ],
+    [
+      "targeted, transparent and designed together with the recipients",
+      "có mục tiêu, minh bạch và được thiết kế cùng với bên nhận"
+    ],
+    [
+      "make dependency unnecessary",
+      "khiến sự phụ thuộc trở nên không cần thiết"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 434,
+  "text": "Cocoa, coffee, cotton and many other goods are produced by farmers and workers who earn very little, and opinions differ on whether individuals should be responsible for ensuring fair trade or whether society and government should enforce it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that shoppers can promote fair trade through their choices. Consumers can choose certified goods and press companies for better practice. A customer who consistently buys fair-trade coffee, for example, increases demand for it and encourages shops to stock more, while collective boycotts and social media campaigns have forced several companies to improve conditions. Consumers who ask where products come from send a signal to businesses that ethics matter, and companies depend on their customers. Many people feel that moral duty begins with their own spending, and personal action does not need to wait for legislation.\n\nOn the other hand, advocates of government enforcement point out that supply chains are too complex for individuals to check. Shoppers cannot visit factories, and labels can be misleading. A person who buys a shirt that passes through several countries cannot know whether any worker was underpaid. Governments must therefore require transparency and punish exploitation. Laws can oblige companies to investigate their suppliers, ban goods made with forced labour and set minimum standards, while labour inspectors and international agreements enforce them. Fair trade needs informed consumers and enforceable laws. Without legal rules, firms that behave ethically may lose business to cheaper rivals who do not.\n\nIn conclusion, both views have merit. Overall, I believe that responsibility is shared: individuals should buy ethically where they can, but governments must set and enforce rules that apply to all companies.",
+  "analysis": {
+    "type_vi": "Discuss both views: thương mại công bằng — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu ca cao, cà phê, bông do nông dân thu nhập thấp; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Người mua thúc đẩy bằng lựa chọn: chọn hàng chứng nhận, gây sức ép; ví dụ khách mua cà phê công bằng đều đặn tăng cầu, cửa hàng thêm hàng; tẩy chay, mạng xã hội buộc công ty cải thiện; hỏi nguồn gốc gửi tín hiệu; bổn phận đạo đức bắt đầu từ chi tiêu; không chờ luật.",
+        "refs": [
+          "ID-eco-fair-trade-responsibility",
+          "ID-eco-ethical-consumerism",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Chuỗi cung ứng quá phức tạp: không thăm nhà máy, nhãn gây hiểu lầm; ví dụ áo qua nhiều nước không biết có công nhân bị trả thiếu; chính phủ yêu cầu minh bạch, trừng phạt bóc lột: buộc công ty điều tra nhà cung cấp, cấm hàng lao động cưỡng bức, tiêu chuẩn tối thiểu, thanh tra, hiệp định; thiếu luật công ty đạo đức thua đối thủ rẻ.",
+        "refs": [
+          "ID-eco-fair-trade-responsibility",
+          "ID-env-gov-rules",
+          "ID-eco-csr"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chia sẻ trách nhiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-fair-trade-responsibility"
+    ]
+  },
+  "chunks": [
+    [
+      "Cocoa, coffee, cotton",
+      "ca cao, cà phê, bông"
+    ],
+    [
+      "farmers and workers who earn very little",
+      "nông dân và công nhân kiếm được rất ít"
+    ],
+    [
+      "ensuring fair trade",
+      "đảm bảo thương mại công bằng"
+    ],
+    [
+      "promote fair trade through their choices",
+      "thúc đẩy thương mại công bằng qua lựa chọn của họ"
+    ],
+    [
+      "choose certified goods and press companies for better practice",
+      "chọn hàng hoá được chứng nhận và gây sức ép buộc công ty cải thiện thực hành"
+    ],
+    [
+      "consistently buys fair-trade coffee",
+      "mua cà phê thương mại công bằng một cách đều đặn"
+    ],
+    [
+      "increases demand for it",
+      "làm tăng nhu cầu về nó"
+    ],
+    [
+      "collective boycotts and social media campaigns",
+      "tẩy chay tập thể và chiến dịch trên mạng xã hội"
+    ],
+    [
+      "improve conditions",
+      "cải thiện điều kiện"
+    ],
+    [
+      "send a signal to businesses that ethics matter",
+      "gửi tín hiệu tới doanh nghiệp rằng đạo đức quan trọng"
+    ],
+    [
+      "moral duty begins with their own spending",
+      "bổn phận đạo đức bắt đầu từ việc chi tiêu của chính họ"
+    ],
+    [
+      "supply chains are too complex for individuals to check",
+      "chuỗi cung ứng quá phức tạp để cá nhân kiểm tra"
+    ],
+    [
+      "labels can be misleading",
+      "nhãn mác có thể gây hiểu lầm"
+    ],
+    [
+      "passes through several countries",
+      "đi qua nhiều quốc gia"
+    ],
+    [
+      "underpaid",
+      "bị trả lương thấp"
+    ],
+    [
+      "require transparency and punish exploitation",
+      "yêu cầu minh bạch và trừng phạt sự bóc lột"
+    ],
+    [
+      "investigate their suppliers",
+      "điều tra các nhà cung cấp của họ"
+    ],
+    [
+      "goods made with forced labour",
+      "hàng hoá làm bằng lao động cưỡng bức"
+    ],
+    [
+      "labour inspectors and international agreements",
+      "thanh tra lao động và các hiệp định quốc tế"
+    ],
+    [
+      "cheaper rivals",
+      "đối thủ rẻ hơn"
+    ]
+  ]
+}

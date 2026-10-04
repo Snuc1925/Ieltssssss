@@ -1,0 +1,130 @@
+{
+  "questionId": 194,
+  "text": "Music, films, software and even meals are now sold by monthly subscription, and many people think that subscription services are good value. I agree to some extent, since a fixed fee gives access to a large amount of content, although forgotten or overlapping plans waste money.\n\nTo begin with, subscriptions give good value for frequent users. A fixed fee unlocks large libraries or services. A family that pays a modest monthly sum for a streaming service, for example, can watch hundreds of films and series, whereas buying or renting the same titles individually would cost many times more. Music subscriptions give access to millions of songs on any device, and software subscriptions provide regular updates and storage. Costs are predictable and spread over the year, which helps with budgeting, and customers can cancel when their needs change, unlike a purchase. Delivery subscriptions can save money for those who shop often, since they remove charges on each order.\n\nHowever, people often keep unused plans, pay for several overlapping services and own nothing at the end. A student who signs up for a free trial and forgets to cancel, for example, may pay for months without using the service. Many households subscribe to five or six streaming platforms, so that the total cost exceeds that of a single cable package, and prices often rise after the first year. Customers also lose access to their music or films as soon as they stop paying. Value depends on regular, conscious use. Consumers should review their subscriptions regularly, share family plans where allowed and cancel those that they rarely use. Companies should make cancelling simple and remind customers of renewal dates.\n\nIn conclusion, I agree to some extent that subscription services are good value, but only for those who use them regularly and manage them carefully.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: dịch vụ đăng ký đáng giá — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhạc, phim, phần mềm, bữa ăn bán theo tháng; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Đáng giá cho người dùng thường xuyên: phí cố định mở thư viện lớn; ví dụ gia đình trả phí nhỏ mỗi tháng xem hàng trăm phim, series, mua hoặc thuê lẻ tốn gấp nhiều lần; nhạc hàng triệu bài, phần mềm cập nhật, lưu trữ; chi phí dự đoán, dễ lập ngân sách; huỷ khi nhu cầu đổi; gói giao hàng tiết kiệm.",
+        "refs": [
+          "ID-eco-subscription",
+          "ID-media-streaming-boxoffice",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Giữ gói không dùng, chồng chéo, không sở hữu: ví dụ sinh viên dùng thử miễn phí quên huỷ trả nhiều tháng; hộ đăng ký 5–6 nền tảng tổng cao hơn một gói truyền hình cáp; giá tăng sau năm đầu; ngừng trả là mất quyền truy cập; giá trị phụ thuộc dùng đều, có ý thức; rà soát, chia sẻ gói gia đình, huỷ gói ít dùng; công ty đơn giản hoá huỷ, nhắc gia hạn.",
+        "refs": [
+          "ID-eco-subscription",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đáng giá chỉ với người dùng đều đặn, quản lý cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-subscription"
+    ]
+  },
+  "chunks": [
+    [
+      "Music, films, software and even meals are now sold by monthly subscription",
+      "nhạc, phim, phần mềm và cả bữa ăn nay được bán theo đăng ký hằng tháng"
+    ],
+    [
+      "subscription services are good value",
+      "dịch vụ đăng ký đáng giá đồng tiền"
+    ],
+    [
+      "A fixed fee unlocks large libraries or services",
+      "phí cố định mở ra thư viện hoặc dịch vụ lớn"
+    ],
+    [
+      "a modest monthly sum for a streaming service",
+      "khoản tiền hằng tháng khiêm tốn cho dịch vụ phát trực tuyến"
+    ],
+    [
+      "hundreds of films and series",
+      "hàng trăm bộ phim và loạt phim"
+    ],
+    [
+      "many times more",
+      "gấp nhiều lần"
+    ],
+    [
+      "millions of songs on any device",
+      "hàng triệu bài hát trên mọi thiết bị"
+    ],
+    [
+      "regular updates and storage",
+      "cập nhật thường xuyên và dung lượng lưu trữ"
+    ],
+    [
+      "Costs are predictable and spread over the year",
+      "chi phí có thể dự đoán và dàn trải trong năm"
+    ],
+    [
+      "cancel when their needs change",
+      "huỷ khi nhu cầu thay đổi"
+    ],
+    [
+      "remove charges on each order",
+      "loại bỏ phí trên mỗi đơn hàng"
+    ],
+    [
+      "keep unused plans",
+      "giữ các gói không dùng"
+    ],
+    [
+      "pay for several overlapping services",
+      "trả tiền cho nhiều dịch vụ chồng chéo"
+    ],
+    [
+      "own nothing at the end",
+      "cuối cùng không sở hữu gì"
+    ],
+    [
+      "a free trial and forgets to cancel",
+      "dùng thử miễn phí và quên huỷ"
+    ],
+    [
+      "five or six streaming platforms",
+      "năm hoặc sáu nền tảng phát trực tuyến"
+    ],
+    [
+      "prices often rise after the first year",
+      "giá thường tăng sau năm đầu tiên"
+    ],
+    [
+      "lose access",
+      "mất quyền truy cập"
+    ],
+    [
+      "regular, conscious use",
+      "việc sử dụng đều đặn và có ý thức"
+    ],
+    [
+      "review their subscriptions regularly",
+      "rà soát các gói đăng ký của mình thường xuyên"
+    ],
+    [
+      "make cancelling simple",
+      "làm cho việc huỷ trở nên đơn giản"
+    ]
+  ]
+}

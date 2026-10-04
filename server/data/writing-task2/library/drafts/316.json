@@ -1,0 +1,131 @@
+{
+  "questionId": 316,
+  "text": "Parcels arrive within hours, and vans from large platforms are seen in every street, so many people think that fast delivery services harm local businesses. I agree to some extent, since large platforms attract customers away from small shops, although the same services can help independent sellers.\n\nTo begin with, fast delivery services favour large platforms. Big companies with warehouses and low prices attract shoppers away from local shops. A bookshop that sells a novel for the full price, for example, loses a customer who can order it online at a discount and receive it the next morning. Large platforms can afford loss-making offers, free delivery and returns, which small shops cannot match. As more people expect speed and convenience, high-street shops lose footfall, and many have closed, leaving empty units and reducing local employment. Money spent on the platform often leaves the community, while a local shop keeps wages and profits in the area.\n\nHowever, independent businesses can use the same networks to sell more widely. A small craft maker who lists products on a marketplace and uses a courier, for example, can reach customers hundreds of kilometres away, who would never have found her shop. Local restaurants, florists and bakeries use delivery apps to attract new clients, and many shops have launched their own websites. Local firms must adapt and offer service that platforms cannot. They can provide expert advice, personal attention, unique products and fast local delivery by their own staff, and they can emphasise community links. Councils can support them by reducing business charges and improving parking and the appearance of town centres.\n\nIn conclusion, I agree to some extent that fast delivery services harm local businesses, but those that adapt can benefit from them.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: giao nhanh hại doanh nghiệp địa phương — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu bưu kiện giờ, xe tải nền tảng; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Giao nhanh ủng hộ nền tảng lớn: kho, giá thấp hút khách khỏi cửa hàng địa phương; ví dụ hiệu sách bán giá đầy đủ mất khách đặt online giảm giá, nhận sáng hôm sau; nền tảng chịu lỗ, giao hàng, trả hàng miễn phí; kỳ vọng tốc độ nên phố mất lượng khách, đóng cửa, mặt bằng trống, giảm việc; tiền chảy khỏi cộng đồng.",
+        "refs": [
+          "ID-eco-fast-delivery",
+          "ID-eco-online-retail",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Doanh nghiệp độc lập dùng cùng mạng bán rộng hơn: ví dụ thợ thủ công đăng sàn, dùng chuyển phát tiếp cận khách xa hàng trăm km; nhà hàng, tiệm hoa, tiệm bánh dùng app, nhiều cửa hàng lập website; thích nghi: tư vấn chuyên gia, sản phẩm độc đáo, giao nhanh nhân viên, nhấn mạnh cộng đồng; hội đồng giảm phí, cải thiện đỗ xe, trung tâm.",
+        "refs": [
+          "ID-eco-fast-delivery",
+          "ID-eco-small-business-support",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree một phần; ai thích nghi có lợi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-fast-delivery"
+    ]
+  },
+  "chunks": [
+    [
+      "Parcels arrive within hours",
+      "bưu kiện đến trong vài giờ"
+    ],
+    [
+      "fast delivery services harm local businesses",
+      "dịch vụ giao hàng nhanh gây hại cho doanh nghiệp địa phương"
+    ],
+    [
+      "attract customers away from small shops",
+      "hút khách hàng khỏi các cửa hàng nhỏ"
+    ],
+    [
+      "warehouses and low prices attract shoppers away from local shops",
+      "kho hàng và giá thấp hút người mua khỏi cửa hàng địa phương"
+    ],
+    [
+      "sells a novel for the full price",
+      "bán một cuốn tiểu thuyết với giá đầy đủ"
+    ],
+    [
+      "order it online at a discount",
+      "đặt mua trực tuyến với giá giảm"
+    ],
+    [
+      "the next morning",
+      "sáng hôm sau"
+    ],
+    [
+      "loss-making offers, free delivery and returns",
+      "ưu đãi chịu lỗ, giao hàng và trả hàng miễn phí"
+    ],
+    [
+      "speed and convenience",
+      "tốc độ và sự tiện lợi"
+    ],
+    [
+      "lose footfall",
+      "mất lượng khách đi bộ"
+    ],
+    [
+      "empty units",
+      "mặt bằng trống"
+    ],
+    [
+      "reducing local employment",
+      "giảm việc làm địa phương"
+    ],
+    [
+      "leaves the community",
+      "rời khỏi cộng đồng"
+    ],
+    [
+      "use the same networks to sell more widely",
+      "dùng cùng mạng lưới để bán rộng rãi hơn"
+    ],
+    [
+      "a small craft maker",
+      "một người làm đồ thủ công nhỏ"
+    ],
+    [
+      "lists products on a marketplace and uses a courier",
+      "đăng sản phẩm lên sàn giao dịch và dùng dịch vụ chuyển phát"
+    ],
+    [
+      "hundreds of kilometres away",
+      "cách xa hàng trăm km"
+    ],
+    [
+      "delivery apps",
+      "ứng dụng giao hàng"
+    ],
+    [
+      "adapt and offer service that platforms cannot",
+      "thích nghi và cung cấp dịch vụ mà nền tảng không thể"
+    ],
+    [
+      "expert advice, personal attention, unique products",
+      "tư vấn chuyên gia, sự quan tâm cá nhân, sản phẩm độc đáo"
+    ],
+    [
+      "improving parking",
+      "cải thiện chỗ đỗ xe"
+    ]
+  ]
+}

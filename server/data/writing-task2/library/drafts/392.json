@@ -1,0 +1,121 @@
+{
+  "questionId": 392,
+  "text": "Defective toys, contaminated food and faulty electrical goods cause injuries every year, and some argue that stricter consumer protection laws improve safety. I agree to a large extent, since standards and penalties make firms avoid dangerous products, although enforcement matters as much as the laws themselves.\n\nTo begin with, stricter consumer protection laws improve safety by setting standards and punishing negligence. Mandatory testing, recalls and heavy fines force firms to avoid dangerous products. A toy manufacturer that must prove its products are free of poisonous paint before selling them, for example, will check its suppliers carefully, since a failure could lead to a ban and a costly lawsuit. Clear labelling of ingredients, allergens and warnings helps buyers to make safe choices, and rules on cooling and hygiene in food production reduce poisoning. Countries with strong consumer agencies, such as those in northern Europe, have lower rates of accidents from household products. When dangerous goods are found, laws allow quick recalls that protect others.\n\nHowever, compliance costs and weak enforcement can reduce the benefit. Small companies may find the paperwork and testing expensive, which can raise prices or reduce the variety of products, and rules that are not checked are ignored. Online marketplaces make it easy to import cheap goods that avoid inspection. Strong laws with effective inspection protect the public. Governments should fund inspectors and laboratories, hold online platforms responsible for unsafe items sold through them, and cooperate internationally to track dangerous products. Consumers can also help by reporting problems and by reading labels carefully.\n\nIn conclusion, I agree to a large extent that stricter consumer protection laws improve safety, provided that they are enforced and designed with small businesses in mind.",
+  "analysis": {
+    "type_vi": "Extent: luật bảo vệ người tiêu dùng chặt hơn cải thiện an toàn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu đồ chơi lỗi, thực phẩm nhiễm, đồ điện hỏng gây thương tích; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Tiêu chuẩn, phạt vi phạm buộc tránh sản phẩm nguy hiểm: kiểm nghiệm bắt buộc, thu hồi, phạt nặng; ví dụ nhà sản xuất đồ chơi phải chứng minh sơn không độc kiểm tra nhà cung cấp kỹ vì thất bại có thể bị cấm, kiện tốn; nhãn thành phần, dị ứng, cảnh báo; quy tắc làm lạnh, vệ sinh giảm ngộ độc; nước có cơ quan mạnh (Bắc Âu) ít tai nạn; thu hồi nhanh.",
+        "refs": [
+          "ID-eco-consumer-protection",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chi phí tuân thủ, thực thi yếu giảm lợi ích: công ty nhỏ khó tốn giấy tờ, kiểm nghiệm tăng giá, giảm đa dạng; quy tắc không kiểm bị bỏ qua; sàn trực tuyến nhập hàng rẻ tránh kiểm tra; luật mạnh kèm kiểm tra hiệu quả: tài trợ thanh tra, phòng thí nghiệm, nền tảng chịu trách nhiệm, hợp tác quốc tế; người tiêu dùng báo cáo, đọc nhãn.",
+        "refs": [
+          "ID-eco-consumer-protection",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu thực thi, thiết kế phù hợp doanh nghiệp nhỏ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-consumer-protection"
+    ]
+  },
+  "chunks": [
+    [
+      "Defective toys, contaminated food and faulty electrical goods",
+      "đồ chơi lỗi, thực phẩm nhiễm bẩn và đồ điện hỏng"
+    ],
+    [
+      "stricter consumer protection laws improve safety",
+      "luật bảo vệ người tiêu dùng nghiêm ngặt hơn cải thiện an toàn"
+    ],
+    [
+      "setting standards and punishing negligence",
+      "đặt ra tiêu chuẩn và trừng phạt sự cẩu thả"
+    ],
+    [
+      "Mandatory testing, recalls and heavy fines",
+      "kiểm nghiệm bắt buộc, thu hồi sản phẩm và phạt nặng"
+    ],
+    [
+      "free of poisonous paint",
+      "không có sơn độc"
+    ],
+    [
+      "check its suppliers carefully",
+      "kiểm tra nhà cung cấp cẩn thận"
+    ],
+    [
+      "a ban and a costly lawsuit",
+      "lệnh cấm và vụ kiện tốn kém"
+    ],
+    [
+      "Clear labelling of ingredients, allergens and warnings",
+      "nhãn rõ ràng về thành phần, chất gây dị ứng và cảnh báo"
+    ],
+    [
+      "cooling and hygiene in food production",
+      "làm lạnh và vệ sinh trong sản xuất thực phẩm"
+    ],
+    [
+      "strong consumer agencies",
+      "các cơ quan bảo vệ người tiêu dùng mạnh"
+    ],
+    [
+      "accidents from household products",
+      "tai nạn do sản phẩm gia dụng"
+    ],
+    [
+      "quick recalls",
+      "thu hồi nhanh chóng"
+    ],
+    [
+      "compliance costs and weak enforcement",
+      "chi phí tuân thủ và thực thi yếu"
+    ],
+    [
+      "paperwork and testing expensive",
+      "thủ tục giấy tờ và kiểm nghiệm tốn kém"
+    ],
+    [
+      "Online marketplaces make it easy to import cheap goods that avoid inspection",
+      "sàn thương mại điện tử giúp dễ nhập hàng rẻ né tránh kiểm tra"
+    ],
+    [
+      "fund inspectors and laboratories",
+      "tài trợ cho thanh tra viên và phòng thí nghiệm"
+    ],
+    [
+      "unsafe items sold through them",
+      "các mặt hàng không an toàn được bán qua chúng"
+    ],
+    [
+      "track dangerous products",
+      "theo dõi sản phẩm nguy hiểm"
+    ],
+    [
+      "reading labels carefully",
+      "đọc nhãn cẩn thận"
+    ]
+  ]
+}

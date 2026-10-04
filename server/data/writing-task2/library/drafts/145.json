@@ -1,0 +1,125 @@
+{
+  "questionId": 145,
+  "text": "Economists and politicians often argue about the effects of newcomers on a country's economy, and opinions differ on whether immigration benefits economies. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters argue that immigration benefits economies in several ways. Migrants fill labour shortages, pay taxes and start businesses. A country with an ageing population, for example, needs young workers in hospitals, farms and construction to support its pensioners. Many entrepreneurs, from small shop owners to founders of technology companies, are migrants, and they create jobs for local people as well. Skilled immigrants bring knowledge and links to foreign markets, while migrants who send money home or return to their countries of origin build trade networks. Studies from several countries show that, on average, immigrants contribute more in taxes than they receive in benefits.\n\nOn the other hand, critics argue that immigration can harm parts of the economy. Rapid arrival can strain housing and services, and low-skilled workers may face more competition for jobs and lower wages. A town where many new residents arrive in a short time, for example, may find that rents increase and schools become overcrowded before new capacity is built. Employers may also prefer cheaper foreign workers, which weakens incentives to train local staff. Some countries lose skilled workers through emigration, which is a problem for the countries of origin. Nevertheless, careful policies reduce these effects. Governments can match visas to labour needs, invest in housing and schools in areas that receive many migrants and enforce labour standards so that no group of workers is undercut.\n\nIn conclusion, both views have merit. Overall, I believe that immigration generally benefits economies, provided that it is managed and that local communities receive support.",
+  "analysis": {
+    "type_vi": "Discuss both views: nhập cư có lợi cho kinh tế không (cùng chủ đề #85, nhấn mạnh kinh tế)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tranh luận kinh tế gia, chính trị gia.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Có lợi",
+        "think": "Lấp thiếu lao động, đóng thuế, khởi nghiệp; ví dụ nước già hoá cần công nhân trẻ ở bệnh viện, nông trại, xây dựng nuôi người hưu; nhiều doanh nhân là người nhập cư tạo việc cho người địa phương; kỹ năng, liên kết thị trường nước ngoài; gửi tiền, mạng lưới thương mại; nghiên cứu: trung bình đóng thuế nhiều hơn nhận trợ cấp.",
+        "refs": [
+          "ID-eco-immigration",
+          "ID-work-immigration-jobs"
+        ]
+      },
+      {
+        "step": "3. Có hại",
+        "think": "Đến nhanh áp lực nhà, dịch vụ; lao động kỹ năng thấp cạnh tranh, lương thấp; ví dụ thị trấn nhiều cư dân mới trong thời gian ngắn giá thuê tăng, trường quá tải; chủ thuê lao động rẻ làm yếu động lực đào tạo; mất lao động có kỹ năng ở nước gốc; chính sách: gắn visa nhu cầu, đầu tư nhà, trường, tiêu chuẩn lao động.",
+        "refs": [
+          "ID-eco-immigration",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nói chung có lợi nếu quản lý, hỗ trợ cộng đồng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "the effects of newcomers on a country's economy",
+      "tác động của người mới đến đối với nền kinh tế một nước"
+    ],
+    [
+      "immigration benefits economies",
+      "nhập cư có lợi cho các nền kinh tế"
+    ],
+    [
+      "Migrants fill labour shortages, pay taxes and start businesses",
+      "người nhập cư lấp chỗ thiếu lao động, đóng thuế và khởi nghiệp"
+    ],
+    [
+      "an ageing population",
+      "dân số già hoá"
+    ],
+    [
+      "young workers in hospitals, farms and construction",
+      "lao động trẻ ở bệnh viện, nông trại và xây dựng"
+    ],
+    [
+      "support its pensioners",
+      "chu cấp cho người hưu trí"
+    ],
+    [
+      "founders of technology companies",
+      "người sáng lập các công ty công nghệ"
+    ],
+    [
+      "create jobs for local people",
+      "tạo việc làm cho người địa phương"
+    ],
+    [
+      "links to foreign markets",
+      "mối liên kết với thị trường nước ngoài"
+    ],
+    [
+      "send money home",
+      "gửi tiền về quê"
+    ],
+    [
+      "trade networks",
+      "mạng lưới thương mại"
+    ],
+    [
+      "contribute more in taxes than they receive in benefits",
+      "đóng góp nhiều thuế hơn số trợ cấp họ nhận"
+    ],
+    [
+      "Rapid arrival can strain housing and services",
+      "việc đến nhanh có thể gây căng thẳng cho nhà ở và dịch vụ"
+    ],
+    [
+      "competition for jobs and lower wages",
+      "cạnh tranh việc làm và lương thấp hơn"
+    ],
+    [
+      "rents increase and schools become overcrowded",
+      "giá thuê tăng và trường học quá tải"
+    ],
+    [
+      "cheaper foreign workers",
+      "lao động nước ngoài rẻ hơn"
+    ],
+    [
+      "incentives to train local staff",
+      "động lực đào tạo nhân viên địa phương"
+    ],
+    [
+      "lose skilled workers through emigration",
+      "mất lao động có kỹ năng do di cư"
+    ],
+    [
+      "match visas to labour needs",
+      "gắn thị thực với nhu cầu lao động"
+    ],
+    [
+      "enforce labour standards",
+      "thực thi tiêu chuẩn lao động"
+    ]
+  ]
+}

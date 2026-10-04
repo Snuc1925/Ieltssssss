@@ -1,0 +1,127 @@
+{
+  "questionId": 485,
+  "text": "On a Saturday morning, stalls piled with heirloom tomatoes, unusual beans and rare fruits attract crowds in many towns, and this essay will discuss the role of local markets in preserving food diversity, focusing on traditional varieties and on small farmers.\n\nTo begin with, local markets preserve food diversity by giving small farmers a place to sell traditional varieties. Supermarkets favour a few uniform, long-lasting products, whereas market stalls sell local, seasonal and rare crops. A farmer who grows an old variety of apple that is sweet but bruises easily, for example, cannot supply a supermarket chain, but she can sell it at a market where customers appreciate its taste. Without this outlet, such crops would disappear because there would be no reason to grow them. Seeds that are passed from one generation to the next carry genetic variety that is valuable for resisting disease and climate change. Markets also let shoppers taste, ask questions and discover unfamiliar products.\n\nFurthermore, markets keep recipes and culture alive. Cooks learn from sellers how to prepare unusual vegetables, and traditional dishes depend on local ingredients that supermarkets do not stock. Direct sales give farmers a fairer share of the price, which helps them to stay on the land and to keep growing diverse crops. However, markets face competition from supermarkets and rising rents, and some sell the same imported goods as shops. Support for markets protects biodiversity and culture. Councils can offer cheap stall space, protect market sites in city centres and promote events that highlight local produce, while schools can teach children about traditional foods.\n\nIn conclusion, local markets play an important role in preserving food diversity by supporting small farmers and traditional crops, and they deserve public support.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò chợ địa phương trong bảo tồn đa dạng thực phẩm",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu quầy cà chua cổ, đậu lạ, trái hiếm; hai ý: giống truyền thống; nông dân nhỏ.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Cho nông dân nhỏ chỗ bán giống truyền thống: siêu thị ưa vài sản phẩm đồng nhất, bền; quầy chợ bán cây địa phương, theo mùa, hiếm; ví dụ nông dân trồng táo cổ ngọt nhưng dễ dập không cung cấp chuỗi siêu thị nhưng bán ở chợ khách quý vị; không có chỗ bán cây biến mất; hạt giống truyền đời có đa dạng gen chống bệnh, khí hậu; nếm, hỏi, khám phá.",
+        "refs": [
+          "ID-eco-local-markets",
+          "ID-eco-local-imported",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + khó khăn",
+        "think": "Giữ công thức, văn hoá: người nấu học cách chế biến rau lạ; món truyền thống cần nguyên liệu địa phương; bán trực tiếp phần giá công bằng giúp ở lại đất; nhưng cạnh tranh siêu thị, thuê tăng, vài chợ bán hàng nhập; hội đồng chỗ rẻ, bảo vệ vị trí, sự kiện, trường dạy món truyền thống.",
+        "refs": [
+          "ID-eco-local-markets",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò quan trọng, xứng đáng hỗ trợ công.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-local-markets"
+    ]
+  },
+  "chunks": [
+    [
+      "stalls piled with heirloom tomatoes, unusual beans and rare fruits",
+      "các quầy chất đầy cà chua giống cổ, đậu lạ và trái cây hiếm"
+    ],
+    [
+      "local markets in preserving food diversity",
+      "chợ địa phương trong việc bảo tồn sự đa dạng thực phẩm"
+    ],
+    [
+      "traditional varieties and on small farmers",
+      "các giống truyền thống và nông dân nhỏ"
+    ],
+    [
+      "a place to sell traditional varieties",
+      "nơi để bán các giống truyền thống"
+    ],
+    [
+      "a few uniform, long-lasting products",
+      "một vài sản phẩm đồng đều và bền lâu"
+    ],
+    [
+      "local, seasonal and rare crops",
+      "các loại cây trồng địa phương, theo mùa và quý hiếm"
+    ],
+    [
+      "an old variety of apple that is sweet but bruises easily",
+      "một giống táo cũ ngọt nhưng dễ bị dập"
+    ],
+    [
+      "supply a supermarket chain",
+      "cung cấp cho chuỗi siêu thị"
+    ],
+    [
+      "customers appreciate its taste",
+      "khách hàng trân trọng hương vị của nó"
+    ],
+    [
+      "would disappear",
+      "sẽ biến mất"
+    ],
+    [
+      "passed from one generation to the next",
+      "truyền từ thế hệ này sang thế hệ khác"
+    ],
+    [
+      "genetic variety that is valuable for resisting disease and climate change",
+      "sự đa dạng di truyền có giá trị trong việc chống bệnh và biến đổi khí hậu"
+    ],
+    [
+      "taste, ask questions and discover unfamiliar products",
+      "nếm thử, đặt câu hỏi và khám phá những sản phẩm lạ"
+    ],
+    [
+      "keep recipes and culture alive",
+      "giữ cho công thức và văn hoá sống mãi"
+    ],
+    [
+      "unusual vegetables",
+      "các loại rau lạ"
+    ],
+    [
+      "a fairer share of the price",
+      "phần giá công bằng hơn"
+    ],
+    [
+      "stay on the land",
+      "ở lại trên đất của mình"
+    ],
+    [
+      "competition from supermarkets and rising rents",
+      "cạnh tranh từ siêu thị và giá thuê tăng"
+    ],
+    [
+      "cheap stall space",
+      "chỗ bày quầy giá rẻ"
+    ],
+    [
+      "protect biodiversity and culture",
+      "bảo vệ đa dạng sinh học và văn hoá"
+    ]
+  ]
+}

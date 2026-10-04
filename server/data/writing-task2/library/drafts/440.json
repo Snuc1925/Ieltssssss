@@ -1,0 +1,124 @@
+{
+  "questionId": 440,
+  "text": "Some shoppers walk to a farmers' market for tomatoes grown ten kilometres away, while others buy mangoes flown across the world, and opinions differ on whether it is better to buy local produce or imported goods. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of local produce argue that it is fresher and supports farmers. Food grown nearby needs less transport and keeps money in the region. A family that buys vegetables from a farmer in the next village, for example, enjoys produce that was picked yesterday and helps to sustain local jobs. Short journeys mean lower emissions and less packaging, and consumers can learn how their food was grown. Local farms also preserve countryside and traditional varieties, and buying in season encourages a healthy variety of diets. In an emergency, a country with strong local agriculture is less dependent on foreign supply.\n\nOn the other hand, supporters of imported goods argue that they offer variety and lower prices. Imported goods supply out-of-season and exotic items often at a lower cost. A shopper in a cold country, for example, can eat fresh fruit in winter and enjoy tea, spices and coffee that cannot grow locally. Specialisation means that some regions can produce food much more efficiently, so that imported produce may even have a smaller carbon footprint than local greenhouse crops. Trade also provides income for farmers in developing countries. However, long supply chains can hide poor labour conditions, and the freshness of imports may be lower. A mix of both suits most households.\n\nIn conclusion, both views have merit. Overall, I believe that people should buy local produce in season when possible, but they can also enjoy imported goods that cannot be grown nearby.",
+  "analysis": {
+    "type_vi": "Discuss both views: mua nông sản địa phương hay hàng nhập khẩu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài tương phản cà chua trồng cách 10 km và xoài bay nửa vòng thế giới; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Địa phương",
+        "think": "Tươi, hỗ trợ nông dân: ít vận chuyển, giữ tiền trong vùng; ví dụ gia đình mua rau từ nông dân làng bên rau hái hôm qua duy trì việc làm địa phương; chuyến ngắn ít khí thải, bao bì; biết cách trồng; giữ nông thôn, giống truyền thống; mua theo mùa; khủng hoảng ít phụ thuộc nước ngoài.",
+        "refs": [
+          "ID-eco-local-imported",
+          "ID-eco-local-markets"
+        ]
+      },
+      {
+        "step": "3. Nhập khẩu",
+        "think": "Đa dạng, giá thấp: hàng trái mùa, lạ giá rẻ; ví dụ người mua ở nước lạnh ăn trái cây tươi mùa đông, trà, gia vị, cà phê không trồng được; chuyên môn hoá hiệu quả hơn, có thể dấu chân carbon thấp hơn nhà kính địa phương; thu nhập cho nông dân nước đang phát triển; nhược: chuỗi cung ứng dài che điều kiện lao động, độ tươi thấp; kết hợp.",
+        "refs": [
+          "ID-eco-local-imported",
+          "ID-eco-global-trade",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Địa phương theo mùa khi có thể, nhập khẩu cho thứ không trồng gần.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-local-imported"
+    ]
+  },
+  "chunks": [
+    [
+      "a farmers' market",
+      "chợ nông sản"
+    ],
+    [
+      "tomatoes grown ten kilometres away",
+      "cà chua trồng cách đó mười km"
+    ],
+    [
+      "mangoes flown across the world",
+      "xoài được vận chuyển bằng đường hàng không qua nửa vòng trái đất"
+    ],
+    [
+      "local produce or imported goods",
+      "nông sản địa phương hay hàng nhập khẩu"
+    ],
+    [
+      "fresher and supports farmers",
+      "tươi hơn và hỗ trợ nông dân"
+    ],
+    [
+      "Food grown nearby needs less transport",
+      "thực phẩm trồng gần đó cần ít vận chuyển hơn"
+    ],
+    [
+      "keeps money in the region",
+      "giữ tiền trong khu vực"
+    ],
+    [
+      "picked yesterday",
+      "được hái hôm qua"
+    ],
+    [
+      "sustain local jobs",
+      "duy trì việc làm địa phương"
+    ],
+    [
+      "lower emissions and less packaging",
+      "khí thải thấp hơn và ít bao bì hơn"
+    ],
+    [
+      "preserve countryside and traditional varieties",
+      "bảo tồn vùng nông thôn và các giống truyền thống"
+    ],
+    [
+      "buying in season",
+      "mua theo mùa"
+    ],
+    [
+      "less dependent on foreign supply",
+      "ít phụ thuộc vào nguồn cung nước ngoài"
+    ],
+    [
+      "variety and lower prices",
+      "sự đa dạng và giá thấp hơn"
+    ],
+    [
+      "out-of-season and exotic items",
+      "hàng trái mùa và hàng ngoại lai"
+    ],
+    [
+      "tea, spices and coffee that cannot grow locally",
+      "trà, gia vị và cà phê không thể trồng tại địa phương"
+    ],
+    [
+      "a smaller carbon footprint than local greenhouse crops",
+      "dấu chân carbon nhỏ hơn cây trồng nhà kính địa phương"
+    ],
+    [
+      "income for farmers in developing countries",
+      "thu nhập cho nông dân ở các nước đang phát triển"
+    ],
+    [
+      "Long supply chains can hide poor labour conditions",
+      "chuỗi cung ứng dài có thể che giấu điều kiện lao động tồi tệ"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 421,
+  "text": "In some countries, shops, buses and even street vendors no longer accept banknotes, and the question is whether the advantages of a cashless economy outweigh privacy concerns. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, a cashless economy is efficient and harder to abuse. Payments are fast and transactions can be tracked, which reduces crime. A trader who accepts only electronic payments, for example, no longer has to guard a till full of notes or visit the bank each evening, and customers can pay with a touch. Because every payment leaves a record, tax evasion, bribery and money laundering become more difficult, and governments collect more revenue. Printing, transporting and counting cash is expensive, so a digital system saves money. Digital payments also make online business and international trade easier and provide data that help banks to offer credit to people with no collateral.\n\nOn the negative side, privacy concerns and exclusion are serious. Every purchase becomes visible to banks and, potentially, to governments and advertisers. A person who buys medicine or donates to a political cause, for example, may not want that information to be stored and analysed. Data leaks and hacking could expose millions of customers, and a system failure can leave citizens unable to buy food. Elderly people, the poor and visitors may lack access to digital payments. Cash should remain an option, and laws should protect personal data by limiting what banks and companies may record and share, giving customers control over its use and punishing misuse severely. Offering anonymous low-value digital payments could also reduce the risk.\n\nIn conclusion, a cashless economy offers efficiency and security against crime, but it raises real privacy problems. On balance, I believe that the benefits outweigh the concerns only if strong data protection and cash alternatives are guaranteed.",
+  "analysis": {
+    "type_vi": "A/D: nền kinh tế không tiền mặt vs riêng tư (cùng chủ đề #159, thiên về riêng tư)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu cửa hàng, xe buýt, người bán rong không nhận tiền giấy; kết luận có điều kiện.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Hiệu quả, khó lạm dụng: thanh toán nhanh, theo dõi giảm tội phạm; ví dụ người bán chỉ nhận điện tử không giữ quầy tiền mặt, không ra ngân hàng mỗi tối, khách chạm; ghi lại khó trốn thuế, hối lộ, rửa tiền, chính phủ thu nhiều; in, vận chuyển, đếm tiền tốn kém; mua online, thương mại quốc tế; dữ liệu giúp ngân hàng cho vay.",
+        "refs": [
+          "ID-eco-cashless",
+          "ID-eco-cash-digital"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Riêng tư, loại trừ: mọi giao dịch lộ cho ngân hàng, chính phủ, nhà quảng cáo; ví dụ người mua thuốc, quyên góp chính trị không muốn lưu, phân tích; rò rỉ, hack lộ hàng triệu; sự cố khiến không mua được thức ăn; người già, nghèo, du khách thiếu thanh toán số; giữ tiền mặt; luật bảo vệ dữ liệu: hạn chế ghi, chia sẻ, kiểm soát, phạt nặng; thanh toán số ẩn danh giá trị thấp.",
+        "refs": [
+          "ID-eco-cashless",
+          "ID-tech-privacy-disappearing",
+          "ID-tech-biometric",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi ích vượt lo ngại chỉ nếu bảo vệ dữ liệu mạnh, giữ tiền mặt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "shops, buses and even street vendors no longer accept banknotes",
+      "cửa hàng, xe buýt và thậm chí người bán rong không còn nhận tiền giấy"
+    ],
+    [
+      "a cashless economy",
+      "một nền kinh tế không tiền mặt"
+    ],
+    [
+      "privacy concerns",
+      "mối lo ngại về quyền riêng tư"
+    ],
+    [
+      "efficient and harder to abuse",
+      "hiệu quả và khó bị lạm dụng hơn"
+    ],
+    [
+      "Payments are fast and transactions can be tracked",
+      "thanh toán nhanh và giao dịch có thể được theo dõi"
+    ],
+    [
+      "accepts only electronic payments",
+      "chỉ chấp nhận thanh toán điện tử"
+    ],
+    [
+      "guard a till full of notes",
+      "trông giữ quầy đầy tiền giấy"
+    ],
+    [
+      "visit the bank each evening",
+      "đến ngân hàng mỗi tối"
+    ],
+    [
+      "pay with a touch",
+      "thanh toán bằng một lần chạm"
+    ],
+    [
+      "tax evasion, bribery and money laundering",
+      "trốn thuế, hối lộ và rửa tiền"
+    ],
+    [
+      "Printing, transporting and counting cash is expensive",
+      "in, vận chuyển và đếm tiền mặt thì tốn kém"
+    ],
+    [
+      "online business and international trade",
+      "kinh doanh trực tuyến và thương mại quốc tế"
+    ],
+    [
+      "offer credit to people with no collateral",
+      "cung cấp tín dụng cho người không có tài sản thế chấp"
+    ],
+    [
+      "Every purchase becomes visible to banks",
+      "mọi giao dịch mua đều hiển thị với ngân hàng"
+    ],
+    [
+      "buys medicine or donates to a political cause",
+      "mua thuốc hoặc quyên góp cho một mục đích chính trị"
+    ],
+    [
+      "stored and analysed",
+      "được lưu trữ và phân tích"
+    ],
+    [
+      "Data leaks and hacking",
+      "rò rỉ dữ liệu và tấn công mạng"
+    ],
+    [
+      "unable to buy food",
+      "không thể mua thực phẩm"
+    ],
+    [
+      "Elderly people, the poor and visitors",
+      "người cao tuổi, người nghèo và du khách"
+    ],
+    [
+      "limiting what banks and companies may record and share",
+      "hạn chế những gì ngân hàng và công ty được ghi và chia sẻ"
+    ],
+    [
+      "anonymous low-value digital payments",
+      "thanh toán số ẩn danh giá trị thấp"
+    ]
+  ]
+}

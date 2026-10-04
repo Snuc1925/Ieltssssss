@@ -1,0 +1,135 @@
+{
+  "questionId": 490,
+  "text": "Cars, food, medicines and electronics are recalled because of defects almost every week, and many people say that quality control in manufacturing is insufficient. I agree to some extent, since cost-cutting and long supply chains often outweigh inspection, although leading firms invest heavily in testing.\n\nTo begin with, quality control is insufficient where cost-cutting and long supply chains outweigh inspection. Recalls of cars, food and electronics show that defects pass checks when companies rush or outsource. A carmaker that discovers a faulty airbag only after millions of vehicles have been sold, for example, shows that its testing did not detect a problem that affected safety and cost lives. Parts are often made by dozens of suppliers in several countries, and a company may not know how each one is produced. Pressure to cut prices and to launch products quickly encourages shortcuts, and inspectors who are few in number cannot check every batch. Cheap goods sold online sometimes bypass inspection altogether.\n\nHowever, many leading firms invest heavily in testing, and quality has improved in many industries. Automated cameras and sensors inspect products at high speed, and statistical methods identify problems early. A modern electronics factory, for example, may test every component and run each device through hours of stress tests before it leaves the line. Strict standards in aircraft and medicine are enforced and have produced very low failure rates. Inspection must be independent and continuous. Governments should require traceability of parts, fund independent testing, impose heavy penalties for hiding defects and protect employees who report problems, while companies should treat quality as a priority and not as a cost.\n\nIn conclusion, I agree to some extent that quality control in manufacturing is insufficient, particularly where cost pressure is strong, but good systems exist and can be spread more widely.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: kiểm soát chất lượng sản xuất chưa đủ — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thu hồi sản phẩm gần như hằng tuần; agree một phần.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Chưa đủ khi cắt giảm chi phí, chuỗi cung ứng dài lấn át kiểm tra: thu hồi xe, thực phẩm, điện tử cho thấy lỗi lọt khi vội hoặc thuê ngoài; ví dụ hãng xe phát hiện túi khí lỗi sau hàng triệu xe cho thấy thử nghiệm bỏ sót, ảnh hưởng an toàn, mất mạng; linh kiện bởi hàng chục nhà cung cấp nhiều nước không biết từng nơi; áp lực giá, ra mắt nhanh tạo lối tắt; thanh tra ít không kiểm hết lô; hàng rẻ online né kiểm tra.",
+        "refs": [
+          "ID-eco-quality-control",
+          "ID-eco-consumer-protection",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Nhiều hãng hàng đầu đầu tư lớn: camera, cảm biến tự động kiểm nhanh, thống kê phát hiện sớm; ví dụ nhà máy điện tử hiện đại thử từng linh kiện, chạy mỗi thiết bị hàng giờ kiểm tra căng thẳng; tiêu chuẩn nghiêm ở hàng không, y tế tỷ lệ hỏng thấp; kiểm tra độc lập, liên tục: truy xuất linh kiện, tài trợ kiểm nghiệm độc lập, phạt nặng giấu lỗi, bảo vệ người tố giác; công ty coi chất lượng là ưu tiên.",
+        "refs": [
+          "ID-eco-quality-control",
+          "ID-tech-ev-subsidy",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree một phần, nhất là nơi áp lực chi phí mạnh; hệ thống tốt có thể lan rộng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-quality-control"
+    ]
+  },
+  "chunks": [
+    [
+      "recalled because of defects",
+      "bị thu hồi vì lỗi"
+    ],
+    [
+      "quality control in manufacturing is insufficient",
+      "kiểm soát chất lượng trong sản xuất là chưa đủ"
+    ],
+    [
+      "cost-cutting and long supply chains often outweigh inspection",
+      "cắt giảm chi phí và chuỗi cung ứng dài thường lấn át việc kiểm tra"
+    ],
+    [
+      "Recalls of cars, food and electronics",
+      "việc thu hồi ô tô, thực phẩm và đồ điện tử"
+    ],
+    [
+      "defects pass checks when companies rush or outsource",
+      "lỗi lọt qua kiểm tra khi công ty vội vàng hoặc thuê ngoài"
+    ],
+    [
+      "a faulty airbag",
+      "một túi khí bị lỗi"
+    ],
+    [
+      "millions of vehicles have been sold",
+      "hàng triệu xe đã được bán"
+    ],
+    [
+      "did not detect a problem that affected safety",
+      "không phát hiện vấn đề ảnh hưởng đến an toàn"
+    ],
+    [
+      "dozens of suppliers in several countries",
+      "hàng chục nhà cung cấp ở nhiều quốc gia"
+    ],
+    [
+      "Pressure to cut prices and to launch products quickly",
+      "áp lực cắt giảm giá và ra mắt sản phẩm nhanh"
+    ],
+    [
+      "shortcuts",
+      "lối tắt"
+    ],
+    [
+      "inspectors who are few in number",
+      "các thanh tra viên số lượng ít"
+    ],
+    [
+      "bypass inspection",
+      "bỏ qua việc kiểm tra"
+    ],
+    [
+      "invest heavily in testing",
+      "đầu tư mạnh vào kiểm nghiệm"
+    ],
+    [
+      "Automated cameras and sensors inspect products at high speed",
+      "camera và cảm biến tự động kiểm tra sản phẩm với tốc độ cao"
+    ],
+    [
+      "statistical methods",
+      "phương pháp thống kê"
+    ],
+    [
+      "test every component",
+      "kiểm tra từng linh kiện"
+    ],
+    [
+      "stress tests",
+      "bài kiểm tra chịu tải"
+    ],
+    [
+      "very low failure rates",
+      "tỷ lệ hỏng hóc rất thấp"
+    ],
+    [
+      "independent and continuous",
+      "độc lập và liên tục"
+    ],
+    [
+      "traceability of parts",
+      "khả năng truy xuất nguồn gốc linh kiện"
+    ],
+    [
+      "protect employees who report problems",
+      "bảo vệ nhân viên báo cáo vấn đề"
+    ]
+  ]
+}

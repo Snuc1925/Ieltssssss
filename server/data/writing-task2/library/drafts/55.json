@@ -1,0 +1,121 @@
+{
+  "questionId": 55,
+  "text": "Governments need money for hospitals, schools and roads, and some believe that private companies should pay more taxes. I agree to a large extent, since companies benefit from public services and should contribute fairly, although very high rates can reduce investment.\n\nTo begin with, companies should pay a fair share of tax. Firms use roads, courts and educated workers, so their taxes pay for them. A factory that depends on a highway to deliver goods and on local schools to produce skilled staff, for example, gains from public spending and should help to finance it. Many large companies pay far less than individuals do, because they use accounting arrangements to move profits to low-tax countries. Higher contributions from them would reduce the burden on ordinary workers and allow governments to improve services without raising personal taxes. Public trust also increases when citizens see that powerful firms pay their way.\n\nHowever, excessive rates may discourage expansion or push profits abroad. If taxes are too high, firms may hire fewer people, raise prices or move their headquarters to countries with lower rates. A start-up that needs every pound to grow, for example, could be harmed by heavy taxation before it makes any profit. Closing loopholes matters more than higher rates. Governments should ensure that existing rules are applied, prevent artificial transfers of profit and cooperate internationally to set a minimum rate, while offering incentives for research and investment. Small companies may need lower rates than large multinationals, which have greater ability to pay.\n\nIn conclusion, I agree that private companies should pay more tax, provided that the system is fair and does not discourage genuine investment.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): doanh nghiệp tư nhân nên đóng thêm thuế — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ cần tiền cho bệnh viện, trường, đường; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Công bằng: dùng đường, toà án, lao động có học; ví dụ nhà máy dựa vào đường cao tốc và trường địa phương có lợi từ chi tiêu công nên góp; nhiều công ty lớn trả ít hơn cá nhân vì chuyển lợi nhuận sang nước thuế thấp; đóng góp cao giảm gánh cho người lao động, cải thiện dịch vụ; niềm tin công chúng.",
+        "refs": [
+          "ID-eco-corporate-tax",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Thuế quá cao làm nản mở rộng, đẩy lợi nhuận ra nước ngoài: thuê ít, tăng giá, chuyển trụ sở; ví dụ công ty khởi nghiệp cần từng đồng tăng trưởng hại bởi thuế nặng; bịt kẽ hở quan trọng hơn tăng suất; áp dụng quy tắc, ngăn chuyển lợi nhuận giả, hợp tác quốc tế mức tối thiểu, ưu đãi nghiên cứu; công ty nhỏ mức thấp hơn.",
+        "refs": [
+          "ID-eco-corporate-tax",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu hệ thống công bằng, không làm nản đầu tư thực.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-corporate-tax"
+    ]
+  },
+  "chunks": [
+    [
+      "hospitals, schools and roads",
+      "bệnh viện, trường học và đường sá"
+    ],
+    [
+      "private companies should pay more taxes",
+      "doanh nghiệp tư nhân nên đóng thuế nhiều hơn"
+    ],
+    [
+      "benefit from public services",
+      "hưởng lợi từ dịch vụ công"
+    ],
+    [
+      "pay a fair share of tax",
+      "đóng phần thuế công bằng"
+    ],
+    [
+      "use roads, courts and educated workers",
+      "sử dụng đường sá, toà án và lao động có học"
+    ],
+    [
+      "depends on a highway to deliver goods",
+      "phụ thuộc vào đường cao tốc để giao hàng"
+    ],
+    [
+      "skilled staff",
+      "nhân viên có kỹ năng"
+    ],
+    [
+      "gains from public spending",
+      "hưởng lợi từ chi tiêu công"
+    ],
+    [
+      "pay far less than individuals do",
+      "trả ít hơn nhiều so với các cá nhân"
+    ],
+    [
+      "accounting arrangements to move profits to low-tax countries",
+      "cách sắp xếp kế toán để chuyển lợi nhuận sang các nước thuế thấp"
+    ],
+    [
+      "reduce the burden on ordinary workers",
+      "giảm gánh nặng cho người lao động bình thường"
+    ],
+    [
+      "improve services without raising personal taxes",
+      "cải thiện dịch vụ mà không tăng thuế cá nhân"
+    ],
+    [
+      "pay their way",
+      "tự chi trả phần của mình"
+    ],
+    [
+      "discourage expansion or push profits abroad",
+      "làm nản việc mở rộng hoặc đẩy lợi nhuận ra nước ngoài"
+    ],
+    [
+      "move their headquarters",
+      "dời trụ sở"
+    ],
+    [
+      "every pound to grow",
+      "từng đồng bảng để phát triển"
+    ],
+    [
+      "Closing loopholes matters more than higher rates",
+      "bịt kẽ hở quan trọng hơn tăng thuế suất"
+    ],
+    [
+      "a minimum rate",
+      "một mức thuế tối thiểu"
+    ],
+    [
+      "incentives for research and investment",
+      "ưu đãi cho nghiên cứu và đầu tư"
+    ]
+  ]
+}

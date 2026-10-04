@@ -1,0 +1,122 @@
+{
+  "questionId": 390,
+  "text": "Several countries have tested the idea of giving every adult a regular payment, whatever their income, and this essay will discuss the advantages and disadvantages of universal basic income before explaining my own view.\n\nOn the positive side, universal basic income reduces poverty and insecurity. A guaranteed payment gives everyone a floor, lets people retrain or care for family and replaces complex benefits. A woman who loses her job, for example, can pay for rent and food while she studies for a new career, without waiting for officials to assess her case. Because the money is paid to everyone, there is no stigma and no complicated test, which reduces administration costs and the number of people who fail to claim support. Experiments in Finland and Kenya suggest that recipients often experience less stress and better health. As automation removes some jobs, a basic income could protect people from sudden unemployment and encourage entrepreneurship, since failure is less frightening.\n\nOn the negative side, universal basic income is very costly and may weaken work incentives. Paying everyone needs high taxes or cuts in other services, and some of the money goes to people who do not need it. Critics fear that some recipients will work less, though research so far shows small effects. A payment that is too low will not end poverty, while one that is generous may cause inflation, since prices adjust to extra spending power. Pilot schemes should test the effects first. Governments can start with targeted groups or regions, measure the results on jobs, health and spending and then decide whether to expand.\n\nIn conclusion, basic income has attractive benefits but serious costs. On balance, I believe that its advantages justify careful testing, although a full national scheme should only follow convincing evidence.",
+  "analysis": {
+    "type_vi": "A/D: thu nhập cơ bản phổ quát",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu một số nước thử trả định kỳ cho mọi người lớn; kết luận cần thử nghiệm thận trọng.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Giảm nghèo, bất an: khoản bảo đảm là nền, cho đào tạo lại, chăm sóc gia đình, thay phúc lợi phức tạp; ví dụ người phụ nữ mất việc trả thuê, ăn trong khi học nghề mới không chờ xét; trả mọi người nên không kỳ thị, không kiểm tra, giảm chi quản lý, số người không xin; thử nghiệm Phần Lan, Kenya ít căng thẳng, khoẻ hơn; tự động hoá, khởi nghiệp.",
+        "refs": [
+          "ID-eco-ubi",
+          "ID-work-ai"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Rất tốn, có thể yếu động lực làm việc: thuế cao hoặc cắt dịch vụ, tiền đến người không cần; sợ giảm làm việc, nghiên cứu hiệu ứng nhỏ; thấp không hết nghèo, hào phóng lạm phát; thử nghiệm: nhóm, vùng mục tiêu, đo việc làm, sức khoẻ, chi tiêu rồi mở rộng.",
+        "refs": [
+          "ID-eco-ubi",
+          "ID-eco-minimum-wage",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thử nghiệm cẩn thận; chương trình quốc gia sau bằng chứng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-ubi"
+    ]
+  },
+  "chunks": [
+    [
+      "giving every adult a regular payment",
+      "trả định kỳ cho mọi người trưởng thành"
+    ],
+    [
+      "universal basic income",
+      "thu nhập cơ bản phổ quát"
+    ],
+    [
+      "reduces poverty and insecurity",
+      "giảm nghèo đói và bất an"
+    ],
+    [
+      "A guaranteed payment gives everyone a floor",
+      "khoản thanh toán được đảm bảo tạo cho mọi người một mức nền"
+    ],
+    [
+      "retrain or care for family",
+      "đào tạo lại hoặc chăm sóc gia đình"
+    ],
+    [
+      "replaces complex benefits",
+      "thay thế các khoản trợ cấp phức tạp"
+    ],
+    [
+      "pay for rent and food while she studies for a new career",
+      "trả tiền thuê nhà và thức ăn trong khi cô học nghề mới"
+    ],
+    [
+      "wait for officials to assess her case",
+      "chờ viên chức xem xét trường hợp của cô"
+    ],
+    [
+      "no stigma and no complicated test",
+      "không bị kỳ thị và không có bài kiểm tra phức tạp"
+    ],
+    [
+      "fail to claim support",
+      "không xin được hỗ trợ"
+    ],
+    [
+      "Experiments in Finland and Kenya",
+      "các thử nghiệm ở Phần Lan và Kenya"
+    ],
+    [
+      "less stress and better health",
+      "ít căng thẳng và sức khoẻ tốt hơn"
+    ],
+    [
+      "encourage entrepreneurship",
+      "khuyến khích tinh thần kinh doanh"
+    ],
+    [
+      "very costly and may weaken work incentives",
+      "rất tốn kém và có thể làm yếu động lực làm việc"
+    ],
+    [
+      "high taxes or cuts in other services",
+      "thuế cao hoặc cắt giảm dịch vụ khác"
+    ],
+    [
+      "work less",
+      "làm việc ít hơn"
+    ],
+    [
+      "cause inflation",
+      "gây ra lạm phát"
+    ],
+    [
+      "Pilot schemes should test the effects first",
+      "các chương trình thí điểm nên kiểm tra tác động trước"
+    ],
+    [
+      "targeted groups or regions",
+      "nhóm hoặc khu vực mục tiêu"
+    ]
+  ]
+}

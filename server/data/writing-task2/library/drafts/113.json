@@ -1,0 +1,124 @@
+{
+  "questionId": 113,
+  "text": "Parcels arrive at doors every day, and many shopping streets have empty units, so the question is how far online shopping will change retail within twenty years. I believe that it will transform retail greatly, although physical shops will survive as experience centres.\n\nTo begin with, convenience, price comparison and home delivery draw customers online. Shoppers can buy anything at any hour, compare prices in seconds and have the goods brought to their door. A busy parent who orders groceries, clothes and a birthday present in one evening, for example, saves hours of travel and queues. Companies without shops can sell at lower prices, because they save on rent and staff, and new technologies such as virtual fitting rooms and faster delivery will make online purchases even more attractive. Many chains have already closed branches, and the share of internet sales continues to rise each year, especially among young consumers.\n\nHowever, people still want to try clothes, see goods and enjoy shopping as a social activity. Some products, such as fresh food, furniture and luxury items, are better judged in person, and returns of unsuitable goods are a nuisance and a cost. Shops that offer expert advice, comfortable surroundings and events can attract visitors, and many online companies are opening physical stores to build trust. Retailers will therefore combine online and in-store services, for example by letting customers order on a website and collect goods at the shop. The high street will become smaller but more focused on experience, while delivery and warehouses will expand.\n\nIn conclusion, online shopping will change retail to a very large extent over the next twenty years, but physical shops will not disappear.",
+  "analysis": {
+    "type_vi": "Extent: mua sắm trực tuyến thay đổi bán lẻ đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu bưu kiện đến cửa mỗi ngày, nhiều ô trống ở phố mua sắm; đáp: thay đổi lớn nhưng cửa hàng vẫn tồn tại như trung tâm trải nghiệm.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Tiện, so sánh giá, giao tận nhà kéo khách online: mua bất cứ giờ nào, so giá giây; ví dụ phụ huynh bận đặt thực phẩm, quần áo, quà sinh nhật một tối tiết kiệm đi lại, xếp hàng; không cửa hàng bán rẻ hơn vì tiết kiệm thuê, nhân viên; phòng thử ảo, giao nhanh; nhiều chuỗi đóng chi nhánh, tỷ trọng bán internet tăng, nhất là người trẻ.",
+        "refs": [
+          "ID-eco-online-retail",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Người vẫn muốn thử đồ, xem hàng, mua sắm như hoạt động xã hội: thực phẩm tươi, nội thất, hàng xa xỉ đánh giá trực tiếp; trả hàng phiền, tốn; cửa hàng tư vấn, môi trường thoải mái, sự kiện; công ty online mở cửa hàng tạo tin cậy; kết hợp: đặt web, lấy ở cửa hàng; phố mua sắm nhỏ hơn tập trung trải nghiệm.",
+        "refs": [
+          "ID-eco-online-retail",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi rất lớn, cửa hàng không biến mất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-online-retail"
+    ]
+  },
+  "chunks": [
+    [
+      "Parcels arrive at doors every day",
+      "bưu kiện đến tận cửa mỗi ngày"
+    ],
+    [
+      "empty units",
+      "các mặt bằng bỏ trống"
+    ],
+    [
+      "online shopping will change retail",
+      "mua sắm trực tuyến sẽ thay đổi ngành bán lẻ"
+    ],
+    [
+      "experience centres",
+      "trung tâm trải nghiệm"
+    ],
+    [
+      "convenience, price comparison and home delivery",
+      "sự tiện lợi, so sánh giá và giao hàng tận nhà"
+    ],
+    [
+      "compare prices in seconds",
+      "so sánh giá trong vài giây"
+    ],
+    [
+      "goods brought to their door",
+      "hàng hoá được mang đến tận cửa"
+    ],
+    [
+      "orders groceries, clothes and a birthday present in one evening",
+      "đặt thực phẩm, quần áo và quà sinh nhật trong một buổi tối"
+    ],
+    [
+      "saves hours of travel and queues",
+      "tiết kiệm hàng giờ đi lại và xếp hàng"
+    ],
+    [
+      "save on rent and staff",
+      "tiết kiệm tiền thuê và nhân viên"
+    ],
+    [
+      "virtual fitting rooms",
+      "phòng thử đồ ảo"
+    ],
+    [
+      "closed branches",
+      "đóng chi nhánh"
+    ],
+    [
+      "the share of internet sales continues to rise",
+      "tỷ trọng doanh số bán qua internet tiếp tục tăng"
+    ],
+    [
+      "try clothes, see goods and enjoy shopping as a social activity",
+      "thử quần áo, xem hàng và tận hưởng việc mua sắm như một hoạt động xã hội"
+    ],
+    [
+      "fresh food, furniture and luxury items",
+      "thực phẩm tươi, đồ nội thất và hàng xa xỉ"
+    ],
+    [
+      "returns of unsuitable goods",
+      "việc trả lại hàng không phù hợp"
+    ],
+    [
+      "expert advice, comfortable surroundings and events",
+      "lời tư vấn chuyên gia, không gian thoải mái và sự kiện"
+    ],
+    [
+      "build trust",
+      "xây dựng lòng tin"
+    ],
+    [
+      "order on a website and collect goods at the shop",
+      "đặt hàng trên website và nhận hàng tại cửa hàng"
+    ],
+    [
+      "warehouses will expand",
+      "các kho hàng sẽ mở rộng"
+    ]
+  ]
+}

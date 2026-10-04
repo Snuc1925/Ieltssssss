@@ -1,0 +1,119 @@
+{
+  "questionId": 165,
+  "text": "Governments often cut taxes for firms that invest in research, and opinions differ on whether tax incentives encourage innovation. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters argue that tax incentives encourage innovation. Credits reduce the cost of research and attract firms. A pharmaceutical company that can deduct part of its laboratory spending from its tax bill, for example, may decide to hire more scientists and test more drugs. Because new ideas often benefit society more than the firm that produces them, public support can correct this imbalance. Countries such as Ireland and Singapore have used low taxes and research credits to attract technology companies and to create highly skilled jobs. Incentives are also simple to administer compared with grants, and they allow businesses rather than officials to choose projects.\n\nOn the other hand, critics argue that incentives do not guarantee innovation. Companies may claim them for work that they would have done anyway, and the lost revenue is spent on activities that produce no new ideas. A large firm that relabels routine product tests as research, for example, receives a tax benefit without improving anything. Tax breaks mainly help profitable firms, while start-ups with no profits gain little. Direct grants, public laboratories and links with universities can be more effective and easier to focus on important problems. Incentives need clear targets and review. Governments should define research carefully, check that claims are genuine, cap benefits and evaluate whether the spending actually leads to patents, products and jobs.\n\nIn conclusion, both views have merit. Overall, I believe that tax incentives can help innovation, but only when they are well designed and combined with direct support for research.",
+  "analysis": {
+    "type_vi": "Discuss both views: ưu đãi thuế có khuyến khích đổi mới",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ giảm thuế cho công ty đầu tư nghiên cứu; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ủng hộ",
+        "think": "Khuyến khích đổi mới: tín dụng giảm chi phí nghiên cứu, thu hút công ty; ví dụ công ty dược khấu trừ chi phí phòng thí nghiệm có thể thuê thêm nhà khoa học, thử thêm thuốc; ý tưởng mới lợi xã hội hơn công ty nên hỗ trợ công sửa mất cân bằng; Ireland, Singapore thuế thấp, tín dụng nghiên cứu thu hút công ty công nghệ, việc làm kỹ năng; dễ quản lý, doanh nghiệp tự chọn dự án.",
+        "refs": [
+          "ID-eco-tax-incentives-innovation",
+          "ID-tech-research-vs-services"
+        ]
+      },
+      {
+        "step": "3. Phê phán",
+        "think": "Không đảm bảo đổi mới: công ty khai cho việc vẫn làm, mất thu không tạo ý tưởng mới; ví dụ hãng lớn gắn nhãn thử nghiệm sản phẩm thường lệ là nghiên cứu nhận ưu đãi; chủ yếu giúp công ty có lãi, khởi nghiệp chưa lãi ít hưởng; trợ cấp trực tiếp, phòng thí nghiệm công, liên kết đại học hiệu quả hơn; mục tiêu rõ, rà soát: định nghĩa nghiên cứu, kiểm tra, trần, đánh giá bằng sáng chế, sản phẩm, việc làm.",
+        "refs": [
+          "ID-eco-tax-incentives-innovation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giúp khi thiết kế tốt kèm hỗ trợ trực tiếp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-tax-incentives-innovation"
+    ]
+  },
+  "chunks": [
+    [
+      "cut taxes for firms that invest in research",
+      "cắt thuế cho các công ty đầu tư vào nghiên cứu"
+    ],
+    [
+      "tax incentives encourage innovation",
+      "ưu đãi thuế khuyến khích đổi mới"
+    ],
+    [
+      "Credits reduce the cost of research and attract firms",
+      "tín dụng thuế giảm chi phí nghiên cứu và thu hút công ty"
+    ],
+    [
+      "deduct part of its laboratory spending from its tax bill",
+      "khấu trừ một phần chi phí phòng thí nghiệm khỏi hoá đơn thuế"
+    ],
+    [
+      "hire more scientists and test more drugs",
+      "thuê thêm nhà khoa học và thử nghiệm thêm thuốc"
+    ],
+    [
+      "new ideas often benefit society more than the firm that produces them",
+      "ý tưởng mới thường có lợi cho xã hội hơn công ty tạo ra chúng"
+    ],
+    [
+      "public support can correct this imbalance",
+      "hỗ trợ công có thể sửa sự mất cân bằng này"
+    ],
+    [
+      "research credits",
+      "tín dụng nghiên cứu"
+    ],
+    [
+      "highly skilled jobs",
+      "việc làm kỹ năng cao"
+    ],
+    [
+      "simple to administer compared with grants",
+      "đơn giản để quản lý so với trợ cấp"
+    ],
+    [
+      "do not guarantee innovation",
+      "không đảm bảo sự đổi mới"
+    ],
+    [
+      "claim them for work that they would have done anyway",
+      "xin chúng cho công việc mà dù sao họ cũng sẽ làm"
+    ],
+    [
+      "relabels routine product tests as research",
+      "gắn lại nhãn các thử nghiệm sản phẩm thường lệ thành nghiên cứu"
+    ],
+    [
+      "start-ups with no profits",
+      "các công ty khởi nghiệp chưa có lợi nhuận"
+    ],
+    [
+      "Direct grants, public laboratories and links with universities",
+      "trợ cấp trực tiếp, phòng thí nghiệm công và liên kết với đại học"
+    ],
+    [
+      "clear targets and review",
+      "mục tiêu rõ ràng và việc rà soát"
+    ],
+    [
+      "cap benefits",
+      "đặt trần cho ưu đãi"
+    ],
+    [
+      "patents, products and jobs",
+      "bằng sáng chế, sản phẩm và việc làm"
+    ]
+  ]
+}

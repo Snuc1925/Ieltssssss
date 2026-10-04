@@ -1,0 +1,126 @@
+{
+  "questionId": 218,
+  "text": "Some people put aside part of every salary, while others enjoy their money as they earn it, and opinions differ on whether it is better to save or to spend freely. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of saving argue that it brings security. Savers can meet emergencies and long-term goals. A family with several months of income in the bank, for example, can survive the loss of a job or an unexpected hospital bill without borrowing, and they can pay a deposit on a home or finance their children's education. Saving encourages discipline and reduces stress, because people feel more in control of their future. In old age, savings supplement a pension. Money that is saved and invested also provides funds for businesses to grow, so that it benefits the wider economy.\n\nOn the other hand, supporters of spending argue that life should be enjoyed now and that spending supports the economy. Those who never spend miss experiences, and nobody can be sure that they will live to enjoy their savings. A young couple who use their money to travel together, for example, create memories that last for life. Spending also supports shops, restaurants and jobs, and when consumers cut back too much, the economy slows. However, heavy spenders risk debt, and a sudden loss of income can lead to serious difficulty. A budget with both is most sensible. Many financial advisers suggest using a fixed share of income for needs, for wants and for saving, which allows people to enjoy the present while preparing for the future.\n\nIn conclusion, both views have merit. Overall, I believe that a balance between saving and spending is wisest, with enough saving to be secure and enough spending to enjoy life.",
+  "analysis": {
+    "type_vi": "Discuss both views: tiết kiệm hay chi tiêu thoải mái",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người để dành lương, người hưởng ngay; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Tiết kiệm",
+        "think": "An toàn: ứng phó khẩn cấp, mục tiêu dài hạn; ví dụ gia đình có thu nhập vài tháng trong ngân hàng sống sót khi mất việc, hoá đơn bệnh viện không vay, trả tiền đặt cọc nhà, học phí con; kỷ luật, giảm căng thẳng; tuổi già bổ sung lương hưu; tiền đầu tư cho doanh nghiệp.",
+        "refs": [
+          "ID-eco-save-spend",
+          "ID-work-retirement-plan"
+        ]
+      },
+      {
+        "step": "3. Chi tiêu",
+        "think": "Hưởng hiện tại, hỗ trợ kinh tế: không chi bỏ lỡ trải nghiệm, không chắc sống để hưởng; ví dụ cặp trẻ du lịch tạo ký ức cả đời; chi tiêu nuôi cửa hàng, nhà hàng, việc làm; cắt quá nhiều kinh tế chậm; nhưng chi nhiều nợ, mất thu nhập đột ngột khó khăn; ngân sách cả hai: tỷ lệ cố định cho nhu cầu, mong muốn, tiết kiệm.",
+        "refs": [
+          "ID-eco-save-spend"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cân bằng khôn ngoan nhất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-save-spend"
+    ]
+  },
+  "chunks": [
+    [
+      "put aside part of every salary",
+      "để dành một phần mỗi kỳ lương"
+    ],
+    [
+      "save or to spend freely",
+      "tiết kiệm hay chi tiêu thoải mái"
+    ],
+    [
+      "Savers can meet emergencies and long-term goals",
+      "người tiết kiệm có thể ứng phó khẩn cấp và đạt mục tiêu dài hạn"
+    ],
+    [
+      "several months of income in the bank",
+      "thu nhập của vài tháng trong ngân hàng"
+    ],
+    [
+      "an unexpected hospital bill",
+      "hoá đơn bệnh viện bất ngờ"
+    ],
+    [
+      "without borrowing",
+      "không phải vay mượn"
+    ],
+    [
+      "pay a deposit on a home",
+      "trả tiền đặt cọc mua nhà"
+    ],
+    [
+      "finance their children's education",
+      "chi trả cho việc học của con cái"
+    ],
+    [
+      "encourages discipline",
+      "khuyến khích kỷ luật"
+    ],
+    [
+      "more in control of their future",
+      "kiểm soát tương lai của mình nhiều hơn"
+    ],
+    [
+      "supplement a pension",
+      "bổ sung cho lương hưu"
+    ],
+    [
+      "funds for businesses to grow",
+      "nguồn vốn để doanh nghiệp phát triển"
+    ],
+    [
+      "Those who never spend miss experiences",
+      "người không bao giờ chi tiêu bỏ lỡ trải nghiệm"
+    ],
+    [
+      "live to enjoy their savings",
+      "sống để hưởng khoản tiết kiệm của mình"
+    ],
+    [
+      "create memories that last for life",
+      "tạo nên những kỷ niệm kéo dài suốt đời"
+    ],
+    [
+      "supports shops, restaurants and jobs",
+      "hỗ trợ cửa hàng, nhà hàng và việc làm"
+    ],
+    [
+      "heavy spenders risk debt",
+      "người chi tiêu nhiều có nguy cơ mắc nợ"
+    ],
+    [
+      "a sudden loss of income",
+      "mất thu nhập đột ngột"
+    ],
+    [
+      "a fixed share of income for needs, for wants and for saving",
+      "một tỷ lệ thu nhập cố định cho nhu cầu, mong muốn và tiết kiệm"
+    ],
+    [
+      "a balance between saving and spending",
+      "sự cân bằng giữa tiết kiệm và chi tiêu"
+    ]
+  ]
+}

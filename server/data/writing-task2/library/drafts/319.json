@@ -1,0 +1,127 @@
+{
+  "questionId": 319,
+  "text": "Some governments encourage factories to pay fair wages, protect workers and limit pollution, and this essay will discuss the benefits for a country that focuses on ethical manufacturing, using examples such as Germany and Bangladesh.\n\nTo begin with, a country that focuses on ethical manufacturing gains reputation, skilled workers and sustainable growth. Fair wages and clean production attract responsible buyers, reduce accidents and pollution costs and build trust in exports. Germany, for example, is known for high-quality products made under strict safety and environmental rules, and many consumers are willing to pay more for goods marked \"made in Germany\". After a deadly factory collapse in 2013, Bangladesh introduced safety inspections and fire standards, which restored the confidence of international clothing brands. Healthy and well-paid workers are more productive and less likely to leave, so firms save on training and recruitment, and fewer accidents mean lower costs.\n\nFurthermore, ethical manufacturing protects the environment and the community. Factories that treat waste water and reduce emissions avoid fines, cleanup costs and damage to local health and farming. Workers who earn enough support their families and spend in local markets, which stimulates the domestic economy. Companies that follow high standards find it easier to enter foreign markets with strict import rules, and investors increasingly prefer responsible firms. The main disadvantage is the higher initial cost of safer equipment and better wages, but long-term competitiveness rises as quality and reputation improve. A country can support its producers with training, loans for cleaner technology and clear, consistently enforced regulations.\n\nIn conclusion, a country that focuses on ethical manufacturing benefits through reputation, productivity, environmental protection and long-term competitiveness, despite higher initial costs.",
+  "analysis": {
+    "type_vi": "A/D (benefits): sản xuất đạo đức — Đức, Bangladesh",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ khuyến khích trả lương công bằng, bảo vệ công nhân, hạn chế ô nhiễm; lợi ích kèm ví dụ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Danh tiếng, lao động có kỹ năng, tăng trưởng bền: lương công bằng, sản xuất sạch thu hút người mua có trách nhiệm, giảm tai nạn, chi phí ô nhiễm, tin cậy xuất khẩu; ví dụ Đức nổi tiếng sản phẩm chất lượng cao theo quy tắc an toàn, môi trường nghiêm, nhiều người sẵn trả hơn cho hàng 'made in Germany'; sau vụ sập nhà máy 2013 Bangladesh kiểm tra an toàn, tiêu chuẩn cháy khôi phục niềm tin của hãng quần áo quốc tế; công nhân khoẻ, lương tốt năng suất, ít nghỉ.",
+        "refs": [
+          "ID-eco-ethical-manufacturing",
+          "ID-eco-csr",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2",
+        "think": "Bảo vệ môi trường, cộng đồng: xử lý nước thải, giảm khí thải tránh phạt, dọn dẹp, hại sức khoẻ, nông nghiệp; lao động đủ sống chi tiêu địa phương kích thích kinh tế; dễ vào thị trường nước ngoài quy tắc nghiêm; nhà đầu tư thích; nhược: chi phí ban đầu thiết bị an toàn, lương; cạnh tranh dài hạn; đào tạo, vay công nghệ sạch, quy định rõ.",
+        "refs": [
+          "ID-eco-ethical-manufacturing",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Danh tiếng, năng suất, môi trường, cạnh tranh dài hạn dù chi phí ban đầu cao.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-ethical-manufacturing"
+    ]
+  },
+  "chunks": [
+    [
+      "pay fair wages, protect workers and limit pollution",
+      "trả lương công bằng, bảo vệ công nhân và hạn chế ô nhiễm"
+    ],
+    [
+      "ethical manufacturing",
+      "sản xuất có đạo đức"
+    ],
+    [
+      "reputation, skilled workers and sustainable growth",
+      "danh tiếng, lao động có kỹ năng và tăng trưởng bền vững"
+    ],
+    [
+      "Fair wages and clean production attract responsible buyers",
+      "lương công bằng và sản xuất sạch thu hút những người mua có trách nhiệm"
+    ],
+    [
+      "reduce accidents and pollution costs",
+      "giảm tai nạn và chi phí ô nhiễm"
+    ],
+    [
+      "build trust in exports",
+      "xây dựng niềm tin vào hàng xuất khẩu"
+    ],
+    [
+      "high-quality products made under strict safety and environmental rules",
+      "sản phẩm chất lượng cao được làm theo quy tắc an toàn và môi trường nghiêm ngặt"
+    ],
+    [
+      "willing to pay more",
+      "sẵn sàng trả nhiều hơn"
+    ],
+    [
+      "a deadly factory collapse",
+      "vụ sập nhà máy gây chết người"
+    ],
+    [
+      "safety inspections and fire standards",
+      "kiểm tra an toàn và tiêu chuẩn phòng cháy"
+    ],
+    [
+      "restored the confidence of international clothing brands",
+      "khôi phục niềm tin của các thương hiệu quần áo quốc tế"
+    ],
+    [
+      "Healthy and well-paid workers are more productive",
+      "người lao động khoẻ mạnh và được trả lương tốt làm việc năng suất hơn"
+    ],
+    [
+      "training and recruitment",
+      "đào tạo và tuyển dụng"
+    ],
+    [
+      "treat waste water and reduce emissions",
+      "xử lý nước thải và giảm khí thải"
+    ],
+    [
+      "fines, cleanup costs",
+      "tiền phạt, chi phí dọn dẹp"
+    ],
+    [
+      "spend in local markets",
+      "chi tiêu ở chợ địa phương"
+    ],
+    [
+      "strict import rules",
+      "quy định nhập khẩu nghiêm ngặt"
+    ],
+    [
+      "higher initial cost",
+      "chi phí ban đầu cao hơn"
+    ],
+    [
+      "long-term competitiveness",
+      "khả năng cạnh tranh dài hạn"
+    ],
+    [
+      "loans for cleaner technology",
+      "khoản vay cho công nghệ sạch hơn"
+    ]
+  ]
+}

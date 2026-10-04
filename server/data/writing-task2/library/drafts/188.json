@@ -1,0 +1,131 @@
+{
+  "questionId": 188,
+  "text": "More and more customers pay bills, transfer money and check balances on a phone instead of visiting a branch, and this essay will discuss the advantages and disadvantages of banking online before explaining my own view.\n\nOn the positive side, online banking is convenient and cheap. Customers can pay and check balances at any time. A busy employee who transfers rent on a Sunday night from his sofa, for example, saves a trip to a branch and avoids queues, and a traveller abroad can control her account without delay. Transactions are fast, many fees are lower than for counter services, and statements are available instantly, which makes it easier to monitor spending and to spot mistakes. Banks reduce costs by closing branches, and they pass on some savings through better interest rates. Alerts and budgeting tools help customers to manage their money more carefully.\n\nOn the negative side, online banking exposes users to fraud and excludes the less digital. Phishing, outages and the loss of branches and personal advice cause problems, especially for older people. A pensioner who receives a convincing email asking for his password, for example, may lose his savings in minutes, and a system failure may prevent customers from reaching their money for hours. Rural communities may be left without a branch, and people who lack internet access or confidence are forced to depend on relatives. Strong security and branch options are needed. Banks should use two-step verification, warn customers about scams, compensate victims fairly and keep some staffed branches or telephone services for those who need them.\n\nIn conclusion, online banking brings speed and convenience, but it creates new risks. On balance, I believe that the advantages outweigh the disadvantages, provided that security is strong and traditional services remain available.",
+  "analysis": {
+    "type_vi": "A/D: ngân hàng trực tuyến",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu khách trả hoá đơn, chuyển tiền bằng điện thoại thay vì đến chi nhánh.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Tiện và rẻ: thanh toán, xem số dư mọi lúc; ví dụ nhân viên bận chuyển tiền thuê tối Chủ nhật từ ghế sofa tiết kiệm chuyến đi, xếp hàng; du khách nước ngoài kiểm soát tài khoản; giao dịch nhanh, phí thấp hơn quầy, sao kê tức thì dễ theo dõi, phát hiện lỗi; ngân hàng giảm chi phí đóng chi nhánh, chia sẻ lãi suất; cảnh báo, công cụ lập ngân sách.",
+        "refs": [
+          "ID-eco-online-banking",
+          "ID-eco-cashless"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Lừa đảo, loại trừ người ít số hoá: phishing, sự cố, mất chi nhánh, tư vấn trực tiếp; ví dụ người hưu trí nhận email thuyết phục xin mật khẩu mất tiền tiết kiệm trong vài phút, hệ thống lỗi vài giờ; nông thôn mất chi nhánh; người thiếu internet phụ thuộc người thân; an ninh mạnh, lựa chọn chi nhánh: xác thực hai bước, cảnh báo lừa đảo, bồi thường công bằng, giữ chi nhánh, điện thoại.",
+        "refs": [
+          "ID-eco-online-banking",
+          "ID-tech-cybercrime",
+          "ID-tech-digital-divide",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu an ninh mạnh, giữ dịch vụ truyền thống.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-online-banking"
+    ]
+  },
+  "chunks": [
+    [
+      "pay bills, transfer money and check balances on a phone",
+      "trả hoá đơn, chuyển tiền và kiểm tra số dư trên điện thoại"
+    ],
+    [
+      "instead of visiting a branch",
+      "thay vì đến chi nhánh"
+    ],
+    [
+      "banking online",
+      "giao dịch ngân hàng trực tuyến"
+    ],
+    [
+      "convenient and cheap",
+      "tiện lợi và rẻ"
+    ],
+    [
+      "pay and check balances at any time",
+      "thanh toán và kiểm tra số dư bất kỳ lúc nào"
+    ],
+    [
+      "transfers rent on a Sunday night from his sofa",
+      "chuyển tiền thuê vào tối Chủ nhật từ ghế sofa của anh"
+    ],
+    [
+      "saves a trip to a branch",
+      "tiết kiệm một chuyến đến chi nhánh"
+    ],
+    [
+      "control her account without delay",
+      "kiểm soát tài khoản của cô mà không chậm trễ"
+    ],
+    [
+      "fees are lower than for counter services",
+      "phí thấp hơn so với dịch vụ tại quầy"
+    ],
+    [
+      "statements are available instantly",
+      "sao kê có sẵn ngay lập tức"
+    ],
+    [
+      "monitor spending and to spot mistakes",
+      "theo dõi chi tiêu và phát hiện sai sót"
+    ],
+    [
+      "closing branches",
+      "đóng cửa chi nhánh"
+    ],
+    [
+      "Alerts and budgeting tools",
+      "cảnh báo và công cụ lập ngân sách"
+    ],
+    [
+      "exposes users to fraud and excludes the less digital",
+      "khiến người dùng đối mặt với gian lận và loại trừ người ít dùng kỹ thuật số"
+    ],
+    [
+      "Phishing, outages and the loss of branches and personal advice",
+      "lừa đảo trực tuyến, sự cố và việc mất chi nhánh cùng tư vấn cá nhân"
+    ],
+    [
+      "a convincing email asking for his password",
+      "một email thuyết phục hỏi mật khẩu của ông"
+    ],
+    [
+      "lose his savings in minutes",
+      "mất tiền tiết kiệm trong vài phút"
+    ],
+    [
+      "a system failure",
+      "sự cố hệ thống"
+    ],
+    [
+      "lack internet access or confidence",
+      "thiếu truy cập internet hoặc sự tự tin"
+    ],
+    [
+      "two-step verification",
+      "xác thực hai bước"
+    ],
+    [
+      "compensate victims fairly",
+      "bồi thường công bằng cho nạn nhân"
+    ]
+  ]
+}

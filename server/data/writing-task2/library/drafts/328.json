@@ -1,0 +1,122 @@
+{
+  "questionId": 328,
+  "text": "A generation ago, many families bought the same brand of soap, car or bank for decades, and some argue that brand loyalty is declining. I agree to a large extent, since shoppers compare prices and reviews easily, although strong brands still keep devoted customers.\n\nTo begin with, brand loyalty is declining in many categories because switching is easy. Online comparison, store brands and endless choice make changing simple. A shopper who sees on her phone that another brand of washing powder is cheaper and has better reviews, for example, can change within seconds, and a promotion can persuade her to try something new. Supermarkets sell their own labels that look similar to famous brands but cost less, and young consumers in particular are more willing to try new products recommended by friends or influencers. Subscriptions and apps allow customers to move from one service to another with a few taps, and economic uncertainty makes many people more careful with money.\n\nHowever, strong brands with identity and loyalty programmes keep devoted customers. Some people remain committed to certain makers of phones, sports shoes or cars because the brand expresses who they are, and they accept higher prices. A person who has used the same smartphone system for ten years, for example, may stay with it because his photographs, apps and friends are connected to it. Airlines and shops use points and discounts to reward repeat purchases. Brands must earn loyalty through quality and service. Companies that treat customers well, respond quickly to complaints and keep improving their products are more likely to be trusted, and trust is more durable than a lower price.\n\nIn conclusion, I agree to a large extent that brand loyalty is declining, but companies with excellent products and a clear identity can still retain it.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): lòng trung thành thương hiệu giảm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu một thế hệ trước gia đình dùng cùng nhãn hàng nhiều thập kỷ; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Giảm vì chuyển đổi dễ: so sánh trực tuyến, nhãn riêng, lựa chọn vô tận; ví dụ người mua thấy trên điện thoại nhãn bột giặt khác rẻ hơn, đánh giá tốt đổi trong giây, khuyến mãi; siêu thị nhãn riêng giống hàng hiệu rẻ hơn; người trẻ thử đồ bạn bè, người ảnh hưởng giới thiệu; đăng ký, ứng dụng chuyển vài chạm; bất ổn kinh tế.",
+        "refs": [
+          "ID-eco-brand-loyalty",
+          "ID-eco-online-reviews",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Thương hiệu mạnh bản sắc, chương trình thành viên giữ khách: một số trung thành điện thoại, giày, xe vì thể hiện bản thân, chấp nhận giá cao; ví dụ người dùng cùng hệ điện thoại 10 năm vì ảnh, ứng dụng, bạn kết nối; hãng bay, cửa hàng điểm, giảm giá; phải giành lòng trung thành: chất lượng, dịch vụ, xử lý khiếu nại, tin cậy bền hơn giá thấp.",
+        "refs": [
+          "ID-eco-brand-loyalty",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree; công ty xuất sắc vẫn giữ được.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-brand-loyalty"
+    ]
+  },
+  "chunks": [
+    [
+      "buy the same brand of soap, car or bank for decades",
+      "mua cùng một nhãn xà phòng, xe hơi hay ngân hàng suốt nhiều thập kỷ"
+    ],
+    [
+      "brand loyalty is declining",
+      "lòng trung thành với thương hiệu đang suy giảm"
+    ],
+    [
+      "compare prices and reviews easily",
+      "dễ dàng so sánh giá cả và đánh giá"
+    ],
+    [
+      "Online comparison, store brands and endless choice make changing simple",
+      "so sánh trực tuyến, nhãn hiệu riêng của cửa hàng và vô số lựa chọn khiến việc chuyển đổi trở nên đơn giản"
+    ],
+    [
+      "another brand of washing powder is cheaper and has better reviews",
+      "một nhãn bột giặt khác rẻ hơn và có đánh giá tốt hơn"
+    ],
+    [
+      "change within seconds",
+      "đổi trong vài giây"
+    ],
+    [
+      "a promotion",
+      "một đợt khuyến mãi"
+    ],
+    [
+      "their own labels that look similar to famous brands but cost less",
+      "nhãn riêng trông giống thương hiệu nổi tiếng nhưng rẻ hơn"
+    ],
+    [
+      "recommended by friends or influencers",
+      "được bạn bè hoặc người ảnh hưởng giới thiệu"
+    ],
+    [
+      "move from one service to another with a few taps",
+      "chuyển từ dịch vụ này sang dịch vụ khác chỉ với vài lần chạm"
+    ],
+    [
+      "economic uncertainty",
+      "bất ổn kinh tế"
+    ],
+    [
+      "strong brands with identity and loyalty programmes",
+      "thương hiệu mạnh có bản sắc và chương trình khách hàng thân thiết"
+    ],
+    [
+      "expresses who they are",
+      "thể hiện con người họ"
+    ],
+    [
+      "accept higher prices",
+      "chấp nhận giá cao hơn"
+    ],
+    [
+      "the same smartphone system for ten years",
+      "cùng một hệ điện thoại thông minh suốt mười năm"
+    ],
+    [
+      "points and discounts to reward repeat purchases",
+      "điểm và giảm giá để thưởng cho việc mua lặp lại"
+    ],
+    [
+      "earn loyalty through quality and service",
+      "giành được lòng trung thành bằng chất lượng và dịch vụ"
+    ],
+    [
+      "respond quickly to complaints",
+      "phản hồi nhanh với khiếu nại"
+    ],
+    [
+      "trust is more durable than a lower price",
+      "niềm tin bền vững hơn mức giá thấp hơn"
+    ]
+  ]
+}

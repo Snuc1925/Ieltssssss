@@ -1,0 +1,130 @@
+{
+  "questionId": 337,
+  "text": "After earthquakes, famines and wars, rich countries send money, food and experts to poorer ones, and some believe that international aid helps development. I agree to a large extent, since aid can save lives and build services, although its success depends on how it is used.\n\nTo begin with, international aid helps development when it is targeted, transparent and builds local capacity. It saves lives in emergencies and funds clinics, schools and infrastructure. A vaccination programme financed from abroad, for example, can protect millions of children from diseases that poor governments cannot afford to fight, and a grant for rural roads or clean water allows farmers to sell their crops and families to stay healthy. Aid has contributed to major improvements in child survival and school enrolment over recent decades. Technical assistance also trains local teachers, doctors and engineers, who then continue the work without outside help.\n\nHowever, corruption, dependency and poorly designed projects can waste money. If officials steal funds, or if donors give food that destroys local farmers' markets, aid may do more harm than good. Countries that receive aid for many years may stop building their own tax systems and rely on outside decisions. Some projects are chosen by donors without asking communities, and they fail when equipment breaks and no one can repair it. Aid should therefore support local ownership. Funds should be monitored and published, projects should be designed with the people who will use them, and money should go to areas such as health, education and infrastructure that create lasting benefits. Trade fairness and debt relief are also essential if poor countries are to grow.\n\nIn conclusion, I agree that international aid helps development to a large extent, provided that it is well targeted, transparent and designed with local people.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: viện trợ quốc tế giúp phát triển — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nước giàu gửi tiền, thực phẩm, chuyên gia sau động đất, nạn đói, chiến tranh; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Giúp khi có mục tiêu, minh bạch, xây năng lực địa phương: cứu mạng khẩn cấp, tài trợ trạm y tế, trường, hạ tầng; ví dụ chương trình tiêm chủng tài trợ nước ngoài bảo vệ hàng triệu trẻ khỏi bệnh chính phủ nghèo không lo nổi; khoản cho đường nông thôn, nước sạch giúp bán nông sản, khoẻ; viện trợ góp cải thiện sống sót trẻ, đi học; hỗ trợ kỹ thuật đào tạo giáo viên, bác sĩ, kỹ sư địa phương.",
+        "refs": [
+          "ID-eco-intl-aid",
+          "ID-eco-intl-poverty",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Tham nhũng, phụ thuộc, dự án thiết kế kém lãng phí: quan chức biển thủ, thực phẩm phá chợ nông dân địa phương; nước nhận lâu ngừng xây hệ thống thuế; dự án do nhà tài trợ chọn không hỏi cộng đồng thất bại khi máy hỏng; hỗ trợ sở hữu địa phương: theo dõi, công bố, thiết kế cùng người dùng, đầu tư y tế, giáo dục, hạ tầng; công bằng thương mại, xoá nợ.",
+        "refs": [
+          "ID-eco-intl-aid",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu nhắm đúng, minh bạch, thiết kế cùng dân địa phương.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-intl-aid"
+    ]
+  },
+  "chunks": [
+    [
+      "After earthquakes, famines and wars",
+      "sau động đất, nạn đói và chiến tranh"
+    ],
+    [
+      "international aid helps development",
+      "viện trợ quốc tế giúp thúc đẩy phát triển"
+    ],
+    [
+      "targeted, transparent and builds local capacity",
+      "có mục tiêu, minh bạch và xây dựng năng lực địa phương"
+    ],
+    [
+      "saves lives in emergencies",
+      "cứu sống con người trong các tình huống khẩn cấp"
+    ],
+    [
+      "funds clinics, schools and infrastructure",
+      "tài trợ phòng khám, trường học và cơ sở hạ tầng"
+    ],
+    [
+      "A vaccination programme financed from abroad",
+      "chương trình tiêm chủng được tài trợ từ nước ngoài"
+    ],
+    [
+      "protect millions of children from diseases",
+      "bảo vệ hàng triệu trẻ em khỏi bệnh tật"
+    ],
+    [
+      "rural roads or clean water",
+      "đường nông thôn hoặc nước sạch"
+    ],
+    [
+      "child survival and school enrolment",
+      "tỷ lệ sống sót của trẻ em và tỷ lệ nhập học"
+    ],
+    [
+      "Technical assistance",
+      "hỗ trợ kỹ thuật"
+    ],
+    [
+      "local teachers, doctors and engineers",
+      "giáo viên, bác sĩ và kỹ sư địa phương"
+    ],
+    [
+      "corruption, dependency and poorly designed projects",
+      "tham nhũng, sự phụ thuộc và các dự án thiết kế kém"
+    ],
+    [
+      "steal funds",
+      "biển thủ quỹ"
+    ],
+    [
+      "destroys local farmers' markets",
+      "phá huỷ thị trường của nông dân địa phương"
+    ],
+    [
+      "more harm than good",
+      "hại nhiều hơn lợi"
+    ],
+    [
+      "building their own tax systems",
+      "xây dựng hệ thống thuế của chính họ"
+    ],
+    [
+      "chosen by donors without asking communities",
+      "được nhà tài trợ chọn mà không hỏi cộng đồng"
+    ],
+    [
+      "equipment breaks and no one can repair it",
+      "thiết bị hỏng và không ai sửa được"
+    ],
+    [
+      "local ownership",
+      "quyền làm chủ của địa phương"
+    ],
+    [
+      "monitored and published",
+      "được giám sát và công bố"
+    ],
+    [
+      "debt relief",
+      "xoá nợ"
+    ]
+  ]
+}

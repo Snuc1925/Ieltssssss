@@ -1,0 +1,128 @@
+{
+  "questionId": 444,
+  "text": "Large companies often pay little tax even when they make huge profits, and this essay will suggest practical measures that governments could take to reduce corporate tax avoidance, focusing on closing loopholes and on international cooperation.\n\nTo begin with, governments can reduce tax avoidance by closing loopholes. Firms shift profits to low-tax countries through transfer pricing and shell companies, so reporting rules, a minimum rate and penalties limit it. A technology firm that books its profits in a small country where it has few staff, for example, can pay a rate far lower than a local shop. Countries can require companies to publish how much revenue, profit and tax they declare in every country, which makes artificial arrangements visible. Rules can also limit deductions for interest and royalties paid to related companies, and tax on profits can be linked to where sales and employees actually are. Strong penalties and well-trained auditors discourage cheating.\n\nIn addition, authorities must cooperate internationally. A single country that acts alone risks losing investment, so agreements are needed. A global minimum tax rate, which many countries have now accepted, removes the reward for moving profits to low-tax places. Countries can share information automatically about foreign accounts and companies, and help each other to collect unpaid tax. Public pressure also matters, since consumers and investors may avoid firms with a reputation for avoiding tax. Fairer revenue funds public services and reduces the burden on ordinary taxpayers, who currently pay more than their share.\n\nIn conclusion, closing loopholes together with international cooperation offers the most realistic way to reduce corporate tax avoidance.",
+  "analysis": {
+    "type_vi": "Solutions: giảm tránh thuế doanh nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu công ty lớn trả ít thuế dù lợi nhuận khổng lồ; hai nhóm: bịt kẽ hở; hợp tác quốc tế.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Bịt kẽ hở: chuyển lợi nhuận sang nước thuế thấp qua chuyển giá, công ty vỏ bọc; quy tắc báo cáo, thuế tối thiểu, phạt; ví dụ hãng công nghệ ghi lợi nhuận ở nước nhỏ ít nhân viên trả thuế suất thấp hơn cửa hàng địa phương; công bố doanh thu, lợi nhuận, thuế từng nước làm sắp đặt giả hiện ra; hạn chế khấu trừ lãi, bản quyền cho công ty liên quan; thuế gắn nơi bán, nhân viên thật; phạt mạnh, kiểm toán viên.",
+        "refs": [
+          "ID-eco-tax-avoidance",
+          "ID-eco-corporate-tax",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Hợp tác quốc tế: một nước hành động riêng mất đầu tư; thuế tối thiểu toàn cầu xoá phần thưởng; chia sẻ thông tin tài khoản, công ty nước ngoài tự động; giúp thu thuế; áp lực công chúng, người tiêu dùng, nhà đầu tư; thu công bằng tài trợ dịch vụ, giảm gánh người nộp thuế thường.",
+        "refs": [
+          "ID-eco-tax-avoidance",
+          "ID-eco-intl-poverty",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Bịt kẽ hở và hợp tác quốc tế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-tax-avoidance"
+    ]
+  },
+  "chunks": [
+    [
+      "pay little tax even when they make huge profits",
+      "đóng ít thuế dù đạt lợi nhuận khổng lồ"
+    ],
+    [
+      "reduce corporate tax avoidance",
+      "giảm việc doanh nghiệp tránh thuế"
+    ],
+    [
+      "closing loopholes and on international cooperation",
+      "bịt các kẽ hở và hợp tác quốc tế"
+    ],
+    [
+      "Firms shift profits to low-tax countries",
+      "các công ty chuyển lợi nhuận sang những nước có thuế thấp"
+    ],
+    [
+      "transfer pricing and shell companies",
+      "chuyển giá và công ty vỏ bọc"
+    ],
+    [
+      "reporting rules, a minimum rate and penalties",
+      "quy tắc báo cáo, mức thuế tối thiểu và hình phạt"
+    ],
+    [
+      "books its profits in a small country where it has few staff",
+      "ghi lợi nhuận ở một nước nhỏ nơi có ít nhân viên"
+    ],
+    [
+      "a rate far lower than a local shop",
+      "mức thuế thấp hơn nhiều so với một cửa hàng địa phương"
+    ],
+    [
+      "publish how much revenue, profit and tax they declare in every country",
+      "công bố doanh thu, lợi nhuận và thuế họ khai báo ở mỗi nước"
+    ],
+    [
+      "artificial arrangements",
+      "các sắp đặt giả tạo"
+    ],
+    [
+      "limit deductions for interest and royalties paid to related companies",
+      "hạn chế khấu trừ lãi và tiền bản quyền trả cho công ty liên quan"
+    ],
+    [
+      "where sales and employees actually are",
+      "nơi doanh số và nhân viên thực sự ở"
+    ],
+    [
+      "well-trained auditors",
+      "kiểm toán viên được đào tạo tốt"
+    ],
+    [
+      "risks losing investment",
+      "có nguy cơ mất đầu tư"
+    ],
+    [
+      "A global minimum tax rate",
+      "mức thuế tối thiểu toàn cầu"
+    ],
+    [
+      "removes the reward for moving profits",
+      "loại bỏ phần thưởng của việc chuyển lợi nhuận"
+    ],
+    [
+      "share information automatically about foreign accounts",
+      "tự động chia sẻ thông tin về tài khoản nước ngoài"
+    ],
+    [
+      "collect unpaid tax",
+      "thu thuế chưa nộp"
+    ],
+    [
+      "a reputation for avoiding tax",
+      "tiếng xấu vì trốn tránh thuế"
+    ],
+    [
+      "Fairer revenue funds public services",
+      "nguồn thu công bằng hơn tài trợ dịch vụ công"
+    ]
+  ]
+}

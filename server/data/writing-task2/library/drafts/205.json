@@ -1,0 +1,126 @@
+{
+  "questionId": 205,
+  "text": "Every year, large firms announce that they will merge with rivals, and opinions differ on whether corporate mergers are good for the economy. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters argue that mergers create efficient, innovative firms. Larger companies share costs, invest in research and compete abroad. Two pharmaceutical firms that merge, for example, can combine laboratories and sales networks, develop new medicines faster and reach more countries. Duplicate offices and factories can be closed, which lowers prices or raises profits, and bigger firms may find it easier to raise money for large projects. In industries that need huge investment, such as airlines or telecommunications, small companies may be unable to survive, so mergers can save businesses and jobs. National champions can also compete with giant foreign rivals.\n\nOn the other hand, critics argue that mergers may reduce competition and jobs. Fewer rivals can mean higher prices, less choice and redundancies. A merger between the two biggest supermarkets in a region, for example, may leave customers with little choice and give the new company power over suppliers, who must accept low prices. Staff may lose their jobs when departments are combined, and small competitors may be driven out. Large firms can also become complacent and slow to innovate when they face little competition. Competition authorities should approve only beneficial deals. They can require firms to sell some operations, set conditions on prices and service, or block mergers that would create a dominant position.\n\nIn conclusion, both views have merit. Overall, I believe that mergers can benefit the economy when they increase efficiency and innovation, but regulators must prevent deals that harm competition.",
+  "analysis": {
+    "type_vi": "Discuss both views: sáp nhập doanh nghiệp có tốt cho kinh tế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu mỗi năm công ty lớn thông báo sáp nhập đối thủ; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ủng hộ",
+        "think": "Tạo hãng hiệu quả, đổi mới: công ty lớn chia chi phí, đầu tư nghiên cứu, cạnh tranh nước ngoài; ví dụ hai hãng dược sáp nhập kết hợp phòng thí nghiệm, mạng bán hàng, phát triển thuốc nhanh hơn, nhiều nước; đóng văn phòng, nhà máy trùng giảm giá hoặc tăng lợi nhuận; huy động vốn dự án lớn; ngành đầu tư lớn (hàng không, viễn thông) công ty nhỏ khó sống nên sáp nhập cứu việc làm; nhà vô địch quốc gia.",
+        "refs": [
+          "ID-eco-mergers"
+        ]
+      },
+      {
+        "step": "3. Phê phán",
+        "think": "Có thể giảm cạnh tranh, việc làm: ít đối thủ giá cao, ít lựa chọn, sa thải; ví dụ hai siêu thị lớn nhất vùng sáp nhập khách ít lựa chọn, công ty mới ép nhà cung cấp; nhân viên mất việc khi gộp bộ phận; đối thủ nhỏ bị đẩy ra; công ty lớn tự mãn chậm đổi mới; cơ quan cạnh tranh chỉ duyệt thương vụ có lợi: bán bớt hoạt động, điều kiện giá, dịch vụ, chặn vị trí thống lĩnh.",
+        "refs": [
+          "ID-eco-mergers",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi khi tăng hiệu quả, đổi mới; cơ quan quản lý ngăn thương vụ hại cạnh tranh.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-mergers"
+    ]
+  },
+  "chunks": [
+    [
+      "large firms announce that they will merge with rivals",
+      "các công ty lớn thông báo sẽ sáp nhập với đối thủ"
+    ],
+    [
+      "corporate mergers are good for the economy",
+      "sáp nhập doanh nghiệp tốt cho nền kinh tế"
+    ],
+    [
+      "create efficient, innovative firms",
+      "tạo ra những công ty hiệu quả và đổi mới"
+    ],
+    [
+      "Larger companies share costs, invest in research and compete abroad",
+      "công ty lớn hơn chia sẻ chi phí, đầu tư nghiên cứu và cạnh tranh ở nước ngoài"
+    ],
+    [
+      "combine laboratories and sales networks",
+      "kết hợp phòng thí nghiệm và mạng lưới bán hàng"
+    ],
+    [
+      "develop new medicines faster",
+      "phát triển thuốc mới nhanh hơn"
+    ],
+    [
+      "Duplicate offices and factories",
+      "văn phòng và nhà máy trùng lặp"
+    ],
+    [
+      "lowers prices or raises profits",
+      "giảm giá hoặc tăng lợi nhuận"
+    ],
+    [
+      "raise money for large projects",
+      "huy động vốn cho các dự án lớn"
+    ],
+    [
+      "airlines or telecommunications",
+      "hàng không hoặc viễn thông"
+    ],
+    [
+      "save businesses and jobs",
+      "cứu doanh nghiệp và việc làm"
+    ],
+    [
+      "national champions",
+      "các doanh nghiệp đầu ngành quốc gia"
+    ],
+    [
+      "reduce competition and jobs",
+      "giảm cạnh tranh và việc làm"
+    ],
+    [
+      "Fewer rivals can mean higher prices, less choice and redundancies",
+      "ít đối thủ hơn có thể đồng nghĩa với giá cao hơn, ít lựa chọn hơn và sa thải"
+    ],
+    [
+      "power over suppliers",
+      "quyền lực đối với nhà cung cấp"
+    ],
+    [
+      "driven out",
+      "bị đẩy ra khỏi thị trường"
+    ],
+    [
+      "complacent and slow to innovate",
+      "tự mãn và chậm đổi mới"
+    ],
+    [
+      "Competition authorities",
+      "các cơ quan cạnh tranh"
+    ],
+    [
+      "sell some operations",
+      "bán bớt một số hoạt động"
+    ],
+    [
+      "a dominant position",
+      "vị thế thống lĩnh"
+    ]
+  ]
+}

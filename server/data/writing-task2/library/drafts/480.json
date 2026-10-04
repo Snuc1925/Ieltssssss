@@ -1,0 +1,126 @@
+{
+  "questionId": 480,
+  "text": "Some people hunt through charity shops, online marketplaces and car boot sales, while others prefer the smell and guarantee of something new, and opinions differ on whether it is better to buy second-hand goods or new items. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of second-hand goods argue that they save money and resources. Buying used items cuts waste and cost and can give unique finds. A student who furnishes a flat with second-hand tables and chairs, for example, spends a fraction of the price of new furniture and may find sturdy pieces that are better made than modern ones. Reusing goods reduces the energy and raw materials needed for production and keeps items out of landfill, which helps the environment. Vintage clothing and old books can be unique, and selling used items gives sellers some money back. Children's clothes and toys are used for such a short time that buying new ones often seems wasteful.\n\nOn the other hand, supporters of new goods argue that they offer reliability and a warranty. New products are cleaner, come with guarantees and may last longer for essential items. A person who buys a used fridge, for example, may find that it breaks down within months or uses a lot of electricity, while a new model has a warranty and is energy-efficient. For items such as mattresses, helmets and electronic devices, safety, hygiene and up-to-date technology matter. New goods also match exactly what the buyer wants. The choice depends on the item and budget. For furniture, clothes and books, second-hand is often sensible, but for safety equipment and key appliances, new may be better.\n\nIn conclusion, both views have merit. Overall, I believe that buying second-hand is a smart habit where quality and safety are not at risk.",
+  "analysis": {
+    "type_vi": "Discuss both views: mua hàng đã qua sử dụng hay mới",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài tương phản người săn cửa hàng từ thiện, chợ trực tuyến và người thích đồ mới có bảo hành; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Đã qua sử dụng",
+        "think": "Tiết kiệm tiền, tài nguyên: giảm lãng phí, chi phí, món độc đáo; ví dụ sinh viên trang bị căn hộ bằng bàn ghế cũ tốn một phần giá, có thể bền hơn đồ hiện đại; tái sử dụng giảm năng lượng, nguyên liệu, rác; quần áo cổ điển, sách cũ độc đáo; bán lại; trẻ dùng quần áo, đồ chơi ngắn nên mua mới lãng phí.",
+        "refs": [
+          "ID-eco-second-hand"
+        ]
+      },
+      {
+        "step": "3. Mới",
+        "think": "Tin cậy và bảo hành: sạch hơn, có bảo hành, bền hơn với đồ thiết yếu; ví dụ tủ lạnh cũ hỏng trong vài tháng hoặc tốn điện, mẫu mới bảo hành, tiết kiệm; nệm, mũ bảo hiểm, thiết bị điện tử: an toàn, vệ sinh, công nghệ mới; đúng ý người mua; phụ thuộc món và ngân sách: nội thất, quần áo, sách cũ hợp lý, thiết bị an toàn, thiết bị chính mới tốt hơn.",
+        "refs": [
+          "ID-eco-second-hand",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Mua cũ là thói quen khôn ngoan khi chất lượng, an toàn không rủi ro.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-second-hand"
+    ]
+  },
+  "chunks": [
+    [
+      "charity shops, online marketplaces and car boot sales",
+      "cửa hàng từ thiện, chợ trực tuyến và chợ trời bán đồ cũ"
+    ],
+    [
+      "second-hand goods or new items",
+      "hàng đã qua sử dụng hay hàng mới"
+    ],
+    [
+      "save money and resources",
+      "tiết kiệm tiền và tài nguyên"
+    ],
+    [
+      "Buying used items cuts waste and cost",
+      "mua đồ đã dùng giảm lãng phí và chi phí"
+    ],
+    [
+      "unique finds",
+      "những món đồ độc đáo tìm được"
+    ],
+    [
+      "furnishes a flat with second-hand tables and chairs",
+      "trang bị căn hộ bằng bàn ghế cũ"
+    ],
+    [
+      "a fraction of the price of new furniture",
+      "một phần nhỏ giá của đồ nội thất mới"
+    ],
+    [
+      "sturdy pieces",
+      "những món đồ chắc chắn"
+    ],
+    [
+      "the energy and raw materials needed for production",
+      "năng lượng và nguyên liệu cần cho sản xuất"
+    ],
+    [
+      "out of landfill",
+      "khỏi bãi rác"
+    ],
+    [
+      "Vintage clothing and old books",
+      "quần áo cổ điển và sách cũ"
+    ],
+    [
+      "used for such a short time",
+      "được dùng trong thời gian rất ngắn"
+    ],
+    [
+      "reliability and a warranty",
+      "độ tin cậy và bảo hành"
+    ],
+    [
+      "New products are cleaner, come with guarantees",
+      "sản phẩm mới sạch hơn, đi kèm bảo hành"
+    ],
+    [
+      "a used fridge",
+      "một chiếc tủ lạnh cũ"
+    ],
+    [
+      "breaks down within months",
+      "hỏng trong vài tháng"
+    ],
+    [
+      "a warranty and is energy-efficient",
+      "có bảo hành và tiết kiệm năng lượng"
+    ],
+    [
+      "mattresses, helmets and electronic devices",
+      "nệm, mũ bảo hiểm và thiết bị điện tử"
+    ],
+    [
+      "safety, hygiene and up-to-date technology",
+      "an toàn, vệ sinh và công nghệ cập nhật"
+    ],
+    [
+      "safety equipment and key appliances",
+      "thiết bị an toàn và các thiết bị gia dụng chính"
+    ]
+  ]
+}

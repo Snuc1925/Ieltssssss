@@ -1,0 +1,123 @@
+{
+  "questionId": 85,
+  "text": "People move across borders for work, study and safety, and opinions differ on whether immigration brings economic and cultural benefits or causes problems. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of immigration argue that it brings economic and cultural benefits. Migrants fill labour shortages, pay taxes and start businesses while enriching food, art and ideas. A nurse who moves from another country, for example, may fill a vacancy that local graduates cannot, and an immigrant who opens a restaurant creates jobs and offers new tastes to the neighbourhood. Many migrants are young and of working age, which helps countries with ageing populations to pay for pensions and health care. Cities that welcome newcomers, such as London and Toronto, are often centres of creativity and trade, because diverse people share different skills and perspectives.\n\nOn the other hand, critics argue that rapid arrival can strain housing and services and cause social tension. Schools and hospitals may struggle to cope when numbers rise suddenly, and local workers may feel that they compete for low-paid jobs. In some areas, language differences and separate communities lead to misunderstanding and mistrust. A town whose population grows by a fifth in two years, for example, may find that rents rise and public services are overwhelmed. Integration policy decides the outcome. Language courses, fair access to work, investment in housing and clear rules help newcomers to join society and reduce conflict.\n\nIn conclusion, both views have merit. Overall, I believe that well-managed immigration brings more benefits than problems, but governments must plan for integration and for the pressure on public services.",
+  "analysis": {
+    "type_vi": "Discuss both views: nhập cư — lợi ích kinh tế, văn hoá hay vấn đề",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người di chuyển vì việc, học, an toàn; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Lợi ích",
+        "think": "Lấp thiếu lao động, đóng thuế, khởi nghiệp, làm giàu ẩm thực, nghệ thuật; ví dụ y tá từ nước khác lấp chỗ trống, người nhập cư mở nhà hàng tạo việc, hương vị mới; nhiều người trẻ tuổi lao động giúp nước già hoá trả lương hưu, y tế; London, Toronto sáng tạo, thương mại.",
+        "refs": [
+          "ID-eco-immigration",
+          "ID-work-immigration-jobs"
+        ]
+      },
+      {
+        "step": "3. Vấn đề",
+        "think": "Đến nhanh gây áp lực nhà ở, dịch vụ, căng thẳng xã hội: trường, bệnh viện khó đáp ứng, lao động địa phương cạnh tranh việc lương thấp; ngôn ngữ, cộng đồng tách biệt; ví dụ thị trấn dân tăng 1/5 trong hai năm giá thuê tăng, dịch vụ quá tải; chính sách hoà nhập: khoá ngôn ngữ, tiếp cận việc, đầu tư nhà ở, quy tắc rõ.",
+        "refs": [
+          "ID-eco-immigration",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhập cư quản lý tốt có lợi hơn, cần lập kế hoạch hoà nhập.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-immigration"
+    ]
+  },
+  "chunks": [
+    [
+      "People move across borders for work, study and safety",
+      "con người vượt biên giới vì công việc, học tập và an toàn"
+    ],
+    [
+      "immigration brings economic and cultural benefits",
+      "nhập cư mang lại lợi ích kinh tế và văn hoá"
+    ],
+    [
+      "Migrants fill labour shortages, pay taxes and start businesses",
+      "người nhập cư lấp chỗ thiếu lao động, đóng thuế và khởi nghiệp"
+    ],
+    [
+      "enriching food, art and ideas",
+      "làm phong phú ẩm thực, nghệ thuật và ý tưởng"
+    ],
+    [
+      "fill a vacancy that local graduates cannot",
+      "lấp một vị trí trống mà sinh viên địa phương không lấp được"
+    ],
+    [
+      "opens a restaurant",
+      "mở một nhà hàng"
+    ],
+    [
+      "new tastes to the neighbourhood",
+      "hương vị mới cho khu phố"
+    ],
+    [
+      "young and of working age",
+      "trẻ và trong độ tuổi lao động"
+    ],
+    [
+      "ageing populations to pay for pensions and health care",
+      "dân số già hoá chi trả lương hưu và chăm sóc sức khoẻ"
+    ],
+    [
+      "centres of creativity and trade",
+      "trung tâm sáng tạo và thương mại"
+    ],
+    [
+      "perspectives",
+      "góc nhìn"
+    ],
+    [
+      "strain housing and services and cause social tension",
+      "gây áp lực cho nhà ở và dịch vụ và gây căng thẳng xã hội"
+    ],
+    [
+      "Schools and hospitals may struggle to cope",
+      "trường học và bệnh viện có thể chật vật đối phó"
+    ],
+    [
+      "compete for low-paid jobs",
+      "cạnh tranh việc làm lương thấp"
+    ],
+    [
+      "language differences and separate communities",
+      "sự khác biệt ngôn ngữ và các cộng đồng tách biệt"
+    ],
+    [
+      "misunderstanding and mistrust",
+      "hiểu lầm và thiếu tin tưởng"
+    ],
+    [
+      "Integration policy",
+      "chính sách hội nhập"
+    ],
+    [
+      "Language courses, fair access to work",
+      "khoá học ngôn ngữ, tiếp cận việc làm công bằng"
+    ],
+    [
+      "well-managed immigration",
+      "nhập cư được quản lý tốt"
+    ]
+  ]
+}

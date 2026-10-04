@@ -1,0 +1,122 @@
+{
+  "questionId": 160,
+  "text": "Corner shops, workshops and family restaurants make up most of the businesses in many countries, and the question is to what extent governments should support small businesses. I agree to a large extent, since small firms create jobs and local prosperity, although support should not become permanent dependency.\n\nTo begin with, governments should support small businesses because they create most jobs and local prosperity. Small firms provide a large share of employment and innovation, yet they face higher borrowing costs and more paperwork than large companies. A baker who wants to buy a second oven, for example, may be refused a loan because the bank sees the risk as too high, and she may spend days filling in tax forms that large firms handle with a department. Small businesses keep money in local communities, create opportunities for young people and diversify the economy so that it depends less on a few giant employers. In rural areas and poorer districts, they are often the only source of work.\n\nHowever, support should aim to build resilience, not permanent dependency. If firms receive endless subsidies, they may stay inefficient and avoid improvement, and taxpayers pay for businesses that cannot survive. Support should therefore be targeted and temporary: guarantees for loans, simpler registration and accounting, advice, training and public contracts that are open to small suppliers. Governments should also remove barriers such as complicated regulations rather than only giving money. Evaluation of programmes helps to make sure that public funds produce results. When help encourages firms to grow and compete, the whole economy benefits.\n\nIn conclusion, I agree that governments should support small businesses to a large extent, provided that assistance is targeted and encourages independence.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ hỗ trợ doanh nghiệp nhỏ đến đâu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu cửa hàng, xưởng, nhà hàng gia đình chiếm phần lớn; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Tạo nhiều việc, thịnh vượng địa phương: tỷ trọng lớn việc làm, đổi mới nhưng vay đắt, thủ tục nhiều; ví dụ thợ làm bánh muốn mua lò thứ hai bị từ chối vay vì rủi ro, mất nhiều ngày điền biểu thuế; giữ tiền trong cộng đồng, cơ hội cho người trẻ, đa dạng kinh tế; nông thôn thường là nguồn việc duy nhất.",
+        "refs": [
+          "ID-eco-small-business-support",
+          "ID-work-startups",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Hỗ trợ để xây khả năng chống chịu: trợ cấp vô tận gây kém hiệu quả, người đóng thuế trả cho doanh nghiệp không sống; có mục tiêu, tạm thời: bảo lãnh vay, đăng ký, kế toán đơn giản, tư vấn, đào tạo, hợp đồng công mở cho nhà cung cấp nhỏ; bỏ rào cản; đánh giá.",
+        "refs": [
+          "ID-eco-small-business-support",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu có mục tiêu và khuyến khích độc lập.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-small-business-support"
+    ]
+  },
+  "chunks": [
+    [
+      "Corner shops, workshops and family restaurants",
+      "cửa hàng góc phố, xưởng và nhà hàng gia đình"
+    ],
+    [
+      "support small businesses",
+      "hỗ trợ doanh nghiệp nhỏ"
+    ],
+    [
+      "create most jobs and local prosperity",
+      "tạo ra hầu hết việc làm và sự thịnh vượng địa phương"
+    ],
+    [
+      "a large share of employment and innovation",
+      "phần lớn việc làm và đổi mới"
+    ],
+    [
+      "higher borrowing costs and more paperwork",
+      "chi phí vay cao hơn và nhiều thủ tục giấy tờ hơn"
+    ],
+    [
+      "buy a second oven",
+      "mua lò nướng thứ hai"
+    ],
+    [
+      "refused a loan",
+      "bị từ chối cho vay"
+    ],
+    [
+      "the risk as too high",
+      "rủi ro quá cao"
+    ],
+    [
+      "tax forms that large firms handle with a department",
+      "biểu mẫu thuế mà các công ty lớn xử lý bằng cả một bộ phận"
+    ],
+    [
+      "keep money in local communities",
+      "giữ tiền trong cộng đồng địa phương"
+    ],
+    [
+      "opportunities for young people",
+      "cơ hội cho người trẻ"
+    ],
+    [
+      "depends less on a few giant employers",
+      "ít phụ thuộc vào một vài nhà tuyển dụng khổng lồ"
+    ],
+    [
+      "the only source of work",
+      "nguồn việc làm duy nhất"
+    ],
+    [
+      "build resilience, not permanent dependency",
+      "xây dựng khả năng chống chịu chứ không phải sự phụ thuộc lâu dài"
+    ],
+    [
+      "endless subsidies",
+      "trợ cấp vô tận"
+    ],
+    [
+      "guarantees for loans, simpler registration and accounting",
+      "bảo lãnh khoản vay, đăng ký và kế toán đơn giản hơn"
+    ],
+    [
+      "public contracts that are open to small suppliers",
+      "hợp đồng công mở cho nhà cung cấp nhỏ"
+    ],
+    [
+      "complicated regulations",
+      "quy định phức tạp"
+    ],
+    [
+      "public funds produce results",
+      "tiền công mang lại kết quả"
+    ]
+  ]
+}

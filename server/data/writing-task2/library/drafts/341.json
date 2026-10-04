@@ -1,0 +1,118 @@
+{
+  "questionId": 341,
+  "text": "Many countries have signed agreements that remove tariffs and quotas, and the question is whether the advantages of free trade outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, free trade raises efficiency and consumer choice. Removing tariffs lowers prices and widens markets. A family in a small country that can buy cars from Japan, wine from France and clothing from Vietnam, for example, enjoys far more variety at lower prices than it could if only domestic producers were protected. Exporters can sell to millions of customers abroad, which allows them to grow, to hire more workers and to invest in better technology. Competition forces firms to improve quality and to cut waste, and specialisation lets each country concentrate on what it does best. Many economists believe that open trade has increased global income and lifted millions of people out of poverty.\n\nOn the negative side, free trade damages uncompetitive sectors. Domestic industries and workers who cannot compete may collapse, and standards can be undercut. A farming region that faces cheap imported grain, for example, may lose many farms, and the communities that depend on them decline. Countries can become dependent on imported food or medicines, which is dangerous in a crisis. Companies may also move production to places with weak environmental or labour laws. Gains outweigh losses only with adjustment support. Governments should provide retraining, regional investment and temporary assistance for those who lose their jobs, and they should include labour and environmental standards in trade agreements.\n\nIn conclusion, free trade brings large benefits in efficiency and choice. On balance, I believe that the advantages outweigh the disadvantages, provided that governments protect those who are harmed by it.",
+  "analysis": {
+    "type_vi": "A/D: thương mại tự do",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhiều nước ký hiệp định bỏ thuế, hạn ngạch; kết luận ưu hơn nếu hỗ trợ người bị hại.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Hiệu quả, lựa chọn: bỏ thuế giảm giá, mở thị trường; ví dụ gia đình nước nhỏ mua xe Nhật, rượu Pháp, quần áo Việt Nam đa dạng, giá thấp hơn chỉ bảo hộ sản xuất trong nước; nhà xuất khẩu bán cho hàng triệu khách nước ngoài, thuê thêm, đầu tư công nghệ; cạnh tranh nâng chất lượng, giảm lãng phí; chuyên môn hoá; thu nhập toàn cầu tăng, thoát nghèo.",
+        "refs": [
+          "ID-eco-free-trade",
+          "ID-eco-global-trade"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Hại ngành kém cạnh tranh: ngành nội địa, công nhân sụp đổ, tiêu chuẩn bị hạ; ví dụ vùng nông nghiệp đối mặt gạo, ngũ cốc nhập giá rẻ mất nhiều trang trại, cộng đồng suy; phụ thuộc nhập khẩu thực phẩm, thuốc nguy hiểm khi khủng hoảng; công ty chuyển đến nơi luật lỏng; hỗ trợ chuyển đổi: đào tạo lại, đầu tư vùng, trợ cấp tạm thời, tiêu chuẩn lao động, môi trường trong hiệp định.",
+        "refs": [
+          "ID-eco-free-trade",
+          "ID-work-trade-employment",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu bảo vệ người bị hại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-free-trade"
+    ]
+  },
+  "chunks": [
+    [
+      "agreements that remove tariffs and quotas",
+      "các hiệp định xoá bỏ thuế quan và hạn ngạch"
+    ],
+    [
+      "advantages of free trade outweigh the disadvantages",
+      "ưu điểm của thương mại tự do lớn hơn nhược điểm"
+    ],
+    [
+      "raises efficiency and consumer choice",
+      "nâng cao hiệu quả và sự lựa chọn của người tiêu dùng"
+    ],
+    [
+      "Removing tariffs lowers prices and widens markets",
+      "xoá bỏ thuế quan làm giảm giá và mở rộng thị trường"
+    ],
+    [
+      "cars from Japan, wine from France and clothing from Vietnam",
+      "xe hơi từ Nhật, rượu vang từ Pháp và quần áo từ Việt Nam"
+    ],
+    [
+      "only domestic producers were protected",
+      "chỉ các nhà sản xuất trong nước được bảo hộ"
+    ],
+    [
+      "sell to millions of customers abroad",
+      "bán cho hàng triệu khách hàng ở nước ngoài"
+    ],
+    [
+      "invest in better technology",
+      "đầu tư vào công nghệ tốt hơn"
+    ],
+    [
+      "improve quality and to cut waste",
+      "cải thiện chất lượng và giảm lãng phí"
+    ],
+    [
+      "specialisation lets each country concentrate on what it does best",
+      "chuyên môn hoá cho phép mỗi nước tập trung vào lĩnh vực mình giỏi nhất"
+    ],
+    [
+      "damages uncompetitive sectors",
+      "gây hại cho các ngành kém cạnh tranh"
+    ],
+    [
+      "standards can be undercut",
+      "tiêu chuẩn có thể bị hạ thấp"
+    ],
+    [
+      "cheap imported grain",
+      "ngũ cốc nhập khẩu giá rẻ"
+    ],
+    [
+      "dependent on imported food or medicines",
+      "phụ thuộc vào thực phẩm hoặc thuốc nhập khẩu"
+    ],
+    [
+      "weak environmental or labour laws",
+      "luật môi trường hoặc lao động yếu"
+    ],
+    [
+      "Gains outweigh losses only with adjustment support",
+      "lợi ích chỉ vượt thiệt hại khi có hỗ trợ điều chỉnh"
+    ],
+    [
+      "regional investment",
+      "đầu tư khu vực"
+    ],
+    [
+      "labour and environmental standards in trade agreements",
+      "tiêu chuẩn lao động và môi trường trong các hiệp định thương mại"
+    ]
+  ]
+}

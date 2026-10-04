@@ -1,0 +1,130 @@
+{
+  "questionId": 330,
+  "text": "Some online retailers now promise to deliver goods within hours of an order, and this essay will discuss the advantages and disadvantages of same-day delivery for consumers before explaining my own view.\n\nOn the positive side, same-day delivery is convenient for urgent needs. Customers get goods in hours and can shop online for emergencies. A person whose washing machine breaks down on a Monday morning, for example, can order a part and have it fitted by the evening, and a parent who forgets a birthday present can still please a child on the same day. It saves travel time, particularly for people who are ill, elderly or without a car, and it allows busy workers to shop in the evening. Competition between companies has made the service cheaper than in the past, and some customers enjoy being able to track the courier on a map.\n\nOn the negative side, extra fees, fragmented trips, pollution and pressure on couriers make it less attractive in the long term. Many same-day services charge a premium for speed, which means that people pay more for goods that they could have waited for. Vans that make many small deliveries produce more emissions than a single large weekly delivery, and packaging often increases. Couriers who must meet tight deadlines may work long hours for low pay and take risks in traffic. Easy ordering also encourages impulse purchases and returns. Same-day delivery should be reserved for genuinely urgent purchases. Consumers can use standard delivery for ordinary items, group their orders and choose delivery options that are slower but cheaper and more environmentally friendly.\n\nIn conclusion, same-day delivery offers real convenience, but its costs for workers and the environment are significant. On balance, I believe that it is useful only in urgent situations.",
+  "analysis": {
+    "type_vi": "A/D: giao hàng trong ngày với người tiêu dùng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhà bán lẻ hứa giao trong vài giờ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Tiện cho nhu cầu khẩn cấp: nhận hàng trong vài giờ; ví dụ máy giặt hỏng sáng thứ Hai đặt linh kiện, lắp tối, phụ huynh quên quà sinh nhật vẫn làm con vui; tiết kiệm thời gian cho người ốm, già, không xe; người bận mua tối; cạnh tranh rẻ hơn; theo dõi shipper trên bản đồ.",
+        "refs": [
+          "ID-eco-same-day",
+          "ID-eco-online-retail"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Phí, chuyến lẻ, ô nhiễm, áp lực người giao làm kém hấp dẫn dài hạn: phí cao cho tốc độ; xe giao nhiều đơn nhỏ thải nhiều hơn một đơn lớn hàng tuần, bao bì; shipper hạn chót chặt làm nhiều giờ lương thấp, rủi ro giao thông; dễ đặt gây mua bốc đồng, trả hàng; dành cho đơn khẩn cấp; giao tiêu chuẩn, gộp đơn, lựa chọn chậm rẻ hơn, thân thiện môi trường.",
+        "refs": [
+          "ID-eco-same-day",
+          "ID-tech-delivery-robots",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chỉ hữu ích trong tình huống khẩn cấp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-same-day"
+    ]
+  },
+  "chunks": [
+    [
+      "deliver goods within hours of an order",
+      "giao hàng trong vài giờ sau khi đặt"
+    ],
+    [
+      "same-day delivery",
+      "giao hàng trong ngày"
+    ],
+    [
+      "convenient for urgent needs",
+      "tiện lợi cho nhu cầu khẩn cấp"
+    ],
+    [
+      "Customers get goods in hours",
+      "khách hàng nhận hàng trong vài giờ"
+    ],
+    [
+      "shop online for emergencies",
+      "mua sắm trực tuyến cho trường hợp khẩn cấp"
+    ],
+    [
+      "washing machine breaks down on a Monday morning",
+      "máy giặt hỏng vào sáng thứ Hai"
+    ],
+    [
+      "order a part and have it fitted by the evening",
+      "đặt một linh kiện và lắp xong trước buổi tối"
+    ],
+    [
+      "forgets a birthday present",
+      "quên quà sinh nhật"
+    ],
+    [
+      "saves travel time",
+      "tiết kiệm thời gian đi lại"
+    ],
+    [
+      "ill, elderly or without a car",
+      "ốm đau, cao tuổi hoặc không có xe"
+    ],
+    [
+      "track the courier on a map",
+      "theo dõi người giao hàng trên bản đồ"
+    ],
+    [
+      "extra fees, fragmented trips, pollution and pressure on couriers",
+      "phụ phí, chuyến đi rời rạc, ô nhiễm và áp lực lên người giao hàng"
+    ],
+    [
+      "charge a premium for speed",
+      "tính phụ phí cho tốc độ"
+    ],
+    [
+      "Vans that make many small deliveries",
+      "xe tải nhỏ giao nhiều đơn hàng nhỏ"
+    ],
+    [
+      "a single large weekly delivery",
+      "một lần giao hàng lớn hằng tuần"
+    ],
+    [
+      "packaging often increases",
+      "bao bì thường tăng lên"
+    ],
+    [
+      "tight deadlines",
+      "hạn chót gấp gáp"
+    ],
+    [
+      "long hours for low pay",
+      "làm nhiều giờ với lương thấp"
+    ],
+    [
+      "impulse purchases and returns",
+      "mua sắm bốc đồng và trả hàng"
+    ],
+    [
+      "genuinely urgent purchases",
+      "những lần mua thực sự khẩn cấp"
+    ],
+    [
+      "group their orders",
+      "gộp các đơn hàng"
+    ]
+  ]
+}

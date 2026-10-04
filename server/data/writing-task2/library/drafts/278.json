@@ -1,0 +1,132 @@
+{
+  "questionId": 278,
+  "text": "Some shoppers pay with banknotes and coins, while others tap a card or a phone, and opinions differ on whether cash or digital payments are better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of cash argue that it offers privacy and control. Notes work without power and make spending visible. A person who takes a fixed amount of cash to the market each week, for example, can see exactly how much is left and is less likely to overspend. Cash leaves no digital record, which protects privacy, and it can be used by people without bank accounts, such as children, tourists and the elderly. During power cuts or system failures, cash is often the only way to buy essentials. It also avoids card fees, which small traders must pay for every transaction.\n\nOn the other hand, supporters of digital payments argue that they offer speed and records. Cards and apps are faster, safer from theft and easier to track, but they depend on technology. A traveller who pays by phone abroad, for example, avoids carrying large sums and exchanging currency, and a shop assistant does not have to count change. Digital payments produce statements that help people to budget and make it harder to evade tax. They also allow online shopping and instant transfers to friends and family. However, cyberattacks, outages and the risk of overspending are drawbacks. Having both options is practical. People can use digital payments for convenience and keep some cash for emergencies and for situations where privacy or reliability matter.\n\nIn conclusion, both views have merit. Overall, I prefer digital payments for everyday use, but I believe that cash should remain widely accepted.",
+  "analysis": {
+    "type_vi": "Discuss both views: tiền mặt hay thanh toán số",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người trả bằng tiền giấy, người chạm thẻ, điện thoại; hai phe.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Tiền mặt",
+        "think": "Riêng tư và kiểm soát: tiền giấy không cần điện, thấy chi tiêu; ví dụ người mang số tiền cố định ra chợ mỗi tuần thấy còn bao nhiêu ít chi quá; không để dấu vết số; người không tài khoản (trẻ, du khách, già); mất điện, sự cố; tránh phí thẻ tiểu thương.",
+        "refs": [
+          "ID-eco-cash-digital",
+          "ID-eco-cashless"
+        ]
+      },
+      {
+        "step": "3. Số",
+        "think": "Nhanh, có hồ sơ: thẻ, ứng dụng nhanh, an toàn khỏi trộm, dễ theo dõi nhưng phụ thuộc công nghệ; ví dụ du khách trả bằng điện thoại ở nước ngoài khỏi mang nhiều tiền, đổi tiền; nhân viên không đếm tiền thối; sao kê giúp ngân sách, khó trốn thuế; mua online, chuyển tức thì; nhược: tấn công mạng, sự cố, chi quá; có cả hai; số hằng ngày, tiền mặt dự phòng.",
+        "refs": [
+          "ID-eco-cash-digital",
+          "ID-eco-online-banking",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu số hằng ngày nhưng tiền mặt vẫn được chấp nhận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-cash-digital"
+    ]
+  },
+  "chunks": [
+    [
+      "banknotes and coins",
+      "tiền giấy và tiền xu"
+    ],
+    [
+      "tap a card or a phone",
+      "chạm thẻ hoặc điện thoại"
+    ],
+    [
+      "cash or digital payments",
+      "tiền mặt hay thanh toán số"
+    ],
+    [
+      "privacy and control",
+      "sự riêng tư và khả năng kiểm soát"
+    ],
+    [
+      "Notes work without power and make spending visible",
+      "tiền giấy dùng được không cần điện và làm chi tiêu hiển thị rõ"
+    ],
+    [
+      "a fixed amount of cash to the market each week",
+      "một khoản tiền mặt cố định đến chợ mỗi tuần"
+    ],
+    [
+      "overspend",
+      "chi tiêu quá mức"
+    ],
+    [
+      "leaves no digital record",
+      "không để lại dấu vết kỹ thuật số"
+    ],
+    [
+      "without bank accounts, such as children, tourists and the elderly",
+      "không có tài khoản ngân hàng, như trẻ em, du khách và người già"
+    ],
+    [
+      "power cuts or system failures",
+      "mất điện hoặc sự cố hệ thống"
+    ],
+    [
+      "card fees",
+      "phí thẻ"
+    ],
+    [
+      "speed and records",
+      "tốc độ và hồ sơ giao dịch"
+    ],
+    [
+      "safer from theft and easier to track",
+      "an toàn hơn trước trộm cắp và dễ theo dõi hơn"
+    ],
+    [
+      "pays by phone abroad",
+      "trả bằng điện thoại ở nước ngoài"
+    ],
+    [
+      "exchanging currency",
+      "đổi tiền tệ"
+    ],
+    [
+      "count change",
+      "đếm tiền thối"
+    ],
+    [
+      "statements that help people to budget",
+      "bảng sao kê giúp mọi người lập ngân sách"
+    ],
+    [
+      "evade tax",
+      "trốn thuế"
+    ],
+    [
+      "instant transfers",
+      "chuyển khoản tức thì"
+    ],
+    [
+      "cyberattacks, outages and the risk of overspending",
+      "tấn công mạng, sự cố và nguy cơ chi tiêu quá mức"
+    ],
+    [
+      "accepted",
+      "được chấp nhận"
+    ]
+  ]
+}

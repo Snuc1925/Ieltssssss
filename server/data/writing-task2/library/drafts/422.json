@@ -1,0 +1,127 @@
+{
+  "questionId": 422,
+  "text": "In many cities, ordinary workers cannot afford to buy or rent near their jobs, and the question is to what extent governments should intervene in housing markets to control prices. I believe that governments should intervene to a considerable extent, but they should favour measures that increase supply over rigid price controls.\n\nTo begin with, markets alone leave many people priced out, so some intervention is justified. Housing is a basic need, and when prices rise faster than wages, families are forced to spend a large share of their income on rent or leave the city. Social housing, planning reform and taxes on speculation help. A city that builds thousands of affordable flats on public land, for example, offers low-income families a secure home and also reduces pressure on private rents. Governments can simplify planning rules so that more homes are built, tax empty properties and second homes, and give housing allowances to those with the lowest incomes. Without such action, housing may become a privilege for the wealthy.\n\nHowever, rigid rent caps can discourage building. If the law holds rents below market levels, landlords may stop maintaining properties or sell them, and developers may build fewer homes, which makes shortages worse. Price controls also benefit the people who already have a flat, not those who are searching. Targeted intervention keeps homes affordable. The best approach combines increased supply, which brings prices down over time, with temporary protection for tenants against sudden large rises, and support for those who cannot afford even moderate rents. Governments should also monitor the market and adjust policy when conditions change, since housing problems differ between cities.\n\nIn conclusion, governments should intervene in housing markets to a considerable extent, mainly by increasing supply and protecting vulnerable households, rather than by imposing strict price controls.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ can thiệp thị trường nhà ở để kiểm soát giá đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu công nhân thường không mua, thuê nổi gần nơi làm; đáp: can thiệp đáng kể nhưng ưu tiên tăng cung hơn kiểm soát giá cứng.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lý do can thiệp",
+        "think": "Thị trường một mình để nhiều người không đủ khả năng: nhà là nhu cầu cơ bản, giá tăng nhanh hơn lương; nhà xã hội, cải cách quy hoạch, thuế đầu cơ; ví dụ thành phố xây hàng nghìn căn giá phải chăng trên đất công cho gia đình thu nhập thấp nhà an toàn, giảm áp lực giá thuê tư; đơn giản quy hoạch, đánh thuế nhà trống, nhà thứ hai, trợ cấp nhà ở; nếu không nhà là đặc quyền người giàu.",
+        "refs": [
+          "ID-eco-housing-intervention",
+          "ID-city-high-rents",
+          "ID-city-affordability",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Trần giá thuê cứng có thể nản xây: chủ nhà ngừng bảo trì, bán; nhà phát triển xây ít, thiếu hụt nặng; kiểm soát giá lợi người đã có nhà không phải người tìm; nhắm mục tiêu: tăng cung giảm giá dần, bảo vệ tạm tăng đột ngột, hỗ trợ người không trả nổi; giám sát, điều chỉnh vì mỗi thành phố khác.",
+        "refs": [
+          "ID-eco-housing-intervention",
+          "ID-city-housing-regulation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Can thiệp đáng kể chủ yếu tăng cung, bảo vệ hộ dễ tổn thương, không kiểm soát giá cứng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-housing-intervention"
+    ]
+  },
+  "chunks": [
+    [
+      "ordinary workers cannot afford to buy or rent near their jobs",
+      "người lao động bình thường không đủ khả năng mua hay thuê nhà gần nơi làm việc"
+    ],
+    [
+      "intervene in housing markets to control prices",
+      "can thiệp vào thị trường nhà ở để kiểm soát giá"
+    ],
+    [
+      "markets alone leave many people priced out",
+      "chỉ riêng thị trường khiến nhiều người không đủ khả năng chi trả"
+    ],
+    [
+      "prices rise faster than wages",
+      "giá tăng nhanh hơn tiền lương"
+    ],
+    [
+      "a large share of their income on rent",
+      "một phần lớn thu nhập vào tiền thuê nhà"
+    ],
+    [
+      "Social housing, planning reform and taxes on speculation",
+      "nhà ở xã hội, cải cách quy hoạch và thuế đầu cơ"
+    ],
+    [
+      "builds thousands of affordable flats on public land",
+      "xây hàng nghìn căn hộ giá phải chăng trên đất công"
+    ],
+    [
+      "a secure home",
+      "một ngôi nhà an toàn"
+    ],
+    [
+      "pressure on private rents",
+      "áp lực lên giá thuê tư nhân"
+    ],
+    [
+      "simplify planning rules",
+      "đơn giản hoá quy tắc quy hoạch"
+    ],
+    [
+      "tax empty properties and second homes",
+      "đánh thuế bất động sản bỏ trống và nhà thứ hai"
+    ],
+    [
+      "housing allowances",
+      "trợ cấp nhà ở"
+    ],
+    [
+      "a privilege for the wealthy",
+      "đặc quyền của người giàu"
+    ],
+    [
+      "rigid rent caps can discourage building",
+      "trần giá thuê cứng nhắc có thể làm nản việc xây dựng"
+    ],
+    [
+      "stop maintaining properties or sell them",
+      "ngừng bảo trì tài sản hoặc bán chúng"
+    ],
+    [
+      "shortages worse",
+      "làm thiếu hụt tồi tệ hơn"
+    ],
+    [
+      "benefit the people who already have a flat",
+      "có lợi cho những người đã có căn hộ"
+    ],
+    [
+      "Targeted intervention keeps homes affordable",
+      "can thiệp có mục tiêu giữ cho nhà ở giá phải chăng"
+    ],
+    [
+      "protection for tenants against sudden large rises",
+      "bảo vệ người thuê khỏi những đợt tăng giá lớn đột ngột"
+    ],
+    [
+      "monitor the market",
+      "giám sát thị trường"
+    ]
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "questionId": 19,
+  "text": "Goods, money and ideas now cross borders faster than ever, and the question is whether the advantages of globalisation outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, globalisation raises growth and choice. Open markets bring cheaper goods, investment and technology. A consumer who buys a phone assembled in Asia with parts from several continents, for example, pays much less than she would if every part were made locally. Developing countries have attracted factories and created jobs, and millions of people have escaped poverty through export industries. Companies can reach larger markets, which allows them to grow, and universities and scientists share knowledge across the world. Cultural exchange also brings new food, music and ideas into people's daily lives.\n\nOn the negative side, globalisation creates losers and cultural pressure. Workers in uncompetitive industries lose jobs, small firms struggle against multinationals and local cultures may fade. A town whose factory closes because production has moved to a country with lower wages, for example, may suffer for decades. Global supply chains spread diseases, financial crises and pollution, and countries that depend on imports become vulnerable when trade is disrupted. Large companies may also avoid taxes and pay low wages. Nevertheless, these problems can be reduced by retraining schemes, fair labour and environmental standards and international cooperation. Gains must be shared through retraining and fair rules.\n\nIn conclusion, globalisation has brought substantial benefits in growth, choice and knowledge. On balance, I believe that the advantages outweigh the disadvantages, provided that governments protect workers and communities who are harmed by change.",
+  "analysis": {
+    "type_vi": "A/D: toàn cầu hoá",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng hoá, tiền, ý tưởng vượt biên giới; kết luận ưu hơn nếu bảo vệ người bị hại.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Tăng trưởng, lựa chọn: thị trường mở hàng rẻ, đầu tư, công nghệ; ví dụ người mua điện thoại lắp ở châu Á từ linh kiện nhiều châu lục rẻ hơn làm nội địa; nước đang phát triển có nhà máy, việc làm, hàng triệu người thoát nghèo; thị trường lớn, chia sẻ tri thức, trao đổi văn hoá.",
+        "refs": [
+          "ID-eco-globalisation",
+          "ID-work-trade-employment"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Người thua cuộc, áp lực văn hoá: công nhân ngành kém cạnh tranh mất việc, công ty nhỏ, văn hoá phai; ví dụ thị trấn có nhà máy đóng vì chuyển sang nước lương thấp chịu nhiều thập kỷ; chuỗi cung ứng lây bệnh, khủng hoảng, ô nhiễm; phụ thuộc nhập khẩu; tránh thuế, lương thấp; đào tạo lại, tiêu chuẩn lao động, môi trường, hợp tác.",
+        "refs": [
+          "ID-eco-globalisation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu bảo vệ người bị hại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-globalisation"
+    ]
+  },
+  "chunks": [
+    [
+      "Goods, money and ideas now cross borders",
+      "hàng hoá, tiền bạc và ý tưởng nay vượt qua biên giới"
+    ],
+    [
+      "the advantages of globalisation outweigh the disadvantages",
+      "ưu điểm của toàn cầu hoá lớn hơn nhược điểm"
+    ],
+    [
+      "raises growth and choice",
+      "tăng trưởng và mở rộng sự lựa chọn"
+    ],
+    [
+      "Open markets bring cheaper goods, investment and technology",
+      "thị trường mở mang lại hàng rẻ hơn, đầu tư và công nghệ"
+    ],
+    [
+      "assembled in Asia with parts from several continents",
+      "được lắp ráp ở châu Á với linh kiện từ nhiều châu lục"
+    ],
+    [
+      "Developing countries have attracted factories",
+      "các nước đang phát triển đã thu hút nhà máy"
+    ],
+    [
+      "escaped poverty through export industries",
+      "thoát nghèo nhờ các ngành xuất khẩu"
+    ],
+    [
+      "reach larger markets",
+      "tiếp cận thị trường lớn hơn"
+    ],
+    [
+      "share knowledge across the world",
+      "chia sẻ tri thức trên khắp thế giới"
+    ],
+    [
+      "Cultural exchange",
+      "trao đổi văn hoá"
+    ],
+    [
+      "creates losers and cultural pressure",
+      "tạo ra những người thua cuộc và áp lực văn hoá"
+    ],
+    [
+      "Workers in uncompetitive industries lose jobs",
+      "người lao động trong ngành kém cạnh tranh mất việc"
+    ],
+    [
+      "small firms struggle against multinationals",
+      "công ty nhỏ chật vật trước các tập đoàn đa quốc gia"
+    ],
+    [
+      "production has moved to a country with lower wages",
+      "sản xuất đã chuyển sang nước có lương thấp hơn"
+    ],
+    [
+      "Global supply chains spread diseases, financial crises and pollution",
+      "chuỗi cung ứng toàn cầu lan truyền dịch bệnh, khủng hoảng tài chính và ô nhiễm"
+    ],
+    [
+      "depend on imports",
+      "phụ thuộc vào nhập khẩu"
+    ],
+    [
+      "avoid taxes and pay low wages",
+      "trốn thuế và trả lương thấp"
+    ],
+    [
+      "retraining schemes, fair labour and environmental standards",
+      "chương trình đào tạo lại, tiêu chuẩn lao động và môi trường công bằng"
+    ],
+    [
+      "Gains must be shared",
+      "lợi ích phải được chia sẻ"
+    ]
+  ]
+}

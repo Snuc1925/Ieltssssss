@@ -1,0 +1,122 @@
+{
+  "questionId": 159,
+  "text": "Contactless cards, mobile wallets and online transfers have made banknotes less common, and the question is whether the advantages of a cashless society outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, a cashless society is fast and traceable. Cards and apps speed up payments and reduce theft and tax evasion. A shopper who taps a phone at the till, for example, finishes in seconds, and a street trader who accepts digital payments does not have to carry large sums of cash that might be stolen. Every transaction leaves a record, so it is more difficult to hide income or to launder criminal money, which increases tax revenue. Governments save on printing, transporting and protecting banknotes and coins, and businesses spend less time counting money at the end of the day. Digital payments also make online shopping and international transfers easy.\n\nOn the negative side, it excludes some people and weakens privacy. Elderly or poor people may lack bank accounts or smartphones, outages leave shoppers stranded and every purchase is recorded. A person whose card is blocked or whose phone battery dies, for example, cannot buy food, and a power cut can paralyse an entire shopping street. Cyberattacks and fraud are also serious risks, and spending data may be misused by companies or authorities. Cash allows people to budget and to pay anonymously. Cash should remain an option. A balanced approach would encourage digital payment while protecting access to cash for those who need it and ensuring that systems are secure and private.\n\nIn conclusion, a cashless society offers convenience and efficiency, but its drawbacks are significant. On balance, I believe that the advantages outweigh the disadvantages only if cash remains available and privacy is protected.",
+  "analysis": {
+    "type_vi": "A/D: xã hội không tiền mặt",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thẻ không tiếp xúc, ví điện thoại; kết luận có điều kiện (cash còn, riêng tư).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Nhanh và truy vết được: thẻ, ứng dụng nhanh, giảm trộm, trốn thuế; ví dụ người mua chạm điện thoại xong vài giây, người bán hàng rong không mang nhiều tiền; mọi giao dịch có hồ sơ khó giấu thu nhập, rửa tiền, thuế tăng; chính phủ tiết kiệm in, vận chuyển tiền; doanh nghiệp bớt đếm; mua online, chuyển quốc tế dễ.",
+        "refs": [
+          "ID-eco-cashless"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Loại trừ một số người, yếu riêng tư: người già, nghèo thiếu tài khoản, điện thoại; mất kết nối; ví dụ thẻ bị khoá, pin hết không mua được thức ăn, mất điện làm tê liệt cả phố; tấn công mạng, gian lận, dữ liệu chi tiêu lạm dụng; tiền mặt giúp ngân sách, ẩn danh; giữ lựa chọn tiền mặt; bảo đảm an toàn, riêng tư.",
+        "refs": [
+          "ID-eco-cashless",
+          "ID-tech-privacy-disappearing",
+          "ID-tech-digital-divide",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu còn tiền mặt, bảo vệ riêng tư.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-cashless"
+    ]
+  },
+  "chunks": [
+    [
+      "Contactless cards, mobile wallets and online transfers",
+      "thẻ không tiếp xúc, ví di động và chuyển khoản trực tuyến"
+    ],
+    [
+      "a cashless society",
+      "một xã hội không tiền mặt"
+    ],
+    [
+      "fast and traceable",
+      "nhanh và có thể truy vết"
+    ],
+    [
+      "Cards and apps speed up payments",
+      "thẻ và ứng dụng đẩy nhanh việc thanh toán"
+    ],
+    [
+      "reduce theft and tax evasion",
+      "giảm trộm cắp và trốn thuế"
+    ],
+    [
+      "taps a phone at the till",
+      "chạm điện thoại tại quầy thanh toán"
+    ],
+    [
+      "large sums of cash that might be stolen",
+      "số tiền mặt lớn có thể bị trộm"
+    ],
+    [
+      "Every transaction leaves a record",
+      "mọi giao dịch đều để lại dấu vết"
+    ],
+    [
+      "hide income or to launder criminal money",
+      "che giấu thu nhập hoặc rửa tiền tội phạm"
+    ],
+    [
+      "printing, transporting and protecting banknotes and coins",
+      "in ấn, vận chuyển và bảo vệ tiền giấy và tiền xu"
+    ],
+    [
+      "counting money at the end of the day",
+      "đếm tiền vào cuối ngày"
+    ],
+    [
+      "excludes some people and weakens privacy",
+      "loại trừ một số người và làm yếu quyền riêng tư"
+    ],
+    [
+      "lack bank accounts or smartphones",
+      "thiếu tài khoản ngân hàng hoặc điện thoại thông minh"
+    ],
+    [
+      "outages leave shoppers stranded",
+      "sự cố khiến người mua mắc kẹt"
+    ],
+    [
+      "whose card is blocked or whose phone battery dies",
+      "thẻ bị khoá hoặc điện thoại hết pin"
+    ],
+    [
+      "a power cut can paralyse an entire shopping street",
+      "mất điện có thể làm tê liệt cả một con phố mua sắm"
+    ],
+    [
+      "Cyberattacks and fraud",
+      "tấn công mạng và gian lận"
+    ],
+    [
+      "budget and to pay anonymously",
+      "lập ngân sách và thanh toán ẩn danh"
+    ],
+    [
+      "Cash should remain an option",
+      "tiền mặt nên vẫn là một lựa chọn"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "questionId": 68,
+  "text": "Several countries have raised their minimum wage in recent years, and this essay will discuss the advantages and disadvantages of raising the minimum wage before explaining my own view.\n\nOn the positive side, a higher minimum wage lifts incomes. Low-paid workers gain purchasing power and motivation. A cleaner or a shop assistant who earns more, for example, can pay rent, buy food and perhaps save a little, instead of working two jobs to survive. The extra money is mostly spent locally, which increases demand and supports businesses in poor areas. Governments also save on benefits, since fewer working families need support. Better pay reduces staff turnover, which lowers recruitment and training costs for employers, and it makes work more attractive than unemployment. Many people believe that a full-time job should provide a living income.\n\nOn the negative side, a higher minimum wage may raise business costs. Small firms may cut hours, raise prices or replace workers with machines. A small café that has to pay more to each employee, for example, may hire fewer staff or close early, which reduces opportunities for young people and the unskilled, who need experience most. Prices of services may rise, so that part of the gain is lost. Some economists argue that the increase can cause unemployment, although evidence suggests that moderate increases have limited effects. Moderate, gradual rises work best, together with tax relief for small firms and training for low-skilled workers.\n\nIn conclusion, raising the minimum wage has significant benefits for low earners, but it must be handled carefully. On balance, I believe that the advantages outweigh the disadvantages when increases are moderate and introduced step by step.",
+  "analysis": {
+    "type_vi": "A/D: tăng lương tối thiểu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhiều nước tăng; kết luận ưu hơn nhược nếu vừa phải, dần dần.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Nâng thu nhập: sức mua, động lực; ví dụ lao công, nhân viên cửa hàng trả tiền thuê, mua thức ăn, tiết kiệm thay vì hai việc; tiêu tại chỗ tăng cầu, hỗ trợ doanh nghiệp khu nghèo; chính phủ tiết kiệm trợ cấp; giảm thay nhân viên; làm việc hấp dẫn hơn thất nghiệp; thu nhập đủ sống.",
+        "refs": [
+          "ID-eco-minimum-wage",
+          "ID-work-unemployment"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Tăng chi phí doanh nghiệp: công ty nhỏ giảm giờ, tăng giá, thay bằng máy; ví dụ quán cà phê nhỏ trả mỗi nhân viên nhiều hơn tuyển ít, đóng sớm, giảm cơ hội người trẻ, không kỹ năng; giá dịch vụ tăng; kinh tế gia cho là gây thất nghiệp, bằng chứng cho thấy tăng vừa phải ảnh hưởng hạn chế; vừa phải, dần dần, giảm thuế cho công ty nhỏ, đào tạo.",
+        "refs": [
+          "ID-eco-minimum-wage",
+          "ID-work-automation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu tăng vừa phải.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-minimum-wage"
+    ]
+  },
+  "chunks": [
+    [
+      "raised their minimum wage in recent years",
+      "tăng lương tối thiểu trong những năm gần đây"
+    ],
+    [
+      "raising the minimum wage",
+      "tăng lương tối thiểu"
+    ],
+    [
+      "lifts incomes",
+      "nâng thu nhập"
+    ],
+    [
+      "Low-paid workers gain purchasing power and motivation",
+      "người lao động lương thấp có thêm sức mua và động lực"
+    ],
+    [
+      "pay rent, buy food and perhaps save a little",
+      "trả tiền thuê, mua thức ăn và có lẽ tiết kiệm một chút"
+    ],
+    [
+      "working two jobs to survive",
+      "làm hai việc để sống"
+    ],
+    [
+      "spent locally",
+      "được chi tiêu tại địa phương"
+    ],
+    [
+      "increases demand",
+      "tăng nhu cầu"
+    ],
+    [
+      "save on benefits",
+      "tiết kiệm chi trợ cấp"
+    ],
+    [
+      "staff turnover",
+      "tỷ lệ nghỉ việc của nhân viên"
+    ],
+    [
+      "recruitment and training costs",
+      "chi phí tuyển dụng và đào tạo"
+    ],
+    [
+      "a living income",
+      "thu nhập đủ sống"
+    ],
+    [
+      "raise business costs",
+      "làm tăng chi phí doanh nghiệp"
+    ],
+    [
+      "cut hours, raise prices or replace workers with machines",
+      "cắt giờ làm, tăng giá hoặc thay công nhân bằng máy"
+    ],
+    [
+      "hire fewer staff or close early",
+      "thuê ít nhân viên hơn hoặc đóng cửa sớm"
+    ],
+    [
+      "young people and the unskilled",
+      "người trẻ và người không có kỹ năng"
+    ],
+    [
+      "Moderate, gradual rises work best",
+      "tăng vừa phải và dần dần hiệu quả nhất"
+    ],
+    [
+      "tax relief for small firms",
+      "giảm thuế cho các công ty nhỏ"
+    ],
+    [
+      "step by step",
+      "từng bước một"
+    ]
+  ]
+}

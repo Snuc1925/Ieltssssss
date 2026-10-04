@@ -1,0 +1,125 @@
+{
+  "questionId": 150,
+  "text": "Governments facing weak growth often promise tax cuts, and some argue that lowering taxes stimulates the economy. I agree to a limited extent, since tax cuts can encourage spending and investment, but the effect depends on who benefits and how the lost revenue is replaced.\n\nTo begin with, lower taxes can stimulate spending and investment. Households and firms with more money may spend or hire. A family that pays less income tax, for example, may buy a car or home improvements, which creates demand for local businesses and jobs. Lower taxes on company profits can encourage firms to expand, buy equipment or start new projects, and a lower tax rate can attract foreign investors. In a recession, when demand is weak, a temporary reduction in sales tax can persuade consumers to buy sooner, giving the economy a quick boost. Lower taxes on work may also encourage people to take jobs or to work longer hours.\n\nHowever, the effect depends on who benefits and on how deficits are financed. Wealthy savers may not spend the extra money, and lost revenue can mean cuts in services such as schools and hospitals or higher government debt, which must be repaid later. A broad cut that mainly helps high earners, for example, may raise inequality without much increase in demand. Targeted cuts work better than broad ones: tax relief for low and middle earners, who spend most of what they receive, and incentives for investment in productive equipment give more benefit per unit of lost revenue. Evidence from different countries shows mixed results, so tax policy should be judged by its results.\n\nIn conclusion, lowering taxes stimulates the economy only to a limited extent, and governments should design cuts carefully and keep public finances sustainable.",
+  "analysis": {
+    "type_vi": "Extent: giảm thuế kích thích kinh tế — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ tăng trưởng yếu hứa giảm thuế; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Kích thích chi tiêu, đầu tư: hộ, công ty nhiều tiền hơn chi tiêu hoặc thuê; ví dụ gia đình đóng ít thuế thu nhập mua xe, sửa nhà tạo cầu việc làm; thuế lợi nhuận thấp khuyến khích mở rộng, mua thiết bị; thu hút nhà đầu tư nước ngoài; suy thoái giảm thuế bán hàng tạm thời kích thích mua sớm; thuế lao động thấp khuyến khích làm việc.",
+        "refs": [
+          "ID-eco-tax-cuts",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Phụ thuộc ai hưởng, thâm hụt tài trợ: người giàu tiết kiệm không chi, mất thu nhập nghĩa là cắt dịch vụ hoặc nợ; ví dụ cắt rộng lợi người thu nhập cao tăng bất bình đẳng ít tăng cầu; cắt nhắm mục tiêu tốt hơn: giảm cho thu nhập thấp, trung bình, ưu đãi đầu tư thiết bị; bằng chứng hỗn hợp.",
+        "refs": [
+          "ID-eco-tax-cuts",
+          "ID-eco-corporate-tax",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kích thích chỉ hạn chế; thiết kế cẩn thận, tài chính bền vững.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-tax-cuts"
+    ]
+  },
+  "chunks": [
+    [
+      "weak growth",
+      "tăng trưởng yếu"
+    ],
+    [
+      "lowering taxes stimulates the economy",
+      "giảm thuế kích thích nền kinh tế"
+    ],
+    [
+      "stimulate spending and investment",
+      "kích thích chi tiêu và đầu tư"
+    ],
+    [
+      "Households and firms with more money may spend or hire",
+      "hộ gia đình và doanh nghiệp có nhiều tiền hơn có thể chi tiêu hoặc thuê người"
+    ],
+    [
+      "pays less income tax",
+      "đóng ít thuế thu nhập hơn"
+    ],
+    [
+      "home improvements",
+      "cải tạo nhà cửa"
+    ],
+    [
+      "creates demand for local businesses and jobs",
+      "tạo nhu cầu cho doanh nghiệp và việc làm địa phương"
+    ],
+    [
+      "expand, buy equipment or start new projects",
+      "mở rộng, mua thiết bị hoặc bắt đầu dự án mới"
+    ],
+    [
+      "attract foreign investors",
+      "thu hút nhà đầu tư nước ngoài"
+    ],
+    [
+      "a temporary reduction in sales tax",
+      "giảm tạm thời thuế bán hàng"
+    ],
+    [
+      "a quick boost",
+      "cú hích nhanh"
+    ],
+    [
+      "Wealthy savers may not spend the extra money",
+      "người giàu tiết kiệm có thể không chi số tiền thêm"
+    ],
+    [
+      "lost revenue",
+      "nguồn thu bị mất"
+    ],
+    [
+      "cuts in services",
+      "cắt giảm dịch vụ"
+    ],
+    [
+      "higher government debt",
+      "nợ chính phủ cao hơn"
+    ],
+    [
+      "A broad cut that mainly helps high earners",
+      "đợt cắt giảm rộng chủ yếu có lợi cho người thu nhập cao"
+    ],
+    [
+      "raise inequality",
+      "làm tăng bất bình đẳng"
+    ],
+    [
+      "Targeted cuts work better than broad ones",
+      "cắt giảm có mục tiêu hiệu quả hơn cắt giảm đại trà"
+    ],
+    [
+      "low and middle earners",
+      "người thu nhập thấp và trung bình"
+    ],
+    [
+      "public finances sustainable",
+      "tài chính công bền vững"
+    ]
+  ]
+}

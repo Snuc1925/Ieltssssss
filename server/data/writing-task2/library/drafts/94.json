@@ -1,0 +1,126 @@
+{
+  "questionId": 94,
+  "text": "Before buying a phone, a hotel room or a restaurant meal, most people now read the stars and comments left by other customers, and many think that online reviews influence buying decisions. I agree with this view, since shoppers trust the experience of other buyers, although some reviews are unreliable.\n\nTo begin with, online reviews strongly influence purchases because shoppers trust the experience of other buyers. Star ratings and comments reduce the risk of a poor purchase. A traveller who sees that a hotel has a rating of four and a half stars from two thousand guests, for example, will probably book it rather than a similar one with a lower score. Reviews supply details that advertising does not, such as noise at night, the quality of service or the size of a room, and they come from people who have no reason to sell. Shops that have a high rating attract more customers, and platforms rank products according to ratings, which increases their visibility. Surveys show that most consumers read reviews before they buy.\n\nHowever, fake or paid reviews can mislead, so careful readers check many sources. Some companies pay people to write praise or post false criticism of competitors, and a few customers write extreme comments because they are angry or have received a free gift. A reader who looks only at the average score may therefore be deceived. Sensible shoppers read several detailed reviews, look for repeated points and consider the number of ratings and the date. Platforms should detect and remove false reviews, and authorities can fine companies that cheat. Businesses must protect their ratings by keeping standards high and by responding politely to complaints, since public opinion online has become a major factor in their success.\n\nIn conclusion, I agree that online reviews influence buying decisions, but consumers should read them critically.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: đánh giá trực tuyến ảnh hưởng quyết định mua — agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người đọc sao và bình luận trước khi mua; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Tin kinh nghiệm người mua khác: sao và bình luận giảm rủi ro; ví dụ du khách thấy khách sạn 4,5 sao từ 2.000 khách sẽ đặt hơn khách sạn tương tự điểm thấp; chi tiết quảng cáo không có (ồn ban đêm, dịch vụ, diện tích), từ người không có lý do bán; cửa hàng đánh giá cao thu hút khách, nền tảng xếp hạng; khảo sát: đa số đọc trước khi mua.",
+        "refs": [
+          "ID-eco-online-reviews",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Đánh giá giả hoặc trả tiền có thể gây hiểu lầm: công ty trả người khen hoặc chê đối thủ, khách giận viết cực đoan, nhận quà; chỉ xem điểm trung bình bị lừa; đọc nhiều đánh giá chi tiết, điểm lặp lại, số lượng, ngày; nền tảng gỡ giả; cơ quan phạt; doanh nghiệp giữ chuẩn, phản hồi lịch sự.",
+        "refs": [
+          "ID-eco-online-reviews",
+          "ID-media-misleading-posts",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree; đọc phê phán.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-online-reviews"
+    ]
+  },
+  "chunks": [
+    [
+      "read the stars and comments left by other customers",
+      "đọc số sao và bình luận do các khách hàng khác để lại"
+    ],
+    [
+      "online reviews influence buying decisions",
+      "đánh giá trực tuyến ảnh hưởng đến quyết định mua hàng"
+    ],
+    [
+      "trust the experience of other buyers",
+      "tin vào trải nghiệm của những người mua khác"
+    ],
+    [
+      "Star ratings and comments reduce the risk of a poor purchase",
+      "xếp hạng sao và bình luận làm giảm rủi ro mua phải hàng tồi"
+    ],
+    [
+      "a rating of four and a half stars from two thousand guests",
+      "điểm bốn sao rưỡi từ hai nghìn khách"
+    ],
+    [
+      "a lower score",
+      "điểm số thấp hơn"
+    ],
+    [
+      "Reviews supply details that advertising does not",
+      "đánh giá cung cấp chi tiết mà quảng cáo không có"
+    ],
+    [
+      "noise at night, the quality of service or the size of a room",
+      "tiếng ồn ban đêm, chất lượng dịch vụ hoặc kích cỡ phòng"
+    ],
+    [
+      "no reason to sell",
+      "không có lý do để bán hàng"
+    ],
+    [
+      "platforms rank products according to ratings",
+      "các nền tảng xếp hạng sản phẩm theo điểm đánh giá"
+    ],
+    [
+      "Fake or paid reviews can mislead",
+      "đánh giá giả hoặc được trả tiền có thể gây hiểu lầm"
+    ],
+    [
+      "pay people to write praise or post false criticism of competitors",
+      "trả tiền cho người viết lời khen hoặc đăng chỉ trích sai về đối thủ"
+    ],
+    [
+      "extreme comments",
+      "bình luận cực đoan"
+    ],
+    [
+      "the average score",
+      "điểm trung bình"
+    ],
+    [
+      "repeated points",
+      "những điểm được lặp lại"
+    ],
+    [
+      "the number of ratings and the date",
+      "số lượng đánh giá và ngày tháng"
+    ],
+    [
+      "detect and remove false reviews",
+      "phát hiện và gỡ bỏ đánh giá giả"
+    ],
+    [
+      "fine companies that cheat",
+      "phạt các công ty gian lận"
+    ],
+    [
+      "protect their ratings",
+      "bảo vệ điểm đánh giá của họ"
+    ],
+    [
+      "responding politely to complaints",
+      "phản hồi lịch sự trước khiếu nại"
+    ]
+  ]
+}

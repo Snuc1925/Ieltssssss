@@ -1,0 +1,125 @@
+{
+  "questionId": 38,
+  "text": "Every town has a choice between a corner shop where the owner knows the customers and a large supermarket with hundreds of products, and opinions differ on which is preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of small local shops argue that they offer personal service and community links. Small shops know their customers and keep money in the area. A grocer who remembers that an elderly neighbour cannot carry heavy bags, for example, may deliver her shopping and keep an eye on her health. Local shops often sell fresh produce from nearby farms, support local jobs and make streets lively, and the owners are more likely to sponsor local sports and festivals. Shopping is quicker for those who live close by, and walking to the shop reduces the need to drive.\n\nOn the other hand, supporters of supermarkets argue that they provide low prices and choice. Supermarkets buy in bulk, stock thousands of products and open long hours. A busy family who can buy food, clothes and household items in one trip at a low price, for example, saves both time and money. They also offer car parks, ready meals and loyalty discounts, and many are open until late at night, which suits people who work long hours. Competition between supermarkets keeps prices low, which helps families on tight budgets. However, large stores can drive small shops out of business and often pay suppliers less.\n\nIn conclusion, both views have merit. Overall, I believe that a mix serves different needs: supermarkets are practical for the weekly shop, but local shops deserve support because they strengthen the community.",
+  "analysis": {
+    "type_vi": "Discuss both views: cửa hàng nhỏ hay siêu thị",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu lựa chọn cửa hàng góc phố vs siêu thị lớn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cửa hàng nhỏ",
+        "think": "Dịch vụ cá nhân, cộng đồng: biết khách, giữ tiền trong khu; ví dụ người bán tạp hoá nhớ bà cụ không xách nổi túi nặng giao hàng, để ý sức khoẻ; rau tươi từ nông trại gần, việc làm địa phương, phố sống động, tài trợ thể thao, lễ hội; gần nên nhanh, đi bộ giảm lái xe.",
+        "refs": [
+          "ID-eco-local-shops"
+        ]
+      },
+      {
+        "step": "3. Siêu thị",
+        "think": "Giá thấp và đa dạng: mua số lượng lớn, hàng nghìn sản phẩm, giờ dài; ví dụ gia đình bận mua thực phẩm, quần áo, đồ gia dụng một chuyến giá thấp tiết kiệm thời gian, tiền; bãi đỗ xe, đồ ăn sẵn, giảm giá thẻ; mở khuya; cạnh tranh giữ giá thấp; nhược: đuổi cửa hàng nhỏ, ép nhà cung cấp.",
+        "refs": [
+          "ID-eco-local-shops"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp: siêu thị cho mua tuần, cửa hàng nhỏ xứng đáng hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-local-shops"
+    ]
+  },
+  "chunks": [
+    [
+      "a corner shop where the owner knows the customers",
+      "cửa hàng góc phố nơi chủ tiệm biết khách hàng"
+    ],
+    [
+      "a large supermarket with hundreds of products",
+      "siêu thị lớn với hàng trăm sản phẩm"
+    ],
+    [
+      "personal service and community links",
+      "dịch vụ cá nhân và mối liên kết cộng đồng"
+    ],
+    [
+      "keep money in the area",
+      "giữ tiền lại trong khu vực"
+    ],
+    [
+      "cannot carry heavy bags",
+      "không xách nổi túi nặng"
+    ],
+    [
+      "deliver her shopping",
+      "giao hàng đã mua của bà"
+    ],
+    [
+      "keep an eye on her health",
+      "để mắt đến sức khoẻ của bà"
+    ],
+    [
+      "fresh produce from nearby farms",
+      "nông sản tươi từ các nông trại gần đó"
+    ],
+    [
+      "make streets lively",
+      "làm đường phố sôi động"
+    ],
+    [
+      "sponsor local sports and festivals",
+      "tài trợ thể thao và lễ hội địa phương"
+    ],
+    [
+      "walking to the shop reduces the need to drive",
+      "đi bộ đến cửa hàng giảm nhu cầu lái xe"
+    ],
+    [
+      "low prices and choice",
+      "giá thấp và nhiều lựa chọn"
+    ],
+    [
+      "buy in bulk, stock thousands of products and open long hours",
+      "mua số lượng lớn, bày bán hàng nghìn sản phẩm và mở cửa nhiều giờ"
+    ],
+    [
+      "food, clothes and household items in one trip",
+      "thực phẩm, quần áo và đồ gia dụng trong một chuyến"
+    ],
+    [
+      "saves both time and money",
+      "tiết kiệm cả thời gian và tiền bạc"
+    ],
+    [
+      "car parks, ready meals and loyalty discounts",
+      "bãi đỗ xe, bữa ăn làm sẵn và giảm giá cho khách hàng thân thiết"
+    ],
+    [
+      "open until late at night",
+      "mở cửa đến khuya"
+    ],
+    [
+      "families on tight budgets",
+      "các gia đình có ngân sách eo hẹp"
+    ],
+    [
+      "drive small shops out of business",
+      "đẩy cửa hàng nhỏ đến chỗ phá sản"
+    ],
+    [
+      "strengthen the community",
+      "củng cố cộng đồng"
+    ]
+  ]
+}

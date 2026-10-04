@@ -1,0 +1,128 @@
+{
+  "questionId": 484,
+  "text": "When recessions arrive, theatres, design studios, publishers and film crews often lose customers first, and this essay will suggest practical measures that governments could take to support creative industries during economic downturns, focusing on emergency finance and on helping the sector to adapt.\n\nTo begin with, governments can protect creative industries with emergency funds, tax relief and commissions. Artists and studios rely on irregular income and discretionary spending, so grants, loans, public contracts and help with digital and foreign markets keep talent and skills alive. A theatre company that cannot sell tickets during a crisis, for example, can survive with a government grant that pays rent and wages until audiences return. Temporary reductions in sales tax and business charges leave more money in the sector, while loans on favourable terms prevent firms from collapsing. Governments can also commission murals, films, music and design for public buildings and campaigns, which gives work to many freelancers.\n\nIn addition, authorities should help the sector to adapt and to grow. Training in digital skills allows creators to sell online, and export agencies can help studios to reach foreign markets where demand may be stronger. Shared workspaces at low rent and funds for new ideas encourage start-ups, and income support for self-employed artists prevents them from leaving the profession. Equally important, protecting copyright ensures that creators are paid when their work is used. The sector recovers faster and contributes to growth, since creative industries employ many people and attract tourists, and a recession is a time to preserve skills that would take years to rebuild.\n\nIn conclusion, emergency finance together with support for adaptation and export offers the most realistic way to protect creative industries in a downturn.",
+  "analysis": {
+    "type_vi": "Solutions: hỗ trợ ngành sáng tạo khi suy thoái",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhà hát, studio, nhà xuất bản, đoàn phim mất khách đầu tiên; hai nhóm: tài chính khẩn cấp; giúp thích nghi.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Quỹ khẩn cấp, giảm thuế, đặt hàng: nghệ sĩ thu nhập thất thường, chi tiêu tuỳ ý nên trợ cấp, vay, hợp đồng công, hỗ trợ số, thị trường nước ngoài giữ tài năng; ví dụ đoàn kịch không bán vé trong khủng hoảng sống nhờ trợ cấp trả thuê, lương đến khi khán giả trở lại; giảm thuế bán hàng tạm thời, phí kinh doanh; vay ưu đãi; đặt tranh tường, phim, nhạc, thiết kế cho công trình, chiến dịch công.",
+        "refs": [
+          "ID-eco-creative-industries",
+          "ID-eco-small-business-support",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Giúp thích nghi, tăng trưởng: đào tạo kỹ năng số bán online; cơ quan xuất khẩu giúp studio ra thị trường nước ngoài; không gian chung thuê thấp, quỹ ý tưởng; hỗ trợ thu nhập nghệ sĩ tự do; bảo vệ bản quyền; ngành phục hồi nhanh, tạo nhiều việc, thu hút du lịch; bảo tồn kỹ năng.",
+        "refs": [
+          "ID-eco-creative-industries",
+          "ID-work-startups",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tài chính khẩn cấp, hỗ trợ thích nghi và xuất khẩu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-creative-industries"
+    ]
+  },
+  "chunks": [
+    [
+      "theatres, design studios, publishers and film crews",
+      "nhà hát, studio thiết kế, nhà xuất bản và đoàn làm phim"
+    ],
+    [
+      "support creative industries during economic downturns",
+      "hỗ trợ các ngành sáng tạo trong thời kỳ kinh tế suy thoái"
+    ],
+    [
+      "emergency finance",
+      "tài chính khẩn cấp"
+    ],
+    [
+      "emergency funds, tax relief and commissions",
+      "quỹ khẩn cấp, giảm thuế và hợp đồng đặt hàng"
+    ],
+    [
+      "irregular income and discretionary spending",
+      "thu nhập thất thường và chi tiêu tuỳ ý"
+    ],
+    [
+      "grants, loans, public contracts",
+      "trợ cấp, khoản vay, hợp đồng công"
+    ],
+    [
+      "help with digital and foreign markets",
+      "hỗ trợ về thị trường số và thị trường nước ngoài"
+    ],
+    [
+      "keep talent and skills alive",
+      "giữ cho tài năng và kỹ năng không mai một"
+    ],
+    [
+      "cannot sell tickets during a crisis",
+      "không thể bán vé trong thời kỳ khủng hoảng"
+    ],
+    [
+      "pays rent and wages until audiences return",
+      "trả tiền thuê và lương cho đến khi khán giả quay lại"
+    ],
+    [
+      "Temporary reductions in sales tax and business charges",
+      "giảm tạm thời thuế bán hàng và phí kinh doanh"
+    ],
+    [
+      "loans on favourable terms",
+      "khoản vay với điều kiện ưu đãi"
+    ],
+    [
+      "murals, films, music and design",
+      "tranh tường, phim, âm nhạc và thiết kế"
+    ],
+    [
+      "give work to many freelancers",
+      "tạo việc làm cho nhiều người làm tự do"
+    ],
+    [
+      "Training in digital skills",
+      "đào tạo kỹ năng số"
+    ],
+    [
+      "export agencies",
+      "cơ quan xúc tiến xuất khẩu"
+    ],
+    [
+      "Shared workspaces at low rent",
+      "không gian làm việc chung với giá thuê thấp"
+    ],
+    [
+      "income support for self-employed artists",
+      "hỗ trợ thu nhập cho nghệ sĩ tự do"
+    ],
+    [
+      "protecting copyright",
+      "bảo vệ bản quyền"
+    ],
+    [
+      "preserve skills that would take years to rebuild",
+      "bảo tồn những kỹ năng phải mất nhiều năm mới xây dựng lại được"
+    ]
+  ]
+}

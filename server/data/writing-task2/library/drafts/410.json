@@ -1,0 +1,126 @@
+{
+  "questionId": 410,
+  "text": "Water, electricity, gas and public transport networks were once run by governments in many countries, but several have sold them to private companies, and this essay will discuss the advantages and disadvantages of privatising utilities before explaining my own view.\n\nOn the positive side, privatisation can bring investment and efficiency. Private owners may raise capital from investors, introduce modern technology and reduce waste. A privatised power company that installs smart meters and repairs its network, for example, may cut losses and improve the quality of supply. The government saves money that it would have used for investment, and it can spend it on schools or hospitals instead. Competition between suppliers of electricity or gas can offer customers lower prices and better service, and private managers are free from political interference in decisions such as hiring and pricing.\n\nOn the negative side, utilities are natural monopolies, so privatisation risks higher prices and neglect. Water, power and gas networks cannot be duplicated, so customers cannot switch, and private owners may raise bills and underinvest while paying dividends. A water company that pays large dividends but leaves old pipes leaking, for example, harms both customers and the environment. Poor households may struggle to pay rising bills for essential services, and unprofitable rural areas may receive worse service. Where privatisation has been poorly regulated, the results have been disappointing. Public ownership or strict regulation protects consumers. If utilities are privatised, an independent regulator must set price limits, require investment, publish performance data and punish failure, and the government should be ready to take control if a company collapses.\n\nIn conclusion, privatising utilities can provide capital and efficiency, but it creates serious risks. On balance, I believe that the disadvantages outweigh the advantages for essential networks.",
+  "analysis": {
+    "type_vi": "A/D: tư nhân hoá tiện ích",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nước, điện, gas, giao thông từng do chính phủ nay bán cho công ty tư; kết luận nhược lớn hơn với mạng thiết yếu.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Đầu tư, hiệu quả: chủ tư huy động vốn, công nghệ hiện đại, giảm lãng phí; ví dụ công ty điện tư nhân lắp công tơ thông minh, sửa lưới cắt thất thoát, cải thiện chất lượng; chính phủ tiết kiệm chi đầu tư, dùng cho trường, bệnh viện; cạnh tranh nhà cung cấp điện, gas giá thấp, dịch vụ tốt; quản lý không bị can thiệp chính trị.",
+        "refs": [
+          "ID-eco-utility-privatisation",
+          "ID-eco-privatisation"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Độc quyền tự nhiên nên giá cao, bỏ bê: không nhân đôi mạng, khách không đổi được, chủ tư tăng hoá đơn, đầu tư ít trả cổ tức; ví dụ công ty nước trả cổ tức lớn nhưng để ống cũ rò rỉ hại khách, môi trường; hộ nghèo khó trả, nông thôn không lãi dịch vụ kém; điều tiết yếu kết quả đáng thất vọng; công hữu hoặc điều tiết chặt: cơ quan độc lập giới hạn giá, bắt đầu tư, công bố, phạt, sẵn sàng tiếp quản.",
+        "refs": [
+          "ID-eco-utility-privatisation",
+          "ID-eco-privatisation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhược hơn ưu với mạng thiết yếu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-utility-privatisation"
+    ]
+  },
+  "chunks": [
+    [
+      "Water, electricity, gas and public transport networks",
+      "mạng lưới nước, điện, khí đốt và giao thông công cộng"
+    ],
+    [
+      "privatising utilities",
+      "tư nhân hoá các dịch vụ tiện ích"
+    ],
+    [
+      "bring investment and efficiency",
+      "mang lại đầu tư và hiệu quả"
+    ],
+    [
+      "raise capital from investors, introduce modern technology and reduce waste",
+      "huy động vốn từ nhà đầu tư, đưa công nghệ hiện đại vào và giảm lãng phí"
+    ],
+    [
+      "installs smart meters and repairs its network",
+      "lắp đặt công tơ thông minh và sửa chữa mạng lưới"
+    ],
+    [
+      "cut losses and improve the quality of supply",
+      "giảm thất thoát và cải thiện chất lượng cung cấp"
+    ],
+    [
+      "spend it on schools or hospitals",
+      "chi nó cho trường học hoặc bệnh viện"
+    ],
+    [
+      "Competition between suppliers of electricity or gas",
+      "sự cạnh tranh giữa các nhà cung cấp điện hoặc khí đốt"
+    ],
+    [
+      "political interference",
+      "sự can thiệp chính trị"
+    ],
+    [
+      "natural monopolies",
+      "độc quyền tự nhiên"
+    ],
+    [
+      "higher prices and neglect",
+      "giá cao hơn và sự bỏ bê"
+    ],
+    [
+      "cannot be duplicated",
+      "không thể nhân đôi"
+    ],
+    [
+      "raise bills and underinvest while paying dividends",
+      "tăng hoá đơn và đầu tư thiếu trong khi vẫn trả cổ tức"
+    ],
+    [
+      "old pipes leaking",
+      "đường ống cũ bị rò rỉ"
+    ],
+    [
+      "Poor households may struggle to pay rising bills",
+      "hộ nghèo có thể chật vật trả hoá đơn tăng"
+    ],
+    [
+      "unprofitable rural areas",
+      "các vùng nông thôn không sinh lời"
+    ],
+    [
+      "poorly regulated",
+      "được quản lý kém"
+    ],
+    [
+      "Public ownership or strict regulation protects consumers",
+      "sở hữu công hoặc quy định nghiêm ngặt bảo vệ người tiêu dùng"
+    ],
+    [
+      "An independent regulator",
+      "một cơ quan quản lý độc lập"
+    ],
+    [
+      "set price limits, require investment, publish performance data",
+      "đặt giới hạn giá, yêu cầu đầu tư, công bố dữ liệu hiệu suất"
+    ]
+  ]
+}

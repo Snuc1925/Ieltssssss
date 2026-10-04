@@ -1,0 +1,126 @@
+{
+  "questionId": 418,
+  "text": "In villages and city slums, a small loan can mean the difference between a stall that stays closed and one that supports a family, and this essay will discuss how microfinance impacts small entrepreneurs, focusing on access to capital and on the risks of debt.\n\nTo begin with, microfinance can help small entrepreneurs start and grow businesses. Tiny loans let poor people buy stock or tools and earn income, especially women. A woman who borrows the equivalent of fifty dollars to buy a sewing machine, for example, can make clothes to sell, repay the loan from her profits and then borrow again to expand. Traditional banks usually refuse such customers because they have no property and the loans are too small to be profitable. Microfinance institutions use group lending and community pressure instead of collateral, and many provide training and savings accounts. Studies have found that access to credit increases household income, improves food and schooling and gives women more influence at home.\n\nHowever, high interest and debt traps limit the benefits. Because administration is costly, rates can be very high, and borrowers who cannot repay may take new loans to pay old ones, falling deeper into debt. Pressure from group members or collectors can cause stress and, in extreme cases, tragedy. Not every borrower is a natural entrepreneur, and many use loans for consumption instead of investing. Training and regulation make it work. Lenders should offer business advice, set fair interest rates and avoid abusive collection, and governments should supervise the sector and promote savings and insurance products alongside credit.\n\nIn conclusion, microfinance can empower small entrepreneurs by giving them capital, but it needs responsible lending to prevent debt problems.",
+  "analysis": {
+    "type_vi": "Opinion: tài chính vi mô ảnh hưởng doanh nhân nhỏ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu khoản vay nhỏ phân biệt quầy đóng và quầy nuôi gia đình; hai ý: tiếp cận vốn; rủi ro nợ.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích",
+        "think": "Giúp khởi nghiệp, phát triển: vay nhỏ mua hàng, dụng cụ, kiếm thu nhập, nhất là phụ nữ; ví dụ phụ nữ vay khoảng 50 đô mua máy may làm quần áo bán trả khoản vay vay tiếp mở rộng; ngân hàng truyền thống từ chối vì không tài sản, món nhỏ không lãi; tài chính vi mô vay nhóm, áp lực cộng đồng thay thế chấp, đào tạo, tiết kiệm; nghiên cứu: thu nhập, thực phẩm, học hành, ảnh hưởng của phụ nữ.",
+        "refs": [
+          "ID-eco-microfinance",
+          "ID-eco-small-business-support",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Rủi ro",
+        "think": "Lãi cao, bẫy nợ: chi phí quản lý lớn lãi rất cao, người vay vay mới trả cũ nợ sâu hơn; áp lực nhóm hoặc người thu nợ gây stress, bi kịch; không ai cũng là doanh nhân, dùng cho tiêu dùng; đào tạo, điều tiết: tư vấn kinh doanh, lãi công bằng, tránh thu nợ lạm dụng, giám sát, tiết kiệm, bảo hiểm.",
+        "refs": [
+          "ID-eco-microfinance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trao quyền doanh nhân nhỏ nhưng cần cho vay có trách nhiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-microfinance"
+    ]
+  },
+  "chunks": [
+    [
+      "a small loan can mean the difference",
+      "một khoản vay nhỏ có thể tạo nên sự khác biệt"
+    ],
+    [
+      "microfinance impacts small entrepreneurs",
+      "tài chính vi mô tác động đến các doanh nhân nhỏ"
+    ],
+    [
+      "access to capital and on the risks of debt",
+      "khả năng tiếp cận vốn và rủi ro nợ nần"
+    ],
+    [
+      "start and grow businesses",
+      "bắt đầu và phát triển doanh nghiệp"
+    ],
+    [
+      "Tiny loans let poor people buy stock or tools",
+      "khoản vay nhỏ giúp người nghèo mua hàng hoá hoặc dụng cụ"
+    ],
+    [
+      "borrows the equivalent of fifty dollars",
+      "vay số tiền tương đương năm mươi đô la"
+    ],
+    [
+      "buy a sewing machine",
+      "mua một chiếc máy may"
+    ],
+    [
+      "repay the loan from her profits",
+      "trả khoản vay từ lợi nhuận của cô"
+    ],
+    [
+      "borrow again to expand",
+      "vay lại để mở rộng"
+    ],
+    [
+      "no property",
+      "không có tài sản"
+    ],
+    [
+      "too small to be profitable",
+      "quá nhỏ để có lãi"
+    ],
+    [
+      "group lending and community pressure instead of collateral",
+      "cho vay nhóm và áp lực cộng đồng thay cho tài sản thế chấp"
+    ],
+    [
+      "training and savings accounts",
+      "đào tạo và tài khoản tiết kiệm"
+    ],
+    [
+      "access to credit increases household income",
+      "tiếp cận tín dụng làm tăng thu nhập hộ gia đình"
+    ],
+    [
+      "gives women more influence at home",
+      "trao cho phụ nữ nhiều ảnh hưởng hơn ở nhà"
+    ],
+    [
+      "high interest and debt traps",
+      "lãi suất cao và bẫy nợ"
+    ],
+    [
+      "take new loans to pay old ones",
+      "vay khoản mới để trả khoản cũ"
+    ],
+    [
+      "Pressure from group members or collectors",
+      "áp lực từ các thành viên nhóm hoặc người thu nợ"
+    ],
+    [
+      "use loans for consumption instead of investing",
+      "dùng khoản vay để tiêu dùng thay vì đầu tư"
+    ],
+    [
+      "fair interest rates",
+      "lãi suất công bằng"
+    ]
+  ]
+}

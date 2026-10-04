@@ -1,0 +1,129 @@
+{
+  "questionId": 179,
+  "text": "Governments in many countries have sold or are considering selling services such as railways, water supply and prisons to private companies, and the question is whether the advantages of privatising services outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, privatising services can raise efficiency. Competition and profit motives encourage cost control and innovation. A railway operator that wants to attract passengers, for example, may introduce better timetables, cleaner trains and online booking, because it loses money if customers go elsewhere. Private firms can raise capital from investors, which allows them to modernise equipment faster than a government with limited budgets. The state saves money when it no longer has to pay for losses, and it can concentrate on regulation and on core tasks such as health and education. Managers in private companies can also dismiss poor performers more easily, which improves quality.\n\nOn the negative side, private firms may raise prices, ignore unprofitable areas and form monopolies. A private water company that serves a remote village at a loss, for example, may stop doing so, leaving residents without an essential service. Where there is no real competition, as with pipes or rails, firms can charge high prices and reduce investment while paying large dividends. Workers may face job cuts and lower pay. Strong regulators and clear service duties are essential. Governments should set quality standards, cap prices, require service to all areas and be ready to take control if a company fails.\n\nIn conclusion, privatisation can improve efficiency but also threatens access and fairness. On balance, I believe that the disadvantages outweigh the advantages for essential services, although privatisation can be suitable for activities where real competition exists.",
+  "analysis": {
+    "type_vi": "A/D: tư nhân hoá dịch vụ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu bán hoặc cân nhắc bán đường sắt, nước, nhà tù; kết luận nhược lớn hơn với dịch vụ thiết yếu.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Tăng hiệu quả: cạnh tranh, lợi nhuận kiểm soát chi phí, đổi mới; ví dụ nhà vận hành đường sắt muốn thu hút hành khách giới thiệu lịch tốt hơn, tàu sạch, đặt vé trực tuyến vì mất tiền nếu khách đi nơi khác; huy động vốn nhà đầu tư hiện đại nhanh hơn; nhà nước tiết kiệm lỗ, tập trung điều tiết, y tế, giáo dục; quản lý thay người kém.",
+        "refs": [
+          "ID-eco-privatisation"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Giá cao, bỏ qua khu không lãi, độc quyền: ví dụ công ty nước tư phục vụ làng xa thua lỗ có thể ngừng, dân mất dịch vụ thiết yếu; không cạnh tranh thật (ống, ray) giá cao, giảm đầu tư, cổ tức lớn; công nhân cắt việc, lương; cơ quan điều tiết mạnh, nghĩa vụ phục vụ rõ: chuẩn chất lượng, trần giá, phục vụ mọi vùng, sẵn sàng tiếp quản.",
+        "refs": [
+          "ID-eco-privatisation",
+          
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhược hơn ưu với dịch vụ thiết yếu; hợp với hoạt động có cạnh tranh thật.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-privatisation"
+    ]
+  },
+  "chunks": [
+    [
+      "railways, water supply and prisons",
+      "đường sắt, cấp nước và nhà tù"
+    ],
+    [
+      "privatising services",
+      "tư nhân hoá dịch vụ"
+    ],
+    [
+      "raise efficiency",
+      "nâng cao hiệu quả"
+    ],
+    [
+      "Competition and profit motives encourage cost control and innovation",
+      "cạnh tranh và động cơ lợi nhuận khuyến khích kiểm soát chi phí và đổi mới"
+    ],
+    [
+      "attract passengers",
+      "thu hút hành khách"
+    ],
+    [
+      "better timetables, cleaner trains and online booking",
+      "lịch trình tốt hơn, tàu sạch hơn và đặt vé trực tuyến"
+    ],
+    [
+      "loses money if customers go elsewhere",
+      "mất tiền nếu khách đi nơi khác"
+    ],
+    [
+      "raise capital from investors",
+      "huy động vốn từ nhà đầu tư"
+    ],
+    [
+      "modernise equipment faster",
+      "hiện đại hoá thiết bị nhanh hơn"
+    ],
+    [
+      "pay for losses",
+      "trả các khoản lỗ"
+    ],
+    [
+      "core tasks such as health and education",
+      "nhiệm vụ cốt lõi như y tế và giáo dục"
+    ],
+    [
+      "dismiss poor performers",
+      "sa thải người làm việc kém"
+    ],
+    [
+      "raise prices, ignore unprofitable areas and form monopolies",
+      "tăng giá, bỏ qua khu vực không sinh lời và hình thành độc quyền"
+    ],
+    [
+      "serves a remote village at a loss",
+      "phục vụ một ngôi làng xa với tình trạng thua lỗ"
+    ],
+    [
+      "an essential service",
+      "một dịch vụ thiết yếu"
+    ],
+    [
+      "no real competition",
+      "không có cạnh tranh thực sự"
+    ],
+    [
+      "pay large dividends",
+      "trả cổ tức lớn"
+    ],
+    [
+      "job cuts and lower pay",
+      "cắt giảm việc làm và lương thấp hơn"
+    ],
+    [
+      "Strong regulators and clear service duties",
+      "cơ quan quản lý mạnh và nghĩa vụ phục vụ rõ ràng"
+    ],
+    [
+      "cap prices",
+      "áp trần giá"
+    ],
+    [
+      "take control if a company fails",
+      "tiếp quản nếu một công ty thất bại"
+    ]
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "questionId": 202,
+  "text": "Many shoppers say that they care about fair wages and the environment, yet few check how products are made, and this essay will suggest practical measures that governments could take to promote ethical consumerism, focusing on reliable information and on incentives.\n\nTo begin with, governments can promote ethical consumerism with clear labels, honest reporting and public purchasing. Shoppers need reliable information and incentives, so certified labels, supply-chain disclosure, tax breaks and ethical public procurement make responsible choices easier. A shopper who sees an official label that guarantees fair wages and low emissions, for example, can choose without reading long reports. Companies could be required to publish where their goods come from and under what conditions they are made, and false claims should be punished by fines. Governments are also major buyers of food, uniforms and furniture, so by preferring ethical suppliers, they create a large market and set an example.\n\nIn addition, authorities should reward responsible behaviour and educate the public. Lower taxes on certified fair-trade or recycled products make them cheaper than ordinary goods, while higher charges on products that cause serious harm discourage them. Schools can teach pupils about the effects of their purchases, and campaigns can show the real cost of cheap clothing or food. Equally important, governments can support small ethical producers with loans and training so that supply grows to meet demand. Over time, demand for fair and green products rises, which encourages more companies to change their methods.\n\nIn conclusion, clear labels, supply-chain transparency, fiscal incentives and education offer the most realistic way to promote ethical consumerism.",
+  "analysis": {
+    "type_vi": "Solutions: chính phủ thúc đẩy tiêu dùng đạo đức",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người nói quan tâm nhưng ít kiểm tra; hai nhóm: thông tin tin cậy; ưu đãi.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Nhãn rõ, báo cáo trung thực, mua sắm công: người mua cần thông tin tin cậy; ví dụ người mua thấy nhãn chính thức bảo đảm lương công bằng, phát thải thấp chọn không đọc báo cáo dài; công ty công bố nguồn gốc, điều kiện, phạt sai; chính phủ mua thực phẩm, đồng phục, nội thất nên ưu tiên nhà cung cấp đạo đức tạo thị trường lớn, làm gương.",
+        "refs": [
+          "ID-eco-ethical-consumerism",
+          "ID-eco-csr",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Thưởng hành vi có trách nhiệm, giáo dục: thuế thấp hơn sản phẩm công bằng, tái chế rẻ hơn; phí cao hơn sản phẩm gây hại; trường dạy học sinh; chiến dịch cho thấy chi phí thật của quần áo, đồ ăn rẻ; hỗ trợ nhà sản xuất đạo đức nhỏ bằng vay, đào tạo để cung đáp ứng cầu; cầu tăng, công ty đổi phương pháp.",
+        "refs": [
+          "ID-eco-ethical-consumerism",
+          "ID-env-gov-rules",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhãn, minh bạch, ưu đãi tài khoá, giáo dục.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-ethical-consumerism"
+    ]
+  },
+  "chunks": [
+    [
+      "care about fair wages and the environment",
+      "quan tâm đến tiền lương công bằng và môi trường"
+    ],
+    [
+      "promote ethical consumerism",
+      "thúc đẩy tiêu dùng có đạo đức"
+    ],
+    [
+      "reliable information and on incentives",
+      "thông tin đáng tin cậy và các ưu đãi"
+    ],
+    [
+      "clear labels, honest reporting and public purchasing",
+      "nhãn rõ ràng, báo cáo trung thực và mua sắm công"
+    ],
+    [
+      "certified labels, supply-chain disclosure, tax breaks and ethical public procurement",
+      "nhãn được chứng nhận, công bố chuỗi cung ứng, ưu đãi thuế và mua sắm công đạo đức"
+    ],
+    [
+      "an official label that guarantees fair wages and low emissions",
+      "nhãn chính thức đảm bảo lương công bằng và phát thải thấp"
+    ],
+    [
+      "publish where their goods come from",
+      "công bố hàng hoá của họ đến từ đâu"
+    ],
+    [
+      "false claims should be punished by fines",
+      "các tuyên bố sai nên bị phạt tiền"
+    ],
+    [
+      "major buyers of food, uniforms and furniture",
+      "những người mua lớn thực phẩm, đồng phục và đồ nội thất"
+    ],
+    [
+      "prefer ethical suppliers",
+      "ưu tiên nhà cung cấp có đạo đức"
+    ],
+    [
+      "set an example",
+      "làm gương"
+    ],
+    [
+      "reward responsible behaviour",
+      "thưởng cho hành vi có trách nhiệm"
+    ],
+    [
+      "certified fair-trade or recycled products",
+      "sản phẩm thương mại công bằng hoặc tái chế được chứng nhận"
+    ],
+    [
+      "higher charges on products that cause serious harm",
+      "phí cao hơn đối với sản phẩm gây hại nghiêm trọng"
+    ],
+    [
+      "the real cost of cheap clothing or food",
+      "chi phí thực của quần áo hoặc thực phẩm giá rẻ"
+    ],
+    [
+      "small ethical producers with loans and training",
+      "các nhà sản xuất nhỏ có đạo đức bằng khoản vay và đào tạo"
+    ],
+    [
+      "supply grows to meet demand",
+      "nguồn cung tăng để đáp ứng cầu"
+    ],
+    [
+      "fiscal incentives",
+      "ưu đãi tài khoá"
+    ]
+  ]
+}

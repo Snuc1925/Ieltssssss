@@ -1,0 +1,124 @@
+{
+  "questionId": 69,
+  "text": "In many cities, families live in crowded slums only a few kilometres from glittering towers, and this essay will discuss the causes of urban poverty and suggest solutions, focusing on work and housing.\n\nTo begin with, urban poverty comes from insecure work, costly housing and low skills. Migrants and low earners pay high rents for unstable jobs. A young man who arrives from the countryside without qualifications, for example, may find only casual work on building sites, earn too little to rent a decent room and end up sharing a crowded space with strangers. Without a secure contract, he has no sick pay or savings, and one illness can push the family into debt. Poor schools in deprived districts and the cost of transport to distant jobs add to the cycle. Cities also attract more workers than the formal economy can employ, so many are forced into the informal sector, where wages are low and conditions are unsafe.\n\nIn terms of solutions, affordable homes, vocational training, fair wages and services in poor districts help people to escape poverty. Governments can build social housing and improve slums with water, electricity and sanitation, while setting a minimum wage and enforcing contracts to protect workers. Training centres that teach construction, computing or care skills, for example, allow unemployed adults to find better jobs. Public transport links reduce the time and cost of getting to work, and microloans help small traders. Investment in schools and clinics in poor districts gives children better chances. Such policies replace dependency with opportunity.\n\nIn conclusion, urban poverty arises from insecure work, expensive housing and low skills, and it can be tackled through housing, training and decent wages.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nghèo đô thị",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu khu ổ chuột cạnh toà tháp; nguyên nhân và giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Việc làm bấp bênh, nhà đắt, kỹ năng thấp: người nhập cư trả thuê cao cho việc không ổn định; ví dụ thanh niên từ nông thôn không bằng cấp chỉ việc thời vụ ở công trường, không đủ thuê phòng tử tế, ở chung; không hợp đồng không ốm đau, tiết kiệm, một bệnh đẩy gia đình vào nợ; trường kém, chi phí đi lại; thành phố hút nhiều lao động hơn khu chính thức nên khu phi chính thức lương thấp.",
+        "refs": [
+          "ID-eco-urban-poverty",
+          "ID-work-gig-security",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Nhà giá phải chăng, đào tạo nghề, lương công bằng, dịch vụ khu nghèo: nhà xã hội, cải tạo ổ chuột nước, điện, vệ sinh; lương tối thiểu, hợp đồng; trung tâm đào tạo xây dựng, tin học, chăm sóc giúp thất nghiệp có việc tốt; giao thông giảm thời gian; tiểu vay; trường, trạm y tế.",
+        "refs": [
+          "ID-eco-urban-poverty",
+          "ID-city-homelessness",
+          "ID-eco-minimum-wage",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Do việc bấp bênh, nhà đắt, kỹ năng thấp; giải quyết bằng nhà, đào tạo, lương.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-urban-poverty"
+    ]
+  },
+  "chunks": [
+    [
+      "crowded slums only a few kilometres from glittering towers",
+      "khu ổ chuột đông đúc chỉ cách các toà tháp lấp lánh vài km"
+    ],
+    [
+      "causes of urban poverty",
+      "nguyên nhân của nghèo đói đô thị"
+    ],
+    [
+      "work and housing",
+      "việc làm và nhà ở"
+    ],
+    [
+      "insecure work, costly housing and low skills",
+      "việc làm bấp bênh, nhà ở đắt đỏ và kỹ năng thấp"
+    ],
+    [
+      "Migrants and low earners pay high rents for unstable jobs",
+      "người nhập cư và người thu nhập thấp trả tiền thuê cao cho công việc bấp bênh"
+    ],
+    [
+      "arrives from the countryside without qualifications",
+      "từ nông thôn đến mà không có bằng cấp"
+    ],
+    [
+      "casual work on building sites",
+      "công việc thời vụ ở công trường xây dựng"
+    ],
+    [
+      "sharing a crowded space with strangers",
+      "ở chung không gian chật chội với người lạ"
+    ],
+    [
+      "no sick pay or savings",
+      "không có tiền ốm đau hay tiết kiệm"
+    ],
+    [
+      "push the family into debt",
+      "đẩy gia đình vào nợ nần"
+    ],
+    [
+      "Poor schools in deprived districts",
+      "trường học kém ở những khu thiếu thốn"
+    ],
+    [
+      "the formal economy",
+      "khu vực kinh tế chính thức"
+    ],
+    [
+      "the informal sector",
+      "khu vực phi chính thức"
+    ],
+    [
+      "Affordable homes, vocational training, fair wages and services",
+      "nhà ở giá phải chăng, đào tạo nghề, lương công bằng và dịch vụ"
+    ],
+    [
+      "water, electricity and sanitation",
+      "nước, điện và vệ sinh"
+    ],
+    [
+      "enforcing contracts",
+      "thực thi hợp đồng"
+    ],
+    [
+      "construction, computing or care skills",
+      "kỹ năng xây dựng, tin học hoặc chăm sóc"
+    ],
+    [
+      "microloans",
+      "khoản vay vi mô"
+    ],
+    [
+      "replace dependency with opportunity",
+      "thay thế sự phụ thuộc bằng cơ hội"
+    ]
+  ]
+}

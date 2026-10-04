@@ -1,0 +1,124 @@
+{
+  "questionId": 243,
+  "text": "Billboards, television adverts and online banners surround us, and this essay will discuss the role of advertising in shaping consumer culture, focusing on the creation of wants and on its social effects.\n\nTo begin with, advertising shapes consumer culture by creating wants and defining what is fashionable. Constant messages link products to identity and success, so people buy for status. A teenager who sees a sports shoe worn by a famous player in every advertisement, for example, may feel that he needs it in order to fit in, although his old shoes still work. Advertisers use emotion, humour and attractive images to make goods appear exciting, and new models are presented as essential every year. Seasonal campaigns such as sales and gift seasons teach people to spend at certain times. Over time, this builds a culture in which shopping is a leisure activity and possessions measure personal worth.\n\nHowever, advertising also has useful functions. It informs buyers about new products, prices and choices, and it makes competition between companies possible, which can lower prices. Advertising revenue pays for much of the media, from free websites to television channels. Some campaigns promote health, safety or charity, and can influence behaviour in positive ways. Consumers need critical awareness. Schools can teach young people to recognise persuasion techniques, regulators can ban misleading claims and limit advertising to children, and individuals can ask themselves whether they really need a product before buying it.\n\nIn conclusion, advertising plays a major role in shaping consumer culture by creating wants and setting social standards, although it also informs and funds the media.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò quảng cáo trong định hình văn hoá tiêu dùng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu quảng cáo bao quanh; hai ý: tạo nhu muốn; tác động xã hội.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Tạo ham muốn, định nghĩa thời thượng: thông điệp liên tục gắn sản phẩm với bản sắc, thành công; ví dụ thiếu niên thấy giày thể thao cầu thủ nổi tiếng mỗi quảng cáo thấy cần để hoà nhập dù giày cũ còn dùng; cảm xúc, hài hước, hình ảnh; mẫu mới thiết yếu hằng năm; chiến dịch mùa giảm giá, lễ tặng quà dạy chi tiêu đúng lúc; mua sắm thành giải trí, tài sản đo giá trị.",
+        "refs": [
+          "ID-eco-advertising-culture",
+          "ID-media-ads-values",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Chức năng hữu ích",
+        "think": "Thông báo sản phẩm, giá, lựa chọn; cạnh tranh giảm giá; doanh thu trả cho truyền thông; chiến dịch sức khoẻ, an toàn, từ thiện; nhận thức phê phán: trường dạy nhận biết thuyết phục, cơ quan cấm tuyên bố gây hiểu lầm, hạn chế quảng cáo cho trẻ, cá nhân hỏi có cần không.",
+        "refs": [
+          "ID-eco-advertising-culture",
+          "ID-media-ads-unrealistic",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò lớn, cũng thông tin và tài trợ truyền thông.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-advertising-culture"
+    ]
+  },
+  "chunks": [
+    [
+      "Billboards, television adverts and online banners surround us",
+      "biển quảng cáo, quảng cáo truyền hình và banner trực tuyến bao quanh chúng ta"
+    ],
+    [
+      "shaping consumer culture",
+      "định hình văn hoá tiêu dùng"
+    ],
+    [
+      "creating wants and defining what is fashionable",
+      "tạo ra ham muốn và định nghĩa cái gì là thời thượng"
+    ],
+    [
+      "link products to identity and success",
+      "gắn sản phẩm với bản sắc và thành công"
+    ],
+    [
+      "buy for status",
+      "mua vì địa vị"
+    ],
+    [
+      "a sports shoe worn by a famous player",
+      "một đôi giày thể thao do cầu thủ nổi tiếng mang"
+    ],
+    [
+      "fit in",
+      "hoà nhập"
+    ],
+    [
+      "his old shoes still work",
+      "đôi giày cũ của cậu vẫn dùng được"
+    ],
+    [
+      "emotion, humour and attractive images",
+      "cảm xúc, sự hài hước và hình ảnh hấp dẫn"
+    ],
+    [
+      "new models are presented as essential every year",
+      "các mẫu mới được giới thiệu như thiết yếu mỗi năm"
+    ],
+    [
+      "sales and gift seasons",
+      "đợt giảm giá và mùa tặng quà"
+    ],
+    [
+      "shopping is a leisure activity",
+      "mua sắm là một hoạt động giải trí"
+    ],
+    [
+      "possessions measure personal worth",
+      "tài sản đo lường giá trị cá nhân"
+    ],
+    [
+      "informs buyers about new products, prices and choices",
+      "thông báo cho người mua về sản phẩm, giá cả và lựa chọn mới"
+    ],
+    [
+      "competition between companies",
+      "sự cạnh tranh giữa các công ty"
+    ],
+    [
+      "Advertising revenue pays for much of the media",
+      "doanh thu quảng cáo chi trả cho phần lớn truyền thông"
+    ],
+    [
+      "promote health, safety or charity",
+      "quảng bá sức khoẻ, an toàn hoặc từ thiện"
+    ],
+    [
+      "recognise persuasion techniques",
+      "nhận biết các kỹ thuật thuyết phục"
+    ],
+    [
+      "ban misleading claims",
+      "cấm những tuyên bố gây hiểu lầm"
+    ]
+  ]
+}

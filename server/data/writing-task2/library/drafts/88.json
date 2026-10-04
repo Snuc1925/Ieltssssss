@@ -1,0 +1,126 @@
+{
+  "questionId": 88,
+  "text": "Small flying machines that carry parcels, medicines and food are being tested in several countries, and this essay will discuss the advantages and disadvantages of using drones in delivery services before explaining my own view.\n\nOn the positive side, delivery drones are fast and reach remote places. They avoid traffic and can carry medicines to villages. A drone that delivers blood to a rural clinic across a river, for example, can complete in fifteen minutes a journey that would take hours by road, and it may save a life. Drones produce fewer emissions than vans for short trips, and they can reduce the number of lorries in city streets. For companies, they cut labour and fuel costs once the system is established. Customers benefit from rapid service, and drones also help in emergencies such as floods, when roads are blocked.\n\nOn the negative side, drones are limited by load, safety and noise. Small payloads, battery range, accidents and privacy issues limit their use. A drone can carry only a few kilograms for a short distance, so it is unsuitable for furniture or large grocery orders. Noise disturbs residents, and a falling drone may injure people or damage property, especially in crowded areas. Cameras on drones raise concerns about privacy, and rules on airspace are still developing. Weather such as strong wind or rain can ground the machines. Nevertheless, with clear regulations, designated routes and improved batteries, many of these problems can be managed. They suit special cases rather than all deliveries.\n\nIn conclusion, drones offer speed and access in specific situations. On balance, I believe that the advantages outweigh the disadvantages for urgent and remote deliveries, but they will not replace conventional vehicles.",
+  "analysis": {
+    "type_vi": "A/D: drone trong dịch vụ giao hàng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài mô tả máy bay nhỏ chở bưu kiện, thuốc, đồ ăn thử nghiệm.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Nhanh, vùng xa: tránh tắc, chở thuốc đến làng; ví dụ drone giao máu cho trạm y tế bên kia sông 15 phút thay vì hàng giờ, cứu mạng; ít khí thải chặng ngắn, giảm xe tải; giảm chi phí lao động, nhiên liệu; dịch vụ nhanh; khẩn cấp lũ.",
+        "refs": [
+          "ID-eco-drone-delivery",
+          "ID-eco-online-retail"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Giới hạn tải, an toàn, ồn: tải nhỏ, pin, tai nạn, riêng tư; ví dụ drone chỉ chở vài kg quãng ngắn nên không phù hợp đồ nội thất, đơn lớn; ồn phiền cư dân, rơi gây thương tích; camera riêng tư; quy tắc không phận; thời tiết; quy định, tuyến, pin; trường hợp đặc biệt.",
+        "refs": [
+          "ID-eco-drone-delivery",
+          "ID-tech-delivery-robots",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược với giao khẩn cấp, vùng xa; không thay xe thường.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-drone-delivery"
+    ]
+  },
+  "chunks": [
+    [
+      "Small flying machines that carry parcels, medicines and food",
+      "máy bay nhỏ chở bưu kiện, thuốc và đồ ăn"
+    ],
+    [
+      "using drones in delivery services",
+      "sử dụng drone trong dịch vụ giao hàng"
+    ],
+    [
+      "fast and reach remote places",
+      "nhanh và đến được những nơi xa xôi"
+    ],
+    [
+      "avoid traffic",
+      "tránh giao thông"
+    ],
+    [
+      "carry medicines to villages",
+      "chở thuốc đến các ngôi làng"
+    ],
+    [
+      "delivers blood to a rural clinic across a river",
+      "giao máu đến một trạm y tế nông thôn bên kia sông"
+    ],
+    [
+      "complete in fifteen minutes a journey that would take hours by road",
+      "hoàn thành trong mười lăm phút hành trình mất hàng giờ đi đường bộ"
+    ],
+    [
+      "save a life",
+      "cứu một mạng người"
+    ],
+    [
+      "fewer emissions than vans for short trips",
+      "ít khí thải hơn xe tải nhỏ ở chặng ngắn"
+    ],
+    [
+      "reduce the number of lorries in city streets",
+      "giảm số lượng xe tải trên đường phố thành phố"
+    ],
+    [
+      "cut labour and fuel costs",
+      "cắt giảm chi phí lao động và nhiên liệu"
+    ],
+    [
+      "rapid service",
+      "dịch vụ nhanh chóng"
+    ],
+    [
+      "floods, when roads are blocked",
+      "lũ lụt, khi đường bị chặn"
+    ],
+    [
+      "limited by load, safety and noise",
+      "bị giới hạn bởi tải trọng, an toàn và tiếng ồn"
+    ],
+    [
+      "Small payloads, battery range, accidents and privacy issues",
+      "tải trọng nhỏ, phạm vi pin, tai nạn và vấn đề riêng tư"
+    ],
+    [
+      "only a few kilograms for a short distance",
+      "chỉ vài kilôgam cho quãng đường ngắn"
+    ],
+    [
+      "Noise disturbs residents",
+      "tiếng ồn làm phiền cư dân"
+    ],
+    [
+      "a falling drone",
+      "một chiếc drone rơi"
+    ],
+    [
+      "rules on airspace",
+      "quy tắc về không phận"
+    ],
+    [
+      "clear regulations, designated routes and improved batteries",
+      "quy định rõ ràng, tuyến đường chỉ định và pin được cải tiến"
+    ]
+  ]
+}

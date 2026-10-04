@@ -1,0 +1,128 @@
+{
+  "questionId": 233,
+  "text": "Machines that build objects layer by layer from plastic, metal or even concrete are already used in hospitals, factories and homes, and the question is how far 3D printing will change manufacturing within twenty years. I believe that it will transform some areas greatly, although it will not replace mass production.\n\nTo begin with, 3D printing will transform prototypes, custom parts and spare supplies. It makes complex or personalised items quickly and cuts waste and transport. An engineer who wants to test a new design, for example, can print a model overnight instead of waiting weeks for a factory to make a mould. Dentists already print crowns and hearing-aid shells that fit each patient exactly, and surgeons use printed models to plan operations. Remote places such as ships, mines and space stations can print spare parts on the spot rather than carry large stocks. Because the printer adds material rather than cutting it away, less is wasted, and products can be designed in shapes that were once impossible.\n\nHowever, 3D printing is slow and costly for large production runs and limited in materials. A car manufacturer that needs a million identical door handles, for example, can make them far more cheaply by casting or stamping. Printed objects are often weaker or rougher than those made by traditional methods, and only a limited range of plastics and metals can be used. Quality control and intellectual property also raise problems, since anyone with a file can copy a product. It will complement factories rather than replace them. In twenty years, printers will be common in workshops, hospitals and some homes, but most everyday goods will still come from conventional factories.\n\nIn conclusion, 3D printing will change manufacturing to a considerable extent in certain areas, but it will not replace mass production.",
+  "analysis": {
+    "type_vi": "Extent: in 3D thay đổi sản xuất đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài mô tả máy xây vật thể từng lớp; đáp: thay đổi lớn một số mảng, không thay sản xuất hàng loạt.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Nguyên mẫu, linh kiện tuỳ chỉnh, phụ tùng: làm nhanh vật phức tạp, cá nhân, giảm lãng phí, vận chuyển; ví dụ kỹ sư thử thiết kế in mẫu qua đêm thay vì chờ tuần làm khuôn; nha sĩ in mão răng, vỏ máy trợ thính vừa từng người, bác sĩ phẫu thuật in mô hình; tàu, mỏ, trạm vũ trụ in phụ tùng tại chỗ; thêm vật liệu ít lãng phí, hình dạng trước đây bất khả thi.",
+        "refs": [
+          "ID-eco-3d-printing",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chậm, đắt với sản xuất lớn, vật liệu giới hạn: ví dụ hãng ô tô cần một triệu tay nắm giống nhau đúc, dập rẻ hơn nhiều; vật in yếu, thô hơn; kiểm soát chất lượng, sở hữu trí tuệ, ai có tệp cũng sao; bổ sung nhà máy; 20 năm: máy in phổ biến xưởng, bệnh viện, vài nhà, hàng thường vẫn từ nhà máy.",
+        "refs": [
+          "ID-eco-3d-printing",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi đáng kể mảng nhất định, không thay sản xuất hàng loạt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-eco-3d-printing"
+    ]
+  },
+  "chunks": [
+    [
+      "Machines that build objects layer by layer",
+      "máy xây dựng vật thể từng lớp một"
+    ],
+    [
+      "3D printing will change manufacturing",
+      "in 3D sẽ thay đổi sản xuất"
+    ],
+    [
+      "mass production",
+      "sản xuất hàng loạt"
+    ],
+    [
+      "prototypes, custom parts and spare supplies",
+      "nguyên mẫu, linh kiện tuỳ chỉnh và đồ dự phòng"
+    ],
+    [
+      "complex or personalised items quickly",
+      "các sản phẩm phức tạp hoặc cá nhân hoá một cách nhanh chóng"
+    ],
+    [
+      "cuts waste and transport",
+      "giảm lãng phí và vận chuyển"
+    ],
+    [
+      "test a new design",
+      "thử nghiệm một thiết kế mới"
+    ],
+    [
+      "print a model overnight",
+      "in một mô hình qua đêm"
+    ],
+    [
+      "waiting weeks for a factory to make a mould",
+      "chờ hàng tuần để nhà máy làm khuôn"
+    ],
+    [
+      "crowns and hearing-aid shells",
+      "mão răng và vỏ máy trợ thính"
+    ],
+    [
+      "fit each patient exactly",
+      "vừa khít với từng bệnh nhân"
+    ],
+    [
+      "plan operations",
+      "lên kế hoạch phẫu thuật"
+    ],
+    [
+      "ships, mines and space stations",
+      "tàu biển, mỏ và trạm vũ trụ"
+    ],
+    [
+      "print spare parts on the spot",
+      "in phụ tùng thay thế tại chỗ"
+    ],
+    [
+      "adds material rather than cutting it away",
+      "thêm vật liệu thay vì cắt bỏ nó"
+    ],
+    [
+      "shapes that were once impossible",
+      "những hình dạng từng là bất khả thi"
+    ],
+    [
+      "slow and costly for large production runs",
+      "chậm và tốn kém khi sản xuất số lượng lớn"
+    ],
+    [
+      "a million identical door handles",
+      "một triệu tay nắm cửa giống hệt nhau"
+    ],
+    [
+      "casting or stamping",
+      "đúc hoặc dập"
+    ],
+    [
+      "intellectual property",
+      "sở hữu trí tuệ"
+    ],
+    [
+      "complement factories rather than replace them",
+      "bổ sung chứ không thay thế nhà máy"
+    ]
+  ]
+}
