@@ -1,0 +1,130 @@
+{
+  "questionId": 111,
+  "text": "Many countries face two demographic pressures at once: young families need help to raise children, while the number of very old people is growing quickly. This is why opinions are divided as to whether public money should be focused on childcare or on elder care. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of childcare argue that it invests in the future and lets parents work. Good care in the early years builds language, social skills and curiosity, helping children to do well at school and later in life. A child who spends mornings in a good nursery, for example, enters school already able to listen, share and speak in sentences. When affordable care is available, parents, especially mothers, can return to work, which raises household income and tax revenue. The returns on early investment are large, since healthier, better-educated children become productive adults who will support future generations.\n\nOn the other hand, supporters of elder care point out that older people have often worked and paid taxes for decades and deserve dignity in their final years. Many suffer from frailty, dementia or loneliness, and without care they may be neglected, while their relatives are forced to cut their working hours. A woman who looks after both her young children and her elderly mother, for example, may be forced to give up her job. With populations ageing, the demand for care is growing fast, and failure to meet it would cause great suffering.\n\nIn conclusion, both views have merit. Personally, I believe that a balanced budget is wise, with childcare given priority where early investment is most lacking, while elder care is expanded in line with the growth of the ageing population.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi tiêu chính phủ cho chăm sóc trẻ hay người già",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hai áp lực nhân khẩu cùng lúc (gia đình trẻ cần hỗ trợ nuôi con; số người rất già tăng nhanh) giải thích vì sao lựa chọn này khó; hai phe; ý kiến riêng cân bằng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe chăm sóc trẻ",
+        "think": "Đầu tư vào tương lai và cho cha mẹ làm việc: chăm sóc sớm tốt xây ngôn ngữ, kỹ năng xã hội; ví dụ trẻ dành buổi sáng ở nhà trẻ tốt vào trường đã sẵn sàng; chăm sóc giá phải chăng cho mẹ trở lại làm việc, tăng thu nhập và thuế; lợi ích đầu tư sớm lớn vì người trưởng thành năng suất sẽ nuôi thế hệ sau.",
+        "refs": [
+          "ID-fam-childcare-elder",
+          "ID-fam-early-childhood",
+          "EX-fam-nursery-reader"
+        ]
+      },
+      {
+        "step": "3. Phe chăm sóc người già",
+        "think": "Người già đã làm việc đóng thuế hàng chục năm, xứng đáng phẩm giá; nhiều người yếu, sa sút trí tuệ, cô đơn; thiếu chăm sóc bị bỏ rơi trong khi người thân phải giảm giờ làm. Ví dụ phụ nữ chăm cả con nhỏ và mẹ già có thể phải bỏ việc; nhu cầu tăng nhanh khi dân số già.",
+        "refs": [
+          "ID-fam-childcare-elder",
+          "EX-fam-sandwich-carer",
+          "ID-health-longer-life"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ngân sách cân bằng: ưu tiên chăm sóc trẻ nơi thiếu đầu tư sớm, mở rộng chăm sóc người già theo tốc độ già hoá.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-childcare-elder",
+      "EX-fam-sandwich-carer"
+    ]
+  },
+  "chunks": [
+    [
+      "demographic pressures",
+      "áp lực nhân khẩu học"
+    ],
+    [
+      "raise children",
+      "nuôi con"
+    ],
+    [
+      "very old people",
+      "người rất già"
+    ],
+    [
+      "childcare or elder care",
+      "chăm sóc trẻ hay chăm sóc người già"
+    ],
+    [
+      "invests in the future",
+      "đầu tư vào tương lai"
+    ],
+    [
+      "lets parents work",
+      "giúp cha mẹ có thể làm việc"
+    ],
+    [
+      "do well at school and later in life",
+      "học tốt ở trường và về sau trong cuộc đời"
+    ],
+    [
+      "The returns on early investment are large",
+      "lợi ích từ đầu tư sớm là lớn"
+    ],
+    [
+      "productive adults",
+      "người trưởng thành năng suất"
+    ],
+    [
+      "support future generations",
+      "hỗ trợ các thế hệ sau"
+    ],
+    [
+      "worked and paid taxes for decades",
+      "làm việc và đóng thuế hàng chục năm"
+    ],
+    [
+      "dignity in their final years",
+      "phẩm giá trong những năm cuối đời"
+    ],
+    [
+      "frailty, dementia or loneliness",
+      "yếu đuối, sa sút trí tuệ hoặc cô đơn"
+    ],
+    [
+      "neglected",
+      "bị bỏ rơi"
+    ],
+    [
+      "forced to cut their working hours",
+      "bị buộc giảm giờ làm"
+    ],
+    [
+      "give up her job",
+      "bỏ việc"
+    ],
+    [
+      "the demand for care is growing fast",
+      "nhu cầu chăm sóc tăng nhanh"
+    ],
+    [
+      "great suffering",
+      "đau khổ lớn"
+    ],
+    [
+      "a balanced budget is wise",
+      "ngân sách cân bằng là khôn ngoan"
+    ],
+    [
+      "the growth of the ageing population",
+      "sự gia tăng của dân số già"
+    ]
+  ]
+}

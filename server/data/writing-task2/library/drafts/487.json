@@ -1,0 +1,132 @@
+{
+  "questionId": 487,
+  "text": "Millions of children around the world work in farms, mines, factories and homes instead of going to school, and opinions differ on whether individuals should be responsible for preventing child labour or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that ordinary people can contribute. Consumers can choose products that are certified as free from child labour and avoid brands that have been linked to it, which gives companies a commercial reason to check their suppliers. Parents can send their children to school instead of work, and people who see children working illegally can report it. A shopper who refuses to buy goods that are suspiciously cheap, for example, sends a message to manufacturers. Public pressure from consumers and campaigns has in the past persuaded several major companies to change their supply chains. Employers, too, bear responsibility for ensuring that no children work in their businesses.\n\nOn the other hand, advocates of government and society action point out that child labour is mainly caused by poverty and can only be ended by action at several levels. Families that need income send children to work, consumers cannot always see how goods are made, and only governments can pass laws, inspect workplaces and provide schools and support for poor families. A ten-year-old who works in a brick factory to help his family, for example, misses school and may never escape poverty. Governments can also make companies publish information about their supply chains and punish those who break the law. International cooperation is needed because goods cross borders.\n\nIn conclusion, both views have merit. Overall, I believe that governments and companies must take the main responsibility, with consumers and parents playing a supporting role.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm ngăn lao động trẻ em",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (hàng triệu trẻ làm việc ở nông trại, mỏ, nhà máy, nhà thay vì đi học) rồi hai phe; ý kiến riêng chính phủ và công ty chịu trách nhiệm chính, cá nhân hỗ trợ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Người tiêu dùng chọn sản phẩm được chứng nhận không có lao động trẻ em, tránh thương hiệu bị liên hệ; công ty có lý do thương mại kiểm tra nhà cung cấp; cha mẹ cho con đi học thay vì làm việc; người thấy trẻ làm trái luật có thể báo. Ví dụ người mua từ chối hàng rẻ đáng ngờ gửi thông điệp cho nhà sản xuất. Áp lực công chúng đã thuyết phục một số công ty lớn thay đổi chuỗi cung ứng; nhà tuyển dụng chịu trách nhiệm.",
+        "refs": [
+          "ID-fam-child-labour",
+          "ID-env-ind-habits",
+          "ID-env-public-reporting"
+        ]
+      },
+      {
+        "step": "3. Chính phủ và xã hội",
+        "think": "Lao động trẻ em chủ yếu do nghèo, cần hành động ở nhiều cấp: gia đình cần thu nhập cho con đi làm, người tiêu dùng không luôn thấy cách hàng được làm, chỉ chính phủ ban hành luật, thanh tra nơi làm việc, cung cấp trường học và hỗ trợ gia đình nghèo. Ví dụ cậu bé mười tuổi làm ở lò gạch giúp gia đình bỏ học, có thể không thoát nghèo. Buộc công ty công bố chuỗi cung ứng, trừng phạt vi phạm; hợp tác quốc tế vì hàng hoá qua biên giới.",
+        "refs": [
+          "ID-fam-child-labour",
+          "EX-fam-factory-child",
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ và công ty chịu trách nhiệm chính; người tiêu dùng và cha mẹ hỗ trợ.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-child-labour",
+      "EX-fam-factory-child"
+    ]
+  },
+  "chunks": [
+    [
+      "Millions of children around the world work",
+      "hàng triệu trẻ em trên thế giới đi làm"
+    ],
+    [
+      "child labour",
+      "lao động trẻ em"
+    ],
+    [
+      "farms, mines, factories and homes",
+      "nông trại, mỏ, nhà máy và gia đình"
+    ],
+    [
+      "instead of going to school",
+      "thay vì đi học"
+    ],
+    [
+      "preventing child labour",
+      "ngăn chặn lao động trẻ em"
+    ],
+    [
+      "certified as free from child labour",
+      "được chứng nhận không có lao động trẻ em"
+    ],
+    [
+      "a commercial reason to check their suppliers",
+      "lý do thương mại để kiểm tra nhà cung cấp"
+    ],
+    [
+      "suspiciously cheap",
+      "rẻ một cách đáng ngờ"
+    ],
+    [
+      "sends a message to manufacturers",
+      "gửi thông điệp cho nhà sản xuất"
+    ],
+    [
+      "public pressure from consumers",
+      "áp lực công chúng từ người tiêu dùng"
+    ],
+    [
+      "change their supply chains",
+      "thay đổi chuỗi cung ứng"
+    ],
+    [
+      "bear responsibility",
+      "chịu trách nhiệm"
+    ],
+    [
+      "mainly caused by poverty",
+      "chủ yếu do nghèo đói"
+    ],
+    [
+      "action at several levels",
+      "hành động ở nhiều cấp"
+    ],
+    [
+      "Families that need income",
+      "gia đình cần thu nhập"
+    ],
+    [
+      "inspect workplaces",
+      "thanh tra nơi làm việc"
+    ],
+    [
+      "a brick factory",
+      "một lò gạch"
+    ],
+    [
+      "misses school",
+      "bỏ lỡ việc học"
+    ],
+    [
+      "publish information about their supply chains",
+      "công bố thông tin về chuỗi cung ứng của họ"
+    ],
+    [
+      "International cooperation",
+      "hợp tác quốc tế"
+    ]
+  ]
+}

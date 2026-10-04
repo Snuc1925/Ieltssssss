@@ -1,0 +1,129 @@
+{
+  "questionId": 196,
+  "text": "Every family has its own habits, from the way birthdays are celebrated to the stories told at dinner, and these shared customs shape how people see themselves. This essay will explain two key ways in which family traditions influence identity: by giving a sense of belonging and by passing on values and memories.\n\nFirst and foremost, family traditions give children a sense of belonging and identity. Shared rituals such as festival meals, religious ceremonies and annual trips create a feeling of being part of a group with its own history. A family that cooks the same festival dish together every year, for example, creates memories that tie generations together. Children who take part know that they are connected to people before them and after them, which gives them security and a stable starting point from which to explore the world. Even simple customs, such as a weekly Sunday lunch, can make a child feel that he or she belongs.\n\nIn addition, traditions pass on values and cultural heritage. Through stories, songs and customs, grandparents and parents teach respect, generosity, honesty and the history of the family or community, often without formal lessons. Language, food and festivals link people to their culture, which matters particularly for families who have moved to another country. However, traditions can also restrict individual choice if they are applied rigidly, for example when young people feel pressured to follow a career or marriage that their family expects. Healthy traditions are flexible, allowing new generations to adapt them and to add their own. Identity then grows from a balance between inherited roots and personal choice.\n\nTo sum up, family traditions strongly influence identity by giving belonging and passing on values, provided that they allow room for individual development. For these reasons, they deserve to be valued and kept alive.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: truyền thống gia đình ảnh hưởng bản sắc như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu thói quen riêng của mỗi gia đình (cách mừng sinh nhật, câu chuyện kể bên bữa ăn) định hình cách người ta nhìn mình; báo hai cách: cảm giác thuộc về; truyền giá trị và ký ức.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — cảm giác thuộc về",
+        "think": "Nghi lễ chung (bữa tiệc lễ, nghi thức tôn giáo, chuyến đi hằng năm) tạo cảm giác thuộc về nhóm có lịch sử riêng. Ví dụ gia đình nấu cùng một món lễ mỗi năm tạo ký ức gắn các thế hệ. Trẻ biết mình nối với người trước và sau, có an toàn và điểm xuất phát ổn định; phong tục đơn giản như bữa trưa Chủ nhật cũng làm trẻ thấy thuộc về.",
+        "refs": [
+          "ID-fam-traditions-identity",
+          "EX-fam-new-year-meal"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — giá trị và di sản + giới hạn",
+        "think": "Qua câu chuyện, bài hát, phong tục ông bà cha mẹ dạy tôn trọng, hào phóng, trung thực, lịch sử gia đình mà không cần bài học chính thức; ngôn ngữ, món ăn, lễ hội nối với văn hoá nhất là gia đình chuyển nước. Giới hạn: truyền thống cứng nhắc hạn chế lựa chọn cá nhân (nghề, hôn nhân gia đình kỳ vọng); truyền thống lành mạnh linh hoạt cho thế hệ mới thích nghi.",
+        "refs": [
+          "ID-fam-traditions-identity",
+          "ID-fam-grandparents",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng mạnh bản sắc nếu có chỗ cho phát triển cá nhân; nên trân trọng.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-traditions-identity",
+      "EX-fam-new-year-meal"
+    ]
+  },
+  "chunks": [
+    [
+      "family traditions",
+      "truyền thống gia đình"
+    ],
+    [
+      "influence identity",
+      "ảnh hưởng đến bản sắc"
+    ],
+    [
+      "shared customs",
+      "phong tục chung"
+    ],
+    [
+      "a sense of belonging",
+      "cảm giác thuộc về"
+    ],
+    [
+      "passing on values and memories",
+      "truyền giá trị và ký ức"
+    ],
+    [
+      "Shared rituals",
+      "nghi thức chung"
+    ],
+    [
+      "festival meals, religious ceremonies and annual trips",
+      "bữa tiệc lễ, nghi lễ tôn giáo và chuyến đi hằng năm"
+    ],
+    [
+      "part of a group with its own history",
+      "một phần của nhóm có lịch sử riêng"
+    ],
+    [
+      "cooks the same festival dish together",
+      "cùng nấu một món lễ"
+    ],
+    [
+      "tie generations together",
+      "gắn kết các thế hệ"
+    ],
+    [
+      "a stable starting point",
+      "điểm xuất phát ổn định"
+    ],
+    [
+      "a weekly Sunday lunch",
+      "bữa trưa Chủ nhật hằng tuần"
+    ],
+    [
+      "pass on values and cultural heritage",
+      "truyền giá trị và di sản văn hoá"
+    ],
+    [
+      "respect, generosity, honesty",
+      "sự tôn trọng, hào phóng, trung thực"
+    ],
+    [
+      "without formal lessons",
+      "không cần bài học chính thức"
+    ],
+    [
+      "link people to their culture",
+      "nối con người với văn hoá của họ"
+    ],
+    [
+      "restrict individual choice",
+      "hạn chế lựa chọn cá nhân"
+    ],
+    [
+      "applied rigidly",
+      "áp dụng cứng nhắc"
+    ],
+    [
+      "pressured to follow",
+      "bị áp lực phải theo"
+    ],
+    [
+      "inherited roots and personal choice",
+      "cội nguồn thừa hưởng và lựa chọn cá nhân"
+    ]
+  ]
+}

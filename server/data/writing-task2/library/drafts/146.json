@@ -1,0 +1,129 @@
+{
+  "questionId": 146,
+  "text": "Many children now receive a smartphone before they start secondary school, and some argue that children should not use smartphones at all. I agree to a large extent, since young children are not ready for unrestricted phones, although complete bans are neither realistic nor always desirable for older children.\n\nTo begin with, young children are not ready for unrestricted smartphones. Phones distract from schoolwork, disturb sleep, expose children to unsuitable content and online bullying, and replace play and exercise, although they allow parents and children to stay in contact. A ten-year-old who scrolls on a phone in bed until midnight, for example, arrives at school tired and distracted. Studies have linked heavy use among young people to anxiety, low mood and poor sleep, and games and social media are designed to hold attention for as long as possible. Children also lack the judgment to deal with strangers, advertising and pressure to share personal images, and they may not tell adults when something goes wrong.\n\nFurthermore, childhood is a time for activities that phones can replace, such as outdoor play, reading, face-to-face friendship and hobbies. Delaying and limiting use protects health, learning and development. However, a complete ban has drawbacks. Phones can keep children safe by allowing them to call parents, and as they grow older they need to learn how to use technology responsibly, since it is part of modern life. A sensible approach would give young children a basic phone, if any, set clear rules about when and where phones are used, and allow smartphones gradually, with parental controls and conversations about safety, from around the early teens.\n\nIn conclusion, children should not use smartphones freely, particularly when young, because of the risks to health and learning, but supervised and limited use as they mature is reasonable.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): trẻ em không nên dùng điện thoại thông minh — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (nhiều trẻ có điện thoại trước khi vào cấp hai) rồi largely agree + lý do + nhượng bộ (cấm hoàn toàn không thực tế, không phải lúc nào cũng nên với trẻ lớn).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — trẻ nhỏ chưa sẵn sàng",
+        "think": "Điện thoại làm xao nhãng bài, ảnh hưởng giấc ngủ, nội dung không phù hợp, bắt nạt mạng, thay chơi và vận động. Ví dụ đứa trẻ mười tuổi lướt điện thoại trên giường đến nửa đêm đến trường mệt và xao nhãng. Nghiên cứu liên hệ dùng nhiều với lo âu, tâm trạng thấp, ngủ kém; trò chơi và mạng xã hội thiết kế để giữ chú ý; trẻ thiếu phán đoán với người lạ, quảng cáo, áp lực chia sẻ ảnh cá nhân.",
+        "refs": [
+          "ID-fam-child-smartphones",
+          "EX-fam-night-scrolling",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Tuổi thơ là lúc chơi ngoài trời, đọc sách, tình bạn trực tiếp, sở thích; trì hoãn và giới hạn bảo vệ sức khoẻ, học tập. Giới hạn: cấm hoàn toàn có nhược điểm: điện thoại giúp gọi cha mẹ an toàn; trẻ lớn cần học dùng công nghệ có trách nhiệm; cách hợp lý: điện thoại cơ bản cho trẻ nhỏ (nếu cần), quy tắc rõ về nơi và lúc dùng, điện thoại thông minh dần dần từ đầu tuổi thiếu niên với kiểm soát của cha mẹ.",
+        "refs": [
+          "ID-fam-child-smartphones",
+          "ID-fam-tech-relationships",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trẻ không nên dùng tự do nhất là khi nhỏ; dùng có giám sát, giới hạn khi lớn lên là hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-child-smartphones",
+      "EX-fam-night-scrolling"
+    ]
+  },
+  "chunks": [
+    [
+      "receive a smartphone before they start secondary school",
+      "nhận điện thoại thông minh trước khi vào cấp hai"
+    ],
+    [
+      "children should not use smartphones",
+      "trẻ em không nên dùng điện thoại thông minh"
+    ],
+    [
+      "not ready for unrestricted phones",
+      "chưa sẵn sàng cho điện thoại không hạn chế"
+    ],
+    [
+      "distract from schoolwork",
+      "làm xao nhãng bài vở"
+    ],
+    [
+      "disturb sleep",
+      "làm rối loạn giấc ngủ"
+    ],
+    [
+      "unsuitable content and online bullying",
+      "nội dung không phù hợp và bắt nạt trực tuyến"
+    ],
+    [
+      "replace play and exercise",
+      "thay thế vui chơi và vận động"
+    ],
+    [
+      "stay in contact",
+      "giữ liên lạc"
+    ],
+    [
+      "scrolls on a phone in bed",
+      "lướt điện thoại trên giường"
+    ],
+    [
+      "tired and distracted",
+      "mệt mỏi và xao nhãng"
+    ],
+    [
+      "heavy use among young people",
+      "dùng nhiều ở người trẻ"
+    ],
+    [
+      "anxiety, low mood and poor sleep",
+      "lo âu, tâm trạng thấp và ngủ kém"
+    ],
+    [
+      "hold attention for as long as possible",
+      "giữ sự chú ý càng lâu càng tốt"
+    ],
+    [
+      "lack the judgment",
+      "thiếu khả năng phán đoán"
+    ],
+    [
+      "pressure to share personal images",
+      "áp lực chia sẻ hình ảnh cá nhân"
+    ],
+    [
+      "outdoor play, reading, face-to-face friendship",
+      "chơi ngoài trời, đọc sách, tình bạn trực tiếp"
+    ],
+    [
+      "a complete ban",
+      "lệnh cấm hoàn toàn"
+    ],
+    [
+      "use technology responsibly",
+      "dùng công nghệ có trách nhiệm"
+    ],
+    [
+      "parental controls",
+      "kiểm soát của cha mẹ"
+    ],
+    [
+      "supervised and limited use",
+      "dùng có giám sát và có giới hạn"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 381,
+  "text": "In several countries, the state pays for much of the cost of nurseries and after-school care, while in others parents pay most of the cost themselves. This essay will discuss the advantages and the cost of state-funded childcare before explaining whether the advantages outweigh the cost.\n\nOn the positive side, state-funded childcare pays for itself through higher employment and better child development. Parents, especially mothers, can work and pay taxes, children from poorer homes gain early education, and the economy benefits from a more skilled workforce. A mother who returns to work because nursery places are affordable, for example, pays taxes instead of receiving benefits. Good care also helps children to arrive at school ready to learn, which reduces later spending on remedial help, and it promotes gender equality by allowing women to pursue careers. Countries such as Denmark and Sweden, which fund early care generously, have high levels of female employment and strong child wellbeing.\n\nOn the negative side, state-funded childcare is expensive, and the cost must be met through taxes, which may fall on people without children. Poorly designed systems may produce low-quality care, long waiting lists or poor pay for staff, and critics argue that some parents would prefer to care for children at home or to receive cash instead. Nevertheless, these concerns can be addressed. Quality standards, trained and fairly paid staff and a choice between types of care make the system effective, and the returns in tax revenue and children's future earnings often exceed the original cost.\n\nIn conclusion, the advantages of state-funded childcare outweigh the cost, provided that the system is well designed and maintains high standards.",
+  "analysis": {
+    "type_vi": "A/D: lợi thế của chăm sóc trẻ do nhà nước tài trợ có lớn hơn chi phí không (advantages outweigh)",
+    "plan": [
+      {
+        "step": "1. Khung A/D có phán quyết",
+        "think": "Mở bài mô tả thực tế (nhà nước trả phần lớn chi phí nhà trẻ và chăm sóc sau giờ học ở một số nước, cha mẹ tự trả ở nơi khác); phán quyết có điều kiện: hệ thống thiết kế tốt, chuẩn cao.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Tự hoàn vốn qua việc làm cao hơn và phát triển trẻ tốt hơn: cha mẹ (nhất là mẹ) đi làm và đóng thuế; trẻ nhà nghèo được giáo dục sớm; kinh tế hưởng lợi lực lượng lao động có kỹ năng. Ví dụ bà mẹ quay lại làm việc vì giá nhà trẻ phải chăng nộp thuế thay vì nhận trợ cấp. Giảm chi phí hỗ trợ học bù sau này; bình đẳng giới; Đan Mạch, Thuỵ Điển.",
+        "refs": [
+          "ID-fam-state-childcare",
+          "EX-fam-mother-returns",
+          "ID-fam-early-childhood"
+        ]
+      },
+      {
+        "step": "3. Chi phí và phản bác",
+        "think": "Đắt, phải trả bằng thuế có thể rơi vào người không có con; hệ thống thiết kế kém: chất lượng thấp, danh sách chờ, nhân viên lương thấp; có cha mẹ muốn tự chăm hoặc nhận tiền mặt. Nevertheless: chuẩn chất lượng, nhân viên được đào tạo và trả lương công bằng, lựa chọn nhiều loại; lợi nhuận về thuế và thu nhập tương lai của trẻ thường vượt chi phí ban đầu.",
+        "refs": [
+          "ID-fam-state-childcare",
+          "ID-fam-childcare-access",
+          "ID-health-cost-sharing"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi thế lớn hơn chi phí nếu hệ thống thiết kế tốt, giữ chuẩn cao.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-state-childcare",
+      "EX-fam-mother-returns"
+    ]
+  },
+  "chunks": [
+    [
+      "nurseries and after-school care",
+      "nhà trẻ và chăm sóc sau giờ học"
+    ],
+    [
+      "state-funded childcare",
+      "chăm sóc trẻ do nhà nước tài trợ"
+    ],
+    [
+      "outweigh the cost",
+      "lớn hơn chi phí"
+    ],
+    [
+      "pays for itself",
+      "tự hoàn vốn"
+    ],
+    [
+      "higher employment and better child development",
+      "việc làm cao hơn và phát triển trẻ tốt hơn"
+    ],
+    [
+      "pay taxes",
+      "đóng thuế"
+    ],
+    [
+      "children from poorer homes gain early education",
+      "trẻ nhà nghèo được giáo dục sớm"
+    ],
+    [
+      "a more skilled workforce",
+      "lực lượng lao động có kỹ năng hơn"
+    ],
+    [
+      "nursery places are affordable",
+      "chỗ nhà trẻ giá phải chăng"
+    ],
+    [
+      "instead of receiving benefits",
+      "thay vì nhận trợ cấp"
+    ],
+    [
+      "ready to learn",
+      "sẵn sàng học"
+    ],
+    [
+      "remedial help",
+      "hỗ trợ học bù"
+    ],
+    [
+      "pursue careers",
+      "theo đuổi sự nghiệp"
+    ],
+    [
+      "high levels of female employment",
+      "tỷ lệ việc làm của phụ nữ cao"
+    ],
+    [
+      "strong child wellbeing",
+      "phúc lợi trẻ em tốt"
+    ],
+    [
+      "met through taxes",
+      "được trang trải qua thuế"
+    ],
+    [
+      "low-quality care, long waiting lists",
+      "chăm sóc chất lượng thấp, danh sách chờ dài"
+    ],
+    [
+      "poor pay for staff",
+      "lương nhân viên thấp"
+    ],
+    [
+      "Quality standards, trained and fairly paid staff",
+      "chuẩn chất lượng, nhân viên được đào tạo và trả lương công bằng"
+    ],
+    [
+      "exceed the original cost",
+      "vượt chi phí ban đầu"
+    ]
+  ]
+}

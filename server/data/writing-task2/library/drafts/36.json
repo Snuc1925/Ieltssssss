@@ -1,0 +1,130 @@
+{
+  "questionId": 36,
+  "text": "Smartphones, video calls and messaging apps have become part of nearly every friendship and family, and technology has changed how people relate to one another. This essay will explain two key ways in which technology affects relationships: by keeping people in touch across distance and by changing the quality of the time they spend together.\n\nFirst and foremost, technology helps people to stay in touch and to form new connections. Video calls and messages connect families and friends across distances, and migrants and students abroad can speak to their relatives every day. A grandmother who watches her grandchildren's school play by video call from another country, for example, feels part of their lives. Social networks help people to find others who share their interests or circumstances, such as patients with a rare illness, and online communities can offer support to those who feel isolated in their own neighbourhood. Many friendships that would once have faded can now continue for years.\n\nIn addition, technology can weaken the quality of time together. Phones at the dinner table, constant notifications and the habit of checking messages reduce attention, so people may be in the same room without really listening to each other. Online communication can also be shallow, and conflicts can grow when tone is misunderstood in text. Online bullying and the pressure to display a perfect life on social media can harm self-esteem, especially among young people. However, these problems are not inevitable. Families can agree on phone-free meals, and friends can use messaging to arrange meetings in person. Relationships benefit when technology is used to add to face-to-face contact, not to replace it.\n\nTo sum up, technology affects relationships in both helpful and harmful ways, and its effect depends on how people choose to use it. For these reasons, it should be used thoughtfully.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: công nghệ ảnh hưởng quan hệ giữa người với người như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu bối cảnh (điện thoại thông minh, cuộc gọi video, ứng dụng nhắn tin là một phần của hầu hết tình bạn và gia đình); báo hai cách: giữ liên lạc xuyên khoảng cách; thay đổi chất lượng thời gian bên nhau.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — giữ liên lạc, tạo kết nối mới",
+        "think": "Cuộc gọi video và tin nhắn nối gia đình, bạn bè xa; người di cư, sinh viên nước ngoài nói chuyện với người thân mỗi ngày. Ví dụ bà xem cháu diễn kịch ở trường qua cuộc gọi video từ nước khác cảm thấy tham gia cuộc sống của chúng. Mạng xã hội giúp tìm người cùng sở thích hoặc hoàn cảnh (bệnh nhân bệnh hiếm); cộng đồng trực tuyến hỗ trợ người cô lập.",
+        "refs": [
+          "ID-fam-tech-relationships",
+          "EX-fam-video-grandparents",
+          "ID-gov-internet-speech"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — chất lượng thời gian bên nhau + giải pháp",
+        "think": "Điện thoại ở bàn ăn, thông báo liên tục, thói quen kiểm tra tin nhắn giảm chú ý nên ở cùng phòng mà không thật sự lắng nghe; giao tiếp trực tuyến hời hợt, xung đột vì hiểu sai giọng điệu; bắt nạt mạng, áp lực khoe cuộc sống hoàn hảo hại lòng tự trọng người trẻ. Giải pháp: bữa ăn không điện thoại, dùng nhắn tin để hẹn gặp trực tiếp.",
+        "refs": [
+          "ID-fam-tech-relationships",
+          "ID-fam-child-smartphones",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng cả tốt lẫn xấu, tuỳ cách dùng; nên dùng có suy nghĩ.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-tech-relationships",
+      "EX-fam-video-grandparents"
+    ]
+  },
+  "chunks": [
+    [
+      "Smartphones, video calls and messaging apps",
+      "điện thoại thông minh, cuộc gọi video và ứng dụng nhắn tin"
+    ],
+    [
+      "relate to one another",
+      "quan hệ với nhau"
+    ],
+    [
+      "technology affects relationships",
+      "công nghệ ảnh hưởng quan hệ"
+    ],
+    [
+      "stay in touch",
+      "giữ liên lạc"
+    ],
+    [
+      "across distance",
+      "xuyên khoảng cách"
+    ],
+    [
+      "the quality of the time they spend together",
+      "chất lượng thời gian họ bên nhau"
+    ],
+    [
+      "form new connections",
+      "tạo kết nối mới"
+    ],
+    [
+      "migrants and students abroad",
+      "người di cư và sinh viên ở nước ngoài"
+    ],
+    [
+      "a school play",
+      "vở kịch ở trường"
+    ],
+    [
+      "feels part of their lives",
+      "cảm thấy là một phần cuộc sống của chúng"
+    ],
+    [
+      "share their interests or circumstances",
+      "cùng sở thích hoặc hoàn cảnh"
+    ],
+    [
+      "a rare illness",
+      "một căn bệnh hiếm"
+    ],
+    [
+      "isolated in their own neighbourhood",
+      "cô lập ngay trong khu phố của mình"
+    ],
+    [
+      "Phones at the dinner table",
+      "điện thoại ở bàn ăn"
+    ],
+    [
+      "constant notifications",
+      "thông báo liên tục"
+    ],
+    [
+      "without really listening to each other",
+      "mà không thật sự lắng nghe nhau"
+    ],
+    [
+      "tone is misunderstood in text",
+      "giọng điệu bị hiểu sai trong văn bản"
+    ],
+    [
+      "Online bullying",
+      "bắt nạt trực tuyến"
+    ],
+    [
+      "display a perfect life",
+      "phô bày cuộc sống hoàn hảo"
+    ],
+    [
+      "add to face-to-face contact, not to replace it",
+      "bổ sung cho tiếp xúc trực tiếp chứ không thay thế"
+    ]
+  ]
+}

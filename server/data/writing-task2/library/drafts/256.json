@@ -1,0 +1,131 @@
+{
+  "questionId": 256,
+  "text": "In many homes, the evening meal is one of the few occasions when the whole family is together, though it is becoming less common as schedules grow busier. This essay will explain two key ways in which family meals affect children's development: through health and nutrition, and through communication and emotional security.\n\nFirst and foremost, regular family meals support children's health and eating habits. Children who eat with their parents tend to eat more vegetables and less junk food, and they learn table manners, portion control and the idea that food is something to share. A child who talks about his day at the dinner table, for example, practises telling a story and feels that his parents are interested. Research has linked frequent family meals with lower rates of obesity and eating disorders, and with better school results, although part of this may reflect other advantages of families who manage to eat together. Parents also have a chance to notice if a child is eating too little or too much.\n\nIn addition, family meals support communication and emotional security. Conversation builds vocabulary, listening skills and confidence, and children feel that their lives matter to others. Regular time together gives parents opportunities to learn about friends, problems and worries before they become serious, and children who feel connected are less likely to take risks such as substance abuse. However, busy schedules and long working hours make the habit harder, and meals are only valuable if they are relaxed. Arguments, strict control or phones at the table can spoil the benefits. Even a few shared meals a week, with screens switched off, bring real advantages.\n\nTo sum up, family meals promote children's development by supporting healthy eating and by strengthening communication and security. For these reasons, families should try to protect this time.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: bữa ăn gia đình ảnh hưởng phát triển của trẻ như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu thực tế (bữa tối là một trong ít dịp cả nhà bên nhau nhưng ít dần khi lịch bận hơn); báo hai cách: sức khoẻ và dinh dưỡng; giao tiếp và an toàn cảm xúc.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — sức khoẻ",
+        "think": "Trẻ ăn cùng cha mẹ ăn nhiều rau, ít đồ ăn vặt; học phép lịch sự khi ăn, kiểm soát khẩu phần, chia sẻ thức ăn. Ví dụ trẻ kể ngày của mình ở bàn ăn luyện kể chuyện, cảm thấy cha mẹ quan tâm. Nghiên cứu liên hệ bữa ăn gia đình thường xuyên với béo phì, rối loạn ăn uống thấp hơn, kết quả học tốt hơn (một phần do lợi thế khác); cha mẹ nhận ra trẻ ăn quá ít hay quá nhiều.",
+        "refs": [
+          "ID-fam-family-meals",
+          "EX-fam-dinner-talk",
+          "ID-health-obesity-solutions"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — giao tiếp, an toàn cảm xúc + giới hạn",
+        "think": "Trò chuyện xây vốn từ, kỹ năng nghe, tự tin; trẻ cảm thấy cuộc sống của mình quan trọng; cha mẹ biết về bạn bè, vấn đề, lo lắng trước khi nghiêm trọng; trẻ gắn bó ít liều (ma tuý). Giới hạn: lịch bận, giờ làm dài khó duy trì; bữa ăn chỉ có giá trị nếu thoải mái; cãi vã, kiểm soát chặt, điện thoại phá hỏng; vài bữa mỗi tuần không màn hình vẫn có lợi.",
+        "refs": [
+          "ID-fam-family-meals",
+          "ID-fam-tech-relationships",
+          "ID-health-teen-substance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thúc đẩy phát triển nhờ ăn lành mạnh và giao tiếp; gia đình nên giữ thời gian này.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-family-meals",
+      "EX-fam-dinner-talk"
+    ]
+  },
+  "chunks": [
+    [
+      "the evening meal",
+      "bữa tối"
+    ],
+    [
+      "the whole family is together",
+      "cả gia đình ở bên nhau"
+    ],
+    [
+      "family meals",
+      "bữa ăn gia đình"
+    ],
+    [
+      "children's development",
+      "sự phát triển của trẻ"
+    ],
+    [
+      "health and nutrition",
+      "sức khoẻ và dinh dưỡng"
+    ],
+    [
+      "communication and emotional security",
+      "giao tiếp và an toàn cảm xúc"
+    ],
+    [
+      "support children's health and eating habits",
+      "hỗ trợ sức khoẻ và thói quen ăn uống của trẻ"
+    ],
+    [
+      "more vegetables and less junk food",
+      "nhiều rau hơn và ít đồ ăn vặt hơn"
+    ],
+    [
+      "table manners, portion control",
+      "phép lịch sự bàn ăn, kiểm soát khẩu phần"
+    ],
+    [
+      "something to share",
+      "điều để chia sẻ"
+    ],
+    [
+      "talks about his day",
+      "kể về ngày của mình"
+    ],
+    [
+      "practises telling a story",
+      "luyện tập kể chuyện"
+    ],
+    [
+      "lower rates of obesity and eating disorders",
+      "tỷ lệ béo phì và rối loạn ăn uống thấp hơn"
+    ],
+    [
+      "notice if a child is eating too little or too much",
+      "nhận ra trẻ ăn quá ít hay quá nhiều"
+    ],
+    [
+      "builds vocabulary, listening skills and confidence",
+      "xây vốn từ, kỹ năng nghe và sự tự tin"
+    ],
+    [
+      "their lives matter to others",
+      "cuộc sống của chúng quan trọng với người khác"
+    ],
+    [
+      "before they become serious",
+      "trước khi chúng trở nên nghiêm trọng"
+    ],
+    [
+      "take risks such as substance abuse",
+      "liều lĩnh như lạm dụng chất"
+    ],
+    [
+      "relaxed",
+      "thoải mái"
+    ],
+    [
+      "screens switched off",
+      "tắt màn hình"
+    ]
+  ]
+}

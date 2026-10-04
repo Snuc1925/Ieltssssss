@@ -1,0 +1,129 @@
+{
+  "questionId": 360,
+  "text": "Parents everywhere ask how firmly they should control their children, and opinions are divided as to whether children should be raised with strict rules or with a more permissive approach. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of strict parenting argue that clear rules give children structure, safety and self-discipline. When expectations and consequences are consistent, children know what to expect, learn to control impulses and are protected from risks. A teenager with a clear curfew, for example, knows what is expected and is less likely to stay out in unsafe places. Children who grow up with firm boundaries often do well at school because they learn to concentrate, finish tasks and respect authority. They may also feel more secure, since they know that adults are in charge. Supporters believe that too much freedom early in life can lead to selfishness and difficulty with rules at school or work.\n\nOn the other hand, supporters of permissive parenting argue that a relaxed style encourages independence, creativity and close relationships. Children who are given freedom to make choices and are listened to tend to be confident and open with their parents, and they learn from the consequences of their own decisions. Harsh rules, in contrast, can cause fear, secrecy and rebellion, and children may behave well only when watched. Warm and flexible parents build trust, which makes children more likely to seek advice. However, without boundaries children may struggle with self-control and respect for others.\n\nIn conclusion, both views have merit. Overall, I believe that the best approach combines warmth with clear limits: rules should be explained, applied fairly and relaxed as children mature.",
+  "analysis": {
+    "type_vi": "Discuss both views: nuôi dạy con nghiêm khắc hay dễ dãi",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu câu hỏi chung của cha mẹ (kiểm soát con nghiêm đến đâu) rồi hai phe; ý kiến riêng kết hợp ấm áp và giới hạn rõ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe nghiêm khắc",
+        "think": "Quy tắc rõ ràng cho cấu trúc, an toàn, kỷ luật tự giác: kỳ vọng và hệ quả nhất quán, trẻ biết mình mong đợi gì, học kiểm soát xung động, được bảo vệ. Ví dụ thiếu niên có giờ giới nghiêm rõ biết điều được kỳ vọng và ít ở lại nơi không an toàn. Trẻ có ranh giới vững thường học tốt vì tập trung, hoàn thành việc, tôn trọng thẩm quyền; an tâm vì biết người lớn nắm quyền; quá nhiều tự do sớm có thể dẫn đến ích kỷ.",
+        "refs": [
+          "ID-fam-strict-parenting",
+          "EX-fam-curfew"
+        ]
+      },
+      {
+        "step": "3. Phe dễ dãi",
+        "think": "Phong cách thoải mái khuyến khích độc lập, sáng tạo, gần gũi: trẻ được tự do chọn và được lắng nghe tự tin và cởi mở với cha mẹ, học từ hệ quả quyết định của mình; quy tắc hà khắc gây sợ hãi, giấu giếm, nổi loạn, trẻ chỉ ngoan khi bị nhìn; cha mẹ ấm áp, linh hoạt xây lòng tin nên trẻ tìm lời khuyên. Giới hạn: không ranh giới trẻ khó tự chủ, tôn trọng người khác.",
+        "refs": [
+          "ID-fam-permissive-parenting",
+          "ID-fam-parents-academic"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp ấm áp và giới hạn rõ; quy tắc được giải thích, áp dụng công bằng, nới dần khi trẻ lớn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-strict-parenting",
+      "ID-fam-permissive-parenting",
+      "EX-fam-curfew"
+    ]
+  },
+  "chunks": [
+    [
+      "raised with strict rules",
+      "được nuôi với quy tắc nghiêm ngặt"
+    ],
+    [
+      "a more permissive approach",
+      "cách tiếp cận dễ dãi hơn"
+    ],
+    [
+      "supporters of strict parenting",
+      "người ủng hộ nuôi dạy nghiêm khắc"
+    ],
+    [
+      "structure, safety and self-discipline",
+      "cấu trúc, an toàn và tính tự giác"
+    ],
+    [
+      "expectations and consequences are consistent",
+      "kỳ vọng và hệ quả nhất quán"
+    ],
+    [
+      "learn to control impulses",
+      "học kiểm soát xung động"
+    ],
+    [
+      "protected from risks",
+      "được bảo vệ khỏi rủi ro"
+    ],
+    [
+      "a clear curfew",
+      "giờ giới nghiêm rõ ràng"
+    ],
+    [
+      "firm boundaries",
+      "ranh giới vững chắc"
+    ],
+    [
+      "respect authority",
+      "tôn trọng thẩm quyền"
+    ],
+    [
+      "adults are in charge",
+      "người lớn nắm quyền"
+    ],
+    [
+      "too much freedom early in life",
+      "quá nhiều tự do từ sớm"
+    ],
+    [
+      "encourages independence, creativity and close relationships",
+      "khuyến khích độc lập, sáng tạo và quan hệ gần gũi"
+    ],
+    [
+      "given freedom to make choices",
+      "được tự do lựa chọn"
+    ],
+    [
+      "learn from the consequences of their own decisions",
+      "học từ hệ quả quyết định của chính mình"
+    ],
+    [
+      "fear, secrecy and rebellion",
+      "sợ hãi, giấu giếm và nổi loạn"
+    ],
+    [
+      "behave well only when watched",
+      "chỉ ngoan khi bị theo dõi"
+    ],
+    [
+      "warm and flexible parents",
+      "cha mẹ ấm áp và linh hoạt"
+    ],
+    [
+      "self-control and respect for others",
+      "tự chủ và tôn trọng người khác"
+    ],
+    [
+      "warmth with clear limits",
+      "sự ấm áp kèm giới hạn rõ ràng"
+    ]
+  ]
+}

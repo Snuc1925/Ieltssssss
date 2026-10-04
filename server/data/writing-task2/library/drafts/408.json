@@ -1,0 +1,129 @@
+{
+  "questionId": 408,
+  "text": "Children today spend hours every day looking at televisions, tablets, phones and games consoles, and many people say that parents should limit screen time. I agree with this view, since too much screen use harms sleep, activity and development, although the aim should be balance, not total prohibition.\n\nTo begin with, parents should set sensible limits on screen time because too much screen use reduces sleep, exercise and face-to-face play. A family that keeps phones out of bedrooms at night, for example, finds that children sleep better and arrive at school more alert. Research has linked long hours of screen use with poor sleep, lower concentration, obesity and, in some cases, anxiety and low mood. Young children, whose brains are developing rapidly, need real-world play, conversation and movement far more than passive viewing. Without limits, attractive games and videos designed to hold attention can crowd out homework, reading and friendships.\n\nFurthermore, limits give children a chance to learn self-control and to develop other interests. Children seldom judge for themselves when they have had enough, so parents have to provide the structure until they can do so. However, limits should be reasonable and flexible. Screens can be used for learning, creativity and keeping in touch, and not all screen time is equal; a video call with a grandparent or an educational programme differs from endless scrolling. Rules work best when they are explained, agreed with children and followed by the parents themselves, for example by having screen-free meals. Over time, children can be given more responsibility to manage their own use as they mature.\n\nIn conclusion, I agree that parents should limit screen time for children, because excessive use harms health and development, but the limits should be balanced and combined with good example and explanation.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): cha mẹ nên giới hạn thời gian màn hình của trẻ — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (trẻ nhìn màn hình hàng giờ mỗi ngày) rồi agree + lý do + điều kiện (cân bằng thay vì cấm hoàn toàn). Khác đề 146 (điện thoại thông minh) ở chỗ nói về mọi màn hình và vai trò cha mẹ.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bảo vệ giấc ngủ, vận động, vui chơi",
+        "think": "Dùng màn hình quá nhiều giảm ngủ, vận động và chơi trực tiếp; ví dụ gia đình để điện thoại ngoài phòng ngủ ban đêm thì trẻ ngủ ngon, đến lớp tỉnh táo; nghiên cứu liên hệ với ngủ kém, tập trung thấp, béo phì, đôi khi lo âu; trẻ nhỏ cần chơi thật, trò chuyện, vận động; trò chơi, video thiết kế giữ chú ý lấn át bài tập, đọc, bạn bè.",
+        "refs": [
+          "ID-fam-screen-limits",
+          "EX-fam-screen-rule",
+          "ID-fam-child-smartphones"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Giới hạn cho trẻ cơ hội học tự chủ và phát triển sở thích khác; trẻ ít tự xét khi đủ nên cha mẹ cho cấu trúc. Giới hạn hợp lý, linh hoạt: màn hình dùng để học, sáng tạo, giữ liên lạc; không phải mọi thời gian như nhau (gọi video với ông bà khác lướt vô tận). Quy tắc hiệu quả khi được giải thích, thoả thuận, cha mẹ cũng theo (bữa ăn không màn hình); dần cho trẻ tự quản khi lớn.",
+        "refs": [
+          "ID-fam-screen-limits",
+          "ID-fam-tech-relationships",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì dùng quá mức hại sức khoẻ và phát triển, nhưng giới hạn cân bằng, kèm làm gương và giải thích.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-screen-limits",
+      "EX-fam-screen-rule"
+    ]
+  },
+  "chunks": [
+    [
+      "televisions, tablets, phones and games consoles",
+      "ti vi, máy tính bảng, điện thoại và máy chơi game"
+    ],
+    [
+      "limit screen time",
+      "giới hạn thời gian màn hình"
+    ],
+    [
+      "too much screen use",
+      "dùng màn hình quá nhiều"
+    ],
+    [
+      "harms sleep, activity and development",
+      "hại giấc ngủ, vận động và sự phát triển"
+    ],
+    [
+      "balance, not total prohibition",
+      "cân bằng chứ không cấm hoàn toàn"
+    ],
+    [
+      "sensible limits",
+      "giới hạn hợp lý"
+    ],
+    [
+      "face-to-face play",
+      "chơi trực tiếp"
+    ],
+    [
+      "keeps phones out of bedrooms at night",
+      "để điện thoại ngoài phòng ngủ ban đêm"
+    ],
+    [
+      "arrive at school more alert",
+      "đến trường tỉnh táo hơn"
+    ],
+    [
+      "long hours of screen use",
+      "nhiều giờ dùng màn hình"
+    ],
+    [
+      "poor sleep, lower concentration, obesity",
+      "ngủ kém, tập trung thấp, béo phì"
+    ],
+    [
+      "anxiety and low mood",
+      "lo âu và tâm trạng thấp"
+    ],
+    [
+      "passive viewing",
+      "xem thụ động"
+    ],
+    [
+      "designed to hold attention",
+      "được thiết kế để giữ sự chú ý"
+    ],
+    [
+      "crowd out homework, reading and friendships",
+      "lấn át bài tập, đọc sách và tình bạn"
+    ],
+    [
+      "learn self-control",
+      "học tự chủ"
+    ],
+    [
+      "develop other interests",
+      "phát triển sở thích khác"
+    ],
+    [
+      "not all screen time is equal",
+      "không phải mọi thời gian dùng màn hình đều như nhau"
+    ],
+    [
+      "screen-free meals",
+      "bữa ăn không màn hình"
+    ],
+    [
+      "manage their own use",
+      "tự quản việc sử dụng của mình"
+    ]
+  ]
+}

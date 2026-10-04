@@ -1,0 +1,130 @@
+{
+  "questionId": 479,
+  "text": "Governments are increasingly interested in paid leave, flexible working hours, childcare and housing support for families, and these are often called family-friendly policies. This essay will outline two principal benefits for a country that focuses on such policies: better outcomes for children and parents, and gains for the economy and society.\n\nFirst and foremost, family-friendly policies benefit children and parents. Paid leave, flexible hours and childcare help couples to have the children they want, keep skilled workers in employment and give children a better start. An employee who can start early and leave in time to collect her child from school, for example, stays in her job instead of resigning, and she is less stressed at home. Parents who have time and money to spend with young children can support their development, which improves health and learning. In countries with generous policies, such as Sweden, poverty among children is low and parents report a better balance between work and family life.\n\nIn addition, family-friendly policies bring wider economic and social gains. Women's employment rises when childcare is available, which increases tax revenue and household incomes, and employers keep experienced staff instead of paying to recruit and train replacements. Birth rates may be higher where families receive support, which helps to maintain the workforce as populations age. Gender equality also improves, since both parents can share work and care. Although such policies cost money, studies suggest that they pay for themselves over time through higher employment and better child outcomes. Society also benefits, since stronger families produce healthier, more confident citizens.\n\nTo sum up, family-friendly policies bring clear benefits to a country, above all better outcomes for children and a stronger economy. For these reasons, they deserve sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chính sách thân thiện gia đình — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu nội dung (nghỉ có lương, giờ làm linh hoạt, chăm sóc trẻ, hỗ trợ nhà ở); báo hai lợi ích: kết quả tốt hơn cho trẻ và cha mẹ; lợi ích kinh tế và xã hội.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — trẻ và cha mẹ",
+        "think": "Nghỉ có lương, giờ linh hoạt, chăm sóc trẻ giúp các cặp có con như mong muốn, giữ lao động có kỹ năng, cho trẻ khởi đầu tốt hơn. Ví dụ nhân viên bắt đầu sớm và rời đúng giờ đón con ở lại công việc thay vì nghỉ, ít căng thẳng hơn. Cha mẹ có thời gian và tiền cho trẻ nhỏ hỗ trợ phát triển, cải thiện sức khoẻ, học tập; nước có chính sách hào phóng (Thuỵ Điển) nghèo trẻ em thấp, cha mẹ cân bằng công việc và gia đình tốt hơn.",
+        "refs": [
+          "ID-fam-friendly-policies",
+          "EX-fam-flexible-hours",
+          "ID-fam-early-childhood"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — kinh tế và xã hội",
+        "think": "Việc làm của phụ nữ tăng khi có chăm sóc trẻ: tăng thuế và thu nhập hộ; doanh nghiệp giữ nhân viên giàu kinh nghiệm thay vì tuyển và đào tạo mới; tỷ lệ sinh có thể cao hơn, giúp duy trì lực lượng lao động khi dân số già; bình đẳng giới cải thiện; nhượng bộ chi phí nhưng nghiên cứu cho thấy tự hoàn vốn; gia đình mạnh tạo công dân khoẻ mạnh, tự tin.",
+        "refs": [
+          "ID-fam-friendly-policies",
+          "ID-fam-birth-solutions",
+          "ID-fam-state-childcare",
+          "ID-fam-leave-gender"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserve sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-friendly-policies",
+      "EX-fam-flexible-hours"
+    ]
+  },
+  "chunks": [
+    [
+      "paid leave, flexible working hours, childcare and housing support",
+      "nghỉ có lương, giờ làm linh hoạt, chăm sóc trẻ và hỗ trợ nhà ở"
+    ],
+    [
+      "family-friendly policies",
+      "chính sách thân thiện với gia đình"
+    ],
+    [
+      "better outcomes for children and parents",
+      "kết quả tốt hơn cho trẻ và cha mẹ"
+    ],
+    [
+      "gains for the economy and society",
+      "lợi ích cho kinh tế và xã hội"
+    ],
+    [
+      "have the children they want",
+      "có số con như mong muốn"
+    ],
+    [
+      "keep skilled workers in employment",
+      "giữ lao động có kỹ năng trong việc làm"
+    ],
+    [
+      "give children a better start",
+      "cho trẻ khởi đầu tốt hơn"
+    ],
+    [
+      "start early and leave in time",
+      "bắt đầu sớm và rời đi đúng giờ"
+    ],
+    [
+      "collect her child from school",
+      "đón con từ trường"
+    ],
+    [
+      "stays in her job instead of resigning",
+      "ở lại công việc thay vì nghỉ"
+    ],
+    [
+      "less stressed at home",
+      "ít căng thẳng ở nhà"
+    ],
+    [
+      "support their development",
+      "hỗ trợ sự phát triển của chúng"
+    ],
+    [
+      "poverty among children is low",
+      "tỷ lệ nghèo ở trẻ em thấp"
+    ],
+    [
+      "a better balance between work and family life",
+      "cân bằng tốt hơn giữa công việc và đời sống gia đình"
+    ],
+    [
+      "Women's employment rises",
+      "việc làm của phụ nữ tăng"
+    ],
+    [
+      "increases tax revenue and household incomes",
+      "tăng nguồn thu thuế và thu nhập hộ gia đình"
+    ],
+    [
+      "recruit and train replacements",
+      "tuyển dụng và đào tạo người thay thế"
+    ],
+    [
+      "maintain the workforce as populations age",
+      "duy trì lực lượng lao động khi dân số già"
+    ],
+    [
+      "share work and care",
+      "chia sẻ công việc và việc chăm sóc"
+    ],
+    [
+      "pay for themselves over time",
+      "tự hoàn vốn theo thời gian"
+    ]
+  ]
+}

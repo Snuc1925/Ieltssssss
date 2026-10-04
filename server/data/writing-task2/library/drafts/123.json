@@ -1,0 +1,130 @@
+{
+  "questionId": 123,
+  "text": "When a child does well at school, parents often receive some of the credit, and when a child struggles, they sometimes receive the blame. This essay will explain two key ways in which parents influence children's academic success: through encouragement and routine, and through the resources and expectations that they provide.\n\nFirst and foremost, parents shape children's academic success through encouragement, routine and interest. Children whose parents read with them, set regular times for homework and show curiosity about school tend to achieve more. A parent who sits with a child for twenty minutes of homework every evening, for example, shows that learning matters, and the child sees study as a normal part of life. Praise for effort rather than just results builds confidence and persistence, and a calm home with enough sleep and breakfast supports concentration. Talking to children about books, news and ideas also develops vocabulary and curiosity long before they start school.\n\nIn addition, parents provide resources and set expectations. They can buy books, find a quiet place to study, arrange tutors or help with school choices, and they communicate with teachers when problems arise. Realistic expectations motivate children, since young people often try to live up to what their parents believe they can do. However, excessive pressure can have the opposite effect, causing stress, anxiety and a dislike of learning. Parents are also not the only influence, as teachers, friends and the child's own character matter, and children from poorer families may succeed with the help of good schools and committed teachers. Support works better than pressure, and parents should show interest and encouragement rather than demanding top marks.\n\nTo sum up, parents play an important role in children's academic success by providing encouragement, structure and resources, provided that they avoid excessive pressure. For these reasons, their involvement should be welcomed.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của cha mẹ trong thành công học tập của con",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu hiện tượng (trẻ học tốt cha mẹ được công nhận, trẻ khó khăn đôi khi bị trách); báo hai cách: động viên và nếp sinh hoạt; nguồn lực và kỳ vọng.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — động viên, nếp sinh hoạt, quan tâm",
+        "think": "Trẻ có cha mẹ đọc cùng, đặt giờ làm bài, tò mò về trường thường đạt hơn. Ví dụ phụ huynh ngồi với con hai mươi phút mỗi tối làm bài cho thấy học là quan trọng. Khen nỗ lực thay vì chỉ kết quả xây tự tin, kiên trì; nhà yên tĩnh đủ giấc ngủ và bữa sáng; nói chuyện về sách, tin tức phát triển vốn từ.",
+        "refs": [
+          "ID-fam-parents-academic",
+          "EX-fam-homework-routine",
+          "ID-reading-habit-enjoy"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — nguồn lực, kỳ vọng + giới hạn",
+        "think": "Cha mẹ mua sách, tìm chỗ học yên tĩnh, thuê gia sư, giúp chọn trường, trao đổi với giáo viên; kỳ vọng thực tế thúc đẩy. Giới hạn: áp lực quá mức gây căng thẳng, lo âu, ghét học; cha mẹ không phải ảnh hưởng duy nhất (giáo viên, bạn bè, tính cách); trẻ nhà nghèo vẫn thành công nhờ trường tốt, giáo viên tận tâm; ủng hộ tốt hơn áp lực.",
+        "refs": [
+          "ID-fam-parents-academic",
+          "ID-hw-rest",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cha mẹ có vai trò quan trọng nếu tránh áp lực quá mức; nên chào đón sự tham gia.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-parents-academic",
+      "EX-fam-homework-routine"
+    ]
+  },
+  "chunks": [
+    [
+      "academic success",
+      "thành công học tập"
+    ],
+    [
+      "encouragement and routine",
+      "sự động viên và nếp sinh hoạt"
+    ],
+    [
+      "resources and expectations",
+      "nguồn lực và kỳ vọng"
+    ],
+    [
+      "encouragement, routine and interest",
+      "động viên, nếp sinh hoạt và sự quan tâm"
+    ],
+    [
+      "read with them",
+      "đọc cùng chúng"
+    ],
+    [
+      "set regular times for homework",
+      "đặt giờ làm bài tập cố định"
+    ],
+    [
+      "show curiosity about school",
+      "tỏ ra tò mò về trường học"
+    ],
+    [
+      "a normal part of life",
+      "một phần bình thường của cuộc sống"
+    ],
+    [
+      "Praise for effort rather than just results",
+      "khen nỗ lực chứ không chỉ kết quả"
+    ],
+    [
+      "builds confidence and persistence",
+      "xây dựng sự tự tin và kiên trì"
+    ],
+    [
+      "enough sleep and breakfast",
+      "đủ giấc ngủ và bữa sáng"
+    ],
+    [
+      "develops vocabulary and curiosity",
+      "phát triển vốn từ và sự tò mò"
+    ],
+    [
+      "find a quiet place to study",
+      "tìm chỗ học yên tĩnh"
+    ],
+    [
+      "arrange tutors",
+      "sắp xếp gia sư"
+    ],
+    [
+      "communicate with teachers",
+      "trao đổi với giáo viên"
+    ],
+    [
+      "live up to what their parents believe",
+      "sống xứng với điều cha mẹ tin"
+    ],
+    [
+      "excessive pressure",
+      "áp lực quá mức"
+    ],
+    [
+      "stress, anxiety and a dislike of learning",
+      "căng thẳng, lo âu và ghét việc học"
+    ],
+    [
+      "committed teachers",
+      "giáo viên tận tâm"
+    ],
+    [
+      "Support works better than pressure",
+      "hỗ trợ hiệu quả hơn áp lực"
+    ]
+  ]
+}

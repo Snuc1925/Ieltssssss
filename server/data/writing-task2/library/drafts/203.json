@@ -1,0 +1,131 @@
+{
+  "questionId": 203,
+  "text": "In many families, grandparents collect children from school, cook meals and tell stories, and they are an important part of how children grow up. This essay will explain two key roles that grandparents play in child upbringing: providing care and stability, and passing on values and a link with the past.\n\nFirst and foremost, grandparents provide care, stability and emotional security. They look after grandchildren while parents work, which saves families money and gives working parents peace of mind. In some countries, grandparents provide a large share of childcare, and in households with a single parent or two jobs, their help can be essential. A grandparent in good health, for example, can help to look after grandchildren and pass on knowledge, which supports working parents. Children also gain from the patience and attention that grandparents often have time to give, and from having another adult who loves them unconditionally and who can be a refuge when there are tensions at home.\n\nIn addition, grandparents pass on values, stories and skills. A grandmother who tells stories about her childhood, for example, gives a child a living link with history, and grandparents often teach traditions, language, cooking, crafts and manners. This helps children to understand their roots and to respect older people. However, there are some difficulties. Grandparents may have different ideas about discipline, sweets or screen time, which can cause conflict with parents, and their own health or energy may limit what they can do. Clear communication between generations, and respect for the parents' final say, usually resolve such disagreements. Where possible, children should also be encouraged to contribute to the relationship, for instance by helping grandparents with technology.\n\nTo sum up, grandparents play a valuable role in child upbringing by providing care and by passing on values and heritage. For these reasons, their contribution should be recognised and supported.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của ông bà trong nuôi dạy trẻ",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu hình ảnh quen thuộc (ông bà đón cháu, nấu ăn, kể chuyện); báo hai vai trò: chăm sóc và ổn định; truyền giá trị và nối quá khứ.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Vai trò 1 — chăm sóc, ổn định",
+        "think": "Chăm cháu khi cha mẹ đi làm: tiết kiệm tiền, cha mẹ yên tâm; ở nhiều nước ông bà chăm trẻ phần lớn, gia đình đơn thân hoặc hai việc cần giúp. Ví dụ ông bà khoẻ giúp chăm cháu và truyền kiến thức hỗ trợ cha mẹ đi làm. Trẻ được kiên nhẫn, sự chú ý; người lớn yêu vô điều kiện; nơi nương tựa khi căng thẳng ở nhà.",
+        "refs": [
+          "ID-fam-grandparents",
+          "EX-health-grandparent",
+          "ID-fam-childcare-elder"
+        ]
+      },
+      {
+        "step": "3. Vai trò 2 — giá trị, kỹ năng + khó khăn",
+        "think": "Bà kể chuyện thời thơ ấu cho trẻ liên kết sống với lịch sử; dạy truyền thống, ngôn ngữ, nấu ăn, thủ công, phép lịch sự; hiểu cội nguồn và tôn trọng người già. Khó khăn: khác ý về kỷ luật, đồ ngọt, thời gian màn hình gây xung đột với cha mẹ; sức khoẻ, sức lực hạn chế; giao tiếp rõ và tôn trọng quyền quyết định cuối của cha mẹ.",
+        "refs": [
+          "ID-fam-grandparents",
+          "EX-fam-grandma-stories",
+          "ID-fam-traditions-identity",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò đáng giá; cần được ghi nhận và hỗ trợ.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-grandparents",
+      "EX-fam-grandma-stories"
+    ]
+  },
+  "chunks": [
+    [
+      "collect children from school",
+      "đón trẻ từ trường"
+    ],
+    [
+      "child upbringing",
+      "nuôi dạy trẻ"
+    ],
+    [
+      "care and stability",
+      "chăm sóc và sự ổn định"
+    ],
+    [
+      "passing on values and a link with the past",
+      "truyền giá trị và nối với quá khứ"
+    ],
+    [
+      "care, stability and emotional security",
+      "sự chăm sóc, ổn định và an toàn cảm xúc"
+    ],
+    [
+      "look after grandchildren while parents work",
+      "chăm cháu khi cha mẹ đi làm"
+    ],
+    [
+      "peace of mind",
+      "sự yên tâm"
+    ],
+    [
+      "a large share of childcare",
+      "phần lớn việc chăm trẻ"
+    ],
+    [
+      "essential",
+      "thiết yếu"
+    ],
+    [
+      "pass on knowledge",
+      "truyền kiến thức"
+    ],
+    [
+      "the patience and attention",
+      "sự kiên nhẫn và chú ý"
+    ],
+    [
+      "loves them unconditionally",
+      "yêu thương chúng vô điều kiện"
+    ],
+    [
+      "a refuge when there are tensions at home",
+      "nơi nương tựa khi ở nhà căng thẳng"
+    ],
+    [
+      "a living link with history",
+      "mối liên kết sống động với lịch sử"
+    ],
+    [
+      "traditions, language, cooking, crafts and manners",
+      "truyền thống, ngôn ngữ, nấu ăn, thủ công và cách cư xử"
+    ],
+    [
+      "understand their roots",
+      "hiểu cội nguồn của mình"
+    ],
+    [
+      "respect older people",
+      "tôn trọng người lớn tuổi"
+    ],
+    [
+      "different ideas about discipline",
+      "quan điểm khác về kỷ luật"
+    ],
+    [
+      "cause conflict with parents",
+      "gây xung đột với cha mẹ"
+    ],
+    [
+      "respect for the parents' final say",
+      "tôn trọng quyền quyết định cuối cùng của cha mẹ"
+    ]
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "questionId": 89,
+  "text": "In many developed countries, the average woman now has fewer than two children, and some governments worry about shrinking populations. This essay will analyse the principal causes of low birth rates and propose realistic solutions.\n\nLow birth rates reflect the high cost of raising children and the difficulty of combining work and family. Housing, childcare and education are expensive, women increasingly pursue careers and marry later, and long working hours and insecure jobs make couples delay or limit families. A couple who postpone parenthood until they can afford a larger flat, for example, may find that they have only one child. In addition, changes in attitudes, such as greater emphasis on personal freedom and careers, and access to contraception, mean that parenthood is a choice made later and less often than in the past. Concern about the future, including climate change and economic uncertainty, also discourages some couples. As a result, many people end up with fewer children than they would like.\n\nTo address this issue, governments should make it easier for couples to have the children they want. Affordable childcare, housing support, parental leave for both parents, flexible working and financial help reduce the costs and career penalties of having a child. In addition, employers can be encouraged to offer part-time options and to avoid penalising workers who take leave. Countries that have introduced generous and well-designed family policies, such as in parts of northern Europe, have generally seen higher birth rates than those that have not. Immigration can also help to maintain the workforce, although it is not a complete solution on its own.\n\nIn conclusion, low birth rates stem mainly from the costs of raising children and the difficulty of balancing work and family, but practical support for parents offers a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tỷ lệ sinh thấp",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu thực tế (phụ nữ trung bình sinh dưới hai con, chính phủ lo dân số co lại); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Chi phí nuôi con cao và khó cân bằng công việc và gia đình: nhà ở, chăm sóc trẻ, giáo dục đắt; phụ nữ theo nghề nghiệp và kết hôn muộn; giờ làm dài, việc làm bấp bênh làm trì hoãn hoặc hạn chế gia đình. Ví dụ cặp hoãn làm cha mẹ cho đến khi mua được căn hộ lớn chỉ có một con. Thái độ thay đổi, tránh thai; lo lắng tương lai (khí hậu, kinh tế).",
+        "refs": [
+          "ID-fam-birth-causes",
+          "EX-fam-delay-child",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Chăm sóc trẻ giá phải chăng, hỗ trợ nhà ở, nghỉ thai sản cho cả hai, giờ làm linh hoạt, hỗ trợ tài chính; khuyến khích doanh nghiệp việc làm bán thời gian, không phạt người nghỉ; nước có chính sách gia đình hào phóng (một phần Bắc Âu) thường có tỷ lệ sinh cao hơn; nhập cư giúp duy trì lực lượng lao động nhưng không đủ.",
+        "refs": [
+          "ID-fam-birth-solutions",
+          "ID-health-birth-rate",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-birth-causes",
+      "ID-fam-birth-solutions",
+      "EX-fam-delay-child"
+    ]
+  },
+  "chunks": [
+    [
+      "fewer than two children",
+      "dưới hai con"
+    ],
+    [
+      "shrinking populations",
+      "dân số thu hẹp"
+    ],
+    [
+      "low birth rates",
+      "tỷ lệ sinh thấp"
+    ],
+    [
+      "the high cost of raising children",
+      "chi phí nuôi con cao"
+    ],
+    [
+      "combining work and family",
+      "kết hợp công việc và gia đình"
+    ],
+    [
+      "Housing, childcare and education are expensive",
+      "nhà ở, chăm sóc trẻ và giáo dục đắt đỏ"
+    ],
+    [
+      "pursue careers and marry later",
+      "theo đuổi sự nghiệp và kết hôn muộn"
+    ],
+    [
+      "long working hours and insecure jobs",
+      "giờ làm dài và việc làm bấp bênh"
+    ],
+    [
+      "delay or limit families",
+      "trì hoãn hoặc hạn chế việc có con"
+    ],
+    [
+      "postpone parenthood",
+      "hoãn việc làm cha mẹ"
+    ],
+    [
+      "a larger flat",
+      "căn hộ lớn hơn"
+    ],
+    [
+      "personal freedom and careers",
+      "tự do cá nhân và sự nghiệp"
+    ],
+    [
+      "access to contraception",
+      "tiếp cận biện pháp tránh thai"
+    ],
+    [
+      "economic uncertainty",
+      "bất ổn kinh tế"
+    ],
+    [
+      "fewer children than they would like",
+      "ít con hơn mong muốn"
+    ],
+    [
+      "Affordable childcare, housing support",
+      "chăm sóc trẻ giá phải chăng, hỗ trợ nhà ở"
+    ],
+    [
+      "parental leave for both parents",
+      "nghỉ chăm con cho cả hai bậc cha mẹ"
+    ],
+    [
+      "flexible working",
+      "làm việc linh hoạt"
+    ],
+    [
+      "penalising workers who take leave",
+      "phạt người lao động nghỉ phép"
+    ],
+    [
+      "maintain the workforce",
+      "duy trì lực lượng lao động"
+    ]
+  ]
+}

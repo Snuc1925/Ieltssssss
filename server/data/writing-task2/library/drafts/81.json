@@ -1,0 +1,129 @@
+{
+  "questionId": 81,
+  "text": "Many owners treat their dogs and cats as part of the household, and some people say that pets are as important as family members. I disagree with this view, since pets give companionship and joy but cannot replace human family members, although their value should not be dismissed.\n\nTo begin with, pets give companionship and joy but cannot replace human family members. They reduce loneliness and encourage exercise and responsibility, yet they cannot offer the shared history, conversation and mutual obligations that bind a family. A widow whose dog greets her every day, for example, feels less alone, but the dog cannot replace the conversation of a relative or understand her worries. Family members support one another through illness, financial difficulty and important decisions, and they share memories that stretch over generations. A pet, however loved, does not take part in these exchanges in the same way. Humans also have rights and a moral status that animals, though deserving of kindness, do not share to the same degree.\n\nFurthermore, treating pets as equal to relatives can lead to difficult choices. If a family's time and money are spent on pets at the expense of children or elderly parents, it may cause resentment, and decisions about medical care or inheritance become confusing. Admittedly, pets are important to many people, especially those who live alone, and the grief at losing one can be genuine and deep. Some therapy animals even help to treat anxiety and loneliness. This importance deserves respect, but it differs in kind from the relationships between people. A balanced view recognises pets as valued companions and family members as irreplaceable.\n\nIn conclusion, I disagree that pets are as important as family members, because they cannot offer the same relationships or obligations, although they enrich many lives.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: thú cưng quan trọng như thành viên gia đình — disagree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + nhượng bộ",
+        "think": "Mở bài nêu thực tế (nhiều chủ coi chó mèo là một phần gia đình) rồi disagree + lý do + nhượng bộ (giá trị của thú cưng không nên bị phủ nhận).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — không thay thế quan hệ con người",
+        "think": "Thú cưng giảm cô đơn, khuyến khích vận động và trách nhiệm nhưng không có lịch sử chung, đối thoại, nghĩa vụ hỗ tương. Ví dụ bà goá có chó chào mỗi ngày bớt cô đơn nhưng chó không thay được trò chuyện của người thân hay hiểu nỗi lo. Thành viên gia đình nâng đỡ nhau qua bệnh tật, khó khăn tiền bạc, quyết định lớn; ký ức qua nhiều thế hệ; con người có quyền và địa vị đạo đức mà động vật không chia sẻ ở cùng mức.",
+        "refs": [
+          "ID-fam-pets",
+          "EX-fam-dog-widow",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Coi thú cưng ngang người thân dẫn đến lựa chọn khó: thời gian tiền bạc dành thú cưng bỏ mặc con hoặc cha mẹ già gây bực bội; quyết định y tế, thừa kế rối. Nhượng bộ: thú cưng quan trọng với nhiều người sống một mình, nỗi đau mất chúng có thật; động vật trị liệu giúp lo âu và cô đơn; nhưng khác bản chất với quan hệ giữa người.",
+        "refs": [
+          "ID-fam-pets",
+          "ID-env-animal-welfare",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì thú cưng không có cùng quan hệ và nghĩa vụ nhưng làm giàu cuộc sống nhiều người.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-pets",
+      "EX-fam-dog-widow"
+    ]
+  },
+  "chunks": [
+    [
+      "treat their dogs and cats as part of the household",
+      "coi chó mèo như một phần gia đình"
+    ],
+    [
+      "as important as family members",
+      "quan trọng như thành viên gia đình"
+    ],
+    [
+      "companionship and joy",
+      "bầu bạn và niềm vui"
+    ],
+    [
+      "cannot replace human family members",
+      "không thể thay thế thành viên gia đình là con người"
+    ],
+    [
+      "reduce loneliness",
+      "giảm cô đơn"
+    ],
+    [
+      "encourage exercise and responsibility",
+      "khuyến khích vận động và tinh thần trách nhiệm"
+    ],
+    [
+      "shared history, conversation and mutual obligations",
+      "lịch sử chung, đối thoại và nghĩa vụ hỗ tương"
+    ],
+    [
+      "bind a family",
+      "gắn kết một gia đình"
+    ],
+    [
+      "a widow",
+      "người goá phụ"
+    ],
+    [
+      "greets her every day",
+      "chào đón cô mỗi ngày"
+    ],
+    [
+      "understand her worries",
+      "hiểu những lo lắng của cô"
+    ],
+    [
+      "support one another through illness",
+      "nâng đỡ nhau qua bệnh tật"
+    ],
+    [
+      "memories that stretch over generations",
+      "ký ức kéo dài qua nhiều thế hệ"
+    ],
+    [
+      "a moral status",
+      "địa vị đạo đức"
+    ],
+    [
+      "deserving of kindness",
+      "đáng được đối xử tử tế"
+    ],
+    [
+      "at the expense of children or elderly parents",
+      "gây thiệt cho con cái hoặc cha mẹ già"
+    ],
+    [
+      "resentment",
+      "sự bực bội"
+    ],
+    [
+      "grief at losing one",
+      "nỗi đau khi mất đi một con"
+    ],
+    [
+      "therapy animals",
+      "động vật trị liệu"
+    ],
+    [
+      "irreplaceable",
+      "không thể thay thế"
+    ]
+  ]
+}

@@ -67487,6 +67487,6425 @@
       "text": "evaluated",
       "meaning_vi": "được đánh giá",
       "from": 457
+    },
+    {
+      "id": "ID-fam-tech-relationships",
+      "type": "idea",
+      "topics": [
+        "family",
+        "technology",
+        "society"
+      ],
+      "tags": [
+        "technology",
+        "relationships"
+      ],
+      "stance": "caveat",
+      "label_vi": "Công nghệ và quan hệ: giữ liên lạc xa, tạo quan hệ mới; nhưng giảm thời gian gặp mặt, điện thoại ở bàn ăn, giao tiếp hời hợt, bắt nạt mạng",
+      "claim": "Technology helps people to stay in touch but can weaken the quality of time together.",
+      "because": "Video calls and messages connect families and friends across distances, yet phones at the dinner table, constant notifications and online bullying reduce attention and can make contact shallow.",
+      "result": "Relationships benefit when technology is used to add to, not replace, face-to-face contact.",
+      "example_ids": [
+        "EX-fam-video-grandparents"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề công nghệ và quan hệ."
+    },
+    {
+      "id": "ID-fam-volunteering",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "tags": [
+        "volunteering"
+      ],
+      "stance": "pro",
+      "label_vi": "Tình nguyện: lấp khoảng trống dịch vụ, xây cộng đồng; người làm được kỹ năng, ý nghĩa, bạn bè",
+      "claim": "Volunteering benefits both the community and the volunteer.",
+      "because": "Volunteers provide help that public services cannot always afford, from tutoring to care for older people, while they gain skills, friendships and a sense of purpose.",
+      "result": "Neither side benefits alone, and the effect is greatest when the work is well organised.",
+      "example_ids": [
+        "EX-fam-reading-volunteer"
+      ],
+      "fits": [
+        "Discuss both views",
+        "Opinion"
+      ],
+      "reuse_vi": "Đề tình nguyện."
+    },
+    {
+      "id": "ID-fam-volunteering-abroad",
+      "type": "idea",
+      "topics": [
+        "family",
+        "travel",
+        "society"
+      ],
+      "tags": [
+        "volunteering",
+        "abroad"
+      ],
+      "stance": "caveat",
+      "label_vi": "Tình nguyện ở nước ngoài: cộng đồng có thêm nhân lực, kỹ năng; tình nguyện viên hiểu văn hoá; nhưng ngắn hạn, phụ thuộc, 'du lịch tình nguyện'",
+      "claim": "Volunteering abroad can help communities if it matches local needs.",
+      "because": "Volunteers with skills such as teaching or medicine fill real gaps and learn about other cultures, yet short, poorly planned visits may take work from local people and create dependence.",
+      "result": "Projects led by the community give the most lasting benefit.",
+      "example_ids": [
+        "EX-fam-teaching-abroad"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề tình nguyện viên ở nước ngoài."
+    },
+    {
+      "id": "ID-fam-volunteer-encourage",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society",
+        "government"
+      ],
+      "tags": [
+        "volunteering",
+        "policy"
+      ],
+      "stance": "caveat",
+      "label_vi": "Tình nguyện: lựa chọn cá nhân và động lực; chính phủ khuyến khích (điểm ở trường, nghỉ phép, ưu đãi thuế, hạ tầng)",
+      "claim": "Volunteering depends on personal motivation but is helped by public encouragement.",
+      "because": "People volunteer when they care about a cause, yet schools, employers and governments can make it easier through course credit, paid time off, recognition and well-run organisations.",
+      "result": "A mixture of personal choice and public support gives the best results.",
+      "example_ids": [],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề cá nhân vs chính phủ khuyến khích tình nguyện."
+    },
+    {
+      "id": "ID-fam-pets",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "tags": [
+        "pets"
+      ],
+      "stance": "caveat",
+      "label_vi": "Thú cưng: bầu bạn, giảm cô đơn, niềm vui; nhưng không bằng thành viên gia đình (trách nhiệm đạo đức, quan hệ, thừa kế)",
+      "claim": "Pets give companionship and joy but cannot replace human family members.",
+      "because": "They reduce loneliness and encourage exercise and responsibility, yet they cannot offer the shared history, conversation and mutual obligations that bind a family.",
+      "result": "Pets are important to many people without being equal to relatives.",
+      "example_ids": [
+        "EX-fam-dog-widow"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề thú cưng."
+    },
+    {
+      "id": "ID-fam-birth-causes",
+      "type": "idea",
+      "topics": [
+        "family",
+        "economy",
+        "society"
+      ],
+      "tags": [
+        "birth-rate",
+        "cause"
+      ],
+      "stance": "cause",
+      "label_vi": "Nguyên nhân sinh thấp: chi phí nuôi con, nhà ở đắt, phụ nữ học cao và đi làm, kết hôn muộn, khó cân bằng công việc, bất ổn",
+      "claim": "Low birth rates reflect the high cost of raising children and the difficulty of combining work and family.",
+      "because": "Housing, childcare and education are expensive, women increasingly pursue careers and marry later, and long working hours and insecure jobs make couples delay or limit families.",
+      "result": "Many people end up with fewer children than they would like.",
+      "example_ids": [
+        "EX-fam-delay-child"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề sinh suất thấp."
+    },
+    {
+      "id": "ID-fam-birth-solutions",
+      "type": "idea",
+      "topics": [
+        "family",
+        "government"
+      ],
+      "tags": [
+        "birth-rate",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp: chăm sóc trẻ giá phải chăng, hỗ trợ nhà ở, nghỉ thai sản cho cả hai, giờ làm linh hoạt, hỗ trợ tài chính",
+      "claim": "Governments should make it easier for couples to have the children they want.",
+      "because": "Affordable childcare, housing support, parental leave for both parents, flexible working and financial help reduce the costs and career penalties of having a child.",
+      "result": "Families can have children without sacrificing security or careers.",
+      "example_ids": [],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Giải pháp sinh suất thấp, chính sách thân thiện gia đình."
+    },
+    {
+      "id": "ID-fam-early-childhood",
+      "type": "idea",
+      "topics": [
+        "family",
+        "education",
+        "economy"
+      ],
+      "tags": [
+        "childcare",
+        "early-years"
+      ],
+      "stance": "pro",
+      "label_vi": "Chăm sóc trẻ nhỏ: phát triển não, sẵn sàng đi học, cha mẹ đi làm, bình đẳng, lợi ích dài hạn",
+      "claim": "Good care in the early years gives children a lasting advantage.",
+      "because": "The brain develops fastest before the age of five, and quality nurseries build language, social skills and curiosity while allowing parents, especially mothers, to work.",
+      "result": "Children arrive at school ready to learn, and the country gains healthier, more productive citizens.",
+      "example_ids": [
+        "EX-fam-nursery-reader"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề chăm sóc trẻ nhỏ."
+    },
+    {
+      "id": "ID-fam-childcare-elder",
+      "type": "idea",
+      "topics": [
+        "family",
+        "government",
+        "society"
+      ],
+      "tags": [
+        "spending",
+        "care"
+      ],
+      "stance": "caveat",
+      "label_vi": "Chi cho chăm sóc trẻ (đầu tư tương lai, cha mẹ đi làm) hay người già (dân số già, phẩm giá, giảm gánh nặng người nhà)",
+      "claim": "Both children and older people depend on public care, but their needs differ in timing and urgency.",
+      "because": "Childcare invests in the future and lets parents work, whereas elder care protects the dignity of people who built the country and relieves relatives who often care at the expense of their jobs.",
+      "result": "A balanced budget that responds to demographic change is wise.",
+      "example_ids": [
+        "EX-fam-sandwich-carer"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề chi chăm sóc trẻ vs người già."
+    },
+    {
+      "id": "ID-fam-parents-academic",
+      "type": "idea",
+      "topics": [
+        "family",
+        "education"
+      ],
+      "tags": [
+        "parents",
+        "education"
+      ],
+      "stance": "pro",
+      "label_vi": "Vai trò cha mẹ với thành tích học: động viên, nếp sinh hoạt, tài liệu, quan tâm, kỳ vọng hợp lý; quá áp lực phản tác dụng",
+      "claim": "Parents shape children's academic success through encouragement, routine and interest.",
+      "because": "Children whose parents read with them, set regular times for homework and show curiosity about school tend to achieve more, while excessive pressure can cause stress and lower motivation.",
+      "result": "Support works better than pressure.",
+      "example_ids": [
+        "EX-fam-homework-routine"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề cha mẹ và học tập."
+    },
+    {
+      "id": "ID-fam-child-smartphones",
+      "type": "idea",
+      "topics": [
+        "family",
+        "technology",
+        "health"
+      ],
+      "tags": [
+        "smartphones",
+        "children"
+      ],
+      "stance": "pro",
+      "label_vi": "Hạn chế điện thoại thông minh cho trẻ: xao nhãng học, mất ngủ, bắt nạt mạng, nội dung không phù hợp, ít vận động; nhưng liên lạc an toàn và học tập",
+      "claim": "Young children are not ready for unrestricted smartphones.",
+      "because": "Phones distract from schoolwork, disturb sleep, expose children to unsuitable content and online bullying and replace play and exercise, although they allow parents and children to stay in contact.",
+      "result": "Delaying and limiting use protects health, learning and development.",
+      "example_ids": [
+        "EX-fam-night-scrolling"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề trẻ em dùng điện thoại, thời gian màn hình."
+    },
+    {
+      "id": "ID-fam-grandparents",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "tags": [
+        "grandparents"
+      ],
+      "stance": "pro",
+      "label_vi": "Ông bà: chăm cháu, truyền giá trị và câu chuyện, hỗ trợ cha mẹ đi làm, an toàn cảm xúc; khác biệt quan điểm nuôi dạy, sức khoẻ",
+      "claim": "Grandparents provide care, stability and a link with the past.",
+      "because": "They look after grandchildren while parents work, pass on stories, values and skills, and give children a sense of security, though their ideas about discipline may differ from the parents'.",
+      "result": "Children with close grandparents often feel more rooted and loved.",
+      "example_ids": [
+        "EX-fam-grandma-stories"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề ông bà."
+    },
+    {
+      "id": "ID-fam-traditions-identity",
+      "type": "idea",
+      "topics": [
+        "family",
+        "culture",
+        "society"
+      ],
+      "tags": [
+        "traditions",
+        "identity"
+      ],
+      "stance": "pro",
+      "label_vi": "Truyền thống gia đình: cảm giác thuộc về, giá trị, liên tục thế hệ; có thể gò bó",
+      "claim": "Family traditions give children a sense of belonging and identity.",
+      "because": "Shared rituals such as festival meals, stories and customs pass on values and memories from one generation to the next, although rigid traditions can limit individual choice.",
+      "result": "People with strong traditions often feel more secure about who they are.",
+      "example_ids": [
+        "EX-fam-new-year-meal"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề truyền thống gia đình và bản sắc."
+    },
+    {
+      "id": "EX-fam-video-grandparents",
+      "type": "example",
+      "topics": [
+        "family",
+        "technology"
+      ],
+      "text": "A grandmother who watches her grandchildren's school play by video call from another country, for example, feels part of their lives.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-reading-volunteer",
+      "type": "example",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "text": "A retired teacher who helps children to read after school, for example, offers support that the school could not pay for and finds new purpose herself.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-teaching-abroad",
+      "type": "example",
+      "topics": [
+        "family",
+        "travel",
+        "education"
+      ],
+      "text": "A volunteer who teaches English in a village for six months, for example, may help children but leave before the project can continue.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-dog-widow",
+      "type": "example",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "text": "A widow whose dog greets her every day, for example, feels less alone, but the dog cannot replace the conversation of a relative.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-delay-child",
+      "type": "example",
+      "topics": [
+        "family",
+        "economy"
+      ],
+      "text": "A couple who postpone parenthood until they can afford a larger flat, for example, may find that they have only one child.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-nursery-reader",
+      "type": "example",
+      "topics": [
+        "family",
+        "education"
+      ],
+      "text": "A child who spends mornings in a good nursery, for example, enters school already able to listen, share and speak in sentences.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-sandwich-carer",
+      "type": "example",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "text": "A woman who looks after both her young children and her elderly mother, for example, may be forced to give up her job.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-homework-routine",
+      "type": "example",
+      "topics": [
+        "family",
+        "education"
+      ],
+      "text": "A parent who sits with a child for twenty minutes of homework every evening, for example, shows that learning matters.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-night-scrolling",
+      "type": "example",
+      "topics": [
+        "family",
+        "health"
+      ],
+      "text": "A ten-year-old who scrolls on a phone in bed until midnight, for example, arrives at school tired and distracted.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-grandma-stories",
+      "type": "example",
+      "topics": [
+        "family",
+        "culture"
+      ],
+      "text": "A grandmother who tells stories about her childhood, for example, gives a child a living link with history.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-new-year-meal",
+      "type": "example",
+      "topics": [
+        "family",
+        "culture"
+      ],
+      "text": "A family that cooks the same festival dish together every year, for example, creates memories that tie generations together.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "PH-smartphones-video-calls-and-messaging-apps",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Smartphones, video calls and messaging apps",
+      "meaning_vi": "điện thoại thông minh, cuộc gọi video và ứng dụng nhắn tin",
+      "from": 36
+    },
+    {
+      "id": "PH-relate-to-one-another",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "relate to one another",
+      "meaning_vi": "quan hệ với nhau",
+      "from": 36
+    },
+    {
+      "id": "PH-technology-affects-relationships",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "technology affects relationships",
+      "meaning_vi": "công nghệ ảnh hưởng quan hệ",
+      "from": 36
+    },
+    {
+      "id": "PH-stay-in-touch",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stay in touch",
+      "meaning_vi": "giữ liên lạc",
+      "from": 36
+    },
+    {
+      "id": "PH-across-distance",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "across distance",
+      "meaning_vi": "xuyên khoảng cách",
+      "from": 36
+    },
+    {
+      "id": "PH-the-quality-of-the-time-they-spend-together",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the quality of the time they spend together",
+      "meaning_vi": "chất lượng thời gian họ bên nhau",
+      "from": 36
+    },
+    {
+      "id": "PH-form-new-connections",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "form new connections",
+      "meaning_vi": "tạo kết nối mới",
+      "from": 36
+    },
+    {
+      "id": "PH-migrants-and-students-abroad",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "migrants and students abroad",
+      "meaning_vi": "người di cư và sinh viên ở nước ngoài",
+      "from": 36
+    },
+    {
+      "id": "PH-feels-part-of-their-lives",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "feels part of their lives",
+      "meaning_vi": "cảm thấy là một phần cuộc sống của chúng",
+      "from": 36
+    },
+    {
+      "id": "PH-share-their-interests-or-circumstances",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share their interests or circumstances",
+      "meaning_vi": "cùng sở thích hoặc hoàn cảnh",
+      "from": 36
+    },
+    {
+      "id": "PH-a-rare-illness",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a rare illness",
+      "meaning_vi": "một căn bệnh hiếm",
+      "from": 36
+    },
+    {
+      "id": "PH-isolated-in-their-own-neighbourhood",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "isolated in their own neighbourhood",
+      "meaning_vi": "cô lập ngay trong khu phố của mình",
+      "from": 36
+    },
+    {
+      "id": "PH-phones-at-the-dinner-table",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Phones at the dinner table",
+      "meaning_vi": "điện thoại ở bàn ăn",
+      "from": 36
+    },
+    {
+      "id": "PH-constant-notifications",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "constant notifications",
+      "meaning_vi": "thông báo liên tục",
+      "from": 36
+    },
+    {
+      "id": "PH-without-really-listening-to-each-other",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "without really listening to each other",
+      "meaning_vi": "mà không thật sự lắng nghe nhau",
+      "from": 36
+    },
+    {
+      "id": "PH-tone-is-misunderstood-in-text",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tone is misunderstood in text",
+      "meaning_vi": "giọng điệu bị hiểu sai trong văn bản",
+      "from": 36
+    },
+    {
+      "id": "PH-online-bullying",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Online bullying",
+      "meaning_vi": "bắt nạt trực tuyến",
+      "from": 36
+    },
+    {
+      "id": "PH-display-a-perfect-life",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "display a perfect life",
+      "meaning_vi": "phô bày cuộc sống hoàn hảo",
+      "from": 36
+    },
+    {
+      "id": "PH-add-to-face-to-face-contact-not-to-replace-i",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "add to face-to-face contact, not to replace it",
+      "meaning_vi": "bổ sung cho tiếp xúc trực tiếp chứ không thay thế",
+      "from": 36
+    },
+    {
+      "id": "PH-give-their-time-without-payment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give their time without payment",
+      "meaning_vi": "dành thời gian không lấy tiền",
+      "from": 45
+    },
+    {
+      "id": "PH-volunteering-benefits-society",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "volunteering benefits society",
+      "meaning_vi": "tình nguyện có lợi cho xã hội",
+      "from": 45
+    },
+    {
+      "id": "PH-primarily-benefits-the-volunteers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "primarily benefits the volunteers",
+      "meaning_vi": "chủ yếu có lợi cho người tình nguyện",
+      "from": 45
+    },
+    {
+      "id": "PH-help-that-public-services-cannot-always-affo",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "help that public services cannot always afford",
+      "meaning_vi": "sự giúp đỡ mà dịch vụ công không phải lúc nào cũng đủ tiền cung cấp",
+      "from": 45
+    },
+    {
+      "id": "PH-tutoring-to-care-for-older-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tutoring to care for older people",
+      "meaning_vi": "kèm cặp đến chăm sóc người già",
+      "from": 45
+    },
+    {
+      "id": "PH-could-not-survive-without-them",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "could not survive without them",
+      "meaning_vi": "không thể tồn tại nếu thiếu họ",
+      "from": 45
+    },
+    {
+      "id": "PH-a-retired-teacher",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a retired teacher",
+      "meaning_vi": "một giáo viên về hưu",
+      "from": 45
+    },
+    {
+      "id": "PH-builds-community",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "builds community",
+      "meaning_vi": "xây dựng cộng đồng",
+      "from": 45
+    },
+    {
+      "id": "PH-a-common-cause",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a common cause",
+      "meaning_vi": "một mục tiêu chung",
+      "from": 45
+    },
+    {
+      "id": "PH-develop-trust",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "develop trust",
+      "meaning_vi": "phát triển lòng tin",
+      "from": 45
+    },
+    {
+      "id": "PH-a-coordinated-response-and-chaos",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a coordinated response and chaos",
+      "meaning_vi": "phản ứng có phối hợp và hỗn loạn",
+      "from": 45
+    },
+    {
+      "id": "PH-care-about-each-other-beyond-family-ties",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "care about each other beyond family ties",
+      "meaning_vi": "quan tâm lẫn nhau vượt ngoài quan hệ gia đình",
+      "from": 45
+    },
+    {
+      "id": "PH-learn-skills-such-as-organising-communicatin",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn skills such as organising, communicating and teamwork",
+      "meaning_vi": "học kỹ năng như tổ chức, giao tiếp và làm việc nhóm",
+      "from": 45
+    },
+    {
+      "id": "PH-find-paid-work",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "find paid work",
+      "meaning_vi": "tìm việc có lương",
+      "from": 45
+    },
+    {
+      "id": "PH-friendships-confidence-and-a-sense-of-purpos",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "friendships, confidence and a sense of purpose",
+      "meaning_vi": "tình bạn, sự tự tin và cảm giác có mục đích",
+      "from": 45
+    },
+    {
+      "id": "PH-improves-a-career-application",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "improves a career application",
+      "meaning_vi": "cải thiện hồ sơ xin việc",
+      "from": 45
+    },
+    {
+      "id": "PH-not-truly-selfless",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "not truly selfless",
+      "meaning_vi": "không hoàn toàn vị tha",
+      "from": 45
+    },
+    {
+      "id": "PH-mutual-benefit",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mutual benefit",
+      "meaning_vi": "lợi ích hỗ tương",
+      "from": 45
+    },
+    {
+      "id": "PH-treat-their-dogs-and-cats-as-part-of-the-hou",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "treat their dogs and cats as part of the household",
+      "meaning_vi": "coi chó mèo như một phần gia đình",
+      "from": 81
+    },
+    {
+      "id": "PH-as-important-as-family-members",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "as important as family members",
+      "meaning_vi": "quan trọng như thành viên gia đình",
+      "from": 81
+    },
+    {
+      "id": "PH-companionship-and-joy",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "companionship and joy",
+      "meaning_vi": "bầu bạn và niềm vui",
+      "from": 81
+    },
+    {
+      "id": "PH-cannot-replace-human-family-members",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot replace human family members",
+      "meaning_vi": "không thể thay thế thành viên gia đình là con người",
+      "from": 81
+    },
+    {
+      "id": "PH-encourage-exercise-and-responsibility",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encourage exercise and responsibility",
+      "meaning_vi": "khuyến khích vận động và tinh thần trách nhiệm",
+      "from": 81
+    },
+    {
+      "id": "PH-shared-history-conversation-and-mutual-oblig",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shared history, conversation and mutual obligations",
+      "meaning_vi": "lịch sử chung, đối thoại và nghĩa vụ hỗ tương",
+      "from": 81
+    },
+    {
+      "id": "PH-bind-a-family",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bind a family",
+      "meaning_vi": "gắn kết một gia đình",
+      "from": 81
+    },
+    {
+      "id": "PH-a-widow",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a widow",
+      "meaning_vi": "người goá phụ",
+      "from": 81
+    },
+    {
+      "id": "PH-greets-her-every-day",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "greets her every day",
+      "meaning_vi": "chào đón cô mỗi ngày",
+      "from": 81
+    },
+    {
+      "id": "PH-understand-her-worries",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "understand her worries",
+      "meaning_vi": "hiểu những lo lắng của cô",
+      "from": 81
+    },
+    {
+      "id": "PH-support-one-another-through-illness",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "support one another through illness",
+      "meaning_vi": "nâng đỡ nhau qua bệnh tật",
+      "from": 81
+    },
+    {
+      "id": "PH-memories-that-stretch-over-generations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "memories that stretch over generations",
+      "meaning_vi": "ký ức kéo dài qua nhiều thế hệ",
+      "from": 81
+    },
+    {
+      "id": "PH-a-moral-status",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a moral status",
+      "meaning_vi": "địa vị đạo đức",
+      "from": 81
+    },
+    {
+      "id": "PH-deserving-of-kindness",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "deserving of kindness",
+      "meaning_vi": "đáng được đối xử tử tế",
+      "from": 81
+    },
+    {
+      "id": "PH-at-the-expense-of-children-or-elderly-parent",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "at the expense of children or elderly parents",
+      "meaning_vi": "gây thiệt cho con cái hoặc cha mẹ già",
+      "from": 81
+    },
+    {
+      "id": "PH-resentment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "resentment",
+      "meaning_vi": "sự bực bội",
+      "from": 81
+    },
+    {
+      "id": "PH-grief-at-losing-one",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "grief at losing one",
+      "meaning_vi": "nỗi đau khi mất đi một con",
+      "from": 81
+    },
+    {
+      "id": "PH-therapy-animals",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "therapy animals",
+      "meaning_vi": "động vật trị liệu",
+      "from": 81
+    },
+    {
+      "id": "PH-fewer-than-two-children",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fewer than two children",
+      "meaning_vi": "dưới hai con",
+      "from": 89
+    },
+    {
+      "id": "PH-shrinking-populations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shrinking populations",
+      "meaning_vi": "dân số thu hẹp",
+      "from": 89
+    },
+    {
+      "id": "PH-low-birth-rates",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "low birth rates",
+      "meaning_vi": "tỷ lệ sinh thấp",
+      "from": 89
+    },
+    {
+      "id": "PH-the-high-cost-of-raising-children",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the high cost of raising children",
+      "meaning_vi": "chi phí nuôi con cao",
+      "from": 89
+    },
+    {
+      "id": "PH-combining-work-and-family",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "combining work and family",
+      "meaning_vi": "kết hợp công việc và gia đình",
+      "from": 89
+    },
+    {
+      "id": "PH-housing-childcare-and-education-are-expensiv",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Housing, childcare and education are expensive",
+      "meaning_vi": "nhà ở, chăm sóc trẻ và giáo dục đắt đỏ",
+      "from": 89
+    },
+    {
+      "id": "PH-pursue-careers-and-marry-later",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pursue careers and marry later",
+      "meaning_vi": "theo đuổi sự nghiệp và kết hôn muộn",
+      "from": 89
+    },
+    {
+      "id": "PH-long-working-hours-and-insecure-jobs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "long working hours and insecure jobs",
+      "meaning_vi": "giờ làm dài và việc làm bấp bênh",
+      "from": 89
+    },
+    {
+      "id": "PH-delay-or-limit-families",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "delay or limit families",
+      "meaning_vi": "trì hoãn hoặc hạn chế việc có con",
+      "from": 89
+    },
+    {
+      "id": "PH-postpone-parenthood",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "postpone parenthood",
+      "meaning_vi": "hoãn việc làm cha mẹ",
+      "from": 89
+    },
+    {
+      "id": "PH-a-larger-flat",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a larger flat",
+      "meaning_vi": "căn hộ lớn hơn",
+      "from": 89
+    },
+    {
+      "id": "PH-personal-freedom-and-careers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "personal freedom and careers",
+      "meaning_vi": "tự do cá nhân và sự nghiệp",
+      "from": 89
+    },
+    {
+      "id": "PH-access-to-contraception",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "access to contraception",
+      "meaning_vi": "tiếp cận biện pháp tránh thai",
+      "from": 89
+    },
+    {
+      "id": "PH-economic-uncertainty",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "economic uncertainty",
+      "meaning_vi": "bất ổn kinh tế",
+      "from": 89
+    },
+    {
+      "id": "PH-fewer-children-than-they-would-like",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fewer children than they would like",
+      "meaning_vi": "ít con hơn mong muốn",
+      "from": 89
+    },
+    {
+      "id": "PH-affordable-childcare-housing-support",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Affordable childcare, housing support",
+      "meaning_vi": "chăm sóc trẻ giá phải chăng, hỗ trợ nhà ở",
+      "from": 89
+    },
+    {
+      "id": "PH-parental-leave-for-both-parents",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "parental leave for both parents",
+      "meaning_vi": "nghỉ chăm con cho cả hai bậc cha mẹ",
+      "from": 89
+    },
+    {
+      "id": "PH-flexible-working",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "flexible working",
+      "meaning_vi": "làm việc linh hoạt",
+      "from": 89
+    },
+    {
+      "id": "PH-penalising-workers-who-take-leave",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "penalising workers who take leave",
+      "meaning_vi": "phạt người lao động nghỉ phép",
+      "from": 89
+    },
+    {
+      "id": "PH-maintain-the-workforce",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "maintain the workforce",
+      "meaning_vi": "duy trì lực lượng lao động",
+      "from": 89
+    },
+    {
+      "id": "PH-shape-a-child-s-health-learning-and-behaviou",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shape a child's health, learning and behaviour",
+      "meaning_vi": "định hình sức khoẻ, học tập và hành vi của trẻ",
+      "from": 97
+    },
+    {
+      "id": "PH-nurseries-and-early-education",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "nurseries and early education",
+      "meaning_vi": "nhà trẻ và giáo dục sớm",
+      "from": 97
+    },
+    {
+      "id": "PH-early-childhood-care",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "early childhood care",
+      "meaning_vi": "chăm sóc trẻ nhỏ",
+      "from": 97
+    },
+    {
+      "id": "PH-better-outcomes-for-children",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "better outcomes for children",
+      "meaning_vi": "kết quả tốt hơn cho trẻ",
+      "from": 97
+    },
+    {
+      "id": "PH-wider-gains-for-families-and-the-economy",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "wider gains for families and the economy",
+      "meaning_vi": "lợi ích rộng hơn cho gia đình và kinh tế",
+      "from": 97
+    },
+    {
+      "id": "PH-a-lasting-advantage",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a lasting advantage",
+      "meaning_vi": "lợi thế lâu dài",
+      "from": 97
+    },
+    {
+      "id": "PH-the-brain-develops-fastest-before-the-age-of",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "The brain develops fastest before the age of five",
+      "meaning_vi": "não phát triển nhanh nhất trước năm tuổi",
+      "from": 97
+    },
+    {
+      "id": "PH-build-language-social-skills-and-curiosity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "build language, social skills and curiosity",
+      "meaning_vi": "xây dựng ngôn ngữ, kỹ năng xã hội và sự tò mò",
+      "from": 97
+    },
+    {
+      "id": "PH-listen-share-and-speak-in-sentences",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "listen, share and speak in sentences",
+      "meaning_vi": "lắng nghe, chia sẻ và nói thành câu",
+      "from": 97
+    },
+    {
+      "id": "PH-disadvantaged-homes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "disadvantaged homes",
+      "meaning_vi": "gia đình khó khăn",
+      "from": 97
+    },
+    {
+      "id": "PH-narrows-the-gap-before-formal-schooling-star",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "narrows the gap before formal schooling starts",
+      "meaning_vi": "thu hẹp khoảng cách trước khi vào học chính thức",
+      "from": 97
+    },
+    {
+      "id": "PH-ready-to-learn",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "ready to learn",
+      "meaning_vi": "sẵn sàng học",
+      "from": 97
+    },
+    {
+      "id": "PH-drop-out-later",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "drop out later",
+      "meaning_vi": "bỏ học về sau",
+      "from": 97
+    },
+    {
+      "id": "PH-health-or-developmental-problems",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "health or developmental problems",
+      "meaning_vi": "vấn đề sức khoẻ hoặc phát triển",
+      "from": 97
+    },
+    {
+      "id": "PH-return-to-work",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "return to work",
+      "meaning_vi": "trở lại làm việc",
+      "from": 97
+    },
+    {
+      "id": "PH-raises-household-income-and-tax-revenue",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "raises household income and tax revenue",
+      "meaning_vi": "tăng thu nhập hộ gia đình và nguồn thu thuế",
+      "from": 97
+    },
+    {
+      "id": "PH-supports-gender-equality",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supports gender equality",
+      "meaning_vi": "hỗ trợ bình đẳng giới",
+      "from": 97
+    },
+    {
+      "id": "PH-returns-several-times-as-much",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "returns several times as much",
+      "meaning_vi": "hoàn lại nhiều lần",
+      "from": 97
+    },
+    {
+      "id": "PH-higher-earnings-and-lower-costs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "higher earnings and lower costs",
+      "meaning_vi": "thu nhập cao hơn và chi phí thấp hơn",
+      "from": 97
+    },
+    {
+      "id": "PH-staff-training-and-buildings",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "staff training and buildings",
+      "meaning_vi": "đào tạo nhân viên và cơ sở vật chất",
+      "from": 97
+    },
+    {
+      "id": "PH-demographic-pressures",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "demographic pressures",
+      "meaning_vi": "áp lực nhân khẩu học",
+      "from": 111
+    },
+    {
+      "id": "PH-raise-children",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "raise children",
+      "meaning_vi": "nuôi con",
+      "from": 111
+    },
+    {
+      "id": "PH-very-old-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "very old people",
+      "meaning_vi": "người rất già",
+      "from": 111
+    },
+    {
+      "id": "PH-invests-in-the-future",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "invests in the future",
+      "meaning_vi": "đầu tư vào tương lai",
+      "from": 111
+    },
+    {
+      "id": "PH-lets-parents-work",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lets parents work",
+      "meaning_vi": "giúp cha mẹ có thể làm việc",
+      "from": 111
+    },
+    {
+      "id": "PH-do-well-at-school-and-later-in-life",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "do well at school and later in life",
+      "meaning_vi": "học tốt ở trường và về sau trong cuộc đời",
+      "from": 111
+    },
+    {
+      "id": "PH-the-returns-on-early-investment-are-large",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "The returns on early investment are large",
+      "meaning_vi": "lợi ích từ đầu tư sớm là lớn",
+      "from": 111
+    },
+    {
+      "id": "PH-productive-adults",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "productive adults",
+      "meaning_vi": "người trưởng thành năng suất",
+      "from": 111
+    },
+    {
+      "id": "PH-support-future-generations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "support future generations",
+      "meaning_vi": "hỗ trợ các thế hệ sau",
+      "from": 111
+    },
+    {
+      "id": "PH-worked-and-paid-taxes-for-decades",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "worked and paid taxes for decades",
+      "meaning_vi": "làm việc và đóng thuế hàng chục năm",
+      "from": 111
+    },
+    {
+      "id": "PH-dignity-in-their-final-years",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "dignity in their final years",
+      "meaning_vi": "phẩm giá trong những năm cuối đời",
+      "from": 111
+    },
+    {
+      "id": "PH-frailty-dementia-or-loneliness",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "frailty, dementia or loneliness",
+      "meaning_vi": "yếu đuối, sa sút trí tuệ hoặc cô đơn",
+      "from": 111
+    },
+    {
+      "id": "PH-neglected",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "neglected",
+      "meaning_vi": "bị bỏ rơi",
+      "from": 111
+    },
+    {
+      "id": "PH-forced-to-cut-their-working-hours",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "forced to cut their working hours",
+      "meaning_vi": "bị buộc giảm giờ làm",
+      "from": 111
+    },
+    {
+      "id": "PH-give-up-her-job",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give up her job",
+      "meaning_vi": "bỏ việc",
+      "from": 111
+    },
+    {
+      "id": "PH-the-demand-for-care-is-growing-fast",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the demand for care is growing fast",
+      "meaning_vi": "nhu cầu chăm sóc tăng nhanh",
+      "from": 111
+    },
+    {
+      "id": "PH-great-suffering",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "great suffering",
+      "meaning_vi": "đau khổ lớn",
+      "from": 111
+    },
+    {
+      "id": "PH-a-balanced-budget-is-wise",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a balanced budget is wise",
+      "meaning_vi": "ngân sách cân bằng là khôn ngoan",
+      "from": 111
+    },
+    {
+      "id": "PH-the-growth-of-the-ageing-population",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the growth of the ageing population",
+      "meaning_vi": "sự gia tăng của dân số già",
+      "from": 111
+    },
+    {
+      "id": "PH-academic-success",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "academic success",
+      "meaning_vi": "thành công học tập",
+      "from": 123
+    },
+    {
+      "id": "PH-encouragement-and-routine",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encouragement and routine",
+      "meaning_vi": "sự động viên và nếp sinh hoạt",
+      "from": 123
+    },
+    {
+      "id": "PH-resources-and-expectations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "resources and expectations",
+      "meaning_vi": "nguồn lực và kỳ vọng",
+      "from": 123
+    },
+    {
+      "id": "PH-encouragement-routine-and-interest",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encouragement, routine and interest",
+      "meaning_vi": "động viên, nếp sinh hoạt và sự quan tâm",
+      "from": 123
+    },
+    {
+      "id": "PH-read-with-them",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "read with them",
+      "meaning_vi": "đọc cùng chúng",
+      "from": 123
+    },
+    {
+      "id": "PH-set-regular-times-for-homework",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "set regular times for homework",
+      "meaning_vi": "đặt giờ làm bài tập cố định",
+      "from": 123
+    },
+    {
+      "id": "PH-show-curiosity-about-school",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "show curiosity about school",
+      "meaning_vi": "tỏ ra tò mò về trường học",
+      "from": 123
+    },
+    {
+      "id": "PH-a-normal-part-of-life",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a normal part of life",
+      "meaning_vi": "một phần bình thường của cuộc sống",
+      "from": 123
+    },
+    {
+      "id": "PH-praise-for-effort-rather-than-just-results",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Praise for effort rather than just results",
+      "meaning_vi": "khen nỗ lực chứ không chỉ kết quả",
+      "from": 123
+    },
+    {
+      "id": "PH-builds-confidence-and-persistence",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "builds confidence and persistence",
+      "meaning_vi": "xây dựng sự tự tin và kiên trì",
+      "from": 123
+    },
+    {
+      "id": "PH-enough-sleep-and-breakfast",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "enough sleep and breakfast",
+      "meaning_vi": "đủ giấc ngủ và bữa sáng",
+      "from": 123
+    },
+    {
+      "id": "PH-develops-vocabulary-and-curiosity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "develops vocabulary and curiosity",
+      "meaning_vi": "phát triển vốn từ và sự tò mò",
+      "from": 123
+    },
+    {
+      "id": "PH-find-a-quiet-place-to-study",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "find a quiet place to study",
+      "meaning_vi": "tìm chỗ học yên tĩnh",
+      "from": 123
+    },
+    {
+      "id": "PH-arrange-tutors",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "arrange tutors",
+      "meaning_vi": "sắp xếp gia sư",
+      "from": 123
+    },
+    {
+      "id": "PH-communicate-with-teachers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "communicate with teachers",
+      "meaning_vi": "trao đổi với giáo viên",
+      "from": 123
+    },
+    {
+      "id": "PH-live-up-to-what-their-parents-believe",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "live up to what their parents believe",
+      "meaning_vi": "sống xứng với điều cha mẹ tin",
+      "from": 123
+    },
+    {
+      "id": "PH-excessive-pressure",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "excessive pressure",
+      "meaning_vi": "áp lực quá mức",
+      "from": 123
+    },
+    {
+      "id": "PH-stress-anxiety-and-a-dislike-of-learning",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stress, anxiety and a dislike of learning",
+      "meaning_vi": "căng thẳng, lo âu và ghét việc học",
+      "from": 123
+    },
+    {
+      "id": "PH-committed-teachers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "committed teachers",
+      "meaning_vi": "giáo viên tận tâm",
+      "from": 123
+    },
+    {
+      "id": "PH-support-works-better-than-pressure",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Support works better than pressure",
+      "meaning_vi": "hỗ trợ hiệu quả hơn áp lực",
+      "from": 123
+    },
+    {
+      "id": "PH-receive-a-smartphone-before-they-start-secon",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "receive a smartphone before they start secondary school",
+      "meaning_vi": "nhận điện thoại thông minh trước khi vào cấp hai",
+      "from": 146
+    },
+    {
+      "id": "PH-children-should-not-use-smartphones",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "children should not use smartphones",
+      "meaning_vi": "trẻ em không nên dùng điện thoại thông minh",
+      "from": 146
+    },
+    {
+      "id": "PH-not-ready-for-unrestricted-phones",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "not ready for unrestricted phones",
+      "meaning_vi": "chưa sẵn sàng cho điện thoại không hạn chế",
+      "from": 146
+    },
+    {
+      "id": "PH-distract-from-schoolwork",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "distract from schoolwork",
+      "meaning_vi": "làm xao nhãng bài vở",
+      "from": 146
+    },
+    {
+      "id": "PH-disturb-sleep",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "disturb sleep",
+      "meaning_vi": "làm rối loạn giấc ngủ",
+      "from": 146
+    },
+    {
+      "id": "PH-unsuitable-content-and-online-bullying",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "unsuitable content and online bullying",
+      "meaning_vi": "nội dung không phù hợp và bắt nạt trực tuyến",
+      "from": 146
+    },
+    {
+      "id": "PH-replace-play-and-exercise",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "replace play and exercise",
+      "meaning_vi": "thay thế vui chơi và vận động",
+      "from": 146
+    },
+    {
+      "id": "PH-stay-in-contact",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stay in contact",
+      "meaning_vi": "giữ liên lạc",
+      "from": 146
+    },
+    {
+      "id": "PH-scrolls-on-a-phone-in-bed",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "scrolls on a phone in bed",
+      "meaning_vi": "lướt điện thoại trên giường",
+      "from": 146
+    },
+    {
+      "id": "PH-tired-and-distracted",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tired and distracted",
+      "meaning_vi": "mệt mỏi và xao nhãng",
+      "from": 146
+    },
+    {
+      "id": "PH-heavy-use-among-young-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "heavy use among young people",
+      "meaning_vi": "dùng nhiều ở người trẻ",
+      "from": 146
+    },
+    {
+      "id": "PH-anxiety-low-mood-and-poor-sleep",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "anxiety, low mood and poor sleep",
+      "meaning_vi": "lo âu, tâm trạng thấp và ngủ kém",
+      "from": 146
+    },
+    {
+      "id": "PH-hold-attention-for-as-long-as-possible",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hold attention for as long as possible",
+      "meaning_vi": "giữ sự chú ý càng lâu càng tốt",
+      "from": 146
+    },
+    {
+      "id": "PH-lack-the-judgment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lack the judgment",
+      "meaning_vi": "thiếu khả năng phán đoán",
+      "from": 146
+    },
+    {
+      "id": "PH-pressure-to-share-personal-images",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pressure to share personal images",
+      "meaning_vi": "áp lực chia sẻ hình ảnh cá nhân",
+      "from": 146
+    },
+    {
+      "id": "PH-outdoor-play-reading-face-to-face-friendship",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "outdoor play, reading, face-to-face friendship",
+      "meaning_vi": "chơi ngoài trời, đọc sách, tình bạn trực tiếp",
+      "from": 146
+    },
+    {
+      "id": "PH-a-complete-ban",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a complete ban",
+      "meaning_vi": "lệnh cấm hoàn toàn",
+      "from": 146
+    },
+    {
+      "id": "PH-use-technology-responsibly",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "use technology responsibly",
+      "meaning_vi": "dùng công nghệ có trách nhiệm",
+      "from": 146
+    },
+    {
+      "id": "PH-parental-controls",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "parental controls",
+      "meaning_vi": "kiểm soát của cha mẹ",
+      "from": 146
+    },
+    {
+      "id": "PH-supervised-and-limited-use",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supervised and limited use",
+      "meaning_vi": "dùng có giám sát và có giới hạn",
+      "from": 146
+    },
+    {
+      "id": "PH-working-without-pay-in-distant-countries",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "working without pay in distant countries",
+      "meaning_vi": "làm việc không lương ở nước xa",
+      "from": 176
+    },
+    {
+      "id": "PH-volunteering-abroad",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "volunteering abroad",
+      "meaning_vi": "tình nguyện ở nước ngoài",
+      "from": 176
+    },
+    {
+      "id": "PH-benefits-communities-and-volunteers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "benefits communities and volunteers",
+      "meaning_vi": "có lợi cho cộng đồng và tình nguyện viên",
+      "from": 176
+    },
+    {
+      "id": "PH-meeting-real-needs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "meeting real needs",
+      "meaning_vi": "đáp ứng nhu cầu thực sự",
+      "from": 176
+    },
+    {
+      "id": "PH-promoting-learning-and-understanding",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "promoting learning and understanding",
+      "meaning_vi": "thúc đẩy học hỏi và thấu hiểu",
+      "from": 176
+    },
+    {
+      "id": "PH-matches-local-needs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "matches local needs",
+      "meaning_vi": "phù hợp nhu cầu địa phương",
+      "from": 176
+    },
+    {
+      "id": "PH-fill-real-gaps",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fill real gaps",
+      "meaning_vi": "lấp khoảng trống thật",
+      "from": 176
+    },
+    {
+      "id": "PH-knowledge-energy-and-extra-hands",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "knowledge, energy and extra hands",
+      "meaning_vi": "kiến thức, năng lượng và thêm nhân lực",
+      "from": 176
+    },
+    {
+      "id": "PH-teaches-english-in-a-village",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "teaches English in a village",
+      "meaning_vi": "dạy tiếng Anh ở một ngôi làng",
+      "from": 176
+    },
+    {
+      "id": "PH-leave-before-it-can-continue",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "leave before it can continue",
+      "meaning_vi": "rời đi trước khi dự án có thể tiếp tục",
+      "from": 176
+    },
+    {
+      "id": "PH-led-by-local-people-and-organisations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "led by local people and organisations",
+      "meaning_vi": "do người và tổ chức địa phương dẫn dắt",
+      "from": 176
+    },
+    {
+      "id": "PH-community-priorities",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "community priorities",
+      "meaning_vi": "ưu tiên của cộng đồng",
+      "from": 176
+    },
+    {
+      "id": "PH-raise-funds-and-awareness",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "raise funds and awareness",
+      "meaning_vi": "gây quỹ và nâng nhận thức",
+      "from": 176
+    },
+    {
+      "id": "PH-develop-language-and-practical-skills",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "develop language and practical skills",
+      "meaning_vi": "phát triển ngôn ngữ và kỹ năng thực tế",
+      "from": 176
+    },
+    {
+      "id": "PH-greater-confidence-maturity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "greater confidence, maturity",
+      "meaning_vi": "tự tin và chín chắn hơn",
+      "from": 176
+    },
+    {
+      "id": "PH-build-friendships-across-borders",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "build friendships across borders",
+      "meaning_vi": "xây dựng tình bạn xuyên biên giới",
+      "from": 176
+    },
+    {
+      "id": "PH-take-work-from-local-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take work from local people",
+      "meaning_vi": "lấy việc của người địa phương",
+      "from": 176
+    },
+    {
+      "id": "PH-create-dependence",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "create dependence",
+      "meaning_vi": "tạo ra sự phụ thuộc",
+      "from": 176
+    },
+    {
+      "id": "PH-reputable-programmes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reputable programmes",
+      "meaning_vi": "chương trình uy tín",
+      "from": 176
+    },
+    {
+      "id": "PH-give-their-time-freely",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give their time freely",
+      "meaning_vi": "dành thời gian một cách tự nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-responsible-for-volunteering",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "responsible for volunteering",
+      "meaning_vi": "chịu trách nhiệm về tình nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-society-and-government-should-encourage-it",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "society and government should encourage it",
+      "meaning_vi": "xã hội và chính phủ nên khuyến khích nó",
+      "from": 192
+    },
+    {
+      "id": "PH-depends-on-personal-motivation",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "depends on personal motivation",
+      "meaning_vi": "phụ thuộc vào động cơ cá nhân",
+      "from": 192
+    },
+    {
+      "id": "PH-a-gift-of-time",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a gift of time",
+      "meaning_vi": "món quà thời gian",
+      "from": 192
+    },
+    {
+      "id": "PH-freely-given",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "freely given",
+      "meaning_vi": "được cho một cách tự nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-half-hearted-effort-and-resentment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "half-hearted effort and resentment",
+      "meaning_vi": "nỗ lực nửa vời và sự bực bội",
+      "from": 192
+    },
+    {
+      "id": "PH-made-to-volunteer",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "made to volunteer",
+      "meaning_vi": "bị buộc phải tình nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-a-healthy-civil-society",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a healthy civil society",
+      "meaning_vi": "một xã hội dân sự lành mạnh",
+      "from": 192
+    },
+    {
+      "id": "PH-take-the-initiative",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take the initiative",
+      "meaning_vi": "chủ động",
+      "from": 192
+    },
+    {
+      "id": "PH-made-easier",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "made easier",
+      "meaning_vi": "được làm dễ dàng hơn",
+      "from": 192
+    },
+    {
+      "id": "PH-course-credit-for-community-service",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "course credit for community service",
+      "meaning_vi": "điểm quá trình cho hoạt động cộng đồng",
+      "from": 192
+    },
+    {
+      "id": "PH-paid-time-off",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "paid time off",
+      "meaning_vi": "nghỉ phép có lương",
+      "from": 192
+    },
+    {
+      "id": "PH-fund-volunteer-organisations",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fund volunteer organisations",
+      "meaning_vi": "tài trợ cho các tổ chức tình nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-recognise-the-work-with-awards-or-tax-benefi",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "recognise the work with awards or tax benefits",
+      "meaning_vi": "ghi nhận công việc bằng giải thưởng hoặc ưu đãi thuế",
+      "from": 192
+    },
+    {
+      "id": "PH-cannot-spare-the-time",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot spare the time",
+      "meaning_vi": "không thể dành thời gian",
+      "from": 192
+    },
+    {
+      "id": "PH-voluntary-element",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "voluntary element",
+      "meaning_vi": "yếu tố tự nguyện",
+      "from": 192
+    },
+    {
+      "id": "PH-opens-opportunities",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "opens opportunities",
+      "meaning_vi": "mở ra cơ hội",
+      "from": 192
+    },
+    {
+      "id": "PH-poorer-backgrounds",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poorer backgrounds",
+      "meaning_vi": "xuất thân nghèo hơn",
+      "from": 192
+    },
+    {
+      "id": "PH-a-personal-choice",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a personal choice",
+      "meaning_vi": "một lựa chọn cá nhân",
+      "from": 192
+    },
+    {
+      "id": "PH-family-traditions",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "family traditions",
+      "meaning_vi": "truyền thống gia đình",
+      "from": 196
+    },
+    {
+      "id": "PH-influence-identity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "influence identity",
+      "meaning_vi": "ảnh hưởng đến bản sắc",
+      "from": 196
+    },
+    {
+      "id": "PH-shared-customs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shared customs",
+      "meaning_vi": "phong tục chung",
+      "from": 196
+    },
+    {
+      "id": "PH-a-sense-of-belonging",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a sense of belonging",
+      "meaning_vi": "cảm giác thuộc về",
+      "from": 196
+    },
+    {
+      "id": "PH-passing-on-values-and-memories",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "passing on values and memories",
+      "meaning_vi": "truyền giá trị và ký ức",
+      "from": 196
+    },
+    {
+      "id": "PH-shared-rituals",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Shared rituals",
+      "meaning_vi": "nghi thức chung",
+      "from": 196
+    },
+    {
+      "id": "PH-festival-meals-religious-ceremonies-and-annu",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "festival meals, religious ceremonies and annual trips",
+      "meaning_vi": "bữa tiệc lễ, nghi lễ tôn giáo và chuyến đi hằng năm",
+      "from": 196
+    },
+    {
+      "id": "PH-part-of-a-group-with-its-own-history",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "part of a group with its own history",
+      "meaning_vi": "một phần của nhóm có lịch sử riêng",
+      "from": 196
+    },
+    {
+      "id": "PH-cooks-the-same-festival-dish-together",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cooks the same festival dish together",
+      "meaning_vi": "cùng nấu một món lễ",
+      "from": 196
+    },
+    {
+      "id": "PH-tie-generations-together",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tie generations together",
+      "meaning_vi": "gắn kết các thế hệ",
+      "from": 196
+    },
+    {
+      "id": "PH-a-stable-starting-point",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a stable starting point",
+      "meaning_vi": "điểm xuất phát ổn định",
+      "from": 196
+    },
+    {
+      "id": "PH-a-weekly-sunday-lunch",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a weekly Sunday lunch",
+      "meaning_vi": "bữa trưa Chủ nhật hằng tuần",
+      "from": 196
+    },
+    {
+      "id": "PH-pass-on-values-and-cultural-heritage",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pass on values and cultural heritage",
+      "meaning_vi": "truyền giá trị và di sản văn hoá",
+      "from": 196
+    },
+    {
+      "id": "PH-respect-generosity-honesty",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respect, generosity, honesty",
+      "meaning_vi": "sự tôn trọng, hào phóng, trung thực",
+      "from": 196
+    },
+    {
+      "id": "PH-without-formal-lessons",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "without formal lessons",
+      "meaning_vi": "không cần bài học chính thức",
+      "from": 196
+    },
+    {
+      "id": "PH-link-people-to-their-culture",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "link people to their culture",
+      "meaning_vi": "nối con người với văn hoá của họ",
+      "from": 196
+    },
+    {
+      "id": "PH-restrict-individual-choice",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "restrict individual choice",
+      "meaning_vi": "hạn chế lựa chọn cá nhân",
+      "from": 196
+    },
+    {
+      "id": "PH-applied-rigidly",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "applied rigidly",
+      "meaning_vi": "áp dụng cứng nhắc",
+      "from": 196
+    },
+    {
+      "id": "PH-pressured-to-follow",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pressured to follow",
+      "meaning_vi": "bị áp lực phải theo",
+      "from": 196
+    },
+    {
+      "id": "PH-inherited-roots-and-personal-choice",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "inherited roots and personal choice",
+      "meaning_vi": "cội nguồn thừa hưởng và lựa chọn cá nhân",
+      "from": 196
+    },
+    {
+      "id": "PH-collect-children-from-school",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "collect children from school",
+      "meaning_vi": "đón trẻ từ trường",
+      "from": 203
+    },
+    {
+      "id": "PH-child-upbringing",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "child upbringing",
+      "meaning_vi": "nuôi dạy trẻ",
+      "from": 203
+    },
+    {
+      "id": "PH-care-and-stability",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "care and stability",
+      "meaning_vi": "chăm sóc và sự ổn định",
+      "from": 203
+    },
+    {
+      "id": "PH-passing-on-values-and-a-link-with-the-past",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "passing on values and a link with the past",
+      "meaning_vi": "truyền giá trị và nối với quá khứ",
+      "from": 203
+    },
+    {
+      "id": "PH-care-stability-and-emotional-security",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "care, stability and emotional security",
+      "meaning_vi": "sự chăm sóc, ổn định và an toàn cảm xúc",
+      "from": 203
+    },
+    {
+      "id": "PH-look-after-grandchildren-while-parents-work",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "look after grandchildren while parents work",
+      "meaning_vi": "chăm cháu khi cha mẹ đi làm",
+      "from": 203
+    },
+    {
+      "id": "PH-peace-of-mind",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "peace of mind",
+      "meaning_vi": "sự yên tâm",
+      "from": 203
+    },
+    {
+      "id": "PH-a-large-share-of-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a large share of childcare",
+      "meaning_vi": "phần lớn việc chăm trẻ",
+      "from": 203
+    },
+    {
+      "id": "PH-essential",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "essential",
+      "meaning_vi": "thiết yếu",
+      "from": 203
+    },
+    {
+      "id": "PH-the-patience-and-attention",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the patience and attention",
+      "meaning_vi": "sự kiên nhẫn và chú ý",
+      "from": 203
+    },
+    {
+      "id": "PH-loves-them-unconditionally",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "loves them unconditionally",
+      "meaning_vi": "yêu thương chúng vô điều kiện",
+      "from": 203
+    },
+    {
+      "id": "PH-a-refuge-when-there-are-tensions-at-home",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a refuge when there are tensions at home",
+      "meaning_vi": "nơi nương tựa khi ở nhà căng thẳng",
+      "from": 203
+    },
+    {
+      "id": "PH-a-living-link-with-history",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a living link with history",
+      "meaning_vi": "mối liên kết sống động với lịch sử",
+      "from": 203
+    },
+    {
+      "id": "PH-traditions-language-cooking-crafts-and-manne",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "traditions, language, cooking, crafts and manners",
+      "meaning_vi": "truyền thống, ngôn ngữ, nấu ăn, thủ công và cách cư xử",
+      "from": 203
+    },
+    {
+      "id": "PH-understand-their-roots",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "understand their roots",
+      "meaning_vi": "hiểu cội nguồn của mình",
+      "from": 203
+    },
+    {
+      "id": "PH-respect-older-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respect older people",
+      "meaning_vi": "tôn trọng người lớn tuổi",
+      "from": 203
+    },
+    {
+      "id": "PH-different-ideas-about-discipline",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "different ideas about discipline",
+      "meaning_vi": "quan điểm khác về kỷ luật",
+      "from": 203
+    },
+    {
+      "id": "PH-cause-conflict-with-parents",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cause conflict with parents",
+      "meaning_vi": "gây xung đột với cha mẹ",
+      "from": 203
+    },
+    {
+      "id": "PH-respect-for-the-parents-final-say",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respect for the parents' final say",
+      "meaning_vi": "tôn trọng quyền quyết định cuối cùng của cha mẹ",
+      "from": 203
+    },
+    {
+      "id": "ID-fam-elderly-alone",
+      "type": "idea",
+      "topics": [
+        "family",
+        "health",
+        "government"
+      ],
+      "tags": [
+        "elderly",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Hỗ trợ người già sống một mình: chăm sóc tại nhà, thăm hỏi, trung tâm cộng đồng, đi lại, báo động công nghệ, nhà ở phù hợp, hỗ trợ tài chính",
+      "claim": "Governments should help older people to stay safe, healthy and connected at home.",
+      "because": "Home-care services, regular visits, community centres, transport, alarm systems and suitable housing reduce risks and loneliness, and they allow people to live independently for longer.",
+      "result": "This costs less than residential care and respects older people's wishes.",
+      "example_ids": [
+        "EX-fam-lonely-neighbour"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề hỗ trợ người già sống một mình."
+    },
+    {
+      "id": "ID-fam-online-dating-pro",
+      "type": "idea",
+      "topics": [
+        "family",
+        "technology",
+        "society"
+      ],
+      "tags": [
+        "dating",
+        "online"
+      ],
+      "stance": "pro",
+      "label_vi": "Hẹn hò trực tuyến: nhiều lựa chọn, tiện, giúp người nhút nhát hoặc bận, lọc theo sở thích",
+      "claim": "Online dating widens choice and makes it easier to meet compatible people.",
+      "because": "People can meet far more potential partners than in their daily circle, filter by interests and values, and begin conversations at their own pace, which helps the shy and busy.",
+      "result": "Many successful couples now meet online.",
+      "example_ids": [
+        "EX-fam-shy-dater"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề hẹn hò trực tuyến."
+    },
+    {
+      "id": "ID-fam-online-dating-con",
+      "type": "idea",
+      "topics": [
+        "family",
+        "technology",
+        "society"
+      ],
+      "tags": [
+        "dating",
+        "online"
+      ],
+      "stance": "con",
+      "label_vi": "Hẹn hò trực tuyến: lừa dối, hời hợt (đánh giá qua ảnh), quá nhiều lựa chọn khiến thiếu cam kết, an toàn, lừa đảo",
+      "claim": "Online dating can encourage deception and shallow judgements.",
+      "because": "Profiles can be exaggerated or false, people are judged quickly by photos, an endless supply of choices may reduce commitment, and some users face scams or safety risks.",
+      "result": "Careful use and meeting in public places reduce the risks.",
+      "example_ids": [],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề hẹn hò trực tuyến (mặt trái)."
+    },
+    {
+      "id": "ID-fam-family-meals",
+      "type": "idea",
+      "topics": [
+        "family",
+        "health",
+        "education"
+      ],
+      "tags": [
+        "meals",
+        "children"
+      ],
+      "stance": "pro",
+      "label_vi": "Bữa ăn gia đình: trò chuyện, ăn uống lành mạnh, cảm giác an toàn, ngôn ngữ, hành vi tốt hơn; khó vì lịch làm việc",
+      "claim": "Regular family meals support children's health, language and sense of security.",
+      "because": "Children who eat with their parents tend to eat more vegetables and less junk food, practise conversation and vocabulary, and feel that their lives matter to others.",
+      "result": "Busy schedules make the habit harder, but even a few shared meals a week help.",
+      "example_ids": [
+        "EX-fam-dinner-talk"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề bữa ăn gia đình."
+    },
+    {
+      "id": "ID-fam-strict-parenting",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "tags": [
+        "parenting",
+        "strict"
+      ],
+      "stance": "pro",
+      "label_vi": "Nuôi dạy nghiêm khắc: nếp rõ ràng, kỷ luật, an toàn, dự đoán được; nhưng sợ hãi, nổi loạn, ít sáng tạo",
+      "claim": "Clear rules give children structure, safety and self-discipline.",
+      "because": "When expectations and consequences are consistent, children know what to expect, learn to control impulses and are protected from risks, although harsh rules can cause fear, secrecy and rebellion.",
+      "result": "Rules work best when explained and applied fairly.",
+      "example_ids": [
+        "EX-fam-curfew"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề nuôi dạy nghiêm khắc vs dễ dãi."
+    },
+    {
+      "id": "ID-fam-permissive-parenting",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "tags": [
+        "parenting",
+        "permissive"
+      ],
+      "stance": "pro",
+      "label_vi": "Nuôi dạy dễ dãi: tự do, sáng tạo, gần gũi, tự tin; nhưng thiếu ranh giới, khó tự chủ",
+      "claim": "A relaxed style encourages independence, creativity and close relationships.",
+      "because": "Children who are given freedom to make choices and are listened to tend to be confident and open with their parents, but without boundaries they may struggle with self-control and respect for others.",
+      "result": "A balance of warmth and limits is usually best.",
+      "example_ids": [],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề nuôi dạy dễ dãi."
+    },
+    {
+      "id": "ID-fam-community-festival",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society",
+        "culture"
+      ],
+      "tags": [
+        "festival",
+        "community"
+      ],
+      "stance": "pro",
+      "label_vi": "Lễ hội cộng đồng: gặp gỡ, bản sắc chung, tôn vinh văn hoá, tình nguyện; nhưng ồn, loại trừ",
+      "claim": "Community festivals bring neighbours together and create shared memories.",
+      "because": "People who might not normally meet cook, perform and celebrate side by side, which builds trust, pride in the place and a sense of belonging.",
+      "result": "Festivals work best when everyone can take part.",
+      "example_ids": [
+        "EX-fam-street-party"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề lễ hội cộng đồng gắn kết xã hội."
+    },
+    {
+      "id": "ID-fam-state-childcare",
+      "type": "idea",
+      "topics": [
+        "family",
+        "economy",
+        "education"
+      ],
+      "tags": [
+        "childcare",
+        "cost"
+      ],
+      "stance": "pro",
+      "label_vi": "Chăm sóc trẻ do nhà nước tài trợ: cha mẹ (nhất là mẹ) đi làm, giáo dục sớm, bình đẳng, hoàn vốn; chi phí thuế, kiểm soát chất lượng",
+      "claim": "State-funded childcare pays for itself through higher employment and better child development.",
+      "because": "Parents, especially mothers, can work and pay taxes, children from poorer homes gain early education, and the economy benefits from a more skilled workforce, although the upfront cost and quality control need care.",
+      "result": "Benefits usually outweigh costs when the system is well designed.",
+      "example_ids": [
+        "EX-fam-mother-returns"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề chăm sóc trẻ do nhà nước tài trợ."
+    },
+    {
+      "id": "ID-fam-screen-limits",
+      "type": "idea",
+      "topics": [
+        "family",
+        "health",
+        "technology"
+      ],
+      "tags": [
+        "screen-time",
+        "parents"
+      ],
+      "stance": "pro",
+      "label_vi": "Cha mẹ giới hạn thời gian màn hình: bảo vệ giấc ngủ, học, vận động, quan hệ; giới hạn cùng giải thích và làm gương",
+      "claim": "Parents should set sensible limits on screen time.",
+      "because": "Too much screen use reduces sleep, exercise and face-to-face play and can affect attention and mood, so clear limits protect development when combined with explanation and good example.",
+      "result": "Children also learn to manage technology for themselves.",
+      "example_ids": [
+        "EX-fam-screen-rule"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề giới hạn màn hình."
+    },
+    {
+      "id": "ID-fam-childcare-access",
+      "type": "idea",
+      "topics": [
+        "family",
+        "government",
+        "economy"
+      ],
+      "tags": [
+        "childcare",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp: trợ cấp, thêm chỗ, đào tạo và lương người chăm trẻ, giờ làm linh hoạt, quy định chất lượng, hỗ trợ cộng đồng",
+      "claim": "Governments should make childcare more available, affordable and trustworthy.",
+      "because": "Subsidies, new places in nurseries, better training and pay for staff, flexible hours and clear quality standards reduce costs and give parents confidence.",
+      "result": "More parents can work without worrying about their children.",
+      "example_ids": [
+        "EX-fam-childminder-subsidy"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề chăm sóc trẻ giá phải chăng."
+    },
+    {
+      "id": "ID-fam-leave-gender",
+      "type": "idea",
+      "topics": [
+        "family",
+        "work",
+        "society"
+      ],
+      "tags": [
+        "leave",
+        "gender"
+      ],
+      "stance": "pro",
+      "label_vi": "Nghỉ chăm con: khi cả cha và mẹ được nghỉ có lương, chia sẻ chăm sóc, giảm bất lợi nghề nghiệp của phụ nữ, bình đẳng; cần ưu đãi và giảm kỳ thị",
+      "claim": "Paid leave for both parents helps to share care and reduces career penalties for women.",
+      "because": "When only mothers take leave, employers may see women as less committed, whereas fathers who take time off become more involved at home and make childcare normal for both sexes.",
+      "result": "Equality improves when leave is well paid and fathers are encouraged to use it.",
+      "example_ids": [
+        "EX-fam-paternity-leave"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề nghỉ chăm con và bình đẳng giới."
+    },
+    {
+      "id": "ID-fam-friendly-policies",
+      "type": "idea",
+      "topics": [
+        "family",
+        "economy",
+        "government"
+      ],
+      "tags": [
+        "policy"
+      ],
+      "stance": "pro",
+      "label_vi": "Chính sách thân thiện gia đình: sinh suất, năng suất, bình đẳng, phúc lợi trẻ em, giữ chân nhân tài",
+      "claim": "Family-friendly policies benefit children, parents and the economy.",
+      "because": "Paid leave, flexible hours and childcare help couples to have the children they want, keep skilled workers in employment and give children a better start.",
+      "result": "Countries with such policies tend to have higher employment among women and stronger child wellbeing.",
+      "example_ids": [
+        "EX-fam-flexible-hours"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề chính sách thân thiện gia đình."
+    },
+    {
+      "id": "ID-fam-child-labour",
+      "type": "idea",
+      "topics": [
+        "family",
+        "economy",
+        "society"
+      ],
+      "tags": [
+        "child-labour"
+      ],
+      "stance": "caveat",
+      "label_vi": "Lao động trẻ em: cá nhân (người tiêu dùng, cha mẹ) có vai trò; nhưng nguyên nhân là nghèo, cần luật, thanh tra, trường học, giảm nghèo",
+      "claim": "Child labour is mainly caused by poverty and can only be ended by action at several levels.",
+      "because": "Families that need income send children to work, consumers cannot always see how goods are made, and only governments can pass laws, inspect workplaces and provide schools and support for poor families.",
+      "result": "Individuals help by choosing ethical products, but the main responsibility lies with governments and companies.",
+      "example_ids": [
+        "EX-fam-factory-child"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề lao động trẻ em."
+    },
+    {
+      "id": "ID-fam-equal-opportunity",
+      "type": "idea",
+      "topics": [
+        "family",
+        "society",
+        "government"
+      ],
+      "tags": [
+        "equality",
+        "opportunity"
+      ],
+      "stance": "caveat",
+      "label_vi": "Cơ hội bình đẳng: cá nhân (thái độ, tuyển dụng công bằng); chính phủ (luật chống phân biệt, giáo dục, hỗ trợ nhóm thiệt thòi)",
+      "claim": "Equal opportunity needs fair attitudes from individuals and strong rules and support from government.",
+      "because": "Employers and neighbours can choose to treat people fairly, but discrimination is often hidden and structural, and only laws, public education and help for disadvantaged groups can change patterns that no single person controls.",
+      "result": "Both sides are necessary.",
+      "example_ids": [
+        "EX-fam-blind-recruitment"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề cơ hội bình đẳng."
+    },
+    {
+      "id": "EX-fam-lonely-neighbour",
+      "type": "example",
+      "topics": [
+        "family",
+        "health"
+      ],
+      "text": "An eighty-year-old who falls at home and cannot reach the telephone, for example, may lie for hours unless an alarm system calls for help.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-shy-dater",
+      "type": "example",
+      "topics": [
+        "family",
+        "technology"
+      ],
+      "text": "A shy engineer who rarely meets new people at work, for example, may find a partner through an app that matches shared interests.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-dinner-talk",
+      "type": "example",
+      "topics": [
+        "family",
+        "health"
+      ],
+      "text": "A child who talks about his day at the dinner table, for example, practises telling a story and feels that his parents are interested.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-curfew",
+      "type": "example",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "text": "A teenager with a clear curfew, for example, knows what is expected and is less likely to stay out in unsafe places.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-street-party",
+      "type": "example",
+      "topics": [
+        "family",
+        "society"
+      ],
+      "text": "A street party where every household brings a dish, for example, lets neighbours who never spoke to each other become friends.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-mother-returns",
+      "type": "example",
+      "topics": [
+        "family",
+        "economy"
+      ],
+      "text": "A mother who returns to work because nursery places are affordable, for example, pays taxes instead of receiving benefits.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-screen-rule",
+      "type": "example",
+      "topics": [
+        "family",
+        "technology"
+      ],
+      "text": "A family that keeps phones out of bedrooms at night, for example, finds that children sleep better and arrive at school more alert.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-childminder-subsidy",
+      "type": "example",
+      "topics": [
+        "family",
+        "economy"
+      ],
+      "text": "A single parent who receives a subsidy for a registered childminder, for example, can take a full-time job instead of relying on benefits.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-paternity-leave",
+      "type": "example",
+      "topics": [
+        "family",
+        "work"
+      ],
+      "text": "A father who takes three months of paid leave, for example, learns to care for a baby on his own and shares the load with his partner afterwards.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-flexible-hours",
+      "type": "example",
+      "topics": [
+        "family",
+        "work"
+      ],
+      "text": "An employee who can start early and leave in time to collect her child from school, for example, stays in her job instead of resigning.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-factory-child",
+      "type": "example",
+      "topics": [
+        "family",
+        "economy"
+      ],
+      "text": "A ten-year-old who works in a brick factory to help his family, for example, misses school and may never escape poverty.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-fam-blind-recruitment",
+      "type": "example",
+      "topics": [
+        "family",
+        "work"
+      ],
+      "text": "A company that removes names and photographs from applications, for example, can reduce bias at the first stage of hiring.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "PH-a-growing-number-of-older-people-live-alone",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a growing number of older people live alone",
+      "meaning_vi": "ngày càng nhiều người cao tuổi sống một mình",
+      "from": 222
+    },
+    {
+      "id": "PH-isolated-ill-or-afraid",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "isolated, ill or afraid",
+      "meaning_vi": "bị cô lập, ốm hoặc sợ hãi",
+      "from": 222
+    },
+    {
+      "id": "PH-safe-and-healthy-at-home",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "safe and healthy at home",
+      "meaning_vi": "an toàn và khoẻ mạnh tại nhà",
+      "from": 222
+    },
+    {
+      "id": "PH-home-care-services-regular-health-visits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Home-care services, regular health visits",
+      "meaning_vi": "dịch vụ chăm sóc tại nhà, thăm khám sức khoẻ định kỳ",
+      "from": 222
+    },
+    {
+      "id": "PH-suitable-housing-and-alarm-systems",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "suitable housing and alarm systems",
+      "meaning_vi": "nhà ở phù hợp và hệ thống báo động",
+      "from": 222
+    },
+    {
+      "id": "PH-falls-at-home-and-cannot-reach-the-telephone",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "falls at home and cannot reach the telephone",
+      "meaning_vi": "ngã ở nhà và không với tới điện thoại",
+      "from": 222
+    },
+    {
+      "id": "PH-lie-for-hours",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lie for hours",
+      "meaning_vi": "nằm hàng giờ",
+      "from": 222
+    },
+    {
+      "id": "PH-detect-illness-early",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "detect illness early",
+      "meaning_vi": "phát hiện bệnh sớm",
+      "from": 222
+    },
+    {
+      "id": "PH-residential-care",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "residential care",
+      "meaning_vi": "chăm sóc nội trú",
+      "from": 222
+    },
+    {
+      "id": "PH-fitting-handrails-or-a-walk-in-shower",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fitting handrails or a walk-in shower",
+      "meaning_vi": "lắp tay vịn hoặc vòi tắm không bậc",
+      "from": 222
+    },
+    {
+      "id": "PH-respects-older-people-s-wishes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respects older people's wishes",
+      "meaning_vi": "tôn trọng mong muốn của người cao tuổi",
+      "from": 222
+    },
+    {
+      "id": "PH-lunch-clubs-befriending-schemes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lunch clubs, befriending schemes",
+      "meaning_vi": "câu lạc bộ ăn trưa, chương trình kết bạn",
+      "from": 222
+    },
+    {
+      "id": "PH-isolated-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "isolated people",
+      "meaning_vi": "người bị cô lập",
+      "from": 222
+    },
+    {
+      "id": "PH-basic-digital-skills",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "basic digital skills",
+      "meaning_vi": "kỹ năng số cơ bản",
+      "from": 222
+    },
+    {
+      "id": "PH-a-regular-check-by-neighbours",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a regular check by neighbours",
+      "meaning_vi": "kiểm tra thường xuyên của hàng xóm",
+      "from": 222
+    },
+    {
+      "id": "PH-adequate-pensions",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "adequate pensions",
+      "meaning_vi": "lương hưu đủ sống",
+      "from": 222
+    },
+    {
+      "id": "PH-keep-their-dignity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep their dignity",
+      "meaning_vi": "giữ phẩm giá",
+      "from": 222
+    },
+    {
+      "id": "PH-pressure-on-health-services-and-relatives",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pressure on health services and relatives",
+      "meaning_vi": "áp lực lên dịch vụ y tế và người thân",
+      "from": 222
+    },
+    {
+      "id": "PH-look-for-partners-through-websites-and-apps",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "look for partners through websites and apps",
+      "meaning_vi": "tìm bạn đời qua website và ứng dụng",
+      "from": 245
+    },
+    {
+      "id": "PH-online-dating",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "online dating",
+      "meaning_vi": "hẹn hò trực tuyến",
+      "from": 245
+    },
+    {
+      "id": "PH-benefits-modern-relationships",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "benefits modern relationships",
+      "meaning_vi": "có lợi cho các mối quan hệ hiện đại",
+      "from": 245
+    },
+    {
+      "id": "PH-widens-choice",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "widens choice",
+      "meaning_vi": "mở rộng lựa chọn",
+      "from": 245
+    },
+    {
+      "id": "PH-compatible-people",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "compatible people",
+      "meaning_vi": "những người hợp nhau",
+      "from": 245
+    },
+    {
+      "id": "PH-potential-partners",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "potential partners",
+      "meaning_vi": "bạn đời tiềm năng",
+      "from": 245
+    },
+    {
+      "id": "PH-filter-by-interests-and-values",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "filter by interests and values",
+      "meaning_vi": "lọc theo sở thích và giá trị",
+      "from": 245
+    },
+    {
+      "id": "PH-begin-conversations-at-their-own-pace",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "begin conversations at their own pace",
+      "meaning_vi": "bắt đầu trò chuyện theo nhịp độ của mình",
+      "from": 245
+    },
+    {
+      "id": "PH-the-shy-and-busy",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the shy and busy",
+      "meaning_vi": "người nhút nhát và bận rộn",
+      "from": 245
+    },
+    {
+      "id": "PH-matches-shared-interests",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "matches shared interests",
+      "meaning_vi": "ghép theo sở thích chung",
+      "from": 245
+    },
+    {
+      "id": "PH-small-communities",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "small communities",
+      "meaning_vi": "cộng đồng nhỏ",
+      "from": 245
+    },
+    {
+      "id": "PH-deception-and-shallow-judgements",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "deception and shallow judgements",
+      "meaning_vi": "lừa dối và đánh giá hời hợt",
+      "from": 245
+    },
+    {
+      "id": "PH-exaggerated-or-false",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "exaggerated or false",
+      "meaning_vi": "bị phóng đại hoặc giả",
+      "from": 245
+    },
+    {
+      "id": "PH-judged-quickly-by-photos",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "judged quickly by photos",
+      "meaning_vi": "bị đánh giá nhanh qua ảnh",
+      "from": 245
+    },
+    {
+      "id": "PH-an-endless-supply-of-choices",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "an endless supply of choices",
+      "meaning_vi": "nguồn lựa chọn vô tận",
+      "from": 245
+    },
+    {
+      "id": "PH-reduce-commitment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reduce commitment",
+      "meaning_vi": "giảm sự cam kết",
+      "from": 245
+    },
+    {
+      "id": "PH-scams-harassment-or-safety-risks",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "scams, harassment or safety risks",
+      "meaning_vi": "lừa đảo, quấy rối hoặc rủi ro an toàn",
+      "from": 245
+    },
+    {
+      "id": "PH-damage-self-esteem",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "damage self-esteem",
+      "meaning_vi": "làm hại lòng tự trọng",
+      "from": 245
+    },
+    {
+      "id": "PH-meeting-in-public-places",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "meeting in public places",
+      "meaning_vi": "gặp ở nơi công cộng",
+      "from": 245
+    },
+    {
+      "id": "PH-the-evening-meal",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the evening meal",
+      "meaning_vi": "bữa tối",
+      "from": 256
+    },
+    {
+      "id": "PH-the-whole-family-is-together",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the whole family is together",
+      "meaning_vi": "cả gia đình ở bên nhau",
+      "from": 256
+    },
+    {
+      "id": "PH-family-meals",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "family meals",
+      "meaning_vi": "bữa ăn gia đình",
+      "from": 256
+    },
+    {
+      "id": "PH-children-s-development",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "children's development",
+      "meaning_vi": "sự phát triển của trẻ",
+      "from": 256
+    },
+    {
+      "id": "PH-health-and-nutrition",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "health and nutrition",
+      "meaning_vi": "sức khoẻ và dinh dưỡng",
+      "from": 256
+    },
+    {
+      "id": "PH-communication-and-emotional-security",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "communication and emotional security",
+      "meaning_vi": "giao tiếp và an toàn cảm xúc",
+      "from": 256
+    },
+    {
+      "id": "PH-support-children-s-health-and-eating-habits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "support children's health and eating habits",
+      "meaning_vi": "hỗ trợ sức khoẻ và thói quen ăn uống của trẻ",
+      "from": 256
+    },
+    {
+      "id": "PH-more-vegetables-and-less-junk-food",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more vegetables and less junk food",
+      "meaning_vi": "nhiều rau hơn và ít đồ ăn vặt hơn",
+      "from": 256
+    },
+    {
+      "id": "PH-table-manners-portion-control",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "table manners, portion control",
+      "meaning_vi": "phép lịch sự bàn ăn, kiểm soát khẩu phần",
+      "from": 256
+    },
+    {
+      "id": "PH-something-to-share",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "something to share",
+      "meaning_vi": "điều để chia sẻ",
+      "from": 256
+    },
+    {
+      "id": "PH-talks-about-his-day",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "talks about his day",
+      "meaning_vi": "kể về ngày của mình",
+      "from": 256
+    },
+    {
+      "id": "PH-practises-telling-a-story",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "practises telling a story",
+      "meaning_vi": "luyện tập kể chuyện",
+      "from": 256
+    },
+    {
+      "id": "PH-lower-rates-of-obesity-and-eating-disorders",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lower rates of obesity and eating disorders",
+      "meaning_vi": "tỷ lệ béo phì và rối loạn ăn uống thấp hơn",
+      "from": 256
+    },
+    {
+      "id": "PH-notice-if-a-child-is-eating-too-little-or-to",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "notice if a child is eating too little or too much",
+      "meaning_vi": "nhận ra trẻ ăn quá ít hay quá nhiều",
+      "from": 256
+    },
+    {
+      "id": "PH-builds-vocabulary-listening-skills-and-confi",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "builds vocabulary, listening skills and confidence",
+      "meaning_vi": "xây vốn từ, kỹ năng nghe và sự tự tin",
+      "from": 256
+    },
+    {
+      "id": "PH-their-lives-matter-to-others",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "their lives matter to others",
+      "meaning_vi": "cuộc sống của chúng quan trọng với người khác",
+      "from": 256
+    },
+    {
+      "id": "PH-before-they-become-serious",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "before they become serious",
+      "meaning_vi": "trước khi chúng trở nên nghiêm trọng",
+      "from": 256
+    },
+    {
+      "id": "PH-take-risks-such-as-substance-abuse",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take risks such as substance abuse",
+      "meaning_vi": "liều lĩnh như lạm dụng chất",
+      "from": 256
+    },
+    {
+      "id": "PH-relaxed",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "relaxed",
+      "meaning_vi": "thoải mái",
+      "from": 256
+    },
+    {
+      "id": "PH-screens-switched-off",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "screens switched off",
+      "meaning_vi": "tắt màn hình",
+      "from": 256
+    },
+    {
+      "id": "PH-raised-with-strict-rules",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "raised with strict rules",
+      "meaning_vi": "được nuôi với quy tắc nghiêm ngặt",
+      "from": 360
+    },
+    {
+      "id": "PH-a-more-permissive-approach",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a more permissive approach",
+      "meaning_vi": "cách tiếp cận dễ dãi hơn",
+      "from": 360
+    },
+    {
+      "id": "PH-supporters-of-strict-parenting",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supporters of strict parenting",
+      "meaning_vi": "người ủng hộ nuôi dạy nghiêm khắc",
+      "from": 360
+    },
+    {
+      "id": "PH-structure-safety-and-self-discipline",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "structure, safety and self-discipline",
+      "meaning_vi": "cấu trúc, an toàn và tính tự giác",
+      "from": 360
+    },
+    {
+      "id": "PH-expectations-and-consequences-are-consistent",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "expectations and consequences are consistent",
+      "meaning_vi": "kỳ vọng và hệ quả nhất quán",
+      "from": 360
+    },
+    {
+      "id": "PH-learn-to-control-impulses",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn to control impulses",
+      "meaning_vi": "học kiểm soát xung động",
+      "from": 360
+    },
+    {
+      "id": "PH-protected-from-risks",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "protected from risks",
+      "meaning_vi": "được bảo vệ khỏi rủi ro",
+      "from": 360
+    },
+    {
+      "id": "PH-a-clear-curfew",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a clear curfew",
+      "meaning_vi": "giờ giới nghiêm rõ ràng",
+      "from": 360
+    },
+    {
+      "id": "PH-firm-boundaries",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "firm boundaries",
+      "meaning_vi": "ranh giới vững chắc",
+      "from": 360
+    },
+    {
+      "id": "PH-respect-authority",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respect authority",
+      "meaning_vi": "tôn trọng thẩm quyền",
+      "from": 360
+    },
+    {
+      "id": "PH-adults-are-in-charge",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "adults are in charge",
+      "meaning_vi": "người lớn nắm quyền",
+      "from": 360
+    },
+    {
+      "id": "PH-too-much-freedom-early-in-life",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "too much freedom early in life",
+      "meaning_vi": "quá nhiều tự do từ sớm",
+      "from": 360
+    },
+    {
+      "id": "PH-encourages-independence-creativity-and-close",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "encourages independence, creativity and close relationships",
+      "meaning_vi": "khuyến khích độc lập, sáng tạo và quan hệ gần gũi",
+      "from": 360
+    },
+    {
+      "id": "PH-given-freedom-to-make-choices",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "given freedom to make choices",
+      "meaning_vi": "được tự do lựa chọn",
+      "from": 360
+    },
+    {
+      "id": "PH-learn-from-the-consequences-of-their-own-dec",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn from the consequences of their own decisions",
+      "meaning_vi": "học từ hệ quả quyết định của chính mình",
+      "from": 360
+    },
+    {
+      "id": "PH-fear-secrecy-and-rebellion",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fear, secrecy and rebellion",
+      "meaning_vi": "sợ hãi, giấu giếm và nổi loạn",
+      "from": 360
+    },
+    {
+      "id": "PH-behave-well-only-when-watched",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "behave well only when watched",
+      "meaning_vi": "chỉ ngoan khi bị theo dõi",
+      "from": 360
+    },
+    {
+      "id": "PH-warm-and-flexible-parents",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "warm and flexible parents",
+      "meaning_vi": "cha mẹ ấm áp và linh hoạt",
+      "from": 360
+    },
+    {
+      "id": "PH-self-control-and-respect-for-others",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "self-control and respect for others",
+      "meaning_vi": "tự chủ và tôn trọng người khác",
+      "from": 360
+    },
+    {
+      "id": "PH-warmth-with-clear-limits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "warmth with clear limits",
+      "meaning_vi": "sự ấm áp kèm giới hạn rõ ràng",
+      "from": 360
+    },
+    {
+      "id": "PH-street-parties-to-harvest-fairs",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "street parties to harvest fairs",
+      "meaning_vi": "từ tiệc đường phố đến hội mùa gặt",
+      "from": 369
+    },
+    {
+      "id": "PH-mark-special-days-together",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mark special days together",
+      "meaning_vi": "cùng kỷ niệm những ngày đặc biệt",
+      "from": 369
+    },
+    {
+      "id": "PH-community-festivals-strengthen-social-bonds",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "community festivals strengthen social bonds",
+      "meaning_vi": "lễ hội cộng đồng củng cố gắn kết xã hội",
+      "from": 369
+    },
+    {
+      "id": "PH-create-shared-memories",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "create shared memories",
+      "meaning_vi": "tạo ký ức chung",
+      "from": 369
+    },
+    {
+      "id": "PH-cook-perform-and-celebrate-side-by-side",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cook, perform and celebrate side by side",
+      "meaning_vi": "nấu ăn, biểu diễn và ăn mừng cạnh nhau",
+      "from": 369
+    },
+    {
+      "id": "PH-builds-trust-pride-in-the-place",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "builds trust, pride in the place",
+      "meaning_vi": "xây lòng tin, tự hào về nơi mình sống",
+      "from": 369
+    },
+    {
+      "id": "PH-brings-a-dish",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "brings a dish",
+      "meaning_vi": "mang theo một món ăn",
+      "from": 369
+    },
+    {
+      "id": "PH-never-spoke-to-each-other",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "never spoke to each other",
+      "meaning_vi": "chưa bao giờ nói chuyện với nhau",
+      "from": 369
+    },
+    {
+      "id": "PH-organise-stalls-music-and-safety",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "organise stalls, music and safety",
+      "meaning_vi": "tổ chức gian hàng, âm nhạc và an ninh",
+      "from": 369
+    },
+    {
+      "id": "PH-a-common-goal",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a common goal",
+      "meaning_vi": "một mục tiêu chung",
+      "from": 369
+    },
+    {
+      "id": "PH-a-sense-of-history-and-identity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a sense of history and identity",
+      "meaning_vi": "cảm giác về lịch sử và bản sắc",
+      "from": 369
+    },
+    {
+      "id": "PH-preserve-local-culture",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "preserve local culture",
+      "meaning_vi": "gìn giữ văn hoá địa phương",
+      "from": 369
+    },
+    {
+      "id": "PH-appreciate-their-heritage",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "appreciate their heritage",
+      "meaning_vi": "trân trọng di sản của họ",
+      "from": 369
+    },
+    {
+      "id": "PH-long-term-residents-to-migrants",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "long-term residents to migrants",
+      "meaning_vi": "từ cư dân lâu năm đến người nhập cư",
+      "from": 369
+    },
+    {
+      "id": "PH-feel-excluded-or-annoyed",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "feel excluded or annoyed",
+      "meaning_vi": "cảm thấy bị loại trừ hoặc khó chịu",
+      "from": 369
+    },
+    {
+      "id": "PH-free-or-cheap",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "free or cheap",
+      "meaning_vi": "miễn phí hoặc rẻ",
+      "from": 369
+    },
+    {
+      "id": "PH-people-from-all-parts-of-the-community",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "people from all parts of the community",
+      "meaning_vi": "người từ mọi phần của cộng đồng",
+      "from": 369
+    },
+    {
+      "id": "PH-nurseries-and-after-school-care",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "nurseries and after-school care",
+      "meaning_vi": "nhà trẻ và chăm sóc sau giờ học",
+      "from": 381
+    },
+    {
+      "id": "PH-state-funded-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "state-funded childcare",
+      "meaning_vi": "chăm sóc trẻ do nhà nước tài trợ",
+      "from": 381
+    },
+    {
+      "id": "PH-outweigh-the-cost",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "outweigh the cost",
+      "meaning_vi": "lớn hơn chi phí",
+      "from": 381
+    },
+    {
+      "id": "PH-pays-for-itself",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pays for itself",
+      "meaning_vi": "tự hoàn vốn",
+      "from": 381
+    },
+    {
+      "id": "PH-higher-employment-and-better-child-developme",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "higher employment and better child development",
+      "meaning_vi": "việc làm cao hơn và phát triển trẻ tốt hơn",
+      "from": 381
+    },
+    {
+      "id": "PH-pay-taxes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pay taxes",
+      "meaning_vi": "đóng thuế",
+      "from": 381
+    },
+    {
+      "id": "PH-children-from-poorer-homes-gain-early-educat",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "children from poorer homes gain early education",
+      "meaning_vi": "trẻ nhà nghèo được giáo dục sớm",
+      "from": 381
+    },
+    {
+      "id": "PH-a-more-skilled-workforce",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a more skilled workforce",
+      "meaning_vi": "lực lượng lao động có kỹ năng hơn",
+      "from": 381
+    },
+    {
+      "id": "PH-nursery-places-are-affordable",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "nursery places are affordable",
+      "meaning_vi": "chỗ nhà trẻ giá phải chăng",
+      "from": 381
+    },
+    {
+      "id": "PH-instead-of-receiving-benefits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "instead of receiving benefits",
+      "meaning_vi": "thay vì nhận trợ cấp",
+      "from": 381
+    },
+    {
+      "id": "PH-remedial-help",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "remedial help",
+      "meaning_vi": "hỗ trợ học bù",
+      "from": 381
+    },
+    {
+      "id": "PH-pursue-careers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pursue careers",
+      "meaning_vi": "theo đuổi sự nghiệp",
+      "from": 381
+    },
+    {
+      "id": "PH-high-levels-of-female-employment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "high levels of female employment",
+      "meaning_vi": "tỷ lệ việc làm của phụ nữ cao",
+      "from": 381
+    },
+    {
+      "id": "PH-strong-child-wellbeing",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "strong child wellbeing",
+      "meaning_vi": "phúc lợi trẻ em tốt",
+      "from": 381
+    },
+    {
+      "id": "PH-met-through-taxes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "met through taxes",
+      "meaning_vi": "được trang trải qua thuế",
+      "from": 381
+    },
+    {
+      "id": "PH-low-quality-care-long-waiting-lists",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "low-quality care, long waiting lists",
+      "meaning_vi": "chăm sóc chất lượng thấp, danh sách chờ dài",
+      "from": 381
+    },
+    {
+      "id": "PH-poor-pay-for-staff",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poor pay for staff",
+      "meaning_vi": "lương nhân viên thấp",
+      "from": 381
+    },
+    {
+      "id": "PH-quality-standards-trained-and-fairly-paid-st",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Quality standards, trained and fairly paid staff",
+      "meaning_vi": "chuẩn chất lượng, nhân viên được đào tạo và trả lương công bằng",
+      "from": 381
+    },
+    {
+      "id": "PH-exceed-the-original-cost",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "exceed the original cost",
+      "meaning_vi": "vượt chi phí ban đầu",
+      "from": 381
+    },
+    {
+      "id": "PH-televisions-tablets-phones-and-games-console",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "televisions, tablets, phones and games consoles",
+      "meaning_vi": "ti vi, máy tính bảng, điện thoại và máy chơi game",
+      "from": 408
+    },
+    {
+      "id": "PH-limit-screen-time",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "limit screen time",
+      "meaning_vi": "giới hạn thời gian màn hình",
+      "from": 408
+    },
+    {
+      "id": "PH-too-much-screen-use",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "too much screen use",
+      "meaning_vi": "dùng màn hình quá nhiều",
+      "from": 408
+    },
+    {
+      "id": "PH-harms-sleep-activity-and-development",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "harms sleep, activity and development",
+      "meaning_vi": "hại giấc ngủ, vận động và sự phát triển",
+      "from": 408
+    },
+    {
+      "id": "PH-balance-not-total-prohibition",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "balance, not total prohibition",
+      "meaning_vi": "cân bằng chứ không cấm hoàn toàn",
+      "from": 408
+    },
+    {
+      "id": "PH-sensible-limits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "sensible limits",
+      "meaning_vi": "giới hạn hợp lý",
+      "from": 408
+    },
+    {
+      "id": "PH-face-to-face-play",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "face-to-face play",
+      "meaning_vi": "chơi trực tiếp",
+      "from": 408
+    },
+    {
+      "id": "PH-keeps-phones-out-of-bedrooms-at-night",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keeps phones out of bedrooms at night",
+      "meaning_vi": "để điện thoại ngoài phòng ngủ ban đêm",
+      "from": 408
+    },
+    {
+      "id": "PH-arrive-at-school-more-alert",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "arrive at school more alert",
+      "meaning_vi": "đến trường tỉnh táo hơn",
+      "from": 408
+    },
+    {
+      "id": "PH-long-hours-of-screen-use",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "long hours of screen use",
+      "meaning_vi": "nhiều giờ dùng màn hình",
+      "from": 408
+    },
+    {
+      "id": "PH-poor-sleep-lower-concentration-obesity",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poor sleep, lower concentration, obesity",
+      "meaning_vi": "ngủ kém, tập trung thấp, béo phì",
+      "from": 408
+    },
+    {
+      "id": "PH-passive-viewing",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "passive viewing",
+      "meaning_vi": "xem thụ động",
+      "from": 408
+    },
+    {
+      "id": "PH-designed-to-hold-attention",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "designed to hold attention",
+      "meaning_vi": "được thiết kế để giữ sự chú ý",
+      "from": 408
+    },
+    {
+      "id": "PH-crowd-out-homework-reading-and-friendships",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "crowd out homework, reading and friendships",
+      "meaning_vi": "lấn át bài tập, đọc sách và tình bạn",
+      "from": 408
+    },
+    {
+      "id": "PH-learn-self-control",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn self-control",
+      "meaning_vi": "học tự chủ",
+      "from": 408
+    },
+    {
+      "id": "PH-develop-other-interests",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "develop other interests",
+      "meaning_vi": "phát triển sở thích khác",
+      "from": 408
+    },
+    {
+      "id": "PH-not-all-screen-time-is-equal",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "not all screen time is equal",
+      "meaning_vi": "không phải mọi thời gian dùng màn hình đều như nhau",
+      "from": 408
+    },
+    {
+      "id": "PH-screen-free-meals",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "screen-free meals",
+      "meaning_vi": "bữa ăn không màn hình",
+      "from": 408
+    },
+    {
+      "id": "PH-manage-their-own-use",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "manage their own use",
+      "meaning_vi": "tự quản việc sử dụng của mình",
+      "from": 408
+    },
+    {
+      "id": "PH-the-cost-of-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the cost of childcare",
+      "meaning_vi": "chi phí chăm sóc trẻ",
+      "from": 424
+    },
+    {
+      "id": "PH-a-second-mortgage",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a second mortgage",
+      "meaning_vi": "khoản thế chấp thứ hai",
+      "from": 424
+    },
+    {
+      "id": "PH-shortages-of-places",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shortages of places",
+      "meaning_vi": "thiếu chỗ",
+      "from": 424
+    },
+    {
+      "id": "PH-stop-working",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stop working",
+      "meaning_vi": "ngừng làm việc",
+      "from": 424
+    },
+    {
+      "id": "PH-affordable-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "affordable childcare",
+      "meaning_vi": "chăm sóc trẻ giá phải chăng",
+      "from": 424
+    },
+    {
+      "id": "PH-reducing-the-cost-of-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reducing the cost of childcare",
+      "meaning_vi": "giảm chi phí chăm sóc trẻ",
+      "from": 424
+    },
+    {
+      "id": "PH-increasing-the-supply-and-quality-of-places",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "increasing the supply and quality of places",
+      "meaning_vi": "tăng số lượng và chất lượng các chỗ",
+      "from": 424
+    },
+    {
+      "id": "PH-subsidies-paid-directly-to-providers-or-to-p",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Subsidies paid directly to providers or to parents",
+      "meaning_vi": "trợ cấp trả trực tiếp cho nhà cung cấp hoặc cha mẹ",
+      "from": 424
+    },
+    {
+      "id": "PH-tax-credits",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tax credits",
+      "meaning_vi": "tín dụng thuế",
+      "from": 424
+    },
+    {
+      "id": "PH-free-hours-of-early-education",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "free hours of early education",
+      "meaning_vi": "giờ giáo dục sớm miễn phí",
+      "from": 424
+    },
+    {
+      "id": "PH-a-real-choice",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a real choice",
+      "meaning_vi": "lựa chọn thực sự",
+      "from": 424
+    },
+    {
+      "id": "PH-a-registered-childminder",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a registered childminder",
+      "meaning_vi": "người trông trẻ được đăng ký",
+      "from": 424
+    },
+    {
+      "id": "PH-the-lowest-incomes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the lowest incomes",
+      "meaning_vi": "thu nhập thấp nhất",
+      "from": 424
+    },
+    {
+      "id": "PH-workplace-nurseries-or-childcare-vouchers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "workplace nurseries or childcare vouchers",
+      "meaning_vi": "nhà trẻ nơi làm việc hoặc phiếu chăm sóc trẻ",
+      "from": 424
+    },
+    {
+      "id": "PH-clear-quality-standards-with-regular-inspect",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "clear quality standards with regular inspections",
+      "meaning_vi": "chuẩn chất lượng rõ ràng kèm thanh tra định kỳ",
+      "from": 424
+    },
+    {
+      "id": "PH-high-staff-turnover",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "high staff turnover",
+      "meaning_vi": "nhân viên nghỉ việc nhiều",
+      "from": 424
+    },
+    {
+      "id": "PH-evening-or-weekend-care-for-shift-workers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "evening or weekend care for shift workers",
+      "meaning_vi": "chăm sóc buổi tối hoặc cuối tuần cho người làm ca",
+      "from": 424
+    },
+    {
+      "id": "PH-flexible-working-rules",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "flexible working rules",
+      "meaning_vi": "quy định làm việc linh hoạt",
+      "from": 424
+    },
+    {
+      "id": "PH-lost-tax-revenue",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lost tax revenue",
+      "meaning_vi": "nguồn thu thuế bị mất",
+      "from": 424
+    },
+    {
+      "id": "PH-women-still-take-more-time-off-than-men",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "women still take more time off than men",
+      "meaning_vi": "phụ nữ vẫn nghỉ nhiều hơn nam",
+      "from": 438
+    },
+    {
+      "id": "PH-a-child-is-born",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a child is born",
+      "meaning_vi": "đứa trẻ chào đời",
+      "from": 438
+    },
+    {
+      "id": "PH-family-leave-policies",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "family leave policies",
+      "meaning_vi": "chính sách nghỉ chăm con",
+      "from": 438
+    },
+    {
+      "id": "PH-gender-equality",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "gender equality",
+      "meaning_vi": "bình đẳng giới",
+      "from": 438
+    },
+    {
+      "id": "PH-influencing-who-cares-for-children",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "influencing who cares for children",
+      "meaning_vi": "ảnh hưởng ai chăm sóc trẻ",
+      "from": 438
+    },
+    {
+      "id": "PH-changing-how-employers-and-society-treat-men",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "changing how employers and society treat men and women",
+      "meaning_vi": "thay đổi cách nhà tuyển dụng và xã hội đối xử với nam và nữ",
+      "from": 438
+    },
+    {
+      "id": "PH-paid-leave-for-both-parents",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "paid leave for both parents",
+      "meaning_vi": "nghỉ có lương cho cả hai bậc cha mẹ",
+      "from": 438
+    },
+    {
+      "id": "PH-share-care",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share care",
+      "meaning_vi": "chia sẻ việc chăm sóc",
+      "from": 438
+    },
+    {
+      "id": "PH-career-penalties-for-women",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "career penalties for women",
+      "meaning_vi": "bất lợi nghề nghiệp đối với phụ nữ",
+      "from": 438
+    },
+    {
+      "id": "PH-less-committed",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "less committed",
+      "meaning_vi": "kém cam kết hơn",
+      "from": 438
+    },
+    {
+      "id": "PH-become-more-involved-at-home",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "become more involved at home",
+      "meaning_vi": "tham gia nhiều hơn ở nhà",
+      "from": 438
+    },
+    {
+      "id": "PH-make-childcare-normal-for-both-sexes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "make childcare normal for both sexes",
+      "meaning_vi": "làm việc chăm con thành bình thường cho cả hai giới",
+      "from": 438
+    },
+    {
+      "id": "PH-three-months-of-paid-leave",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "three months of paid leave",
+      "meaning_vi": "ba tháng nghỉ có lương",
+      "from": 438
+    },
+    {
+      "id": "PH-earmarked-leave-for-fathers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "earmarked leave for fathers",
+      "meaning_vi": "kỳ nghỉ dành riêng cho cha",
+      "from": 438
+    },
+    {
+      "id": "PH-more-equal-division-of-housework",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more equal division of housework",
+      "meaning_vi": "phân chia việc nhà đều hơn",
+      "from": 438
+    },
+    {
+      "id": "PH-keep-their-careers-moving",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep their careers moving",
+      "meaning_vi": "giữ sự nghiệp tiếp tục",
+      "from": 438
+    },
+    {
+      "id": "PH-discrimination-in-hiring-and-promotion",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "discrimination in hiring and promotion",
+      "meaning_vi": "phân biệt đối xử khi tuyển dụng và thăng tiến",
+      "from": 438
+    },
+    {
+      "id": "PH-look-down-on-men-who-ask-for-time-off",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "look down on men who ask for time off",
+      "meaning_vi": "coi thường đàn ông xin nghỉ",
+      "from": 438
+    },
+    {
+      "id": "PH-generous-flexible-and-shared-leave",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "generous, flexible and shared leave",
+      "meaning_vi": "nghỉ hào phóng, linh hoạt và chia sẻ",
+      "from": 438
+    },
+    {
+      "id": "PH-paid-leave-flexible-working-hours-childcare",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "paid leave, flexible working hours, childcare and housing support",
+      "meaning_vi": "nghỉ có lương, giờ làm linh hoạt, chăm sóc trẻ và hỗ trợ nhà ở",
+      "from": 479
+    },
+    {
+      "id": "PH-family-friendly-policies",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "family-friendly policies",
+      "meaning_vi": "chính sách thân thiện với gia đình",
+      "from": 479
+    },
+    {
+      "id": "PH-better-outcomes-for-children-and-parents",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "better outcomes for children and parents",
+      "meaning_vi": "kết quả tốt hơn cho trẻ và cha mẹ",
+      "from": 479
+    },
+    {
+      "id": "PH-gains-for-the-economy-and-society",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "gains for the economy and society",
+      "meaning_vi": "lợi ích cho kinh tế và xã hội",
+      "from": 479
+    },
+    {
+      "id": "PH-have-the-children-they-want",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "have the children they want",
+      "meaning_vi": "có số con như mong muốn",
+      "from": 479
+    },
+    {
+      "id": "PH-keep-skilled-workers-in-employment",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep skilled workers in employment",
+      "meaning_vi": "giữ lao động có kỹ năng trong việc làm",
+      "from": 479
+    },
+    {
+      "id": "PH-give-children-a-better-start",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give children a better start",
+      "meaning_vi": "cho trẻ khởi đầu tốt hơn",
+      "from": 479
+    },
+    {
+      "id": "PH-start-early-and-leave-in-time",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "start early and leave in time",
+      "meaning_vi": "bắt đầu sớm và rời đi đúng giờ",
+      "from": 479
+    },
+    {
+      "id": "PH-collect-her-child-from-school",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "collect her child from school",
+      "meaning_vi": "đón con từ trường",
+      "from": 479
+    },
+    {
+      "id": "PH-stays-in-her-job-instead-of-resigning",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stays in her job instead of resigning",
+      "meaning_vi": "ở lại công việc thay vì nghỉ",
+      "from": 479
+    },
+    {
+      "id": "PH-less-stressed-at-home",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "less stressed at home",
+      "meaning_vi": "ít căng thẳng ở nhà",
+      "from": 479
+    },
+    {
+      "id": "PH-support-their-development",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "support their development",
+      "meaning_vi": "hỗ trợ sự phát triển của chúng",
+      "from": 479
+    },
+    {
+      "id": "PH-poverty-among-children-is-low",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "poverty among children is low",
+      "meaning_vi": "tỷ lệ nghèo ở trẻ em thấp",
+      "from": 479
+    },
+    {
+      "id": "PH-a-better-balance-between-work-and-family-lif",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a better balance between work and family life",
+      "meaning_vi": "cân bằng tốt hơn giữa công việc và đời sống gia đình",
+      "from": 479
+    },
+    {
+      "id": "PH-women-s-employment-rises",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Women's employment rises",
+      "meaning_vi": "việc làm của phụ nữ tăng",
+      "from": 479
+    },
+    {
+      "id": "PH-increases-tax-revenue-and-household-incomes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "increases tax revenue and household incomes",
+      "meaning_vi": "tăng nguồn thu thuế và thu nhập hộ gia đình",
+      "from": 479
+    },
+    {
+      "id": "PH-recruit-and-train-replacements",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "recruit and train replacements",
+      "meaning_vi": "tuyển dụng và đào tạo người thay thế",
+      "from": 479
+    },
+    {
+      "id": "PH-maintain-the-workforce-as-populations-age",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "maintain the workforce as populations age",
+      "meaning_vi": "duy trì lực lượng lao động khi dân số già",
+      "from": 479
+    },
+    {
+      "id": "PH-share-work-and-care",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share work and care",
+      "meaning_vi": "chia sẻ công việc và việc chăm sóc",
+      "from": 479
+    },
+    {
+      "id": "PH-pay-for-themselves-over-time",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pay for themselves over time",
+      "meaning_vi": "tự hoàn vốn theo thời gian",
+      "from": 479
+    },
+    {
+      "id": "PH-millions-of-children-around-the-world-work",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Millions of children around the world work",
+      "meaning_vi": "hàng triệu trẻ em trên thế giới đi làm",
+      "from": 487
+    },
+    {
+      "id": "PH-child-labour",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "child labour",
+      "meaning_vi": "lao động trẻ em",
+      "from": 487
+    },
+    {
+      "id": "PH-farms-mines-factories-and-homes",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "farms, mines, factories and homes",
+      "meaning_vi": "nông trại, mỏ, nhà máy và gia đình",
+      "from": 487
+    },
+    {
+      "id": "PH-instead-of-going-to-school",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "instead of going to school",
+      "meaning_vi": "thay vì đi học",
+      "from": 487
+    },
+    {
+      "id": "PH-preventing-child-labour",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "preventing child labour",
+      "meaning_vi": "ngăn chặn lao động trẻ em",
+      "from": 487
+    },
+    {
+      "id": "PH-certified-as-free-from-child-labour",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "certified as free from child labour",
+      "meaning_vi": "được chứng nhận không có lao động trẻ em",
+      "from": 487
+    },
+    {
+      "id": "PH-a-commercial-reason-to-check-their-suppliers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a commercial reason to check their suppliers",
+      "meaning_vi": "lý do thương mại để kiểm tra nhà cung cấp",
+      "from": 487
+    },
+    {
+      "id": "PH-suspiciously-cheap",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "suspiciously cheap",
+      "meaning_vi": "rẻ một cách đáng ngờ",
+      "from": 487
+    },
+    {
+      "id": "PH-sends-a-message-to-manufacturers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "sends a message to manufacturers",
+      "meaning_vi": "gửi thông điệp cho nhà sản xuất",
+      "from": 487
+    },
+    {
+      "id": "PH-public-pressure-from-consumers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "public pressure from consumers",
+      "meaning_vi": "áp lực công chúng từ người tiêu dùng",
+      "from": 487
+    },
+    {
+      "id": "PH-change-their-supply-chains",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "change their supply chains",
+      "meaning_vi": "thay đổi chuỗi cung ứng",
+      "from": 487
+    },
+    {
+      "id": "PH-bear-responsibility",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bear responsibility",
+      "meaning_vi": "chịu trách nhiệm",
+      "from": 487
+    },
+    {
+      "id": "PH-mainly-caused-by-poverty",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mainly caused by poverty",
+      "meaning_vi": "chủ yếu do nghèo đói",
+      "from": 487
+    },
+    {
+      "id": "PH-action-at-several-levels",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "action at several levels",
+      "meaning_vi": "hành động ở nhiều cấp",
+      "from": 487
+    },
+    {
+      "id": "PH-families-that-need-income",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Families that need income",
+      "meaning_vi": "gia đình cần thu nhập",
+      "from": 487
+    },
+    {
+      "id": "PH-inspect-workplaces",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "inspect workplaces",
+      "meaning_vi": "thanh tra nơi làm việc",
+      "from": 487
+    },
+    {
+      "id": "PH-a-brick-factory",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a brick factory",
+      "meaning_vi": "một lò gạch",
+      "from": 487
+    },
+    {
+      "id": "PH-misses-school",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "misses school",
+      "meaning_vi": "bỏ lỡ việc học",
+      "from": 487
+    },
+    {
+      "id": "PH-publish-information-about-their-supply-chain",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "publish information about their supply chains",
+      "meaning_vi": "công bố thông tin về chuỗi cung ứng của họ",
+      "from": 487
+    },
+    {
+      "id": "PH-international-cooperation",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "International cooperation",
+      "meaning_vi": "hợp tác quốc tế",
+      "from": 487
+    },
+    {
+      "id": "PH-equal-opportunities",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "equal opportunities",
+      "meaning_vi": "cơ hội bình đẳng",
+      "from": 488
+    },
+    {
+      "id": "PH-whatever-their-background",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "whatever their background",
+      "meaning_vi": "bất kể xuất thân",
+      "from": 488
+    },
+    {
+      "id": "PH-fair-treatment-begins-with-personal-attitude",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fair treatment begins with personal attitudes and choices",
+      "meaning_vi": "đối xử công bằng bắt đầu từ thái độ và lựa chọn cá nhân",
+      "from": 488
+    },
+    {
+      "id": "PH-decide-whom-to-hire-and-promote",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "decide whom to hire and promote",
+      "meaning_vi": "quyết định thuê và thăng chức ai",
+      "from": 488
+    },
+    {
+      "id": "PH-welcome-newcomers",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "welcome newcomers",
+      "meaning_vi": "chào đón người mới",
+      "from": 488
+    },
+    {
+      "id": "PH-judge-others-on-merit",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "judge others on merit",
+      "meaning_vi": "đánh giá người khác theo năng lực",
+      "from": 488
+    },
+    {
+      "id": "PH-a-fair-chance-to-every-applicant",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a fair chance to every applicant",
+      "meaning_vi": "cơ hội công bằng cho mọi ứng viên",
+      "from": 488
+    },
+    {
+      "id": "PH-overlooked",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "overlooked",
+      "meaning_vi": "bị bỏ qua",
+      "from": 488
+    },
+    {
+      "id": "PH-challenge-discriminatory-remarks-and-behavio",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "challenge discriminatory remarks and behaviour",
+      "meaning_vi": "thách thức lời nói và hành vi phân biệt đối xử",
+      "from": 488
+    },
+    {
+      "id": "PH-mentor-others",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mentor others",
+      "meaning_vi": "làm cố vấn cho người khác",
+      "from": 488
+    },
+    {
+      "id": "PH-hidden-and-structural",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hidden and structural",
+      "meaning_vi": "ẩn và mang tính cấu trúc",
+      "from": 488
+    },
+    {
+      "id": "PH-only-laws-public-education-and-help-for-disa",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Only laws, public education and help for disadvantaged groups",
+      "meaning_vi": "chỉ luật pháp, giáo dục công và hỗ trợ nhóm thiệt thòi",
+      "from": 488
+    },
+    {
+      "id": "PH-patterns-that-no-single-person-controls",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "patterns that no single person controls",
+      "meaning_vi": "những quy luật không ai riêng lẻ kiểm soát",
+      "from": 488
+    },
+    {
+      "id": "PH-unequal-school-funding",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "unequal school funding",
+      "meaning_vi": "tài trợ trường học không đồng đều",
+      "from": 488
+    },
+    {
+      "id": "PH-bias-in-recruitment-systems",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bias in recruitment systems",
+      "meaning_vi": "thiên vị trong hệ thống tuyển dụng",
+      "from": 488
+    },
+    {
+      "id": "PH-removes-names-and-photographs-from-applicati",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "removes names and photographs from applications",
+      "meaning_vi": "bỏ tên và ảnh khỏi hồ sơ xin việc",
+      "from": 488
+    },
+    {
+      "id": "PH-reduce-bias-at-the-first-stage-of-hiring",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reduce bias at the first stage of hiring",
+      "meaning_vi": "giảm thiên vị ở giai đoạn đầu tuyển dụng",
+      "from": 488
+    },
+    {
+      "id": "PH-anti-discrimination-laws",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "anti-discrimination laws",
+      "meaning_vi": "luật chống phân biệt đối xử",
+      "from": 488
+    },
+    {
+      "id": "PH-a-real-chance",
+      "type": "phrase",
+      "topics": [
+        "family",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a real chance",
+      "meaning_vi": "cơ hội thực sự",
+      "from": 488
     }
   ]
 }

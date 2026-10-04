@@ -1,0 +1,131 @@
+{
+  "questionId": 424,
+  "text": "For many families, the cost of childcare is as high as a second mortgage, and shortages of places force some parents to stop working. This essay will suggest practical measures that governments could take, focusing on reducing the cost of childcare and on increasing the supply and quality of places.\n\nTo begin with, governments should make childcare more affordable. Subsidies paid directly to providers or to parents, tax credits and free hours of early education for all children reduce costs and give families a real choice. A single parent who receives a subsidy for a registered childminder, for example, can take a full-time job instead of relying on benefits. Support should be targeted at those with the lowest incomes, but a basic entitlement for all can avoid stigma and encourage wide participation. Employers can also be encouraged, through tax incentives, to offer workplace nurseries or childcare vouchers.\n\nIn addition, authorities should increase supply and ensure quality. Funding for new nurseries in areas where places are short, training and fair pay for staff, and clear quality standards with regular inspections give parents confidence. Low pay leads to high staff turnover, which harms children, so better wages are an investment in quality. Flexible provision, such as evening or weekend care for shift workers, and support for community-based schemes and registered childminders help families whose working hours do not fit standard times. Equally important, flexible working rules for employers allow parents to share care between them. These measures cost money, but they cost less than the benefits and lost tax revenue that result when parents cannot work.\n\nIn conclusion, reducing costs and expanding the supply and quality of places offer the most realistic way of improving access to affordable childcare.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ cải thiện tiếp cận chăm sóc trẻ giá phải chăng",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu vấn đề (chi phí chăm sóc trẻ ngang một khoản thế chấp thứ hai; thiếu chỗ buộc một số cha mẹ ngừng làm việc); hai nhóm: giảm chi phí; tăng nguồn cung và chất lượng.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — giá phải chăng",
+        "think": "Trợ cấp trả trực tiếp cho nhà cung cấp hoặc cha mẹ, tín dụng thuế, giờ giáo dục sớm miễn phí cho mọi trẻ; ví dụ cha mẹ đơn thân nhận trợ cấp cho người trông trẻ đăng ký có thể làm toàn thời gian thay vì sống nhờ trợ cấp. Nhắm vào thu nhập thấp nhất nhưng quyền cơ bản cho mọi người tránh kỳ thị; khuyến khích doanh nghiệp (nhà trẻ nơi làm việc, phiếu chăm sóc).",
+        "refs": [
+          "ID-fam-childcare-access",
+          "EX-fam-childminder-subsidy",
+          "ID-fam-state-childcare",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — cung và chất lượng",
+        "think": "Tài trợ nhà trẻ mới nơi thiếu chỗ, đào tạo và lương công bằng cho nhân viên, chuẩn chất lượng rõ và thanh tra định kỳ; lương thấp gây nghỉ việc nhiều hại trẻ; chăm sóc linh hoạt (buổi tối, cuối tuần) cho người làm ca; hỗ trợ chương trình cộng đồng, người trông trẻ đăng ký; quy định làm việc linh hoạt để cha mẹ chia sẻ; rẻ hơn trợ cấp và thuế mất do cha mẹ không đi làm được.",
+        "refs": [
+          "ID-fam-childcare-access",
+          "ID-fam-friendly-policies",
+          "ID-fam-birth-solutions",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-childcare-access",
+      "EX-fam-childminder-subsidy"
+    ]
+  },
+  "chunks": [
+    [
+      "the cost of childcare",
+      "chi phí chăm sóc trẻ"
+    ],
+    [
+      "a second mortgage",
+      "khoản thế chấp thứ hai"
+    ],
+    [
+      "shortages of places",
+      "thiếu chỗ"
+    ],
+    [
+      "stop working",
+      "ngừng làm việc"
+    ],
+    [
+      "affordable childcare",
+      "chăm sóc trẻ giá phải chăng"
+    ],
+    [
+      "reducing the cost of childcare",
+      "giảm chi phí chăm sóc trẻ"
+    ],
+    [
+      "increasing the supply and quality of places",
+      "tăng số lượng và chất lượng các chỗ"
+    ],
+    [
+      "Subsidies paid directly to providers or to parents",
+      "trợ cấp trả trực tiếp cho nhà cung cấp hoặc cha mẹ"
+    ],
+    [
+      "tax credits",
+      "tín dụng thuế"
+    ],
+    [
+      "free hours of early education",
+      "giờ giáo dục sớm miễn phí"
+    ],
+    [
+      "a real choice",
+      "lựa chọn thực sự"
+    ],
+    [
+      "a registered childminder",
+      "người trông trẻ được đăng ký"
+    ],
+    [
+      "relying on benefits",
+      "dựa vào trợ cấp"
+    ],
+    [
+      "the lowest incomes",
+      "thu nhập thấp nhất"
+    ],
+    [
+      "workplace nurseries or childcare vouchers",
+      "nhà trẻ nơi làm việc hoặc phiếu chăm sóc trẻ"
+    ],
+    [
+      "clear quality standards with regular inspections",
+      "chuẩn chất lượng rõ ràng kèm thanh tra định kỳ"
+    ],
+    [
+      "high staff turnover",
+      "nhân viên nghỉ việc nhiều"
+    ],
+    [
+      "evening or weekend care for shift workers",
+      "chăm sóc buổi tối hoặc cuối tuần cho người làm ca"
+    ],
+    [
+      "flexible working rules",
+      "quy định làm việc linh hoạt"
+    ],
+    [
+      "lost tax revenue",
+      "nguồn thu thuế bị mất"
+    ]
+  ]
+}

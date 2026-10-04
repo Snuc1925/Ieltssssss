@@ -1,0 +1,130 @@
+{
+  "questionId": 245,
+  "text": "Millions of people now look for partners through websites and apps, and some believe that online dating benefits modern relationships. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that online dating widens choice and makes it easier to meet compatible people. People can meet far more potential partners than in their daily circle, filter by interests and values, and begin conversations at their own pace, which helps the shy and busy. A shy engineer who rarely meets new people at work, for example, may find a partner through an app that matches shared interests. Online dating can also help people who live in small communities, who have recently moved or who belong to minority groups with few partners nearby. Many successful couples now meet online, and the stigma that once surrounded the practice has largely disappeared.\n\nOn the other hand, critics argue that online dating can encourage deception and shallow judgements. Profiles can be exaggerated or false, people are judged quickly by photos, and an endless supply of choices may reduce commitment, as users keep looking for someone slightly better. Some users face scams, harassment or safety risks when meeting strangers. Constant rejection can also damage self-esteem. Relationships formed through screens may rely too heavily on appearance, and the pressure of presenting an ideal image can make people less honest.\n\nIn conclusion, both views have merit. Personally, I believe that online dating can benefit modern relationships by widening opportunities, provided that users are honest, take safety precautions such as meeting in public places, and treat others with respect.",
+  "analysis": {
+    "type_vi": "Discuss both views: hẹn hò trực tuyến có lợi cho quan hệ hiện đại không",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (hàng triệu người tìm bạn đời qua website, ứng dụng) rồi hai phe; ý kiến riêng có điều kiện (trung thực, an toàn, tôn trọng).",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Mở rộng lựa chọn và dễ gặp người hợp: gặp nhiều ứng viên hơn vòng tròn hàng ngày, lọc theo sở thích và giá trị, bắt chuyện theo nhịp riêng giúp người nhút nhát, bận. Ví dụ kỹ sư nhút nhát tìm bạn đời qua ứng dụng ghép theo sở thích. Giúp người sống ở cộng đồng nhỏ, mới chuyển, nhóm thiểu số; nhiều cặp thành công; kỳ thị đã biến mất.",
+        "refs": [
+          "ID-fam-online-dating-pro",
+          "EX-fam-shy-dater",
+          "ID-fam-tech-relationships"
+        ]
+      },
+      {
+        "step": "3. Phe phê phán",
+        "think": "Khuyến khích lừa dối và đánh giá hời hợt: hồ sơ phóng đại hoặc giả, đánh giá nhanh qua ảnh, quá nhiều lựa chọn giảm cam kết (luôn tìm người hơn một chút); lừa đảo, quấy rối, rủi ro an toàn khi gặp người lạ; bị từ chối liên tục hại lòng tự trọng; dựa vào ngoại hình; áp lực hình ảnh lý tưởng làm kém trung thực.",
+        "refs": [
+          "ID-fam-online-dating-con",
+          "ID-cr-identity-theft"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có thể có lợi nếu người dùng trung thực, đề phòng an toàn (gặp nơi công cộng), tôn trọng người khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-online-dating-pro",
+      "ID-fam-online-dating-con",
+      "EX-fam-shy-dater"
+    ]
+  },
+  "chunks": [
+    [
+      "look for partners through websites and apps",
+      "tìm bạn đời qua website và ứng dụng"
+    ],
+    [
+      "online dating",
+      "hẹn hò trực tuyến"
+    ],
+    [
+      "benefits modern relationships",
+      "có lợi cho các mối quan hệ hiện đại"
+    ],
+    [
+      "widens choice",
+      "mở rộng lựa chọn"
+    ],
+    [
+      "compatible people",
+      "những người hợp nhau"
+    ],
+    [
+      "potential partners",
+      "bạn đời tiềm năng"
+    ],
+    [
+      "filter by interests and values",
+      "lọc theo sở thích và giá trị"
+    ],
+    [
+      "begin conversations at their own pace",
+      "bắt đầu trò chuyện theo nhịp độ của mình"
+    ],
+    [
+      "the shy and busy",
+      "người nhút nhát và bận rộn"
+    ],
+    [
+      "matches shared interests",
+      "ghép theo sở thích chung"
+    ],
+    [
+      "small communities",
+      "cộng đồng nhỏ"
+    ],
+    [
+      "the stigma has largely disappeared",
+      "sự kỳ thị phần lớn đã biến mất"
+    ],
+    [
+      "deception and shallow judgements",
+      "lừa dối và đánh giá hời hợt"
+    ],
+    [
+      "exaggerated or false",
+      "bị phóng đại hoặc giả"
+    ],
+    [
+      "judged quickly by photos",
+      "bị đánh giá nhanh qua ảnh"
+    ],
+    [
+      "an endless supply of choices",
+      "nguồn lựa chọn vô tận"
+    ],
+    [
+      "reduce commitment",
+      "giảm sự cam kết"
+    ],
+    [
+      "scams, harassment or safety risks",
+      "lừa đảo, quấy rối hoặc rủi ro an toàn"
+    ],
+    [
+      "damage self-esteem",
+      "làm hại lòng tự trọng"
+    ],
+    [
+      "meeting in public places",
+      "gặp ở nơi công cộng"
+    ]
+  ]
+}

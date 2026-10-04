@@ -1,0 +1,2371 @@
+{
+  "topic": "family",
+  "passScore": 7,
+  "essays": [
+    {
+      "questionId": 36,
+      "qtype": "Opinion",
+      "question": "Discuss how technology affects relationships between people.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:19.434Z",
+          "words": 303,
+          "text": "Smartphones, video calls and messaging apps have become part of nearly every friendship and family, and technology has changed how people relate to one another. This essay will explain two key ways in which technology affects relationships: by keeping people in touch across distance and by changing the quality of the time they spend together.\n\nFirst and foremost, technology helps people to stay in touch and to form new connections. Video calls and messages connect families and friends across distances, and migrants and students abroad can speak to their relatives every day. A grandmother who watches her grandchildren's school play by video call from another country, for example, feels part of their lives. Social networks help people to find others who share their interests or circumstances, such as patients with a rare illness, and online communities can offer support to those who feel isolated in their own neighbourhood. Many friendships that would once have faded can now continue for years.\n\nIn addition, technology can weaken the quality of time together. Phones at the dinner table, constant notifications and the habit of checking messages reduce attention, so people may be in the same room without really listening to each other. Online communication can also be shallow, and conflicts can grow when tone is misunderstood in text. Online bullying and the pressure to display a perfect life on social media can harm self-esteem, especially among young people. However, these problems are not inevitable. Families can agree on phone-free meals, and friends can use messaging to arrange meetings in person. Relationships benefit when technology is used to add to face-to-face contact, not to replace it.\n\nTo sum up, technology affects relationships in both helpful and harmful ways, and its effect depends on how people choose to use it. For these reasons, it should be used thoughtfully.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7,
+              "lexicalResource": 6.5,
+              "grammar": 7
+            },
+            "summary": "Bài viết đạt chất lượng khá tốt với tư duy logic rõ ràng, cấu trúc bài chuẩn và ngữ pháp vững chắc. Để vươn lên các band điểm cao hơn, người viết cần trau chuốt thêm về từ vựng nâng cao và độ sắc sảo trong việc phát triển ý.",
+            "weaknesses": [
+              "Một số từ vựng và diễn đạt còn ở mức phổ thông, thiếu các cụm từ học thuật sắc sảo.",
+              "Phân tích về mặt tiêu cực hơi ôm đồm nhiều vấn đề (bắt nạt mạng, áp lực mạng xã hội) khiến đoạn văn bị dàn trải."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận cả tác động tích cực và tiêu cực của công nghệ đối với các mối quan hệ. Lập trường rõ ràng từ đầu đến cuối và có đưa ra ví dụ minh họa hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở đầu, các đoạn thân bài rõ ràng và phần kết luận. Các từ nối được sử dụng hiệu quả để hướng dẫn người đọc theo dõi luận điểm.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề công nghệ và xã hội (ví dụ: 'migrants', 'isolated', 'inevitable'). Tuy nhiên, một số cụm từ còn khá cơ bản và thiếu các collocation nâng cao.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức. Ngữ pháp chính xác, tuy nhiên đôi chỗ cách dùng mạo từ hoặc giới từ chưa hoàn toàn tự nhiên."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: công nghệ ảnh hưởng quan hệ giữa người với người như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu bối cảnh (điện thoại thông minh, cuộc gọi video, ứng dụng nhắn tin là một phần của hầu hết tình bạn và gia đình); báo hai cách: giữ liên lạc xuyên khoảng cách; thay đổi chất lượng thời gian bên nhau.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — giữ liên lạc, tạo kết nối mới",
+            "think": "Cuộc gọi video và tin nhắn nối gia đình, bạn bè xa; người di cư, sinh viên nước ngoài nói chuyện với người thân mỗi ngày. Ví dụ bà xem cháu diễn kịch ở trường qua cuộc gọi video từ nước khác cảm thấy tham gia cuộc sống của chúng. Mạng xã hội giúp tìm người cùng sở thích hoặc hoàn cảnh (bệnh nhân bệnh hiếm); cộng đồng trực tuyến hỗ trợ người cô lập.",
+            "refs": [
+              "ID-fam-tech-relationships",
+              "EX-fam-video-grandparents",
+              "ID-gov-internet-speech"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — chất lượng thời gian bên nhau + giải pháp",
+            "think": "Điện thoại ở bàn ăn, thông báo liên tục, thói quen kiểm tra tin nhắn giảm chú ý nên ở cùng phòng mà không thật sự lắng nghe; giao tiếp trực tuyến hời hợt, xung đột vì hiểu sai giọng điệu; bắt nạt mạng, áp lực khoe cuộc sống hoàn hảo hại lòng tự trọng người trẻ. Giải pháp: bữa ăn không điện thoại, dùng nhắn tin để hẹn gặp trực tiếp.",
+            "refs": [
+              "ID-fam-tech-relationships",
+              "ID-fam-child-smartphones",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Ảnh hưởng cả tốt lẫn xấu, tuỳ cách dùng; nên dùng có suy nghĩ.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-tech-relationships",
+          "EX-fam-video-grandparents",
+          "PH-smartphones-video-calls-and-messaging-apps",
+          "PH-relate-to-one-another",
+          "PH-technology-affects-relationships",
+          "PH-stay-in-touch",
+          "PH-across-distance",
+          "PH-the-quality-of-the-time-they-spend-together",
+          "PH-form-new-connections",
+          "PH-migrants-and-students-abroad",
+          "PH-feels-part-of-their-lives",
+          "PH-share-their-interests-or-circumstances",
+          "PH-a-rare-illness",
+          "PH-isolated-in-their-own-neighbourhood",
+          "PH-phones-at-the-dinner-table",
+          "PH-constant-notifications",
+          "PH-without-really-listening-to-each-other",
+          "PH-tone-is-misunderstood-in-text",
+          "PH-online-bullying",
+          "PH-display-a-perfect-life",
+          "PH-add-to-face-to-face-contact-not-to-replace-i"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 45,
+      "qtype": "Discuss both views",
+      "question": "Some people believe that volunteering benefits society. Others think it primarily benefits volunteers. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:18.432Z",
+          "words": 276,
+          "text": "Hospitals, schools and charities rely on people who give their time without payment, and opinions differ on whether volunteering mainly benefits society or primarily benefits the volunteers. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that volunteering benefits society. Volunteers provide help that public services cannot always afford, from tutoring to care for older people, and many charities could not survive without them. A retired teacher who helps children to read after school, for example, offers support that the school could not pay for. Volunteering also builds community, since people who work together on a common cause meet neighbours they would not otherwise know and develop trust. In emergencies, from floods to pandemics, volunteers have often made the difference between a coordinated response and chaos. The work also shows that people care about each other beyond family ties.\n\nOn the other hand, others point out that volunteers themselves gain a great deal. They learn skills such as organising, communicating and teamwork, which may help them to find paid work, and they gain friendships, confidence and a sense of purpose. For young people, volunteering can provide experience that improves a career application, and for retired people it can reduce loneliness. A retired teacher who helps children to read, for instance, finds new purpose herself. Some critics suggest that this self-interest means volunteering is not truly selfless, although such motives do not reduce the value of the help given.\n\nIn conclusion, both views have merit. Personally, I believe that volunteering benefits both society and the volunteer, and that this mutual benefit is the reason why it works so well.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn đạt chất lượng tốt, cấu trúc chặt chẽ, lập luận sắc bén và đáp ứng hoàn toàn yêu cầu của đề bài Discuss both views. Ngôn ngữ tự nhiên và ngữ pháp vững chắc giúp bài viết dễ dàng đạt mức điểm cao.",
+            "weaknesses": [
+              "Việc sử dụng ví dụ về giáo viên về hưu (A retired teacher) ở cả hai đoạn thân bài tạo ra sự trùng lặp ý tưởng nhỏ.",
+              "Phần quan điểm cá nhân có thể được đào sâu hơn thay vì chỉ khẳng định là có lợi ích song phương."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận đầy đủ cả hai quan điểm và đưa ra quan điểm cá nhân rõ ràng ở phần mở bài và kết bài. Các ý tưởng được phát triển tốt, có ví dụ cụ thể minh họa.",
+              "coherenceCohesion": "Bố cục bài viết rất mạch lạc với các đoạn văn rõ ràng, sử dụng các từ nối và phương tiện liên kết tự nhiên, hiệu quả. Luồng thông tin từ mở bài đến kết bài logic và dễ theo dõi.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng chính xác các cụm từ liên quan đến chủ đề tình nguyện và xã hội. Việc lặp lại ví dụ về giáo viên về hưu ở cả hai thân bài giúp kết nối ý tưởng nhưng cần lưu ý tránh lặp nguyên văn quá nhiều.",
+              "grammar": "Cú pháp đa dạng, kết hợp linh hoạt các câu đơn, câu phức và mệnh đề quan hệ với độ chính xác cao. Không có lỗi ngữ pháp nghiêm trọng nào được phát hiện."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: tình nguyện có lợi chủ yếu cho xã hội hay cho người tình nguyện",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu thực tế (bệnh viện, trường, tổ chức từ thiện dựa vào người cho thời gian không công) rồi hai phe; ý kiến riêng 'có lợi cho cả hai'.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe 'có lợi cho xã hội'",
+            "think": "Tình nguyện viên giúp mà dịch vụ công không đủ tiền (kèm cặp, chăm người già); nhiều tổ chức từ thiện không sống nổi nếu thiếu họ. Ví dụ giáo viên về hưu giúp trẻ đọc sau giờ học. Xây dựng cộng đồng: gặp hàng xóm, tin tưởng; trong khẩn cấp (lũ, đại dịch) tình nguyện viên tạo khác biệt giữa ứng phó phối hợp và hỗn loạn.",
+            "refs": [
+              "ID-fam-volunteering",
+              "EX-fam-reading-volunteer"
+            ]
+          },
+          {
+            "step": "3. Phe 'có lợi cho người làm'",
+            "think": "Học kỹ năng (tổ chức, giao tiếp, làm việc nhóm) có thể giúp tìm việc; bạn bè, tự tin, ý nghĩa; người trẻ có kinh nghiệm cải thiện hồ sơ, người về hưu bớt cô đơn; giáo viên về hưu tìm thấy mục đích mới. Một số chỉ trích: không hoàn toàn vị tha, nhưng động cơ này không giảm giá trị sự giúp đỡ.",
+            "refs": [
+              "ID-fam-volunteering",
+              "ID-health-longer-life"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Có lợi cho cả hai và chính sự hỗ tương này là lý do tình nguyện hiệu quả.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-volunteering",
+          "EX-fam-reading-volunteer",
+          "PH-give-their-time-without-payment",
+          "PH-volunteering-benefits-society",
+          "PH-primarily-benefits-the-volunteers",
+          "PH-help-that-public-services-cannot-always-affo",
+          "PH-tutoring-to-care-for-older-people",
+          "PH-could-not-survive-without-them",
+          "PH-a-retired-teacher",
+          "PH-builds-community",
+          "PH-a-common-cause",
+          "PH-develop-trust",
+          "PH-a-coordinated-response-and-chaos",
+          "PH-care-about-each-other-beyond-family-ties",
+          "PH-learn-skills-such-as-organising-communicatin",
+          "PH-find-paid-work",
+          "PH-friendships-confidence-and-a-sense-of-purpos",
+          "PH-improves-a-career-application",
+          "PH-not-truly-selfless",
+          "PH-mutual-benefit"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 81,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that pets are as important as family members. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:20.659Z",
+          "words": 297,
+          "text": "Many owners treat their dogs and cats as part of the household, and some people say that pets are as important as family members. I disagree with this view, since pets give companionship and joy but cannot replace human family members, although their value should not be dismissed.\n\nTo begin with, pets give companionship and joy but cannot replace human family members. They reduce loneliness and encourage exercise and responsibility, yet they cannot offer the shared history, conversation and mutual obligations that bind a family. A widow whose dog greets her every day, for example, feels less alone, but the dog cannot replace the conversation of a relative or understand her worries. Family members support one another through illness, financial difficulty and important decisions, and they share memories that stretch over generations. A pet, however loved, does not take part in these exchanges in the same way. Humans also have rights and a moral status that animals, though deserving of kindness, do not share to the same degree.\n\nFurthermore, treating pets as equal to relatives can lead to difficult choices. If a family's time and money are spent on pets at the expense of children or elderly parents, it may cause resentment, and decisions about medical care or inheritance become confusing. Admittedly, pets are important to many people, especially those who live alone, and the grief at losing one can be genuine and deep. Some therapy animals even help to treat anxiety and loneliness. This importance deserves respect, but it differs in kind from the relationships between people. A balanced view recognises pets as valued companions and family members as irreplaceable.\n\nIn conclusion, I disagree that pets are as important as family members, because they cannot offer the same relationships or obligations, although they enrich many lives.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết của bạn đạt chất lượng khá tốt, tư duy mạch lạc và diễn đạt tự nhiên ở mức band khoảng 7.0. Tuy nhiên, việc lặp lại một số ý tưởng và từ vựng ở phần mở đầu và thân bài 1 làm giảm sức nặng của bài viết.",
+            "weaknesses": [
+              "Lặp lại cụm từ 'give companionship and joy' ở cả mở bài và đầu thân bài 1.",
+              "Lập luận ở đoạn thân bài thứ hai có lúc chuyển hướng sang vấn đề tài chính và thừa kế thay vì tập trung hoàn toàn vào so sánh tình cảm gia đình.",
+              "Một số câu có cấu trúc hơi rườm rà."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi thảo luận, đưa ra lập trường rõ ràng từ phần mở bài đến kết bài. Các luận điểm được phát triển logic nhưng phần thân bài thứ hai có phần hơi lan man sang vấn đề nguồn lực thay vì tập trung sâu hơn vào bản chất của mối quan hệ gia đình.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng theo đúng chuẩn IELTS Writing Task 2. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ dàng theo dõi mạch suy nghĩ của tác giả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ hay liên quan đến chủ đề (companionship, mutual obligations, shared history). Tuy nhiên, một số cụm từ bị lặp lại nhiều lần như 'give companionship and joy'.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức với tỷ lệ lỗi ngữ pháp rất thấp. Các thì trong bài được sử dụng nhất quán và chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: thú cưng quan trọng như thành viên gia đình — disagree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + nhượng bộ",
+            "think": "Mở bài nêu thực tế (nhiều chủ coi chó mèo là một phần gia đình) rồi disagree + lý do + nhượng bộ (giá trị của thú cưng không nên bị phủ nhận).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-disagree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — không thay thế quan hệ con người",
+            "think": "Thú cưng giảm cô đơn, khuyến khích vận động và trách nhiệm nhưng không có lịch sử chung, đối thoại, nghĩa vụ hỗ tương. Ví dụ bà goá có chó chào mỗi ngày bớt cô đơn nhưng chó không thay được trò chuyện của người thân hay hiểu nỗi lo. Thành viên gia đình nâng đỡ nhau qua bệnh tật, khó khăn tiền bạc, quyết định lớn; ký ức qua nhiều thế hệ; con người có quyền và địa vị đạo đức mà động vật không chia sẻ ở cùng mức.",
+            "refs": [
+              "ID-fam-pets",
+              "EX-fam-dog-widow",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + nhượng bộ",
+            "think": "Coi thú cưng ngang người thân dẫn đến lựa chọn khó: thời gian tiền bạc dành thú cưng bỏ mặc con hoặc cha mẹ già gây bực bội; quyết định y tế, thừa kế rối. Nhượng bộ: thú cưng quan trọng với nhiều người sống một mình, nỗi đau mất chúng có thật; động vật trị liệu giúp lo âu và cô đơn; nhưng khác bản chất với quan hệ giữa người.",
+            "refs": [
+              "ID-fam-pets",
+              "ID-env-animal-welfare",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Disagree vì thú cưng không có cùng quan hệ và nghĩa vụ nhưng làm giàu cuộc sống nhiều người.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-pets",
+          "EX-fam-dog-widow",
+          "PH-treat-their-dogs-and-cats-as-part-of-the-hou",
+          "PH-as-important-as-family-members",
+          "PH-companionship-and-joy",
+          "PH-cannot-replace-human-family-members",
+          "PH-encourage-exercise-and-responsibility",
+          "PH-shared-history-conversation-and-mutual-oblig",
+          "PH-bind-a-family",
+          "PH-a-widow",
+          "PH-greets-her-every-day",
+          "PH-understand-her-worries",
+          "PH-support-one-another-through-illness",
+          "PH-memories-that-stretch-over-generations",
+          "PH-a-moral-status",
+          "PH-deserving-of-kindness",
+          "PH-at-the-expense-of-children-or-elderly-parent",
+          "PH-resentment",
+          "PH-grief-at-losing-one",
+          "PH-therapy-animals"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 89,
+      "qtype": "Causes / Solutions",
+      "question": "What are the causes of low birth rates in some countries? What solutions can be proposed?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:23.220Z",
+          "words": 297,
+          "text": "In many developed countries, the average woman now has fewer than two children, and some governments worry about shrinking populations. This essay will analyse the principal causes of low birth rates and propose realistic solutions.\n\nLow birth rates reflect the high cost of raising children and the difficulty of combining work and family. Housing, childcare and education are expensive, women increasingly pursue careers and marry later, and long working hours and insecure jobs make couples delay or limit families. A couple who postpone parenthood until they can afford a larger flat, for example, may find that they have only one child. In addition, changes in attitudes, such as greater emphasis on personal freedom and careers, and access to contraception, mean that parenthood is a choice made later and less often than in the past. Concern about the future, including climate change and economic uncertainty, also discourages some couples. As a result, many people end up with fewer children than they would like.\n\nTo address this issue, governments should make it easier for couples to have the children they want. Affordable childcare, housing support, parental leave for both parents, flexible working and financial help reduce the costs and career penalties of having a child. In addition, employers can be encouraged to offer part-time options and to avoid penalising workers who take leave. Countries that have introduced generous and well-designed family policies, such as in parts of northern Europe, have generally seen higher birth rates than those that have not. Immigration can also help to maintain the workforce, although it is not a complete solution on its own.\n\nIn conclusion, low birth rates stem mainly from the costs of raising children and the difficulty of balancing work and family, but practical support for parents offers a realistic way forward.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết đạt chất lượng khá tốt, đáp ứng đúng yêu cầu của một bài IELTS Writing Task 2 dạng Causes and Solutions. Bạn có bố cục rõ ràng, từ vựng chủ đề phong phú và lập luận thuyết phục.",
+            "weaknesses": [
+              "Đoạn thân bài thứ nhất liệt kê quá nhiều ý trong một câu dài, làm giảm độ uyển chuyển.",
+              "Một số giải pháp có thể được đào sâu hơn thay vì chỉ liệt kê chung chung."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt cả hai phần của đề bài (nguyên nhân và giải pháp). Các ý tưởng được triển khai logic, có ví dụ và dẫn chứng thực tế như các nước Bắc Âu.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các câu được liên kết mượt mà bằng từ nối và đại từ quan hệ.",
+              "lexicalResource": "Từ vựng phong phú, liên quan trực tiếp đến chủ đề nhân khẩu học (shrinking populations, parental leave, career penalties). Chính tả tốt và dùng từ chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Tuy nhiên, đôi khi có những câu liệt kê hơi dài, cần chú ý ngắt nghỉ để tránh rối."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tỷ lệ sinh thấp",
+        "plan": [
+          {
+            "step": "1. Khung nguyên nhân + giải pháp",
+            "think": "Mở bài nêu thực tế (phụ nữ trung bình sinh dưới hai con, chính phủ lo dân số co lại); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+            "refs": [
+              "FR-struct-causes-solutions",
+              "PH-stems-from",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nguyên nhân",
+            "think": "Chi phí nuôi con cao và khó cân bằng công việc và gia đình: nhà ở, chăm sóc trẻ, giáo dục đắt; phụ nữ theo nghề nghiệp và kết hôn muộn; giờ làm dài, việc làm bấp bênh làm trì hoãn hoặc hạn chế gia đình. Ví dụ cặp hoãn làm cha mẹ cho đến khi mua được căn hộ lớn chỉ có một con. Thái độ thay đổi, tránh thai; lo lắng tương lai (khí hậu, kinh tế).",
+            "refs": [
+              "ID-fam-birth-causes",
+              "EX-fam-delay-child",
+              "PH-cause-contribute",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "3. Giải pháp",
+            "think": "Chăm sóc trẻ giá phải chăng, hỗ trợ nhà ở, nghỉ thai sản cho cả hai, giờ làm linh hoạt, hỗ trợ tài chính; khuyến khích doanh nghiệp việc làm bán thời gian, không phạt người nghỉ; nước có chính sách gia đình hào phóng (một phần Bắc Âu) thường có tỷ lệ sinh cao hơn; nhập cư giúp duy trì lực lượng lao động nhưng không đủ.",
+            "refs": [
+              "ID-fam-birth-solutions",
+              "ID-health-birth-rate",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-birth-causes",
+          "ID-fam-birth-solutions",
+          "EX-fam-delay-child",
+          "PH-fewer-than-two-children",
+          "PH-shrinking-populations",
+          "PH-low-birth-rates",
+          "PH-the-high-cost-of-raising-children",
+          "PH-combining-work-and-family",
+          "PH-housing-childcare-and-education-are-expensiv",
+          "PH-pursue-careers-and-marry-later",
+          "PH-long-working-hours-and-insecure-jobs",
+          "PH-delay-or-limit-families",
+          "PH-postpone-parenthood",
+          "PH-a-larger-flat",
+          "PH-personal-freedom-and-careers",
+          "PH-access-to-contraception",
+          "PH-economic-uncertainty",
+          "PH-fewer-children-than-they-would-like",
+          "PH-affordable-childcare-housing-support",
+          "PH-parental-leave-for-both-parents",
+          "PH-flexible-working",
+          "PH-penalising-workers-who-take-leave",
+          "PH-maintain-the-workforce"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 97,
+      "qtype": "Advantages / Disadvantages",
+      "question": "What are the benefits for a country that focuses on early childhood care? Use examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:24.542Z",
+          "words": 312,
+          "text": "The first few years of life shape a child's health, learning and behaviour for decades, and many governments now invest in nurseries and early education. This essay will outline two principal benefits for a country that focuses on early childhood care: better outcomes for children and wider gains for families and the economy.\n\nFirst and foremost, good care in the early years gives children a lasting advantage. The brain develops fastest before the age of five, and quality nurseries build language, social skills and curiosity. A child who spends mornings in a good nursery, for example, enters school already able to listen, share and speak in sentences. Children from disadvantaged homes benefit most, since they may have fewer books and less conversation at home, so early care narrows the gap before formal schooling starts. As a result, children arrive at school ready to learn, and they are less likely to need extra support or to drop out later. Trained staff can also notice health or developmental problems early.\n\nIn addition, early childhood care brings wider benefits to families and the economy. When affordable care is available, parents, especially mothers, can return to work, which raises household income and tax revenue and supports gender equality. Research in several countries has found that every unit of money spent on high-quality early education returns several times as much through better school results, higher earnings and lower costs for health, welfare and crime. Although high-quality care requires investment in staff training and buildings, and poor-quality care can do little good, the long-term returns are large. Countries such as Denmark and Sweden, where early care is widely available and highly regarded, show how a society can benefit.\n\nTo sum up, early childhood care brings clear benefits to a country, above all better outcomes for children and wider economic gains. For these reasons, it deserves sustained public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm khá cao nhờ bố cục chặt chẽ, lập luận sắc bén và ngữ pháp vững chắc. Người viết đã trả lời trọn vẹn yêu cầu đề bài với các luận điểm thuyết phục.",
+            "weaknesses": [
+              "Một số cụm từ còn mang tính phổ thông, chưa khai thác nhiều từ vựng học thuật chuyên sâu.",
+              "Phần phản biện ngắn ở đoạn 3 chưa được khai thác sâu thành một điểm nhấn sắc sảo hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi của đề bài, đưa ra các lợi ích rõ ràng cho trẻ em, gia đình và nền kinh tế. Các luận điểm được phát triển logic và có ví dụ minh họa thực tế.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng, câu chuyển ý tự nhiên và sử dụng hiệu quả các phương tiện liên kết. Việc phân chia thân bài thành hai khía cạnh chính giúp người đọc theo dõi rất tốt.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến giáo dục và xã hội. Tuy nhiên, có thể thêm một số từ vựng học thuật cấp độ cao hơn để đạt điểm tối đa.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức, được sử dụng chính xác hầu như tuyệt đối. Các thì và sự hòa hợp chủ ngữ - động từ được kiểm soát rất tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chăm sóc trẻ nhỏ — dùng ví dụ",
+        "plan": [
+          {
+            "step": "1. Khung 'benefits'",
+            "think": "Mở bài nêu tầm quan trọng của những năm đầu đời (định hình sức khoẻ, học tập, hành vi hàng chục năm); báo hai lợi ích: kết quả tốt hơn cho trẻ; lợi ích rộng hơn cho gia đình và kinh tế.",
+            "refs": [
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Lợi ích 1 — trẻ",
+            "think": "Não phát triển nhanh nhất trước năm tuổi; nhà trẻ chất lượng xây ngôn ngữ, kỹ năng xã hội, tò mò. Ví dụ đứa trẻ dành buổi sáng ở nhà trẻ tốt vào trường đã biết lắng nghe, chia sẻ, nói câu. Trẻ nhà khó khăn hưởng lợi nhất vì ít sách và đối thoại ở nhà; thu hẹp khoảng cách trước khi vào trường; nhân viên được đào tạo nhận ra vấn đề sức khoẻ, phát triển sớm.",
+            "refs": [
+              "ID-fam-early-childhood",
+              "EX-fam-nursery-reader",
+              "ID-edu-economy-skills"
+            ]
+          },
+          {
+            "step": "3. Lợi ích 2 — gia đình và kinh tế",
+            "think": "Chăm sóc giá phải chăng cho cha mẹ, nhất là mẹ, quay lại làm việc: tăng thu nhập hộ, thuế, bình đẳng giới; nghiên cứu cho thấy mỗi đồng chi cho giáo dục sớm chất lượng cao hoàn nhiều lần qua kết quả học, thu nhập, chi phí y tế, phúc lợi, tội phạm thấp hơn. Nhượng bộ: cần đầu tư đào tạo nhân viên; chất lượng kém ít tác dụng; ví dụ Đan Mạch, Thuỵ Điển.",
+            "refs": [
+              "ID-fam-early-childhood",
+              "ID-health-invest-more",
+              "ID-fam-birth-solutions"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-early-childhood",
+          "EX-fam-nursery-reader",
+          "PH-shape-a-child-s-health-learning-and-behaviou",
+          "PH-nurseries-and-early-education",
+          "PH-early-childhood-care",
+          "PH-better-outcomes-for-children",
+          "PH-wider-gains-for-families-and-the-economy",
+          "PH-a-lasting-advantage",
+          "PH-the-brain-develops-fastest-before-the-age-of",
+          "PH-build-language-social-skills-and-curiosity",
+          "PH-listen-share-and-speak-in-sentences",
+          "PH-disadvantaged-homes",
+          "PH-narrows-the-gap-before-formal-schooling-star",
+          "PH-ready-to-learn",
+          "PH-drop-out-later",
+          "PH-health-or-developmental-problems",
+          "PH-return-to-work",
+          "PH-raises-household-income-and-tax-revenue",
+          "PH-supports-gender-equality",
+          "PH-returns-several-times-as-much",
+          "PH-higher-earnings-and-lower-costs",
+          "PH-staff-training-and-buildings"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 111,
+      "qtype": "Discuss both views",
+      "question": "Is it better to focus government spending on childcare or on elder care? Discuss and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:25.690Z",
+          "words": 290,
+          "text": "Many countries face two demographic pressures at once: young families need help to raise children, while the number of very old people is growing quickly. This is why opinions are divided as to whether public money should be focused on childcare or on elder care. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of childcare argue that it invests in the future and lets parents work. Good care in the early years builds language, social skills and curiosity, helping children to do well at school and later in life. A child who spends mornings in a good nursery, for example, enters school already able to listen, share and speak in sentences. When affordable care is available, parents, especially mothers, can return to work, which raises household income and tax revenue. The returns on early investment are large, since healthier, better-educated children become productive adults who will support future generations.\n\nOn the other hand, supporters of elder care point out that older people have often worked and paid taxes for decades and deserve dignity in their final years. Many suffer from frailty, dementia or loneliness, and without care they may be neglected, while their relatives are forced to cut their working hours. A woman who looks after both her young children and her elderly mother, for example, may be forced to give up her job. With populations ageing, the demand for care is growing fast, and failure to meet it would cause great suffering.\n\nIn conclusion, both views have merit. Personally, I believe that a balanced budget is wise, with childcare given priority where early investment is most lacking, while elder care is expanded in line with the growth of the ageing population.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn có chất lượng khá tốt, tư duy logic và diễn đạt trôi chảy với bố cục chuẩn IELTS. Tuy nhiên, việc lựa chọn từ vựng và cấu trúc câu vẫn còn an toàn, chưa đạt mức tinh tế của các band cao.",
+            "weaknesses": [
+              "Một số từ vựng và cụm từ còn khá thông dụng, thiếu các collocations đắt giá.",
+              "Quan điểm cá nhân ở phần kết luận hơi mang tính thỏa hiệp thay vì khẳng định mạnh mẽ một bên."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt dạng bài Discuss both views, phân tích cả hai khía cạnh về childcare và elder care và đưa ra quan điểm cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng với 4 đoạn văn chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ dàng theo dõi mạch logic.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề xã hội (demographic pressures, productive adults, frailty, dementia). Tuy nhiên, có thể bổ sung thêm các cụm từ học thuật nâng cao hơn để đạt band cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Các lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền ạt thông tin."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: chi tiêu chính phủ cho chăm sóc trẻ hay người già",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu hai áp lực nhân khẩu cùng lúc (gia đình trẻ cần hỗ trợ nuôi con; số người rất già tăng nhanh) giải thích vì sao lựa chọn này khó; hai phe; ý kiến riêng cân bằng.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe chăm sóc trẻ",
+            "think": "Đầu tư vào tương lai và cho cha mẹ làm việc: chăm sóc sớm tốt xây ngôn ngữ, kỹ năng xã hội; ví dụ trẻ dành buổi sáng ở nhà trẻ tốt vào trường đã sẵn sàng; chăm sóc giá phải chăng cho mẹ trở lại làm việc, tăng thu nhập và thuế; lợi ích đầu tư sớm lớn vì người trưởng thành năng suất sẽ nuôi thế hệ sau.",
+            "refs": [
+              "ID-fam-childcare-elder",
+              "ID-fam-early-childhood",
+              "EX-fam-nursery-reader"
+            ]
+          },
+          {
+            "step": "3. Phe chăm sóc người già",
+            "think": "Người già đã làm việc đóng thuế hàng chục năm, xứng đáng phẩm giá; nhiều người yếu, sa sút trí tuệ, cô đơn; thiếu chăm sóc bị bỏ rơi trong khi người thân phải giảm giờ làm. Ví dụ phụ nữ chăm cả con nhỏ và mẹ già có thể phải bỏ việc; nhu cầu tăng nhanh khi dân số già.",
+            "refs": [
+              "ID-fam-childcare-elder",
+              "EX-fam-sandwich-carer",
+              "ID-health-longer-life"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Ngân sách cân bằng: ưu tiên chăm sóc trẻ nơi thiếu đầu tư sớm, mở rộng chăm sóc người già theo tốc độ già hoá.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-childcare-elder",
+          "EX-fam-sandwich-carer",
+          "PH-demographic-pressures",
+          "PH-raise-children",
+          "PH-very-old-people",
+          "PH-invests-in-the-future",
+          "PH-lets-parents-work",
+          "PH-do-well-at-school-and-later-in-life",
+          "PH-the-returns-on-early-investment-are-large",
+          "PH-productive-adults",
+          "PH-support-future-generations",
+          "PH-worked-and-paid-taxes-for-decades",
+          "PH-dignity-in-their-final-years",
+          "PH-frailty-dementia-or-loneliness",
+          "PH-neglected",
+          "PH-forced-to-cut-their-working-hours",
+          "PH-give-up-her-job",
+          "PH-the-demand-for-care-is-growing-fast",
+          "PH-great-suffering",
+          "PH-a-balanced-budget-is-wise",
+          "PH-the-growth-of-the-ageing-population"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 123,
+      "qtype": "Opinion",
+      "question": "Discuss the role of parents in children’s academic success.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:28.836Z",
+          "words": 305,
+          "text": "When a child does well at school, parents often receive some of the credit, and when a child struggles, they sometimes receive the blame. This essay will explain two key ways in which parents influence children's academic success: through encouragement and routine, and through the resources and expectations that they provide.\n\nFirst and foremost, parents shape children's academic success through encouragement, routine and interest. Children whose parents read with them, set regular times for homework and show curiosity about school tend to achieve more. A parent who sits with a child for twenty minutes of homework every evening, for example, shows that learning matters, and the child sees study as a normal part of life. Praise for effort rather than just results builds confidence and persistence, and a calm home with enough sleep and breakfast supports concentration. Talking to children about books, news and ideas also develops vocabulary and curiosity long before they start school.\n\nIn addition, parents provide resources and set expectations. They can buy books, find a quiet place to study, arrange tutors or help with school choices, and they communicate with teachers when problems arise. Realistic expectations motivate children, since young people often try to live up to what their parents believe they can do. However, excessive pressure can have the opposite effect, causing stress, anxiety and a dislike of learning. Parents are also not the only influence, as teachers, friends and the child's own character matter, and children from poorer families may succeed with the help of good schools and committed teachers. Support works better than pressure, and parents should show interest and encouragement rather than demanding top marks.\n\nTo sum up, parents play an important role in children's academic success by providing encouragement, structure and resources, provided that they avoid excessive pressure. For these reasons, their involvement should be welcomed.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức band điểm 7.0 với bố cục rõ ràng, lập luận logic và ngôn ngữ tự nhiên. Người viết cần chú ý tinh chỉnh một số cấu trúc câu và mở rộng từ vựng học thuật để cải thiện điểm số ở các bài viết sau.",
+            "weaknesses": [
+              "Một số ý ở đoạn thân bài thứ hai hơi lan man sang các yếu tố ngoài gia đình như thầy cô và bạn bè.",
+              "Từ vựng ở mức độ khá nhưng thiếu các cụm từ học thuật nâng cao (advanced collocations)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm đề bài, thảo luận rõ vai trò của cha mẹ đối với thành công học tập của con cái. Lập trường được duy trì xuyên suốt và các luận điểm được phát triển khá tốt.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn mở đầu, thân bài và kết luận rõ ràng. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng tốt các cụm từ liên quan đến giáo dục và gia đình. Tuy nhiên, một số cụm từ còn khá thông thường và có thể nâng cấp để đạt điểm cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức, với độ chính xác cao. Lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền达 thông điệp."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của cha mẹ trong thành công học tập của con",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài nêu hiện tượng (trẻ học tốt cha mẹ được công nhận, trẻ khó khăn đôi khi bị trách); báo hai cách: động viên và nếp sinh hoạt; nguồn lực và kỳ vọng.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — động viên, nếp sinh hoạt, quan tâm",
+            "think": "Trẻ có cha mẹ đọc cùng, đặt giờ làm bài, tò mò về trường thường đạt hơn. Ví dụ phụ huynh ngồi với con hai mươi phút mỗi tối làm bài cho thấy học là quan trọng. Khen nỗ lực thay vì chỉ kết quả xây tự tin, kiên trì; nhà yên tĩnh đủ giấc ngủ và bữa sáng; nói chuyện về sách, tin tức phát triển vốn từ.",
+            "refs": [
+              "ID-fam-parents-academic",
+              "EX-fam-homework-routine",
+              "ID-reading-habit-enjoy"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — nguồn lực, kỳ vọng + giới hạn",
+            "think": "Cha mẹ mua sách, tìm chỗ học yên tĩnh, thuê gia sư, giúp chọn trường, trao đổi với giáo viên; kỳ vọng thực tế thúc đẩy. Giới hạn: áp lực quá mức gây căng thẳng, lo âu, ghét học; cha mẹ không phải ảnh hưởng duy nhất (giáo viên, bạn bè, tính cách); trẻ nhà nghèo vẫn thành công nhờ trường tốt, giáo viên tận tâm; ủng hộ tốt hơn áp lực.",
+            "refs": [
+              "ID-fam-parents-academic",
+              "ID-hw-rest",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Cha mẹ có vai trò quan trọng nếu tránh áp lực quá mức; nên chào đón sự tham gia.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-parents-academic",
+          "EX-fam-homework-routine"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 146,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that children should not use smartphones?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:28.842Z",
+          "words": 298,
+          "text": "Many children now receive a smartphone before they start secondary school, and some argue that children should not use smartphones at all. I agree to a large extent, since young children are not ready for unrestricted phones, although complete bans are neither realistic nor always desirable for older children.\n\nTo begin with, young children are not ready for unrestricted smartphones. Phones distract from schoolwork, disturb sleep, expose children to unsuitable content and online bullying, and replace play and exercise, although they allow parents and children to stay in contact. A ten-year-old who scrolls on a phone in bed until midnight, for example, arrives at school tired and distracted. Studies have linked heavy use among young people to anxiety, low mood and poor sleep, and games and social media are designed to hold attention for as long as possible. Children also lack the judgment to deal with strangers, advertising and pressure to share personal images, and they may not tell adults when something goes wrong.\n\nFurthermore, childhood is a time for activities that phones can replace, such as outdoor play, reading, face-to-face friendship and hobbies. Delaying and limiting use protects health, learning and development. However, a complete ban has drawbacks. Phones can keep children safe by allowing them to call parents, and as they grow older they need to learn how to use technology responsibly, since it is part of modern life. A sensible approach would give young children a basic phone, if any, set clear rules about when and where phones are used, and allow smartphones gradually, with parental controls and conversations about safety, from around the early teens.\n\nIn conclusion, children should not use smartphones freely, particularly when young, because of the risks to health and learning, but supervised and limited use as they mature is reasonable.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm khá cao nhờ bố cục rõ ràng, lập luận sắc bén và ngữ pháp vững chắc. Việc phân tách độ tuổi trẻ em để bàn luận giúp quan điểm trở nên toàn diện và thuyết phục hơn.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài chứa quá nhiều ý liệt kê liên tiếp.",
+              "Phần kết luận có thể cô đọng hơn để tăng tính mạnh mẽ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi dạng Agree/Disagree, đưa ra quan điểm đồng ý phần lớn nhưng có sự phân biệt độ tuổi hợp lý. Các ý tưởng được phát triển rõ ràng với ví dụ thực tế.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn logic từ mở bài, thân bài (chia theo độ tuổi/khía cạnh) đến kết bài. Các từ nối được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến chủ đề công nghệ và trẻ em (unrestricted phones, online bullying, parental controls). Chính tả tốt.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác, thể hiện khả năng sử dụng tiếng Anh học thuật cao."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree (Extent): trẻ em không nên dùng điện thoại thông minh — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + giới hạn",
+            "think": "Mở bài nêu thực tế (nhiều trẻ có điện thoại trước khi vào cấp hai) rồi largely agree + lý do + nhượng bộ (cấm hoàn toàn không thực tế, không phải lúc nào cũng nên với trẻ lớn).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — trẻ nhỏ chưa sẵn sàng",
+            "think": "Điện thoại làm xao nhãng bài, ảnh hưởng giấc ngủ, nội dung không phù hợp, bắt nạt mạng, thay chơi và vận động. Ví dụ đứa trẻ mười tuổi lướt điện thoại trên giường đến nửa đêm đến trường mệt và xao nhãng. Nghiên cứu liên hệ dùng nhiều với lo âu, tâm trạng thấp, ngủ kém; trò chơi và mạng xã hội thiết kế để giữ chú ý; trẻ thiếu phán đoán với người lạ, quảng cáo, áp lực chia sẻ ảnh cá nhân.",
+            "refs": [
+              "ID-fam-child-smartphones",
+              "EX-fam-night-scrolling",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Tuổi thơ là lúc chơi ngoài trời, đọc sách, tình bạn trực tiếp, sở thích; trì hoãn và giới hạn bảo vệ sức khoẻ, học tập. Giới hạn: cấm hoàn toàn có nhược điểm: điện thoại giúp gọi cha mẹ an toàn; trẻ lớn cần học dùng công nghệ có trách nhiệm; cách hợp lý: điện thoại cơ bản cho trẻ nhỏ (nếu cần), quy tắc rõ về nơi và lúc dùng, điện thoại thông minh dần dần từ đầu tuổi thiếu niên với kiểm soát của cha mẹ.",
+            "refs": [
+              "ID-fam-child-smartphones",
+              "ID-fam-tech-relationships",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Trẻ không nên dùng tự do nhất là khi nhỏ; dùng có giám sát, giới hạn khi lớn lên là hợp lý.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-child-smartphones",
+          "EX-fam-night-scrolling",
+          "PH-receive-a-smartphone-before-they-start-secon",
+          "PH-children-should-not-use-smartphones",
+          "PH-not-ready-for-unrestricted-phones",
+          "PH-distract-from-schoolwork",
+          "PH-disturb-sleep",
+          "PH-unsuitable-content-and-online-bullying",
+          "PH-replace-play-and-exercise",
+          "PH-stay-in-contact",
+          "PH-scrolls-on-a-phone-in-bed",
+          "PH-tired-and-distracted",
+          "PH-heavy-use-among-young-people",
+          "PH-anxiety-low-mood-and-poor-sleep",
+          "PH-hold-attention-for-as-long-as-possible",
+          "PH-lack-the-judgment",
+          "PH-pressure-to-share-personal-images",
+          "PH-outdoor-play-reading-face-to-face-friendship",
+          "PH-a-complete-ban",
+          "PH-use-technology-responsibly",
+          "PH-parental-controls",
+          "PH-supervised-and-limited-use"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 176,
+      "qtype": "Opinion",
+      "question": "Discuss how volunteering abroad benefits communities and volunteers.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:31.843Z",
+          "words": 302,
+          "text": "Every year, thousands of people spend weeks or months working without pay in distant countries, from building schools to teaching English, and the benefits of volunteering abroad are often discussed. This essay will explain two key ways in which volunteering abroad benefits communities and volunteers: by meeting real needs and by promoting learning and understanding.\n\nFirst and foremost, volunteering abroad can help communities if it matches local needs. Volunteers with skills such as teaching or medicine fill real gaps and can bring knowledge, energy and extra hands to projects with limited funds. A volunteer who teaches English in a village for six months, for example, may help children to learn, but unless the project is planned, she may leave before it can continue. When projects are led by local people and organisations, the benefit lasts, because volunteers support community priorities rather than imposing their own. Volunteers can also raise funds and awareness back at home, bringing wider attention to local problems.\n\nIn addition, volunteers gain a great deal. They learn about other cultures and ways of life, develop language and practical skills, and often return with greater confidence, maturity and a wish to continue helping. Contact between people from different countries can reduce prejudice and build friendships across borders. However, there are risks. Short, poorly planned visits may take work from local people, create dependence or provide little real help, and volunteers without training can cause harm, for example in orphanages or clinics. Organisations should therefore select volunteers carefully, train them, work with local partners and measure results. Choosing reputable programmes is important for anyone who wants their time to make a difference.\n\nTo sum up, volunteering abroad benefits communities and volunteers when it meets local needs and is well organised. For these reasons, it deserves support, but only in responsible forms.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, cấu trúc rõ ràng, lập luận chặt chẽ và từ vựng phong phú. Để đạt điểm cao hơn, bạn cần tập trung trả lời đúng trọng tâm câu hỏi mà không lan man sang phần rủi ro quá nhiều khi đề không yêu cầu trực tiếp.",
+            "weaknesses": [
+              "Lan sang bàn luận về rủi ro và giải pháp (risks and solutions) ở đoạn thân bài thứ hai trong khi đề bài chỉ hỏi về lợi ích (benefits).",
+              "Một số ví dụ chưa thực sự sâu sắc."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt yêu cầu của đề bài, thảo luận được cả lợi ích đối với cộng đồng và tình nguyện viên. Tuy nhiên, việc bàn luận thêm về các rủi ro và giải pháp ở thân bài 2 hơi làm loãng trọng tâm của câu hỏi chính về lợi ích.",
+              "coherenceCohesion": "Các ý được sắp xếp logic với các từ nối rõ ràng (First and foremost, In addition, To sum up). Các đoạn văn được phân chia hợp lý và có câu chủ đề mạch lạc.",
+              "lexicalResource": "Sử dụng từ vựng phong phú, tự nhiên và chính xác trong chủ đề tình nguyện (community priorities, imposing their own, prejudice, dependence). Tuy nhiên, có thể dùng thêm một số cụm từ nâng cao hơn nữa.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác hầu như tuyệt đối, lỗi sai rất không đáng kể."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: tình nguyện ở nước ngoài mang lợi ích cho cộng đồng và tình nguyện viên như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how… benefit'",
+            "think": "Mở bài nêu hiện tượng (hàng nghìn người mỗi năm làm không công ở nước xa, từ xây trường đến dạy tiếng Anh); báo hai cách: đáp ứng nhu cầu thực; thúc đẩy học hỏi và thấu hiểu.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — đáp ứng nhu cầu của cộng đồng",
+            "think": "Tình nguyện viên có kỹ năng (dạy, y) lấp khoảng trống thật, mang kiến thức, năng lượng cho dự án ít kinh phí. Ví dụ người dạy tiếng Anh sáu tháng ở làng có thể giúp trẻ nhưng nếu không có kế hoạch sẽ rời đi trước khi dự án tiếp tục. Dự án do người địa phương dẫn dắt thì lợi ích bền; quyên góp, nâng nhận thức.",
+            "refs": [
+              "ID-fam-volunteering-abroad",
+              "EX-fam-teaching-abroad",
+              "ID-fam-volunteering"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — học hỏi + rủi ro",
+            "think": "Tình nguyện viên học văn hoá, ngôn ngữ, kỹ năng, về nước tự tin, trưởng thành hơn; giao lưu giảm định kiến, xây tình bạn. Rủi ro: chuyến ngắn, kế hoạch kém lấy việc của người địa phương, tạo phụ thuộc, người không được đào tạo có thể gây hại (trại trẻ mồ côi, phòng khám); tổ chức chọn lọc, đào tạo, làm với đối tác địa phương, đo kết quả; chọn chương trình uy tín.",
+            "refs": [
+              "ID-fam-volunteering-abroad",
+              "ID-trv-responsible",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Có lợi khi đáp ứng nhu cầu địa phương và tổ chức tốt; nên ủng hộ nhưng chỉ dạng có trách nhiệm.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-volunteering-abroad",
+          "EX-fam-teaching-abroad",
+          "PH-working-without-pay-in-distant-countries",
+          "PH-volunteering-abroad",
+          "PH-benefits-communities-and-volunteers",
+          "PH-meeting-real-needs",
+          "PH-promoting-learning-and-understanding",
+          "PH-matches-local-needs",
+          "PH-fill-real-gaps",
+          "PH-knowledge-energy-and-extra-hands",
+          "PH-teaches-english-in-a-village",
+          "PH-leave-before-it-can-continue",
+          "PH-led-by-local-people-and-organisations",
+          "PH-community-priorities",
+          "PH-raise-funds-and-awareness",
+          "PH-develop-language-and-practical-skills",
+          "PH-greater-confidence-maturity",
+          "PH-build-friendships-across-borders",
+          "PH-take-work-from-local-people",
+          "PH-create-dependence",
+          "PH-reputable-programmes"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 192,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for volunteering, or should society/government encourage it? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:34.015Z",
+          "words": 292,
+          "text": "Charities, schools and neighbourhood groups depend on people who give their time freely, and opinions differ on whether individuals should be responsible for volunteering or whether society and government should encourage it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that volunteering depends on personal motivation. People volunteer when they care about a cause, and a gift of time is valuable precisely because it is freely given. Forcing or pressuring people may produce half-hearted effort and resentment, and a person who is made to volunteer may not value the work. A resident who chooses to help clean a river because she loves the place, for example, is likely to work harder and keep going longer than someone who is told to do so. Voluntary service also reflects a healthy civil society in which citizens, not officials, take the initiative to solve problems.\n\nOn the other hand, supporters of public encouragement point out that many people would volunteer if it were made easier. Schools can offer course credit for community service, employers can provide paid time off, and governments can fund volunteer organisations, provide training and recognise the work with awards or tax benefits. Many people do not volunteer simply because they do not know how to start or cannot spare the time. Such support does not remove the voluntary element, but it opens opportunities, especially for young people and those from poorer backgrounds who might not otherwise get involved. Well-run organisations also ensure that volunteers' time is used effectively.\n\nIn conclusion, both views have merit. Overall, I believe that volunteering should remain a personal choice, but governments, schools and employers should make it easier and more rewarding through practical support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, bố cục rõ ràng, lập luận chặt chẽ và ngữ pháp chuẩn xác. Tuy nhiên, để đạt band điểm cao hơn (8.0+), cần tăng tính sắc bén trong việc lựa chọn từ vựng học thuật và đào sâu hơn vào hệ quả xã hội của vấn đề.",
+            "weaknesses": [
+              "Một số lập luận còn khá an toàn, thiếu tính phản biện sâu sắc.",
+              "Từ vựng ở mức độ vừa phải, chưa có nhiều cụm từ ấn tượng (advanced idioms/collocations)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài (Discuss both views), đưa ra các lập luận rõ ràng cho cả hai phía và nêu quan điểm cá nhân ở phần kết luận. Các ý tưởng được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ dàng theo dõi dòng suy nghĩ của tác giả.",
+              "lexicalResource": "Vốn từ vựng phong phú, tự nhiên và phù hợp với chủ đề tình nguyện (như 'civil society', 'course credit', 'half-hearted effort'). Tuy nhiên, có thể bổ sung thêm một số từ vựng học thuật nâng cao hơn ở các cấu trúc câu phức.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, sử dụng linh hoạt câu ghép và câu phức với độ chính xác cao. Không có lỗi ngữ pháp nghiêm trọng nào ảnh hưởng đến việc đọc hiểu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân chịu trách nhiệm hay xã hội / chính phủ khuyến khích tình nguyện",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu thực tế (từ thiện, trường học, nhóm khu phố phụ thuộc người cho thời gian miễn phí) rồi hai phe; ý kiến riêng: giữ là lựa chọn cá nhân nhưng được hỗ trợ thực tế.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Tình nguyện phụ thuộc động cơ cá nhân: người ta làm khi quan tâm; tặng thời gian có giá trị vì tự nguyện; ép buộc gây nỗ lực nửa vời, bực bội. Ví dụ cư dân tự chọn dọn sông vì yêu nơi đó làm chăm hơn người bị bảo làm. Phản ánh xã hội dân sự lành mạnh nơi công dân tự chủ động.",
+            "refs": [
+              "ID-fam-volunteer-encourage",
+              "ID-env-ind-habits"
+            ]
+          },
+          {
+            "step": "3. Xã hội / chính phủ khuyến khích",
+            "think": "Nhiều người sẽ tình nguyện nếu dễ hơn: trường cho điểm quá trình, nhà tuyển dụng cho nghỉ phép có lương, chính phủ tài trợ tổ chức, đào tạo, ghi nhận bằng giải thưởng hoặc ưu đãi thuế; nhiều người không biết bắt đầu hoặc không có thời gian; mở cơ hội cho người trẻ và nghèo; tổ chức tốt dùng thời gian hiệu quả.",
+            "refs": [
+              "ID-fam-volunteer-encourage",
+              "ID-env-gov-rules",
+              "ID-env-partnership"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Giữ là lựa chọn cá nhân nhưng chính phủ, trường, nhà tuyển dụng hỗ trợ thực tế.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-volunteer-encourage",
+          "PH-give-their-time-freely",
+          "PH-responsible-for-volunteering",
+          "PH-society-and-government-should-encourage-it",
+          "PH-depends-on-personal-motivation",
+          "PH-a-gift-of-time",
+          "PH-freely-given",
+          "PH-half-hearted-effort-and-resentment",
+          "PH-made-to-volunteer",
+          "PH-a-healthy-civil-society",
+          "PH-take-the-initiative",
+          "PH-made-easier",
+          "PH-course-credit-for-community-service",
+          "PH-paid-time-off",
+          "PH-fund-volunteer-organisations",
+          "PH-recognise-the-work-with-awards-or-tax-benefi",
+          "PH-cannot-spare-the-time",
+          "PH-voluntary-element",
+          "PH-opens-opportunities",
+          "PH-poorer-backgrounds",
+          "PH-a-personal-choice"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 196,
+      "qtype": "Opinion",
+      "question": "Discuss how family traditions influence identity.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:35.117Z",
+          "words": 302,
+          "text": "Every family has its own habits, from the way birthdays are celebrated to the stories told at dinner, and these shared customs shape how people see themselves. This essay will explain two key ways in which family traditions influence identity: by giving a sense of belonging and by passing on values and memories.\n\nFirst and foremost, family traditions give children a sense of belonging and identity. Shared rituals such as festival meals, religious ceremonies and annual trips create a feeling of being part of a group with its own history. A family that cooks the same festival dish together every year, for example, creates memories that tie generations together. Children who take part know that they are connected to people before them and after them, which gives them security and a stable starting point from which to explore the world. Even simple customs, such as a weekly Sunday lunch, can make a child feel that he or she belongs.\n\nIn addition, traditions pass on values and cultural heritage. Through stories, songs and customs, grandparents and parents teach respect, generosity, honesty and the history of the family or community, often without formal lessons. Language, food and festivals link people to their culture, which matters particularly for families who have moved to another country. However, traditions can also restrict individual choice if they are applied rigidly, for example when young people feel pressured to follow a career or marriage that their family expects. Healthy traditions are flexible, allowing new generations to adapt them and to add their own. Identity then grows from a balance between inherited roots and personal choice.\n\nTo sum up, family traditions strongly influence identity by giving belonging and passing on values, provided that they allow room for individual development. For these reasons, they deserve to be valued and kept alive.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, bố cục chặt chẽ, ngôn ngữ rõ ràng và mạch lạc. Để đạt band điểm cao hơn (8.0+), học viên cần đa dạng hóa từ vựng để tránh lặp từ và đào sâu hơn vào các khía cạnh tâm lý của bản sắc cá nhân.",
+            "weaknesses": [
+              "Lặp lại các từ khóa chính (traditions, identity) nhiều lần trong bài.",
+              "Ví dụ đưa ra còn ở mức độ phổ thông, thiếu tính học thuật hoặc góc nhìn sâu sắc hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm đề bài, thảo luận chi tiết cách truyền thống gia đình ảnh hưởng đến bản sắc cá nhân. Lập trường rõ ràng từ phần mở bài đến kết bài, có xem xét cả mặt tích cực và một góc nhìn phản biện ở thân bài 2.",
+              "coherenceCohesion": "Các đoạn văn được tổ chức rất mạch lạc, có câu chủ đề rõ ràng cho từng đoạn. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, phù hợp với chủ đề xã hội và văn hóa. Tuy nhiên, việc lặp lại một số từ như 'traditions' và 'identity' khá nhiều, thiếu các từ đồng nghĩa nâng cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, câu ghép và câu phức được sử dụng chính xác. Độ chính xác cao, ít lỗi ngữ pháp cơ bản."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: truyền thống gia đình ảnh hưởng bản sắc như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu thói quen riêng của mỗi gia đình (cách mừng sinh nhật, câu chuyện kể bên bữa ăn) định hình cách người ta nhìn mình; báo hai cách: cảm giác thuộc về; truyền giá trị và ký ức.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — cảm giác thuộc về",
+            "think": "Nghi lễ chung (bữa tiệc lễ, nghi thức tôn giáo, chuyến đi hằng năm) tạo cảm giác thuộc về nhóm có lịch sử riêng. Ví dụ gia đình nấu cùng một món lễ mỗi năm tạo ký ức gắn các thế hệ. Trẻ biết mình nối với người trước và sau, có an toàn và điểm xuất phát ổn định; phong tục đơn giản như bữa trưa Chủ nhật cũng làm trẻ thấy thuộc về.",
+            "refs": [
+              "ID-fam-traditions-identity",
+              "EX-fam-new-year-meal"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — giá trị và di sản + giới hạn",
+            "think": "Qua câu chuyện, bài hát, phong tục ông bà cha mẹ dạy tôn trọng, hào phóng, trung thực, lịch sử gia đình mà không cần bài học chính thức; ngôn ngữ, món ăn, lễ hội nối với văn hoá nhất là gia đình chuyển nước. Giới hạn: truyền thống cứng nhắc hạn chế lựa chọn cá nhân (nghề, hôn nhân gia đình kỳ vọng); truyền thống lành mạnh linh hoạt cho thế hệ mới thích nghi.",
+            "refs": [
+              "ID-fam-traditions-identity",
+              "ID-fam-grandparents",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Ảnh hưởng mạnh bản sắc nếu có chỗ cho phát triển cá nhân; nên trân trọng.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-traditions-identity",
+          "EX-fam-new-year-meal",
+          "PH-family-traditions",
+          "PH-influence-identity",
+          "PH-shared-customs",
+          "PH-a-sense-of-belonging",
+          "PH-passing-on-values-and-memories",
+          "PH-shared-rituals",
+          "PH-festival-meals-religious-ceremonies-and-annu",
+          "PH-part-of-a-group-with-its-own-history",
+          "PH-cooks-the-same-festival-dish-together",
+          "PH-tie-generations-together",
+          "PH-a-stable-starting-point",
+          "PH-a-weekly-sunday-lunch",
+          "PH-pass-on-values-and-cultural-heritage",
+          "PH-respect-generosity-honesty",
+          "PH-without-formal-lessons",
+          "PH-link-people-to-their-culture",
+          "PH-restrict-individual-choice",
+          "PH-applied-rigidly",
+          "PH-pressured-to-follow",
+          "PH-inherited-roots-and-personal-choice"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 203,
+      "qtype": "Opinion",
+      "question": "Discuss the role of grandparents in child upbringing.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:26:37.162Z",
+          "words": 309,
+          "text": "In many families, grandparents collect children from school, cook meals and tell stories, and they are an important part of how children grow up. This essay will explain two key roles that grandparents play in child upbringing: providing care and stability, and passing on values and a link with the past.\n\nFirst and foremost, grandparents provide care, stability and emotional security. They look after grandchildren while parents work, which saves families money and gives working parents peace of mind. In some countries, grandparents provide a large share of childcare, and in households with a single parent or two jobs, their help can be essential. A grandparent in good health, for example, can help to look after grandchildren and pass on knowledge, which supports working parents. Children also gain from the patience and attention that grandparents often have time to give, and from having another adult who loves them unconditionally and who can be a refuge when there are tensions at home.\n\nIn addition, grandparents pass on values, stories and skills. A grandmother who tells stories about her childhood, for example, gives a child a living link with history, and grandparents often teach traditions, language, cooking, crafts and manners. This helps children to understand their roots and to respect older people. However, there are some difficulties. Grandparents may have different ideas about discipline, sweets or screen time, which can cause conflict with parents, and their own health or energy may limit what they can do. Clear communication between generations, and respect for the parents' final say, usually resolve such disagreements. Where possible, children should also be encouraged to contribute to the relationship, for instance by helping grandparents with technology.\n\nTo sum up, grandparents play a valuable role in child upbringing by providing care and by passing on values and heritage. For these reasons, their contribution should be recognised and supported.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn có chất lượng khá tốt, đạt khoảng band 7.0 với lập luận chặt chẽ, từ vựng tự nhiên và ngữ pháp vững chắc. Để nâng cao điểm số, bạn cần tập trung phát triển các luận điểm bám sát trọng tâm đề bài hơn nữa và tránh lan man sang các khía cạnh phụ.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai hơi lan man sang phần xung đột và cách giải quyết, làm phân tán trọng tâm về vai trò của ông bà.",
+              "Một số câu ví dụ còn hơi lặp ý tưởng với câu chủ đề."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt yêu cầu đề bài, thảo luận rõ ràng về vai trò của ông bà trong việc nuôi dạy trẻ. Các ý tưởng được phát triển hợp lý với các ví dụ cụ thể, dù đoạn 3 có hơi lan sang mặt trái và cách giải quyết.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với phần mở bài, thân bài và kết luận. Các liên từ (First and foremost, In addition, To sum up) được sử dụng hiệu quả để dẫn dắt ý.",
+              "lexicalResource": "Từ vựng khá phong phú và tự nhiên, phù hợp với chủ đề gia đình và nuôi dạy con cái (child upbringing, emotional security, unconditional love, living link with history). Chính tả tốt không có lỗi.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, câu ghép và câu phức được sử dụng chính xác. Các thì trong tiếng Anh được dùng linh hoạt và phù hợp với ngữ cảnh."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của ông bà trong nuôi dạy trẻ",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài nêu hình ảnh quen thuộc (ông bà đón cháu, nấu ăn, kể chuyện); báo hai vai trò: chăm sóc và ổn định; truyền giá trị và nối quá khứ.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Vai trò 1 — chăm sóc, ổn định",
+            "think": "Chăm cháu khi cha mẹ đi làm: tiết kiệm tiền, cha mẹ yên tâm; ở nhiều nước ông bà chăm trẻ phần lớn, gia đình đơn thân hoặc hai việc cần giúp. Ví dụ ông bà khoẻ giúp chăm cháu và truyền kiến thức hỗ trợ cha mẹ đi làm. Trẻ được kiên nhẫn, sự chú ý; người lớn yêu vô điều kiện; nơi nương tựa khi căng thẳng ở nhà.",
+            "refs": [
+              "ID-fam-grandparents",
+              "EX-health-grandparent",
+              "ID-fam-childcare-elder"
+            ]
+          },
+          {
+            "step": "3. Vai trò 2 — giá trị, kỹ năng + khó khăn",
+            "think": "Bà kể chuyện thời thơ ấu cho trẻ liên kết sống với lịch sử; dạy truyền thống, ngôn ngữ, nấu ăn, thủ công, phép lịch sự; hiểu cội nguồn và tôn trọng người già. Khó khăn: khác ý về kỷ luật, đồ ngọt, thời gian màn hình gây xung đột với cha mẹ; sức khoẻ, sức lực hạn chế; giao tiếp rõ và tôn trọng quyền quyết định cuối của cha mẹ.",
+            "refs": [
+              "ID-fam-grandparents",
+              "EX-fam-grandma-stories",
+              "ID-fam-traditions-identity",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Vai trò đáng giá; cần được ghi nhận và hỗ trợ.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-grandparents",
+          "EX-fam-grandma-stories"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 222,
+      "qtype": "Causes / Solutions",
+      "question": "How can governments support elderly people living alone? Suggest practical measures.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:29:58.723Z",
+          "words": 284,
+          "text": "In many countries, a growing number of older people live alone, and some of them are isolated, ill or afraid. This essay will suggest practical measures that governments could take, focusing on care and safety in the home and on reducing loneliness and supporting independence.\n\nTo begin with, governments should help older people to stay safe and healthy at home. Home-care services, regular health visits, suitable housing and alarm systems reduce risks and allow people to live independently for longer. An eighty-year-old who falls at home and cannot reach the telephone, for example, may lie for hours unless an alarm system calls for help. Nurses who visit regularly can detect illness early, and help with shopping, meals and cleaning keeps people in their own homes instead of moving into expensive residential care. Grants for adapting homes, such as fitting handrails or a walk-in shower, prevent accidents. This costs less than hospital or care-home places and respects older people's wishes.\n\nIn addition, authorities should reduce loneliness and encourage social contact. Community centres, lunch clubs, befriending schemes in which volunteers visit or phone isolated people, and cheap public transport help older people to stay connected. Training in basic digital skills allows them to speak to their families by video and to access services online. Equally important, a regular check by neighbours, local officials or postal workers can identify those who are in difficulty. Governments should also ensure adequate pensions, since poverty makes isolation worse. These measures help older people to keep their dignity and reduce the pressure on health services and relatives.\n\nIn conclusion, providing safe, supported living at home and encouraging social contact offer the most realistic way of helping elderly people who live alone.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt với tư duy logic rõ ràng, lập luận chặt chẽ và giải pháp mang tính thực tiễn cao. Người viết có nền tảng ngữ pháp và từ vựng vững chắc, đáp ứng tốt yêu cầu của một bài luận IELTS Task 2.",
+            "weaknesses": [
+              "Một số câu liệt kê quá dài làm cấu trúc câu trở nên nặng nề.",
+              "Thiếu một số từ nối mang tính chuyển ý cấp độ cao hơn giữa các đoạn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách đưa ra các biện pháp thiết thực từ phía chính phủ để hỗ trợ người cao tuổi sống cô độc. Các ý tưởng được phát triển rõ ràng với các ví dụ cụ thể, vượt qua độ dài tối thiểu 250 từ.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn hợp lý theo từng nhóm giải pháp (an toàn/sức khỏe và giảm cô đơn/kết nối xã hội). Các từ nối và phương tiện liên kết được sử dụng tự nhiên, hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến chủ đề (residential care, befriending schemes, adaptive homes). Tuy nhiên, có thể tăng thêm một số từ vựng nâng cao ở cấp độ học thuật hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, sử dụng linh hoạt các câu phức và mệnh đề quan hệ mà không mắc lỗi nghiêm trọng. Độ chính xác cao giúp bài viết đọc rất trôi chảy và tự nhiên."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Solutions only: chính phủ hỗ trợ người già sống một mình",
+        "plan": [
+          {
+            "step": "1. Khung giải pháp",
+            "think": "Mở bài nêu thực tế (ngày càng nhiều người già sống một mình, một số cô lập, ốm, sợ hãi); hai nhóm: chăm sóc và an toàn tại nhà; giảm cô đơn và hỗ trợ độc lập.",
+            "refs": [
+              "FR-struct-solutions",
+              "FR-this-essay-will",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nhóm 1 — an toàn và khoẻ mạnh tại nhà",
+            "think": "Dịch vụ chăm sóc tại nhà, thăm khám định kỳ, nhà ở phù hợp, hệ thống báo động giảm rủi ro, sống độc lập lâu hơn. Ví dụ cụ tám mươi tuổi ngã ở nhà không với tới điện thoại có thể nằm hàng giờ nếu không có chuông báo. Y tá thăm phát hiện bệnh sớm; giúp mua sắm, bữa ăn, dọn dẹp tránh vào viện dưỡng lão đắt; hỗ trợ cải tạo nhà; rẻ hơn bệnh viện, nhà dưỡng lão và tôn trọng mong muốn của người già.",
+            "refs": [
+              "ID-fam-elderly-alone",
+              "EX-fam-lonely-neighbour",
+              "ID-health-prevention-cheaper",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Nhóm 2 — cô đơn và kết nối",
+            "think": "Trung tâm cộng đồng, câu lạc bộ ăn trưa, chương trình bạn đồng hành, giao thông công cộng rẻ; kỹ năng số để nói chuyện video với gia đình và dùng dịch vụ trực tuyến; hàng xóm, quan chức địa phương, nhân viên bưu điện kiểm tra; lương hưu đủ sống vì nghèo làm cô lập tệ hơn; giữ phẩm giá và giảm áp lực lên y tế, người thân.",
+            "refs": [
+              "ID-fam-elderly-alone",
+              "ID-fam-tech-relationships",
+              "ID-health-longer-life",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai nhóm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-elderly-alone",
+          "EX-fam-lonely-neighbour",
+          "PH-a-growing-number-of-older-people-live-alone",
+          "PH-isolated-ill-or-afraid",
+          "PH-safe-and-healthy-at-home",
+          "PH-home-care-services-regular-health-visits",
+          "PH-suitable-housing-and-alarm-systems",
+          "PH-falls-at-home-and-cannot-reach-the-telephone",
+          "PH-lie-for-hours",
+          "PH-detect-illness-early",
+          "PH-residential-care",
+          "PH-fitting-handrails-or-a-walk-in-shower",
+          "PH-respects-older-people-s-wishes",
+          "PH-lunch-clubs-befriending-schemes",
+          "PH-isolated-people",
+          "PH-basic-digital-skills",
+          "PH-a-regular-check-by-neighbours",
+          "PH-adequate-pensions",
+          "PH-keep-their-dignity",
+          "PH-pressure-on-health-services-and-relatives"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 245,
+      "qtype": "Discuss both views",
+      "question": "Some people believe that online dating benefits modern relationships. Others disagree. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:29:58.998Z",
+          "words": 269,
+          "text": "Millions of people now look for partners through websites and apps, and some believe that online dating benefits modern relationships. Others disagree. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that online dating widens choice and makes it easier to meet compatible people. People can meet far more potential partners than in their daily circle, filter by interests and values, and begin conversations at their own pace, which helps the shy and busy. A shy engineer who rarely meets new people at work, for example, may find a partner through an app that matches shared interests. Online dating can also help people who live in small communities, who have recently moved or who belong to minority groups with few partners nearby. Many successful couples now meet online, and the stigma that once surrounded the practice has largely disappeared.\n\nOn the other hand, critics argue that online dating can encourage deception and shallow judgements. Profiles can be exaggerated or false, people are judged quickly by photos, and an endless supply of choices may reduce commitment, as users keep looking for someone slightly better. Some users face scams, harassment or safety risks when meeting strangers. Constant rejection can also damage self-esteem. Relationships formed through screens may rely too heavily on appearance, and the pressure of presenting an ideal image can make people less honest.\n\nIn conclusion, both views have merit. Personally, I believe that online dating can benefit modern relationships by widening opportunities, provided that users are honest, take safety precautions such as meeting in public places, and treat others with respect.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm khá cao nhờ bố cục chặt chẽ, luận điểm rõ ràng và văn phong tự nhiên. Tuy nhiên, việc tinh chỉnh một số cụm từ và thêm các cấu trúc câu nâng cao hơn sẽ giúp bài viết đạt band điểm cao hơn.",
+            "weaknesses": [
+              "Một số câu ví dụ còn hơi dài dòng và có thể được cô đọng lại.",
+              "Cấu trúc câu chưa thực sự đột phá, thiếu các cấu trúc ngữ pháp nâng cao như đảo ngữ hoặc mệnh đề phân từ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời đầy đủ yêu cầu của đề bài Discuss both views, phân tích cả hai chiều hướng và đưa ra quan điểm cá nhân rõ ràng ở phần mở bài lẫn kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với 4 đoạn rõ ràng, tuân thủ cấu trúc chuẩn của bài luận IELTS Writing Task 2. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều cụm từ hay liên quan đến chủ đề hẹn hò trực tuyến như 'compatible people', 'stigma', 'shallow judgements', 'endless supply of choices'. Lỗi chính tả gần như không có.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, sử dụng linh hoạt các câu phức và mệnh đề quan hệ một cách chính xác. Các thì trong bài được dùng nhất quán và phù hợp với ngữ cảnh."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: hẹn hò trực tuyến có lợi cho quan hệ hiện đại không",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu thực tế (hàng triệu người tìm bạn đời qua website, ứng dụng) rồi hai phe; ý kiến riêng có điều kiện (trung thực, an toàn, tôn trọng).",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe ủng hộ",
+            "think": "Mở rộng lựa chọn và dễ gặp người hợp: gặp nhiều ứng viên hơn vòng tròn hàng ngày, lọc theo sở thích và giá trị, bắt chuyện theo nhịp riêng giúp người nhút nhát, bận. Ví dụ kỹ sư nhút nhát tìm bạn đời qua ứng dụng ghép theo sở thích. Giúp người sống ở cộng đồng nhỏ, mới chuyển, nhóm thiểu số; nhiều cặp thành công; kỳ thị đã biến mất.",
+            "refs": [
+              "ID-fam-online-dating-pro",
+              "EX-fam-shy-dater",
+              "ID-fam-tech-relationships"
+            ]
+          },
+          {
+            "step": "3. Phe phê phán",
+            "think": "Khuyến khích lừa dối và đánh giá hời hợt: hồ sơ phóng đại hoặc giả, đánh giá nhanh qua ảnh, quá nhiều lựa chọn giảm cam kết (luôn tìm người hơn một chút); lừa đảo, quấy rối, rủi ro an toàn khi gặp người lạ; bị từ chối liên tục hại lòng tự trọng; dựa vào ngoại hình; áp lực hình ảnh lý tưởng làm kém trung thực.",
+            "refs": [
+              "ID-fam-online-dating-con",
+              "ID-cr-identity-theft"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Có thể có lợi nếu người dùng trung thực, đề phòng an toàn (gặp nơi công cộng), tôn trọng người khác.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-online-dating-pro",
+          "ID-fam-online-dating-con",
+          "EX-fam-shy-dater",
+          "PH-look-for-partners-through-websites-and-apps",
+          "PH-online-dating",
+          "PH-benefits-modern-relationships",
+          "PH-widens-choice",
+          "PH-compatible-people",
+          "PH-potential-partners",
+          "PH-filter-by-interests-and-values",
+          "PH-begin-conversations-at-their-own-pace",
+          "PH-the-shy-and-busy",
+          "PH-matches-shared-interests",
+          "PH-small-communities",
+          "PH-deception-and-shallow-judgements",
+          "PH-exaggerated-or-false",
+          "PH-judged-quickly-by-photos",
+          "PH-an-endless-supply-of-choices",
+          "PH-reduce-commitment",
+          "PH-scams-harassment-or-safety-risks",
+          "PH-damage-self-esteem",
+          "PH-meeting-in-public-places"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 256,
+      "qtype": "Opinion",
+      "question": "Discuss how family meals affect children’s development.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:29:58.410Z",
+          "words": 301,
+          "text": "In many homes, the evening meal is one of the few occasions when the whole family is together, though it is becoming less common as schedules grow busier. This essay will explain two key ways in which family meals affect children's development: through health and nutrition, and through communication and emotional security.\n\nFirst and foremost, regular family meals support children's health and eating habits. Children who eat with their parents tend to eat more vegetables and less junk food, and they learn table manners, portion control and the idea that food is something to share. A child who talks about his day at the dinner table, for example, practises telling a story and feels that his parents are interested. Research has linked frequent family meals with lower rates of obesity and eating disorders, and with better school results, although part of this may reflect other advantages of families who manage to eat together. Parents also have a chance to notice if a child is eating too little or too much.\n\nIn addition, family meals support communication and emotional security. Conversation builds vocabulary, listening skills and confidence, and children feel that their lives matter to others. Regular time together gives parents opportunities to learn about friends, problems and worries before they become serious, and children who feel connected are less likely to take risks such as substance abuse. However, busy schedules and long working hours make the habit harder, and meals are only valuable if they are relaxed. Arguments, strict control or phones at the table can spoil the benefits. Even a few shared meals a week, with screens switched off, bring real advantages.\n\nTo sum up, family meals promote children's development by supporting healthy eating and by strengthening communication and security. For these reasons, families should try to protect this time.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng khá tốt với tư duy logic rõ ràng, cấu trúc ngữ pháp vững chắc và từ vựng phong phú. Tuy nhiên, một số lỗi nhỏ trong việc sắp xếp ý và tính tự nhiên của từ vựng cần được khắc phục để đạt điểm cao hơn.",
+            "weaknesses": [
+              "Ví dụ về việc kể chuyện trong đoạn 1 chưa được đặt đúng chỗ, làm gián đoạn mạch ý về sức khỏe.",
+              "Một số câu ghép dài có thể được tinh chỉnh để tăng tính súc tích."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt câu hỏi thảo luận về ảnh hưởng của bữa ăn gia đình đối với sự phát triển của trẻ. Lập trường rõ ràng và các ý chính được phát triển đầy đủ, đáp ứng tốt yêu cầu về độ dài trên 250 từ.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở đầu, các đoạn thân bài rõ ràng và phần kết luận. Các liên kết từ được sử dụng hiệu quả, tuy nhiên sự chuyển ý giữa câu ví dụ về kể chuyện và ý về sức khỏe trong đoạn thân bài 1 còn hơi đột ngột.",
+              "lexicalResource": "Từ vựng phong phú, tự nhiên và phù hợp với chủ đề xã hội và gia đình. Có sử dụng một số cụm từ hay (portion control, emotional security, substance abuse), tuy nhiên một số chỗ diễn đạt có thể tự nhiên hơn.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức được kiểm soát tốt với độ chính xác cao. Ngữ pháp và các thì được sử dụng chính xác xuyên suốt bài viết."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: bữa ăn gia đình ảnh hưởng phát triển của trẻ như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu thực tế (bữa tối là một trong ít dịp cả nhà bên nhau nhưng ít dần khi lịch bận hơn); báo hai cách: sức khoẻ và dinh dưỡng; giao tiếp và an toàn cảm xúc.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — sức khoẻ",
+            "think": "Trẻ ăn cùng cha mẹ ăn nhiều rau, ít đồ ăn vặt; học phép lịch sự khi ăn, kiểm soát khẩu phần, chia sẻ thức ăn. Ví dụ trẻ kể ngày của mình ở bàn ăn luyện kể chuyện, cảm thấy cha mẹ quan tâm. Nghiên cứu liên hệ bữa ăn gia đình thường xuyên với béo phì, rối loạn ăn uống thấp hơn, kết quả học tốt hơn (một phần do lợi thế khác); cha mẹ nhận ra trẻ ăn quá ít hay quá nhiều.",
+            "refs": [
+              "ID-fam-family-meals",
+              "EX-fam-dinner-talk",
+              "ID-health-obesity-solutions"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — giao tiếp, an toàn cảm xúc + giới hạn",
+            "think": "Trò chuyện xây vốn từ, kỹ năng nghe, tự tin; trẻ cảm thấy cuộc sống của mình quan trọng; cha mẹ biết về bạn bè, vấn đề, lo lắng trước khi nghiêm trọng; trẻ gắn bó ít liều (ma tuý). Giới hạn: lịch bận, giờ làm dài khó duy trì; bữa ăn chỉ có giá trị nếu thoải mái; cãi vã, kiểm soát chặt, điện thoại phá hỏng; vài bữa mỗi tuần không màn hình vẫn có lợi.",
+            "refs": [
+              "ID-fam-family-meals",
+              "ID-fam-tech-relationships",
+              "ID-health-teen-substance",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Thúc đẩy phát triển nhờ ăn lành mạnh và giao tiếp; gia đình nên giữ thời gian này.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-family-meals",
+          "EX-fam-dinner-talk",
+          "PH-the-evening-meal",
+          "PH-the-whole-family-is-together",
+          "PH-family-meals",
+          "PH-children-s-development",
+          "PH-health-and-nutrition",
+          "PH-communication-and-emotional-security",
+          "PH-support-children-s-health-and-eating-habits",
+          "PH-more-vegetables-and-less-junk-food",
+          "PH-table-manners-portion-control",
+          "PH-something-to-share",
+          "PH-talks-about-his-day",
+          "PH-practises-telling-a-story",
+          "PH-lower-rates-of-obesity-and-eating-disorders",
+          "PH-notice-if-a-child-is-eating-too-little-or-to",
+          "PH-builds-vocabulary-listening-skills-and-confi",
+          "PH-their-lives-matter-to-others",
+          "PH-before-they-become-serious",
+          "PH-take-risks-such-as-substance-abuse",
+          "PH-relaxed",
+          "PH-screens-switched-off"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 360,
+      "qtype": "Discuss both views",
+      "question": "Some people prefer to raise children with strict rules while others prefer permissive parenting. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:03.714Z",
+          "words": 281,
+          "text": "Parents everywhere ask how firmly they should control their children, and opinions are divided as to whether children should be raised with strict rules or with a more permissive approach. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of strict parenting argue that clear rules give children structure, safety and self-discipline. When expectations and consequences are consistent, children know what to expect, learn to control impulses and are protected from risks. A teenager with a clear curfew, for example, knows what is expected and is less likely to stay out in unsafe places. Children who grow up with firm boundaries often do well at school because they learn to concentrate, finish tasks and respect authority. They may also feel more secure, since they know that adults are in charge. Supporters believe that too much freedom early in life can lead to selfishness and difficulty with rules at school or work.\n\nOn the other hand, supporters of permissive parenting argue that a relaxed style encourages independence, creativity and close relationships. Children who are given freedom to make choices and are listened to tend to be confident and open with their parents, and they learn from the consequences of their own decisions. Harsh rules, in contrast, can cause fear, secrecy and rebellion, and children may behave well only when watched. Warm and flexible parents build trust, which makes children more likely to seek advice. However, without boundaries children may struggle with self-control and respect for others.\n\nIn conclusion, both views have merit. Overall, I believe that the best approach combines warmth with clear limits: rules should be explained, applied fairly and relaxed as children mature.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng tốt với bố cục rõ ràng, lập luận chặt chẽ và ngữ pháp vững chắc. Học viên đã trả lời trọn vẹn yêu cầu của đề bài thảo luận hai chiều và nêu quan điểm cá nhân.",
+            "weaknesses": [
+              "Một số từ vựng lặp lại ở mức độ cơ bản (như 'children', 'rules').",
+              "Phần nêu quan điểm cá nhân ở thân bài chưa thực sự nổi bật trước khi đến kết luận."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận đầy đủ cả hai quan điểm về phương pháp nuôi dạy con và đưa ra quan điểm cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các liên kết từ như 'On the one hand', 'On the other hand', và 'In conclusion' được sử dụng mượt mà, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các thuật ngữ liên quan đến chủ đề nuôi dạy con cái như 'strict parenting', 'permissive parenting', 'self-discipline', và 'boundaries'. Tuy nhiên, có thể bổ sung thêm một số cấu trúc từ vựng nâng cao hơn để đạt band cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức với độ chính xác cao. Việc sử dụng các mệnh đề quan hệ và cấu trúc so sánh giúp câu văn trôi chảy và tự nhiên."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: nuôi dạy con nghiêm khắc hay dễ dãi",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu câu hỏi chung của cha mẹ (kiểm soát con nghiêm đến đâu) rồi hai phe; ý kiến riêng kết hợp ấm áp và giới hạn rõ.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe nghiêm khắc",
+            "think": "Quy tắc rõ ràng cho cấu trúc, an toàn, kỷ luật tự giác: kỳ vọng và hệ quả nhất quán, trẻ biết mình mong đợi gì, học kiểm soát xung động, được bảo vệ. Ví dụ thiếu niên có giờ giới nghiêm rõ biết điều được kỳ vọng và ít ở lại nơi không an toàn. Trẻ có ranh giới vững thường học tốt vì tập trung, hoàn thành việc, tôn trọng thẩm quyền; an tâm vì biết người lớn nắm quyền; quá nhiều tự do sớm có thể dẫn đến ích kỷ.",
+            "refs": [
+              "ID-fam-strict-parenting",
+              "EX-fam-curfew"
+            ]
+          },
+          {
+            "step": "3. Phe dễ dãi",
+            "think": "Phong cách thoải mái khuyến khích độc lập, sáng tạo, gần gũi: trẻ được tự do chọn và được lắng nghe tự tin và cởi mở với cha mẹ, học từ hệ quả quyết định của mình; quy tắc hà khắc gây sợ hãi, giấu giếm, nổi loạn, trẻ chỉ ngoan khi bị nhìn; cha mẹ ấm áp, linh hoạt xây lòng tin nên trẻ tìm lời khuyên. Giới hạn: không ranh giới trẻ khó tự chủ, tôn trọng người khác.",
+            "refs": [
+              "ID-fam-permissive-parenting",
+              "ID-fam-parents-academic"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Kết hợp ấm áp và giới hạn rõ; quy tắc được giải thích, áp dụng công bằng, nới dần khi trẻ lớn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-strict-parenting",
+          "ID-fam-permissive-parenting",
+          "EX-fam-curfew",
+          "PH-raised-with-strict-rules",
+          "PH-a-more-permissive-approach",
+          "PH-supporters-of-strict-parenting",
+          "PH-structure-safety-and-self-discipline",
+          "PH-expectations-and-consequences-are-consistent",
+          "PH-learn-to-control-impulses",
+          "PH-protected-from-risks",
+          "PH-a-clear-curfew",
+          "PH-firm-boundaries",
+          "PH-respect-authority",
+          "PH-adults-are-in-charge",
+          "PH-too-much-freedom-early-in-life",
+          "PH-encourages-independence-creativity-and-close",
+          "PH-given-freedom-to-make-choices",
+          "PH-learn-from-the-consequences-of-their-own-dec",
+          "PH-fear-secrecy-and-rebellion",
+          "PH-behave-well-only-when-watched",
+          "PH-warm-and-flexible-parents",
+          "PH-self-control-and-respect-for-others",
+          "PH-warmth-with-clear-limits"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 369,
+      "qtype": "Agree / Disagree",
+      "question": "Many people say that community festivals strengthen social bonds. Do you agree or disagree? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:03.723Z",
+          "words": 292,
+          "text": "From street parties to harvest fairs and religious celebrations, communities around the world mark special days together, and many people say that community festivals strengthen social bonds. I agree with this view, since festivals bring neighbours together and create shared memories, although they work best when everyone can take part.\n\nTo begin with, community festivals bring neighbours together and create shared memories. People who might not normally meet cook, perform and celebrate side by side, which builds trust, pride in the place and a sense of belonging. A street party where every household brings a dish, for example, lets neighbours who never spoke to each other become friends. Preparation also requires cooperation, since volunteers organise stalls, music and safety, and working together on a common goal strengthens relationships. Shared memories of such events give a community a sense of history and identity that lasts long after the festival is over.\n\nFurthermore, festivals celebrate and preserve local culture, which helps people to appreciate their heritage and to share it with newcomers. They can also bring different generations and groups together, from children to grandparents and from long-term residents to migrants. However, festivals do not automatically strengthen bonds. If prices are high, if the programme reflects only one group or if noise and crowds upset residents, some people may feel excluded or annoyed. Organisers should therefore make events free or cheap, involve people from all parts of the community in planning and consider the needs of neighbours. When these steps are taken, festivals can be one of the simplest and most enjoyable ways to build community spirit.\n\nIn conclusion, I agree that community festivals strengthen social bonds, because they bring people together and create shared memories, provided that they are inclusive and well organised.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn có chất lượng tốt, đạt mức band khoảng 7.0 với lập luận chặt chẽ và từ vựng tự nhiên. Để đạt điểm cao hơn, bạn cần tập trung sâu hơn vào khía cạnh 'social bonds' ở thân bài và tránh lan sang các vấn đề khác.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai đề cập đến văn hóa và giải pháp, làm loãng ý chính về gắn kết xã hội.",
+              "Một số lập luận chưa được khai thác sâu mà đi theo chiều rộng."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi đề bài, thể hiện rõ lập trường đồng tình nhưng có đưa ra điều kiện bổ sung (nuances). Tuy nhiên, đoạn thân bài thứ hai hơi lan man sang việc bảo tồn văn hóa và giải pháp thay vì tập trung hoàn toàn vào việc gắn kết xã hội.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở bài, thân bài và kết bài rõ ràng. Các câu chuyển ý được sử dụng tốt, tuy nhiên việc gộp quá nhiều ý trong đoạn thân bài 2 làm giảm độ tập trung.",
+              "lexicalResource": "Vốn từ vựng phong phú và tự nhiên, phù hợp với chủ đề xã hội. Các cụm từ collocation được sử dụng khá chính xác như 'shared memories', 'sense of belonging', 'community spirit'.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức với độ chính xác cao. Lỗi ngữ pháp xuất hiện rất ít và không ảnh hưởng đến việc truyền đạt thông tin."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: lễ hội cộng đồng củng cố gắn kết xã hội — agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + giới hạn",
+            "think": "Mở bài nêu hình ảnh (tiệc đường phố, hội mùa gặt, lễ tôn giáo) rồi agree + lý do + điều kiện (mọi người cùng tham gia được).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — gặp gỡ, ký ức chung",
+            "think": "Người thường không gặp nhau nấu ăn, biểu diễn, ăn mừng cạnh nhau xây lòng tin, tự hào, cảm giác thuộc về. Ví dụ tiệc đường phố mỗi nhà mang một món giúp hàng xóm chưa từng nói chuyện thành bạn. Chuẩn bị đòi hỏi hợp tác (gian hàng, nhạc, an toàn); làm việc vì mục tiêu chung củng cố quan hệ; ký ức chung cho cộng đồng cảm giác lịch sử và bản sắc.",
+            "refs": [
+              "ID-fam-community-festival",
+              "EX-fam-street-party",
+              "ID-trv-festival"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Lễ hội tôn vinh và gìn giữ văn hoá địa phương, giúp trân trọng di sản và chia sẻ với người mới; gắn kết các thế hệ và nhóm. Giới hạn: không tự động củng cố gắn kết; giá cao, chương trình chỉ phản ánh một nhóm, ồn và đông phiền cư dân khiến một số thấy bị loại; ban tổ chức: miễn phí hoặc rẻ, cho người mọi phần cộng đồng tham gia lập kế hoạch, tính đến hàng xóm.",
+            "refs": [
+              "ID-fam-community-festival",
+              "ID-fam-traditions-identity",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Đồng ý vì gắn kết người và tạo ký ức chung, với điều kiện hoà nhập và tổ chức tốt.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-community-festival",
+          "EX-fam-street-party",
+          "PH-street-parties-to-harvest-fairs",
+          "PH-mark-special-days-together",
+          "PH-community-festivals-strengthen-social-bonds",
+          "PH-create-shared-memories",
+          "PH-cook-perform-and-celebrate-side-by-side",
+          "PH-builds-trust-pride-in-the-place",
+          "PH-brings-a-dish",
+          "PH-never-spoke-to-each-other",
+          "PH-organise-stalls-music-and-safety",
+          "PH-a-common-goal",
+          "PH-a-sense-of-history-and-identity",
+          "PH-preserve-local-culture",
+          "PH-appreciate-their-heritage",
+          "PH-long-term-residents-to-migrants",
+          "PH-feel-excluded-or-annoyed",
+          "PH-free-or-cheap",
+          "PH-people-from-all-parts-of-the-community"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 381,
+      "qtype": "Advantages / Disadvantages",
+      "question": "Do the advantages of state-funded childcare outweigh the cost? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:03.795Z",
+          "words": 273,
+          "text": "In several countries, the state pays for much of the cost of nurseries and after-school care, while in others parents pay most of the cost themselves. This essay will discuss the advantages and the cost of state-funded childcare before explaining whether the advantages outweigh the cost.\n\nOn the positive side, state-funded childcare pays for itself through higher employment and better child development. Parents, especially mothers, can work and pay taxes, children from poorer homes gain early education, and the economy benefits from a more skilled workforce. A mother who returns to work because nursery places are affordable, for example, pays taxes instead of receiving benefits. Good care also helps children to arrive at school ready to learn, which reduces later spending on remedial help, and it promotes gender equality by allowing women to pursue careers. Countries such as Denmark and Sweden, which fund early care generously, have high levels of female employment and strong child wellbeing.\n\nOn the negative side, state-funded childcare is expensive, and the cost must be met through taxes, which may fall on people without children. Poorly designed systems may produce low-quality care, long waiting lists or poor pay for staff, and critics argue that some parents would prefer to care for children at home or to receive cash instead. Nevertheless, these concerns can be addressed. Quality standards, trained and fairly paid staff and a choice between types of care make the system effective, and the returns in tax revenue and children's future earnings often exceed the original cost.\n\nIn conclusion, the advantages of state-funded childcare outweigh the cost, provided that the system is well designed and maintains high standards.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có bố cục rõ ràng, lập luận mạch lạc và đáp ứng tốt yêu cầu của đề bài về mặt nội dung lẫn ngữ pháp. Để đạt điểm cao hơn, học viên cần đào sâu hơn vào việc so sánh chi phí và lợi ích kinh tế.",
+            "weaknesses": [
+              "Phần phân tích việc 'cost' (chi phí) đôi khi bị lấn át bởi các lợi ích.",
+              "Một số lập luận về chi phí chưa được khai thác triệt để dưới góc độ tài chính công."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm câu hỏi của đề bài, phân tích cả hai mặt lợi ích và chi phí. Tuy nhiên, lập trường nghiêng về việc lợi ích vượt trội được đưa ra khá gọn trong thân bài thứ ba thay vì phát triển sâu hơn.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở bài, thân bài phân chia rõ ràng theo lợi ích và chi phí, và phần kết luận. Các từ nối và liên kết giữa các câu, các đoạn được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Sử dụng từ vựng phong phú và phù hợp với chủ đề giáo dục và kinh tế như 'state-funded childcare', 'remedial help', 'tax revenue'. Một số cụm từ chính xác, tuy nhiên có thể nâng cấp thêm một số collocation học thuật hơn.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Ngữ pháp chính xác với rất ít lỗi, thể hiện sự kiểm soát tốt các thì và mệnh đề quan hệ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "A/D: lợi thế của chăm sóc trẻ do nhà nước tài trợ có lớn hơn chi phí không (advantages outweigh)",
+        "plan": [
+          {
+            "step": "1. Khung A/D có phán quyết",
+            "think": "Mở bài mô tả thực tế (nhà nước trả phần lớn chi phí nhà trẻ và chăm sóc sau giờ học ở một số nước, cha mẹ tự trả ở nơi khác); phán quyết có điều kiện: hệ thống thiết kế tốt, chuẩn cao.",
+            "refs": [
+              "FR-struct-advdis",
+              "FR-on-balance",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "2. Ưu điểm",
+            "think": "Tự hoàn vốn qua việc làm cao hơn và phát triển trẻ tốt hơn: cha mẹ (nhất là mẹ) đi làm và đóng thuế; trẻ nhà nghèo được giáo dục sớm; kinh tế hưởng lợi lực lượng lao động có kỹ năng. Ví dụ bà mẹ quay lại làm việc vì giá nhà trẻ phải chăng nộp thuế thay vì nhận trợ cấp. Giảm chi phí hỗ trợ học bù sau này; bình đẳng giới; Đan Mạch, Thuỵ Điển.",
+            "refs": [
+              "ID-fam-state-childcare",
+              "EX-fam-mother-returns",
+              "ID-fam-early-childhood"
+            ]
+          },
+          {
+            "step": "3. Chi phí và phản bác",
+            "think": "Đắt, phải trả bằng thuế có thể rơi vào người không có con; hệ thống thiết kế kém: chất lượng thấp, danh sách chờ, nhân viên lương thấp; có cha mẹ muốn tự chăm hoặc nhận tiền mặt. Nevertheless: chuẩn chất lượng, nhân viên được đào tạo và trả lương công bằng, lựa chọn nhiều loại; lợi nhuận về thuế và thu nhập tương lai của trẻ thường vượt chi phí ban đầu.",
+            "refs": [
+              "ID-fam-state-childcare",
+              "ID-fam-childcare-access",
+              "ID-health-cost-sharing"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Lợi thế lớn hơn chi phí nếu hệ thống thiết kế tốt, giữ chuẩn cao.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-state-childcare",
+          "EX-fam-mother-returns",
+          "PH-nurseries-and-after-school-care",
+          "PH-state-funded-childcare",
+          "PH-outweigh-the-cost",
+          "PH-pays-for-itself",
+          "PH-higher-employment-and-better-child-developme",
+          "PH-pay-taxes",
+          "PH-children-from-poorer-homes-gain-early-educat",
+          "PH-a-more-skilled-workforce",
+          "PH-nursery-places-are-affordable",
+          "PH-instead-of-receiving-benefits",
+          "PH-remedial-help",
+          "PH-pursue-careers",
+          "PH-high-levels-of-female-employment",
+          "PH-strong-child-wellbeing",
+          "PH-met-through-taxes",
+          "PH-low-quality-care-long-waiting-lists",
+          "PH-poor-pay-for-staff",
+          "PH-quality-standards-trained-and-fairly-paid-st",
+          "PH-exceed-the-original-cost"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 408,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that parents should limit screen time for children?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:08.465Z",
+          "words": 295,
+          "text": "Children today spend hours every day looking at televisions, tablets, phones and games consoles, and many people say that parents should limit screen time. I agree with this view, since too much screen use harms sleep, activity and development, although the aim should be balance, not total prohibition.\n\nTo begin with, parents should set sensible limits on screen time because too much screen use reduces sleep, exercise and face-to-face play. A family that keeps phones out of bedrooms at night, for example, finds that children sleep better and arrive at school more alert. Research has linked long hours of screen use with poor sleep, lower concentration, obesity and, in some cases, anxiety and low mood. Young children, whose brains are developing rapidly, need real-world play, conversation and movement far more than passive viewing. Without limits, attractive games and videos designed to hold attention can crowd out homework, reading and friendships.\n\nFurthermore, limits give children a chance to learn self-control and to develop other interests. Children seldom judge for themselves when they have had enough, so parents have to provide the structure until they can do so. However, limits should be reasonable and flexible. Screens can be used for learning, creativity and keeping in touch, and not all screen time is equal; a video call with a grandparent or an educational programme differs from endless scrolling. Rules work best when they are explained, agreed with children and followed by the parents themselves, for example by having screen-free meals. Over time, children can be given more responsibility to manage their own use as they mature.\n\nIn conclusion, I agree that parents should limit screen time for children, because excessive use harms health and development, but the limits should be balanced and combined with good example and explanation.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết rất xuất sắc với lập luận chặt chẽ, bố cục rõ ràng và ngữ pháp gần như hoàn hảo. Người viết đã thể hiện sự hiểu biết sâu sắc về chủ đề và trình bày quan điểm một cách thuyết phục.",
+            "weaknesses": [
+              "Một số từ vựng mang tính phổ thông, có thể thay thế bằng các từ mang tính học thuật cao hơn.",
+              "Cách diễn đạt ở một số chỗ có phần dài dòng, chưa tối ưu hóa được độ súc tích."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi, có quan điểm rõ ràng ngay từ mở bài và duy trì xuyên suốt. Các luận điểm đưa ra để ủng hộ việc giới hạn thời gian màn hình đều thiết thực và có ví dụ minh họa.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, các đoạn được phân chia hợp lý với các từ nối tự nhiên. Sự phát triển ý tưởng từ đoạn này sang đoạn khác diễn ra mượt mà và logic.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến chủ đề (passive viewing, crowd out, endless scrolling). Tuy nhiên, có thể nâng cấp thêm một số từ vựng học thuật cao cấp hơn.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được sử dụng thành thạo và chính xác. Ngữ pháp vững chắc, hiếm khi mắc lỗi cấu trúc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree (Extent): cha mẹ nên giới hạn thời gian màn hình của trẻ — agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + giới hạn",
+            "think": "Mở bài nêu thực tế (trẻ nhìn màn hình hàng giờ mỗi ngày) rồi agree + lý do + điều kiện (cân bằng thay vì cấm hoàn toàn). Khác đề 146 (điện thoại thông minh) ở chỗ nói về mọi màn hình và vai trò cha mẹ.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — bảo vệ giấc ngủ, vận động, vui chơi",
+            "think": "Dùng màn hình quá nhiều giảm ngủ, vận động và chơi trực tiếp; ví dụ gia đình để điện thoại ngoài phòng ngủ ban đêm thì trẻ ngủ ngon, đến lớp tỉnh táo; nghiên cứu liên hệ với ngủ kém, tập trung thấp, béo phì, đôi khi lo âu; trẻ nhỏ cần chơi thật, trò chuyện, vận động; trò chơi, video thiết kế giữ chú ý lấn át bài tập, đọc, bạn bè.",
+            "refs": [
+              "ID-fam-screen-limits",
+              "EX-fam-screen-rule",
+              "ID-fam-child-smartphones"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Giới hạn cho trẻ cơ hội học tự chủ và phát triển sở thích khác; trẻ ít tự xét khi đủ nên cha mẹ cho cấu trúc. Giới hạn hợp lý, linh hoạt: màn hình dùng để học, sáng tạo, giữ liên lạc; không phải mọi thời gian như nhau (gọi video với ông bà khác lướt vô tận). Quy tắc hiệu quả khi được giải thích, thoả thuận, cha mẹ cũng theo (bữa ăn không màn hình); dần cho trẻ tự quản khi lớn.",
+            "refs": [
+              "ID-fam-screen-limits",
+              "ID-fam-tech-relationships",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Agree vì dùng quá mức hại sức khoẻ và phát triển, nhưng giới hạn cân bằng, kèm làm gương và giải thích.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-screen-limits",
+          "EX-fam-screen-rule",
+          "PH-televisions-tablets-phones-and-games-console",
+          "PH-limit-screen-time",
+          "PH-too-much-screen-use",
+          "PH-harms-sleep-activity-and-development",
+          "PH-balance-not-total-prohibition",
+          "PH-sensible-limits",
+          "PH-face-to-face-play",
+          "PH-keeps-phones-out-of-bedrooms-at-night",
+          "PH-arrive-at-school-more-alert",
+          "PH-long-hours-of-screen-use",
+          "PH-poor-sleep-lower-concentration-obesity",
+          "PH-passive-viewing",
+          "PH-designed-to-hold-attention",
+          "PH-crowd-out-homework-reading-and-friendships",
+          "PH-learn-self-control",
+          "PH-develop-other-interests",
+          "PH-not-all-screen-time-is-equal",
+          "PH-screen-free-meals",
+          "PH-manage-their-own-use"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 424,
+      "qtype": "Causes / Solutions",
+      "question": "How can governments improve access to affordable childcare? Suggest practical measures.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:08.131Z",
+          "words": 287,
+          "text": "For many families, the cost of childcare is as high as a second mortgage, and shortages of places force some parents to stop working. This essay will suggest practical measures that governments could take, focusing on reducing the cost of childcare and on increasing the supply and quality of places.\n\nTo begin with, governments should make childcare more affordable. Subsidies paid directly to providers or to parents, tax credits and free hours of early education for all children reduce costs and give families a real choice. A single parent who receives a subsidy for a registered childminder, for example, can take a full-time job instead of relying on benefits. Support should be targeted at those with the lowest incomes, but a basic entitlement for all can avoid stigma and encourage wide participation. Employers can also be encouraged, through tax incentives, to offer workplace nurseries or childcare vouchers.\n\nIn addition, authorities should increase supply and ensure quality. Funding for new nurseries in areas where places are short, training and fair pay for staff, and clear quality standards with regular inspections give parents confidence. Low pay leads to high staff turnover, which harms children, so better wages are an investment in quality. Flexible provision, such as evening or weekend care for shift workers, and support for community-based schemes and registered childminders help families whose working hours do not fit standard times. Equally important, flexible working rules for employers allow parents to share care between them. These measures cost money, but they cost less than the benefits and lost tax revenue that result when parents cannot work.\n\nIn conclusion, reducing costs and expanding the supply and quality of places offer the most realistic way of improving access to affordable childcare.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, bố cục chặt chẽ, luận điểm rõ ràng và giải pháp thực tế. Ngôn ngữ tự nhiên, sử dụng từ vựng và ngữ pháp linh hoạt, phù hợp với tiêu chí IELTS band 7.5-8.0.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài chứa quá nhiều ý liệt kê, có thể được tách nhỏ để lập luận sắc bén hơn.",
+              "Thiếu một số từ nối nâng cao hơn để chuyển ý giữa các giải pháp."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách đưa ra các nguyên nhân ngầm định và tập trung sâu vào các giải pháp thực tế (giảm chi phí, tăng số lượng và chất lượng). Lập luận được phát triển logic và có ví dụ cụ thể minh họa.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với phần mở đầu, các đoạn thân bài rõ ràng cho từng khía cạnh và phần kết luận. Các từ nối và phương tiện liên kết được sử dụng mượt mà, mạch lạc.",
+              "lexicalResource": "Sử dụng từ vựng phong phú, tự nhiên và đúng chủ đề (childcare, subsidies, tax credits, staff turnover, workplace nurseries). Các cụm từ kết hợp (collocations) chuẩn xác và mang tính học thuật.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức, với độ chính xác rất cao. Các lỗi ngữ pháp gần như không xuất hiện, các mệnh đề được kiểm soát tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Solutions only: chính phủ cải thiện tiếp cận chăm sóc trẻ giá phải chăng",
+        "plan": [
+          {
+            "step": "1. Khung giải pháp",
+            "think": "Mở bài nêu vấn đề (chi phí chăm sóc trẻ ngang một khoản thế chấp thứ hai; thiếu chỗ buộc một số cha mẹ ngừng làm việc); hai nhóm: giảm chi phí; tăng nguồn cung và chất lượng.",
+            "refs": [
+              "FR-struct-solutions",
+              "FR-this-essay-will",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nhóm 1 — giá phải chăng",
+            "think": "Trợ cấp trả trực tiếp cho nhà cung cấp hoặc cha mẹ, tín dụng thuế, giờ giáo dục sớm miễn phí cho mọi trẻ; ví dụ cha mẹ đơn thân nhận trợ cấp cho người trông trẻ đăng ký có thể làm toàn thời gian thay vì sống nhờ trợ cấp. Nhắm vào thu nhập thấp nhất nhưng quyền cơ bản cho mọi người tránh kỳ thị; khuyến khích doanh nghiệp (nhà trẻ nơi làm việc, phiếu chăm sóc).",
+            "refs": [
+              "ID-fam-childcare-access",
+              "EX-fam-childminder-subsidy",
+              "ID-fam-state-childcare",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Nhóm 2 — cung và chất lượng",
+            "think": "Tài trợ nhà trẻ mới nơi thiếu chỗ, đào tạo và lương công bằng cho nhân viên, chuẩn chất lượng rõ và thanh tra định kỳ; lương thấp gây nghỉ việc nhiều hại trẻ; chăm sóc linh hoạt (buổi tối, cuối tuần) cho người làm ca; hỗ trợ chương trình cộng đồng, người trông trẻ đăng ký; quy định làm việc linh hoạt để cha mẹ chia sẻ; rẻ hơn trợ cấp và thuế mất do cha mẹ không đi làm được.",
+            "refs": [
+              "ID-fam-childcare-access",
+              "ID-fam-friendly-policies",
+              "ID-fam-birth-solutions",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai nhóm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-childcare-access",
+          "EX-fam-childminder-subsidy",
+          "PH-the-cost-of-childcare",
+          "PH-a-second-mortgage",
+          "PH-shortages-of-places",
+          "PH-stop-working",
+          "PH-affordable-childcare",
+          "PH-reducing-the-cost-of-childcare",
+          "PH-increasing-the-supply-and-quality-of-places",
+          "PH-subsidies-paid-directly-to-providers-or-to-p",
+          "PH-tax-credits",
+          "PH-free-hours-of-early-education",
+          "PH-a-real-choice",
+          "PH-a-registered-childminder",
+          "PH-the-lowest-incomes",
+          "PH-workplace-nurseries-or-childcare-vouchers",
+          "PH-clear-quality-standards-with-regular-inspect",
+          "PH-high-staff-turnover",
+          "PH-evening-or-weekend-care-for-shift-workers",
+          "PH-flexible-working-rules",
+          "PH-lost-tax-revenue"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 438,
+      "qtype": "Opinion",
+      "question": "Discuss how family leave policies affect gender equality.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:09.022Z",
+          "words": 318,
+          "text": "In most countries, women still take more time off than men after a child is born, and this difference affects careers, pay and attitudes. This essay will explain two key ways in which family leave policies affect gender equality: by influencing who cares for children and by changing how employers and society treat men and women.\n\nFirst and foremost, paid leave for both parents helps to share care and reduces career penalties for women. When only mothers take leave, employers may see women as less committed, whereas fathers who take time off become more involved at home and make childcare normal for both sexes. A father who takes three months of paid leave, for example, learns to care for a baby on his own and shares the load with his partner afterwards. Research in Nordic countries suggests that earmarked leave for fathers, which is lost if not used, increases the share of care that fathers provide, and this leads to more equal division of housework in later years. Women can then return to work sooner and keep their careers moving.\n\nIn addition, leave policies shape attitudes and employer behaviour. If both sexes are expected to take leave, employers can no longer assume that only women will be absent, which reduces discrimination in hiring and promotion, and children grow up seeing both parents as carers. However, equality improves only when leave is well paid and fathers are encouraged to use it. Low pay discourages fathers from taking leave, long leave for mothers alone can make women's absence from work longer, and some workplaces still look down on men who ask for time off. Generous, flexible and shared leave, supported by campaigns, is therefore most effective.\n\nTo sum up, family leave policies can improve gender equality when they support shared care and change workplace attitudes. For these reasons, they should be designed with fathers as well as mothers in mind.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt khoảng band 7.0 với lập luận chặt chẽ, từ vựng đúng chủ đề và cấu trúc ngữ pháp vững chắc. Để đạt điểm cao hơn, người viết cần nâng cấp một số từ vựng mang tính học thuật cao hơn và đa dạng hóa các cấu trúc câu phức tạp.",
+            "weaknesses": [
+              "Một số từ vựng và cụm từ còn mang tính phổ biến, chưa đạt độ tinh tế cao (band 8+).",
+              "Cách diễn đạt ở phần thân bài thứ hai hơi dài dòng và có thể được cô đọng lại để sắc bén hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi thảo luận về tác động của chính sách nghỉ phép của gia đình đối với bình đẳng giới. Các ý chính được phát triển logic, có ví dụ cụ thể như các nước Bắc Âu.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc 4 đoạn rõ ràng. Các liên kết từ như 'First and foremost', 'In addition', 'To sum up' được sử dụng hiệu quả để hướng dẫn người đọc.",
+              "lexicalResource": "Vốn từ vựng ở mức khá tốt, sử dụng nhiều cụm từ chủ đề phù hợp như 'career penalties', 'earmarked leave', 'division of housework', 'employer behaviour'. Tuy nhiên, một số cụm từ chưa thực sự đạt độ tinh tế của band 8.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, bao gồm câu phức và mệnh đề quan hệ được sử dụng chính xác. Lỗi ngữ pháp xuất hiện rất ít, các câu văn dài vẫn giữ được sự rõ ràng và mạch lạc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: chính sách nghỉ chăm con ảnh hưởng bình đẳng giới như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu thực tế (phụ nữ vẫn nghỉ nhiều hơn nam sau khi sinh, ảnh hưởng nghề nghiệp, lương, thái độ); báo hai cách: ảnh hưởng ai chăm trẻ; thay đổi cách nhà tuyển dụng và xã hội đối xử với nam nữ.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — chia sẻ chăm sóc",
+            "think": "Nghỉ có lương cho cả hai bố mẹ giúp chia sẻ và giảm bất lợi nghề nghiệp của phụ nữ; khi chỉ mẹ nghỉ, nhà tuyển dụng có thể coi phụ nữ kém cam kết; cha nghỉ thì gắn bó tại nhà và khiến chăm con thành bình thường cho cả hai giới. Ví dụ người cha nghỉ ba tháng có lương học tự chăm bé và chia sẻ gánh nặng sau đó. Nghiên cứu Bắc Âu: nghỉ dành riêng cho cha tăng phần chăm của cha, chia đều việc nhà về sau; phụ nữ quay lại làm sớm hơn.",
+            "refs": [
+              "ID-fam-leave-gender",
+              "EX-fam-paternity-leave",
+              "ID-fam-friendly-policies"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — thái độ + giới hạn",
+            "think": "Nếu cả hai giới dự kiến nghỉ, nhà tuyển dụng không thể mặc định chỉ phụ nữ vắng mặt nên giảm phân biệt khi tuyển dụng, thăng tiến; trẻ thấy cả hai bố mẹ là người chăm. Giới hạn: bình đẳng chỉ cải thiện khi nghỉ được trả lương tốt và cha được khuyến khích; lương thấp không khuyến khích cha; nghỉ dài chỉ cho mẹ kéo dài vắng mặt của phụ nữ; một số nơi coi thường đàn ông xin nghỉ; nghỉ hào phóng, linh hoạt, chia sẻ, kèm chiến dịch.",
+            "refs": [
+              "ID-fam-leave-gender",
+              "ID-fam-equal-opportunity",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Cải thiện bình đẳng giới khi hỗ trợ chia sẻ chăm sóc và thay đổi thái độ nơi làm việc; nên thiết kế cho cả cha lẫn mẹ.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-leave-gender",
+          "EX-fam-paternity-leave",
+          "PH-women-still-take-more-time-off-than-men",
+          "PH-a-child-is-born",
+          "PH-family-leave-policies",
+          "PH-gender-equality",
+          "PH-influencing-who-cares-for-children",
+          "PH-changing-how-employers-and-society-treat-men",
+          "PH-paid-leave-for-both-parents",
+          "PH-share-care",
+          "PH-career-penalties-for-women",
+          "PH-less-committed",
+          "PH-become-more-involved-at-home",
+          "PH-make-childcare-normal-for-both-sexes",
+          "PH-three-months-of-paid-leave",
+          "PH-earmarked-leave-for-fathers",
+          "PH-more-equal-division-of-housework",
+          "PH-keep-their-careers-moving",
+          "PH-discrimination-in-hiring-and-promotion",
+          "PH-look-down-on-men-who-ask-for-time-off",
+          "PH-generous-flexible-and-shared-leave"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 479,
+      "qtype": "Advantages / Disadvantages",
+      "question": "What are the benefits for a country that focuses on family-friendly policies? Use examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:13.337Z",
+          "words": 289,
+          "text": "Governments are increasingly interested in paid leave, flexible working hours, childcare and housing support for families, and these are often called family-friendly policies. This essay will outline two principal benefits for a country that focuses on such policies: better outcomes for children and parents, and gains for the economy and society.\n\nFirst and foremost, family-friendly policies benefit children and parents. Paid leave, flexible hours and childcare help couples to have the children they want, keep skilled workers in employment and give children a better start. An employee who can start early and leave in time to collect her child from school, for example, stays in her job instead of resigning, and she is less stressed at home. Parents who have time and money to spend with young children can support their development, which improves health and learning. In countries with generous policies, such as Sweden, poverty among children is low and parents report a better balance between work and family life.\n\nIn addition, family-friendly policies bring wider economic and social gains. Women's employment rises when childcare is available, which increases tax revenue and household incomes, and employers keep experienced staff instead of paying to recruit and train replacements. Birth rates may be higher where families receive support, which helps to maintain the workforce as populations age. Gender equality also improves, since both parents can share work and care. Although such policies cost money, studies suggest that they pay for themselves over time through higher employment and better child outcomes. Society also benefits, since stronger families produce healthier, more confident citizens.\n\nTo sum up, family-friendly policies bring clear benefits to a country, above all better outcomes for children and a stronger economy. For these reasons, they deserve sustained public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng khá tốt, bố cục rõ ràng, từ vựng phong phú và lập luận thuyết phục. Người viết cần chú ý tinh chỉnh một số cấu trúc ngữ pháp và cách dùng từ để đạt điểm cao hơn ở các tiêu chí chi tiết.",
+            "weaknesses": [
+              "Một số câu có xu hướng kéo dài và chứa quá nhiều ý (run-on sentences).",
+              "Thiếu sự đa dạng trong các từ nối chuyển ý giữa các câu trong thân bài.",
+              "Vẫn còn một vài lỗi nhỏ về dấu câu và cách sắp xếp từ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi về lợi ích của các chính sách thân thiện với gia đình. Lập luận rõ ràng, có đưa ra ví dụ cụ thể như Thụy Điển để minh họa.",
+              "coherenceCohesion": "Bố cục bài viết rất mạch lạc với cấu trúc 4 đoạn chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, tự nhiên và phù hợp với chủ đề xã hội học và kinh tế. Sử dụng chính xác nhiều collocation tốt.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Tuy nhiên, một số lỗi nhỏ về dấu câu và sự hòa hợp thì vẫn còn xuất hiện."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chính sách thân thiện gia đình — dùng ví dụ",
+        "plan": [
+          {
+            "step": "1. Khung 'benefits'",
+            "think": "Mở bài nêu nội dung (nghỉ có lương, giờ làm linh hoạt, chăm sóc trẻ, hỗ trợ nhà ở); báo hai lợi ích: kết quả tốt hơn cho trẻ và cha mẹ; lợi ích kinh tế và xã hội.",
+            "refs": [
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Lợi ích 1 — trẻ và cha mẹ",
+            "think": "Nghỉ có lương, giờ linh hoạt, chăm sóc trẻ giúp các cặp có con như mong muốn, giữ lao động có kỹ năng, cho trẻ khởi đầu tốt hơn. Ví dụ nhân viên bắt đầu sớm và rời đúng giờ đón con ở lại công việc thay vì nghỉ, ít căng thẳng hơn. Cha mẹ có thời gian và tiền cho trẻ nhỏ hỗ trợ phát triển, cải thiện sức khoẻ, học tập; nước có chính sách hào phóng (Thuỵ Điển) nghèo trẻ em thấp, cha mẹ cân bằng công việc và gia đình tốt hơn.",
+            "refs": [
+              "ID-fam-friendly-policies",
+              "EX-fam-flexible-hours",
+              "ID-fam-early-childhood"
+            ]
+          },
+          {
+            "step": "3. Lợi ích 2 — kinh tế và xã hội",
+            "think": "Việc làm của phụ nữ tăng khi có chăm sóc trẻ: tăng thuế và thu nhập hộ; doanh nghiệp giữ nhân viên giàu kinh nghiệm thay vì tuyển và đào tạo mới; tỷ lệ sinh có thể cao hơn, giúp duy trì lực lượng lao động khi dân số già; bình đẳng giới cải thiện; nhượng bộ chi phí nhưng nghiên cứu cho thấy tự hoàn vốn; gia đình mạnh tạo công dân khoẻ mạnh, tự tin.",
+            "refs": [
+              "ID-fam-friendly-policies",
+              "ID-fam-birth-solutions",
+              "ID-fam-state-childcare",
+              "ID-fam-leave-gender"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai lợi ích; cụm 'deserve sustained public support'.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-friendly-policies",
+          "EX-fam-flexible-hours",
+          "PH-paid-leave-flexible-working-hours-childcare",
+          "PH-family-friendly-policies",
+          "PH-better-outcomes-for-children-and-parents",
+          "PH-gains-for-the-economy-and-society",
+          "PH-have-the-children-they-want",
+          "PH-keep-skilled-workers-in-employment",
+          "PH-give-children-a-better-start",
+          "PH-start-early-and-leave-in-time",
+          "PH-collect-her-child-from-school",
+          "PH-stays-in-her-job-instead-of-resigning",
+          "PH-less-stressed-at-home",
+          "PH-support-their-development",
+          "PH-poverty-among-children-is-low",
+          "PH-a-better-balance-between-work-and-family-lif",
+          "PH-women-s-employment-rises",
+          "PH-increases-tax-revenue-and-household-incomes",
+          "PH-recruit-and-train-replacements",
+          "PH-maintain-the-workforce-as-populations-age",
+          "PH-share-work-and-care",
+          "PH-pay-for-themselves-over-time"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 487,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for preventing child labour, or should society/government take action? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:13.629Z",
+          "words": 300,
+          "text": "Millions of children around the world work in farms, mines, factories and homes instead of going to school, and opinions differ on whether individuals should be responsible for preventing child labour or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that ordinary people can contribute. Consumers can choose products that are certified as free from child labour and avoid brands that have been linked to it, which gives companies a commercial reason to check their suppliers. Parents can send their children to school instead of work, and people who see children working illegally can report it. A shopper who refuses to buy goods that are suspiciously cheap, for example, sends a message to manufacturers. Public pressure from consumers and campaigns has in the past persuaded several major companies to change their supply chains. Employers, too, bear responsibility for ensuring that no children work in their businesses.\n\nOn the other hand, advocates of government and society action point out that child labour is mainly caused by poverty and can only be ended by action at several levels. Families that need income send children to work, consumers cannot always see how goods are made, and only governments can pass laws, inspect workplaces and provide schools and support for poor families. A ten-year-old who works in a brick factory to help his family, for example, misses school and may never escape poverty. Governments can also make companies publish information about their supply chains and punish those who break the law. International cooperation is needed because goods cross borders.\n\nIn conclusion, both views have merit. Overall, I believe that governments and companies must take the main responsibility, with consumers and parents playing a supporting role.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7,
+              "lexicalResource": 6.5,
+              "grammar": 7
+            },
+            "summary": "Bài viết của bạn có cấu trúc tốt, lập luận chặt chẽ và đáp ứng tốt yêu cầu của đề bài về mặt nội dung lẫn ngữ pháp. Để đạt band điểm cao hơn, bạn cần mở rộng vốn từ vựng chuyên sâu và diễn đạt ý tưởng sắc bén hơn nữa.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài khá dài và chứa quá nhiều ý gộp lại.",
+              "Thiếu một vài từ vựng mang tính học thuật cao (advanced lexical items).",
+              "Cách diễn đạt ở phần thân bài 1 đôi chỗ còn mang tính liệt kê."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt dạng bài Discuss both views, phân tích cả hai khía cạnh và đưa ra quan điểm cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng theo đúng chuẩn IELTS Task 2. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng tương đối phong phú và phù hợp với chủ đề xã hội (như certified as free from child labour, commercial reason, supply chains). Tuy nhiên, một số cụm từ còn lặp lại và thiếu các collocation nâng cao hơn.",
+              "grammar": "Bài viết sử dụng đa dạng các cấu trúc câu phức và ghép với độ chính xác cao. Ngữ pháp vững vàng, ít lỗi sai cơ bản, tuy nhiên một số câu còn khá dài và đôi chỗ lạm dụng liên từ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm ngăn lao động trẻ em",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu thực tế (hàng triệu trẻ làm việc ở nông trại, mỏ, nhà máy, nhà thay vì đi học) rồi hai phe; ý kiến riêng chính phủ và công ty chịu trách nhiệm chính, cá nhân hỗ trợ.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Người tiêu dùng chọn sản phẩm được chứng nhận không có lao động trẻ em, tránh thương hiệu bị liên hệ; công ty có lý do thương mại kiểm tra nhà cung cấp; cha mẹ cho con đi học thay vì làm việc; người thấy trẻ làm trái luật có thể báo. Ví dụ người mua từ chối hàng rẻ đáng ngờ gửi thông điệp cho nhà sản xuất. Áp lực công chúng đã thuyết phục một số công ty lớn thay đổi chuỗi cung ứng; nhà tuyển dụng chịu trách nhiệm.",
+            "refs": [
+              "ID-fam-child-labour",
+              "ID-env-ind-habits",
+              "ID-env-public-reporting"
+            ]
+          },
+          {
+            "step": "3. Chính phủ và xã hội",
+            "think": "Lao động trẻ em chủ yếu do nghèo, cần hành động ở nhiều cấp: gia đình cần thu nhập cho con đi làm, người tiêu dùng không luôn thấy cách hàng được làm, chỉ chính phủ ban hành luật, thanh tra nơi làm việc, cung cấp trường học và hỗ trợ gia đình nghèo. Ví dụ cậu bé mười tuổi làm ở lò gạch giúp gia đình bỏ học, có thể không thoát nghèo. Buộc công ty công bố chuỗi cung ứng, trừng phạt vi phạm; hợp tác quốc tế vì hàng hoá qua biên giới.",
+            "refs": [
+              "ID-fam-child-labour",
+              "EX-fam-factory-child",
+              "ID-env-ind-limits",
+              "ID-env-gov-rules"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính phủ và công ty chịu trách nhiệm chính; người tiêu dùng và cha mẹ hỗ trợ.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-child-labour",
+          "EX-fam-factory-child",
+          "PH-millions-of-children-around-the-world-work",
+          "PH-child-labour",
+          "PH-farms-mines-factories-and-homes",
+          "PH-instead-of-going-to-school",
+          "PH-preventing-child-labour",
+          "PH-certified-as-free-from-child-labour",
+          "PH-a-commercial-reason-to-check-their-suppliers",
+          "PH-suspiciously-cheap",
+          "PH-sends-a-message-to-manufacturers",
+          "PH-public-pressure-from-consumers",
+          "PH-change-their-supply-chains",
+          "PH-bear-responsibility",
+          "PH-mainly-caused-by-poverty",
+          "PH-action-at-several-levels",
+          "PH-families-that-need-income",
+          "PH-inspect-workplaces",
+          "PH-a-brick-factory",
+          "PH-misses-school",
+          "PH-publish-information-about-their-supply-chain",
+          "PH-international-cooperation"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 488,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for ensuring equal opportunities, or should society/government take action? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:30:13.334Z",
+          "words": 290,
+          "text": "Most people agree that everyone should have a fair chance in life, whatever their background, but opinions differ on whether individuals should be responsible for ensuring equal opportunities or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that fair treatment begins with personal attitudes and choices. Employers decide whom to hire and promote, teachers decide how to treat pupils, and neighbours decide whether to welcome newcomers, so prejudice can be reduced only if individuals choose to judge others on merit. A manager who gives a fair chance to every applicant, for example, widens opportunities for people who might otherwise be overlooked. Individuals can also challenge discriminatory remarks and behaviour in their daily lives, and those who succeed can mentor others. Legal rules cannot succeed unless people accept the principle of fairness.\n\nOn the other hand, advocates of government and societal action point out that discrimination is often hidden and structural. Equal opportunity needs fair attitudes from individuals and strong rules and support from government. Only laws, public education and help for disadvantaged groups can change patterns that no single person controls, such as unequal school funding, differences in housing and bias in recruitment systems. A company that removes names and photographs from applications, for example, can reduce bias at the first stage of hiring, and governments can require such practices. Scholarships, free early education and anti-discrimination laws help to give people from poorer or minority backgrounds a real chance.\n\nIn conclusion, both views have merit. Overall, I believe that governments must take the lead by setting rules and providing support, while individuals make equality real through fair behaviour in daily life.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt band điểm cao nhờ lập luận chặt chẽ, bố cục mạch lạc và ngữ pháp vững chắc. Người viết cần chú ý tinh chỉnh một số lỗi nhỏ về liên kết ý trong phần thân bài để đạt điểm tuyệt đối.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài hơi dài, có thể gây ngợp nếu không đọc kỹ.",
+              "Ý kiến cá nhân ở phần kết bài chưa phát triển thêm khía cạnh mới mà chỉ tóm lược lại ý cũ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài, thảo luận cả hai quan điểm và đưa ra ý kiến cá nhân rõ ràng. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ theo dõi mạch lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ chính xác theo chủ đề như 'discriminatory remarks', 'structural', 'unequal school funding'. Một số từ ngữ được dùng tự nhiên và mang tính học thuật cao.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác gần như tuyệt đối, thể hiện sự vững vàng trong cấu trúc câu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ đảm bảo cơ hội bình đẳng",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu đồng thuận (mọi người nên có cơ hội công bằng dù xuất thân) rồi hai phe; ý kiến riêng chính phủ dẫn dắt, cá nhân biến bình đẳng thành thực tế qua hành vi công bằng.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Đối xử công bằng bắt đầu từ thái độ và lựa chọn cá nhân: nhà tuyển dụng quyết định thuê và thăng chức, giáo viên đối xử với học sinh, hàng xóm đón nhận người mới; định kiến chỉ giảm nếu cá nhân chọn đánh giá theo năng lực. Ví dụ quản lý cho mọi ứng viên cơ hội công bằng mở rộng cơ hội cho người có thể bị bỏ qua. Thách thức lời nói và hành vi phân biệt; người thành công làm người cố vấn; luật cần được chấp nhận nguyên tắc công bằng.",
+            "refs": [
+              "ID-fam-equal-opportunity",
+              "ID-env-ind-habits"
+            ]
+          },
+          {
+            "step": "3. Chính phủ và xã hội",
+            "think": "Phân biệt đối xử thường ẩn và mang tính cấu trúc: chỉ luật, giáo dục công, hỗ trợ nhóm thiệt thòi thay đổi mô hình không ai kiểm soát (tài trợ trường không đều, khác biệt nhà ở, thiên vị trong hệ thống tuyển dụng). Ví dụ công ty bỏ tên và ảnh khỏi hồ sơ giảm thiên vị ở vòng đầu; chính phủ có thể yêu cầu; học bổng, giáo dục sớm miễn phí, luật chống phân biệt.",
+            "refs": [
+              "ID-fam-equal-opportunity",
+              "EX-fam-blind-recruitment",
+              "ID-env-gov-rules",
+              "ID-env-ind-limits"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính phủ dẫn dắt bằng luật và hỗ trợ; cá nhân biến bình đẳng thành thực tế bằng hành vi công bằng hằng ngày.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-fam-equal-opportunity",
+          "EX-fam-blind-recruitment",
+          "PH-equal-opportunities",
+          "PH-whatever-their-background",
+          "PH-fair-treatment-begins-with-personal-attitude",
+          "PH-decide-whom-to-hire-and-promote",
+          "PH-welcome-newcomers",
+          "PH-judge-others-on-merit",
+          "PH-a-fair-chance-to-every-applicant",
+          "PH-overlooked",
+          "PH-challenge-discriminatory-remarks-and-behavio",
+          "PH-mentor-others",
+          "PH-hidden-and-structural",
+          "PH-only-laws-public-education-and-help-for-disa",
+          "PH-patterns-that-no-single-person-controls",
+          "PH-unequal-school-funding",
+          "PH-bias-in-recruitment-systems",
+          "PH-removes-names-and-photographs-from-applicati",
+          "PH-reduce-bias-at-the-first-stage-of-hiring",
+          "PH-anti-discrimination-laws",
+          "PH-a-real-chance"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    }
+  ]
+}

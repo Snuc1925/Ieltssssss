@@ -1,0 +1,131 @@
+{
+  "questionId": 222,
+  "text": "In many countries, a growing number of older people live alone, and some of them are isolated, ill or afraid. This essay will suggest practical measures that governments could take, focusing on care and safety in the home and on reducing loneliness and supporting independence.\n\nTo begin with, governments should help older people to stay safe and healthy at home. Home-care services, regular health visits, suitable housing and alarm systems reduce risks and allow people to live independently for longer. An eighty-year-old who falls at home and cannot reach the telephone, for example, may lie for hours unless an alarm system calls for help. Nurses who visit regularly can detect illness early, and help with shopping, meals and cleaning keeps people in their own homes instead of moving into expensive residential care. Grants for adapting homes, such as fitting handrails or a walk-in shower, prevent accidents. This costs less than hospital or care-home places and respects older people's wishes.\n\nIn addition, authorities should reduce loneliness and encourage social contact. Community centres, lunch clubs, befriending schemes in which volunteers visit or phone isolated people, and cheap public transport help older people to stay connected. Training in basic digital skills allows them to speak to their families by video and to access services online. Equally important, a regular check by neighbours, local officials or postal workers can identify those who are in difficulty. Governments should also ensure adequate pensions, since poverty makes isolation worse. These measures help older people to keep their dignity and reduce the pressure on health services and relatives.\n\nIn conclusion, providing safe, supported living at home and encouraging social contact offer the most realistic way of helping elderly people who live alone.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ hỗ trợ người già sống một mình",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu thực tế (ngày càng nhiều người già sống một mình, một số cô lập, ốm, sợ hãi); hai nhóm: chăm sóc và an toàn tại nhà; giảm cô đơn và hỗ trợ độc lập.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — an toàn và khoẻ mạnh tại nhà",
+        "think": "Dịch vụ chăm sóc tại nhà, thăm khám định kỳ, nhà ở phù hợp, hệ thống báo động giảm rủi ro, sống độc lập lâu hơn. Ví dụ cụ tám mươi tuổi ngã ở nhà không với tới điện thoại có thể nằm hàng giờ nếu không có chuông báo. Y tá thăm phát hiện bệnh sớm; giúp mua sắm, bữa ăn, dọn dẹp tránh vào viện dưỡng lão đắt; hỗ trợ cải tạo nhà; rẻ hơn bệnh viện, nhà dưỡng lão và tôn trọng mong muốn của người già.",
+        "refs": [
+          "ID-fam-elderly-alone",
+          "EX-fam-lonely-neighbour",
+          "ID-health-prevention-cheaper",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — cô đơn và kết nối",
+        "think": "Trung tâm cộng đồng, câu lạc bộ ăn trưa, chương trình bạn đồng hành, giao thông công cộng rẻ; kỹ năng số để nói chuyện video với gia đình và dùng dịch vụ trực tuyến; hàng xóm, quan chức địa phương, nhân viên bưu điện kiểm tra; lương hưu đủ sống vì nghèo làm cô lập tệ hơn; giữ phẩm giá và giảm áp lực lên y tế, người thân.",
+        "refs": [
+          "ID-fam-elderly-alone",
+          "ID-fam-tech-relationships",
+          "ID-health-longer-life",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-elderly-alone",
+      "EX-fam-lonely-neighbour"
+    ]
+  },
+  "chunks": [
+    [
+      "a growing number of older people live alone",
+      "ngày càng nhiều người cao tuổi sống một mình"
+    ],
+    [
+      "isolated, ill or afraid",
+      "bị cô lập, ốm hoặc sợ hãi"
+    ],
+    [
+      "safe and healthy at home",
+      "an toàn và khoẻ mạnh tại nhà"
+    ],
+    [
+      "Home-care services, regular health visits",
+      "dịch vụ chăm sóc tại nhà, thăm khám sức khoẻ định kỳ"
+    ],
+    [
+      "suitable housing and alarm systems",
+      "nhà ở phù hợp và hệ thống báo động"
+    ],
+    [
+      "live independently for longer",
+      "sống độc lập lâu hơn"
+    ],
+    [
+      "falls at home and cannot reach the telephone",
+      "ngã ở nhà và không với tới điện thoại"
+    ],
+    [
+      "lie for hours",
+      "nằm hàng giờ"
+    ],
+    [
+      "detect illness early",
+      "phát hiện bệnh sớm"
+    ],
+    [
+      "residential care",
+      "chăm sóc nội trú"
+    ],
+    [
+      "fitting handrails or a walk-in shower",
+      "lắp tay vịn hoặc vòi tắm không bậc"
+    ],
+    [
+      "respects older people's wishes",
+      "tôn trọng mong muốn của người cao tuổi"
+    ],
+    [
+      "reduce loneliness",
+      "giảm sự cô đơn"
+    ],
+    [
+      "lunch clubs, befriending schemes",
+      "câu lạc bộ ăn trưa, chương trình kết bạn"
+    ],
+    [
+      "isolated people",
+      "người bị cô lập"
+    ],
+    [
+      "basic digital skills",
+      "kỹ năng số cơ bản"
+    ],
+    [
+      "a regular check by neighbours",
+      "kiểm tra thường xuyên của hàng xóm"
+    ],
+    [
+      "adequate pensions",
+      "lương hưu đủ sống"
+    ],
+    [
+      "keep their dignity",
+      "giữ phẩm giá"
+    ],
+    [
+      "pressure on health services and relatives",
+      "áp lực lên dịch vụ y tế và người thân"
+    ]
+  ]
+}

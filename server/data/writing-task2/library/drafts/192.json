@@ -1,0 +1,128 @@
+{
+  "questionId": 192,
+  "text": "Charities, schools and neighbourhood groups depend on people who give their time freely, and opinions differ on whether individuals should be responsible for volunteering or whether society and government should encourage it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that volunteering depends on personal motivation. People volunteer when they care about a cause, and a gift of time is valuable precisely because it is freely given. Forcing or pressuring people may produce half-hearted effort and resentment, and a person who is made to volunteer may not value the work. A resident who chooses to help clean a river because she loves the place, for example, is likely to work harder and keep going longer than someone who is told to do so. Voluntary service also reflects a healthy civil society in which citizens, not officials, take the initiative to solve problems.\n\nOn the other hand, supporters of public encouragement point out that many people would volunteer if it were made easier. Schools can offer course credit for community service, employers can provide paid time off, and governments can fund volunteer organisations, provide training and recognise the work with awards or tax benefits. Many people do not volunteer simply because they do not know how to start or cannot spare the time. Such support does not remove the voluntary element, but it opens opportunities, especially for young people and those from poorer backgrounds who might not otherwise get involved. Well-run organisations also ensure that volunteers' time is used effectively.\n\nIn conclusion, both views have merit. Overall, I believe that volunteering should remain a personal choice, but governments, schools and employers should make it easier and more rewarding through practical support.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân chịu trách nhiệm hay xã hội / chính phủ khuyến khích tình nguyện",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (từ thiện, trường học, nhóm khu phố phụ thuộc người cho thời gian miễn phí) rồi hai phe; ý kiến riêng: giữ là lựa chọn cá nhân nhưng được hỗ trợ thực tế.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Tình nguyện phụ thuộc động cơ cá nhân: người ta làm khi quan tâm; tặng thời gian có giá trị vì tự nguyện; ép buộc gây nỗ lực nửa vời, bực bội. Ví dụ cư dân tự chọn dọn sông vì yêu nơi đó làm chăm hơn người bị bảo làm. Phản ánh xã hội dân sự lành mạnh nơi công dân tự chủ động.",
+        "refs": [
+          "ID-fam-volunteer-encourage",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội / chính phủ khuyến khích",
+        "think": "Nhiều người sẽ tình nguyện nếu dễ hơn: trường cho điểm quá trình, nhà tuyển dụng cho nghỉ phép có lương, chính phủ tài trợ tổ chức, đào tạo, ghi nhận bằng giải thưởng hoặc ưu đãi thuế; nhiều người không biết bắt đầu hoặc không có thời gian; mở cơ hội cho người trẻ và nghèo; tổ chức tốt dùng thời gian hiệu quả.",
+        "refs": [
+          "ID-fam-volunteer-encourage",
+          "ID-env-gov-rules",
+          "ID-env-partnership"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giữ là lựa chọn cá nhân nhưng chính phủ, trường, nhà tuyển dụng hỗ trợ thực tế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-volunteer-encourage"
+    ]
+  },
+  "chunks": [
+    [
+      "give their time freely",
+      "dành thời gian một cách tự nguyện"
+    ],
+    [
+      "responsible for volunteering",
+      "chịu trách nhiệm về tình nguyện"
+    ],
+    [
+      "society and government should encourage it",
+      "xã hội và chính phủ nên khuyến khích nó"
+    ],
+    [
+      "depends on personal motivation",
+      "phụ thuộc vào động cơ cá nhân"
+    ],
+    [
+      "a gift of time",
+      "món quà thời gian"
+    ],
+    [
+      "freely given",
+      "được cho một cách tự nguyện"
+    ],
+    [
+      "half-hearted effort and resentment",
+      "nỗ lực nửa vời và sự bực bội"
+    ],
+    [
+      "made to volunteer",
+      "bị buộc phải tình nguyện"
+    ],
+    [
+      "a healthy civil society",
+      "một xã hội dân sự lành mạnh"
+    ],
+    [
+      "take the initiative",
+      "chủ động"
+    ],
+    [
+      "made easier",
+      "được làm dễ dàng hơn"
+    ],
+    [
+      "course credit for community service",
+      "điểm quá trình cho hoạt động cộng đồng"
+    ],
+    [
+      "paid time off",
+      "nghỉ phép có lương"
+    ],
+    [
+      "fund volunteer organisations",
+      "tài trợ cho các tổ chức tình nguyện"
+    ],
+    [
+      "recognise the work with awards or tax benefits",
+      "ghi nhận công việc bằng giải thưởng hoặc ưu đãi thuế"
+    ],
+    [
+      "cannot spare the time",
+      "không thể dành thời gian"
+    ],
+    [
+      "voluntary element",
+      "yếu tố tự nguyện"
+    ],
+    [
+      "opens opportunities",
+      "mở ra cơ hội"
+    ],
+    [
+      "poorer backgrounds",
+      "xuất thân nghèo hơn"
+    ],
+    [
+      "a personal choice",
+      "một lựa chọn cá nhân"
+    ]
+  ]
+}

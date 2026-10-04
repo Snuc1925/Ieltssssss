@@ -1,0 +1,130 @@
+{
+  "questionId": 438,
+  "text": "In most countries, women still take more time off than men after a child is born, and this difference affects careers, pay and attitudes. This essay will explain two key ways in which family leave policies affect gender equality: by influencing who cares for children and by changing how employers and society treat men and women.\n\nFirst and foremost, paid leave for both parents helps to share care and reduces career penalties for women. When only mothers take leave, employers may see women as less committed, whereas fathers who take time off become more involved at home and make childcare normal for both sexes. A father who takes three months of paid leave, for example, learns to care for a baby on his own and shares the load with his partner afterwards. Research in Nordic countries suggests that earmarked leave for fathers, which is lost if not used, increases the share of care that fathers provide, and this leads to more equal division of housework in later years. Women can then return to work sooner and keep their careers moving.\n\nIn addition, leave policies shape attitudes and employer behaviour. If both sexes are expected to take leave, employers can no longer assume that only women will be absent, which reduces discrimination in hiring and promotion, and children grow up seeing both parents as carers. However, equality improves only when leave is well paid and fathers are encouraged to use it. Low pay discourages fathers from taking leave, long leave for mothers alone can make women's absence from work longer, and some workplaces still look down on men who ask for time off. Generous, flexible and shared leave, supported by campaigns, is therefore most effective.\n\nTo sum up, family leave policies can improve gender equality when they support shared care and change workplace attitudes. For these reasons, they should be designed with fathers as well as mothers in mind.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: chính sách nghỉ chăm con ảnh hưởng bình đẳng giới như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu thực tế (phụ nữ vẫn nghỉ nhiều hơn nam sau khi sinh, ảnh hưởng nghề nghiệp, lương, thái độ); báo hai cách: ảnh hưởng ai chăm trẻ; thay đổi cách nhà tuyển dụng và xã hội đối xử với nam nữ.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — chia sẻ chăm sóc",
+        "think": "Nghỉ có lương cho cả hai bố mẹ giúp chia sẻ và giảm bất lợi nghề nghiệp của phụ nữ; khi chỉ mẹ nghỉ, nhà tuyển dụng có thể coi phụ nữ kém cam kết; cha nghỉ thì gắn bó tại nhà và khiến chăm con thành bình thường cho cả hai giới. Ví dụ người cha nghỉ ba tháng có lương học tự chăm bé và chia sẻ gánh nặng sau đó. Nghiên cứu Bắc Âu: nghỉ dành riêng cho cha tăng phần chăm của cha, chia đều việc nhà về sau; phụ nữ quay lại làm sớm hơn.",
+        "refs": [
+          "ID-fam-leave-gender",
+          "EX-fam-paternity-leave",
+          "ID-fam-friendly-policies"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — thái độ + giới hạn",
+        "think": "Nếu cả hai giới dự kiến nghỉ, nhà tuyển dụng không thể mặc định chỉ phụ nữ vắng mặt nên giảm phân biệt khi tuyển dụng, thăng tiến; trẻ thấy cả hai bố mẹ là người chăm. Giới hạn: bình đẳng chỉ cải thiện khi nghỉ được trả lương tốt và cha được khuyến khích; lương thấp không khuyến khích cha; nghỉ dài chỉ cho mẹ kéo dài vắng mặt của phụ nữ; một số nơi coi thường đàn ông xin nghỉ; nghỉ hào phóng, linh hoạt, chia sẻ, kèm chiến dịch.",
+        "refs": [
+          "ID-fam-leave-gender",
+          "ID-fam-equal-opportunity",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện bình đẳng giới khi hỗ trợ chia sẻ chăm sóc và thay đổi thái độ nơi làm việc; nên thiết kế cho cả cha lẫn mẹ.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-leave-gender",
+      "EX-fam-paternity-leave"
+    ]
+  },
+  "chunks": [
+    [
+      "women still take more time off than men",
+      "phụ nữ vẫn nghỉ nhiều hơn nam"
+    ],
+    [
+      "a child is born",
+      "đứa trẻ chào đời"
+    ],
+    [
+      "family leave policies",
+      "chính sách nghỉ chăm con"
+    ],
+    [
+      "gender equality",
+      "bình đẳng giới"
+    ],
+    [
+      "influencing who cares for children",
+      "ảnh hưởng ai chăm sóc trẻ"
+    ],
+    [
+      "changing how employers and society treat men and women",
+      "thay đổi cách nhà tuyển dụng và xã hội đối xử với nam và nữ"
+    ],
+    [
+      "paid leave for both parents",
+      "nghỉ có lương cho cả hai bậc cha mẹ"
+    ],
+    [
+      "share care",
+      "chia sẻ việc chăm sóc"
+    ],
+    [
+      "career penalties for women",
+      "bất lợi nghề nghiệp đối với phụ nữ"
+    ],
+    [
+      "less committed",
+      "kém cam kết hơn"
+    ],
+    [
+      "become more involved at home",
+      "tham gia nhiều hơn ở nhà"
+    ],
+    [
+      "make childcare normal for both sexes",
+      "làm việc chăm con thành bình thường cho cả hai giới"
+    ],
+    [
+      "three months of paid leave",
+      "ba tháng nghỉ có lương"
+    ],
+    [
+      "share the load",
+      "chia sẻ gánh nặng"
+    ],
+    [
+      "earmarked leave for fathers",
+      "kỳ nghỉ dành riêng cho cha"
+    ],
+    [
+      "more equal division of housework",
+      "phân chia việc nhà đều hơn"
+    ],
+    [
+      "keep their careers moving",
+      "giữ sự nghiệp tiếp tục"
+    ],
+    [
+      "discrimination in hiring and promotion",
+      "phân biệt đối xử khi tuyển dụng và thăng tiến"
+    ],
+    [
+      "look down on men who ask for time off",
+      "coi thường đàn ông xin nghỉ"
+    ],
+    [
+      "generous, flexible and shared leave",
+      "nghỉ hào phóng, linh hoạt và chia sẻ"
+    ]
+  ]
+}

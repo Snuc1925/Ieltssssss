@@ -1,0 +1,131 @@
+{
+  "questionId": 488,
+  "text": "Most people agree that everyone should have a fair chance in life, whatever their background, but opinions differ on whether individuals should be responsible for ensuring equal opportunities or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that fair treatment begins with personal attitudes and choices. Employers decide whom to hire and promote, teachers decide how to treat pupils, and neighbours decide whether to welcome newcomers, so prejudice can be reduced only if individuals choose to judge others on merit. A manager who gives a fair chance to every applicant, for example, widens opportunities for people who might otherwise be overlooked. Individuals can also challenge discriminatory remarks and behaviour in their daily lives, and those who succeed can mentor others. Legal rules cannot succeed unless people accept the principle of fairness.\n\nOn the other hand, advocates of government and societal action point out that discrimination is often hidden and structural. Equal opportunity needs fair attitudes from individuals and strong rules and support from government. Only laws, public education and help for disadvantaged groups can change patterns that no single person controls, such as unequal school funding, differences in housing and bias in recruitment systems. A company that removes names and photographs from applications, for example, can reduce bias at the first stage of hiring, and governments can require such practices. Scholarships, free early education and anti-discrimination laws help to give people from poorer or minority backgrounds a real chance.\n\nIn conclusion, both views have merit. Overall, I believe that governments must take the lead by setting rules and providing support, while individuals make equality real through fair behaviour in daily life.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ đảm bảo cơ hội bình đẳng",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu đồng thuận (mọi người nên có cơ hội công bằng dù xuất thân) rồi hai phe; ý kiến riêng chính phủ dẫn dắt, cá nhân biến bình đẳng thành thực tế qua hành vi công bằng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Đối xử công bằng bắt đầu từ thái độ và lựa chọn cá nhân: nhà tuyển dụng quyết định thuê và thăng chức, giáo viên đối xử với học sinh, hàng xóm đón nhận người mới; định kiến chỉ giảm nếu cá nhân chọn đánh giá theo năng lực. Ví dụ quản lý cho mọi ứng viên cơ hội công bằng mở rộng cơ hội cho người có thể bị bỏ qua. Thách thức lời nói và hành vi phân biệt; người thành công làm người cố vấn; luật cần được chấp nhận nguyên tắc công bằng.",
+        "refs": [
+          "ID-fam-equal-opportunity",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Chính phủ và xã hội",
+        "think": "Phân biệt đối xử thường ẩn và mang tính cấu trúc: chỉ luật, giáo dục công, hỗ trợ nhóm thiệt thòi thay đổi mô hình không ai kiểm soát (tài trợ trường không đều, khác biệt nhà ở, thiên vị trong hệ thống tuyển dụng). Ví dụ công ty bỏ tên và ảnh khỏi hồ sơ giảm thiên vị ở vòng đầu; chính phủ có thể yêu cầu; học bổng, giáo dục sớm miễn phí, luật chống phân biệt.",
+        "refs": [
+          "ID-fam-equal-opportunity",
+          "EX-fam-blind-recruitment",
+          "ID-env-gov-rules",
+          "ID-env-ind-limits"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ dẫn dắt bằng luật và hỗ trợ; cá nhân biến bình đẳng thành thực tế bằng hành vi công bằng hằng ngày.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-equal-opportunity",
+      "EX-fam-blind-recruitment"
+    ]
+  },
+  "chunks": [
+    [
+      "a fair chance in life",
+      "cơ hội công bằng trong cuộc sống"
+    ],
+    [
+      "equal opportunities",
+      "cơ hội bình đẳng"
+    ],
+    [
+      "whatever their background",
+      "bất kể xuất thân"
+    ],
+    [
+      "fair treatment begins with personal attitudes and choices",
+      "đối xử công bằng bắt đầu từ thái độ và lựa chọn cá nhân"
+    ],
+    [
+      "decide whom to hire and promote",
+      "quyết định thuê và thăng chức ai"
+    ],
+    [
+      "welcome newcomers",
+      "chào đón người mới"
+    ],
+    [
+      "judge others on merit",
+      "đánh giá người khác theo năng lực"
+    ],
+    [
+      "a fair chance to every applicant",
+      "cơ hội công bằng cho mọi ứng viên"
+    ],
+    [
+      "overlooked",
+      "bị bỏ qua"
+    ],
+    [
+      "challenge discriminatory remarks and behaviour",
+      "thách thức lời nói và hành vi phân biệt đối xử"
+    ],
+    [
+      "mentor others",
+      "làm cố vấn cho người khác"
+    ],
+    [
+      "hidden and structural",
+      "ẩn và mang tính cấu trúc"
+    ],
+    [
+      "Only laws, public education and help for disadvantaged groups",
+      "chỉ luật pháp, giáo dục công và hỗ trợ nhóm thiệt thòi"
+    ],
+    [
+      "patterns that no single person controls",
+      "những quy luật không ai riêng lẻ kiểm soát"
+    ],
+    [
+      "unequal school funding",
+      "tài trợ trường học không đồng đều"
+    ],
+    [
+      "bias in recruitment systems",
+      "thiên vị trong hệ thống tuyển dụng"
+    ],
+    [
+      "removes names and photographs from applications",
+      "bỏ tên và ảnh khỏi hồ sơ xin việc"
+    ],
+    [
+      "reduce bias at the first stage of hiring",
+      "giảm thiên vị ở giai đoạn đầu tuyển dụng"
+    ],
+    [
+      "anti-discrimination laws",
+      "luật chống phân biệt đối xử"
+    ],
+    [
+      "a real chance",
+      "cơ hội thực sự"
+    ]
+  ]
+}

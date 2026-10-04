@@ -1,0 +1,129 @@
+{
+  "questionId": 369,
+  "text": "From street parties to harvest fairs and religious celebrations, communities around the world mark special days together, and many people say that community festivals strengthen social bonds. I agree with this view, since festivals bring neighbours together and create shared memories, although they work best when everyone can take part.\n\nTo begin with, community festivals bring neighbours together and create shared memories. People who might not normally meet cook, perform and celebrate side by side, which builds trust, pride in the place and a sense of belonging. A street party where every household brings a dish, for example, lets neighbours who never spoke to each other become friends. Preparation also requires cooperation, since volunteers organise stalls, music and safety, and working together on a common goal strengthens relationships. Shared memories of such events give a community a sense of history and identity that lasts long after the festival is over.\n\nFurthermore, festivals celebrate and preserve local culture, which helps people to appreciate their heritage and to share it with newcomers. They can also bring different generations and groups together, from children to grandparents and from long-term residents to migrants. However, festivals do not automatically strengthen bonds. If prices are high, if the programme reflects only one group or if noise and crowds upset residents, some people may feel excluded or annoyed. Organisers should therefore make events free or cheap, involve people from all parts of the community in planning and consider the needs of neighbours. When these steps are taken, festivals can be one of the simplest and most enjoyable ways to build community spirit.\n\nIn conclusion, I agree that community festivals strengthen social bonds, because they bring people together and create shared memories, provided that they are inclusive and well organised.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: lễ hội cộng đồng củng cố gắn kết xã hội — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu hình ảnh (tiệc đường phố, hội mùa gặt, lễ tôn giáo) rồi agree + lý do + điều kiện (mọi người cùng tham gia được).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — gặp gỡ, ký ức chung",
+        "think": "Người thường không gặp nhau nấu ăn, biểu diễn, ăn mừng cạnh nhau xây lòng tin, tự hào, cảm giác thuộc về. Ví dụ tiệc đường phố mỗi nhà mang một món giúp hàng xóm chưa từng nói chuyện thành bạn. Chuẩn bị đòi hỏi hợp tác (gian hàng, nhạc, an toàn); làm việc vì mục tiêu chung củng cố quan hệ; ký ức chung cho cộng đồng cảm giác lịch sử và bản sắc.",
+        "refs": [
+          "ID-fam-community-festival",
+          "EX-fam-street-party",
+          "ID-trv-festival"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Lễ hội tôn vinh và gìn giữ văn hoá địa phương, giúp trân trọng di sản và chia sẻ với người mới; gắn kết các thế hệ và nhóm. Giới hạn: không tự động củng cố gắn kết; giá cao, chương trình chỉ phản ánh một nhóm, ồn và đông phiền cư dân khiến một số thấy bị loại; ban tổ chức: miễn phí hoặc rẻ, cho người mọi phần cộng đồng tham gia lập kế hoạch, tính đến hàng xóm.",
+        "refs": [
+          "ID-fam-community-festival",
+          "ID-fam-traditions-identity",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý vì gắn kết người và tạo ký ức chung, với điều kiện hoà nhập và tổ chức tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-community-festival",
+      "EX-fam-street-party"
+    ]
+  },
+  "chunks": [
+    [
+      "street parties to harvest fairs",
+      "từ tiệc đường phố đến hội mùa gặt"
+    ],
+    [
+      "mark special days together",
+      "cùng kỷ niệm những ngày đặc biệt"
+    ],
+    [
+      "community festivals strengthen social bonds",
+      "lễ hội cộng đồng củng cố gắn kết xã hội"
+    ],
+    [
+      "bring neighbours together",
+      "kéo hàng xóm lại gần nhau"
+    ],
+    [
+      "create shared memories",
+      "tạo ký ức chung"
+    ],
+    [
+      "cook, perform and celebrate side by side",
+      "nấu ăn, biểu diễn và ăn mừng cạnh nhau"
+    ],
+    [
+      "builds trust, pride in the place",
+      "xây lòng tin, tự hào về nơi mình sống"
+    ],
+    [
+      "a sense of belonging",
+      "cảm giác thuộc về"
+    ],
+    [
+      "brings a dish",
+      "mang theo một món ăn"
+    ],
+    [
+      "never spoke to each other",
+      "chưa bao giờ nói chuyện với nhau"
+    ],
+    [
+      "organise stalls, music and safety",
+      "tổ chức gian hàng, âm nhạc và an ninh"
+    ],
+    [
+      "a common goal",
+      "một mục tiêu chung"
+    ],
+    [
+      "a sense of history and identity",
+      "cảm giác về lịch sử và bản sắc"
+    ],
+    [
+      "preserve local culture",
+      "gìn giữ văn hoá địa phương"
+    ],
+    [
+      "appreciate their heritage",
+      "trân trọng di sản của họ"
+    ],
+    [
+      "long-term residents to migrants",
+      "từ cư dân lâu năm đến người nhập cư"
+    ],
+    [
+      "feel excluded or annoyed",
+      "cảm thấy bị loại trừ hoặc khó chịu"
+    ],
+    [
+      "free or cheap",
+      "miễn phí hoặc rẻ"
+    ],
+    [
+      "people from all parts of the community",
+      "người từ mọi phần của cộng đồng"
+    ],
+    [
+      "community spirit",
+      "tinh thần cộng đồng"
+    ]
+  ]
+}

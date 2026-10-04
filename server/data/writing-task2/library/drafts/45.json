@@ -1,0 +1,128 @@
+{
+  "questionId": 45,
+  "text": "Hospitals, schools and charities rely on people who give their time without payment, and opinions differ on whether volunteering mainly benefits society or primarily benefits the volunteers. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that volunteering benefits society. Volunteers provide help that public services cannot always afford, from tutoring to care for older people, and many charities could not survive without them. A retired teacher who helps children to read after school, for example, offers support that the school could not pay for. Volunteering also builds community, since people who work together on a common cause meet neighbours they would not otherwise know and develop trust. In emergencies, from floods to pandemics, volunteers have often made the difference between a coordinated response and chaos. The work also shows that people care about each other beyond family ties.\n\nOn the other hand, others point out that volunteers themselves gain a great deal. They learn skills such as organising, communicating and teamwork, which may help them to find paid work, and they gain friendships, confidence and a sense of purpose. For young people, volunteering can provide experience that improves a career application, and for retired people it can reduce loneliness. A retired teacher who helps children to read, for instance, finds new purpose herself. Some critics suggest that this self-interest means volunteering is not truly selfless, although such motives do not reduce the value of the help given.\n\nIn conclusion, both views have merit. Personally, I believe that volunteering benefits both society and the volunteer, and that this mutual benefit is the reason why it works so well.",
+  "analysis": {
+    "type_vi": "Discuss both views: tình nguyện có lợi chủ yếu cho xã hội hay cho người tình nguyện",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (bệnh viện, trường, tổ chức từ thiện dựa vào người cho thời gian không công) rồi hai phe; ý kiến riêng 'có lợi cho cả hai'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe 'có lợi cho xã hội'",
+        "think": "Tình nguyện viên giúp mà dịch vụ công không đủ tiền (kèm cặp, chăm người già); nhiều tổ chức từ thiện không sống nổi nếu thiếu họ. Ví dụ giáo viên về hưu giúp trẻ đọc sau giờ học. Xây dựng cộng đồng: gặp hàng xóm, tin tưởng; trong khẩn cấp (lũ, đại dịch) tình nguyện viên tạo khác biệt giữa ứng phó phối hợp và hỗn loạn.",
+        "refs": [
+          "ID-fam-volunteering",
+          "EX-fam-reading-volunteer"
+        ]
+      },
+      {
+        "step": "3. Phe 'có lợi cho người làm'",
+        "think": "Học kỹ năng (tổ chức, giao tiếp, làm việc nhóm) có thể giúp tìm việc; bạn bè, tự tin, ý nghĩa; người trẻ có kinh nghiệm cải thiện hồ sơ, người về hưu bớt cô đơn; giáo viên về hưu tìm thấy mục đích mới. Một số chỉ trích: không hoàn toàn vị tha, nhưng động cơ này không giảm giá trị sự giúp đỡ.",
+        "refs": [
+          "ID-fam-volunteering",
+          "ID-health-longer-life"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi cho cả hai và chính sự hỗ tương này là lý do tình nguyện hiệu quả.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-volunteering",
+      "EX-fam-reading-volunteer"
+    ]
+  },
+  "chunks": [
+    [
+      "give their time without payment",
+      "dành thời gian không lấy tiền"
+    ],
+    [
+      "volunteering benefits society",
+      "tình nguyện có lợi cho xã hội"
+    ],
+    [
+      "primarily benefits the volunteers",
+      "chủ yếu có lợi cho người tình nguyện"
+    ],
+    [
+      "help that public services cannot always afford",
+      "sự giúp đỡ mà dịch vụ công không phải lúc nào cũng đủ tiền cung cấp"
+    ],
+    [
+      "tutoring to care for older people",
+      "kèm cặp đến chăm sóc người già"
+    ],
+    [
+      "could not survive without them",
+      "không thể tồn tại nếu thiếu họ"
+    ],
+    [
+      "a retired teacher",
+      "một giáo viên về hưu"
+    ],
+    [
+      "help children to read after school",
+      "giúp trẻ đọc sách sau giờ học"
+    ],
+    [
+      "builds community",
+      "xây dựng cộng đồng"
+    ],
+    [
+      "a common cause",
+      "một mục tiêu chung"
+    ],
+    [
+      "develop trust",
+      "phát triển lòng tin"
+    ],
+    [
+      "a coordinated response and chaos",
+      "phản ứng có phối hợp và hỗn loạn"
+    ],
+    [
+      "care about each other beyond family ties",
+      "quan tâm lẫn nhau vượt ngoài quan hệ gia đình"
+    ],
+    [
+      "learn skills such as organising, communicating and teamwork",
+      "học kỹ năng như tổ chức, giao tiếp và làm việc nhóm"
+    ],
+    [
+      "find paid work",
+      "tìm việc có lương"
+    ],
+    [
+      "friendships, confidence and a sense of purpose",
+      "tình bạn, sự tự tin và cảm giác có mục đích"
+    ],
+    [
+      "improves a career application",
+      "cải thiện hồ sơ xin việc"
+    ],
+    [
+      "reduce loneliness",
+      "giảm cô đơn"
+    ],
+    [
+      "not truly selfless",
+      "không hoàn toàn vị tha"
+    ],
+    [
+      "mutual benefit",
+      "lợi ích hỗ tương"
+    ]
+  ]
+}

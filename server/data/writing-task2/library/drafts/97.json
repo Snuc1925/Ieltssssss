@@ -1,0 +1,129 @@
+{
+  "questionId": 97,
+  "text": "The first few years of life shape a child's health, learning and behaviour for decades, and many governments now invest in nurseries and early education. This essay will outline two principal benefits for a country that focuses on early childhood care: better outcomes for children and wider gains for families and the economy.\n\nFirst and foremost, good care in the early years gives children a lasting advantage. The brain develops fastest before the age of five, and quality nurseries build language, social skills and curiosity. A child who spends mornings in a good nursery, for example, enters school already able to listen, share and speak in sentences. Children from disadvantaged homes benefit most, since they may have fewer books and less conversation at home, so early care narrows the gap before formal schooling starts. As a result, children arrive at school ready to learn, and they are less likely to need extra support or to drop out later. Trained staff can also notice health or developmental problems early.\n\nIn addition, early childhood care brings wider benefits to families and the economy. When affordable care is available, parents, especially mothers, can return to work, which raises household income and tax revenue and supports gender equality. Research in several countries has found that every unit of money spent on high-quality early education returns several times as much through better school results, higher earnings and lower costs for health, welfare and crime. Although high-quality care requires investment in staff training and buildings, and poor-quality care can do little good, the long-term returns are large. Countries such as Denmark and Sweden, where early care is widely available and highly regarded, show how a society can benefit.\n\nTo sum up, early childhood care brings clear benefits to a country, above all better outcomes for children and wider economic gains. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chăm sóc trẻ nhỏ — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu tầm quan trọng của những năm đầu đời (định hình sức khoẻ, học tập, hành vi hàng chục năm); báo hai lợi ích: kết quả tốt hơn cho trẻ; lợi ích rộng hơn cho gia đình và kinh tế.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — trẻ",
+        "think": "Não phát triển nhanh nhất trước năm tuổi; nhà trẻ chất lượng xây ngôn ngữ, kỹ năng xã hội, tò mò. Ví dụ đứa trẻ dành buổi sáng ở nhà trẻ tốt vào trường đã biết lắng nghe, chia sẻ, nói câu. Trẻ nhà khó khăn hưởng lợi nhất vì ít sách và đối thoại ở nhà; thu hẹp khoảng cách trước khi vào trường; nhân viên được đào tạo nhận ra vấn đề sức khoẻ, phát triển sớm.",
+        "refs": [
+          "ID-fam-early-childhood",
+          "EX-fam-nursery-reader",
+          "ID-edu-economy-skills"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — gia đình và kinh tế",
+        "think": "Chăm sóc giá phải chăng cho cha mẹ, nhất là mẹ, quay lại làm việc: tăng thu nhập hộ, thuế, bình đẳng giới; nghiên cứu cho thấy mỗi đồng chi cho giáo dục sớm chất lượng cao hoàn nhiều lần qua kết quả học, thu nhập, chi phí y tế, phúc lợi, tội phạm thấp hơn. Nhượng bộ: cần đầu tư đào tạo nhân viên; chất lượng kém ít tác dụng; ví dụ Đan Mạch, Thuỵ Điển.",
+        "refs": [
+          "ID-fam-early-childhood",
+          "ID-health-invest-more",
+          "ID-fam-birth-solutions"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-fam-early-childhood",
+      "EX-fam-nursery-reader"
+    ]
+  },
+  "chunks": [
+    [
+      "shape a child's health, learning and behaviour",
+      "định hình sức khoẻ, học tập và hành vi của trẻ"
+    ],
+    [
+      "nurseries and early education",
+      "nhà trẻ và giáo dục sớm"
+    ],
+    [
+      "early childhood care",
+      "chăm sóc trẻ nhỏ"
+    ],
+    [
+      "better outcomes for children",
+      "kết quả tốt hơn cho trẻ"
+    ],
+    [
+      "wider gains for families and the economy",
+      "lợi ích rộng hơn cho gia đình và kinh tế"
+    ],
+    [
+      "a lasting advantage",
+      "lợi thế lâu dài"
+    ],
+    [
+      "The brain develops fastest before the age of five",
+      "não phát triển nhanh nhất trước năm tuổi"
+    ],
+    [
+      "build language, social skills and curiosity",
+      "xây dựng ngôn ngữ, kỹ năng xã hội và sự tò mò"
+    ],
+    [
+      "listen, share and speak in sentences",
+      "lắng nghe, chia sẻ và nói thành câu"
+    ],
+    [
+      "disadvantaged homes",
+      "gia đình khó khăn"
+    ],
+    [
+      "narrows the gap before formal schooling starts",
+      "thu hẹp khoảng cách trước khi vào học chính thức"
+    ],
+    [
+      "ready to learn",
+      "sẵn sàng học"
+    ],
+    [
+      "drop out later",
+      "bỏ học về sau"
+    ],
+    [
+      "health or developmental problems",
+      "vấn đề sức khoẻ hoặc phát triển"
+    ],
+    [
+      "return to work",
+      "trở lại làm việc"
+    ],
+    [
+      "raises household income and tax revenue",
+      "tăng thu nhập hộ gia đình và nguồn thu thuế"
+    ],
+    [
+      "supports gender equality",
+      "hỗ trợ bình đẳng giới"
+    ],
+    [
+      "returns several times as much",
+      "hoàn lại nhiều lần"
+    ],
+    [
+      "higher earnings and lower costs",
+      "thu nhập cao hơn và chi phí thấp hơn"
+    ],
+    [
+      "staff training and buildings",
+      "đào tạo nhân viên và cơ sở vật chất"
+    ]
+  ]
+}
