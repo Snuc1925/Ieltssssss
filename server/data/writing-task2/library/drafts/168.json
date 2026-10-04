@@ -1,0 +1,120 @@
+{
+  "questionId": 168,
+  "text": "Since the pandemic, many parents have worked at home while children study or play nearby, and this essay will discuss the advantages and disadvantages of working from home for families before explaining my own view.\n\nOn the positive side, working from home gives families time and flexibility. Parents save travel time, can meet children after school and share chores. A father who finishes work at the kitchen table, for example, can cook dinner with his children instead of arriving home exhausted at eight. Parents are also nearby if a child falls ill, and mothers in particular can stay in their careers instead of leaving them for childcare. Families may save money on transport, lunches and childcare, and children see how their parents work, which can be educational. The relaxed atmosphere reduces the stress of the morning rush.\n\nOn the negative side, working from home can blur work and home life. Interruptions, small homes and the pressure to be always available can raise stress. A parent who attends an online meeting while a toddler cries, for example, may feel that she is failing both as an employee and as a mother. Without a separate workspace, work spreads into evenings and weekends, and partners may argue about who should supervise the children. Isolation from colleagues can also reduce motivation. Nevertheless, these problems can be reduced by keeping a regular schedule, creating a quiet corner for work and agreeing on rules with the family.\n\nIn conclusion, working from home brings real benefits to families, although it demands discipline. On balance, I believe that the advantages outweigh the disadvantages for most households.",
+  "analysis": {
+    "type_vi": "A/D: làm việc tại nhà với gia đình",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu bối cảnh sau đại dịch.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Thời gian và linh hoạt: ví dụ bố xong việc ở bàn bếp nấu ăn cùng con; gần khi con ốm; mẹ giữ sự nghiệp; tiết kiệm chi phí; con thấy cha mẹ làm việc.",
+        "refs": [
+          "ID-work-home-families"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Làm mờ ranh giới: gián đoạn, nhà nhỏ, áp lực luôn sẵn sàng; ví dụ họp trực tuyến khi con khóc; không gian riêng; công việc tràn sang tối; cô lập. Giải pháp lịch, góc yên tĩnh, quy tắc.",
+        "refs": [
+          "ID-work-home-families",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược với đa số.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-home-families"
+    ]
+  },
+  "chunks": [
+    [
+      "worked at home while children study or play nearby",
+      "làm việc ở nhà trong khi con học hay chơi gần đó"
+    ],
+    [
+      "working from home for families",
+      "làm việc tại nhà đối với các gia đình"
+    ],
+    [
+      "time and flexibility",
+      "thời gian và sự linh hoạt"
+    ],
+    [
+      "Parents save travel time",
+      "cha mẹ tiết kiệm thời gian đi lại"
+    ],
+    [
+      "share chores",
+      "chia sẻ việc nhà"
+    ],
+    [
+      "finishes work at the kitchen table",
+      "làm xong việc ở bàn bếp"
+    ],
+    [
+      "cook dinner with his children",
+      "nấu bữa tối cùng các con"
+    ],
+    [
+      "arriving home exhausted",
+      "về nhà trong tình trạng kiệt sức"
+    ],
+    [
+      "stay in their careers",
+      "giữ lại sự nghiệp"
+    ],
+    [
+      "save money on transport, lunches and childcare",
+      "tiết kiệm tiền đi lại, bữa trưa và giữ trẻ"
+    ],
+    [
+      "the stress of the morning rush",
+      "áp lực của buổi sáng vội vã"
+    ],
+    [
+      "blur work and home life",
+      "làm mờ ranh giới công việc và đời sống gia đình"
+    ],
+    [
+      "Interruptions, small homes",
+      "sự gián đoạn, nhà nhỏ"
+    ],
+    [
+      "always available",
+      "luôn sẵn sàng"
+    ],
+    [
+      "a toddler cries",
+      "đứa trẻ mới biết đi khóc"
+    ],
+    [
+      "a separate workspace",
+      "không gian làm việc riêng"
+    ],
+    [
+      "work spreads into evenings and weekends",
+      "công việc lấn sang buổi tối và cuối tuần"
+    ],
+    [
+      "a quiet corner for work",
+      "một góc yên tĩnh để làm việc"
+    ],
+    [
+      "agreeing on rules",
+      "thống nhất các quy tắc"
+    ]
+  ]
+}

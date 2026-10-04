@@ -1,0 +1,117 @@
+{
+  "questionId": 178,
+  "text": "Some employees would like to arrive at ten and leave at six, while others prefer a regular nine-to-five day, and opinions differ on whether flexible or fixed working hours are better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of flexible hours argue that they raise satisfaction. Employees who choose when to start can avoid traffic and meet family needs. A parent who starts at ten after taking children to school, for example, arrives calm and works with more concentration. People are not equally alert at the same time of day, so those who work when they feel best are more productive. Flexibility also helps people to attend appointments and to study, and companies that offer it attract talented staff and reduce absence. Such arrangements show that employers trust their staff, which strengthens loyalty.\n\nOn the other hand, supporters of fixed hours argue that they help teamwork and routine. A fixed schedule makes meetings easy, sets clear limits and gives life a predictable rhythm. A customer service team, for example, must be available during stated hours, and colleagues who work at different times may find it hard to cooperate. Some people also find that a flexible system leads to working at all hours, since the boundary between work and private life disappears. Fixed hours make it easier to plan activities and to separate work from rest. Core hours with flexibility around them combine the advantages of both approaches.\n\nIn conclusion, both views have merit. Overall, I believe that flexible hours are preferable where the job allows them, provided that there are agreed core times for meetings and teamwork.",
+  "analysis": {
+    "type_vi": "Discuss both views: giờ linh hoạt hay cố định",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người đến 10 giờ vs 9 đến 5.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Linh hoạt",
+        "think": "Tăng hài lòng: tránh tắc đường, nhu cầu gia đình; ví dụ phụ huynh đưa con rồi bắt đầu 10 giờ bình tĩnh; mỗi người tỉnh táo giờ khác; đi khám, học; thu hút nhân tài; tin tưởng.",
+        "refs": [
+          "ID-work-flexible-hours"
+        ]
+      },
+      {
+        "step": "3. Cố định",
+        "think": "Phối hợp và nề nếp: họp dễ, ranh giới rõ; ví dụ nhóm chăm sóc khách hàng; khó hợp tác; linh hoạt thành làm mọi giờ; giờ cốt lõi kết hợp.",
+        "refs": [
+          "ID-work-flexible-hours"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Linh hoạt khi được, kèm giờ cốt lõi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-flexible-hours"
+    ]
+  },
+  "chunks": [
+    [
+      "arrive at ten and leave at six",
+      "đến lúc mười giờ và rời lúc sáu giờ"
+    ],
+    [
+      "a regular nine-to-five day",
+      "ngày làm việc từ chín đến năm giờ đều đặn"
+    ],
+    [
+      "flexible or fixed working hours",
+      "giờ làm linh hoạt hay cố định"
+    ],
+    [
+      "raise satisfaction",
+      "nâng cao sự hài lòng"
+    ],
+    [
+      "avoid traffic and meet family needs",
+      "tránh tắc đường và đáp ứng nhu cầu gia đình"
+    ],
+    [
+      "after taking children to school",
+      "sau khi đưa con đến trường"
+    ],
+    [
+      "more concentration",
+      "tập trung hơn"
+    ],
+    [
+      "not equally alert at the same time of day",
+      "không tỉnh táo như nhau vào cùng giờ"
+    ],
+    [
+      "attend appointments",
+      "đi đến các cuộc hẹn"
+    ],
+    [
+      "attract talented staff and reduce absence",
+      "thu hút nhân tài và giảm vắng mặt"
+    ],
+    [
+      "trust their staff",
+      "tin tưởng nhân viên"
+    ],
+    [
+      "help teamwork and routine",
+      "hỗ trợ làm việc nhóm và nếp sống"
+    ],
+    [
+      "makes meetings easy, sets clear limits",
+      "giúp họp dễ dàng, đặt giới hạn rõ ràng"
+    ],
+    [
+      "a predictable rhythm",
+      "nhịp sống có thể dự đoán"
+    ],
+    [
+      "a customer service team",
+      "nhóm dịch vụ khách hàng"
+    ],
+    [
+      "the boundary between work and private life disappears",
+      "ranh giới giữa công việc và đời tư biến mất"
+    ],
+    [
+      "Core hours",
+      "giờ làm việc cốt lõi"
+    ],
+    [
+      "where the job allows them",
+      "khi công việc cho phép"
+    ]
+  ]
+}

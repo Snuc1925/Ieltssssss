@@ -1,0 +1,116 @@
+{
+  "questionId": 48,
+  "text": "Since 2020, millions of employees have worked from home for part or all of the week, and the question is whether remote working is a good development. This essay will discuss its advantages and disadvantages before explaining my own view.\n\nOn the positive side, remote work saves time and widens opportunity. Workers avoid commuting and can live in cheaper areas, and firms can recruit from a wider pool of talent. A parent who works from home, for example, can take children to school and still complete a full day. Employees often report greater satisfaction because they control their schedule, and companies can reduce spending on office space. Many studies also show that people who work quietly at home complete focused tasks faster, and fewer commuters means less traffic and pollution.\n\nOn the negative side, remote work can isolate staff and weaken teamwork. Loneliness, weaker collaboration and blurred limits between work and home may reduce wellbeing and creativity. Newcomers find it harder to learn from colleagues, and managers struggle to monitor progress and to build a shared culture. Not all jobs can be done remotely, which creates inequality between office staff and those in shops and factories. Some people also lack a quiet space at home, or find that they work longer hours because they can never leave the office. Hybrid arrangements, in which employees attend the workplace for part of the week, often combine the benefits of both patterns.\n\nIn conclusion, remote work offers flexibility but carries social costs. On balance, I believe that its advantages outweigh its disadvantages when it is organised in a hybrid form with regular face-to-face contact.",
+  "analysis": {
+    "type_vi": "A/D: làm việc từ xa",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu bối cảnh từ 2020; kết luận hybrid.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Tiết kiệm thời gian, mở rộng cơ hội: không đi lại, sống nơi rẻ hơn, công ty tuyển rộng; ví dụ phụ huynh đưa con đi học vẫn làm đủ ngày; hài lòng cao; giảm chi phí văn phòng; làm nhanh việc cần tập trung; ít giao thông, ô nhiễm.",
+        "refs": [
+          "ID-work-remote"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Cô lập, yếu làm việc nhóm; người mới khó học; quản lý khó theo dõi; bất bình đẳng giữa các nghề; thiếu chỗ yên tĩnh; làm lâu hơn. Hybrid kết hợp.",
+        "refs": [
+          "ID-work-remote",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu hybrid.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-remote"
+    ]
+  },
+  "chunks": [
+    [
+      "worked from home for part or all of the week",
+      "làm việc tại nhà một phần hoặc cả tuần"
+    ],
+    [
+      "remote working",
+      "làm việc từ xa"
+    ],
+    [
+      "saves time and widens opportunity",
+      "tiết kiệm thời gian và mở rộng cơ hội"
+    ],
+    [
+      "Workers avoid commuting",
+      "người lao động tránh phải đi lại"
+    ],
+    [
+      "recruit from a wider pool of talent",
+      "tuyển dụng từ nguồn nhân tài rộng hơn"
+    ],
+    [
+      "takes children to school",
+      "đưa con đến trường"
+    ],
+    [
+      "control their schedule",
+      "kiểm soát lịch làm việc"
+    ],
+    [
+      "reduce spending on office space",
+      "giảm chi cho không gian văn phòng"
+    ],
+    [
+      "focused tasks",
+      "công việc cần tập trung"
+    ],
+    [
+      "less traffic and pollution",
+      "ít kẹt xe và ô nhiễm hơn"
+    ],
+    [
+      "isolate staff and weaken teamwork",
+      "cô lập nhân viên và làm yếu tinh thần đồng đội"
+    ],
+    [
+      "blurred limits between work and home",
+      "ranh giới mờ giữa công việc và gia đình"
+    ],
+    [
+      "learn from colleagues",
+      "học hỏi từ đồng nghiệp"
+    ],
+    [
+      "monitor progress",
+      "theo dõi tiến độ"
+    ],
+    [
+      "a shared culture",
+      "văn hoá chung"
+    ],
+    [
+      "inequality between office staff",
+      "bất bình đẳng giữa nhân viên văn phòng"
+    ],
+    [
+      "Hybrid arrangements",
+      "mô hình kết hợp"
+    ],
+    [
+      "face-to-face contact",
+      "tiếp xúc trực tiếp"
+    ]
+  ]
+}

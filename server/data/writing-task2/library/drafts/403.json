@@ -1,0 +1,122 @@
+{
+  "questionId": 403,
+  "text": "Many students and graduates accept internships in which they receive little money, and some people say that paid internships exploit young workers. I disagree to a large extent, since interns gain valuable experience, although unfair practices should be controlled.\n\nTo begin with, paid internships are not exploitation when they teach real skills. Interns gain experience and contacts that help their careers. A graduate who spends six months in a newspaper office, for example, learns how to write for deadlines and meets editors who may later offer her a job. Employers must spend time training and supervising interns, so that the arrangement benefits both sides, and the small payment recognises the effort of the intern. Without internships, many young people would find it almost impossible to obtain a first position, since most employers ask for experience that they cannot yet have.\n\nHowever, some firms do use interns as cheap labour with little training, so rules on pay, hours and tasks are needed. A company that asks interns to make coffee and copy documents for a year, for example, is plainly using them to save the cost of staff. Unpaid or very low-paid placements also favour wealthy families, who can support their children, and exclude talented young people from poorer homes. Governments should therefore require at least a minimum wage, limit the length of placements and check that the work involves real learning. Universities can also monitor the quality of the posts that they recommend.\n\nIn conclusion, I disagree that paid internships exploit young workers, provided that they are fairly regulated, because good internships benefit both interns and employers.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: thực tập có lương bóc lột người trẻ — disagree phần lớn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thực tập sinh nhận ít tiền; disagree phần lớn.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Không bóc lột khi dạy kỹ năng thật: kinh nghiệm, kết nối; ví dụ cử nhân 6 tháng ở toà soạn học viết đúng hạn, gặp biên tập; hai bên cùng lợi; không có thực tập khó có việc đầu.",
+        "refs": [
+          "ID-work-paid-internship",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Một số công ty dùng lao động rẻ: ví dụ pha cà phê, photo cả năm; thiên vị nhà giàu; quy định lương tối thiểu, giới hạn thời gian, kiểm tra học thực chất; trường giám sát.",
+        "refs": [
+          "ID-work-paid-internship",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không bóc lột nếu quy định tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-paid-internship"
+    ]
+  },
+  "chunks": [
+    [
+      "accept internships",
+      "chấp nhận thực tập"
+    ],
+    [
+      "paid internships exploit young workers",
+      "thực tập có lương bóc lột lao động trẻ"
+    ],
+    [
+      "gain valuable experience",
+      "có được kinh nghiệm quý giá"
+    ],
+    [
+      "teach real skills",
+      "dạy kỹ năng thực sự"
+    ],
+    [
+      "experience and contacts that help their careers",
+      "kinh nghiệm và mối quan hệ giúp ích sự nghiệp"
+    ],
+    [
+      "write for deadlines",
+      "viết theo thời hạn"
+    ],
+    [
+      "meets editors",
+      "gặp các biên tập viên"
+    ],
+    [
+      "training and supervising interns",
+      "đào tạo và giám sát thực tập sinh"
+    ],
+    [
+      "recognises the effort of the intern",
+      "ghi nhận nỗ lực của thực tập sinh"
+    ],
+    [
+      "a first position",
+      "vị trí đầu tiên"
+    ],
+    [
+      "cheap labour with little training",
+      "lao động rẻ với ít đào tạo"
+    ],
+    [
+      "make coffee and copy documents",
+      "pha cà phê và photo tài liệu"
+    ],
+    [
+      "save the cost of staff",
+      "tiết kiệm chi phí nhân viên"
+    ],
+    [
+      "favour wealthy families",
+      "thiên vị các gia đình giàu có"
+    ],
+    [
+      "talented young people from poorer homes",
+      "người trẻ tài năng từ gia đình nghèo hơn"
+    ],
+    [
+      "a minimum wage",
+      "mức lương tối thiểu"
+    ],
+    [
+      "limit the length of placements",
+      "giới hạn thời gian thực tập"
+    ],
+    [
+      "real learning",
+      "việc học thực sự"
+    ],
+    [
+      "fairly regulated",
+      "được quản lý công bằng"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "questionId": 116,
+  "text": "Apps now connect drivers, couriers and cleaners with customers within minutes, and this essay will discuss how the gig economy affects job security, focusing on the lack of contracts and on possible protection.\n\nTo begin with, the gig economy weakens job security by replacing contracts with short tasks. Platforms offer quick access to work, yet drivers and couriers have no sick pay or guaranteed hours, can be removed by an algorithm and bear all costs themselves. A delivery rider who is injured, for example, loses income immediately and may receive no compensation. Workers pay for their own vehicles, fuel and insurance, and a sudden change in the platform's rules can cut earnings overnight. Because they are classed as independent contractors, they often cannot join unions or claim unemployment benefits. Many therefore work very long hours to earn a living wage, and the lack of regular income makes it hard to rent a home or to plan for the future.\n\nFurthermore, the gig economy does offer some advantages. It provides flexible income for students and people between jobs, and an easy way into the labour market for those without qualifications. However, these benefits do not remove the need for protection. Regulation should give gig workers basic rights, including a minimum rate of pay, insurance against accidents, clear explanations when accounts are closed and the right to appeal. Some countries have already ruled that certain platform workers are employees. With such rules, the gig economy could offer flexibility without sacrificing security.\n\nIn conclusion, the gig economy weakens job security for many workers, so governments should introduce regulation that protects them.",
+  "analysis": {
+    "type_vi": "Opinion: kinh tế gig ảnh hưởng thế nào đến an toàn việc làm",
+    "plan": [
+      {
+        "step": "1. Khung phân tích",
+        "think": "Mở bài mô tả ứng dụng nối tài xế, shipper với khách; tập trung thiếu hợp đồng và bảo vệ.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Tác động xấu",
+        "think": "Thay hợp đồng bằng nhiệm vụ ngắn: không lương ốm, giờ bảo đảm, bị thuật toán loại, tự trả chi phí; ví dụ shipper bị thương mất thu nhập ngay; xe, xăng, bảo hiểm tự trả; luật nền tảng đổi làm giảm thu nhập; coi như nhà thầu độc lập không vào công đoàn; làm nhiều giờ; khó thuê nhà.",
+        "refs": [
+          "ID-work-gig-security",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích + bảo vệ",
+        "think": "Thu nhập linh hoạt cho sinh viên, người giữa hai việc, dễ vào thị trường; nhưng cần quy định: lương tối thiểu, bảo hiểm tai nạn, giải thích khi khoá tài khoản, quyền khiếu nại; một số nước xếp là nhân viên.",
+        "refs": [
+          "ID-work-gig-security",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Làm yếu an toàn việc làm; cần quy định.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-gig-security"
+    ]
+  },
+  "chunks": [
+    [
+      "connect drivers, couriers and cleaners with customers",
+      "kết nối tài xế, người giao hàng và người dọn dẹp với khách hàng"
+    ],
+    [
+      "the gig economy",
+      "nền kinh tế việc làm tự do theo nền tảng"
+    ],
+    [
+      "affects job security",
+      "ảnh hưởng đến sự ổn định việc làm"
+    ],
+    [
+      "replacing contracts with short tasks",
+      "thay hợp đồng bằng các nhiệm vụ ngắn"
+    ],
+    [
+      "no sick pay or guaranteed hours",
+      "không có tiền ốm hay giờ làm được bảo đảm"
+    ],
+    [
+      "removed by an algorithm",
+      "bị loại bỏ bởi thuật toán"
+    ],
+    [
+      "bear all costs themselves",
+      "tự chịu mọi chi phí"
+    ],
+    [
+      "a delivery rider",
+      "một người giao hàng"
+    ],
+    [
+      "loses income immediately",
+      "mất thu nhập ngay lập tức"
+    ],
+    [
+      "vehicles, fuel and insurance",
+      "phương tiện, nhiên liệu và bảo hiểm"
+    ],
+    [
+      "cut earnings overnight",
+      "cắt giảm thu nhập chỉ sau một đêm"
+    ],
+    [
+      "independent contractors",
+      "nhà thầu độc lập"
+    ],
+    [
+      "unemployment benefits",
+      "trợ cấp thất nghiệp"
+    ],
+    [
+      "a living wage",
+      "mức lương đủ sống"
+    ],
+    [
+      "flexible income",
+      "thu nhập linh hoạt"
+    ],
+    [
+      "an easy way into the labour market",
+      "con đường dễ dàng vào thị trường lao động"
+    ],
+    [
+      "a minimum rate of pay",
+      "mức lương tối thiểu"
+    ],
+    [
+      "the right to appeal",
+      "quyền khiếu nại"
+    ],
+    [
+      "flexibility without sacrificing security",
+      "sự linh hoạt mà không hy sinh an toàn"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "questionId": 400,
+  "text": "Some employees count the years until they can stop work, while others plan to continue well into their seventies, and opinions differ on whether it is better to retire early or to work longer. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of early retirement argue that it offers time and health. People who stop early can enjoy hobbies and family and avoid wear and tear. A manual worker who retires at fifty-five, for example, may still be fit enough to travel, look after grandchildren and take up sport. Many jobs, particularly physical or stressful ones, damage health over decades, and leaving them early may increase life expectancy and quality of life. Early retirement also leaves vacancies for younger people, who may otherwise struggle to find work.\n\nOn the other hand, supporters of working longer point out that it gives income and purpose. Those who work longer earn more, keep active minds and reduce pressure on pension systems. A teacher who continues until seventy, for example, has a larger pension and may still enjoy contact with pupils and colleagues. Studies suggest that people who stay engaged remain mentally sharper, and employers value the experience of older staff. Since people are living longer, many need extra savings for twenty or thirty years of retirement, and governments cannot always afford early pensions for everyone.\n\nIn conclusion, both views have merit. Overall, I believe that individuals should have choices: those in hard physical jobs should be able to retire earlier, while others who are healthy and enjoy work should be able to continue, with flexible or part-time arrangements for the transition.",
+  "analysis": {
+    "type_vi": "Discuss both views: nghỉ hưu sớm hay làm lâu hơn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người đếm năm và người làm đến bảy mươi.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Nghỉ sớm",
+        "think": "Thời gian và sức khoẻ: sở thích, gia đình, tránh hao mòn; ví dụ công nhân nghỉ 55 tuổi đi du lịch, trông cháu, chơi thể thao; việc nặng hại sức khoẻ; nhường chỗ cho người trẻ.",
+        "refs": [
+          "ID-work-retire-early-late"
+        ]
+      },
+      {
+        "step": "3. Làm lâu",
+        "think": "Thu nhập và mục đích: lương hưu cao, trí tuệ hoạt động, giảm áp lực quỹ; ví dụ giáo viên đến 70 tuổi; nghiên cứu cho thấy sắc bén; kinh nghiệm; sống thọ cần tiết kiệm; chính phủ khó trả.",
+        "refs": [
+          "ID-work-retire-early-late",
+          "ID-work-retirement-plan"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cho lựa chọn: người làm việc nặng nghỉ sớm, người khoẻ làm tiếp, linh hoạt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-retire-early-late"
+    ]
+  },
+  "chunks": [
+    [
+      "count the years until they can stop work",
+      "đếm từng năm cho đến khi được nghỉ làm"
+    ],
+    [
+      "well into their seventies",
+      "đến tận tuổi bảy mươi"
+    ],
+    [
+      "retire early or to work longer",
+      "nghỉ hưu sớm hay làm việc lâu hơn"
+    ],
+    [
+      "time and health",
+      "thời gian và sức khoẻ"
+    ],
+    [
+      "avoid wear and tear",
+      "tránh hao mòn"
+    ],
+    [
+      "retires at fifty-five",
+      "nghỉ hưu ở tuổi năm mươi lăm"
+    ],
+    [
+      "look after grandchildren",
+      "trông cháu"
+    ],
+    [
+      "physical or stressful ones",
+      "những việc nặng nhọc hoặc căng thẳng"
+    ],
+    [
+      "life expectancy and quality of life",
+      "tuổi thọ và chất lượng cuộc sống"
+    ],
+    [
+      "leaves vacancies for younger people",
+      "để lại vị trí trống cho người trẻ"
+    ],
+    [
+      "income and purpose",
+      "thu nhập và mục đích sống"
+    ],
+    [
+      "keep active minds",
+      "giữ trí óc hoạt động"
+    ],
+    [
+      "reduce pressure on pension systems",
+      "giảm áp lực lên hệ thống lương hưu"
+    ],
+    [
+      "a larger pension",
+      "khoản lương hưu lớn hơn"
+    ],
+    [
+      "contact with pupils and colleagues",
+      "tiếp xúc với học sinh và đồng nghiệp"
+    ],
+    [
+      "mentally sharper",
+      "sắc bén hơn về trí tuệ"
+    ],
+    [
+      "the experience of older staff",
+      "kinh nghiệm của nhân viên lớn tuổi"
+    ],
+    [
+      "extra savings",
+      "khoản tiết kiệm thêm"
+    ],
+    [
+      "flexible or part-time arrangements",
+      "sắp xếp linh hoạt hoặc bán thời gian"
+    ]
+  ]
+}

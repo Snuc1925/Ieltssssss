@@ -1,0 +1,113 @@
+{
+  "questionId": 98,
+  "text": "Graduates often face a choice between a post in a ministry or hospital run by the state and a job in a private company, and opinions differ on which is preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of public sector jobs argue that they offer security and meaning. Government posts bring steady hours, pensions and a sense of public service. A teacher or civil servant, for example, rarely worries about being dismissed during an economic downturn and can plan a mortgage or a family with confidence. Public employers usually offer generous leave, clear rules on promotion and protection against unfair treatment, and many people feel proud to contribute directly to society. For those who value a calm routine and a good work-life balance, these features are very attractive.\n\nOn the other hand, advocates of private sector jobs point out that they reward performance. Private firms pay more, promote talented staff rapidly and encourage innovation, at the price of insecurity. A salesperson or engineer who achieves excellent results, for example, may double her salary within a few years. Competition pushes employees to learn new skills, and ambitious people are not held back by long hierarchies. However, redundancies, long hours and pressure to meet targets are more common, and benefits are often less generous than in government service.\n\nIn conclusion, both views have merit. Overall, I believe that the choice depends on attitude to risk: people who value stability and service should seek public jobs, while those who want rapid progress and higher pay should choose the private sector.",
+  "analysis": {
+    "type_vi": "Discuss both views: việc khu vực công hay tư",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn của sinh viên; kết luận tuỳ thái độ rủi ro.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Khu vực công",
+        "think": "Ổn định và ý nghĩa: giờ đều, lương hưu, phục vụ cộng đồng; ví dụ giáo viên, công chức hiếm lo bị sa thải khi suy thoái, vay mua nhà yên tâm; nghỉ phép rộng, quy tắc thăng tiến, bảo vệ; tự hào đóng góp.",
+        "refs": [
+          "ID-work-public-private"
+        ]
+      },
+      {
+        "step": "3. Khu vực tư",
+        "think": "Thưởng hiệu suất: lương cao, thăng tiến nhanh, đổi mới, đổi lại bất ổn; ví dụ nhân viên bán hàng, kỹ sư giỏi tăng gấp đôi lương; cạnh tranh buộc học kỹ năng; ít thứ bậc; nhược: sa thải, giờ dài, áp lực chỉ tiêu, phúc lợi ít.",
+        "refs": [
+          "ID-work-public-private"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ thái độ với rủi ro.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-public-private"
+    ]
+  },
+  "chunks": [
+    [
+      "a post in a ministry or hospital run by the state",
+      "vị trí trong bộ hoặc bệnh viện do nhà nước quản lý"
+    ],
+    [
+      "a job in a private company",
+      "công việc ở công ty tư nhân"
+    ],
+    [
+      "public sector jobs",
+      "công việc khu vực nhà nước"
+    ],
+    [
+      "security and meaning",
+      "sự ổn định và ý nghĩa"
+    ],
+    [
+      "steady hours, pensions and a sense of public service",
+      "giờ giấc đều đặn, lương hưu và cảm giác phục vụ cộng đồng"
+    ],
+    [
+      "being dismissed during an economic downturn",
+      "bị sa thải trong lúc kinh tế suy thoái"
+    ],
+    [
+      "plan a mortgage or a family with confidence",
+      "tự tin lên kế hoạch vay mua nhà hay lập gia đình"
+    ],
+    [
+      "generous leave",
+      "chế độ nghỉ phép hào phóng"
+    ],
+    [
+      "protection against unfair treatment",
+      "bảo vệ khỏi đối xử bất công"
+    ],
+    [
+      "a calm routine",
+      "nhịp sống bình lặng"
+    ],
+    [
+      "reward performance",
+      "thưởng cho hiệu suất"
+    ],
+    [
+      "pay more, promote talented staff rapidly",
+      "trả lương cao hơn, thăng chức nhanh cho nhân viên giỏi"
+    ],
+    [
+      "double her salary",
+      "tăng gấp đôi mức lương"
+    ],
+    [
+      "Competition pushes employees to learn new skills",
+      "cạnh tranh thúc đẩy nhân viên học kỹ năng mới"
+    ],
+    [
+      "long hierarchies",
+      "hệ thống thứ bậc dài"
+    ],
+    [
+      "redundancies, long hours and pressure to meet targets",
+      "sa thải, giờ làm dài và áp lực đạt chỉ tiêu"
+    ],
+    [
+      "attitude to risk",
+      "thái độ đối với rủi ro"
+    ]
+  ]
+}

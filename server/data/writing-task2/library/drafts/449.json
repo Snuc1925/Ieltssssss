@@ -1,0 +1,122 @@
+{
+  "questionId": 449,
+  "text": "Many modern offices have removed walls and private rooms so that dozens of employees share one large space, and many people say that open-plan offices harm productivity. I agree to a large extent, since noise and interruptions make concentration hard, although they have some advantages.\n\nTo begin with, open-plan offices harm concentration. Noise and interruptions make deep work hard and reduce privacy, so employees often spend time wearing headphones or leave the desk to find quiet. An analyst who is writing a complex report, for example, loses focus each time a colleague takes a phone call or stops to chat. Studies show that people need many minutes to regain concentration after an interruption, which means that several short disturbances can waste a large part of the day. Open spaces also increase the spread of colds, and some staff feel stressed by being watched constantly, which reduces both wellbeing and output.\n\nHowever, open-plan offices have some advantages that explain their popularity. They cost less to build, make it easy to ask colleagues questions and encourage a friendly atmosphere in which ideas are shared. For tasks that depend on teamwork, such as brainstorming, they may help. Nevertheless, these benefits do not remove the need for quiet. Mixed layouts that combine shared areas for collaboration with quiet rooms, booths and the right to work at home on certain days work better. Employers should also set simple rules about noise and meetings, so that people can choose the space that suits their task.\n\nIn conclusion, I agree that open-plan offices harm productivity to a large extent, and companies should provide a variety of workspaces instead of a single large room.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: văn phòng mở làm hại năng suất — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài mô tả bỏ tường; largely agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Hại tập trung: ồn, gián đoạn, thiếu riêng tư, đeo tai nghe; ví dụ nhà phân tích viết báo cáo mất tập trung mỗi lần đồng nghiệp gọi; nghiên cứu cần nhiều phút lấy lại; lây cảm; bị theo dõi căng thẳng.",
+        "refs": [
+          "ID-work-open-plan",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ưu + nhượng bộ",
+        "think": "Rẻ, dễ hỏi, thân thiện, brainstorming; nhưng vẫn cần yên tĩnh; bố trí hỗn hợp phòng yên tĩnh, buồng, làm tại nhà; quy tắc ồn.",
+        "refs": [
+          "ID-work-open-plan",
+          "CN-nextPoint-moreover",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý; nhiều loại không gian.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-open-plan"
+    ]
+  },
+  "chunks": [
+    [
+      "removed walls and private rooms",
+      "bỏ tường và phòng riêng"
+    ],
+    [
+      "open-plan offices harm productivity",
+      "văn phòng mở làm hại năng suất"
+    ],
+    [
+      "Noise and interruptions make deep work hard",
+      "tiếng ồn và sự gián đoạn khiến làm việc sâu khó khăn"
+    ],
+    [
+      "reduce privacy",
+      "giảm sự riêng tư"
+    ],
+    [
+      "wearing headphones",
+      "đeo tai nghe"
+    ],
+    [
+      "writing a complex report",
+      "viết một báo cáo phức tạp"
+    ],
+    [
+      "loses focus",
+      "mất tập trung"
+    ],
+    [
+      "takes a phone call",
+      "nghe điện thoại"
+    ],
+    [
+      "regain concentration after an interruption",
+      "lấy lại sự tập trung sau gián đoạn"
+    ],
+    [
+      "the spread of colds",
+      "sự lây lan cảm lạnh"
+    ],
+    [
+      "watched constantly",
+      "bị theo dõi liên tục"
+    ],
+    [
+      "cost less to build",
+      "rẻ hơn khi xây dựng"
+    ],
+    [
+      "ask colleagues questions",
+      "hỏi đồng nghiệp"
+    ],
+    [
+      "a friendly atmosphere in which ideas are shared",
+      "bầu không khí thân thiện nơi ý tưởng được chia sẻ"
+    ],
+    [
+      "brainstorming",
+      "động não"
+    ],
+    [
+      "Mixed layouts",
+      "bố trí hỗn hợp"
+    ],
+    [
+      "quiet rooms, booths",
+      "phòng yên tĩnh, buồng riêng"
+    ],
+    [
+      "simple rules about noise and meetings",
+      "quy tắc đơn giản về tiếng ồn và cuộc họp"
+    ],
+    [
+      "a variety of workspaces",
+      "nhiều loại không gian làm việc"
+    ]
+  ]
+}

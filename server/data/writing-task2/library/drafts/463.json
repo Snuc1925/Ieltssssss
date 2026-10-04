@@ -1,0 +1,119 @@
+{
+  "questionId": 463,
+  "text": "Some politicians suggest that fewer days off would make the economy stronger, and some people say that public holidays should be reduced to increase productivity. I disagree with this view, since extra working days would harm wellbeing and bring little additional output.\n\nTo begin with, reducing public holidays would not raise productivity. Holidays let workers recover, spend time with family and support tourism and culture, while extra working days bring tired staff and little additional output. A worker who takes a day off before a long weekend, for example, usually returns refreshed and works faster. Research shows that productivity per hour falls as people work longer, so that countries with many holidays, such as some in northern Europe, are often among the most productive. Total output depends on the quality of work, not just the number of days.\n\nFurthermore, public holidays have social and economic value. They allow families to celebrate festivals, remember history and maintain traditions, which creates a sense of community. Restaurants, hotels, transport companies and shops depend on holiday spending, so fewer days off could cost these industries more than the extra work gains. Tired and unhappy employees also take more sick leave and are more likely to quit. However, there is a case for flexibility, for instance by letting workers swap holidays for days that match their own beliefs. Rest is part of a productive economy, and the aim should be efficiency and not a longer calendar. Governments that want higher output would do better to invest in training, equipment and management than to cut the days on which people rest.\n\nIn conclusion, I disagree that public holidays should be reduced to increase productivity, because rest sustains both wellbeing and performance.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: giảm ngày lễ để tăng năng suất — disagree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính trị gia đề xuất; disagree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Không tăng năng suất: nghỉ ngơi, gia đình, du lịch; ví dụ nghỉ trước cuối tuần dài trở lại nhanh hơn; năng suất theo giờ giảm khi làm lâu; nước nhiều ngày lễ năng suất cao.",
+        "refs": [
+          "ID-work-public-holidays",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2",
+        "think": "Giá trị xã hội và kinh tế: lễ hội, lịch sử, cộng đồng; nhà hàng, khách sạn, vận tải; mệt mỏi nghỉ ốm, nghỉ việc; linh hoạt hoán đổi ngày lễ; nghỉ là một phần kinh tế.",
+        "refs": [
+          "ID-work-public-holidays",
+          "ID-work-balance",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không giảm vì nghỉ duy trì hiệu suất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-public-holidays"
+    ]
+  },
+  "chunks": [
+    [
+      "fewer days off",
+      "ít ngày nghỉ hơn"
+    ],
+    [
+      "public holidays should be reduced",
+      "ngày lễ nên được giảm bớt"
+    ],
+    [
+      "wellbeing and bring little additional output",
+      "sức khoẻ tinh thần và đem lại ít sản lượng thêm"
+    ],
+    [
+      "let workers recover",
+      "giúp người lao động hồi phục"
+    ],
+    [
+      "support tourism and culture",
+      "hỗ trợ du lịch và văn hoá"
+    ],
+    [
+      "tired staff",
+      "nhân viên mệt mỏi"
+    ],
+    [
+      "takes a day off before a long weekend",
+      "nghỉ một ngày trước kỳ nghỉ cuối tuần dài"
+    ],
+    [
+      "returns refreshed",
+      "trở lại với tinh thần sảng khoái"
+    ],
+    [
+      "productivity per hour falls",
+      "năng suất mỗi giờ giảm"
+    ],
+    [
+      "northern Europe",
+      "Bắc Âu"
+    ],
+    [
+      "the quality of work",
+      "chất lượng công việc"
+    ],
+    [
+      "celebrate festivals, remember history",
+      "tổ chức lễ hội, tưởng nhớ lịch sử"
+    ],
+    [
+      "maintain traditions",
+      "duy trì truyền thống"
+    ],
+    [
+      "a sense of community",
+      "cảm giác cộng đồng"
+    ],
+    [
+      "holiday spending",
+      "chi tiêu dịp lễ"
+    ],
+    [
+      "sick leave",
+      "nghỉ ốm"
+    ],
+    [
+      "swap holidays",
+      "hoán đổi ngày lễ"
+    ],
+    [
+      "a productive economy",
+      "một nền kinh tế năng suất"
+    ]
+  ]
+}

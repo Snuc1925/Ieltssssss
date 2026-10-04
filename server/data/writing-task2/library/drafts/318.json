@@ -1,0 +1,125 @@
+{
+  "questionId": 318,
+  "text": "Goods made in distant countries fill shops everywhere, and this essay will discuss how international trade affects domestic employment, focusing on the jobs that it creates and the jobs that it destroys.\n\nTo begin with, trade creates jobs in some sectors. Export industries hire more people and imports cut prices. A car maker that sells vehicles abroad, for example, employs thousands of workers in factories and in the businesses that supply it with parts. Ports, shipping firms and warehouses depend directly on trade, and lower prices for imported goods leave consumers with more money to spend on local services. Open markets also give companies access to cheaper materials and new technology, which helps them to compete and to expand. Countries that trade widely often enjoy faster growth and higher wages overall.\n\nOn the other hand, trade destroys jobs in sectors that cannot compete. Factories that cannot compete close, leaving local workers unemployed unless they receive retraining and support. A textile town that faces cheap imports, for example, may lose most of its mills within a few years, and older workers there find it hard to start again. Companies may also move production abroad to save wages. The gains of trade are real but unevenly shared, since consumers and exporters benefit while workers in declining industries pay the price. Governments should therefore use some of the gains to finance training, regional investment and temporary support for those who lose their jobs.\n\nIn conclusion, international trade increases total employment opportunities, but it harms specific groups of workers, and fair policies are needed to help them adjust.",
+  "analysis": {
+    "type_vi": "Opinion: thương mại quốc tế ảnh hưởng việc làm trong nước",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng hoá từ xa; tập trung tạo việc và phá việc.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Tạo việc",
+        "think": "Ngành xuất khẩu thuê thêm, nhập khẩu hạ giá; ví dụ hãng xe bán ra nước ngoài thuê hàng nghìn người; cảng, vận tải, kho; tiền tiết kiệm chi tiêu dịch vụ; vật liệu rẻ, công nghệ mới; tăng trưởng, lương.",
+        "refs": [
+          "ID-work-trade-employment",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Phá việc",
+        "think": "Nhà máy không cạnh tranh đóng cửa; ví dụ thị trấn dệt hàng nhập giá rẻ mất nhà máy; chuyển sản xuất; lợi ích không chia đều; dùng một phần lợi ích tài trợ đào tạo, đầu tư vùng, hỗ trợ tạm thời.",
+        "refs": [
+          "ID-work-trade-employment",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tăng cơ hội tổng thể nhưng hại nhóm cụ thể; cần chính sách.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-trade-employment"
+    ]
+  },
+  "chunks": [
+    [
+      "Goods made in distant countries",
+      "hàng hoá sản xuất ở các nước xa xôi"
+    ],
+    [
+      "international trade",
+      "thương mại quốc tế"
+    ],
+    [
+      "domestic employment",
+      "việc làm trong nước"
+    ],
+    [
+      "Export industries hire more people",
+      "ngành xuất khẩu thuê thêm người"
+    ],
+    [
+      "imports cut prices",
+      "hàng nhập khẩu làm giảm giá"
+    ],
+    [
+      "sells vehicles abroad",
+      "bán xe ra nước ngoài"
+    ],
+    [
+      "supply it with parts",
+      "cung cấp linh kiện cho nó"
+    ],
+    [
+      "Ports, shipping firms and warehouses",
+      "cảng, hãng vận tải biển và kho bãi"
+    ],
+    [
+      "more money to spend on local services",
+      "nhiều tiền hơn để chi tiêu cho dịch vụ địa phương"
+    ],
+    [
+      "cheaper materials and new technology",
+      "vật liệu rẻ hơn và công nghệ mới"
+    ],
+    [
+      "faster growth and higher wages",
+      "tăng trưởng nhanh hơn và lương cao hơn"
+    ],
+    [
+      "cannot compete close",
+      "không thể cạnh tranh và phải đóng cửa"
+    ],
+    [
+      "leaving local workers unemployed",
+      "khiến người lao động địa phương thất nghiệp"
+    ],
+    [
+      "a textile town",
+      "một thị trấn dệt may"
+    ],
+    [
+      "cheap imports",
+      "hàng nhập khẩu giá rẻ"
+    ],
+    [
+      "move production abroad to save wages",
+      "chuyển sản xuất ra nước ngoài để tiết kiệm tiền lương"
+    ],
+    [
+      "unevenly shared",
+      "chia sẻ không đồng đều"
+    ],
+    [
+      "workers in declining industries",
+      "công nhân trong các ngành suy giảm"
+    ],
+    [
+      "regional investment",
+      "đầu tư khu vực"
+    ],
+    [
+      "temporary support",
+      "hỗ trợ tạm thời"
+    ]
+  ]
+}

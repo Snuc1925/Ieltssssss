@@ -1,0 +1,126 @@
+{
+  "questionId": 140,
+  "text": "Many companies hire graduates and expect them to start work immediately, and the question is to what extent employers should provide training for new workers. I agree to a large extent, because training makes workers productive and loyal, although the cost may be shared.\n\nTo begin with, employers should train new workers because it makes them productive and loyal. Schools and universities cannot teach every company procedure, so training reduces mistakes and raises confidence. A new technician who receives a month of guidance on the company's machines, for example, will work safely and quickly instead of learning through costly errors. Training also tells employees that the company values them, and staff who feel invested in stay longer. Since recruiting and replacing workers is expensive, the cost of training is often smaller than the cost of high turnover. Well-trained staff also serve customers better, which improves the company's reputation.\n\nHowever, there are limits to the responsibility of employers. Small firms may lack the money and time to organise formal programmes, and some employers worry that trained workers will leave for competitors. Governments can help by offering subsidies or tax benefits for training, and schools should teach general skills such as communication and problem solving so that employers need to provide only specific instruction. Workers should also take their own initiative by learning outside work. Where contracts include a fair period of service after expensive courses, both sides can be protected.\n\nIn conclusion, I agree that employers should provide training for new workers to a large extent, since it is an investment that repays itself, but governments and schools should share the burden.",
+  "analysis": {
+    "type_vi": "Extent: nhà tuyển dụng đào tạo nhân viên mới đến đâu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thực tế rồi largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Năng suất và trung thành: trường không dạy hết quy trình; ví dụ kỹ thuật viên mới được hướng dẫn một tháng làm an toàn, nhanh; tin công ty coi trọng; chi phí tuyển lại cao; phục vụ khách tốt hơn.",
+        "refs": [
+          "ID-work-employer-training",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Công ty nhỏ thiếu tiền, lo nhân viên đi đối thủ; chính phủ trợ cấp; trường dạy kỹ năng chung; nhân viên tự học; hợp đồng thời gian phục vụ.",
+        "refs": [
+          "ID-work-employer-training",
+          "ID-env-partnership",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nhưng chia sẻ gánh nặng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-employer-training"
+    ]
+  },
+  "chunks": [
+    [
+      "hire graduates and expect them to start work immediately",
+      "thuê sinh viên mới ra trường và mong họ làm việc ngay"
+    ],
+    [
+      "provide training for new workers",
+      "đào tạo nhân viên mới"
+    ],
+    [
+      "productive and loyal",
+      "năng suất và trung thành"
+    ],
+    [
+      "every company procedure",
+      "mọi quy trình của công ty"
+    ],
+    [
+      "reduces mistakes and raises confidence",
+      "giảm sai sót và tăng sự tự tin"
+    ],
+    [
+      "a month of guidance",
+      "một tháng hướng dẫn"
+    ],
+    [
+      "costly errors",
+      "những sai lầm tốn kém"
+    ],
+    [
+      "values them",
+      "coi trọng họ"
+    ],
+    [
+      "feel invested in",
+      "cảm thấy được đầu tư"
+    ],
+    [
+      "recruiting and replacing workers is expensive",
+      "tuyển và thay nhân viên rất tốn kém"
+    ],
+    [
+      "high turnover",
+      "tỷ lệ nghỉ việc cao"
+    ],
+    [
+      "serve customers better",
+      "phục vụ khách hàng tốt hơn"
+    ],
+    [
+      "lack the money and time",
+      "thiếu tiền bạc và thời gian"
+    ],
+    [
+      "formal programmes",
+      "chương trình chính quy"
+    ],
+    [
+      "leave for competitors",
+      "chuyển sang đối thủ"
+    ],
+    [
+      "subsidies or tax benefits",
+      "trợ cấp hoặc ưu đãi thuế"
+    ],
+    [
+      "communication and problem solving",
+      "giao tiếp và giải quyết vấn đề"
+    ],
+    [
+      "take their own initiative",
+      "tự chủ động"
+    ],
+    [
+      "a fair period of service",
+      "khoảng thời gian phục vụ hợp lý"
+    ],
+    [
+      "an investment that repays itself",
+      "một khoản đầu tư tự hoàn vốn"
+    ]
+  ]
+}

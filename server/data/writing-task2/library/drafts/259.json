@@ -1,0 +1,120 @@
+{
+  "questionId": 259,
+  "text": "Several companies and a few governments have tested a four-day working week, and the question is whether the advantages of a shorter workweek outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, a shorter workweek improves wellbeing and often keeps output steady. Employees with an extra day off are rested and focused and are less likely to quit. A software firm that moves to four days, for example, may find that staff complete the same work in less time because meetings are shorter and distractions are reduced. Workers gain time for family, exercise and study, which lowers stress and illness. Employers benefit from fewer sick days, lower turnover and a stronger ability to attract talent, and a shorter week may even cut energy use in offices and reduce commuting.\n\nOn the negative side, a shorter workweek is not suitable for every sector. Hospitals, shops and factories need cover, so more staff may be required, which raises costs. Some firms may struggle with deadlines, and employees may be pressed to complete the same duties in longer days, which can be tiring. A nurse who works twelve-hour shifts to fit a compressed week, for example, may suffer from fatigue. Customers may also receive slower service if businesses are closed for an extra day. Nevertheless, these problems can be reduced by careful scheduling, by reducing hours instead of compressing them and by testing the change first.\n\nIn conclusion, a shorter workweek has clear benefits for wellbeing and productivity. On balance, I believe that the advantages outweigh the disadvantages, especially in office jobs where results can be measured.",
+  "analysis": {
+    "type_vi": "A/D: tuần làm việc ngắn hơn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thử nghiệm tuần 4 ngày.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Sức khoẻ, năng suất giữ: nghỉ ngơi, tập trung, ít nghỉ việc; ví dụ công ty phần mềm 4 ngày làm xong việc vì họp ngắn; thời gian gia đình, thể dục, học; ít ngày ốm, thu hút nhân tài; giảm năng lượng, đi lại.",
+        "refs": [
+          "ID-work-short-week"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Không hợp mọi ngành: bệnh viện, cửa hàng, nhà máy cần phủ; chi phí; hạn chót; giờ dài mệt; ví dụ y tá ca 12 giờ; dịch vụ chậm; giải pháp lịch, giảm giờ, thử nghiệm.",
+        "refs": [
+          "ID-work-short-week",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược, nhất là việc văn phòng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-short-week"
+    ]
+  },
+  "chunks": [
+    [
+      "a four-day working week",
+      "tuần làm việc bốn ngày"
+    ],
+    [
+      "a shorter workweek",
+      "tuần làm việc ngắn hơn"
+    ],
+    [
+      "improves wellbeing and often keeps output steady",
+      "cải thiện sức khoẻ tinh thần và thường giữ sản lượng ổn định"
+    ],
+    [
+      "an extra day off",
+      "thêm một ngày nghỉ"
+    ],
+    [
+      "rested and focused",
+      "được nghỉ ngơi và tập trung"
+    ],
+    [
+      "less likely to quit",
+      "ít có khả năng nghỉ việc"
+    ],
+    [
+      "complete the same work in less time",
+      "hoàn thành cùng khối lượng việc trong ít thời gian hơn"
+    ],
+    [
+      "meetings are shorter and distractions are reduced",
+      "họp ngắn hơn và ít xao nhãng hơn"
+    ],
+    [
+      "time for family, exercise and study",
+      "thời gian cho gia đình, thể dục và học tập"
+    ],
+    [
+      "fewer sick days, lower turnover",
+      "ít ngày ốm hơn, tỷ lệ nghỉ việc thấp hơn"
+    ],
+    [
+      "attract talent",
+      "thu hút nhân tài"
+    ],
+    [
+      "cut energy use in offices",
+      "giảm sử dụng năng lượng trong văn phòng"
+    ],
+    [
+      "not suitable for every sector",
+      "không phù hợp với mọi lĩnh vực"
+    ],
+    [
+      "need cover",
+      "cần có người thay"
+    ],
+    [
+      "struggle with deadlines",
+      "gặp khó khăn với thời hạn"
+    ],
+    [
+      "twelve-hour shifts",
+      "ca làm việc mười hai giờ"
+    ],
+    [
+      "a compressed week",
+      "tuần làm việc nén"
+    ],
+    [
+      "careful scheduling",
+      "lập lịch cẩn thận"
+    ],
+    [
+      "reducing hours instead of compressing them",
+      "giảm số giờ thay vì nén chúng"
+    ]
+  ]
+}

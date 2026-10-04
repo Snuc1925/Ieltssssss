@@ -1,0 +1,118 @@
+{
+  "questionId": 396,
+  "text": "Assembly lines, harvesters and automated warehouses have replaced many tasks once done by hand, and many people think that technology reduces manual labour jobs. I agree to a large extent, although not all manual work will disappear.\n\nTo begin with, technology removes many repetitive manual jobs. Machines replace repetitive factory and farm work, because they are faster, cheaper and do not tire. A modern harvester, for example, can do in an hour what once needed dozens of labourers in a day, and a robot arm can pack boxes without a break. Ports use automated cranes, mines use remote-controlled vehicles, and supermarkets are introducing self-service tills. As the cost of machines falls and their abilities improve, more tasks become suitable for automation, and the number of workers in these sectors has already fallen sharply in many countries.\n\nHowever, technology does not remove all manual work. Skilled trades such as plumbing, building and care need adaptable hands and judgement that machines cannot yet provide. A plumber who repairs an old pipe in a cramped space, for example, faces a different problem every time. New jobs also appear in programming, maintenance and repair of machines, which means that manual work changes in nature rather than vanishing. The challenge is therefore to prepare workers for this change through training, so that those displaced from factories and farms can move to growing fields. Governments and employers share responsibility for providing this support.\n\nIn conclusion, I agree that technology reduces manual labour jobs, particularly routine ones, but some skilled manual work will remain, and workers need retraining to adapt.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: công nghệ giảm việc lao động chân tay",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu dây chuyền, máy gặt, kho tự động; agree phần lớn.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Máy thay việc lặp lại: nhanh, rẻ, không mệt; ví dụ máy gặt làm trong một giờ việc hàng chục người cả ngày; robot đóng hộp; cảng, mỏ, siêu thị; số công nhân đã giảm.",
+        "refs": [
+          "ID-work-tech-manual",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Nghề có tay nghề (ống nước, xây, chăm sóc) cần phán đoán; ví dụ thợ ống nước sửa ống cũ ở chỗ hẹp; việc mới (lập trình, bảo trì); đào tạo lại.",
+        "refs": [
+          "ID-work-tech-manual",
+          "ID-work-ai",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nhưng một số nghề tay nghề tồn tại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-tech-manual"
+    ]
+  },
+  "chunks": [
+    [
+      "Assembly lines, harvesters and automated warehouses",
+      "dây chuyền lắp ráp, máy gặt và kho tự động"
+    ],
+    [
+      "technology reduces manual labour jobs",
+      "công nghệ làm giảm việc lao động chân tay"
+    ],
+    [
+      "repetitive manual jobs",
+      "công việc chân tay lặp đi lặp lại"
+    ],
+    [
+      "repetitive factory and farm work",
+      "công việc lặp lại ở nhà máy và trang trại"
+    ],
+    [
+      "faster, cheaper and do not tire",
+      "nhanh hơn, rẻ hơn và không biết mệt"
+    ],
+    [
+      "a modern harvester",
+      "một chiếc máy gặt hiện đại"
+    ],
+    [
+      "dozens of labourers",
+      "hàng chục công nhân"
+    ],
+    [
+      "a robot arm can pack boxes",
+      "một cánh tay robot có thể đóng gói hộp"
+    ],
+    [
+      "automated cranes",
+      "cần cẩu tự động"
+    ],
+    [
+      "remote-controlled vehicles",
+      "phương tiện điều khiển từ xa"
+    ],
+    [
+      "self-service tills",
+      "quầy tự thanh toán"
+    ],
+    [
+      "fallen sharply",
+      "giảm mạnh"
+    ],
+    [
+      "Skilled trades such as plumbing, building and care",
+      "các nghề có tay nghề như sửa ống nước, xây dựng và chăm sóc"
+    ],
+    [
+      "adaptable hands and judgement",
+      "đôi tay linh hoạt và khả năng phán đoán"
+    ],
+    [
+      "repairs an old pipe in a cramped space",
+      "sửa một ống nước cũ ở chỗ chật hẹp"
+    ],
+    [
+      "programming, maintenance and repair of machines",
+      "lập trình, bảo trì và sửa chữa máy móc"
+    ],
+    [
+      "changes in nature rather than vanishing",
+      "thay đổi bản chất chứ không biến mất"
+    ],
+    [
+      "displaced from factories and farms",
+      "bị mất việc ở nhà máy và nông trại"
+    ]
+  ]
+}

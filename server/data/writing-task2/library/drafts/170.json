@@ -1,0 +1,120 @@
+{
+  "questionId": 170,
+  "text": "In many countries, politicians promise to cut immigration in order to defend local workers, and some argue that stricter immigration controls protect jobs. I agree only to a limited extent, since limits may protect some local jobs but can harm the economy as a whole.\n\nTo begin with, controls may help certain groups in the short term. Limits can reduce competition for low-skilled work, and they may prevent employers from using cheaper foreign labour to push down wages. A local builder who loses contracts to a lower-paid foreign crew, for example, may feel that rules would safeguard his income. In regions with high unemployment, people understandably want newcomers to be limited until jobs are available, and enforcement of existing laws can stop illegal employment that undermines fair conditions.\n\nHowever, strict controls can harm the economy in the longer term. Migrants fill shortages in health, farming and technology, spend money and create businesses that employ locals. Hospitals in many countries depend on foreign doctors and nurses, and farms may leave crops unpicked without seasonal workers. Immigrants also pay taxes that support public services for ageing populations. Research generally finds that the effect of immigration on local wages and jobs is small, and that unemployment is caused more by recessions and automation than by newcomers. Targeted rules, such as those that match visas to genuine shortages and enforce labour standards, work better than strict bans. Countries that combine controlled migration with strong training for local workers usually see the best results for employment.\n\nIn conclusion, stricter immigration controls protect jobs only to a limited extent, and policies should be selective instead of restrictive so that both workers and the economy benefit.",
+  "analysis": {
+    "type_vi": "Extent: kiểm soát nhập cư bảo vệ việc làm — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính trị gia hứa giảm nhập cư; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Ngắn hạn: giảm cạnh tranh việc kỹ năng thấp, ngăn lao động rẻ ép lương; ví dụ thợ xây địa phương mất hợp đồng; vùng thất nghiệp cao; thực thi luật chống việc làm bất hợp pháp.",
+        "refs": [
+          "ID-work-immigration-jobs",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Dài hạn hại kinh tế: lấp thiếu hụt y tế, nông nghiệp, công nghệ, tiêu dùng, lập doanh nghiệp; bệnh viện phụ thuộc bác sĩ nước ngoài; thuế; nghiên cứu cho thấy ảnh hưởng nhỏ; thất nghiệp do suy thoái và tự động hoá; quy tắc nhắm mục tiêu.",
+        "refs": [
+          "ID-work-immigration-jobs",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chỉ bảo vệ ở mức hạn chế; chọn lọc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-immigration-jobs"
+    ]
+  },
+  "chunks": [
+    [
+      "cut immigration in order to defend local workers",
+      "cắt giảm nhập cư để bảo vệ người lao động địa phương"
+    ],
+    [
+      "stricter immigration controls",
+      "kiểm soát nhập cư chặt chẽ hơn"
+    ],
+    [
+      "protect jobs",
+      "bảo vệ việc làm"
+    ],
+    [
+      "to a limited extent",
+      "ở mức độ hạn chế"
+    ],
+    [
+      "reduce competition for low-skilled work",
+      "giảm cạnh tranh việc làm kỹ năng thấp"
+    ],
+    [
+      "cheaper foreign labour",
+      "lao động nước ngoài rẻ hơn"
+    ],
+    [
+      "push down wages",
+      "đẩy mức lương xuống"
+    ],
+    [
+      "a lower-paid foreign crew",
+      "nhóm lao động nước ngoài trả lương thấp hơn"
+    ],
+    [
+      "high unemployment",
+      "tỷ lệ thất nghiệp cao"
+    ],
+    [
+      "illegal employment",
+      "việc làm bất hợp pháp"
+    ],
+    [
+      "undermines fair conditions",
+      "làm suy yếu điều kiện công bằng"
+    ],
+    [
+      "Migrants fill shortages in health, farming and technology",
+      "người nhập cư lấp chỗ thiếu hụt trong y tế, nông nghiệp và công nghệ"
+    ],
+    [
+      "create businesses that employ locals",
+      "lập doanh nghiệp thuê người địa phương"
+    ],
+    [
+      "foreign doctors and nurses",
+      "bác sĩ và y tá nước ngoài"
+    ],
+    [
+      "seasonal workers",
+      "lao động thời vụ"
+    ],
+    [
+      "pay taxes that support public services",
+      "đóng thuế hỗ trợ dịch vụ công"
+    ],
+    [
+      "recessions and automation",
+      "suy thoái và tự động hoá"
+    ],
+    [
+      "match visas to genuine shortages",
+      "gắn thị thực với thiếu hụt thực sự"
+    ],
+    [
+      "selective instead of restrictive",
+      "chọn lọc thay vì hạn chế"
+    ]
+  ]
+}

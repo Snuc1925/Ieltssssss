@@ -1,0 +1,122 @@
+{
+  "questionId": 72,
+  "text": "As populations age, the cost of pensions is rising, and opinions differ on whether individuals should be responsible for their own retirement planning or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that people who save early and invest wisely gain independence. Workers who put aside a small part of their income each month, for example, can build a substantial fund over forty years because of compound interest. Individuals know their own needs and plans, and personal saving encourages thrift and reduces the burden on taxpayers. Since people are living longer, governments may not be able to afford generous pensions for everyone, so that a sense of personal duty is realistic and fair to younger generations.\n\nOn the other hand, advocates of government action point out that many people cannot save enough. Low earners, carers and the self-employed often have no spare income or employer scheme, and investments can lose value just before retirement. Retirement security needs both personal saving and a public pension. The state can guarantee a basic pension, require employers to contribute and regulate financial products to protect savers. Without such measures, many elderly people would fall into poverty, which would cost society more in welfare and healthcare. Public pensions also pool risk across the whole population in a way that individuals cannot.\n\nIn conclusion, both views have merit. Overall, I believe that retirement should be a shared responsibility, with a basic public pension and encouragement to save privately, so that everyone is protected in old age.",
+  "analysis": {
+    "type_vi": "Discuss both views: hưu trí do cá nhân hay chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu dân số già, chi phí lương hưu tăng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Tiết kiệm sớm, đầu tư khôn ngoan; ví dụ để dành một phần nhỏ thu nhập mỗi tháng có quỹ lớn sau 40 năm nhờ lãi kép; hiểu nhu cầu riêng, giảm gánh thuế; sống lâu hơn nên chính phủ khó trả hào phóng.",
+        "refs": [
+          "ID-work-retirement-plan"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Nhiều người không tiết kiệm đủ: thu nhập thấp, người chăm sóc, tự kinh doanh; đầu tư mất giá. Nhà nước bảo đảm lương hưu cơ bản, buộc nhà tuyển dụng đóng góp, quản lý sản phẩm tài chính; nếu không người già nghèo, tốn hơn cho phúc lợi; chia sẻ rủi ro.",
+        "refs": [
+          "ID-work-retirement-plan",
+          "ID-env-partnership"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trách nhiệm chung.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-retirement-plan"
+    ]
+  },
+  "chunks": [
+    [
+      "As populations age",
+      "khi dân số già đi"
+    ],
+    [
+      "the cost of pensions is rising",
+      "chi phí lương hưu đang tăng"
+    ],
+    [
+      "retirement planning",
+      "lập kế hoạch nghỉ hưu"
+    ],
+    [
+      "personal responsibility",
+      "trách nhiệm cá nhân"
+    ],
+    [
+      "save early and invest wisely",
+      "tiết kiệm sớm và đầu tư khôn ngoan"
+    ],
+    [
+      "put aside a small part of their income",
+      "để dành một phần nhỏ thu nhập"
+    ],
+    [
+      "a substantial fund",
+      "một quỹ đáng kể"
+    ],
+    [
+      "compound interest",
+      "lãi kép"
+    ],
+    [
+      "encourages thrift",
+      "khuyến khích tiết kiệm"
+    ],
+    [
+      "the burden on taxpayers",
+      "gánh nặng cho người đóng thuế"
+    ],
+    [
+      "generous pensions",
+      "lương hưu hào phóng"
+    ],
+    [
+      "Low earners, carers and the self-employed",
+      "người thu nhập thấp, người chăm sóc và người tự kinh doanh"
+    ],
+    [
+      "employer scheme",
+      "chương trình của nhà tuyển dụng"
+    ],
+    [
+      "lose value just before retirement",
+      "mất giá ngay trước khi nghỉ hưu"
+    ],
+    [
+      "guarantee a basic pension",
+      "bảo đảm lương hưu cơ bản"
+    ],
+    [
+      "regulate financial products",
+      "quản lý các sản phẩm tài chính"
+    ],
+    [
+      "fall into poverty",
+      "rơi vào cảnh nghèo"
+    ],
+    [
+      "pool risk",
+      "chia sẻ rủi ro"
+    ],
+    [
+      "a shared responsibility",
+      "trách nhiệm chung"
+    ]
+  ]
+}

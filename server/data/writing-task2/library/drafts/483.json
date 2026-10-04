@@ -1,0 +1,127 @@
+{
+  "questionId": 483,
+  "text": "A century ago, most people kept one occupation for a lifetime, but today many change careers more than once, and some people say that career switching is essential in modern economies. I agree with this view, since technology and globalisation make some jobs disappear and create others.\n\nTo begin with, career switching has become a necessary skill in changing economies. Technology and globalisation make some jobs disappear and create others, so workers who can retrain and move between fields stay employable. A typist whose work has been replaced by software, for example, may retrain as an administrator or a data analyst, while another who refuses to change may face long unemployment. Industries such as coal mining, printing and travel agencies have shrunk dramatically, whereas digital marketing and renewable energy have grown. Employees who keep learning can follow opportunities instead of being trapped in declining sectors. Young workers today may be expected to hold a dozen jobs in their lives.\n\nFurthermore, changing careers can also bring personal benefits, such as greater satisfaction and higher pay. People who discover that their first choice does not suit them can find work that matches their talents. However, changing is costly and risky. It may mean a drop in income, years of study and uncertainty, and not everyone has the savings or confidence to begin again. Governments and employers can help by supporting adult education, funding retraining and recognising skills gained in other jobs. When such help exists, switching becomes a realistic option instead of a gamble.\n\nIn conclusion, I agree that career switching is essential in modern economies, because it lets people adapt to change, but it needs support from public policy.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: đổi nghề là thiết yếu trong kinh tế hiện đại",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu một thế kỷ trước vs nay; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Kỹ năng cần thiết: công nghệ, toàn cầu hoá; ví dụ thợ đánh máy bị thay bằng phần mềm học lại làm hành chính; ngành than, in ấn thu hẹp, tiếp thị số, năng lượng tái tạo tăng; học liên tục; trẻ nhiều việc.",
+        "refs": [
+          "ID-work-career-switch",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + hạn chế",
+        "think": "Lợi ích cá nhân: hài lòng, lương, hợp tài năng; nhưng tốn kém, rủi ro; chính phủ, công ty hỗ trợ giáo dục người lớn, đào tạo lại, công nhận kỹ năng.",
+        "refs": [
+          "ID-work-career-switch",
+          "ID-work-stability-flexibility",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, cần chính sách.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-career-switch"
+    ]
+  },
+  "chunks": [
+    [
+      "keep one occupation for a lifetime",
+      "giữ một nghề suốt đời"
+    ],
+    [
+      "change careers more than once",
+      "đổi nghề nhiều hơn một lần"
+    ],
+    [
+      "career switching is essential",
+      "đổi nghề là thiết yếu"
+    ],
+    [
+      "Technology and globalisation",
+      "công nghệ và toàn cầu hoá"
+    ],
+    [
+      "retrain and move between fields",
+      "đào tạo lại và chuyển giữa các lĩnh vực"
+    ],
+    [
+      "stay employable",
+      "giữ được khả năng có việc làm"
+    ],
+    [
+      "replaced by software",
+      "bị phần mềm thay thế"
+    ],
+    [
+      "retrain as an administrator or a data analyst",
+      "đào tạo lại thành nhân viên hành chính hoặc nhà phân tích dữ liệu"
+    ],
+    [
+      "long unemployment",
+      "thất nghiệp dài"
+    ],
+    [
+      "coal mining, printing and travel agencies",
+      "khai thác than, in ấn và đại lý du lịch"
+    ],
+    [
+      "digital marketing and renewable energy",
+      "tiếp thị số và năng lượng tái tạo"
+    ],
+    [
+      "trapped in declining sectors",
+      "mắc kẹt trong những ngành suy giảm"
+    ],
+    [
+      "a dozen jobs",
+      "cả chục công việc"
+    ],
+    [
+      "greater satisfaction and higher pay",
+      "sự hài lòng cao hơn và lương cao hơn"
+    ],
+    [
+      "match their talents",
+      "phù hợp với tài năng của họ"
+    ],
+    [
+      "costly and risky",
+      "tốn kém và rủi ro"
+    ],
+    [
+      "a drop in income",
+      "giảm thu nhập"
+    ],
+    [
+      "adult education",
+      "giáo dục người lớn"
+    ],
+    [
+      "recognising skills gained in other jobs",
+      "công nhận kỹ năng có được từ công việc khác"
+    ],
+    [
+      "a realistic option instead of a gamble",
+      "lựa chọn thực tế thay vì canh bạc"
+    ]
+  ]
+}

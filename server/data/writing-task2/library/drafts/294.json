@@ -1,0 +1,115 @@
+{
+  "questionId": 294,
+  "text": "Every new technology provokes the fear that it will destroy jobs, and this essay will discuss the role of technology in reducing unemployment, focusing on new industries and on better matching between workers and employers.\n\nTo begin with, technology destroys some jobs but creates others. New technologies create businesses and roles that did not exist before. Two decades ago, there were no app developers, social media managers or drone operators, yet today these are common careers. A town that builds a data centre, for example, needs engineers, electricians and security staff, and it also supports restaurants and shops nearby. Online shopping has reduced the number of sales assistants but created work in logistics, packaging and delivery. Technology also enables people to start small businesses from home, since a laptop and an internet connection give access to customers worldwide.\n\nFurthermore, technology can reduce unemployment by improving the way that workers find jobs and skills. Job websites connect workers with employers, online courses teach skills cheaply and platforms allow people in remote areas to work for companies in cities. A jobseeker in a small town, for example, can learn coding through free lessons and apply for positions anywhere. However, the effect is not automatic. Workers whose jobs disappear need training and support, and governments should ensure that education and benefits keep pace with change. When these conditions are met, technology reduces unemployment over time and raises living standards.\n\nIn conclusion, technology can reduce unemployment by creating new industries and by helping workers to find jobs and learn skills, but its benefits depend on training and sensible policy.",
+  "analysis": {
+    "type_vi": "Opinion: vai trò công nghệ trong giảm thất nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nỗi sợ; hai ý: ngành mới; ghép việc.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Phá việc cũ, tạo việc mới: hai thập kỷ trước chưa có lập trình ứng dụng, quản lý mạng xã hội, điều khiển drone; ví dụ thị trấn xây trung tâm dữ liệu cần kỹ sư, thợ điện, bảo vệ, hỗ trợ quán; thương mại điện tử logistics; khởi nghiệp tại nhà.",
+        "refs": [
+          "ID-work-tech-unemployment",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + giới hạn",
+        "think": "Cải thiện ghép việc: web việc làm, khoá học trực tuyến, làm từ xa; ví dụ người tìm việc học lập trình miễn phí; không tự động: cần đào tạo, trợ cấp.",
+        "refs": [
+          "ID-work-tech-unemployment",
+          "ID-work-ai",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm thất nghiệp nhờ ngành mới và ghép việc, phụ thuộc đào tạo, chính sách.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-tech-unemployment"
+    ]
+  },
+  "chunks": [
+    [
+      "destroy jobs",
+      "phá huỷ việc làm"
+    ],
+    [
+      "reducing unemployment",
+      "giảm thất nghiệp"
+    ],
+    [
+      "new industries",
+      "ngành công nghiệp mới"
+    ],
+    [
+      "better matching between workers and employers",
+      "sự kết nối tốt hơn giữa người lao động và nhà tuyển dụng"
+    ],
+    [
+      "destroys some jobs but creates others",
+      "phá huỷ một số việc làm nhưng tạo ra việc khác"
+    ],
+    [
+      "app developers, social media managers or drone operators",
+      "nhà phát triển ứng dụng, quản lý mạng xã hội hoặc người điều khiển drone"
+    ],
+    [
+      "builds a data centre",
+      "xây dựng một trung tâm dữ liệu"
+    ],
+    [
+      "engineers, electricians and security staff",
+      "kỹ sư, thợ điện và nhân viên bảo vệ"
+    ],
+    [
+      "logistics, packaging and delivery",
+      "hậu cần, đóng gói và giao hàng"
+    ],
+    [
+      "start small businesses from home",
+      "khởi nghiệp nhỏ tại nhà"
+    ],
+    [
+      "customers worldwide",
+      "khách hàng trên toàn thế giới"
+    ],
+    [
+      "Job websites connect workers with employers",
+      "trang web việc làm kết nối người lao động với nhà tuyển dụng"
+    ],
+    [
+      "online courses teach skills cheaply",
+      "khoá học trực tuyến dạy kỹ năng với chi phí thấp"
+    ],
+    [
+      "remote areas",
+      "vùng xa xôi"
+    ],
+    [
+      "learn coding through free lessons",
+      "học lập trình qua bài học miễn phí"
+    ],
+    [
+      "keep pace with change",
+      "theo kịp sự thay đổi"
+    ],
+    [
+      "raises living standards",
+      "nâng cao mức sống"
+    ]
+  ]
+}

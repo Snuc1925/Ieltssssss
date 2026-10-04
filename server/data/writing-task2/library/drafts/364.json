@@ -1,0 +1,127 @@
+{
+  "questionId": 364,
+  "text": "New companies create jobs and ideas, but many fail in the first years, and this essay will suggest practical measures that governments could take to support start-ups, focusing on finance and on simpler rules and advice.\n\nTo begin with, governments should help start-ups to obtain money. New firms struggle to get loans and to cope with paperwork, so grants, tax relief, one-stop registration and incubators with mentors give them time to grow. A young entrepreneur who has a good idea but no property, for example, cannot offer a bank any security, so a government guarantee scheme can make a loan possible. Public funds can invest in early-stage businesses that private investors consider too risky, and tax breaks for the first few years leave founders with more money to spend on staff and equipment. Competitions with cash prizes can also reward promising ideas.\n\nIn addition, authorities should reduce bureaucracy and provide advice. Registering a company online in one day, with a single office handling licences and taxes, saves both time and money. Incubators and science parks offer cheap office space, expert mentors and contacts with investors, and links with universities allow start-ups to use laboratories and to recruit graduates. Training in accounting, marketing and management helps founders to avoid common mistakes. Equally important, bankruptcy laws should not punish failure too harshly, so that entrepreneurs can try again. Successful start-ups create jobs and innovation, which repays the public money within a few years.\n\nIn conclusion, access to finance, simpler rules and practical advice offer the most realistic way for governments to help start-ups to grow.",
+  "analysis": {
+    "type_vi": "Solutions: chính phủ hỗ trợ khởi nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu công ty mới tạo việc nhưng nhiều thất bại; hai nhóm: tài chính; quy tắc đơn giản và tư vấn.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Giúp có vốn: trợ cấp, giảm thuế, đăng ký một cửa, ươm tạo; ví dụ doanh nhân trẻ không tài sản thế chấp, chính phủ bảo lãnh; quỹ công đầu tư giai đoạn đầu; miễn thuế vài năm; cuộc thi giải thưởng.",
+        "refs": [
+          "ID-work-startups",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Giảm thủ tục và tư vấn: đăng ký trực tuyến trong ngày, một cơ quan; vườn ươm, khu khoa học: văn phòng rẻ, cố vấn, nhà đầu tư; liên kết đại học; đào tạo kế toán, marketing; luật phá sản không quá khắt khe; hoàn vốn qua việc làm.",
+        "refs": [
+          "ID-work-startups",
+          "ID-env-gov-rules",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tài chính, quy tắc đơn giản, tư vấn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-startups"
+    ]
+  },
+  "chunks": [
+    [
+      "New companies create jobs and ideas",
+      "công ty mới tạo ra việc làm và ý tưởng"
+    ],
+    [
+      "support start-ups",
+      "hỗ trợ các công ty khởi nghiệp"
+    ],
+    [
+      "obtain money",
+      "có được vốn"
+    ],
+    [
+      "get loans and to cope with paperwork",
+      "vay vốn và đối phó với giấy tờ"
+    ],
+    [
+      "grants, tax relief, one-stop registration",
+      "trợ cấp, giảm thuế, đăng ký một cửa"
+    ],
+    [
+      "incubators with mentors",
+      "vườn ươm có cố vấn"
+    ],
+    [
+      "a good idea but no property",
+      "có ý tưởng hay nhưng không có tài sản"
+    ],
+    [
+      "a government guarantee scheme",
+      "chương trình bảo lãnh của chính phủ"
+    ],
+    [
+      "early-stage businesses",
+      "doanh nghiệp giai đoạn đầu"
+    ],
+    [
+      "private investors consider too risky",
+      "nhà đầu tư tư nhân cho là quá rủi ro"
+    ],
+    [
+      "tax breaks for the first few years",
+      "ưu đãi thuế trong vài năm đầu"
+    ],
+    [
+      "cash prizes",
+      "giải thưởng tiền mặt"
+    ],
+    [
+      "reduce bureaucracy",
+      "giảm thủ tục hành chính"
+    ],
+    [
+      "Registering a company online in one day",
+      "đăng ký công ty trực tuyến trong một ngày"
+    ],
+    [
+      "cheap office space, expert mentors and contacts with investors",
+      "văn phòng giá rẻ, cố vấn chuyên gia và mối liên hệ với nhà đầu tư"
+    ],
+    [
+      "recruit graduates",
+      "tuyển sinh viên mới tốt nghiệp"
+    ],
+    [
+      "accounting, marketing and management",
+      "kế toán, marketing và quản lý"
+    ],
+    [
+      "bankruptcy laws",
+      "luật phá sản"
+    ],
+    [
+      "punish failure too harshly",
+      "trừng phạt thất bại quá khắc nghiệt"
+    ],
+    [
+      "repays the public money",
+      "hoàn lại tiền công"
+    ]
+  ]
+}

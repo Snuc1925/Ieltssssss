@@ -1,0 +1,118 @@
+{
+  "questionId": 27,
+  "text": "Newspapers often report factory closures and long queues of jobseekers, and many people say that unemployment is a growing problem in their country. I agree to a large extent, since automation and economic uncertainty are removing jobs, although the situation differs between countries and periods.\n\nTo begin with, unemployment is a serious problem where skills do not match available jobs. Automation, economic slowdowns and a gap between education and employer needs leave many people without work, especially the young. A graduate who applies for hundreds of positions and receives no reply, for example, can lose confidence and fall into long-term unemployment. Factories that install robots need fewer workers, and companies that move production abroad close local plants, which leaves whole towns without a major employer. Older workers who lose their jobs often find it very difficult to be hired again.\n\nFurthermore, the consequences of unemployment are costly for individuals and for society. Families lose income, health problems and crime may increase, and governments pay more in benefits while collecting less in taxes. However, the trend is not the same everywhere, and some countries have very low rates. Retraining programmes, support for new businesses and better links between schools and employers can reduce the problem. Unemployment is therefore not an unavoidable fate, but it demands active policies, particularly in regions that depend on a single industry, and a failure to act risks permanent damage to communities.\n\nIn conclusion, I agree that unemployment is a growing problem in many countries, but its size depends on policy, so governments should invest in skills and job creation.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: thất nghiệp là vấn đề ngày càng lớn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu hình ảnh quen thuộc rồi largely agree, nhượng bộ khác biệt giữa nước.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Thất nghiệp nghiêm trọng khi kỹ năng không khớp việc: tự động hoá, suy thoái, khoảng cách giáo dục – nhà tuyển dụng; ví dụ sinh viên gửi hàng trăm hồ sơ không phản hồi mất tự tin; robot ít công nhân; chuyển sản xuất ra nước ngoài; người lớn tuổi khó được thuê lại.",
+        "refs": [
+          "ID-work-unemployment",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Hậu quả tốn kém: mất thu nhập, sức khoẻ, tội phạm, chính phủ chi trợ cấp nhiều thu thuế ít. Nhượng bộ: không đâu cũng vậy; đào tạo lại, hỗ trợ doanh nghiệp mới, liên kết trường – doanh nghiệp.",
+        "refs": [
+          "ID-work-unemployment",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, nhưng phụ thuộc chính sách.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-unemployment"
+    ]
+  },
+  "chunks": [
+    [
+      "long queues of jobseekers",
+      "hàng dài người tìm việc"
+    ],
+    [
+      "unemployment is a growing problem",
+      "thất nghiệp là vấn đề ngày càng lớn"
+    ],
+    [
+      "economic uncertainty",
+      "bất ổn kinh tế"
+    ],
+    [
+      "skills do not match available jobs",
+      "kỹ năng không khớp với việc làm sẵn có"
+    ],
+    [
+      "a gap between education and employer needs",
+      "khoảng cách giữa giáo dục và nhu cầu nhà tuyển dụng"
+    ],
+    [
+      "applies for hundreds of positions",
+      "nộp đơn vào hàng trăm vị trí"
+    ],
+    [
+      "long-term unemployment",
+      "thất nghiệp dài hạn"
+    ],
+    [
+      "install robots",
+      "lắp đặt robot"
+    ],
+    [
+      "move production abroad",
+      "chuyển sản xuất ra nước ngoài"
+    ],
+    [
+      "a major employer",
+      "nhà tuyển dụng lớn"
+    ],
+    [
+      "Older workers",
+      "người lao động lớn tuổi"
+    ],
+    [
+      "pay more in benefits while collecting less in taxes",
+      "chi nhiều trợ cấp hơn trong khi thu ít thuế hơn"
+    ],
+    [
+      "Retraining programmes",
+      "chương trình đào tạo lại"
+    ],
+    [
+      "links between schools and employers",
+      "mối liên kết giữa trường học và nhà tuyển dụng"
+    ],
+    [
+      "active policies",
+      "chính sách chủ động"
+    ],
+    [
+      "depend on a single industry",
+      "phụ thuộc vào một ngành duy nhất"
+    ],
+    [
+      "permanent damage to communities",
+      "tổn hại lâu dài cho cộng đồng"
+    ],
+    [
+      "job creation",
+      "tạo việc làm"
+    ]
+  ]
+}

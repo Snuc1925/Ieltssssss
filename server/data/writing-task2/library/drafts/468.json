@@ -1,0 +1,113 @@
+{
+  "questionId": 468,
+  "text": "When millions of people commute at the same hour, roads and trains become overcrowded, and some argue that remote work reduces urban congestion. I agree to a limited extent, since remote work reduces peak-hour traffic, but it does not remove it.\n\nTo begin with, remote work reduces peak-hour congestion. Fewer people commute at rush hour and emissions fall. A city in which a quarter of office workers stay at home on two days of the week, for example, will see much lighter traffic and less crowded trains on those days. During the pandemic, many cities recorded sharp drops in traffic, cleaner air and shorter journey times. Employers can also encourage staggered start times, which spread demand over a longer period. Roads that are less crowded save fuel and time for those who must still travel, such as delivery drivers and emergency services.\n\nHowever, remote work does not solve congestion on its own. Some workers make other trips during the day, many jobs cannot be done at home and freed road space attracts other drivers. Traffic often returns to its previous level when more cars use the spaces left by those who stay at home. Cities that rely on remote work alone are also likely to see few changes at weekends or in school terms. It helps most as part of wider transport policy: better public transport, congestion charges, cycle lanes and city planning that places homes, shops and jobs close together are all needed.\n\nIn conclusion, remote work reduces urban congestion to a limited extent, and it should be combined with other measures to produce a lasting improvement.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: làm từ xa giảm tắc nghẽn đô thị — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu giờ cao điểm; agree hạn chế.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Giảm",
+        "think": "Ít người đi giờ cao điểm, khí thải giảm; ví dụ thành phố 1/4 nhân viên ở nhà hai ngày nhẹ hơn; đại dịch giảm lưu lượng, không khí sạch; giờ làm so le; người vẫn phải đi tiết kiệm.",
+        "refs": [
+          "ID-work-remote-congestion",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Không tự giải quyết: chuyến đi khác, nhiều việc không làm ở nhà, đường trống thu hút xe khác; cần chính sách rộng: giao thông công cộng, phí tắc nghẽn, làn xe đạp, quy hoạch.",
+        "refs": [
+          "ID-work-remote-congestion",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm hạn chế; kết hợp biện pháp khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-remote-congestion"
+    ]
+  },
+  "chunks": [
+    [
+      "commute at the same hour",
+      "đi làm cùng một giờ"
+    ],
+    [
+      "urban congestion",
+      "tắc nghẽn đô thị"
+    ],
+    [
+      "remote work reduces peak-hour congestion",
+      "làm việc từ xa giảm tắc nghẽn giờ cao điểm"
+    ],
+    [
+      "Fewer people commute at rush hour",
+      "ít người đi làm vào giờ cao điểm hơn"
+    ],
+    [
+      "emissions fall",
+      "khí thải giảm"
+    ],
+    [
+      "stay at home on two days of the week",
+      "ở nhà hai ngày trong tuần"
+    ],
+    [
+      "lighter traffic and less crowded trains",
+      "giao thông nhẹ hơn và tàu ít đông hơn"
+    ],
+    [
+      "sharp drops in traffic, cleaner air",
+      "giảm mạnh lưu lượng, không khí sạch hơn"
+    ],
+    [
+      "staggered start times",
+      "giờ bắt đầu so le"
+    ],
+    [
+      "delivery drivers and emergency services",
+      "tài xế giao hàng và dịch vụ khẩn cấp"
+    ],
+    [
+      "Some workers make other trips",
+      "một số người đi làm thực hiện các chuyến khác"
+    ],
+    [
+      "freed road space attracts other drivers",
+      "đường trống thu hút những tài xế khác"
+    ],
+    [
+      "returns to its previous level",
+      "trở lại mức trước đó"
+    ],
+    [
+      "wider transport policy",
+      "chính sách giao thông rộng hơn"
+    ],
+    [
+      "congestion charges, cycle lanes",
+      "phí tắc nghẽn, làn xe đạp"
+    ],
+    [
+      "close together",
+      "gần nhau"
+    ],
+    [
+      "a lasting improvement",
+      "sự cải thiện lâu dài"
+    ]
+  ]
+}

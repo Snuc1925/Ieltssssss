@@ -1,0 +1,121 @@
+{
+  "questionId": 430,
+  "text": "Many firms now allow staff to work from home several days a week, and this essay will discuss the advantages and disadvantages of telecommuting for employers before explaining my own view.\n\nOn the positive side, telecommuting saves employers money. Firms need less office space and can hire from anywhere. A company that allows half of its staff to work remotely, for example, can move into a smaller building and save a large amount on rent, electricity and cleaning. It can also recruit talented workers who live far away or who cannot commute because of disability or family duties, and it can keep experienced staff who might otherwise leave. Many employers report that remote staff are happier and take fewer sick days, which improves output. In addition, businesses can continue operating during storms, strikes or epidemics.\n\nOn the negative side, telecommuting makes management and security harder. Supervising staff, building culture and protecting data are more difficult when people work in different places. A manager who cannot see his team may not notice that a new employee is struggling, and sensitive information may be stored on unsafe home networks. Spontaneous conversations that produce ideas are less frequent, and new staff learn the company culture more slowly. Some employees may also take advantage of the freedom by working less. Nevertheless, employers can reduce these risks by setting clear goals, measuring results instead of hours, providing secure systems and requiring regular meetings.\n\nIn conclusion, telecommuting offers employers significant savings and a wider pool of talent. On balance, I believe that the advantages outweigh the disadvantages, provided that firms invest in management and security.",
+  "analysis": {
+    "type_vi": "A/D: làm việc từ xa với nhà tuyển dụng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nhiều công ty cho làm tại nhà vài ngày.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Tiết kiệm: ít văn phòng, tuyển ở bất kỳ đâu; ví dụ công ty cho nửa nhân viên làm từ xa chuyển toà nhà nhỏ tiết kiệm thuê, điện, dọn; tuyển người xa, khuyết tật; giữ người; hài lòng, ít ngày ốm; hoạt động khi bão, đình công.",
+        "refs": [
+          "ID-work-telecommuting-employers",
+          "ID-work-remote"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Quản lý và bảo mật khó: giám sát, văn hoá, dữ liệu; ví dụ quản lý không thấy nhân viên mới khó khăn, thông tin trên mạng gia đình không an toàn; ít trao đổi ngẫu hứng; một số làm ít; giải pháp mục tiêu rõ, đo kết quả, hệ thống an toàn, họp thường xuyên.",
+        "refs": [
+          "ID-work-telecommuting-employers",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu đầu tư quản lý và bảo mật.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-telecommuting-employers"
+    ]
+  },
+  "chunks": [
+    [
+      "work from home several days a week",
+      "làm việc tại nhà vài ngày mỗi tuần"
+    ],
+    [
+      "telecommuting",
+      "làm việc từ xa"
+    ],
+    [
+      "saves employers money",
+      "giúp nhà tuyển dụng tiết kiệm tiền"
+    ],
+    [
+      "less office space",
+      "ít không gian văn phòng hơn"
+    ],
+    [
+      "hire from anywhere",
+      "tuyển dụng từ bất kỳ đâu"
+    ],
+    [
+      "rent, electricity and cleaning",
+      "tiền thuê, điện và dọn dẹp"
+    ],
+    [
+      "cannot commute because of disability or family duties",
+      "không thể đi lại vì khuyết tật hoặc bổn phận gia đình"
+    ],
+    [
+      "keep experienced staff",
+      "giữ chân nhân viên có kinh nghiệm"
+    ],
+    [
+      "take fewer sick days",
+      "nghỉ ốm ít hơn"
+    ],
+    [
+      "storms, strikes or epidemics",
+      "bão, đình công hoặc dịch bệnh"
+    ],
+    [
+      "Supervising staff, building culture and protecting data",
+      "giám sát nhân viên, xây dựng văn hoá và bảo vệ dữ liệu"
+    ],
+    [
+      "a new employee is struggling",
+      "nhân viên mới đang gặp khó khăn"
+    ],
+    [
+      "unsafe home networks",
+      "mạng gia đình không an toàn"
+    ],
+    [
+      "Spontaneous conversations",
+      "những cuộc trò chuyện ngẫu hứng"
+    ],
+    [
+      "take advantage of the freedom",
+      "lợi dụng sự tự do"
+    ],
+    [
+      "setting clear goals",
+      "đặt mục tiêu rõ ràng"
+    ],
+    [
+      "measuring results instead of hours",
+      "đo lường kết quả thay vì số giờ"
+    ],
+    [
+      "secure systems",
+      "hệ thống an toàn"
+    ],
+    [
+      "a wider pool of talent",
+      "nguồn nhân tài rộng hơn"
+    ]
+  ]
+}

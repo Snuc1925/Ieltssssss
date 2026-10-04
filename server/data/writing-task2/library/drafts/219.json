@@ -1,0 +1,125 @@
+{
+  "questionId": 219,
+  "text": "Self-service tills, robot arms and automated warehouses are replacing human tasks in many industries, and the question is whether the advantages of work automation outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, automation raises efficiency and safety. Machines work faster, make fewer errors and take over dangerous tasks. A car factory that uses robots to weld and paint, for example, produces vehicles of consistent quality while workers avoid fumes and heavy lifting. Automated systems can work day and night without rest, which lowers costs and prices for consumers. Companies also gain the chance to deploy their human staff on more interesting tasks such as design, supervision and customer care. In mining and chemical industries, machines can enter places that would be fatal to people.\n\nOn the negative side, automation threatens jobs. Workers in routine roles lose employment, gains go to owners and retraining is slow. A cashier who is replaced by a machine at fifty, for example, may find it extremely difficult to learn a new trade, so that long-term unemployment follows. Communities that depend on a single factory suffer severely, and inequality can rise if the profits are not shared. Heavy reliance on machines also makes firms vulnerable to technical failures and cyberattacks. Nevertheless, these problems can be reduced by retraining schemes, support for displaced workers and gradual introduction of new systems.\n\nIn conclusion, automation brings substantial gains in productivity and safety, but it must be managed carefully. On balance, I believe that the advantages outweigh the disadvantages, provided that governments and employers support those who lose their jobs.",
+  "analysis": {
+    "type_vi": "A/D: tự động hoá công việc",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu máy tự thanh toán, robot, kho tự động.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Hiệu quả và an toàn: nhanh, ít sai, việc nguy hiểm; ví dụ nhà máy ô tô robot hàn, sơn chất lượng đều, công nhân tránh khói; chạy đêm ngày giảm giá; nhân viên làm việc thú vị; khai thác mỏ, hoá chất.",
+        "refs": [
+          "ID-work-automation"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Đe doạ việc làm: vai trò lặp lại mất việc, lợi nhuận về chủ, đào tạo chậm; ví dụ thu ngân 50 tuổi khó học nghề mới; cộng đồng phụ thuộc một nhà máy; bất bình đẳng; phụ thuộc lỗi kỹ thuật, tấn công mạng; giải pháp đào tạo, hỗ trợ.",
+        "refs": [
+          "ID-work-automation",
+          "ID-work-ai",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu có hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-automation"
+    ]
+  },
+  "chunks": [
+    [
+      "Self-service tills, robot arms and automated warehouses",
+      "quầy tự thanh toán, cánh tay robot và kho tự động"
+    ],
+    [
+      "work automation",
+      "tự động hoá công việc"
+    ],
+    [
+      "raises efficiency and safety",
+      "nâng cao hiệu quả và an toàn"
+    ],
+    [
+      "make fewer errors",
+      "mắc ít lỗi hơn"
+    ],
+    [
+      "take over dangerous tasks",
+      "đảm nhận các công việc nguy hiểm"
+    ],
+    [
+      "weld and paint",
+      "hàn và sơn"
+    ],
+    [
+      "vehicles of consistent quality",
+      "phương tiện có chất lượng đồng đều"
+    ],
+    [
+      "fumes and heavy lifting",
+      "khói và việc nâng vác nặng"
+    ],
+    [
+      "work day and night without rest",
+      "làm việc ngày đêm không nghỉ"
+    ],
+    [
+      "lowers costs and prices for consumers",
+      "giảm chi phí và giá cho người tiêu dùng"
+    ],
+    [
+      "design, supervision and customer care",
+      "thiết kế, giám sát và chăm sóc khách hàng"
+    ],
+    [
+      "fatal to people",
+      "gây chết người"
+    ],
+    [
+      "threatens jobs",
+      "đe doạ việc làm"
+    ],
+    [
+      "Workers in routine roles",
+      "người lao động ở vai trò lặp lại"
+    ],
+    [
+      "gains go to owners",
+      "lợi ích thuộc về chủ sở hữu"
+    ],
+    [
+      "learn a new trade",
+      "học một nghề mới"
+    ],
+    [
+      "depend on a single factory",
+      "phụ thuộc vào một nhà máy"
+    ],
+    [
+      "technical failures and cyberattacks",
+      "lỗi kỹ thuật và tấn công mạng"
+    ],
+    [
+      "retraining schemes",
+      "chương trình đào tạo lại"
+    ],
+    [
+      "displaced workers",
+      "người lao động bị mất việc"
+    ]
+  ]
+}

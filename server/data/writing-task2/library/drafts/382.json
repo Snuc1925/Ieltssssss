@@ -1,0 +1,117 @@
+{
+  "questionId": 382,
+  "text": "Workers in many industries belong to unions, while in others employers discourage them, and the question is to what extent employees should be allowed to unionise. I agree to a large extent, because collective bargaining protects fair pay and safety, although unions must act responsibly.\n\nTo begin with, employees should be allowed to unionise because individuals have little power against large employers. Unions negotiate wages, working conditions and protection from unfair dismissal. A group of warehouse workers who complain about unsafe equipment, for example, is much more likely to be heard through a union than if each of them speaks alone and risks dismissal. Many improvements that people now take for granted, such as limits on working hours, paid holidays and safety rules, were won through union campaigns. Freedom to organise is also recognised as a basic right in international agreements, and it allows workers to take part in decisions that shape their lives.\n\nHowever, rights should come with responsible use. Strikes can disrupt hospitals, transport and schools, harming people who are not part of the dispute, and rigid rules negotiated by powerful unions may slow change or protect weaker workers at the expense of newcomers. Some countries therefore require notice and a vote before industrial action, and keep essential services running. Employers also need the ability to adapt to competition. A system in which negotiations are open and both sides are ready to compromise generally produces better results for companies and employees alike.\n\nIn conclusion, I agree that employees should be allowed to unionise, because it balances the power of employers, but laws should ensure that this right is used responsibly.",
+  "analysis": {
+    "type_vi": "Extent: có nên cho phép lập công đoàn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thực tế; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Cá nhân yếu thế: công đoàn thương lượng lương, điều kiện, chống sa thải; ví dụ công nhân kho phàn nàn thiết bị nguy hiểm qua công đoàn dễ được nghe; giờ làm, nghỉ phép, an toàn đều nhờ công đoàn; quyền cơ bản.",
+        "refs": [
+          "ID-work-unions",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Đình công gây gián đoạn; quy tắc cứng; luật yêu cầu thông báo, bỏ phiếu; giữ dịch vụ thiết yếu; thương lượng cởi mở.",
+        "refs": [
+          "ID-work-unions",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cho phép nhưng dùng có trách nhiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-unions"
+    ]
+  },
+  "chunks": [
+    [
+      "belong to unions",
+      "là thành viên công đoàn"
+    ],
+    [
+      "unionise",
+      "lập công đoàn"
+    ],
+    [
+      "collective bargaining",
+      "thương lượng tập thể"
+    ],
+    [
+      "fair pay and safety",
+      "lương công bằng và an toàn"
+    ],
+    [
+      "little power against large employers",
+      "ít quyền lực trước những nhà tuyển dụng lớn"
+    ],
+    [
+      "wages, working conditions and protection from unfair dismissal",
+      "tiền lương, điều kiện làm việc và bảo vệ khỏi sa thải bất công"
+    ],
+    [
+      "unsafe equipment",
+      "thiết bị không an toàn"
+    ],
+    [
+      "risks dismissal",
+      "có nguy cơ bị sa thải"
+    ],
+    [
+      "limits on working hours, paid holidays and safety rules",
+      "giới hạn giờ làm, ngày nghỉ có lương và quy tắc an toàn"
+    ],
+    [
+      "union campaigns",
+      "các chiến dịch của công đoàn"
+    ],
+    [
+      "a basic right",
+      "một quyền cơ bản"
+    ],
+    [
+      "Strikes can disrupt hospitals, transport and schools",
+      "đình công có thể làm gián đoạn bệnh viện, giao thông và trường học"
+    ],
+    [
+      "rigid rules",
+      "quy tắc cứng nhắc"
+    ],
+    [
+      "notice and a vote before industrial action",
+      "thông báo và bỏ phiếu trước khi đình công"
+    ],
+    [
+      "essential services",
+      "dịch vụ thiết yếu"
+    ],
+    [
+      "adapt to competition",
+      "thích nghi với cạnh tranh"
+    ],
+    [
+      "compromise",
+      "thoả hiệp"
+    ],
+    [
+      "used responsibly",
+      "được sử dụng có trách nhiệm"
+    ]
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "questionId": 74,
+  "text": "More and more professionals work as freelancers, taking projects from several clients instead of holding a permanent job, and many people say that this has improved lives. I agree to some extent, since freelancing gives independence, although it removes security.\n\nTo begin with, freelancing improves life for those who value independence. Freelancers choose clients, hours and place, and can earn more than employees. A graphic designer who works from a café and accepts only interesting projects, for example, controls her own time and develops a wide range of skills. Parents and carers can fit work around family needs, and people in rural areas can sell services worldwide through the internet. Many freelancers say that they feel more motivated, since their income depends directly on the quality of their work. Digital platforms have also made it much easier to find clients and to receive payment from abroad, which has widened the range of people who can work independently.\n\nHowever, freelancing also removes security. Income is uneven, and freelancers receive no sick pay or pension and must find work constantly. A month without clients, or an illness, can cause a financial crisis, and obtaining a loan or a rented home is harder without a regular salary. Some people are forced into freelance work because employers refuse to hire permanent staff, so their independence is only apparent. Moreover, clients sometimes pay late or very low rates. Freelancing therefore suits skilled and confident workers rather than everyone, and governments should help by offering fair payment rules and access to insurance.\n\nIn conclusion, I agree that freelancing has improved life for many people, but only for those who can manage uncertainty, and protection should be strengthened for the rest.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: làm tự do cải thiện cuộc sống — agree một phần",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu xu hướng; agree to some extent.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Tự chủ: chọn khách, giờ, nơi, thu nhập cao; ví dụ nhà thiết kế làm ở quán, chọn dự án hay; cha mẹ sắp xếp gia đình; ở nông thôn bán dịch vụ toàn cầu; động lực.",
+        "refs": [
+          "ID-work-freelance",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Thu nhập bất định, không lương ốm, hưu trí; vay mượn khó; một số bị ép; khách trả muộn, rẻ; chính phủ nên có quy tắc thanh toán và bảo hiểm.",
+        "refs": [
+          "ID-work-freelance",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tốt cho người chịu được bất định; tăng bảo vệ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-freelance"
+    ]
+  },
+  "chunks": [
+    [
+      "work as freelancers",
+      "làm việc như người làm tự do"
+    ],
+    [
+      "instead of holding a permanent job",
+      "thay vì giữ công việc cố định"
+    ],
+    [
+      "freelancing improves life",
+      "làm tự do cải thiện cuộc sống"
+    ],
+    [
+      "value independence",
+      "coi trọng sự độc lập"
+    ],
+    [
+      "choose clients, hours and place",
+      "chọn khách hàng, giờ giấc và địa điểm"
+    ],
+    [
+      "accepts only interesting projects",
+      "chỉ nhận những dự án thú vị"
+    ],
+    [
+      "controls her own time",
+      "kiểm soát thời gian của mình"
+    ],
+    [
+      "a wide range of skills",
+      "nhiều kỹ năng đa dạng"
+    ],
+    [
+      "fit work around family needs",
+      "sắp xếp công việc quanh nhu cầu gia đình"
+    ],
+    [
+      "sell services worldwide",
+      "bán dịch vụ trên toàn thế giới"
+    ],
+    [
+      "more motivated",
+      "có động lực hơn"
+    ],
+    [
+      "Income is uneven",
+      "thu nhập thất thường"
+    ],
+    [
+      "no sick pay or pension",
+      "không có tiền ốm đau hay lương hưu"
+    ],
+    [
+      "a financial crisis",
+      "khủng hoảng tài chính"
+    ],
+    [
+      "a regular salary",
+      "mức lương đều đặn"
+    ],
+    [
+      "forced into freelance work",
+      "bị buộc phải làm tự do"
+    ],
+    [
+      "pay late or very low rates",
+      "trả muộn hoặc với mức rất thấp"
+    ],
+    [
+      "fair payment rules and access to insurance",
+      "quy tắc thanh toán công bằng và khả năng tiếp cận bảo hiểm"
+    ]
+  ]
+}

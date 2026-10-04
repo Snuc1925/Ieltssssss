@@ -1,0 +1,122 @@
+{
+  "questionId": 431,
+  "text": "In several countries, a large proportion of people under twenty-five cannot find work, and this essay will discuss the causes of youth unemployment and suggest solutions, focusing on inexperience and mismatched skills.\n\nTo begin with, there are several reasons why young people struggle to find jobs. Employers prefer experienced applicants, courses do not always teach needed skills and recessions hit new entrants first. A graduate who applies for an office job, for example, is often told that two years of experience is required, which she cannot have without a first job. Some university subjects have little demand in the labour market, while sectors that lack workers, such as technical trades, are unpopular. Young people are also usually the first to be dismissed in a downturn, because firms find it cheaper to let them go, and many jobs open to them are temporary.\n\nIn terms of solutions, apprenticeships, wage subsidies and cooperation between schools and firms can help. Apprenticeships combine paid work with study, so that young people gain experience while they learn. A company that receives a grant for hiring a school leaver, for example, takes less risk when employing someone untested. Schools and universities should consult employers about the skills needed, and career advice should explain which fields offer jobs. Governments can also support start-ups led by young people, and offer mobility grants for those who must move to find work. Such measures give young people a first step into work, which reduces long-term damage to their careers and to the economy.\n\nIn conclusion, youth unemployment results from inexperience and mismatched skills, and it can be reduced through training and links with employers.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: thất nghiệp thanh niên",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tỷ lệ cao; nguyên nhân và giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Nhà tuyển dụng thích có kinh nghiệm, khoá học không dạy kỹ năng cần, suy thoái đánh người mới trước; ví dụ cử nhân bị yêu cầu hai năm kinh nghiệm; ngành ít cần, ngành thiếu thợ kỹ thuật không hấp dẫn; người trẻ bị sa thải trước; việc tạm thời.",
+        "refs": [
+          "ID-work-youth-unemployment",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Học nghề, trợ cấp tiền lương, liên kết trường – công ty; học nghề vừa làm vừa học; ví dụ công ty nhận trợ cấp thuê người mới ra trường giảm rủi ro; tham vấn nhà tuyển dụng; tư vấn nghề; hỗ trợ khởi nghiệp, trợ cấp di chuyển.",
+        "refs": [
+          "ID-work-youth-unemployment",
+          "ID-work-startups",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Do thiếu kinh nghiệm và kỹ năng không khớp; đào tạo, liên kết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-youth-unemployment"
+    ]
+  },
+  "chunks": [
+    [
+      "under twenty-five cannot find work",
+      "dưới hai mươi lăm tuổi không tìm được việc"
+    ],
+    [
+      "youth unemployment",
+      "thất nghiệp thanh niên"
+    ],
+    [
+      "inexperience and mismatched skills",
+      "thiếu kinh nghiệm và kỹ năng không khớp"
+    ],
+    [
+      "struggle to find jobs",
+      "chật vật tìm việc"
+    ],
+    [
+      "Employers prefer experienced applicants",
+      "nhà tuyển dụng thích ứng viên có kinh nghiệm"
+    ],
+    [
+      "courses do not always teach needed skills",
+      "khoá học không phải lúc nào cũng dạy kỹ năng cần thiết"
+    ],
+    [
+      "recessions hit new entrants first",
+      "suy thoái tác động người mới vào trước"
+    ],
+    [
+      "two years of experience is required",
+      "yêu cầu hai năm kinh nghiệm"
+    ],
+    [
+      "little demand in the labour market",
+      "ít nhu cầu trên thị trường lao động"
+    ],
+    [
+      "technical trades",
+      "các nghề kỹ thuật"
+    ],
+    [
+      "first to be dismissed",
+      "bị sa thải đầu tiên"
+    ],
+    [
+      "temporary",
+      "tạm thời"
+    ],
+    [
+      "Apprenticeships",
+      "học nghề"
+    ],
+    [
+      "wage subsidies",
+      "trợ cấp tiền lương"
+    ],
+    [
+      "cooperation between schools and firms",
+      "hợp tác giữa trường học và công ty"
+    ],
+    [
+      "a grant for hiring a school leaver",
+      "khoản trợ cấp khi thuê học sinh mới ra trường"
+    ],
+    [
+      "career advice",
+      "tư vấn nghề nghiệp"
+    ],
+    [
+      "mobility grants",
+      "trợ cấp di chuyển"
+    ],
+    [
+      "a first step into work",
+      "bước đầu tiên vào thế giới việc làm"
+    ]
+  ]
+}

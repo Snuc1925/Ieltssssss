@@ -1,0 +1,125 @@
+{
+  "questionId": 138,
+  "text": "Some graduates look for a post in which they can stay for thirty years, while others change employers every few years, and opinions differ on whether career stability or career flexibility is preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of stability argue that it brings security and expertise. A steady career brings regular income, deep skills and the confidence to plan. A nurse who stays in one hospital for decades, for example, becomes an expert in her field and is trusted with greater responsibility. Employees who stay can obtain loans, buy homes and plan for children with greater certainty, and employers are generally willing to invest in training for loyal staff. Long service is also rewarded with higher pay and pensions, and colleagues form strong working relationships.\n\nOn the other hand, supporters of flexibility argue that it offers adaptability and fresh opportunity. Those who change jobs learn many skills, adapt when industries decline and avoid boredom. A programmer who moves between companies, for example, gains experience with different technologies and often receives a higher salary at each move. In an economy where companies can fail suddenly and technology changes quickly, depending on a single employer is risky, and flexible workers can seize new opportunities. People who are curious also feel more satisfied when each year brings new challenges.\n\nIn conclusion, both views have merit. Overall, I believe that a mixture suits modern life: workers should build solid core skills and a stable base, while remaining willing to change when circumstances demand it.",
+  "analysis": {
+    "type_vi": "Discuss both views: ổn định hay linh hoạt nghề nghiệp",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài tương phản ở lại 30 năm với đổi chủ vài năm.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ổn định",
+        "think": "Thu nhập đều, kỹ năng sâu, tự tin lập kế hoạch; ví dụ y tá ở một bệnh viện hàng chục năm thành chuyên gia; vay mua nhà; công ty đầu tư đào tạo; lương hưu, quan hệ.",
+        "refs": [
+          "ID-work-stability-flexibility"
+        ]
+      },
+      {
+        "step": "3. Linh hoạt",
+        "think": "Thích nghi và cơ hội mới: học nhiều kỹ năng, ngành suy tàn thì thích ứng, tránh nhàm; ví dụ lập trình viên đổi công ty, lương cao hơn; kinh tế thay đổi nhanh, phụ thuộc một chủ rủi ro; người tò mò hài lòng.",
+        "refs": [
+          "ID-work-stability-flexibility"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp nền tảng ổn định và sẵn sàng thay đổi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-stability-flexibility"
+    ]
+  },
+  "chunks": [
+    [
+      "stay for thirty years",
+      "ở lại ba mươi năm"
+    ],
+    [
+      "change employers every few years",
+      "đổi nhà tuyển dụng vài năm một lần"
+    ],
+    [
+      "career stability",
+      "sự ổn định nghề nghiệp"
+    ],
+    [
+      "career flexibility",
+      "sự linh hoạt nghề nghiệp"
+    ],
+    [
+      "security and expertise",
+      "sự an toàn và chuyên môn"
+    ],
+    [
+      "regular income, deep skills and the confidence to plan",
+      "thu nhập đều đặn, kỹ năng sâu và sự tự tin để lên kế hoạch"
+    ],
+    [
+      "an expert in her field",
+      "chuyên gia trong lĩnh vực của cô"
+    ],
+    [
+      "trusted with greater responsibility",
+      "được tin tưởng giao trách nhiệm lớn hơn"
+    ],
+    [
+      "obtain loans, buy homes",
+      "vay vốn, mua nhà"
+    ],
+    [
+      "invest in training for loyal staff",
+      "đầu tư đào tạo cho nhân viên trung thành"
+    ],
+    [
+      "Long service is also rewarded",
+      "thâm niên cũng được thưởng"
+    ],
+    [
+      "strong working relationships",
+      "các mối quan hệ làm việc bền chặt"
+    ],
+    [
+      "adaptability and fresh opportunity",
+      "khả năng thích nghi và cơ hội mới"
+    ],
+    [
+      "adapt when industries decline",
+      "thích nghi khi ngành suy giảm"
+    ],
+    [
+      "avoid boredom",
+      "tránh sự nhàm chán"
+    ],
+    [
+      "moves between companies",
+      "chuyển giữa các công ty"
+    ],
+    [
+      "a higher salary at each move",
+      "mức lương cao hơn ở mỗi lần chuyển"
+    ],
+    [
+      "depending on a single employer is risky",
+      "phụ thuộc vào một nhà tuyển dụng duy nhất là rủi ro"
+    ],
+    [
+      "seize new opportunities",
+      "nắm bắt cơ hội mới"
+    ],
+    [
+      "a stable base",
+      "nền tảng ổn định"
+    ]
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "questionId": 53,
+  "text": "Software that writes reports, answers customers and reads medical scans is already in use, and the question is how far artificial intelligence will change the workplace within twenty years. I believe that it will change many tasks greatly, although it will not replace human work entirely.\n\nTo begin with, artificial intelligence will change the nature of many jobs. It automates routine and data-heavy tasks, such as sorting documents, scheduling and basic analysis, and it creates new roles in design, supervision and maintenance. An accountant whose software prepares routine accounts, for example, can spend more time advising clients on tax and strategy. Factories, offices and shops will all use intelligent systems to cut costs and errors, and workers who learn to use these tools will become much more productive. Companies that adopt them early are likely to gain a competitive advantage.\n\nHowever, the workplace will be reshaped rather than emptied. Jobs that need creativity, judgement and personal care, such as teaching, nursing and counselling, remain human, because people value empathy and trust. At the same time, some workers will lose their positions, particularly in clerical and routine roles, and they must be retrained as roles change. Governments and employers therefore need to support lifelong learning and to protect those who are displaced. Past technologies, from the steam engine to the computer, destroyed some jobs but created many others, and there is little reason to expect that this pattern will end now.\n\nIn conclusion, artificial intelligence will change the workplace to a very large extent over the next twenty years, but it will reshape human work rather than replace it.",
+  "analysis": {
+    "type_vi": "Extent: AI thay đổi nơi làm việc đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài nêu thực tế; đáp: thay đổi lớn nhưng không thay thế hoàn toàn.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Tự động hoá việc lặp lại, nhiều dữ liệu; tạo vai trò mới; ví dụ kế toán dùng phần mềm dành thời gian tư vấn; công ty áp dụng sớm có lợi thế.",
+        "refs": [
+          "ID-work-ai",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Việc cần sáng tạo, phán đoán, chăm sóc giữ nguyên là người; một số mất việc nên cần đào tạo lại, học suốt đời; lịch sử công nghệ cũ tạo việc mới.",
+        "refs": [
+          "ID-work-ai",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Định hình lại chứ không thay thế.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "writes reports, answers customers and reads medical scans",
+      "viết báo cáo, trả lời khách hàng và đọc ảnh chụp y tế"
+    ],
+    [
+      "artificial intelligence",
+      "trí tuệ nhân tạo"
+    ],
+    [
+      "change the workplace",
+      "thay đổi nơi làm việc"
+    ],
+    [
+      "routine and data-heavy tasks",
+      "công việc lặp lại và nhiều dữ liệu"
+    ],
+    [
+      "sorting documents, scheduling and basic analysis",
+      "sắp xếp tài liệu, lên lịch và phân tích cơ bản"
+    ],
+    [
+      "design, supervision and maintenance",
+      "thiết kế, giám sát và bảo trì"
+    ],
+    [
+      "prepares routine accounts",
+      "lập sổ sách thường kỳ"
+    ],
+    [
+      "advising clients on tax and strategy",
+      "tư vấn khách hàng về thuế và chiến lược"
+    ],
+    [
+      "cut costs and errors",
+      "cắt giảm chi phí và sai sót"
+    ],
+    [
+      "a competitive advantage",
+      "lợi thế cạnh tranh"
+    ],
+    [
+      "reshaped rather than emptied",
+      "được định hình lại chứ không bị làm trống"
+    ],
+    [
+      "creativity, judgement and personal care",
+      "sự sáng tạo, phán đoán và chăm sóc cá nhân"
+    ],
+    [
+      "empathy and trust",
+      "sự đồng cảm và niềm tin"
+    ],
+    [
+      "clerical and routine roles",
+      "vai trò văn thư và công việc lặp lại"
+    ],
+    [
+      "retrained",
+      "được đào tạo lại"
+    ],
+    [
+      "lifelong learning",
+      "học tập suốt đời"
+    ],
+    [
+      "displaced",
+      "bị mất việc"
+    ],
+    [
+      "from the steam engine to the computer",
+      "từ động cơ hơi nước đến máy tính"
+    ]
+  ]
+}

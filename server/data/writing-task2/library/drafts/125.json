@@ -1,0 +1,114 @@
+{
+  "questionId": 125,
+  "text": "Offices that glow late into the evening are common in many cities, and opinions differ on whether work-life balance is essential or whether long hours show commitment. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of long hours argue that they show commitment. Employees who stay late demonstrate that they care about their organisation, and managers often reward them with promotion. A junior lawyer who works through weekends before a major trial, for example, may build a reputation that helps her whole career. In competitive fields or during busy periods, extra effort can mean the difference between success and failure, and some people enjoy their work so much that long hours do not feel like a burden. Start-up founders often say that their companies could not have survived without such dedication.\n\nOn the other hand, advocates of balance point out that rest protects health and performance. Rested employees concentrate better and stay longer in a job, while those who work excessively burn out, so results matter more than hours present. Time with family, friends and hobbies is needed to recover from stress, and workers who feel respected are more loyal. A staff member who leaves at a fixed time and works efficiently, for example, may produce more than a colleague who is tired all day. Companies that ignore this risk errors, absences and a high turnover of staff.\n\nIn conclusion, both views have merit. Overall, I believe that work-life balance is essential, and that commitment should be measured by the quality of results, although occasional extra effort in a busy period is reasonable.",
+  "analysis": {
+    "type_vi": "Discuss both views: cân bằng cuộc sống thiết yếu hay giờ dài thể hiện cam kết",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hình ảnh văn phòng sáng đèn muộn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Giờ dài",
+        "think": "Thể hiện cam kết: ở lại muộn cho thấy quan tâm, được thăng chức; ví dụ luật sư trẻ làm cuối tuần trước phiên toà lớn gây dựng danh tiếng; ngành cạnh tranh, mùa bận; một số thích công việc; người khởi nghiệp.",
+        "refs": [
+          "ID-work-balance",
+          "ID-work-long-hours"
+        ]
+      },
+      {
+        "step": "3. Cân bằng",
+        "think": "Nghỉ ngơi bảo vệ sức khoẻ và hiệu suất: tập trung hơn, ở lâu hơn, làm quá kiệt sức; kết quả quan trọng hơn giờ; thời gian với gia đình giúp hồi phục; ví dụ nhân viên về đúng giờ làm hiệu quả hơn đồng nghiệp mệt cả ngày; công ty bỏ qua gặp lỗi, vắng, thay nhân viên.",
+        "refs": [
+          "ID-work-balance"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cân bằng thiết yếu; đo bằng kết quả; thỉnh thoảng cố gắng thêm hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-balance"
+    ]
+  },
+  "chunks": [
+    [
+      "Offices that glow late into the evening",
+      "văn phòng sáng đèn đến tối muộn"
+    ],
+    [
+      "work-life balance is essential",
+      "cân bằng công việc – cuộc sống là thiết yếu"
+    ],
+    [
+      "long hours show commitment",
+      "giờ làm dài thể hiện sự cam kết"
+    ],
+    [
+      "Employees who stay late",
+      "nhân viên ở lại muộn"
+    ],
+    [
+      "reward them with promotion",
+      "thưởng cho họ bằng thăng chức"
+    ],
+    [
+      "works through weekends",
+      "làm việc xuyên cuối tuần"
+    ],
+    [
+      "build a reputation",
+      "gây dựng danh tiếng"
+    ],
+    [
+      "the difference between success and failure",
+      "sự khác biệt giữa thành công và thất bại"
+    ],
+    [
+      "Start-up founders",
+      "người sáng lập công ty khởi nghiệp"
+    ],
+    [
+      "rest protects health and performance",
+      "nghỉ ngơi bảo vệ sức khoẻ và hiệu suất"
+    ],
+    [
+      "Rested employees concentrate better",
+      "nhân viên được nghỉ ngơi tập trung tốt hơn"
+    ],
+    [
+      "burn out",
+      "kiệt sức"
+    ],
+    [
+      "results matter more than hours present",
+      "kết quả quan trọng hơn số giờ có mặt"
+    ],
+    [
+      "recover from stress",
+      "hồi phục sau căng thẳng"
+    ],
+    [
+      "leaves at a fixed time and works efficiently",
+      "ra về đúng giờ cố định và làm việc hiệu quả"
+    ],
+    [
+      "a high turnover of staff",
+      "tỷ lệ nhân viên nghỉ việc cao"
+    ],
+    [
+      "the quality of results",
+      "chất lượng kết quả"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "questionId": 87,
+  "text": "From spreadsheets to robots, tools have changed the way people work, and many people say that technology increases productivity. I agree with this view, since modern tools allow workers to do more in less time, although distractions can reduce the gain.\n\nTo begin with, technology raises productivity by speeding up tasks and communication. Software, machines and data tools let workers do more in less time. A warehouse that uses scanners and automated conveyor belts, for example, can process thousands of parcels per day with a small team, where once many people were required. Email and video calls allow colleagues in different countries to cooperate instantly, and cloud systems let them share documents without delay. In agriculture, modern machines and sensors help a single farmer to manage land that previously needed dozens of labourers, and output per worker has grown in most industries.\n\nFurthermore, technology improves accuracy and frees people for more valuable work. Computers calculate, record and check data without tiredness, and routine administration can be automated. However, the gain is not automatic. Notifications, social media and constant messages distract staff, and some employees need long training before they use new systems efficiently. Poorly chosen software can even slow work, for example when staff must enter the same data into several incompatible systems. Companies therefore need to select tools carefully, to train staff and to set rules about their use. When these conditions are met, productivity rises significantly, which allows higher wages or shorter working hours.\n\nIn conclusion, I agree that technology increases productivity, because it speeds up work and reduces errors, but it should be introduced with proper training and management.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: công nghệ tăng năng suất",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu công cụ từ bảng tính đến robot; agree + nhượng bộ xao nhãng.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Tăng tốc nhiệm vụ và giao tiếp: ví dụ kho dùng máy quét và băng chuyền xử lý hàng nghìn bưu kiện; email, họp video, đám mây; nông nghiệp máy móc, cảm biến.",
+        "refs": [
+          "ID-work-tech-productivity",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Chính xác hơn, giải phóng người cho việc giá trị; nhượng bộ: thông báo, mạng xã hội gây xao nhãng, cần đào tạo, phần mềm kém làm chậm; chọn công cụ cẩn thận, tạo quy tắc.",
+        "refs": [
+          "ID-work-tech-productivity",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, cần đào tạo và quản lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-tech-productivity"
+    ]
+  },
+  "chunks": [
+    [
+      "From spreadsheets to robots",
+      "từ bảng tính đến robot"
+    ],
+    [
+      "technology increases productivity",
+      "công nghệ làm tăng năng suất"
+    ],
+    [
+      "do more in less time",
+      "làm được nhiều hơn trong ít thời gian hơn"
+    ],
+    [
+      "speeding up tasks and communication",
+      "đẩy nhanh công việc và giao tiếp"
+    ],
+    [
+      "scanners and automated conveyor belts",
+      "máy quét và băng chuyền tự động"
+    ],
+    [
+      "process thousands of parcels per day",
+      "xử lý hàng nghìn bưu kiện mỗi ngày"
+    ],
+    [
+      "a small team",
+      "một nhóm nhỏ"
+    ],
+    [
+      "Email and video calls",
+      "email và cuộc gọi video"
+    ],
+    [
+      "cooperate instantly",
+      "hợp tác ngay lập tức"
+    ],
+    [
+      "cloud systems",
+      "hệ thống đám mây"
+    ],
+    [
+      "machines and sensors",
+      "máy móc và cảm biến"
+    ],
+    [
+      "output per worker",
+      "sản lượng trên mỗi lao động"
+    ],
+    [
+      "improves accuracy",
+      "cải thiện độ chính xác"
+    ],
+    [
+      "routine administration can be automated",
+      "công việc hành chính thường nhật có thể được tự động hoá"
+    ],
+    [
+      "Notifications, social media and constant messages distract staff",
+      "thông báo, mạng xã hội và tin nhắn liên tục làm nhân viên xao nhãng"
+    ],
+    [
+      "long training",
+      "đào tạo dài"
+    ],
+    [
+      "Poorly chosen software",
+      "phần mềm được chọn kém"
+    ],
+    [
+      "set rules about their use",
+      "đặt quy tắc về việc sử dụng"
+    ],
+    [
+      "higher wages or shorter working hours",
+      "lương cao hơn hoặc giờ làm ngắn hơn"
+    ]
+  ]
+}

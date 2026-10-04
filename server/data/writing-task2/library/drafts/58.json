@@ -1,0 +1,117 @@
+{
+  "questionId": 58,
+  "text": "When choosing a career, some graduates dream of joining a famous corporation, while others prefer a small local firm, and opinions differ on which offers the better working life. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of large corporations argue that they offer security and benefits. Big companies pay well, train staff and rarely collapse, and they offer clear promotion paths and international opportunities. A young engineer who joins a global company, for example, may receive expensive training and the chance to work abroad. Large firms also provide health insurance, pensions and paid holidays, and a well-known name on a curriculum vitae opens doors later. Departments in a big firm also let staff move between roles without changing employer, which keeps careers interesting over many years. For people who value stability, particularly those with families, this is a strong argument.\n\nOn the other hand, advocates of small businesses point out that they offer variety and closer relationships. Employees can feel like small cogs in a large company, whereas small businesses give wider responsibility, faster promotion and a friendly atmosphere. A graduate in a small design studio, for example, may handle clients, budgets and creative work within a year. Decisions are made quickly, and ideas from staff are more likely to be heard. The disadvantages are lower pay, fewer benefits and less stability, since small firms can fail during a recession.\n\nIn conclusion, both views have merit. Overall, I believe that the best choice depends on personality and career stage: a large corporation suits those who need security, while a small business suits those who want to learn quickly and to take responsibility.",
+  "analysis": {
+    "type_vi": "Discuss both views: công ty lớn hay nhỏ",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn của sinh viên mới ra trường.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Công ty lớn",
+        "think": "Lương cao, đào tạo, ít sụp đổ; lộ trình thăng tiến, cơ hội quốc tế; ví dụ kỹ sư trẻ được đào tạo, làm ở nước ngoài; bảo hiểm, lương hưu, tên tuổi trong CV; hợp người cần ổn định.",
+        "refs": [
+          "ID-work-large-small"
+        ]
+      },
+      {
+        "step": "3. Công ty nhỏ",
+        "think": "Đa dạng và quan hệ gần gũi: trách nhiệm rộng, thăng tiến nhanh, không khí thân thiện; ví dụ sinh viên ở studio nhỏ lo khách hàng, ngân sách trong một năm; quyết định nhanh, ý kiến được nghe; nhược: lương thấp, ít phúc lợi, dễ thất bại.",
+        "refs": [
+          "ID-work-large-small"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ tính cách và giai đoạn nghề.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-large-small"
+    ]
+  },
+  "chunks": [
+    [
+      "a famous corporation",
+      "một tập đoàn nổi tiếng"
+    ],
+    [
+      "a small local firm",
+      "một công ty nhỏ ở địa phương"
+    ],
+    [
+      "better working life",
+      "cuộc sống làm việc tốt hơn"
+    ],
+    [
+      "security and benefits",
+      "sự ổn định và phúc lợi"
+    ],
+    [
+      "pay well, train staff and rarely collapse",
+      "trả lương tốt, đào tạo nhân viên và hiếm khi sụp đổ"
+    ],
+    [
+      "clear promotion paths",
+      "lộ trình thăng tiến rõ ràng"
+    ],
+    [
+      "international opportunities",
+      "cơ hội quốc tế"
+    ],
+    [
+      "expensive training and the chance to work abroad",
+      "đào tạo tốn kém và cơ hội làm việc ở nước ngoài"
+    ],
+    [
+      "health insurance, pensions and paid holidays",
+      "bảo hiểm y tế, lương hưu và ngày nghỉ có lương"
+    ],
+    [
+      "a well-known name on a curriculum vitae",
+      "một cái tên nổi tiếng trong sơ yếu lý lịch"
+    ],
+    [
+      "variety and closer relationships",
+      "sự đa dạng và mối quan hệ gần gũi hơn"
+    ],
+    [
+      "small cogs in a large company",
+      "những bánh răng nhỏ trong một công ty lớn"
+    ],
+    [
+      "wider responsibility, faster promotion",
+      "trách nhiệm rộng hơn, thăng tiến nhanh hơn"
+    ],
+    [
+      "a friendly atmosphere",
+      "bầu không khí thân thiện"
+    ],
+    [
+      "handle clients, budgets and creative work",
+      "xử lý khách hàng, ngân sách và công việc sáng tạo"
+    ],
+    [
+      "Decisions are made quickly",
+      "quyết định được đưa ra nhanh chóng"
+    ],
+    [
+      "lower pay, fewer benefits and less stability",
+      "lương thấp hơn, ít phúc lợi hơn và kém ổn định hơn"
+    ],
+    [
+      "career stage",
+      "giai đoạn sự nghiệp"
+    ]
+  ]
+}

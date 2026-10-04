@@ -1,0 +1,123 @@
+{
+  "questionId": 496,
+  "text": "Since remote work became common, managers and employees have argued about its effects, and opinions differ on whether it increases productivity and job satisfaction or harms companies and teamwork. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of remote work argue that it raises satisfaction and output. Staff concentrate better and value flexibility, because they avoid commuting and can organise their day around their natural rhythm. A software developer who works from a quiet room, for example, may complete in three hours a task that took six in a noisy office. Surveys show that many employees would accept a lower salary to keep this freedom, and companies that offer it find it easier to recruit and keep talent. Savings on travel also reduce stress and give workers more time to rest, which benefits their performance.\n\nOn the other hand, critics argue that remote work weakens company culture and teamwork. Chance conversations, mentoring and creative collaboration decline when people rarely meet. New employees may feel unconnected and learn more slowly, and managers find it harder to notice problems. A design team that meets only through video calls, for example, may produce fewer new ideas than one that sketches together at a whiteboard. Over time, loyalty to the company can fall, and employees may be overlooked for promotion. Hybrid models, in which staff come to the office for part of the week, combine the strengths of both.\n\nIn conclusion, both views have merit. Overall, I believe that remote work raises individual productivity and satisfaction, but companies need regular face-to-face contact to protect teamwork, so a hybrid approach is best.",
+  "analysis": {
+    "type_vi": "Discuss both views: làm từ xa tăng năng suất vs hại làm việc nhóm",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tranh luận quản lý – nhân viên.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ủng hộ",
+        "think": "Tăng hài lòng và sản lượng: tập trung, linh hoạt, không đi lại; ví dụ lập trình viên làm trong phòng yên tĩnh xong 3 giờ việc 6 giờ ở văn phòng ồn; nhiều người chấp nhận lương thấp hơn; tuyển và giữ người; giảm stress.",
+        "refs": [
+          "ID-work-remote-productivity-views",
+          "ID-work-remote"
+        ]
+      },
+      {
+        "step": "3. Phê phán",
+        "think": "Yếu văn hoá, làm việc nhóm: trò chuyện ngẫu nhiên, cố vấn, sáng tạo giảm; người mới cô lập, học chậm; ví dụ nhóm thiết kế chỉ họp video ít ý tưởng hơn nhóm phác thảo trên bảng; lòng trung thành giảm; hybrid.",
+        "refs": [
+          "ID-work-remote-productivity-views",
+          "ID-work-telecommuting-employers"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tăng năng suất cá nhân, cần tiếp xúc; hybrid.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-remote-productivity-views"
+    ]
+  },
+  "chunks": [
+    [
+      "argued about its effects",
+      "tranh luận về tác động của nó"
+    ],
+    [
+      "increases productivity and job satisfaction",
+      "tăng năng suất và sự hài lòng trong công việc"
+    ],
+    [
+      "harms companies and teamwork",
+      "gây hại cho công ty và làm việc nhóm"
+    ],
+    [
+      "raises satisfaction and output",
+      "nâng cao sự hài lòng và sản lượng"
+    ],
+    [
+      "concentrate better and value flexibility",
+      "tập trung tốt hơn và coi trọng sự linh hoạt"
+    ],
+    [
+      "organise their day around their natural rhythm",
+      "sắp xếp ngày theo nhịp tự nhiên của họ"
+    ],
+    [
+      "works from a quiet room",
+      "làm việc từ một căn phòng yên tĩnh"
+    ],
+    [
+      "a noisy office",
+      "văn phòng ồn ào"
+    ],
+    [
+      "accept a lower salary",
+      "chấp nhận mức lương thấp hơn"
+    ],
+    [
+      "recruit and keep talent",
+      "tuyển và giữ nhân tài"
+    ],
+    [
+      "weakens company culture and teamwork",
+      "làm yếu văn hoá công ty và tinh thần đồng đội"
+    ],
+    [
+      "Chance conversations, mentoring and creative collaboration",
+      "trò chuyện ngẫu nhiên, cố vấn và hợp tác sáng tạo"
+    ],
+    [
+      "feel unconnected",
+      "cảm thấy tách biệt"
+    ],
+    [
+      "notice problems",
+      "nhận ra vấn đề"
+    ],
+    [
+      "a whiteboard",
+      "bảng trắng"
+    ],
+    [
+      "loyalty to the company can fall",
+      "lòng trung thành với công ty có thể giảm"
+    ],
+    [
+      "overlooked for promotion",
+      "bị bỏ qua khi thăng chức"
+    ],
+    [
+      "Hybrid models",
+      "mô hình kết hợp"
+    ],
+    [
+      "regular face-to-face contact",
+      "tiếp xúc trực tiếp thường xuyên"
+    ]
+  ]
+}

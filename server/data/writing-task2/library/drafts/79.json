@@ -1,0 +1,117 @@
+{
+  "questionId": 79,
+  "text": "In many economies, employees are asked to work overtime, and some countries are considering a longer standard working week, so the question is whether the advantages of longer working hours outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, longer hours can raise output and income. Workers who stay later earn extra pay, and firms can finish projects on time and serve customers for longer. A factory that adds a second shift, for example, can fill urgent orders and offer more jobs. In competitive industries, long hours may help a company to survive, and some employees enjoy the chance to progress faster by showing dedication. Governments sometimes argue that a longer week increases national output and tax revenue.\n\nOn the negative side, longer hours carry heavy human costs. Extra hours bring more pay and production, but tired workers make errors, suffer stress and illness, and have little time for family, so productivity per hour falls. Studies show that people who work very long weeks may be less productive than those on shorter schedules, and they are more likely to suffer heart disease and depression. Relationships, parenting and leisure suffer, which affects wider society, and employers lose staff through burnout. Shorter, focused hours are often more efficient, and several countries with short working weeks are among the most productive in the world.\n\nIn conclusion, longer working hours give limited benefits for a short period. On balance, I believe that the disadvantages outweigh the advantages, because the damage to health and family life is greater than the gain in output.",
+  "analysis": {
+    "type_vi": "A/D: giờ làm dài hơn",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu bối cảnh; kết luận nhược lớn hơn ưu.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Tăng sản lượng và thu nhập: tăng ca, hoàn thành đúng hạn, ví dụ nhà máy thêm ca đáp ứng đơn gấp, thêm việc; ngành cạnh tranh; tiến nhanh nhờ tận tâm; chính phủ muốn tăng sản lượng và thuế.",
+        "refs": [
+          "ID-work-long-hours"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Chi phí con người: mệt, sai sót, stress, bệnh, ít thời gian gia đình, năng suất theo giờ giảm; nghiên cứu: tim, trầm cảm; quan hệ; kiệt sức mất nhân viên; giờ ngắn tập trung hiệu quả hơn, nhiều nước giờ ngắn năng suất cao.",
+        "refs": [
+          "ID-work-long-hours",
+          "ID-work-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhược lớn hơn ưu.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-long-hours"
+    ]
+  },
+  "chunks": [
+    [
+      "work overtime",
+      "làm thêm giờ"
+    ],
+    [
+      "a longer standard working week",
+      "tuần làm việc tiêu chuẩn dài hơn"
+    ],
+    [
+      "longer working hours",
+      "giờ làm việc dài hơn"
+    ],
+    [
+      "raise output and income",
+      "tăng sản lượng và thu nhập"
+    ],
+    [
+      "earn extra pay",
+      "kiếm thêm tiền lương"
+    ],
+    [
+      "finish projects on time",
+      "hoàn thành dự án đúng hạn"
+    ],
+    [
+      "adds a second shift",
+      "thêm một ca làm việc thứ hai"
+    ],
+    [
+      "fill urgent orders",
+      "đáp ứng đơn hàng gấp"
+    ],
+    [
+      "show dedication",
+      "thể hiện sự tận tâm"
+    ],
+    [
+      "national output and tax revenue",
+      "sản lượng quốc gia và nguồn thu thuế"
+    ],
+    [
+      "heavy human costs",
+      "cái giá nặng nề về con người"
+    ],
+    [
+      "make errors, suffer stress and illness",
+      "mắc lỗi, bị căng thẳng và bệnh tật"
+    ],
+    [
+      "productivity per hour falls",
+      "năng suất mỗi giờ giảm"
+    ],
+    [
+      "heart disease and depression",
+      "bệnh tim và trầm cảm"
+    ],
+    [
+      "Relationships, parenting and leisure suffer",
+      "các mối quan hệ, việc nuôi dạy con và giải trí bị ảnh hưởng"
+    ],
+    [
+      "lose staff through burnout",
+      "mất nhân viên vì kiệt sức"
+    ],
+    [
+      "Shorter, focused hours",
+      "giờ làm ngắn và tập trung"
+    ],
+    [
+      "among the most productive in the world",
+      "nằm trong số những nước có năng suất cao nhất thế giới"
+    ]
+  ]
+}

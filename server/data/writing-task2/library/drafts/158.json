@@ -1,0 +1,121 @@
+{
+  "questionId": 158,
+  "text": "Hospitals, shops and factories run all day and night, and many employees must choose their shift, so opinions differ on whether morning or evening work is better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of morning shifts argue that they fit the body clock and family life. Most people sleep and eat better on day schedules and have evenings with family. A shop assistant who starts at seven and finishes at three, for example, can collect children from school, cook a meal and see friends in the evening. Morning workers are also usually more alert, since they have rested overnight, and public transport, banks and offices are open when they finish. Many people find that early starts give them a sense of achievement, as the most demanding tasks are completed before lunch.\n\nOn the other hand, supporters of evening shifts point out that these suit people who want free mornings and extra pay. Evening workers avoid rush-hour traffic, may earn allowances and can use the morning for study, errands or appointments. A student who works from four until midnight, for example, can attend lectures during the day and still earn a wage. Night owls often feel most energetic later in the day, so that they perform better in the evening. However, evening work reduces time with family and friends, and irregular sleep can affect health over many years.\n\nIn conclusion, both views have merit. Overall, I believe that the choice depends on personality and responsibilities, but for most people, particularly parents, a morning shift offers a healthier and more sociable routine.",
+  "analysis": {
+    "type_vi": "Discuss both views: ca sáng hay ca tối",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu nơi chạy suốt ngày đêm.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ca sáng",
+        "think": "Hợp nhịp sinh học và gia đình: ngủ, ăn tốt; ví dụ nhân viên bán hàng 7 giờ đến 3 giờ đón con, nấu ăn; tỉnh táo; ngân hàng, giao thông mở; thành tựu.",
+        "refs": [
+          "ID-work-shifts"
+        ]
+      },
+      {
+        "step": "3. Ca tối",
+        "think": "Buổi sáng rảnh và thêm tiền: tránh giờ cao điểm, phụ cấp; ví dụ sinh viên làm 4 giờ đến nửa đêm đi học ban ngày; cú đêm hiệu quả; nhược: ít thời gian gia đình, ngủ không đều.",
+        "refs": [
+          "ID-work-shifts"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ tính cách; đa số, nhất là cha mẹ, ca sáng lành mạnh hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-shifts"
+    ]
+  },
+  "chunks": [
+    [
+      "run all day and night",
+      "hoạt động cả ngày lẫn đêm"
+    ],
+    [
+      "choose their shift",
+      "chọn ca làm"
+    ],
+    [
+      "morning shifts",
+      "ca sáng"
+    ],
+    [
+      "evening shifts",
+      "ca tối"
+    ],
+    [
+      "fit the body clock and family life",
+      "phù hợp nhịp sinh học và đời sống gia đình"
+    ],
+    [
+      "sleep and eat better on day schedules",
+      "ngủ và ăn tốt hơn với lịch làm ban ngày"
+    ],
+    [
+      "collect children from school",
+      "đón con từ trường"
+    ],
+    [
+      "more alert",
+      "tỉnh táo hơn"
+    ],
+    [
+      "a sense of achievement",
+      "cảm giác thành tựu"
+    ],
+    [
+      "the most demanding tasks are completed before lunch",
+      "những việc đòi hỏi nhất được hoàn thành trước bữa trưa"
+    ],
+    [
+      "free mornings and extra pay",
+      "buổi sáng rảnh và thêm tiền lương"
+    ],
+    [
+      "Evening workers avoid rush-hour traffic",
+      "nhân viên ca tối tránh giờ cao điểm"
+    ],
+    [
+      "earn allowances",
+      "nhận phụ cấp"
+    ],
+    [
+      "errands or appointments",
+      "việc vặt hoặc cuộc hẹn"
+    ],
+    [
+      "attend lectures during the day",
+      "dự giờ giảng ban ngày"
+    ],
+    [
+      "Night owls",
+      "người thức khuya"
+    ],
+    [
+      "reduces time with family and friends",
+      "giảm thời gian bên gia đình và bạn bè"
+    ],
+    [
+      "irregular sleep",
+      "giấc ngủ thất thường"
+    ],
+    [
+      "a healthier and more sociable routine",
+      "nhịp sống lành mạnh và hoà đồng hơn"
+    ]
+  ]
+}

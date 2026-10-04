@@ -1,0 +1,121 @@
+{
+  "questionId": 481,
+  "text": "As people live longer, many governments are raising the age at which citizens can receive a state pension, and the question is whether the advantages of higher retirement ages outweigh the social costs. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, higher retirement ages ease pension costs. People live longer, so working later keeps pension funds solvent and experience in the workforce. When life expectancy rises by several years, paying pensions from sixty for thirty years becomes unaffordable. A country that raises the age from sixty-two to sixty-seven, for example, may avoid large tax increases or cuts in other services such as health and education. Many older people are healthy and wish to remain active, and employers benefit from their skills and reliability. Longer careers also give workers more time to save for their own retirement.\n\nOn the negative side, higher retirement ages impose social costs on some workers. Manual workers and those in poor health struggle, and young jobseekers may find fewer openings. A builder of sixty-six, for example, may be physically unable to continue, yet he cannot claim a full pension. Life expectancy differs between rich and poor, so that people on low incomes enjoy fewer years of retirement. Some older workers also face age discrimination and find it hard to keep jobs. Nevertheless, these costs can be reduced by exemptions for heavy occupations, phased retirement, retraining for older staff and laws against age discrimination.\n\nIn conclusion, higher retirement ages bring financial benefits but impose real burdens on some groups. On balance, I believe that the advantages outweigh the costs, provided that flexibility and support are offered to those who cannot work longer.",
+  "analysis": {
+    "type_vi": "A/D: tăng tuổi nghỉ hưu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu sống thọ hơn, tăng tuổi hưu; hỏi ưu vs chi phí xã hội.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Giảm chi phí lương hưu: sống thọ, quỹ ổn định, kinh nghiệm; ví dụ tuổi từ 62 lên 67 tránh tăng thuế lớn; nhiều người cao tuổi khoẻ muốn hoạt động; thời gian tiết kiệm.",
+        "refs": [
+          "ID-work-retirement-age"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Chi phí xã hội: lao động chân tay, sức khoẻ yếu, ít chỗ cho người trẻ; ví dụ thợ xây 66 tuổi không đủ sức; tuổi thọ khác nhau giàu nghèo; phân biệt tuổi; giải pháp miễn trừ, nghỉ dần, đào tạo lại, luật.",
+        "refs": [
+          "ID-work-retirement-age",
+          "ID-work-retire-early-late",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu linh hoạt và hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-work-retirement-age"
+    ]
+  },
+  "chunks": [
+    [
+      "raising the age at which citizens can receive a state pension",
+      "nâng độ tuổi công dân được nhận lương hưu nhà nước"
+    ],
+    [
+      "higher retirement ages",
+      "tuổi nghỉ hưu cao hơn"
+    ],
+    [
+      "social costs",
+      "chi phí xã hội"
+    ],
+    [
+      "ease pension costs",
+      "giảm bớt chi phí lương hưu"
+    ],
+    [
+      "keeps pension funds solvent",
+      "giữ cho quỹ hưu trí có khả năng chi trả"
+    ],
+    [
+      "life expectancy rises",
+      "tuổi thọ tăng"
+    ],
+    [
+      "unaffordable",
+      "không đủ khả năng chi trả"
+    ],
+    [
+      "avoid large tax increases",
+      "tránh tăng thuế lớn"
+    ],
+    [
+      "cuts in other services",
+      "cắt giảm các dịch vụ khác"
+    ],
+    [
+      "remain active",
+      "duy trì hoạt động"
+    ],
+    [
+      "skills and reliability",
+      "kỹ năng và sự đáng tin cậy"
+    ],
+    [
+      "Longer careers",
+      "sự nghiệp dài hơn"
+    ],
+    [
+      "Manual workers and those in poor health struggle",
+      "lao động chân tay và người sức khoẻ yếu gặp khó khăn"
+    ],
+    [
+      "fewer openings",
+      "ít vị trí hơn"
+    ],
+    [
+      "claim a full pension",
+      "nhận đủ lương hưu"
+    ],
+    [
+      "fewer years of retirement",
+      "ít năm nghỉ hưu hơn"
+    ],
+    [
+      "age discrimination",
+      "phân biệt tuổi tác"
+    ],
+    [
+      "exemptions for heavy occupations",
+      "miễn trừ cho các nghề nặng nhọc"
+    ],
+    [
+      "phased retirement",
+      "nghỉ hưu theo từng giai đoạn"
+    ]
+  ]
+}
