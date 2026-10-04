@@ -1,0 +1,130 @@
+{
+  "questionId": 265,
+  "text": "In cafes, trains and living rooms, people can be seen looking at screens instead of at one another, and opinions differ on whether technology reduces face-to-face interaction. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of this view argue that technology can reduce face-to-face contact. Time spent on screens can replace conversation, and people may prefer to text rather than meet. A family that scrolls through phones at dinner, for example, shares the same table but not the same conversation. Children who spend hours on games or videos may play less with friends, and workers who use messaging may avoid walking to a colleague's desk. Researchers have linked heavy social media use with loneliness, since online contact can feel less satisfying than real company. Habits such as checking phones during conversations also signal that the person present is less important than the device.\n\nOn the other hand, others point out that technology also helps people to meet. Messaging, video calls and social networks keep distant friends and relatives in touch, and people use apps to arrange gatherings, find groups with shared interests and organise events. Migrants and students living abroad can speak to their families every day. Online communities can reduce isolation for people with illnesses or unusual interests, who may not find others like them nearby. Many online friendships lead to meetings in person.\n\nIn conclusion, both views have merit. Personally, I believe that the outcome depends on how technology is used: when devices replace personal contact, relationships suffer, but when they support it, they can strengthen links between people.",
+  "analysis": {
+    "type_vi": "Discuss both views: công nghệ giảm tiếp xúc trực tiếp hay không",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hình ảnh (người nhìn màn hình thay vì nhìn nhau trong quán cà phê, tàu, phòng khách) rồi hai phe; ý kiến riêng: phụ thuộc cách dùng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe 'giảm tiếp xúc'",
+        "think": "Thời gian màn hình thay trò chuyện, người ta thích nhắn tin hơn gặp. Ví dụ gia đình lướt điện thoại ở bữa tối cùng bàn mà không cùng cuộc trò chuyện. Trẻ chơi game, xem video hàng giờ ít chơi với bạn; nhân viên dùng nhắn tin tránh đến bàn đồng nghiệp; nghiên cứu liên hệ dùng mạng xã hội nhiều với cô đơn; kiểm tra điện thoại khi nói chuyện báo hiệu người trước mặt kém quan trọng hơn thiết bị.",
+        "refs": [
+          "ID-tech-face-to-face",
+          "EX-tech-dinner-phones",
+          "ID-fam-tech-relationships"
+        ]
+      },
+      {
+        "step": "3. Phe 'giúp gặp gỡ'",
+        "think": "Nhắn tin, cuộc gọi video, mạng xã hội giữ bạn bè và người thân xa liên lạc; ứng dụng để hẹn gặp, tìm nhóm cùng sở thích, tổ chức sự kiện; người di cư, sinh viên nước ngoài nói chuyện với gia đình mỗi ngày; cộng đồng trực tuyến giảm cô lập cho người bệnh hoặc sở thích khác thường; nhiều tình bạn trực tuyến dẫn đến gặp trực tiếp.",
+        "refs": [
+          "ID-tech-face-to-face",
+          "ID-fam-online-dating-pro",
+          "ID-gov-internet-speech"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết quả phụ thuộc cách dùng: thiết bị thay tiếp xúc thì quan hệ tổn thương, hỗ trợ thì củng cố.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-face-to-face",
+      "EX-tech-dinner-phones"
+    ]
+  },
+  "chunks": [
+    [
+      "looking at screens instead of at one another",
+      "nhìn màn hình thay vì nhìn nhau"
+    ],
+    [
+      "technology reduces face-to-face interaction",
+      "công nghệ làm giảm tương tác trực tiếp"
+    ],
+    [
+      "replace conversation",
+      "thay thế trò chuyện"
+    ],
+    [
+      "text rather than meet",
+      "nhắn tin hơn là gặp"
+    ],
+    [
+      "scrolls through phones at dinner",
+      "lướt điện thoại trong bữa tối"
+    ],
+    [
+      "shares the same table but not the same conversation",
+      "cùng bàn nhưng không cùng cuộc trò chuyện"
+    ],
+    [
+      "play less with friends",
+      "chơi với bạn ít hơn"
+    ],
+    [
+      "walking to a colleague's desk",
+      "đi đến bàn của đồng nghiệp"
+    ],
+    [
+      "heavy social media use with loneliness",
+      "dùng mạng xã hội nhiều với cô đơn"
+    ],
+    [
+      "real company",
+      "sự bầu bạn thực"
+    ],
+    [
+      "checking phones during conversations",
+      "kiểm tra điện thoại khi trò chuyện"
+    ],
+    [
+      "Messaging, video calls and social networks",
+      "nhắn tin, cuộc gọi video và mạng xã hội"
+    ],
+    [
+      "distant friends and relatives",
+      "bạn bè và người thân ở xa"
+    ],
+    [
+      "arrange gatherings, find groups with shared interests",
+      "sắp xếp buổi gặp, tìm nhóm cùng sở thích"
+    ],
+    [
+      "speak to their families every day",
+      "nói chuyện với gia đình mỗi ngày"
+    ],
+    [
+      "Online communities can reduce isolation",
+      "cộng đồng trực tuyến có thể giảm cô lập"
+    ],
+    [
+      "unusual interests",
+      "sở thích khác thường"
+    ],
+    [
+      "lead to meetings in person",
+      "dẫn đến những cuộc gặp trực tiếp"
+    ],
+    [
+      "replace personal contact",
+      "thay thế tiếp xúc cá nhân"
+    ],
+    [
+      "strengthen links between people",
+      "củng cố mối liên kết giữa con người"
+    ]
+  ]
+}

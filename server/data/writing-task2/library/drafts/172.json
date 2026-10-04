@@ -1,0 +1,131 @@
+{
+  "questionId": 172,
+  "text": "Every search, purchase and message leaves a trace, and opinions differ on whether individuals should be responsible for digital privacy or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that individuals can do a great deal to protect their own information. Users can check the privacy settings of apps, use strong and different passwords, think before sharing personal details and avoid suspicious links. A user who reviews the privacy settings of an app, for example, can stop it from sharing her location with advertisers. People who understand how their data are collected can choose services that respect privacy and refuse those that do not, and this encourages companies to compete on protection. Since no law can protect someone who posts private details publicly, personal care is the first line of defence.\n\nOn the other hand, advocates of action by society and government point out that most individuals cannot control how their data are used. Digital privacy needs both careful users and strong protection from companies and governments. Terms and conditions are long and complicated, and companies collect, store and sell vast quantities of data in ways that users cannot see. Only laws and standards can limit what organisations collect, require them to secure data, give citizens the right to see and delete their information and impose penalties for abuse. Regulators can also act against data breaches that affect millions of people at once, which no individual could prevent.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, since governments must set clear rules for organisations while individuals take sensible precautions.",
+  "analysis": {
+    "type_vi": "Discuss both views: quyền riêng tư số — cá nhân hay xã hội / chính phủ chịu trách nhiệm",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thực tế (mỗi tìm kiếm, mua sắm, tin nhắn đều để lại dấu vết) rồi hai phe; kết luận kết hợp.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Cá nhân có thể làm nhiều: kiểm tra cài đặt riêng tư, mật khẩu mạnh và khác nhau, cân nhắc khi chia sẻ, tránh liên kết đáng ngờ. Ví dụ người dùng xem lại cài đặt của ứng dụng ngăn chia sẻ vị trí với nhà quảng cáo. Hiểu cách dữ liệu bị thu thập thì chọn dịch vụ tôn trọng riêng tư, buộc công ty cạnh tranh về bảo vệ; luật không bảo vệ được người tự đăng chi tiết riêng tư công khai.",
+        "refs": [
+          "ID-tech-digital-privacy",
+          "EX-tech-privacy-settings",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội / chính phủ",
+        "think": "Đa số cá nhân không kiểm soát được cách dữ liệu được dùng: điều khoản dài và phức tạp; công ty thu thập, lưu, bán lượng lớn dữ liệu theo cách người dùng không thấy. Chỉ luật và tiêu chuẩn giới hạn việc thu thập, yêu cầu bảo mật, trao quyền xem và xoá thông tin, phạt lạm dụng; cơ quan quản lý hành động trước rò rỉ dữ liệu ảnh hưởng hàng triệu người cùng lúc.",
+        "refs": [
+          "ID-tech-digital-privacy",
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp: chính phủ đặt quy tắc rõ cho tổ chức, cá nhân đề phòng hợp lý.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-digital-privacy",
+      "EX-tech-privacy-settings"
+    ]
+  },
+  "chunks": [
+    [
+      "Every search, purchase and message leaves a trace",
+      "mỗi lượt tìm kiếm, mua sắm và tin nhắn đều để lại dấu vết"
+    ],
+    [
+      "responsible for digital privacy",
+      "chịu trách nhiệm về quyền riêng tư số"
+    ],
+    [
+      "protect their own information",
+      "bảo vệ thông tin của chính mình"
+    ],
+    [
+      "check the privacy settings of apps",
+      "kiểm tra cài đặt riêng tư của ứng dụng"
+    ],
+    [
+      "strong and different passwords",
+      "mật khẩu mạnh và khác nhau"
+    ],
+    [
+      "think before sharing personal details",
+      "suy nghĩ trước khi chia sẻ chi tiết cá nhân"
+    ],
+    [
+      "avoid suspicious links",
+      "tránh liên kết đáng ngờ"
+    ],
+    [
+      "share her location with advertisers",
+      "chia sẻ vị trí của cô với nhà quảng cáo"
+    ],
+    [
+      "choose services that respect privacy",
+      "chọn dịch vụ tôn trọng quyền riêng tư"
+    ],
+    [
+      "compete on protection",
+      "cạnh tranh về mức độ bảo vệ"
+    ],
+    [
+      "posts private details publicly",
+      "đăng chi tiết riêng tư công khai"
+    ],
+    [
+      "the first line of defence",
+      "tuyến phòng thủ đầu tiên"
+    ],
+    [
+      "control how their data are used",
+      "kiểm soát cách dữ liệu của họ được dùng"
+    ],
+    [
+      "Terms and conditions are long and complicated",
+      "điều khoản và điều kiện dài và phức tạp"
+    ],
+    [
+      "collect, store and sell vast quantities of data",
+      "thu thập, lưu trữ và bán lượng dữ liệu khổng lồ"
+    ],
+    [
+      "limit what organisations collect",
+      "giới hạn thứ mà tổ chức thu thập"
+    ],
+    [
+      "the right to see and delete their information",
+      "quyền xem và xoá thông tin của họ"
+    ],
+    [
+      "impose penalties for abuse",
+      "áp dụng hình phạt cho hành vi lạm dụng"
+    ],
+    [
+      "data breaches",
+      "các vụ rò rỉ dữ liệu"
+    ],
+    [
+      "official leadership with personal action",
+      "sự dẫn dắt của chính quyền cùng hành động cá nhân"
+    ]
+  ]
+}

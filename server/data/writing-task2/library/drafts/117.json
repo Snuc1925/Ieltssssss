@@ -1,0 +1,126 @@
+{
+  "questionId": 117,
+  "text": "New inventions, from electric cars to artificial intelligence, appear every year, and governments are keen to encourage innovation. This essay will outline two principal benefits for a country that focuses on technological innovation: new industries and jobs, and improved efficiency and quality of life.\n\nFirst and foremost, technological innovation creates new industries, jobs and exports. A company that develops a better battery or a new medical device can grow into a major employer, and clusters of such firms attract suppliers, researchers and investors. A country that becomes known for efficient batteries, for instance, can sell them to many others. Innovative countries earn a reputation that attracts talented workers and international investment, and they are less dependent on exporting raw materials or low-cost goods. Start-up companies also create competition, which pushes older firms to improve. Societies that encourage experimentation tend to adapt more quickly to economic change.\n\nIn addition, innovation improves efficiency and quality of life. New technologies in health, transport and energy reduce costs, save time and cut pollution. A farm that switches from flooding its fields to drip irrigation, for example, can grow the same crop with far less water. Innovations such as online banking, ride-sharing and telemedicine make services cheaper and more convenient, and clean technology helps countries to meet environmental goals. Although innovation brings risks, such as job changes and ethical questions, and not every idea succeeds, governments can reduce these through education, retraining, and sensible regulation. A society that invests in innovation prepares itself for the challenges of the future.\n\nTo sum up, technological innovation brings clear benefits to a country, above all new industries and jobs and a better quality of life. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào đổi mới công nghệ — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu sự đổi mới liên tục (xe điện đến trí tuệ nhân tạo) rồi báo hai lợi ích: ngành và việc làm mới; hiệu quả và chất lượng sống. Khác đề 12: tập trung đổi mới (phát minh mới) và khởi nghiệp.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — ngành, việc làm, xuất khẩu",
+        "think": "Công ty phát triển pin tốt hơn hoặc thiết bị y tế mới lớn thành nhà tuyển dụng lớn; cụm công ty thu hút nhà cung cấp, nhà nghiên cứu, nhà đầu tư. Ví dụ nước nổi tiếng về pin hiệu suất cao bán cho nhiều nước. Nước đổi mới có danh tiếng thu hút người tài và đầu tư, ít phụ thuộc xuất khẩu nguyên liệu; khởi nghiệp tạo cạnh tranh; xã hội khuyến khích thử nghiệm thích nghi nhanh hơn.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "EX-env-battery-exports",
+          "ID-env-green-jobs"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — hiệu quả, chất lượng sống + nhượng bộ",
+        "think": "Công nghệ mới trong y tế, giao thông, năng lượng giảm chi phí, tiết kiệm thời gian, giảm ô nhiễm; ví dụ trang trại chuyển từ tưới tràn sang nhỏ giọt dùng ít nước hơn nhiều; ngân hàng trực tuyến, đi chung xe, y tế từ xa làm dịch vụ rẻ và tiện; công nghệ sạch giúp mục tiêu môi trường. Nhượng bộ: rủi ro (thay đổi việc làm, câu hỏi đạo đức), không phải ý tưởng nào cũng thành; giảm bằng giáo dục, đào tạo lại, điều tiết hợp lý.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "EX-env-drip-farm",
+          "ID-tech-automation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "electric cars to artificial intelligence",
+      "từ xe điện đến trí tuệ nhân tạo"
+    ],
+    [
+      "encourage innovation",
+      "khuyến khích đổi mới"
+    ],
+    [
+      "technological innovation",
+      "đổi mới công nghệ"
+    ],
+    [
+      "new industries and jobs",
+      "ngành và việc làm mới"
+    ],
+    [
+      "improved efficiency and quality of life",
+      "hiệu quả và chất lượng sống được cải thiện"
+    ],
+    [
+      "a better battery or a new medical device",
+      "pin tốt hơn hoặc thiết bị y tế mới"
+    ],
+    [
+      "grow into a major employer",
+      "phát triển thành nhà tuyển dụng lớn"
+    ],
+    [
+      "clusters of such firms",
+      "các cụm công ty như vậy"
+    ],
+    [
+      "attract suppliers, researchers and investors",
+      "thu hút nhà cung cấp, nhà nghiên cứu và nhà đầu tư"
+    ],
+    [
+      "known for efficient batteries",
+      "nổi tiếng về pin hiệu suất cao"
+    ],
+    [
+      "a reputation that attracts talented workers",
+      "danh tiếng thu hút lao động tài năng"
+    ],
+    [
+      "dependent on exporting raw materials",
+      "phụ thuộc vào xuất khẩu nguyên liệu thô"
+    ],
+    [
+      "Start-up companies",
+      "các công ty khởi nghiệp"
+    ],
+    [
+      "pushes older firms to improve",
+      "thúc đẩy các công ty cũ cải thiện"
+    ],
+    [
+      "adapt more quickly to economic change",
+      "thích nghi nhanh hơn với thay đổi kinh tế"
+    ],
+    [
+      "reduce costs, save time and cut pollution",
+      "giảm chi phí, tiết kiệm thời gian và cắt giảm ô nhiễm"
+    ],
+    [
+      "drip irrigation",
+      "tưới nhỏ giọt"
+    ],
+    [
+      "online banking, ride-sharing and telemedicine",
+      "ngân hàng trực tuyến, đi chung xe và y tế từ xa"
+    ],
+    [
+      "meet environmental goals",
+      "đạt mục tiêu môi trường"
+    ],
+    [
+      "prepares itself for the challenges of the future",
+      "chuẩn bị cho thách thức tương lai"
+    ]
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questionId": 388,
+  "text": "Sales of electric cars are rising, but they are still more expensive than petrol models, and many governments offer money to buyers. I agree to a large extent that electric vehicles should be subsidised, provided that the support is temporary and well targeted.\n\nTo begin with, subsidies are justified because they speed up the shift to cleaner transport. Buyers face high prices and a lack of chargers, so support speeds up adoption and cuts emissions. A family on a modest income, for example, may only buy an electric car if a grant lowers its price. As more cars are sold, factories can produce at a larger scale and batteries become cheaper, which eventually removes the need for help. Transport is a major source of greenhouse gases and local air pollution, so that early adoption brings benefits to public health as well as to the climate. Subsidies also encourage manufacturers and investors to build charging networks.\n\nHowever, unlimited subsidies have drawbacks. Grants mostly benefit wealthy households that would have bought an electric car anyway, and they cost public money that could improve public transport, which helps everyone, including people without cars. Support should therefore be time-limited, based on income and linked to investment in charging points, and it should decrease as prices fall. Some countries have already ended or reduced grants once sales were established. Governments may also need to ensure that electricity is produced from clean sources, otherwise the environmental benefit will be limited.\n\nIn conclusion, I agree that electric vehicles should be subsidised, but only in a temporary, targeted way that is combined with charging infrastructure.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): có nên trợ cấp xe điện — largely agree có điều kiện",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu bối cảnh (doanh số tăng nhưng vẫn đắt hơn xe xăng, nhiều chính phủ cấp tiền); largely agree với điều kiện tạm thời và đúng đối tượng.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do ủng hộ",
+        "think": "Đẩy nhanh chuyển sang giao thông sạch: người mua đối mặt giá cao và thiếu trạm sạc nên hỗ trợ tăng áp dụng, giảm khí thải. Ví dụ gia đình thu nhập vừa chỉ mua xe điện nếu trợ cấp giảm giá. Bán nhiều thì nhà máy sản xuất quy mô lớn, pin rẻ hơn rồi hết cần hỗ trợ; giao thông là nguồn khí nhà kính và ô nhiễm; trợ cấp khuyến khích nhà sản xuất, nhà đầu tư xây mạng sạc.",
+        "refs": [
+          "ID-tech-ev-subsidy",
+          "EX-tech-ev-grant",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Trợ cấp không giới hạn: chủ yếu lợi hộ giàu vốn đã mua; tốn tiền công có thể cải thiện giao thông công cộng. Hỗ trợ có thời hạn, theo thu nhập, gắn đầu tư trạm sạc, giảm khi giá giảm; một số nước đã chấm dứt; điện phải từ nguồn sạch.",
+        "refs": [
+          "ID-tech-ev-subsidy",
+          "ID-env-gov-rules",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý trợ cấp nhưng chỉ tạm thời, có mục tiêu, kèm hạ tầng sạc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-ev-subsidy",
+      "EX-tech-ev-grant"
+    ]
+  },
+  "chunks": [
+    [
+      "Sales of electric cars are rising",
+      "doanh số xe điện đang tăng"
+    ],
+    [
+      "more expensive than petrol models",
+      "đắt hơn các mẫu xe xăng"
+    ],
+    [
+      "electric vehicles should be subsidised",
+      "xe điện nên được trợ cấp"
+    ],
+    [
+      "temporary and well targeted",
+      "tạm thời và nhắm đúng đối tượng"
+    ],
+    [
+      "speed up the shift to cleaner transport",
+      "đẩy nhanh việc chuyển sang giao thông sạch hơn"
+    ],
+    [
+      "a lack of chargers",
+      "thiếu trạm sạc"
+    ],
+    [
+      "speeds up adoption and cuts emissions",
+      "đẩy nhanh việc áp dụng và cắt giảm khí thải"
+    ],
+    [
+      "a family on a modest income",
+      "một gia đình thu nhập khiêm tốn"
+    ],
+    [
+      "a grant lowers its price",
+      "khoản trợ cấp làm giảm giá"
+    ],
+    [
+      "produce at a larger scale",
+      "sản xuất ở quy mô lớn hơn"
+    ],
+    [
+      "batteries become cheaper",
+      "pin trở nên rẻ hơn"
+    ],
+    [
+      "greenhouse gases and local air pollution",
+      "khí nhà kính và ô nhiễm không khí cục bộ"
+    ],
+    [
+      "charging networks",
+      "mạng lưới trạm sạc"
+    ],
+    [
+      "Grants mostly benefit wealthy households",
+      "trợ cấp chủ yếu có lợi cho hộ giàu"
+    ],
+    [
+      "bought an electric car anyway",
+      "dù sao cũng mua xe điện"
+    ],
+    [
+      "improve public transport",
+      "cải thiện giao thông công cộng"
+    ],
+    [
+      "time-limited, based on income",
+      "có thời hạn, dựa trên thu nhập"
+    ],
+    [
+      "charging points",
+      "điểm sạc"
+    ],
+    [
+      "clean sources",
+      "nguồn sạch"
+    ]
+  ]
+}

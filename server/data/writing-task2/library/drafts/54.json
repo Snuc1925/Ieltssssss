@@ -1,0 +1,130 @@
+{
+  "questionId": 54,
+  "text": "In little more than a decade, smartphones have become part of daily life for billions of people, and many think that smartphone use has improved people's lives. I agree with this view, since smartphones put communication, information and services in everyone's pocket, although they have costs that users should manage.\n\nTo begin with, smartphones put communication, information and services in everyone's pocket. People can contact family, find directions, bank, shop and call for help from one device. A traveller who is lost in an unfamiliar city, for example, can find the way, translate a menu and call a taxi with one phone. Students can access encyclopaedias and lessons, workers can answer messages while away from the office, and farmers in remote villages can check weather forecasts and market prices. In emergencies, a phone can call for help or share location, which has saved many lives. Camera, maps, music and payments in one device would have required many gadgets in the past.\n\nFurthermore, smartphones have widened access to services for people who were previously excluded, such as mobile banking in places without branches and health advice in remote areas. However, there are real costs. Constant notifications and social media can be addictive and distracting, sleep and concentration may suffer, and personal data may be collected and misused. Children and teenagers are especially vulnerable to pressure and bullying. Users can reduce these risks by setting limits, turning off notifications, protecting privacy and putting the phone aside during meals and before bed. The value of a smartphone therefore depends on how sensibly it is used.\n\nIn conclusion, I agree that smartphones have improved people's lives, because they provide convenience, information and safety, provided that people use them in moderation.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: điện thoại thông minh cải thiện cuộc sống — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Mở bài nêu tốc độ lan rộng (chưa đầy một thập kỷ thành một phần đời sống hằng ngày của hàng tỷ người) rồi agree + lý do + điều kiện (dùng điều độ).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — giao tiếp, thông tin, dịch vụ trong túi",
+        "think": "Liên lạc gia đình, tìm đường, ngân hàng, mua sắm, gọi trợ giúp từ một thiết bị. Ví dụ du khách lạc ở thành phố lạ tìm đường, dịch thực đơn, gọi taxi bằng một điện thoại. Sinh viên truy cập từ điển bách khoa và bài học; người đi làm trả lời tin nhắn khi ở xa văn phòng; nông dân vùng xa xem dự báo thời tiết và giá thị trường; khẩn cấp gọi giúp, chia sẻ vị trí cứu nhiều mạng; máy ảnh, bản đồ, nhạc, thanh toán gộp một thiết bị.",
+        "refs": [
+          "ID-tech-smartphones",
+          "EX-tech-lost-map",
+          "ID-health-telemedicine",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Mở rộng tiếp cận dịch vụ cho người từng bị loại (ngân hàng di động nơi không có chi nhánh, tư vấn y tế vùng xa). Giới hạn: thông báo liên tục và mạng xã hội gây nghiện, xao nhãng, ảnh hưởng ngủ và tập trung; dữ liệu cá nhân bị thu thập, lạm dụng; trẻ em, thiếu niên dễ tổn thương với áp lực, bắt nạt; người dùng giảm rủi ro bằng đặt giới hạn, tắt thông báo, bảo vệ riêng tư, để điện thoại sang bên khi ăn và trước khi ngủ.",
+        "refs": [
+          "ID-tech-smartphones",
+          "ID-fam-child-smartphones",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì tiện lợi, thông tin, an toàn, với điều kiện dùng điều độ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-smartphones",
+      "EX-tech-lost-map"
+    ]
+  },
+  "chunks": [
+    [
+      "In little more than a decade",
+      "chỉ trong hơn một thập kỷ một chút"
+    ],
+    [
+      "part of daily life for billions of people",
+      "một phần đời sống hằng ngày của hàng tỷ người"
+    ],
+    [
+      "smartphone use has improved people's lives",
+      "việc dùng điện thoại thông minh đã cải thiện cuộc sống"
+    ],
+    [
+      "communication, information and services in everyone's pocket",
+      "giao tiếp, thông tin và dịch vụ trong túi mỗi người"
+    ],
+    [
+      "contact family, find directions, bank, shop and call for help",
+      "liên lạc gia đình, tìm đường, giao dịch ngân hàng, mua sắm và gọi trợ giúp"
+    ],
+    [
+      "lost in an unfamiliar city",
+      "lạc ở thành phố lạ"
+    ],
+    [
+      "translate a menu",
+      "dịch thực đơn"
+    ],
+    [
+      "call a taxi",
+      "gọi taxi"
+    ],
+    [
+      "encyclopaedias and lessons",
+      "bách khoa toàn thư và bài học"
+    ],
+    [
+      "answer messages while away from the office",
+      "trả lời tin nhắn khi xa văn phòng"
+    ],
+    [
+      "weather forecasts and market prices",
+      "dự báo thời tiết và giá thị trường"
+    ],
+    [
+      "call for help or share location",
+      "gọi trợ giúp hoặc chia sẻ vị trí"
+    ],
+    [
+      "saved many lives",
+      "cứu được nhiều mạng người"
+    ],
+    [
+      "widened access to services",
+      "mở rộng tiếp cận dịch vụ"
+    ],
+    [
+      "mobile banking",
+      "ngân hàng di động"
+    ],
+    [
+      "Constant notifications and social media can be addictive and distracting",
+      "thông báo liên tục và mạng xã hội có thể gây nghiện và xao nhãng"
+    ],
+    [
+      "sleep and concentration may suffer",
+      "giấc ngủ và sự tập trung có thể bị ảnh hưởng"
+    ],
+    [
+      "collected and misused",
+      "bị thu thập và lạm dụng"
+    ],
+    [
+      "turning off notifications",
+      "tắt thông báo"
+    ],
+    [
+      "in moderation",
+      "ở mức độ điều độ"
+    ]
+  ]
+}

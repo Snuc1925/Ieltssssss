@@ -1,0 +1,131 @@
+{
+  "questionId": 384,
+  "text": "Fast internet has become as essential as electricity for study, work and public services, yet connection quality varies enormously between cities and countryside and between rich and poor households. This essay will suggest practical measures that governments could take, focusing on building networks where the market will not and on keeping prices fair.\n\nTo begin with, governments should treat fast internet as essential infrastructure. Companies avoid sparsely populated areas because they are unprofitable, so public funding, shared networks, price regulation and low-cost plans are needed to bring fast service to rural and poorer households. A village that receives fast broadband, for example, allows a small business to sell its products online and children to study with the same tools as city pupils. Governments can pay for fibre cables to remote areas, offer grants or tax relief to firms that build there, and require operators to share masts and ducts, which lowers costs. Targets for coverage can be set in licences, with penalties for operators that fail to meet them.\n\nIn addition, authorities should keep services affordable and competitive. Regulation of prices, support for new providers and rules that prevent monopolies keep costs down, and social tariffs help low-income families. Public wifi in libraries, schools and community centres gives a basic level of access for those who cannot afford a home connection. A universal service obligation, which guarantees every household a minimum speed at a reasonable price, ensures that nobody is left behind. Equally important, public services and schools should plan for people with poor connections. These measures cost money, but economic growth, education and access to services in underserved regions more than repay it.\n\nIn conclusion, investing in networks where the market will not and regulating prices and competition offer the most realistic way of ensuring fair access to high-speed internet.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ đảm bảo truy cập internet tốc độ cao công bằng (khác đề 162: tập trung hạ tầng, giá, cạnh tranh)",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài so sánh internet nhanh thiết yếu như điện nhưng chất lượng chênh lệch nhiều giữa thành thị / nông thôn, giàu / nghèo; hai nhóm: xây mạng nơi thị trường không làm; giữ giá công bằng và cạnh tranh.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — hạ tầng thiết yếu",
+        "think": "Công ty tránh vùng thưa dân vì không có lãi nên cần tài trợ công, mạng chia sẻ, điều tiết giá, gói cước rẻ. Ví dụ làng có băng thông rộng nhanh cho doanh nghiệp nhỏ bán hàng trực tuyến và trẻ học bằng công cụ như học sinh thành phố. Chính phủ trả cáp quang đến vùng xa, trợ cấp hoặc giảm thuế cho công ty xây ở đó, buộc nhà mạng chia sẻ trụ và ống dẫn; mục tiêu phủ sóng trong giấy phép kèm phạt.",
+        "refs": [
+          "ID-tech-broadband-access",
+          "EX-tech-village-fibre",
+          "ID-env-gov-infrastructure",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — giá cả và cạnh tranh",
+        "think": "Điều tiết giá, hỗ trợ nhà cung cấp mới, quy tắc ngăn độc quyền giữ giá thấp; biểu giá xã hội giúp gia đình thu nhập thấp; wifi công cộng ở thư viện, trường, trung tâm cộng đồng cho truy cập cơ bản; nghĩa vụ dịch vụ phổ cập đảm bảo mỗi hộ tốc độ tối thiểu với giá hợp lý; dịch vụ công và trường lập kế hoạch cho người kết nối kém; lợi ích kinh tế, giáo dục, dịch vụ ở vùng thiếu hoàn vốn.",
+        "refs": [
+          "ID-tech-broadband-access",
+          "ID-tech-digital-divide",
+          "ID-env-gov-rules",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đầu tư mạng nơi thị trường không làm và điều tiết giá, cạnh tranh.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-broadband-access",
+      "EX-tech-village-fibre"
+    ]
+  },
+  "chunks": [
+    [
+      "Fast internet has become as essential as electricity",
+      "internet nhanh đã thiết yếu như điện"
+    ],
+    [
+      "fair access to high-speed internet",
+      "truy cập internet tốc độ cao công bằng"
+    ],
+    [
+      "connection quality varies enormously",
+      "chất lượng kết nối khác biệt rất lớn"
+    ],
+    [
+      "building networks where the market will not",
+      "xây mạng ở nơi thị trường không làm"
+    ],
+    [
+      "keeping prices fair",
+      "giữ giá cả công bằng"
+    ],
+    [
+      "essential infrastructure",
+      "hạ tầng thiết yếu"
+    ],
+    [
+      "sparsely populated areas",
+      "vùng dân cư thưa thớt"
+    ],
+    [
+      "public funding, shared networks, price regulation",
+      "tài trợ công, mạng chia sẻ, điều tiết giá"
+    ],
+    [
+      "low-cost plans",
+      "gói cước giá rẻ"
+    ],
+    [
+      "receives fast broadband",
+      "có băng thông rộng nhanh"
+    ],
+    [
+      "sell its products online",
+      "bán sản phẩm trực tuyến"
+    ],
+    [
+      "pay for fibre cables to remote areas",
+      "trả tiền cáp quang đến vùng xa"
+    ],
+    [
+      "grants or tax relief",
+      "trợ cấp hoặc giảm thuế"
+    ],
+    [
+      "share masts and ducts",
+      "chia sẻ trụ phát sóng và ống dẫn"
+    ],
+    [
+      "Targets for coverage",
+      "mục tiêu phủ sóng"
+    ],
+    [
+      "licences",
+      "giấy phép"
+    ],
+    [
+      "Regulation of prices, support for new providers",
+      "điều tiết giá, hỗ trợ nhà cung cấp mới"
+    ],
+    [
+      "rules that prevent monopolies",
+      "quy tắc ngăn chặn độc quyền"
+    ],
+    [
+      "A universal service obligation",
+      "nghĩa vụ dịch vụ phổ cập"
+    ],
+    [
+      "a minimum speed at a reasonable price",
+      "tốc độ tối thiểu với giá hợp lý"
+    ]
+  ]
+}

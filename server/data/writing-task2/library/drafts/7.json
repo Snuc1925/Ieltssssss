@@ -1,0 +1,131 @@
+{
+  "questionId": 7,
+  "text": "Cyberbullying, online scams, false news and loneliness are regularly blamed on the internet, and some argue that it is the main reason for social problems. I disagree to a large extent, since the internet magnifies social problems but rarely creates them, and its benefits are also considerable.\n\nTo begin with, the internet magnifies social problems but rarely creates them. Bullying, misinformation and isolation existed before, and the internet makes them faster and more visible, while the underlying causes are poverty, family breakdown and weak education. A false rumour about a neighbour, for example, once spread slowly by gossip but can now reach thousands in minutes. This amplification is serious, since victims may face abuse at any hour, but the roots of the behaviour lie in human attitudes and social conditions, not in cables and servers. Crime, inequality, addiction and discrimination all existed long before the internet and still exist in places where few people are online.\n\nFurthermore, the internet also helps to solve social problems. It allows isolated people to find communities, helps victims to report abuse, gives access to education and health information, and enables campaigns for change. During crises, such as pandemics, online tools kept schools, businesses and families connected. However, it would be wrong to ignore real harm. Algorithms that reward outrage can increase division, and heavy use may affect the wellbeing of some young people. Governments and platforms should therefore regulate harmful content, protect children and teach digital skills, while also tackling the social conditions that make people vulnerable. Without addressing these deeper causes, restricting the internet alone would solve little.\n\nIn conclusion, the internet is not the main reason for social problems, because it mostly amplifies difficulties that have other causes, although it can aggravate them and needs sensible regulation.",
+  "analysis": {
+    "type_vi": "Extent: internet là nguyên nhân chính của vấn đề xã hội — disagree phần lớn",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu ví dụ bị đổ lỗi (bắt nạt mạng, lừa đảo, tin giả, cô đơn) rồi disagree phần lớn + lý do (khuếch đại nhưng hiếm khi tạo ra) + nhượng bộ.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — khuếch đại chứ không tạo ra",
+        "think": "Bắt nạt, thông tin sai, cô lập đã có; internet làm nhanh và dễ thấy hơn; nguyên nhân sâu xa là nghèo, gia đình tan vỡ, giáo dục yếu. Ví dụ tin đồn sai về hàng xóm từng lan chậm qua buôn chuyện nay đến hàng nghìn người trong vài phút. Gốc của hành vi nằm ở thái độ và điều kiện xã hội; tội phạm, bất bình đẳng, nghiện, phân biệt có từ trước internet và vẫn tồn tại ở nơi ít người online.",
+        "refs": [
+          "ID-tech-internet-social",
+          "EX-tech-rumour-spread",
+          "ID-cr-poverty-choice",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Internet cũng giúp giải quyết vấn đề xã hội: người cô lập tìm cộng đồng, nạn nhân báo cáo lạm dụng, giáo dục và thông tin y tế, vận động thay đổi; trong khủng hoảng (đại dịch) công cụ trực tuyến giữ trường học, doanh nghiệp, gia đình kết nối. Nhượng bộ: không bỏ qua tác hại thật: thuật toán thưởng giận dữ làm tăng chia rẽ; dùng nhiều ảnh hưởng một số người trẻ; chính phủ và nền tảng điều tiết nội dung có hại, bảo vệ trẻ, dạy kỹ năng số, đồng thời giải quyết điều kiện xã hội.",
+        "refs": [
+          "ID-gov-social-awareness",
+          "ID-gov-hate-speech",
+          "ID-gov-internet-speech",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Không phải nguyên nhân chính vì chủ yếu khuếch đại khó khăn có nguyên nhân khác, nhưng cần điều tiết hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-internet-social",
+      "EX-tech-rumour-spread"
+    ]
+  },
+  "chunks": [
+    [
+      "Cyberbullying, online scams, false news and loneliness",
+      "bắt nạt mạng, lừa đảo trực tuyến, tin giả và cô đơn"
+    ],
+    [
+      "the main reason for social problems",
+      "nguyên nhân chính của các vấn đề xã hội"
+    ],
+    [
+      "magnifies social problems but rarely creates them",
+      "khuếch đại vấn đề xã hội nhưng hiếm khi tạo ra chúng"
+    ],
+    [
+      "faster and more visible",
+      "nhanh hơn và dễ thấy hơn"
+    ],
+    [
+      "poverty, family breakdown and weak education",
+      "nghèo đói, gia đình tan vỡ và giáo dục yếu kém"
+    ],
+    [
+      "spread slowly by gossip",
+      "lan chậm qua tin đồn"
+    ],
+    [
+      "reach thousands in minutes",
+      "đến hàng nghìn người trong vài phút"
+    ],
+    [
+      "victims may face abuse at any hour",
+      "nạn nhân có thể bị lạm dụng bất kỳ giờ nào"
+    ],
+    [
+      "human attitudes and social conditions",
+      "thái độ con người và điều kiện xã hội"
+    ],
+    [
+      "Crime, inequality, addiction and discrimination",
+      "tội phạm, bất bình đẳng, nghiện và phân biệt đối xử"
+    ],
+    [
+      "isolated people find communities",
+      "người cô lập tìm thấy cộng đồng"
+    ],
+    [
+      "report abuse",
+      "báo cáo lạm dụng"
+    ],
+    [
+      "access to education and health information",
+      "tiếp cận giáo dục và thông tin y tế"
+    ],
+    [
+      "enable campaigns for change",
+      "giúp các chiến dịch thay đổi"
+    ],
+    [
+      "kept schools, businesses and families connected",
+      "giữ trường học, doanh nghiệp và gia đình kết nối"
+    ],
+    [
+      "Algorithms that reward outrage",
+      "thuật toán thưởng cho sự phẫn nộ"
+    ],
+    [
+      "increase division",
+      "làm tăng chia rẽ"
+    ],
+    [
+      "protect children and teach digital skills",
+      "bảo vệ trẻ em và dạy kỹ năng số"
+    ],
+    [
+      "vulnerable",
+      "dễ bị tổn thương"
+    ],
+    [
+      "aggravate them",
+      "làm chúng trầm trọng hơn"
+    ]
+  ]
+}

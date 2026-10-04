@@ -1,0 +1,129 @@
+{
+  "questionId": 34,
+  "text": "Robots weld cars, software sorts parcels and self-service machines process payments, and many people think that automation has improved people's lives. I agree with this view, since automation removes dangerous and repetitive work and makes goods cheaper, although it also creates difficulties that need to be managed.\n\nTo begin with, automation removes dangerous and repetitive work and makes goods cheaper. Machines handle heavy lifting, hazardous chemicals and repetitive assembly, raising productivity and lowering prices. A robot that welds car parts, for example, protects workers from fumes and produces more consistent results. Factories that use automation have fewer accidents, and products such as cars, phones and food are more affordable than they would otherwise be. Automation in offices removes tedious tasks like data entry, so that people can concentrate on more interesting work involving judgement and creativity. Hospitals use automated systems to deliver supplies and process test results, which frees nurses to care for patients.\n\nFurthermore, automation has created new jobs in design, maintenance, programming and services, and it has allowed people to enjoy shorter working hours and more leisure than previous generations. However, workers whose jobs disappear need retraining and support, and automation may widen inequality if the gains go only to owners of machines. Towns that depended on a single factory can suffer badly. Governments and employers should therefore invest in education and retraining, provide support for those who lose jobs and ensure that the benefits are shared through fair taxation and wages. When managed well, automation improves living standards for most people.\n\nIn conclusion, I agree that automation has improved people's lives, because it makes work safer and goods cheaper, provided that those who lose out are supported.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: tự động hoá cải thiện cuộc sống — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Mở bài nêu ví dụ (robot hàn xe, phần mềm phân loại bưu kiện, máy tự phục vụ thanh toán) rồi agree + lý do + điều kiện (hỗ trợ người mất việc).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — công việc an toàn hơn, hàng rẻ hơn",
+        "think": "Máy xử lý nâng nặng, hoá chất nguy hiểm, lắp ráp lặp lại, tăng năng suất, hạ giá. Ví dụ robot hàn linh kiện xe bảo vệ công nhân khỏi khói và cho kết quả đồng đều. Nhà máy ít tai nạn; xe, điện thoại, thực phẩm rẻ hơn; văn phòng loại việc nhập liệu chán nên tập trung việc thú vị cần phán đoán, sáng tạo; bệnh viện dùng hệ thống tự động giải phóng y tá chăm bệnh nhân.",
+        "refs": [
+          "ID-tech-automation",
+          "EX-tech-factory-robot",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Tạo việc làm mới (thiết kế, bảo trì, lập trình, dịch vụ), giờ làm ngắn hơn, nhiều thời gian rảnh hơn. Giới hạn: người mất việc cần đào tạo lại, hỗ trợ; có thể nới bất bình đẳng nếu lợi ích chỉ về chủ máy; thị trấn phụ thuộc một nhà máy thiệt hại nặng; chính phủ, doanh nghiệp đầu tư giáo dục, đào tạo lại, hỗ trợ người mất việc, chia sẻ lợi ích qua thuế và lương công bằng.",
+        "refs": [
+          "ID-tech-automation",
+          "ID-env-renew-jobs",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì làm công việc an toàn hơn, hàng rẻ hơn, với điều kiện người thua thiệt được hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-automation",
+      "EX-tech-factory-robot"
+    ]
+  },
+  "chunks": [
+    [
+      "Robots weld cars",
+      "robot hàn xe hơi"
+    ],
+    [
+      "software sorts parcels",
+      "phần mềm phân loại bưu kiện"
+    ],
+    [
+      "self-service machines process payments",
+      "máy tự phục vụ xử lý thanh toán"
+    ],
+    [
+      "automation has improved people's lives",
+      "tự động hoá đã cải thiện cuộc sống"
+    ],
+    [
+      "removes dangerous and repetitive work",
+      "loại bỏ công việc nguy hiểm và lặp lại"
+    ],
+    [
+      "makes goods cheaper",
+      "làm hàng hoá rẻ hơn"
+    ],
+    [
+      "heavy lifting, hazardous chemicals and repetitive assembly",
+      "nâng nặng, hoá chất nguy hiểm và lắp ráp lặp lại"
+    ],
+    [
+      "raising productivity and lowering prices",
+      "tăng năng suất và hạ giá"
+    ],
+    [
+      "protects workers from fumes",
+      "bảo vệ công nhân khỏi khói độc"
+    ],
+    [
+      "more consistent results",
+      "kết quả đồng đều hơn"
+    ],
+    [
+      "fewer accidents",
+      "ít tai nạn hơn"
+    ],
+    [
+      "more affordable",
+      "vừa túi tiền hơn"
+    ],
+    [
+      "tedious tasks like data entry",
+      "việc tẻ nhạt như nhập liệu"
+    ],
+    [
+      "judgement and creativity",
+      "phán đoán và sáng tạo"
+    ],
+    [
+      "free nurses to care for patients",
+      "giải phóng y tá để chăm sóc bệnh nhân"
+    ],
+    [
+      "design, maintenance, programming and services",
+      "thiết kế, bảo trì, lập trình và dịch vụ"
+    ],
+    [
+      "shorter working hours and more leisure",
+      "giờ làm ngắn hơn và nhiều thời gian rảnh hơn"
+    ],
+    [
+      "retraining and support",
+      "đào tạo lại và hỗ trợ"
+    ],
+    [
+      "widen inequality",
+      "làm bất bình đẳng sâu thêm"
+    ],
+    [
+      "depended on a single factory",
+      "phụ thuộc vào một nhà máy"
+    ]
+  ]
+}

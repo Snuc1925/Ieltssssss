@@ -1,0 +1,123 @@
+{
+  "questionId": 171,
+  "text": "Governments must choose between funding scientific research and funding services such as health, education and welfare, and opinions differ on which should come first. This essay will discuss both views before explaining my own opinion.\n\nOn the one hand, those who favour public services argue that they meet urgent needs. Hospitals, schools and welfare protect health, give children an education and support the vulnerable, and these needs cannot wait. A family that cannot see a doctor, for example, suffers immediately, whereas the results of research may take decades to appear. Services also create a healthy and educated population, which is the basis of a strong economy. Many people feel that it is unfair to spend public money on laboratories while basic needs remain unmet, and voters generally expect governments to serve them directly.\n\nOn the other hand, supporters of research argue that it is a long-term investment. Research produces discoveries, jobs and growth that pay for future services. Years of earlier research, for example, allowed scientists to develop vaccines quickly when a new virus appeared. Private companies often avoid basic research because the returns are uncertain, so that only governments can fund it, and countries that cut research risk falling behind in the technology and medicine of the future. Research also trains skilled workers, who add to national income and improve public services themselves.\n\nIn conclusion, both views have merit. Overall, I believe that governments should fund services first, since they meet urgent needs, but keep research as a protected long-term investment, because a balanced budget serves both present and future needs.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi ngân sách cho nghiên cứu hay dịch vụ công",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn (nghiên cứu khoa học hay dịch vụ y tế, giáo dục, phúc lợi); kết luận dịch vụ trước nhưng giữ nghiên cứu như đầu tư dài hạn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Dịch vụ công",
+        "think": "Đáp ứng nhu cầu cấp thiết: bệnh viện, trường, phúc lợi bảo vệ sức khoẻ, giáo dục trẻ, hỗ trợ người yếu thế; không thể chờ. Ví dụ gia đình không đi khám bác sĩ chịu hậu quả ngay, nghiên cứu mất hàng thập kỷ. Dịch vụ tạo dân số khoẻ, có học nền kinh tế mạnh; bất công khi chi cho phòng thí nghiệm khi nhu cầu cơ bản chưa đủ.",
+        "refs": [
+          "ID-tech-research-vs-services"
+        ]
+      },
+      {
+        "step": "3. Nghiên cứu",
+        "think": "Đầu tư dài hạn tạo khám phá, việc làm, tăng trưởng trả cho dịch vụ tương lai. Ví dụ nghiên cứu nhiều năm giúp phát triển vắc-xin nhanh khi virus mới xuất hiện. Công ty tư tránh nghiên cứu cơ bản vì lợi ích bất định nên chỉ chính phủ tài trợ; nước cắt nghiên cứu tụt hậu; đào tạo lao động kỹ năng.",
+        "refs": [
+          "ID-tech-research-vs-services",
+          "EX-tech-vaccine-research"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Dịch vụ trước vì nhu cầu cấp thiết, nhưng bảo vệ nghiên cứu như đầu tư dài hạn; ngân sách cân bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-research-vs-services",
+      "EX-tech-vaccine-research"
+    ]
+  },
+  "chunks": [
+    [
+      "funding scientific research and funding services",
+      "tài trợ nghiên cứu khoa học và tài trợ dịch vụ"
+    ],
+    [
+      "health, education and welfare",
+      "y tế, giáo dục và phúc lợi"
+    ],
+    [
+      "meet urgent needs",
+      "đáp ứng nhu cầu cấp bách"
+    ],
+    [
+      "support the vulnerable",
+      "hỗ trợ những người dễ bị tổn thương"
+    ],
+    [
+      "cannot wait",
+      "không thể chờ đợi"
+    ],
+    [
+      "suffers immediately",
+      "chịu hậu quả ngay lập tức"
+    ],
+    [
+      "may take decades to appear",
+      "có thể mất hàng thập kỷ mới xuất hiện"
+    ],
+    [
+      "a healthy and educated population",
+      "dân số khoẻ mạnh và có học thức"
+    ],
+    [
+      "the basis of a strong economy",
+      "nền tảng của nền kinh tế mạnh"
+    ],
+    [
+      "basic needs remain unmet",
+      "nhu cầu cơ bản chưa được đáp ứng"
+    ],
+    [
+      "a long-term investment",
+      "khoản đầu tư dài hạn"
+    ],
+    [
+      "discoveries, jobs and growth",
+      "khám phá, việc làm và tăng trưởng"
+    ],
+    [
+      "pay for future services",
+      "chi trả cho dịch vụ tương lai"
+    ],
+    [
+      "develop vaccines quickly",
+      "phát triển vắc-xin nhanh chóng"
+    ],
+    [
+      "basic research",
+      "nghiên cứu cơ bản"
+    ],
+    [
+      "falling behind",
+      "tụt hậu"
+    ],
+    [
+      "trains skilled workers",
+      "đào tạo lao động có kỹ năng"
+    ],
+    [
+      "a balanced budget",
+      "ngân sách cân bằng"
+    ],
+    [
+      "present and future needs",
+      "nhu cầu hiện tại và tương lai"
+    ]
+  ]
+}

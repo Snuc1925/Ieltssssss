@@ -1,0 +1,131 @@
+{
+  "questionId": 264,
+  "text": "On many websites, people can post without using their real names, and many feel that online anonymity encourages bad behaviour. I agree to a large extent, since people who cannot be identified feel free to insult and harass others, although anonymity also protects people who need it.\n\nTo begin with, anonymity can encourage bad behaviour because it removes the fear of consequences. People who cannot be identified feel free to insult and harass others. A user with a false name who insults strangers, for example, behaves in a way that he would never dare to in person. Researchers call this the online disinhibition effect: without a face and a reputation, people may feel less empathy and more aggression. Trolling, hate speech, threats and the spread of false stories are more common where accounts are anonymous, and victims may find it very difficult to hold anyone responsible. Young people are especially vulnerable to anonymous bullying, which can continue day and night.\n\nHowever, anonymity also has legitimate uses. Whistleblowers, victims of abuse and citizens in repressive states depend on it to speak safely, and many people use pseudonyms to discuss sensitive subjects such as health or sexuality without fear of judgement. Banning anonymity entirely would remove these protections and give platforms and governments great power over personal information. Moreover, real names do not always prevent abuse, since many people behave badly under their own names. A balanced approach is to allow pseudonyms but to require platforms to deal quickly with abuse, to enable police to identify serious offenders through proper legal procedures, and to give users tools to block and report harassment.\n\nIn conclusion, online anonymity encourages bad behaviour to a large extent, but it also protects people who need it, so rules should punish abuse without removing safe ways to speak.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): ẩn danh trực tuyến khuyến khích hành vi xấu — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + nhượng bộ",
+        "think": "Mở bài nêu thực tế (nhiều website cho đăng không cần tên thật) rồi largely agree + lý do + nhượng bộ (ẩn danh cũng bảo vệ người cần).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — mất nỗi sợ hậu quả",
+        "think": "Người không bị nhận diện thấy tự do lăng mạ, quấy rối. Ví dụ người dùng tên giả lăng mạ người lạ cư xử theo cách không dám làm trực tiếp. Nhà nghiên cứu gọi là hiệu ứng mất ức chế trực tuyến: không mặt, không danh tiếng, ít đồng cảm hơn, hung hăng hơn. Troll, ngôn luận thù ghét, đe doạ, tin giả phổ biến hơn ở tài khoản ẩn danh; nạn nhân khó buộc ai chịu trách nhiệm; người trẻ dễ bị bắt nạt ẩn danh ngày đêm.",
+        "refs": [
+          "ID-tech-anonymity",
+          "EX-tech-anonymous-troll",
+          "ID-gov-hate-speech",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Ẩn danh có mục đích chính đáng: người tố giác, nạn nhân lạm dụng, công dân ở nước đàn áp nhờ nó để nói an toàn; nhiều người dùng bút danh bàn chủ đề nhạy cảm (sức khoẻ, tính dục) không sợ phán xét. Cấm hoàn toàn mất bảo vệ này và giao nền tảng, chính phủ quyền lực lớn với thông tin cá nhân; tên thật không luôn ngăn lạm dụng. Cách cân bằng: cho phép bút danh, buộc nền tảng xử lý lạm dụng nhanh, cho cảnh sát nhận diện người phạm tội nghiêm trọng qua thủ tục pháp lý, công cụ chặn và báo cáo quấy rối.",
+        "refs": [
+          "ID-tech-anonymity",
+          "ID-cr-report-protect",
+          "ID-gov-censorship",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Khuyến khích hành vi xấu ở mức độ lớn nhưng bảo vệ người cần; quy tắc phạt lạm dụng mà không xoá cách nói an toàn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-anonymity",
+      "EX-tech-anonymous-troll"
+    ]
+  },
+  "chunks": [
+    [
+      "post without using their real names",
+      "đăng bài mà không dùng tên thật"
+    ],
+    [
+      "online anonymity encourages bad behaviour",
+      "ẩn danh trực tuyến khuyến khích hành vi xấu"
+    ],
+    [
+      "removes the fear of consequences",
+      "loại bỏ nỗi sợ hậu quả"
+    ],
+    [
+      "cannot be identified",
+      "không thể bị nhận diện"
+    ],
+    [
+      "insult and harass others",
+      "lăng mạ và quấy rối người khác"
+    ],
+    [
+      "a false name",
+      "tên giả"
+    ],
+    [
+      "never dare to in person",
+      "không bao giờ dám làm trực tiếp"
+    ],
+    [
+      "the online disinhibition effect",
+      "hiệu ứng mất ức chế trực tuyến"
+    ],
+    [
+      "without a face and a reputation",
+      "không có khuôn mặt và danh tiếng"
+    ],
+    [
+      "less empathy and more aggression",
+      "ít đồng cảm và nhiều hung hăng hơn"
+    ],
+    [
+      "Trolling, hate speech, threats",
+      "troll, ngôn luận thù ghét, đe doạ"
+    ],
+    [
+      "hold anyone responsible",
+      "buộc ai đó chịu trách nhiệm"
+    ],
+    [
+      "anonymous bullying",
+      "bắt nạt ẩn danh"
+    ],
+    [
+      "legitimate uses",
+      "mục đích chính đáng"
+    ],
+    [
+      "Whistleblowers, victims of abuse and citizens in repressive states",
+      "người tố giác, nạn nhân lạm dụng và công dân ở nước đàn áp"
+    ],
+    [
+      "pseudonyms",
+      "bút danh"
+    ],
+    [
+      "without fear of judgement",
+      "không sợ bị phán xét"
+    ],
+    [
+      "deal quickly with abuse",
+      "xử lý nhanh việc lạm dụng"
+    ],
+    [
+      "proper legal procedures",
+      "thủ tục pháp lý đúng đắn"
+    ],
+    [
+      "block and report harassment",
+      "chặn và báo cáo quấy rối"
+    ]
+  ]
+}

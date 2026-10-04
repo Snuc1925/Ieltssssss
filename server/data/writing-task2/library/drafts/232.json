@@ -1,0 +1,132 @@
+{
+  "questionId": 232,
+  "text": "Phishing emails, ransomware and online fraud cost people and businesses billions every year, and opinions differ on whether individuals should be responsible for preventing cybercrime or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that careful behaviour prevents many attacks. People can update software regularly, use strong passwords, enable two-step verification and avoid clicking on unknown links or sharing codes. A person who ignores a software update, for example, may leave a gap that criminals use to steal data. Most attacks depend on human mistakes, such as replying to a fake message, so training and vigilance are the first line of defence. Parents can teach children about online risks, and employees who follow security rules protect their organisations. Individuals who take sensible precautions make themselves much harder targets.\n\nOn the other hand, advocates of action by society and government point out that criminals operate across borders and use methods that ordinary users cannot detect. Preventing cybercrime needs careful users, secure organisations and international law enforcement. Banks and companies must secure systems and report breaches, internet providers can block known malicious sites, and governments must pass laws, train specialist police and cooperate with other countries to pursue offenders. A person who is deceived by a highly convincing fake website, for instance, is the victim of professional criminals, not simply careless. Weak links at any level can undo the others.\n\nIn conclusion, both views have merit. Overall, I believe that governments and organisations must take the main responsibility for security and enforcement, while individuals support them by taking sensible precautions.",
+  "analysis": {
+    "type_vi": "Discuss both views: phòng chống tội phạm mạng — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thiệt hại (email lừa đảo, mã độc tống tiền, gian lận trực tuyến gây thiệt hại hàng tỷ mỗi năm) rồi hai phe; kết luận chính phủ và tổ chức chịu trách nhiệm chính, cá nhân hỗ trợ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Hành vi cẩn thận ngăn nhiều cuộc tấn công: cập nhật phần mềm, mật khẩu mạnh, xác thực hai bước, tránh liên kết lạ. Ví dụ người bỏ qua bản cập nhật có thể để lỗ hổng cho tội phạm lấy dữ liệu. Phần lớn tấn công dựa vào sai sót con người (trả lời tin nhắn giả) nên đào tạo và cảnh giác là tuyến đầu; cha mẹ dạy con; nhân viên tuân thủ quy tắc bảo vệ tổ chức.",
+        "refs": [
+          "ID-tech-cybercrime",
+          "EX-tech-update-patch",
+          "ID-cr-identity-theft",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội / chính phủ",
+        "think": "Tội phạm hoạt động xuyên biên giới, dùng cách người thường không phát hiện được. Ngăn tội phạm mạng cần người dùng cẩn thận, tổ chức an toàn, thực thi pháp luật quốc tế: ngân hàng và công ty bảo mật hệ thống, báo rò rỉ; nhà cung cấp internet chặn trang độc hại đã biết; chính phủ ban hành luật, đào tạo cảnh sát chuyên môn, hợp tác nước khác. Ví dụ người bị lừa bởi trang web giả rất thuyết phục là nạn nhân của tội phạm chuyên nghiệp, không đơn thuần cẩu thả. Mắt xích yếu ở bất kỳ cấp nào làm hỏng các cấp khác.",
+        "refs": [
+          "ID-tech-cybercrime",
+          "ID-env-ind-limits",
+          "ID-cr-invest-enforcement"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ và tổ chức chịu trách nhiệm chính về an ninh và thực thi; cá nhân hỗ trợ bằng đề phòng hợp lý.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-cybercrime",
+      "EX-tech-update-patch"
+    ]
+  },
+  "chunks": [
+    [
+      "Phishing emails, ransomware and online fraud",
+      "email lừa đảo, mã độc tống tiền và gian lận trực tuyến"
+    ],
+    [
+      "cost people and businesses billions",
+      "gây thiệt hại hàng tỷ cho người dân và doanh nghiệp"
+    ],
+    [
+      "preventing cybercrime",
+      "ngăn chặn tội phạm mạng"
+    ],
+    [
+      "careful behaviour prevents many attacks",
+      "hành vi cẩn thận ngăn nhiều cuộc tấn công"
+    ],
+    [
+      "update software regularly",
+      "cập nhật phần mềm thường xuyên"
+    ],
+    [
+      "enable two-step verification",
+      "bật xác thực hai bước"
+    ],
+    [
+      "unknown links or sharing codes",
+      "liên kết lạ hoặc chia sẻ mã"
+    ],
+    [
+      "ignores a software update",
+      "bỏ qua bản cập nhật phần mềm"
+    ],
+    [
+      "a gap that criminals use to steal data",
+      "lỗ hổng mà tội phạm dùng để lấy cắp dữ liệu"
+    ],
+    [
+      "human mistakes",
+      "sai sót của con người"
+    ],
+    [
+      "replying to a fake message",
+      "trả lời một tin nhắn giả"
+    ],
+    [
+      "training and vigilance",
+      "đào tạo và sự cảnh giác"
+    ],
+    [
+      "harder targets",
+      "mục tiêu khó tấn công hơn"
+    ],
+    [
+      "criminals operate across borders",
+      "tội phạm hoạt động xuyên biên giới"
+    ],
+    [
+      "methods that ordinary users cannot detect",
+      "phương thức mà người dùng bình thường không phát hiện được"
+    ],
+    [
+      "report breaches",
+      "báo cáo các vụ rò rỉ"
+    ],
+    [
+      "block known malicious sites",
+      "chặn các trang độc hại đã biết"
+    ],
+    [
+      "train specialist police",
+      "đào tạo cảnh sát chuyên trách"
+    ],
+    [
+      "a highly convincing fake website",
+      "trang web giả rất thuyết phục"
+    ],
+    [
+      "Weak links at any level",
+      "mắt xích yếu ở bất kỳ cấp nào"
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "questionId": 435,
+  "text": "Quantum computers use the strange behaviour of particles to carry out certain calculations, and the question is how far they will affect industry within twenty years. I believe that they will transform a few industries, although they will remain specialised tools.\n\nTo begin with, quantum computers will change fields that depend on very complex calculations. They can simulate molecules and solve some optimisation problems far faster than ordinary machines, helping drug and materials research. A drug company that can simulate how a molecule behaves, for example, may find a new medicine in months instead of years. Airlines, shipping firms and energy companies could also use them to plan routes and manage networks more efficiently, saving fuel and money. In finance, quantum methods may improve the assessment of risk, and governments are already preparing new forms of encryption because these machines could break current codes.\n\nHowever, the effect on industry as a whole is likely to be limited. Errors are common, the machines are extremely expensive and need extreme cooling, and only a small number of problems benefit from quantum methods. Most businesses need computers for ordinary tasks such as accounting, communication and design, for which existing machines are perfectly adequate. Experts disagree about how soon practical devices will appear, and companies may have to pay to access them through the cloud instead of owning them. Wider effects within twenty years are therefore likely to be limited to specialist fields.\n\nIn conclusion, quantum computing will affect a few industries deeply over the next twenty years, but it is unlikely to change industry as a whole.",
+  "analysis": {
+    "type_vi": "Extent: máy tính lượng tử ảnh hưởng công nghiệp đến đâu — vài ngành, công cụ chuyên biệt",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài giải thích ngắn (máy tính lượng tử dùng hành vi lạ của hạt để làm một số phép tính); đáp: thay đổi vài ngành, vẫn là công cụ chuyên biệt.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Lĩnh vực cần tính toán rất phức tạp: mô phỏng phân tử, tối ưu hoá nhanh hơn máy thường, hỗ trợ nghiên cứu thuốc, vật liệu. Ví dụ công ty thuốc mô phỏng phân tử tìm thuốc mới trong vài tháng thay vì vài năm. Hàng không, vận tải biển, năng lượng lập tuyến, quản lý mạng; tài chính đánh giá rủi ro; chính phủ chuẩn bị mã hoá mới vì có thể phá mã hiện tại.",
+        "refs": [
+          "ID-tech-quantum-industry",
+          "EX-tech-quantum-drug",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Tác động toàn ngành hạn chế: lỗi nhiều, đắt, cần làm lạnh cực độ, chỉ ít bài toán hưởng lợi. Doanh nghiệp cần máy tính cho kế toán, liên lạc, thiết kế đã đủ; chuyên gia bất đồng thời điểm; công ty trả tiền truy cập qua đám mây thay vì sở hữu.",
+        "refs": [
+          "ID-tech-quantum-industry",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng sâu vài ngành nhưng khó thay đổi toàn công nghiệp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-quantum-industry",
+      "EX-tech-quantum-drug"
+    ]
+  },
+  "chunks": [
+    [
+      "Quantum computers",
+      "máy tính lượng tử"
+    ],
+    [
+      "the strange behaviour of particles",
+      "hành vi kỳ lạ của các hạt"
+    ],
+    [
+      "affect industry",
+      "ảnh hưởng đến công nghiệp"
+    ],
+    [
+      "a few industries",
+      "một vài ngành"
+    ],
+    [
+      "very complex calculations",
+      "những phép tính rất phức tạp"
+    ],
+    [
+      "simulate molecules",
+      "mô phỏng phân tử"
+    ],
+    [
+      "optimisation problems",
+      "bài toán tối ưu hoá"
+    ],
+    [
+      "drug and materials research",
+      "nghiên cứu thuốc và vật liệu"
+    ],
+    [
+      "find a new medicine in months instead of years",
+      "tìm ra thuốc mới trong vài tháng thay vì vài năm"
+    ],
+    [
+      "plan routes and manage networks",
+      "lập tuyến đường và quản lý mạng lưới"
+    ],
+    [
+      "the assessment of risk",
+      "việc đánh giá rủi ro"
+    ],
+    [
+      "new forms of encryption",
+      "các hình thức mã hoá mới"
+    ],
+    [
+      "break current codes",
+      "phá mã hiện tại"
+    ],
+    [
+      "Errors are common",
+      "lỗi xảy ra thường xuyên"
+    ],
+    [
+      "extreme cooling",
+      "làm lạnh cực độ"
+    ],
+    [
+      "ordinary tasks such as accounting, communication and design",
+      "các việc thông thường như kế toán, liên lạc và thiết kế"
+    ],
+    [
+      "access them through the cloud",
+      "truy cập chúng qua điện toán đám mây"
+    ],
+    [
+      "specialist fields",
+      "các lĩnh vực chuyên biệt"
+    ],
+    [
+      "specialised tools",
+      "công cụ chuyên biệt"
+    ]
+  ]
+}

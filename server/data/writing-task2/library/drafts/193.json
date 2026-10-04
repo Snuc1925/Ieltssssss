@@ -1,0 +1,126 @@
+{
+  "questionId": 193,
+  "text": "Blockchain began as the technology behind digital currencies, and many people expect it to affect banking greatly within twenty years. I believe that it will change parts of banking, mainly payments and record keeping, although it will not remove banks.\n\nTo begin with, blockchain will change the way money moves and is recorded. Shared ledgers allow faster and cheaper transfers across borders and reduce the need for intermediaries. A worker abroad who sends money home, for example, may pay high fees and wait days, whereas a blockchain transfer can arrive within minutes at lower cost. Transactions are recorded in a way that is difficult to alter, which increases transparency and may reduce fraud. Smart contracts can carry out agreements automatically, for instance by releasing a payment when goods are delivered, and banks can use them to lower administration costs. Several major banks and central banks are already testing digital currencies and settlement systems.\n\nHowever, change will be significant but gradual. Regulation is still uncertain, prices of some digital assets swing wildly, and security failures at exchanges have caused large losses. Many customers value the trust, insurance and customer service that established banks provide, and governments want control over their money supply. Blockchain also consumes energy in some forms. For these reasons, banks are likely to adopt the technology rather than disappear, using it to improve payments and record keeping behind the scenes.\n\nIn conclusion, blockchain will affect banking to a considerable extent over the next twenty years, particularly in international payments, but the change will be gradual and led mainly by existing institutions.",
+  "analysis": {
+    "type_vi": "Extent: blockchain sẽ ảnh hưởng ngân hàng đến đâu — thay đổi thanh toán và lưu hồ sơ, không xoá ngân hàng",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài nêu nguồn gốc (công nghệ đằng sau tiền số); đáp: thay đổi một phần, chủ yếu thanh toán và lưu hồ sơ, không loại bỏ ngân hàng.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Sổ cái chung cho chuyển tiền nhanh, rẻ xuyên biên giới, giảm trung gian. Ví dụ lao động ở nước ngoài gửi tiền về tốn phí cao chờ nhiều ngày, blockchain chuyển trong vài phút phí thấp. Giao dịch khó sửa tăng minh bạch, giảm gian lận; hợp đồng thông minh tự thực hiện (giải ngân khi giao hàng); ngân hàng lớn và ngân hàng trung ương đã thử.",
+        "refs": [
+          "ID-tech-blockchain-banking",
+          "EX-tech-cross-border-transfer",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Thay đổi đáng kể nhưng dần dần: quy định chưa rõ, giá tài sản số dao động mạnh, sự cố bảo mật sàn gây thiệt hại; khách hàng coi trọng độ tin cậy, bảo hiểm, dịch vụ của ngân hàng; chính phủ muốn kiểm soát cung tiền; tiêu thụ năng lượng. Ngân hàng áp dụng thay vì biến mất.",
+        "refs": [
+          "ID-tech-blockchain-banking",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ảnh hưởng đáng kể, nhất là thanh toán quốc tế, nhưng dần dần và do tổ chức hiện có dẫn dắt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-blockchain-banking",
+      "EX-tech-cross-border-transfer"
+    ]
+  },
+  "chunks": [
+    [
+      "the technology behind digital currencies",
+      "công nghệ đằng sau tiền kỹ thuật số"
+    ],
+    [
+      "affect banking",
+      "ảnh hưởng đến ngân hàng"
+    ],
+    [
+      "payments and record keeping",
+      "thanh toán và lưu giữ hồ sơ"
+    ],
+    [
+      "Shared ledgers",
+      "sổ cái dùng chung"
+    ],
+    [
+      "faster and cheaper transfers across borders",
+      "chuyển tiền nhanh hơn và rẻ hơn qua biên giới"
+    ],
+    [
+      "reduce the need for intermediaries",
+      "giảm nhu cầu về trung gian"
+    ],
+    [
+      "sends money home",
+      "gửi tiền về nhà"
+    ],
+    [
+      "pay high fees and wait days",
+      "trả phí cao và chờ nhiều ngày"
+    ],
+    [
+      "difficult to alter",
+      "khó bị thay đổi"
+    ],
+    [
+      "increases transparency and may reduce fraud",
+      "tăng tính minh bạch và có thể giảm gian lận"
+    ],
+    [
+      "Smart contracts",
+      "hợp đồng thông minh"
+    ],
+    [
+      "releasing a payment when goods are delivered",
+      "giải ngân khi hàng được giao"
+    ],
+    [
+      "lower administration costs",
+      "giảm chi phí hành chính"
+    ],
+    [
+      "digital currencies and settlement systems",
+      "tiền kỹ thuật số và hệ thống thanh toán bù trừ"
+    ],
+    [
+      "significant but gradual",
+      "đáng kể nhưng dần dần"
+    ],
+    [
+      "Regulation is still uncertain",
+      "quy định vẫn chưa rõ ràng"
+    ],
+    [
+      "swing wildly",
+      "dao động mạnh"
+    ],
+    [
+      "control over their money supply",
+      "quyền kiểm soát nguồn cung tiền"
+    ],
+    [
+      "adopt the technology rather than disappear",
+      "áp dụng công nghệ thay vì biến mất"
+    ],
+    [
+      "behind the scenes",
+      "ở phía sau hậu trường"
+    ]
+  ]
+}

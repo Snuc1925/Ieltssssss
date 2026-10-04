@@ -1,0 +1,131 @@
+{
+  "questionId": 75,
+  "text": "Genetically modified crops are grown in many countries and banned in others, and some believe that genetically modified food is beneficial. I largely agree, since modified crops can raise yields and improve nutrition, although careful regulation and honest labelling are essential.\n\nTo begin with, genetically modified food can be beneficial when it is regulated and tested. Modified crops can resist disease, survive drought and carry extra nutrients, which raises yields and reduces chemical use. A rice variety enriched with vitamin A, for example, could help to prevent blindness in children whose diet lacks it. Farmers who plant pest-resistant varieties use fewer pesticides, which protects both their health and the environment, and crops that tolerate poor soil or dry weather can provide food where traditional varieties fail. With the global population rising and climate change affecting harvests, technologies that increase output without clearing more land have clear value.\n\nFurthermore, scientific reviews by major health organisations have found that approved modified foods are as safe to eat as their conventional equivalents. However, concerns should not be dismissed. Some people worry about long-term effects on health and ecosystems, the spread of modified genes to wild plants, and the control of seeds by a few large companies. Public trust is important, so governments should require independent testing, publish the results and label modified products so that consumers can choose. Support for small farmers and public research, instead of dependence on private companies, would also help to share the benefits. Where safety and fairness are ensured, modified food can be a valuable tool in the fight against hunger.\n\nIn conclusion, I largely agree that genetically modified food is beneficial, because it can increase food supplies and nutrition, provided that it is tested and regulated carefully.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): thực phẩm biến đổi gen có lợi — largely agree (khác đề 148 A/D ở góc lập trường và ví dụ gạo vitamin A)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + điều kiện",
+        "think": "Mở bài nêu thực tế (trồng ở nhiều nước, cấm ở nước khác) rồi largely agree + lý do + điều kiện (quy định cẩn thận, nhãn trung thực).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lợi ích khi được kiểm nghiệm và điều tiết",
+        "think": "Cây biến đổi kháng bệnh, chịu hạn, mang thêm chất dinh dưỡng, tăng năng suất, giảm hoá chất. Ví dụ giống gạo bổ sung vitamin A có thể giúp ngăn mù ở trẻ thiếu trong chế độ ăn. Nông dân trồng giống kháng sâu dùng ít thuốc trừ sâu nên bảo vệ sức khoẻ và môi trường; cây chịu đất nghèo hoặc thời tiết khô cho lương thực nơi giống truyền thống thất bại; dân số tăng, khí hậu ảnh hưởng mùa vụ nên công nghệ tăng sản lượng không phá thêm đất có giá trị.",
+        "refs": [
+          "ID-tech-gm-food",
+          "EX-tech-vitamin-rice",
+          "ID-env-gm-benefits",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Đánh giá khoa học của các tổ chức y tế lớn thấy thực phẩm biến đổi đã được phê duyệt an toàn như loại thông thường. Giới hạn: lo ngại không nên gạt bỏ: ảnh hưởng dài hạn lên sức khoẻ, hệ sinh thái; gen lan sang cây dại; hạt giống bị vài công ty lớn kiểm soát; niềm tin công chúng quan trọng nên chính phủ yêu cầu kiểm nghiệm độc lập, công bố kết quả, dán nhãn; hỗ trợ nông dân nhỏ và nghiên cứu công.",
+        "refs": [
+          "ID-tech-gm-food",
+          "ID-env-gm-risks",
+          "ID-env-food-labelling",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree vì tăng nguồn cung lương thực và dinh dưỡng, với điều kiện kiểm nghiệm và điều tiết cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-gm-food",
+      "EX-tech-vitamin-rice"
+    ]
+  },
+  "chunks": [
+    [
+      "Genetically modified crops",
+      "cây trồng biến đổi gen"
+    ],
+    [
+      "genetically modified food is beneficial",
+      "thực phẩm biến đổi gen có lợi"
+    ],
+    [
+      "raise yields and improve nutrition",
+      "tăng năng suất và cải thiện dinh dưỡng"
+    ],
+    [
+      "careful regulation and honest labelling",
+      "quy định cẩn thận và ghi nhãn trung thực"
+    ],
+    [
+      "regulated and tested",
+      "được điều tiết và kiểm nghiệm"
+    ],
+    [
+      "resist disease, survive drought and carry extra nutrients",
+      "kháng bệnh, chịu hạn và mang thêm chất dinh dưỡng"
+    ],
+    [
+      "reduces chemical use",
+      "giảm sử dụng hoá chất"
+    ],
+    [
+      "enriched with vitamin A",
+      "được bổ sung vitamin A"
+    ],
+    [
+      "prevent blindness in children",
+      "ngăn ngừa mù ở trẻ em"
+    ],
+    [
+      "whose diet lacks it",
+      "chế độ ăn của họ thiếu nó"
+    ],
+    [
+      "pest-resistant varieties",
+      "giống kháng sâu bệnh"
+    ],
+    [
+      "use fewer pesticides",
+      "dùng ít thuốc trừ sâu hơn"
+    ],
+    [
+      "tolerate poor soil or dry weather",
+      "chịu được đất nghèo hoặc thời tiết khô"
+    ],
+    [
+      "traditional varieties fail",
+      "các giống truyền thống thất bại"
+    ],
+    [
+      "clearing more land",
+      "phá thêm đất"
+    ],
+    [
+      "as safe to eat as their conventional equivalents",
+      "an toàn khi ăn như loại thông thường tương đương"
+    ],
+    [
+      "long-term effects on health and ecosystems",
+      "tác động dài hạn lên sức khoẻ và hệ sinh thái"
+    ],
+    [
+      "the control of seeds by a few large companies",
+      "việc vài công ty lớn kiểm soát hạt giống"
+    ],
+    [
+      "independent testing",
+      "kiểm nghiệm độc lập"
+    ],
+    [
+      "the fight against hunger",
+      "cuộc chiến chống nạn đói"
+    ]
+  ]
+}

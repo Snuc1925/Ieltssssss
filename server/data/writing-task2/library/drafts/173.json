@@ -1,0 +1,127 @@
+{
+  "questionId": 173,
+  "text": "Smartwatches and fitness bands already count steps and measure heart rate, and many people expect wearable technology to change personal health monitoring greatly within twenty years. I believe that it will change it to a large extent, although it will support doctors and not replace them.\n\nTo begin with, wearable devices will make health monitoring continuous and personal. Sensors track heart rate, sleep and activity all day and can alert users and doctors early. A smartwatch that notices an irregular heartbeat, for example, can advise its owner to see a doctor before a serious problem develops. In the future, devices will probably measure blood sugar, blood pressure and oxygen without needles, and artificial intelligence will interpret the data. This is especially valuable for people with chronic conditions and for older adults, who can be monitored at home and treated before they need hospital care. It will also lower costs for health systems, because prevention is cheaper than treatment.\n\nHowever, accuracy and privacy limit the role of wearables. Readings are sometimes unreliable, can cause needless anxiety and produce data that companies may misuse or sell to insurers. Wearables are also expensive, so that poorer people may benefit less, and many users abandon a device after a few months. Medical decisions still need trained professionals who can examine patients and consider the whole picture. Wearables will therefore support, not replace, medical care. Doctors who receive reliable long-term data from their patients can also make better decisions during short appointments.\n\nIn conclusion, wearable technology will transform personal health monitoring to a large extent over the next twenty years, but concerns about accuracy, privacy and fairness must be addressed.",
+  "analysis": {
+    "type_vi": "Extent: thiết bị đeo sẽ thay đổi theo dõi sức khoẻ đến đâu — thay đổi lớn, hỗ trợ bác sĩ",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài nêu thực tế (đồng hồ thông minh đếm bước, đo nhịp tim); đáp: thay đổi lớn nhưng hỗ trợ không thay thế bác sĩ.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Theo dõi liên tục, cá nhân: cảm biến theo dõi nhịp tim, giấc ngủ, hoạt động cả ngày và cảnh báo sớm. Ví dụ đồng hồ phát hiện nhịp tim không đều khuyên đi khám trước khi thành vấn đề nghiêm trọng. Tương lai đo đường huyết, huyết áp, oxy không kim; AI diễn giải; hữu ích cho bệnh mãn tính, người già tại nhà; giảm chi phí vì phòng bệnh rẻ hơn chữa.",
+        "refs": [
+          "ID-tech-wearables-health",
+          "EX-tech-watch-heart-alert",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Độ chính xác và riêng tư: số đo đôi khi sai, gây lo lắng thừa, dữ liệu bị công ty lạm dụng hoặc bán cho bảo hiểm; đắt nên người nghèo hưởng ít; nhiều người bỏ thiết bị sau vài tháng; quyết định y tế cần chuyên gia xem xét toàn diện.",
+        "refs": [
+          "ID-tech-wearables-health",
+          "ID-tech-privacy-disappearing",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi lớn nhưng cần giải quyết chính xác, riêng tư, công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-wearables-health",
+      "EX-tech-watch-heart-alert"
+    ]
+  },
+  "chunks": [
+    [
+      "Smartwatches and fitness bands",
+      "đồng hồ thông minh và vòng đeo thể dục"
+    ],
+    [
+      "count steps and measure heart rate",
+      "đếm bước chân và đo nhịp tim"
+    ],
+    [
+      "wearable technology",
+      "công nghệ đeo được"
+    ],
+    [
+      "personal health monitoring",
+      "theo dõi sức khoẻ cá nhân"
+    ],
+    [
+      "continuous and personal",
+      "liên tục và mang tính cá nhân"
+    ],
+    [
+      "track heart rate, sleep and activity all day",
+      "theo dõi nhịp tim, giấc ngủ và hoạt động cả ngày"
+    ],
+    [
+      "alert users and doctors early",
+      "cảnh báo sớm cho người dùng và bác sĩ"
+    ],
+    [
+      "notices an irregular heartbeat",
+      "phát hiện nhịp tim không đều"
+    ],
+    [
+      "before a serious problem develops",
+      "trước khi vấn đề nghiêm trọng phát sinh"
+    ],
+    [
+      "blood sugar, blood pressure and oxygen without needles",
+      "đường huyết, huyết áp và oxy mà không cần kim tiêm"
+    ],
+    [
+      "chronic conditions",
+      "bệnh mãn tính"
+    ],
+    [
+      "treated before they need hospital care",
+      "được điều trị trước khi cần chăm sóc ở bệnh viện"
+    ],
+    [
+      "prevention is cheaper than treatment",
+      "phòng bệnh rẻ hơn chữa bệnh"
+    ],
+    [
+      "accuracy and privacy limit the role of wearables",
+      "độ chính xác và quyền riêng tư giới hạn vai trò của thiết bị đeo"
+    ],
+    [
+      "unreliable",
+      "không đáng tin cậy"
+    ],
+    [
+      "needless anxiety",
+      "lo lắng không cần thiết"
+    ],
+    [
+      "misuse or sell to insurers",
+      "lạm dụng hoặc bán cho hãng bảo hiểm"
+    ],
+    [
+      "abandon a device",
+      "bỏ thiết bị"
+    ],
+    [
+      "trained professionals",
+      "chuyên gia được đào tạo"
+    ],
+    [
+      "support, not replace, medical care",
+      "hỗ trợ chứ không thay thế chăm sóc y tế"
+    ]
+  ]
+}

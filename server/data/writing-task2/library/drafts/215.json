@@ -1,0 +1,130 @@
+{
+  "questionId": 215,
+  "text": "After every serious attack, governments ask for greater powers to monitor communications, and some believe that government surveillance is necessary for safety. I agree only to a limited extent, since surveillance can prevent serious crime, but it threatens freedom when it is unchecked.\n\nTo begin with, surveillance can prevent serious crime and save lives. Monitoring communications and movements helps police to stop terrorism and organised crime, and technology allows them to find suspects far faster than in the past. Police who need a court order before reading a suspect's messages, for example, can investigate serious crime without spying on everyone. Intelligence work has foiled plots that would have caused many deaths, and surveillance of known networks of traffickers and fraudsters protects victims. Most citizens accept that targeted monitoring of dangerous individuals is a reasonable price for security.\n\nHowever, mass collection invades privacy, can be misused against critics and may make citizens afraid to speak. Governments have sometimes used surveillance powers to monitor journalists, activists and political opponents, and large databases can be hacked or leaked. People who know that they are watched may avoid searching for sensitive information or joining legitimate protests, which weakens democracy. Evidence that bulk surveillance prevents more attacks than targeted methods is limited. Surveillance should therefore be limited by law: powers should be targeted, approved by courts, reviewed by independent bodies, and open to public reporting, and data should be deleted when no longer needed. These safeguards balance safety and liberty.\n\nIn conclusion, government surveillance is necessary for safety only to a limited extent, in targeted and supervised forms, and unrestricted surveillance poses a danger to the freedoms that it is meant to protect.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): giám sát của chính phủ cần cho an toàn — đồng ý hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến hạn chế",
+        "think": "Mở bài nêu bối cảnh (sau mỗi vụ tấn công nghiêm trọng chính phủ đòi thêm quyền theo dõi liên lạc) rồi 'agree only to a limited extent' + hai mặt.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lý do cho phần đồng ý — ngăn tội phạm nghiêm trọng",
+        "think": "Theo dõi liên lạc và di chuyển giúp cảnh sát ngăn khủng bố, tội phạm có tổ chức; công nghệ tìm nghi phạm nhanh hơn trước. Ví dụ cảnh sát cần lệnh toà trước khi đọc tin nhắn nghi phạm vẫn điều tra tội nặng mà không do thám mọi người. Tình báo phá âm mưu có thể gây nhiều chết chóc; giám sát mạng buôn người, lừa đảo bảo vệ nạn nhân; đa số công dân chấp nhận giám sát có mục tiêu là cái giá hợp lý.",
+        "refs": [
+          "ID-tech-surveillance-safety",
+          "EX-tech-warrant-oversight",
+          "ID-cr-invest-enforcement",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn — thu thập hàng loạt",
+        "think": "Thu thập hàng loạt xâm phạm riêng tư, bị lạm dụng chống người phê phán, khiến công dân sợ nói; chính phủ từng dùng quyền để theo dõi nhà báo, nhà hoạt động, đối thủ chính trị; cơ sở dữ liệu lớn có thể bị hack; người biết bị theo dõi tránh tìm thông tin nhạy cảm, tham gia biểu tình hợp pháp làm yếu dân chủ; bằng chứng giám sát hàng loạt ngăn nhiều vụ hơn phương pháp nhắm mục tiêu còn hạn chế. Cần luật giới hạn: quyền nhắm mục tiêu, toà phê duyệt, cơ quan độc lập xem xét, báo cáo công khai, xoá dữ liệu khi không cần.",
+        "refs": [
+          "ID-tech-surveillance-safety",
+          "ID-tech-privacy-disappearing",
+          "ID-cr-transparency",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cần cho an toàn chỉ ở mức hạn chế, dạng có mục tiêu và có giám sát; không hạn chế đe doạ chính các quyền tự do cần bảo vệ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-surveillance-safety",
+      "EX-tech-warrant-oversight"
+    ]
+  },
+  "chunks": [
+    [
+      "serious attack",
+      "vụ tấn công nghiêm trọng"
+    ],
+    [
+      "greater powers to monitor communications",
+      "quyền hạn lớn hơn để theo dõi liên lạc"
+    ],
+    [
+      "government surveillance is necessary for safety",
+      "giám sát của chính phủ là cần thiết cho an toàn"
+    ],
+    [
+      "to a limited extent",
+      "ở mức độ hạn chế"
+    ],
+    [
+      "prevent serious crime and save lives",
+      "ngăn tội phạm nghiêm trọng và cứu mạng người"
+    ],
+    [
+      "Monitoring communications and movements",
+      "theo dõi liên lạc và sự di chuyển"
+    ],
+    [
+      "stop terrorism and organised crime",
+      "ngăn khủng bố và tội phạm có tổ chức"
+    ],
+    [
+      "find suspects far faster",
+      "tìm nghi phạm nhanh hơn nhiều"
+    ],
+    [
+      "a court order",
+      "lệnh của toà án"
+    ],
+    [
+      "investigate serious crime without spying on everyone",
+      "điều tra tội nghiêm trọng mà không do thám mọi người"
+    ],
+    [
+      "foiled plots",
+      "phá vỡ các âm mưu"
+    ],
+    [
+      "traffickers and fraudsters",
+      "kẻ buôn người và kẻ lừa đảo"
+    ],
+    [
+      "targeted monitoring of dangerous individuals",
+      "theo dõi có mục tiêu đối với cá nhân nguy hiểm"
+    ],
+    [
+      "mass collection invades privacy",
+      "thu thập hàng loạt xâm phạm quyền riêng tư"
+    ],
+    [
+      "misused against critics",
+      "bị lạm dụng chống người phê phán"
+    ],
+    [
+      "afraid to speak",
+      "sợ nói ra"
+    ],
+    [
+      "journalists, activists and political opponents",
+      "nhà báo, nhà hoạt động và đối thủ chính trị"
+    ],
+    [
+      "hacked or leaked",
+      "bị tấn công hoặc rò rỉ"
+    ],
+    [
+      "reviewed by independent bodies",
+      "được cơ quan độc lập xem xét"
+    ],
+    [
+      "balance safety and liberty",
+      "cân bằng an toàn và tự do"
+    ]
+  ]
+}

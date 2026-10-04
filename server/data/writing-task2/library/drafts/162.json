@@ -1,0 +1,130 @@
+{
+  "questionId": 162,
+  "text": "Increasingly, banking, education, job applications and government services are available mainly online, yet millions of people still cannot take part, and the gap between those with and without digital access is known as the digital divide. This essay will suggest practical measures that governments could take, focusing on reducing the cost of access and on improving infrastructure and skills.\n\nTo begin with, governments should make devices and connections affordable. The digital divide comes from cost, poor infrastructure and lack of skills, and each cause needs its own remedy. Families on low incomes cannot afford devices or data, so subsidies for basic computers, low-cost data plans and free public wifi can help them. A student without internet at home, for example, can do homework at a library that offers free computers and wifi. Schools can lend tablets and laptops to pupils who do not have them, and companies can be encouraged to offer social tariffs to low-income households.\n\nIn addition, authorities should improve infrastructure and teach skills. Rural areas need cables and signals, and public investment can reach places that private firms find unprofitable. Training programmes for older people, jobseekers and migrants, delivered in libraries, community centres and workplaces, teach them how to use online services safely. Equally important, government services should remain available through phone or in person for those who cannot go online, so that nobody is shut out while the gap is being closed. Digital skills should also be taught in schools from an early age. Reducing the gap is an investment, since people who are online can find work, study and access public services at lower cost.\n\nIn conclusion, making access affordable and improving infrastructure and skills offer the most realistic way of addressing the digital divide.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ giải quyết khoảng cách số",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu hiện thực (ngân hàng, giáo dục, xin việc, dịch vụ công chủ yếu trực tuyến nhưng hàng triệu người chưa tham gia được) và định nghĩa khoảng cách số; hai nhóm: giảm chi phí tiếp cận; cải thiện hạ tầng và kỹ năng.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — giá phải chăng",
+        "think": "Khoảng cách đến từ chi phí, hạ tầng kém, thiếu kỹ năng; mỗi nguyên nhân cần biện pháp riêng. Gia đình thu nhập thấp không mua nổi thiết bị và dữ liệu nên trợ cấp máy tính cơ bản, gói cước rẻ, wifi công cộng miễn phí. Ví dụ học sinh không có internet ở nhà làm bài ở thư viện có máy tính và wifi miễn phí. Trường cho mượn máy tính bảng, laptop; công ty được khuyến khích đưa biểu giá xã hội cho hộ thu nhập thấp.",
+        "refs": [
+          "ID-tech-digital-divide",
+          "EX-tech-library-wifi",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — hạ tầng và kỹ năng",
+        "think": "Nông thôn cần cáp và sóng; đầu tư công đến nơi công ty tư thấy không có lãi; chương trình đào tạo cho người già, người tìm việc, người nhập cư ở thư viện, trung tâm cộng đồng, nơi làm việc dạy dùng dịch vụ trực tuyến an toàn; dịch vụ chính phủ vẫn có qua điện thoại hoặc trực tiếp cho người không lên mạng được; dạy kỹ năng số từ sớm ở trường; đầu tư vì người trực tuyến tìm việc, học, dùng dịch vụ công với chi phí thấp hơn.",
+        "refs": [
+          "ID-tech-broadband-access",
+          "ID-tech-digital-divide",
+          "ID-env-gov-infrastructure",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-digital-divide",
+      "EX-tech-library-wifi"
+    ]
+  },
+  "chunks": [
+    [
+      "banking, education, job applications and government services",
+      "ngân hàng, giáo dục, xin việc và dịch vụ chính phủ"
+    ],
+    [
+      "available mainly online",
+      "chủ yếu có sẵn trực tuyến"
+    ],
+    [
+      "the digital divide",
+      "khoảng cách số"
+    ],
+    [
+      "with and without digital access",
+      "có và không có truy cập kỹ thuật số"
+    ],
+    [
+      "reducing the cost of access",
+      "giảm chi phí truy cập"
+    ],
+    [
+      "improving infrastructure and skills",
+      "cải thiện hạ tầng và kỹ năng"
+    ],
+    [
+      "devices and connections affordable",
+      "thiết bị và kết nối giá phải chăng"
+    ],
+    [
+      "cost, poor infrastructure and lack of skills",
+      "chi phí, hạ tầng kém và thiếu kỹ năng"
+    ],
+    [
+      "each cause needs its own remedy",
+      "mỗi nguyên nhân cần biện pháp riêng"
+    ],
+    [
+      "Families on low incomes",
+      "gia đình thu nhập thấp"
+    ],
+    [
+      "subsidies for basic computers",
+      "trợ cấp cho máy tính cơ bản"
+    ],
+    [
+      "low-cost data plans and free public wifi",
+      "gói dữ liệu giá rẻ và wifi công cộng miễn phí"
+    ],
+    [
+      "a library that offers free computers and wifi",
+      "thư viện có máy tính và wifi miễn phí"
+    ],
+    [
+      "lend tablets and laptops",
+      "cho mượn máy tính bảng và laptop"
+    ],
+    [
+      "social tariffs",
+      "biểu giá xã hội"
+    ],
+    [
+      "Rural areas need cables and signals",
+      "vùng nông thôn cần cáp và sóng"
+    ],
+    [
+      "private firms find unprofitable",
+      "công ty tư nhân thấy không có lãi"
+    ],
+    [
+      "Training programmes for older people, jobseekers and migrants",
+      "chương trình đào tạo cho người già, người tìm việc và người nhập cư"
+    ],
+    [
+      "use online services safely",
+      "dùng dịch vụ trực tuyến an toàn"
+    ],
+    [
+      "shut out",
+      "bị loại ra ngoài"
+    ]
+  ]
+}

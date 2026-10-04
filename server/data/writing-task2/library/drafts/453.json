@@ -1,0 +1,122 @@
+{
+  "questionId": 453,
+  "text": "Governments are asked to build fast networks for a digital economy, but roads, bridges, power lines and water pipes also need money, and opinions differ on which kind of infrastructure should receive priority. This essay will discuss both views before explaining my own opinion.\n\nOn the one hand, supporters of digital infrastructure argue that it drives growth. Fast internet supports remote work, online services and business growth, and it gives access to education and healthcare in remote areas. A village that receives fast broadband, for example, allows a small business to sell its products online and children to study with the same tools as city pupils. Digital networks also make government services cheaper and faster, and countries with good connections attract investment in modern industries. Since more and more of daily life takes place online, those without connections are left behind.\n\nOn the other hand, supporters of traditional infrastructure argue that it is the foundation of everyday life. Digital networks depend on traditional infrastructure, so spending should balance the two. Broadband needs reliable electricity, roads and water to function, and neglected basic infrastructure harms everyday life and safety through accidents, floods and power cuts. A town with fast broadband but frequent power cuts, for example, still cannot support online businesses. Bridges and railways also move goods and people, which no network can replace. Roads that are in poor condition raise the cost of every product that is transported on them.\n\nIn conclusion, both views have merit. Overall, I believe that governments should divide spending according to each region's biggest gap, since priority should depend on need, and that traditional infrastructure should not be neglected.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho hạ tầng số hay hạ tầng truyền thống",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn (mạng nhanh cho kinh tế số vs đường, cầu, điện, nước); kết luận chia theo khoảng trống lớn nhất từng vùng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Hạ tầng số",
+        "think": "Thúc đẩy tăng trưởng: internet nhanh hỗ trợ làm việc từ xa, dịch vụ trực tuyến, kinh doanh; tiếp cận giáo dục, y tế vùng xa. Ví dụ làng có băng thông rộng cho doanh nghiệp nhỏ bán hàng và trẻ học như học sinh thành phố. Dịch vụ chính phủ rẻ và nhanh hơn; nước kết nối tốt thu hút đầu tư; ai không có kết nối bị bỏ lại.",
+        "refs": [
+          "ID-tech-digital-vs-traditional-infra",
+          "ID-tech-broadband-access",
+          "EX-tech-village-fibre"
+        ]
+      },
+      {
+        "step": "3. Hạ tầng truyền thống",
+        "think": "Nền tảng đời sống: mạng số phụ thuộc hạ tầng truyền thống nên cân bằng. Băng thông cần điện, đường, nước ổn định; bỏ bê hạ tầng cơ bản hại đời sống và an toàn (tai nạn, lũ, mất điện). Ví dụ thị trấn có băng thông nhanh nhưng mất điện thường xuyên vẫn không hỗ trợ được kinh doanh trực tuyến. Cầu và đường sắt chở hàng và người, không mạng nào thay thế.",
+        "refs": [
+          "ID-tech-digital-vs-traditional-infra",
+          "EX-tech-power-cut-broadband",
+          "ID-env-gov-infrastructure"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chia chi tiêu theo khoảng trống lớn nhất từng vùng; không bỏ bê hạ tầng truyền thống.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-digital-vs-traditional-infra",
+      "EX-tech-power-cut-broadband"
+    ]
+  },
+  "chunks": [
+    [
+      "a digital economy",
+      "nền kinh tế số"
+    ],
+    [
+      "roads, bridges, power lines and water pipes",
+      "đường, cầu, đường dây điện và ống nước"
+    ],
+    [
+      "receive priority",
+      "được ưu tiên"
+    ],
+    [
+      "digital infrastructure",
+      "hạ tầng số"
+    ],
+    [
+      "drives growth",
+      "thúc đẩy tăng trưởng"
+    ],
+    [
+      "remote work, online services and business growth",
+      "làm việc từ xa, dịch vụ trực tuyến và tăng trưởng kinh doanh"
+    ],
+    [
+      "education and healthcare in remote areas",
+      "giáo dục và y tế ở vùng xa"
+    ],
+    [
+      "make government services cheaper and faster",
+      "làm dịch vụ chính phủ rẻ hơn và nhanh hơn"
+    ],
+    [
+      "attract investment in modern industries",
+      "thu hút đầu tư vào các ngành hiện đại"
+    ],
+    [
+      "left behind",
+      "bị bỏ lại phía sau"
+    ],
+    [
+      "traditional infrastructure",
+      "hạ tầng truyền thống"
+    ],
+    [
+      "the foundation of everyday life",
+      "nền tảng của đời sống hằng ngày"
+    ],
+    [
+      "reliable electricity, roads and water",
+      "điện, đường và nước đáng tin cậy"
+    ],
+    [
+      "accidents, floods and power cuts",
+      "tai nạn, lũ lụt và mất điện"
+    ],
+    [
+      "frequent power cuts",
+      "mất điện thường xuyên"
+    ],
+    [
+      "Bridges and railways also move goods and people",
+      "cầu và đường sắt cũng vận chuyển hàng hoá và con người"
+    ],
+    [
+      "each region's biggest gap",
+      "khoảng trống lớn nhất của mỗi vùng"
+    ],
+    [
+      "depend on need",
+      "phụ thuộc vào nhu cầu"
+    ]
+  ]
+}

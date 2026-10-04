@@ -1,0 +1,130 @@
+{
+  "questionId": 65,
+  "text": "Rockets, probes and space telescopes cost enormous sums, and opinions differ on whether space exploration is essential for human progress or a waste of resources. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that space exploration drives technology and knowledge that benefit people on Earth. Missions require advances in materials, medicine, communications and computing that later spread to everyday use, and satellites provide weather forecasts, navigation and climate data. A farmer who receives a satellite weather forecast, for example, can decide when to plant and avoid losing a crop. Exploration also inspires young people to study science and engineering, and it deepens our understanding of the origin of the universe. Some experts add that learning about other planets helps us to understand and protect our own, and that a future in which humans live beyond Earth may become a necessary insurance.\n\nOn the other hand, critics point out that space programmes cost enormous sums that could address urgent problems on Earth. Missions run to billions, with uncertain returns, while hospitals, schools and housing lack funds, and failures waste money and sometimes lives. The sum spent on a single mission, for example, could equip dozens of hospitals in poorer regions. Critics also argue that private firms may now fund exploration, so that governments need not use taxes for it, and that many benefits of space technology could be obtained more cheaply through other research.\n\nIn conclusion, both views have merit. Overall, I believe that space exploration is worthwhile in moderate amounts, because it produces practical returns, but governments should never allow it to take priority over basic needs.",
+  "analysis": {
+    "type_vi": "Discuss both views: thám hiểm vũ trụ thiết yếu cho tiến bộ hay lãng phí",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu chi phí lớn rồi hai phe; kết luận ủng hộ mức vừa phải, không ưu tiên hơn nhu cầu cơ bản.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ủng hộ",
+        "think": "Thúc đẩy công nghệ và tri thức: vật liệu, y học, truyền thông, máy tính; vệ tinh dự báo thời tiết, định vị, khí hậu. Ví dụ nông dân nhận dự báo vệ tinh quyết định thời điểm gieo trồng. Truyền cảm hứng cho người trẻ học khoa học; hiểu nguồn gốc vũ trụ; học về hành tinh khác để bảo vệ Trái Đất; sống ngoài Trái Đất như bảo hiểm tương lai.",
+        "refs": [
+          "ID-tech-space-progress",
+          "EX-tech-satellite-forecast"
+        ]
+      },
+      {
+        "step": "3. Phê phán",
+        "think": "Chi phí hàng tỷ, lợi ích bất định trong khi bệnh viện, trường, nhà ở thiếu tiền; thất bại lãng phí tiền và đôi khi mạng người. Ví dụ tiền một sứ mệnh trang bị hàng chục bệnh viện ở vùng nghèo. Công ty tư nhân có thể tài trợ; nhiều lợi ích có thể thu bằng nghiên cứu rẻ hơn.",
+        "refs": [
+          "ID-tech-space-cost",
+          "EX-tech-rocket-vs-hospital"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đáng làm ở mức vừa phải vì có lợi ích thực tế, nhưng không được ưu tiên hơn nhu cầu cơ bản.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-space-progress",
+      "ID-tech-space-cost",
+      "EX-tech-satellite-forecast",
+      "EX-tech-rocket-vs-hospital"
+    ]
+  },
+  "chunks": [
+    [
+      "Rockets, probes and space telescopes",
+      "tên lửa, tàu thăm dò và kính viễn vọng không gian"
+    ],
+    [
+      "space exploration is essential for human progress",
+      "thám hiểm vũ trụ là thiết yếu cho tiến bộ của nhân loại"
+    ],
+    [
+      "a waste of resources",
+      "sự lãng phí nguồn lực"
+    ],
+    [
+      "drives technology and knowledge",
+      "thúc đẩy công nghệ và tri thức"
+    ],
+    [
+      "advances in materials, medicine, communications and computing",
+      "tiến bộ về vật liệu, y học, truyền thông và máy tính"
+    ],
+    [
+      "weather forecasts, navigation and climate data",
+      "dự báo thời tiết, định vị và dữ liệu khí hậu"
+    ],
+    [
+      "receives a satellite weather forecast",
+      "nhận dự báo thời tiết từ vệ tinh"
+    ],
+    [
+      "avoid losing a crop",
+      "tránh mất mùa"
+    ],
+    [
+      "inspires young people to study science and engineering",
+      "truyền cảm hứng cho người trẻ học khoa học và kỹ thuật"
+    ],
+    [
+      "the origin of the universe",
+      "nguồn gốc của vũ trụ"
+    ],
+    [
+      "a necessary insurance",
+      "một sự bảo hiểm cần thiết"
+    ],
+    [
+      "cost enormous sums",
+      "tốn những khoản tiền khổng lồ"
+    ],
+    [
+      "uncertain returns",
+      "lợi ích không chắc chắn"
+    ],
+    [
+      "lack funds",
+      "thiếu vốn"
+    ],
+    [
+      "waste money and sometimes lives",
+      "lãng phí tiền và đôi khi cả mạng người"
+    ],
+    [
+      "equip dozens of hospitals in poorer regions",
+      "trang bị cho hàng chục bệnh viện ở vùng nghèo hơn"
+    ],
+    [
+      "private firms may now fund exploration",
+      "các công ty tư nhân nay có thể tài trợ thám hiểm"
+    ],
+    [
+      "more cheaply",
+      "rẻ hơn"
+    ],
+    [
+      "practical returns",
+      "lợi ích thiết thực"
+    ],
+    [
+      "take priority over basic needs",
+      "được ưu tiên hơn nhu cầu cơ bản"
+    ]
+  ]
+}

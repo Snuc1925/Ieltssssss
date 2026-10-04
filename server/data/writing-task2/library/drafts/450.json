@@ -1,0 +1,129 @@
+{
+  "questionId": 450,
+  "text": "Fingerprint scanners on phones, face recognition at airports and iris checks at banks have made biometric identification part of everyday life, and many governments plan national systems. This essay will discuss the advantages and disadvantages of using biometric ID systems before explaining my own view.\n\nOn the positive side, biometric identification is secure and convenient. Fingerprints and faces are hard to forge, and they speed up checks at borders and banks. A traveller who passes an automatic border gate with a fingerprint scan, for example, saves time but leaves personal data in a government database. Biometric systems reduce identity fraud, since a stolen password or card is useless without the matching body feature, and they are convenient because users have nothing to remember or carry. In poorer countries, national biometric IDs have enabled millions of people without documents to access banking, welfare and voting for the first time.\n\nOn the negative side, biometric systems carry lasting privacy risks. A stolen fingerprint cannot be changed in the way a password can, databases attract hackers, and errors can wrongly exclude people, particularly those with worn fingerprints or darker skin when software is poorly trained. Governments or companies could use the data to track people or share it without consent. Some individuals may be unable to use the system at all and risk losing access to services. Nevertheless, these concerns can be reduced through strong encryption, strict laws on how biometric data may be stored and shared, independent audits, and fair alternatives for those who cannot or will not use biometrics.\n\nIn conclusion, biometric ID systems offer security and convenience, but the risks to privacy and fairness are serious. On balance, I believe that they should be adopted only where there is strong data protection and reliable alternatives.",
+  "analysis": {
+    "type_vi": "A/D: hệ thống ID sinh trắc học",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu ví dụ quen thuộc (máy quét vân tay trên điện thoại, nhận diện khuôn mặt ở sân bay, kiểm tra mống mắt ở ngân hàng); kết luận có điều kiện (bảo vệ dữ liệu mạnh, lựa chọn thay thế).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "An toàn, tiện: vân tay và khuôn mặt khó làm giả, tăng tốc kiểm tra biên giới, ngân hàng. Ví dụ hành khách qua cổng biên giới tự động quét vân tay tiết kiệm thời gian nhưng để lại dữ liệu cá nhân trong cơ sở dữ liệu chính phủ. Giảm gian lận danh tính vì mật khẩu hoặc thẻ bị đánh cắp vô dụng nếu thiếu đặc điểm cơ thể khớp; tiện vì không phải nhớ hay mang; nước nghèo: ID sinh trắc quốc gia giúp hàng triệu người không giấy tờ lần đầu tiếp cận ngân hàng, phúc lợi, bầu cử.",
+        "refs": [
+          "ID-tech-biometric",
+          "EX-tech-fingerprint-gate",
+          "ID-cr-identity-theft"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Rủi ro riêng tư lâu dài: vân tay bị đánh cắp không đổi được như mật khẩu; cơ sở dữ liệu thu hút tin tặc; sai sót loại trừ nhầm người (vân tay mòn, da sẫm khi phần mềm đào tạo kém); chính phủ hoặc công ty có thể dùng dữ liệu theo dõi hoặc chia sẻ không có sự đồng ý; một số người không dùng được. Nevertheless: mã hoá mạnh, luật nghiêm về lưu trữ và chia sẻ, kiểm toán độc lập, lựa chọn thay thế công bằng.",
+        "refs": [
+          "ID-tech-biometric",
+          "ID-tech-privacy-disappearing",
+          "ID-tech-digitization"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chỉ áp dụng nơi có bảo vệ dữ liệu mạnh và lựa chọn thay thế đáng tin.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-biometric",
+      "EX-tech-fingerprint-gate"
+    ]
+  },
+  "chunks": [
+    [
+      "Fingerprint scanners on phones",
+      "máy quét vân tay trên điện thoại"
+    ],
+    [
+      "face recognition at airports",
+      "nhận diện khuôn mặt ở sân bay"
+    ],
+    [
+      "biometric identification",
+      "nhận dạng sinh trắc học"
+    ],
+    [
+      "biometric ID systems",
+      "hệ thống ID sinh trắc học"
+    ],
+    [
+      "secure and convenient",
+      "an toàn và tiện lợi"
+    ],
+    [
+      "hard to forge",
+      "khó làm giả"
+    ],
+    [
+      "speed up checks at borders and banks",
+      "tăng tốc kiểm tra ở biên giới và ngân hàng"
+    ],
+    [
+      "an automatic border gate",
+      "cổng biên giới tự động"
+    ],
+    [
+      "a fingerprint scan",
+      "quét vân tay"
+    ],
+    [
+      "personal data in a government database",
+      "dữ liệu cá nhân trong cơ sở dữ liệu của chính phủ"
+    ],
+    [
+      "reduce identity fraud",
+      "giảm gian lận danh tính"
+    ],
+    [
+      "nothing to remember or carry",
+      "không có gì để nhớ hay mang"
+    ],
+    [
+      "people without documents",
+      "người không có giấy tờ"
+    ],
+    [
+      "banking, welfare and voting",
+      "ngân hàng, phúc lợi và bầu cử"
+    ],
+    [
+      "lasting privacy risks",
+      "rủi ro riêng tư lâu dài"
+    ],
+    [
+      "cannot be changed",
+      "không thể thay đổi"
+    ],
+    [
+      "databases attract hackers",
+      "cơ sở dữ liệu thu hút tin tặc"
+    ],
+    [
+      "wrongly exclude people",
+      "loại trừ nhầm người"
+    ],
+    [
+      "share it without consent",
+      "chia sẻ mà không có sự đồng ý"
+    ],
+    [
+      "fair alternatives",
+      "lựa chọn thay thế công bằng"
+    ]
+  ]
+}

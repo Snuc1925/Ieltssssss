@@ -1,0 +1,126 @@
+{
+  "questionId": 37,
+  "text": "Research laboratories, universities and observatories rarely make headlines, but their discoveries shape medicine, industry and daily life, and many countries invest heavily in them. This essay will outline two principal benefits for a country that focuses on science and research: economic growth and solutions to national and global problems.\n\nFirst and foremost, a country that invests in science and research becomes more productive and competitive. High-tech industries create well-paid jobs and exports, and the knowledge produced by universities leads to new products and companies. Many of today's industries, from the internet to biotechnology, grew from basic research that had no immediate commercial aim. A country that supports research can also attract talented scientists and investors from abroad, and benefit from patents and spin-off businesses. South Korea and Germany show how sustained investment in research and engineering can support strong, innovative economies.\n\nIn addition, science provides the knowledge to solve major problems. Basic research produces medicines, vaccines, materials and clean energy technologies, and scientists help governments to deal with disease, climate change and food shortages. Research also trains highly skilled people who work in industry, teaching and government, and it raises the general level of education. During a pandemic, for example, a country with strong research capacity can develop tests and vaccines more quickly and protect its population. Although research is expensive, uncertain and slow to deliver, and not every project succeeds, the long-term returns have been very large. Governments should therefore give researchers stable funding and freedom to pursue ideas.\n\nTo sum up, focusing on science and research brings clear benefits to a country, above all economic growth and the ability to solve major problems. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào khoa học và nghiên cứu — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu vai trò ít được chú ý (phòng thí nghiệm, đại học, đài thiên văn ít lên báo nhưng phát hiện định hình y học, công nghiệp, đời sống) rồi hai lợi ích: tăng trưởng kinh tế; giải quyết vấn đề quốc gia và toàn cầu.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — kinh tế",
+        "think": "Nước đầu tư khoa học và nghiên cứu năng suất, cạnh tranh hơn; ngành công nghệ cao việc làm lương tốt và xuất khẩu; tri thức đại học dẫn đến sản phẩm, công ty mới. Nhiều ngành hôm nay (internet, công nghệ sinh học) lớn từ nghiên cứu cơ bản không mục đích thương mại ngay. Thu hút nhà khoa học và nhà đầu tư nước ngoài; bằng sáng chế, doanh nghiệp phái sinh; Hàn Quốc, Đức.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "ID-art-science-funding",
+          "ID-edu-economy-skills"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — giải quyết vấn đề + nhượng bộ",
+        "think": "Nghiên cứu cơ bản tạo thuốc, vaccine, vật liệu, công nghệ năng lượng sạch; nhà khoa học giúp chính phủ về bệnh, khí hậu, thiếu lương thực; đào tạo người kỹ năng cao; nâng trình độ giáo dục chung. Ví dụ trong đại dịch nước có năng lực nghiên cứu mạnh phát triển xét nghiệm và vaccine nhanh hơn. Nhượng bộ: đắt, không chắc, chậm nhưng lợi ích dài hạn rất lớn; hỗ trợ ổn định, tự do theo đuổi ý tưởng.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "ID-health-invest-more",
+          "ID-health-prevention-cheaper"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Research laboratories, universities and observatories",
+      "phòng thí nghiệm nghiên cứu, đại học và đài thiên văn"
+    ],
+    [
+      "rarely make headlines",
+      "hiếm khi lên tiêu đề báo"
+    ],
+    [
+      "science and research",
+      "khoa học và nghiên cứu"
+    ],
+    [
+      "economic growth and solutions to national and global problems",
+      "tăng trưởng kinh tế và giải pháp cho vấn đề quốc gia và toàn cầu"
+    ],
+    [
+      "the knowledge produced by universities",
+      "tri thức do các trường đại học tạo ra"
+    ],
+    [
+      "new products and companies",
+      "sản phẩm và công ty mới"
+    ],
+    [
+      "basic research that had no immediate commercial aim",
+      "nghiên cứu cơ bản không có mục đích thương mại tức thời"
+    ],
+    [
+      "the internet to biotechnology",
+      "từ internet đến công nghệ sinh học"
+    ],
+    [
+      "attract talented scientists and investors from abroad",
+      "thu hút nhà khoa học và nhà đầu tư tài năng từ nước ngoài"
+    ],
+    [
+      "patents and spin-off businesses",
+      "bằng sáng chế và doanh nghiệp phái sinh"
+    ],
+    [
+      "sustained investment in research and engineering",
+      "đầu tư bền vững vào nghiên cứu và kỹ thuật"
+    ],
+    [
+      "innovative economies",
+      "nền kinh tế đổi mới sáng tạo"
+    ],
+    [
+      "solve major problems",
+      "giải quyết vấn đề lớn"
+    ],
+    [
+      "medicines, vaccines, materials and clean energy technologies",
+      "thuốc, vaccine, vật liệu và công nghệ năng lượng sạch"
+    ],
+    [
+      "disease, climate change and food shortages",
+      "dịch bệnh, biến đổi khí hậu và thiếu lương thực"
+    ],
+    [
+      "highly skilled people",
+      "người có kỹ năng cao"
+    ],
+    [
+      "raises the general level of education",
+      "nâng trình độ giáo dục chung"
+    ],
+    [
+      "develop tests and vaccines more quickly",
+      "phát triển xét nghiệm và vaccine nhanh hơn"
+    ],
+    [
+      "expensive, uncertain and slow to deliver",
+      "đắt, không chắc chắn và chậm cho kết quả"
+    ],
+    [
+      "stable funding and freedom to pursue ideas",
+      "nguồn tài trợ ổn định và tự do theo đuổi ý tưởng"
+    ]
+  ]
+}

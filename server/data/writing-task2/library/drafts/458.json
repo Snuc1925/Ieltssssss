@@ -1,0 +1,124 @@
+{
+  "questionId": 458,
+  "text": "Citizen science projects invite ordinary people to help scientists by counting wildlife, recording the weather or classifying images, and they are growing in many countries. This essay will discuss how these projects can benefit research, focusing on the quantity of data and on the involvement of the public.\n\nTo begin with, citizen science benefits research by supplying large amounts of data at low cost. Thousands of volunteers can record observations over wide areas and long periods that scientists could not cover. Thousands of volunteers who record the birds in their gardens, for example, give scientists a picture of population changes that no small team could collect. Such data can show how species move as the climate changes, or how pollution varies from place to place. Because volunteers are not paid, projects can continue for many years, and they allow researchers to spend their limited funds on analysis instead of collection. Online platforms in which volunteers classify galaxies or photographs have also led to real discoveries.\n\nFurthermore, taking part builds public understanding and trust. Volunteers learn how science works, become more interested in the subject and are more likely to support research funding and to change their own behaviour, for example by protecting local habitats. Students who join projects gain practical skills, and communities feel that their knowledge is valued. However, quality can vary, so training, clear instructions and checks by experts are needed to keep data reliable. When well organised, citizen science makes research broader, cheaper and more trusted.\n\nIn conclusion, citizen science benefits research by providing large quantities of data and engaging the public, provided that quality is carefully controlled.",
+  "analysis": {
+    "type_vi": "Opinion/Discuss: khoa học công dân có lợi cho nghiên cứu thế nào",
+    "plan": [
+      {
+        "step": "1. Khung phân tích",
+        "think": "Mở bài mô tả dự án (người thường giúp nhà khoa học đếm động vật hoang dã, ghi thời tiết, phân loại ảnh); hai lợi ích: lượng dữ liệu; sự tham gia của công chúng.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — dữ liệu",
+        "think": "Hàng nghìn tình nguyện viên ghi quan sát ở vùng rộng, thời gian dài mà nhà khoa học không làm được. Ví dụ tình nguyện viên ghi chim trong vườn cho thấy biến động quần thể nhóm nhỏ không thu thập nổi. Dữ liệu cho thấy loài di chuyển khi khí hậu thay đổi, ô nhiễm khác nhau theo nơi; không trả công nên dự án kéo dài, nhà nghiên cứu dùng kinh phí cho phân tích; nền tảng trực tuyến phân loại thiên hà, ảnh dẫn đến khám phá thực sự.",
+        "refs": [
+          "ID-tech-citizen-science",
+          "EX-tech-bird-count",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — công chúng + giới hạn",
+        "think": "Tham gia xây dựng hiểu biết và niềm tin: tình nguyện viên biết khoa học hoạt động ra sao, quan tâm hơn, ủng hộ tài trợ, đổi hành vi (bảo vệ môi trường sống); sinh viên có kỹ năng thực hành; cộng đồng thấy tri thức được trân trọng. Hạn chế chất lượng: cần đào tạo, hướng dẫn, chuyên gia kiểm tra.",
+        "refs": [
+          "ID-tech-citizen-science",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cung cấp lượng dữ liệu lớn và thu hút công chúng, miễn kiểm soát chất lượng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-citizen-science",
+      "EX-tech-bird-count"
+    ]
+  },
+  "chunks": [
+    [
+      "Citizen science projects",
+      "các dự án khoa học công dân"
+    ],
+    [
+      "counting wildlife, recording the weather or classifying images",
+      "đếm động vật hoang dã, ghi thời tiết hoặc phân loại hình ảnh"
+    ],
+    [
+      "the quantity of data",
+      "lượng dữ liệu"
+    ],
+    [
+      "the involvement of the public",
+      "sự tham gia của công chúng"
+    ],
+    [
+      "supplying large amounts of data at low cost",
+      "cung cấp lượng dữ liệu lớn với chi phí thấp"
+    ],
+    [
+      "record observations over wide areas and long periods",
+      "ghi nhận quan sát trên diện rộng và thời gian dài"
+    ],
+    [
+      "record the birds in their gardens",
+      "ghi lại những con chim trong vườn nhà"
+    ],
+    [
+      "population changes",
+      "sự thay đổi quần thể"
+    ],
+    [
+      "how species move as the climate changes",
+      "loài di chuyển thế nào khi khí hậu thay đổi"
+    ],
+    [
+      "how pollution varies from place to place",
+      "ô nhiễm khác nhau thế nào giữa các nơi"
+    ],
+    [
+      "limited funds",
+      "kinh phí hạn hẹp"
+    ],
+    [
+      "classify galaxies or photographs",
+      "phân loại thiên hà hoặc ảnh chụp"
+    ],
+    [
+      "real discoveries",
+      "những khám phá thực sự"
+    ],
+    [
+      "builds public understanding and trust",
+      "xây dựng hiểu biết và niềm tin của công chúng"
+    ],
+    [
+      "how science works",
+      "khoa học vận hành thế nào"
+    ],
+    [
+      "protecting local habitats",
+      "bảo vệ môi trường sống địa phương"
+    ],
+    [
+      "gain practical skills",
+      "có được kỹ năng thực hành"
+    ],
+    [
+      "training, clear instructions and checks by experts",
+      "đào tạo, hướng dẫn rõ ràng và kiểm tra bởi chuyên gia"
+    ],
+    [
+      "broader, cheaper and more trusted",
+      "rộng hơn, rẻ hơn và đáng tin hơn"
+    ]
+  ]
+}

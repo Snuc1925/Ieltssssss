@@ -1,0 +1,130 @@
+{
+  "questionId": 12,
+  "text": "Technology now shapes every industry, from farming to finance, and many governments see it as the key to prosperity. This essay will outline two principal benefits for a country that focuses on technology: a stronger economy and better public services.\n\nFirst and foremost, a country that invests in technology becomes more productive and competitive. High-tech industries create well-paid jobs and exports, and digital tools help every business, from small shops to large factories, to work faster and reach more customers. A country that allows citizens to file taxes and vote online, for example, saves time and money for both government and residents. Technology also attracts investment and talented people, and it helps countries to create new products instead of competing only on low costs. Nations such as South Korea and Singapore have built prosperity by combining education with strong technology sectors.\n\nIn addition, technology improves public services and quality of life. Digital records allow hospitals to share information safely, online services reduce queues and paperwork, and data helps cities to manage traffic, energy and waste. A villager who consults a city doctor by video, for example, receives expert advice without travelling for hours. Farmers use sensors and satellite information to grow more with fewer resources, and online education reaches students who live far from good schools. Although technology requires investment, training and protection against misuse, such as privacy violations, a country that plans carefully can enjoy long-term gains. Governments should also ensure that everyone has access, so that the benefits are shared.\n\nTo sum up, focusing on technology brings clear benefits to a country, above all a stronger economy and better public services. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào công nghệ — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu vai trò của công nghệ (từ nông nghiệp đến tài chính) rồi báo hai lợi ích: kinh tế mạnh hơn; dịch vụ công tốt hơn.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — kinh tế",
+        "think": "Nước đầu tư công nghệ năng suất và cạnh tranh hơn: ngành công nghệ cao tạo việc làm lương tốt và xuất khẩu; công cụ số giúp mọi doanh nghiệp làm nhanh, tiếp cận nhiều khách. Ví dụ nước cho công dân khai thuế và bầu cử trực tuyến tiết kiệm thời gian tiền của. Thu hút đầu tư và nhân tài; tạo sản phẩm mới thay vì chỉ cạnh tranh chi phí thấp; Hàn Quốc, Singapore.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "EX-tech-estonia-online",
+          "ID-env-green-jobs"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — dịch vụ công + nhượng bộ",
+        "think": "Hồ sơ số cho bệnh viện chia sẻ thông tin an toàn; dịch vụ trực tuyến giảm xếp hàng, giấy tờ; dữ liệu giúp thành phố quản lý giao thông, năng lượng, rác. Ví dụ dân làng hỏi bác sĩ thành phố qua video. Nông dân dùng cảm biến, vệ tinh trồng nhiều hơn với ít tài nguyên; giáo dục trực tuyến đến học sinh xa trường tốt. Nhượng bộ: cần đầu tư, đào tạo, bảo vệ chống lạm dụng (riêng tư); chính phủ bảo đảm mọi người tiếp cận.",
+        "refs": [
+          "ID-tech-national-benefits",
+          "ID-tech-improves-life",
+          "ID-health-telemedicine",
+          "ID-env-agri-innovation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-national-benefits",
+      "EX-tech-estonia-online"
+    ]
+  },
+  "chunks": [
+    [
+      "shapes every industry, from farming to finance",
+      "định hình mọi ngành, từ nông nghiệp đến tài chính"
+    ],
+    [
+      "the key to prosperity",
+      "chìa khoá của sự thịnh vượng"
+    ],
+    [
+      "a stronger economy and better public services",
+      "nền kinh tế mạnh hơn và dịch vụ công tốt hơn"
+    ],
+    [
+      "more productive and competitive",
+      "năng suất và cạnh tranh hơn"
+    ],
+    [
+      "High-tech industries create well-paid jobs and exports",
+      "ngành công nghệ cao tạo việc làm lương cao và xuất khẩu"
+    ],
+    [
+      "digital tools",
+      "công cụ số"
+    ],
+    [
+      "small shops to large factories",
+      "từ cửa hàng nhỏ đến nhà máy lớn"
+    ],
+    [
+      "reach more customers",
+      "tiếp cận nhiều khách hơn"
+    ],
+    [
+      "file taxes and vote online",
+      "khai thuế và bầu cử trực tuyến"
+    ],
+    [
+      "saves time and money",
+      "tiết kiệm thời gian và tiền bạc"
+    ],
+    [
+      "attracts investment and talented people",
+      "thu hút đầu tư và người tài"
+    ],
+    [
+      "compete only on low costs",
+      "chỉ cạnh tranh bằng chi phí thấp"
+    ],
+    [
+      "Digital records",
+      "hồ sơ số"
+    ],
+    [
+      "share information safely",
+      "chia sẻ thông tin an toàn"
+    ],
+    [
+      "reduce queues and paperwork",
+      "giảm xếp hàng và giấy tờ"
+    ],
+    [
+      "manage traffic, energy and waste",
+      "quản lý giao thông, năng lượng và rác thải"
+    ],
+    [
+      "sensors and satellite information",
+      "cảm biến và thông tin vệ tinh"
+    ],
+    [
+      "grow more with fewer resources",
+      "trồng nhiều hơn với ít tài nguyên hơn"
+    ],
+    [
+      "protection against misuse",
+      "bảo vệ chống lạm dụng"
+    ],
+    [
+      "the benefits are shared",
+      "lợi ích được chia sẻ"
+    ]
+  ]
+}

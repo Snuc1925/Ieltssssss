@@ -1,0 +1,122 @@
+{
+  "questionId": 415,
+  "text": "Small wheeled robots that carry parcels and meals along pavements are already used in a few cities, and the question is how common they will become within twenty years. I believe that they will become common in suitable areas, but not everywhere.\n\nTo begin with, delivery robots have clear advantages that will encourage their spread. They cut labour costs and emissions on short trips, and they can work at night and deliver quickly. A small robot that brings lunch to students across a university campus, for example, works well on wide, quiet paths. As online shopping and food delivery grow, companies will look for cheaper ways to complete the final stage of a journey, which is the most expensive part. Improvements in sensors and artificial intelligence will help robots to avoid obstacles and cross roads safely, and falling hardware prices will make large fleets affordable.\n\nHowever, several obstacles will limit where they can operate. Crowded pavements, kerbs, stairs and bad weather make movement difficult, especially in old and dense city centres. Theft, vandalism and public concern about safety could provoke restrictive rules, and many people feel uneasy about machines sharing the pavement with children and the elderly. They also threaten jobs for couriers, which may cause political opposition. Use will therefore grow in campuses, new suburbs and business parks, where space and infrastructure suit robots, rather than in the centres of old cities. For large or heavy items, drones and vans will remain more practical.\n\nIn conclusion, delivery robots will become common in suitable areas within twenty years, but they will not replace human couriers across entire cities.",
+  "analysis": {
+    "type_vi": "Extent: robot giao hàng tự động sẽ phổ biến đến đâu — phổ biến ở khu vực phù hợp",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài nêu thực tế (robot bánh xe nhỏ chở bưu kiện, bữa ăn trên vỉa hè ở vài thành phố); đáp: phổ biến ở khu vực phù hợp, không ở mọi nơi.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm thúc đẩy",
+        "think": "Giảm chi phí lao động và khí thải ở chặng ngắn; làm đêm, giao nhanh. Ví dụ robot nhỏ mang bữa trưa cho sinh viên trên khuôn viên đại học đường rộng yên tĩnh. Mua sắm trực tuyến tăng, công ty tìm cách rẻ hơn cho chặng cuối đắt nhất; cảm biến và AI tốt hơn, giá phần cứng giảm.",
+        "refs": [
+          "ID-tech-delivery-robots",
+          "EX-tech-campus-robot",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Trở ngại",
+        "think": "Vỉa hè đông, bờ vỉa, cầu thang, thời tiết xấu, nhất là trung tâm cũ đông; trộm, phá hoại, lo ngại an toàn dẫn đến quy định hạn chế; người lo máy chung vỉa hè với trẻ và người già; đe doạ việc làm shipper gây phản đối. Phát triển ở khuôn viên, vùng ngoại ô mới, khu thương mại; hàng lớn nặng dùng drone và xe tải.",
+        "refs": [
+          "ID-tech-delivery-robots",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phổ biến ở khu vực phù hợp nhưng không thay thế người giao hàng toàn thành phố.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-delivery-robots",
+      "EX-tech-campus-robot"
+    ]
+  },
+  "chunks": [
+    [
+      "Small wheeled robots that carry parcels and meals along pavements",
+      "robot bánh xe nhỏ chở bưu kiện và bữa ăn dọc vỉa hè"
+    ],
+    [
+      "delivery robots",
+      "robot giao hàng"
+    ],
+    [
+      "cut labour costs and emissions on short trips",
+      "giảm chi phí lao động và khí thải ở các chuyến ngắn"
+    ],
+    [
+      "work at night and deliver quickly",
+      "làm việc ban đêm và giao hàng nhanh"
+    ],
+    [
+      "brings lunch to students across a university campus",
+      "mang bữa trưa cho sinh viên khắp khuôn viên đại học"
+    ],
+    [
+      "wide, quiet paths",
+      "lối đi rộng và yên tĩnh"
+    ],
+    [
+      "online shopping and food delivery grow",
+      "mua sắm trực tuyến và giao đồ ăn tăng trưởng"
+    ],
+    [
+      "the final stage of a journey",
+      "chặng cuối của hành trình"
+    ],
+    [
+      "avoid obstacles and cross roads safely",
+      "tránh chướng ngại và băng qua đường an toàn"
+    ],
+    [
+      "falling hardware prices",
+      "giá phần cứng giảm"
+    ],
+    [
+      "large fleets affordable",
+      "đội robot lớn có giá chấp nhận được"
+    ],
+    [
+      "Crowded pavements, kerbs, stairs and bad weather",
+      "vỉa hè đông, bờ vỉa, cầu thang và thời tiết xấu"
+    ],
+    [
+      "old and dense city centres",
+      "trung tâm thành phố cổ và đông đúc"
+    ],
+    [
+      "Theft, vandalism",
+      "trộm cắp, phá hoại"
+    ],
+    [
+      "restrictive rules",
+      "quy định hạn chế"
+    ],
+    [
+      "threaten jobs for couriers",
+      "đe doạ việc làm của người giao hàng"
+    ],
+    [
+      "campuses, new suburbs and business parks",
+      "khuôn viên, vùng ngoại ô mới và khu thương mại"
+    ],
+    [
+      "drones and vans",
+      "drone và xe tải"
+    ],
+    [
+      "in suitable areas",
+      "ở những khu vực phù hợp"
+    ]
+  ]
+}

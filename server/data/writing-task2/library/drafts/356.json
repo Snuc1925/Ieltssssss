@@ -1,0 +1,130 @@
+{
+  "questionId": 356,
+  "text": "Calendars, messaging tools, note-taking apps and project boards are now part of working life, and many people think that mobile apps have improved productivity. I agree with this view to a large extent, since apps save time by organising, automating and connecting work, although they can also distract.\n\nTo begin with, mobile apps save time by organising, automating and connecting work. Calendars, task lists, shared documents and messaging remove delays and paperwork. A team that uses a shared calendar and chat app, for example, can arrange a meeting in minutes instead of exchanging dozens of emails. Apps allow people to work from anywhere, reply to customers instantly and scan documents or sign contracts without printing. Scheduling tools, expense trackers and reminders reduce errors and forgotten tasks, and automation tools handle repetitive actions such as sending invoices. For small businesses and freelancers, affordable apps provide capabilities that once required an office and staff.\n\nFurthermore, apps help individuals to manage their own time and learning. Fitness trackers, language lessons and budgeting tools encourage regular habits, and collaborative platforms allow colleagues in different countries to work together. However, productivity does not rise automatically. Notifications and endless features can distract and reduce real output, and constant availability may blur the line between work and rest, leading to stress. Research suggests that people check their phones many times a day and take time to refocus afterwards. Productivity improves when people choose a few tools, switch off unnecessary alerts and set times for deep work. Used with discipline, apps are a major help.\n\nIn conclusion, I agree that mobile apps have improved productivity to a large extent, because they save time and reduce effort, provided that users manage distractions carefully.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): ứng dụng di động đã cải thiện năng suất — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu các loại ứng dụng (lịch, nhắn tin, ghi chú, bảng dự án) rồi largely agree + lý do + giới hạn (xao nhãng).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — tiết kiệm thời gian",
+        "think": "Lịch, danh sách việc, tài liệu chung, nhắn tin loại bỏ chậm trễ và giấy tờ. Ví dụ nhóm dùng lịch chung và ứng dụng chat sắp họp trong vài phút thay vì trao đổi hàng chục email. Làm việc từ bất kỳ đâu, trả lời khách ngay, quét tài liệu, ký hợp đồng không in; công cụ lập lịch, theo dõi chi phí, nhắc nhở giảm sai sót; tự động hoá việc lặp lại như gửi hoá đơn; doanh nghiệp nhỏ, freelancer có khả năng trước đây cần văn phòng và nhân viên.",
+        "refs": [
+          "ID-tech-apps-productivity",
+          "EX-tech-shared-calendar",
+          "ID-tech-automation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Giúp cá nhân quản lý thời gian và học: theo dõi sức khoẻ, bài học ngôn ngữ, ngân sách khuyến khích thói quen; nền tảng cộng tác cho đồng nghiệp nhiều nước. Giới hạn: năng suất không tự tăng: thông báo, tính năng vô tận gây xao nhãng, giảm đầu ra thật; luôn sẵn sàng làm mờ ranh giới làm việc và nghỉ, gây căng thẳng; người dùng kiểm tra điện thoại nhiều lần mỗi ngày, mất thời gian tập trung lại; chọn vài công cụ, tắt cảnh báo thừa, đặt giờ làm việc sâu.",
+        "refs": [
+          "ID-tech-apps-productivity",
+          "ID-tech-smartphones",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Largely agree vì tiết kiệm thời gian và công sức, với điều kiện quản lý xao nhãng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-apps-productivity",
+      "EX-tech-shared-calendar"
+    ]
+  },
+  "chunks": [
+    [
+      "Calendars, messaging tools, note-taking apps and project boards",
+      "lịch, công cụ nhắn tin, ứng dụng ghi chú và bảng dự án"
+    ],
+    [
+      "mobile apps have improved productivity",
+      "ứng dụng di động đã cải thiện năng suất"
+    ],
+    [
+      "organising, automating and connecting work",
+      "sắp xếp, tự động hoá và kết nối công việc"
+    ],
+    [
+      "Calendars, task lists, shared documents and messaging",
+      "lịch, danh sách việc, tài liệu chung và nhắn tin"
+    ],
+    [
+      "remove delays and paperwork",
+      "loại bỏ chậm trễ và giấy tờ"
+    ],
+    [
+      "arrange a meeting in minutes",
+      "sắp xếp cuộc họp trong vài phút"
+    ],
+    [
+      "exchanging dozens of emails",
+      "trao đổi hàng chục email"
+    ],
+    [
+      "work from anywhere",
+      "làm việc từ bất cứ đâu"
+    ],
+    [
+      "reply to customers instantly",
+      "trả lời khách hàng ngay lập tức"
+    ],
+    [
+      "sign contracts without printing",
+      "ký hợp đồng không cần in"
+    ],
+    [
+      "reduce errors and forgotten tasks",
+      "giảm sai sót và việc bị quên"
+    ],
+    [
+      "handle repetitive actions such as sending invoices",
+      "xử lý các hành động lặp lại như gửi hoá đơn"
+    ],
+    [
+      "small businesses and freelancers",
+      "doanh nghiệp nhỏ và người làm tự do"
+    ],
+    [
+      "manage their own time and learning",
+      "quản lý thời gian và việc học của mình"
+    ],
+    [
+      "Fitness trackers, language lessons and budgeting tools",
+      "thiết bị theo dõi thể dục, bài học ngôn ngữ và công cụ lập ngân sách"
+    ],
+    [
+      "distract and reduce real output",
+      "gây xao nhãng và giảm sản lượng thật"
+    ],
+    [
+      "blur the line between work and rest",
+      "làm mờ ranh giới giữa làm việc và nghỉ ngơi"
+    ],
+    [
+      "take time to refocus",
+      "mất thời gian để tập trung lại"
+    ],
+    [
+      "switch off unnecessary alerts",
+      "tắt các cảnh báo không cần thiết"
+    ],
+    [
+      "deep work",
+      "làm việc sâu, tập trung cao độ"
+    ]
+  ]
+}

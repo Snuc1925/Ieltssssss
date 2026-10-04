@@ -1,0 +1,129 @@
+{
+  "questionId": 470,
+  "text": "Birth certificates, land registers, court files and archives are being scanned and moved online in many countries, and the question is whether mass digitisation of public records is wise. This essay will discuss the advantages and disadvantages before explaining my own view.\n\nOn the positive side, digitising public records makes them easier to find and preserve. Citizens can search archives and obtain documents online, paper is saved and fragile records are protected from fire, damp and decay. A citizen who orders a birth certificate online, for example, avoids a journey to a distant office. Digital records can be copied and stored in several places, which protects against loss, and they can be searched in seconds instead of hours. Governments can save money on storage and staff, reduce errors and corruption by making changes traceable, and share information between departments to offer faster services. Historians and researchers also gain access to material that was once available only to those who could visit an archive.\n\nOn the negative side, digitisation creates new risks. Large databases attract hackers, and a single breach can expose the personal details of millions of people. People without internet access or digital skills, often older or poorer citizens, may be excluded from services that are available only online. The cost of conversion, security and maintenance can be high, and formats and software become obsolete, so records may become unreadable in the future. Nevertheless, these problems can be managed through strong security, regular backups, clear rules on access to sensitive data, continued offline options for those who need them and open standards.\n\nIn conclusion, mass digitisation of public records brings substantial benefits, but it requires strong protection and fair access. On balance, I believe that it is worthwhile, provided that security and inclusion are taken seriously.",
+  "analysis": {
+    "type_vi": "A/D: số hoá hàng loạt hồ sơ công",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu hiện tượng (giấy khai sinh, sổ đăng ký đất, hồ sơ toà án, kho lưu trữ đang được quét và đưa lên mạng); kết luận có điều kiện (an ninh và hòa nhập).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Dễ tìm và bảo quản: công dân tìm kiếm, lấy tài liệu trực tuyến; tiết kiệm giấy, bảo vệ hồ sơ mong manh khỏi lửa, ẩm, mục. Ví dụ công dân đặt giấy khai sinh trực tuyến tránh đi xa đến văn phòng. Bản số sao chép lưu nhiều nơi; tìm trong vài giây thay vì hàng giờ; chính phủ tiết kiệm lưu trữ, nhân viên, giảm sai sót và tham nhũng nhờ thay đổi truy vết được; chia sẻ giữa các bộ phận; nhà sử học tiếp cận tài liệu trước đây chỉ người đến kho mới xem.",
+        "refs": [
+          "ID-tech-digitization",
+          "EX-tech-birth-certificate-online",
+          "ID-cr-transparency"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Rủi ro mới: cơ sở dữ liệu lớn thu hút tin tặc, một vụ rò rỉ lộ thông tin hàng triệu người; người không có internet hoặc kỹ năng số (già, nghèo) có thể bị loại khỏi dịch vụ chỉ có trực tuyến; chi phí chuyển đổi, an ninh, bảo trì cao; định dạng và phần mềm lỗi thời nên hồ sơ có thể không đọc được. Nevertheless: an ninh mạnh, sao lưu thường xuyên, quy tắc rõ truy cập dữ liệu nhạy cảm, giữ lựa chọn ngoại tuyến, chuẩn mở.",
+        "refs": [
+          "ID-tech-digitization",
+          "ID-tech-digital-divide",
+          "ID-tech-biometric"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đáng làm nếu an ninh và hoà nhập được coi trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-digitization",
+      "EX-tech-birth-certificate-online"
+    ]
+  },
+  "chunks": [
+    [
+      "Birth certificates, land registers, court files and archives",
+      "giấy khai sinh, sổ đăng ký đất, hồ sơ toà án và kho lưu trữ"
+    ],
+    [
+      "mass digitisation of public records",
+      "số hoá hàng loạt hồ sơ công"
+    ],
+    [
+      "easier to find and preserve",
+      "dễ tìm và dễ bảo quản hơn"
+    ],
+    [
+      "search archives and obtain documents online",
+      "tra cứu kho lưu trữ và lấy tài liệu trực tuyến"
+    ],
+    [
+      "paper is saved",
+      "tiết kiệm giấy"
+    ],
+    [
+      "fragile records are protected from fire, damp and decay",
+      "hồ sơ mong manh được bảo vệ khỏi lửa, ẩm và mục nát"
+    ],
+    [
+      "orders a birth certificate online",
+      "đặt giấy khai sinh trực tuyến"
+    ],
+    [
+      "a journey to a distant office",
+      "chuyến đi đến văn phòng xa"
+    ],
+    [
+      "copied and stored in several places",
+      "sao chép và lưu ở nhiều nơi"
+    ],
+    [
+      "searched in seconds instead of hours",
+      "tìm trong vài giây thay vì vài giờ"
+    ],
+    [
+      "reduce errors and corruption",
+      "giảm sai sót và tham nhũng"
+    ],
+    [
+      "changes traceable",
+      "thay đổi có thể truy vết"
+    ],
+    [
+      "share information between departments",
+      "chia sẻ thông tin giữa các bộ phận"
+    ],
+    [
+      "Large databases attract hackers",
+      "cơ sở dữ liệu lớn thu hút tin tặc"
+    ],
+    [
+      "expose the personal details of millions of people",
+      "làm lộ thông tin cá nhân của hàng triệu người"
+    ],
+    [
+      "internet access or digital skills",
+      "truy cập internet hoặc kỹ năng số"
+    ],
+    [
+      "available only online",
+      "chỉ có trực tuyến"
+    ],
+    [
+      "formats and software become obsolete",
+      "định dạng và phần mềm trở nên lỗi thời"
+    ],
+    [
+      "regular backups",
+      "sao lưu thường xuyên"
+    ],
+    [
+      "offline options",
+      "lựa chọn ngoại tuyến"
+    ]
+  ]
+}

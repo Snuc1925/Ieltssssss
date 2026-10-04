@@ -1,0 +1,131 @@
+{
+  "questionId": 234,
+  "text": "Every time we search for a product, use a map or accept a cookie, information about us is recorded, and many people think that online privacy is disappearing. I agree with this view, since almost every action leaves a data trail, although laws and tools can limit the loss.\n\nTo begin with, online privacy is shrinking because almost every action leaves a data trail. Websites, apps and devices track what people search, buy and where they go, companies sell the resulting profiles, and few users read the terms that they accept. A shopper who searches for a pair of shoes, for example, may see advertisements for them on a dozen unrelated websites. Smart speakers, fitness bands and connected televisions collect information inside the home, and cameras with facial recognition identify people in public. Data breaches expose the details of millions of people at once, so that information once shared can never be fully recovered.\n\nFurthermore, privacy is also reduced by the habits of users, who often share photographs, locations and opinions freely on social media, and by governments that gather data for security purposes. Many people feel resigned, believing that they have nothing to hide or that avoiding services is impossible. However, privacy is not completely lost. Laws such as the European data protection rules give citizens rights to see, correct and delete their data and impose penalties for abuse. Individuals can use privacy settings, encrypted messaging, ad blockers and careful sharing to limit tracking. Privacy has not disappeared, but it now has to be actively defended through law, technology and personal choice.\n\nIn conclusion, I agree that online privacy is disappearing, because data are collected on an unprecedented scale, but laws and individual action can still slow the process.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: quyền riêng tư trực tuyến đang biến mất — agree (có điều kiện)",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giảm nhẹ",
+        "think": "Mở bài nêu hành động quen thuộc (tìm sản phẩm, dùng bản đồ, chấp nhận cookie) bị ghi nhận rồi agree + lý do + nhượng bộ (luật và công cụ làm chậm).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — dấu vết dữ liệu",
+        "think": "Website, ứng dụng, thiết bị theo dõi tìm kiếm, mua, nơi đến; công ty bán hồ sơ kết quả; ít người đọc điều khoản. Ví dụ người tìm đôi giày thấy quảng cáo trên hàng chục trang không liên quan. Loa thông minh, vòng thể dục, ti vi kết nối thu thập thông tin trong nhà; camera nhận diện khuôn mặt nhận ra người nơi công cộng; rò rỉ dữ liệu làm lộ hàng triệu người cùng lúc.",
+        "refs": [
+          "ID-tech-privacy-disappearing",
+          "EX-tech-targeted-after-search",
+          "ID-tech-cctv",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Thói quen người dùng chia sẻ ảnh, vị trí, ý kiến tự do; chính phủ thu thập dữ liệu vì an ninh; nhiều người buông xuôi (không có gì để giấu). Nhượng bộ: không mất hoàn toàn: luật (quy định bảo vệ dữ liệu châu Âu) cho công dân quyền xem, sửa, xoá dữ liệu, phạt lạm dụng; cá nhân dùng cài đặt riêng tư, nhắn tin mã hoá, chặn quảng cáo, chia sẻ cẩn thận; riêng tư phải được bảo vệ chủ động bằng luật, công nghệ, lựa chọn cá nhân.",
+        "refs": [
+          "ID-tech-privacy-disappearing",
+          "ID-tech-digital-privacy",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì dữ liệu thu thập quy mô chưa từng có, nhưng luật và hành động cá nhân có thể làm chậm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-privacy-disappearing",
+      "EX-tech-targeted-after-search"
+    ]
+  },
+  "chunks": [
+    [
+      "accept a cookie",
+      "chấp nhận cookie"
+    ],
+    [
+      "online privacy is disappearing",
+      "quyền riêng tư trực tuyến đang biến mất"
+    ],
+    [
+      "almost every action leaves a data trail",
+      "gần như mọi hành động đều để lại dấu vết dữ liệu"
+    ],
+    [
+      "track what people search, buy and where they go",
+      "theo dõi điều người ta tìm kiếm, mua và nơi họ đến"
+    ],
+    [
+      "sell the resulting profiles",
+      "bán các hồ sơ thu được"
+    ],
+    [
+      "few users read the terms that they accept",
+      "ít người dùng đọc điều khoản họ chấp nhận"
+    ],
+    [
+      "searches for a pair of shoes",
+      "tìm kiếm một đôi giày"
+    ],
+    [
+      "a dozen unrelated websites",
+      "hàng chục trang web không liên quan"
+    ],
+    [
+      "Smart speakers, fitness bands and connected televisions",
+      "loa thông minh, vòng thể dục và ti vi kết nối"
+    ],
+    [
+      "facial recognition",
+      "nhận diện khuôn mặt"
+    ],
+    [
+      "identify people in public",
+      "nhận ra người nơi công cộng"
+    ],
+    [
+      "expose the details of millions of people at once",
+      "làm lộ thông tin của hàng triệu người cùng lúc"
+    ],
+    [
+      "share photographs, locations and opinions freely",
+      "chia sẻ ảnh, vị trí và ý kiến một cách tự do"
+    ],
+    [
+      "nothing to hide",
+      "không có gì để giấu"
+    ],
+    [
+      "rights to see, correct and delete their data",
+      "quyền xem, sửa và xoá dữ liệu của họ"
+    ],
+    [
+      "encrypted messaging, ad blockers",
+      "nhắn tin mã hoá, chặn quảng cáo"
+    ],
+    [
+      "limit tracking",
+      "hạn chế theo dõi"
+    ],
+    [
+      "actively defended",
+      "được bảo vệ chủ động"
+    ],
+    [
+      "an unprecedented scale",
+      "quy mô chưa từng có"
+    ],
+    [
+      "slow the process",
+      "làm chậm quá trình"
+    ]
+  ]
+}

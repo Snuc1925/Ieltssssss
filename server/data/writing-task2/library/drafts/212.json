@@ -1,0 +1,132 @@
+{
+  "questionId": 212,
+  "text": "Many people say that they spend more time on their phones than they intend, and opinions differ on whether individuals should be responsible for digital wellbeing or whether society and government should take action. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that digital wellbeing depends on personal habits. Users can set limits on screen time, switch off notifications, keep phones out of bedrooms and make time for sport, friends and sleep. A person who leaves the phone in another room during meals, for example, enjoys the conversation more and sleeps better. Adults can teach children by example, and individuals who feel that a device is harming their mood can choose to use it less. Since people differ in how they react to technology, solutions suited to individual lives are more flexible than general rules, and personal choice respects freedom.\n\nOn the other hand, supporters of wider action point out that digital wellbeing is shaped by how products are designed. Many apps are built to hold attention for as long as possible, using endless scrolling, autoplay and notifications that exploit psychological weaknesses. A video app that starts the next clip automatically, for example, makes it easy to lose an hour without deciding to. Children, who are less able to resist, are especially vulnerable. Governments can require clear time-tracking tools, ban manipulative design aimed at children, set age limits and fund education about healthy use, and schools can teach digital skills. Companies also have a duty to avoid design that harms users.\n\nIn conclusion, both views have merit. Overall, I believe that responsibility is shared: users should manage their habits, but companies and governments must stop products from exploiting people and must protect young users.",
+  "analysis": {
+    "type_vi": "Discuss both views: sức khoẻ số — cá nhân hay xã hội / chính phủ chịu trách nhiệm",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu trải nghiệm quen thuộc (nhiều người nói dùng điện thoại nhiều hơn dự định) rồi hai phe; kết luận trách nhiệm chia sẻ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Sức khoẻ số phụ thuộc thói quen: đặt giới hạn thời gian màn hình, tắt thông báo, để điện thoại ngoài phòng ngủ, dành thời gian cho thể thao, bạn bè, ngủ. Ví dụ người để điện thoại phòng khác khi ăn thích trò chuyện hơn và ngủ ngon hơn. Người lớn làm gương cho trẻ; người thấy thiết bị hại tâm trạng có thể dùng ít đi; giải pháp theo cuộc sống riêng linh hoạt hơn quy tắc chung; tôn trọng tự do.",
+        "refs": [
+          "ID-tech-digital-wellbeing",
+          "ID-fam-screen-limits",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Hành động rộng hơn",
+        "think": "Sức khoẻ số bị thiết kế sản phẩm định hình: nhiều ứng dụng xây để giữ chú ý lâu nhất, dùng cuộn vô tận, tự phát, thông báo khai thác điểm yếu tâm lý. Ví dụ ứng dụng video tự phát clip tiếp theo dễ làm mất một giờ mà không định. Trẻ em ít khả năng cưỡng lại; chính phủ yêu cầu công cụ theo dõi thời gian rõ, cấm thiết kế thao túng nhắm vào trẻ, giới hạn tuổi, tài trợ giáo dục; trường dạy kỹ năng số; công ty có nghĩa vụ tránh thiết kế gây hại.",
+        "refs": [
+          "ID-tech-digital-wellbeing",
+          "EX-tech-endless-scroll",
+          "ID-fam-child-smartphones",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Trách nhiệm chia sẻ: người dùng quản lý thói quen, công ty và chính phủ ngăn sản phẩm khai thác người, bảo vệ người dùng trẻ.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-digital-wellbeing",
+      "EX-tech-endless-scroll"
+    ]
+  },
+  "chunks": [
+    [
+      "spend more time on their phones than they intend",
+      "dành nhiều thời gian trên điện thoại hơn dự định"
+    ],
+    [
+      "digital wellbeing",
+      "sức khoẻ số"
+    ],
+    [
+      "personal habits",
+      "thói quen cá nhân"
+    ],
+    [
+      "set limits on screen time",
+      "đặt giới hạn thời gian màn hình"
+    ],
+    [
+      "switch off notifications",
+      "tắt thông báo"
+    ],
+    [
+      "keep phones out of bedrooms",
+      "để điện thoại ngoài phòng ngủ"
+    ],
+    [
+      "make time for sport, friends and sleep",
+      "dành thời gian cho thể thao, bạn bè và giấc ngủ"
+    ],
+    [
+      "leaves the phone in another room during meals",
+      "để điện thoại phòng khác khi ăn"
+    ],
+    [
+      "teach children by example",
+      "dạy trẻ bằng tấm gương"
+    ],
+    [
+      "harming their mood",
+      "làm hại tâm trạng của họ"
+    ],
+    [
+      "suited to individual lives",
+      "phù hợp với cuộc sống từng người"
+    ],
+    [
+      "shaped by how products are designed",
+      "được định hình bởi cách thiết kế sản phẩm"
+    ],
+    [
+      "hold attention for as long as possible",
+      "giữ sự chú ý càng lâu càng tốt"
+    ],
+    [
+      "endless scrolling, autoplay and notifications",
+      "cuộn vô tận, tự phát và thông báo"
+    ],
+    [
+      "exploit psychological weaknesses",
+      "khai thác điểm yếu tâm lý"
+    ],
+    [
+      "starts the next clip automatically",
+      "tự động phát clip kế tiếp"
+    ],
+    [
+      "lose an hour without deciding to",
+      "mất một giờ mà không quyết định"
+    ],
+    [
+      "ban manipulative design aimed at children",
+      "cấm thiết kế thao túng nhắm vào trẻ em"
+    ],
+    [
+      "fund education about healthy use",
+      "tài trợ giáo dục về cách dùng lành mạnh"
+    ],
+    [
+      "exploiting people",
+      "khai thác con người"
+    ]
+  ]
+}

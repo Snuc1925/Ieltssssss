@@ -1,0 +1,129 @@
+{
+  "questionId": 208,
+  "text": "Cameras now watch streets, shops, stations and car parks in most cities, and the question is whether their advantages outweigh their disadvantages. This essay will discuss the advantages and disadvantages of using surveillance cameras in public places before explaining my own view.\n\nOn the positive side, surveillance cameras can deter crime and provide evidence. Visible cameras discourage theft and vandalism, and recordings help police to identify and convict offenders. A camera that covers a poorly lit car park, for example, helps police to identify thieves and makes drivers feel safer. Footage can also help to find missing people, to understand accidents and to protect staff from abuse, and the public often feel more secure in monitored areas. In serious cases, such as terrorist attacks, camera evidence has been vital in tracing suspects quickly. Cameras in transport systems also help to manage crowds and respond to emergencies.\n\nOn the negative side, cameras raise privacy and cost concerns. They record innocent people as well as offenders, and combined with facial recognition they can track individuals' movements. Footage can be misused or leaked, and people who feel constantly watched may be less free to act naturally. Cameras are expensive to buy, maintain and monitor, and evidence on their effect is mixed: they may only move crime to areas without cameras, and they do little to prevent crimes of passion. Misidentification by software has led to wrongful accusations. Nevertheless, these problems can be reduced if cameras are placed in high-risk locations, signs warn the public, rules limit who can view and keep recordings, and independent bodies check how they are used.\n\nIn conclusion, surveillance cameras are useful in high-risk places, but they should be used with clear rules and safeguards, because unrestricted surveillance would undermine privacy.",
+  "analysis": {
+    "type_vi": "A/D: camera giám sát ở nơi công cộng",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu thực tế (camera theo dõi phố, cửa hàng, ga, bãi đỗ xe ở hầu hết thành phố) rồi hỏi lợi thế có lớn hơn bất lợi; kết luận có điều kiện (nơi rủi ro cao, quy tắc, bảo vệ).",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Răn đe tội phạm và cung cấp bằng chứng: camera dễ thấy ngăn trộm, phá hoại; ghi hình giúp cảnh sát nhận diện, kết án. Ví dụ camera bao quát bãi đỗ xe thiếu sáng giúp cảnh sát nhận diện kẻ trộm và khiến tài xế yên tâm. Tìm người mất tích, hiểu tai nạn, bảo vệ nhân viên; công chúng thấy an toàn hơn; vụ nghiêm trọng như khủng bố bằng chứng camera lần ra nghi phạm nhanh; camera giao thông quản lý đám đông, ứng phó khẩn cấp.",
+        "refs": [
+          "ID-tech-cctv",
+          "EX-tech-car-park-camera",
+          "ID-cr-invest-enforcement"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm + phản bác",
+        "think": "Gây lo ngại riêng tư và chi phí: ghi cả người vô tội; kết hợp nhận diện khuôn mặt có thể theo dõi chuyển động cá nhân; đoạn ghi có thể bị lạm dụng, rò rỉ; người bị theo dõi liên tục kém tự nhiên; đắt để mua, bảo trì, giám sát; hiệu quả hỗn hợp: có thể chỉ dịch chuyển tội phạm, ít ngăn tội bốc đồng; phần mềm nhận diện sai gây buộc tội oan. Nevertheless: đặt ở nơi rủi ro cao, biển báo, quy tắc ai xem và giữ ghi hình, cơ quan độc lập kiểm tra.",
+        "refs": [
+          "ID-tech-cctv",
+          "ID-tech-privacy-disappearing",
+          "ID-tech-surveillance-safety"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hữu ích ở nơi rủi ro cao nhưng cần quy tắc rõ và biện pháp bảo vệ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-cctv",
+      "EX-tech-car-park-camera"
+    ]
+  },
+  "chunks": [
+    [
+      "surveillance cameras in public places",
+      "camera giám sát ở nơi công cộng"
+    ],
+    [
+      "Cameras now watch streets, shops, stations and car parks",
+      "camera hiện theo dõi đường phố, cửa hàng, nhà ga và bãi đỗ xe"
+    ],
+    [
+      "deter crime and provide evidence",
+      "răn đe tội phạm và cung cấp bằng chứng"
+    ],
+    [
+      "Visible cameras discourage theft and vandalism",
+      "camera dễ thấy ngăn trộm cắp và phá hoại"
+    ],
+    [
+      "identify and convict offenders",
+      "nhận diện và kết án người phạm tội"
+    ],
+    [
+      "covers a poorly lit car park",
+      "bao quát bãi đỗ xe thiếu ánh sáng"
+    ],
+    [
+      "feel safer",
+      "cảm thấy an toàn hơn"
+    ],
+    [
+      "find missing people",
+      "tìm người mất tích"
+    ],
+    [
+      "protect staff from abuse",
+      "bảo vệ nhân viên khỏi lạm dụng"
+    ],
+    [
+      "tracing suspects quickly",
+      "truy dấu nghi phạm nhanh chóng"
+    ],
+    [
+      "manage crowds and respond to emergencies",
+      "quản lý đám đông và ứng phó khẩn cấp"
+    ],
+    [
+      "raise privacy and cost concerns",
+      "gây lo ngại về quyền riêng tư và chi phí"
+    ],
+    [
+      "record innocent people",
+      "ghi hình người vô tội"
+    ],
+    [
+      "facial recognition",
+      "nhận diện khuôn mặt"
+    ],
+    [
+      "track individuals' movements",
+      "theo dõi sự di chuyển của cá nhân"
+    ],
+    [
+      "constantly watched",
+      "bị theo dõi liên tục"
+    ],
+    [
+      "move crime to areas without cameras",
+      "dịch chuyển tội phạm sang khu không có camera"
+    ],
+    [
+      "crimes of passion",
+      "tội phạm do bột phát cảm xúc"
+    ],
+    [
+      "Misidentification by software",
+      "phần mềm nhận diện sai"
+    ],
+    [
+      "high-risk locations",
+      "địa điểm rủi ro cao"
+    ]
+  ]
+}

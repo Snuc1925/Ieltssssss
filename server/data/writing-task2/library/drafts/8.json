@@ -1,0 +1,130 @@
+{
+  "questionId": 8,
+  "text": "From antibiotics to smartphones, science and technology have changed almost every part of daily life, and opinions are divided as to whether they improve people's lives or cause problems. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that science and technology have raised living standards in health, communication and convenience. Vaccines and medical devices save lives, the internet and mobile networks connect people instantly, and machines make work and housework faster. A villager who consults a city doctor by video, for example, receives expert advice without travelling for hours. Advances in agriculture, transport and energy have reduced hunger and poverty and allowed people to live longer and more comfortable lives. Knowledge is more accessible than ever, which helps education and personal development, and technology creates new industries and careers.\n\nOn the other hand, critics point out that technology also causes problems. Automation can destroy jobs, factories and vehicles pollute the environment, weapons are more destructive, and personal data are collected on a huge scale, which threatens privacy. Many people feel overwhelmed by screens, notifications and constant connection, and it can reduce attention and face-to-face contact. Dependence on complex systems makes societies vulnerable when they fail, as in power cuts or cyber-attacks. Some argue that technology has also widened the gap between rich and poor, since the benefits are not shared equally.\n\nIn conclusion, both views have merit. Personally, I believe that science and technology improve life overall, but their harmful effects must be managed through regulation, education and responsible use.",
+  "analysis": {
+    "type_vi": "Discuss both views: khoa học công nghệ cải thiện cuộc sống hay gây vấn đề",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu thay đổi toàn diện (từ kháng sinh đến điện thoại thông minh) rồi hai phe; ý kiến riêng: cải thiện nhìn chung nhưng tác hại phải được quản lý.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Nâng mức sống về sức khoẻ, giao tiếp, tiện lợi: vaccine, thiết bị y tế cứu mạng; internet, mạng di động nối ngay; máy móc làm việc nhanh. Ví dụ dân làng hỏi bác sĩ thành phố qua video không phải đi hàng giờ. Nông nghiệp, vận tải, năng lượng giảm đói nghèo, sống lâu hơn, thoải mái hơn; kiến thức dễ tiếp cận hơn bao giờ hết; công nghệ tạo ngành nghề mới.",
+        "refs": [
+          "ID-tech-improves-life",
+          "EX-tech-rural-video-doctor",
+          "ID-health-tech-diagnosis"
+        ]
+      },
+      {
+        "step": "3. Phe phê phán",
+        "think": "Công nghệ cũng gây vấn đề: tự động hoá phá việc làm; nhà máy, phương tiện ô nhiễm; vũ khí tàn phá hơn; dữ liệu cá nhân thu thập quy mô lớn đe doạ riêng tư; choáng ngợp bởi màn hình, thông báo, giảm chú ý và tiếp xúc trực tiếp; phụ thuộc hệ thống phức tạp dễ tổn thương khi hỏng (mất điện, tấn công mạng); nới rộng khoảng cách giàu nghèo.",
+        "refs": [
+          "ID-tech-improves-life",
+          "ID-tech-automation",
+          "ID-tech-face-to-face"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện cuộc sống nhìn chung nhưng tác hại phải quản lý bằng điều tiết, giáo dục, dùng có trách nhiệm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-improves-life",
+      "EX-tech-rural-video-doctor"
+    ]
+  },
+  "chunks": [
+    [
+      "From antibiotics to smartphones",
+      "từ kháng sinh đến điện thoại thông minh"
+    ],
+    [
+      "improve people's lives or cause problems",
+      "cải thiện cuộc sống hay gây ra vấn đề"
+    ],
+    [
+      "raised living standards",
+      "nâng cao mức sống"
+    ],
+    [
+      "health, communication and convenience",
+      "sức khoẻ, giao tiếp và sự tiện lợi"
+    ],
+    [
+      "Vaccines and medical devices save lives",
+      "vaccine và thiết bị y tế cứu mạng người"
+    ],
+    [
+      "connect people instantly",
+      "kết nối mọi người ngay lập tức"
+    ],
+    [
+      "make work and housework faster",
+      "làm công việc và việc nhà nhanh hơn"
+    ],
+    [
+      "consults a city doctor by video",
+      "hỏi bác sĩ thành phố qua video"
+    ],
+    [
+      "reduced hunger and poverty",
+      "giảm đói nghèo"
+    ],
+    [
+      "more accessible than ever",
+      "dễ tiếp cận hơn bao giờ hết"
+    ],
+    [
+      "new industries and careers",
+      "ngành nghề và sự nghiệp mới"
+    ],
+    [
+      "Automation can destroy jobs",
+      "tự động hoá có thể phá huỷ việc làm"
+    ],
+    [
+      "pollute the environment",
+      "gây ô nhiễm môi trường"
+    ],
+    [
+      "personal data are collected on a huge scale",
+      "dữ liệu cá nhân bị thu thập ở quy mô lớn"
+    ],
+    [
+      "threatens privacy",
+      "đe doạ quyền riêng tư"
+    ],
+    [
+      "overwhelmed by screens, notifications",
+      "choáng ngợp bởi màn hình, thông báo"
+    ],
+    [
+      "Dependence on complex systems",
+      "sự phụ thuộc vào các hệ thống phức tạp"
+    ],
+    [
+      "power cuts or cyber-attacks",
+      "mất điện hoặc tấn công mạng"
+    ],
+    [
+      "widened the gap between rich and poor",
+      "nới rộng khoảng cách giàu nghèo"
+    ],
+    [
+      "regulation, education and responsible use",
+      "điều tiết, giáo dục và sử dụng có trách nhiệm"
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "questionId": 441,
+  "text": "A single space mission can cost more than the annual budget of a small country, and the question is whether the advantages of space exploration outweigh its high cost. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, space exploration drives technology and knowledge that benefit people on Earth. Satellites provide weather forecasts, navigation, communication and climate data, and techniques developed for space, such as lightweight materials and medical monitors, have found uses in daily life. A farmer who receives a satellite weather forecast, for example, can decide when to plant and avoid losing a crop. Space science also inspires students, creates skilled jobs and encourages international cooperation, as seen in joint research stations. Discoveries about other planets improve our understanding of climate and of the conditions that make life possible.\n\nOn the negative side, space programmes cost enormous sums that could address urgent problems on Earth. Missions run to billions, with uncertain returns, while hospitals, schools and housing lack funds, and failures waste money and sometimes lives. The sum spent on a single mission, for example, could equip dozens of hospitals in poorer regions. Many of the most useful applications are already established, so that further crewed missions to distant places add little practical benefit. Moreover, rocket launches create pollution and increase the amount of debris around the planet.\n\nIn conclusion, the practical and scientific benefits are considerable, but costs must be controlled. On balance, I believe that the advantages outweigh the cost when spending focuses on useful programmes such as satellites and climate monitoring, rather than on prestige projects.",
+  "analysis": {
+    "type_vi": "A/D: ưu điểm thám hiểm vũ trụ có lớn hơn chi phí cao",
+    "plan": [
+      {
+        "step": "1. Khung A/D",
+        "think": "Mở bài nêu chi phí (một sứ mệnh hơn ngân sách năm của một nước nhỏ); kết luận cân nhắc.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Công nghệ và tri thức: vệ tinh dự báo thời tiết, định vị, liên lạc, khí hậu; kỹ thuật vũ trụ (vật liệu nhẹ, thiết bị y tế) dùng trong đời sống. Ví dụ nông dân nhận dự báo vệ tinh. Truyền cảm hứng học sinh, việc làm kỹ năng, hợp tác quốc tế (trạm nghiên cứu chung); hiểu hành tinh khác giúp hiểu khí hậu và điều kiện sống.",
+        "refs": [
+          "ID-tech-space-progress",
+          "EX-tech-satellite-forecast"
+        ]
+      },
+      {
+        "step": "3. Nhược điểm",
+        "think": "Chi phí hàng tỷ, lợi ích không chắc trong khi bệnh viện, trường thiếu tiền; thất bại. Ví dụ tiền một sứ mệnh trang bị hàng chục bệnh viện. Ứng dụng hữu ích nhất đã có sẵn nên thêm sứ mệnh có người đến nơi xa ít lợi ích thiết thực; phóng tên lửa gây ô nhiễm và tăng rác không gian.",
+        "refs": [
+          "ID-tech-space-cost",
+          "EX-tech-rocket-vs-hospital",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Lợi ích lớn hơn chi phí khi chi tập trung vào chương trình hữu ích (vệ tinh, giám sát khí hậu) thay vì dự án phô trương.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "A single space mission",
+      "một sứ mệnh không gian"
+    ],
+    [
+      "the annual budget of a small country",
+      "ngân sách hàng năm của một nước nhỏ"
+    ],
+    [
+      "advantages of space exploration outweigh its high cost",
+      "ưu điểm của thám hiểm vũ trụ lớn hơn chi phí cao"
+    ],
+    [
+      "Satellites provide weather forecasts, navigation, communication and climate data",
+      "vệ tinh cung cấp dự báo thời tiết, định vị, liên lạc và dữ liệu khí hậu"
+    ],
+    [
+      "lightweight materials and medical monitors",
+      "vật liệu nhẹ và thiết bị theo dõi y tế"
+    ],
+    [
+      "found uses in daily life",
+      "tìm được ứng dụng trong đời sống hằng ngày"
+    ],
+    [
+      "inspires students, creates skilled jobs",
+      "truyền cảm hứng cho sinh viên, tạo việc làm có kỹ năng"
+    ],
+    [
+      "international cooperation",
+      "hợp tác quốc tế"
+    ],
+    [
+      "joint research stations",
+      "trạm nghiên cứu chung"
+    ],
+    [
+      "the conditions that make life possible",
+      "những điều kiện giúp sự sống tồn tại"
+    ],
+    [
+      "further crewed missions to distant places",
+      "thêm các sứ mệnh có người lái đến nơi xa"
+    ],
+    [
+      "add little practical benefit",
+      "đem lại ít lợi ích thiết thực"
+    ],
+    [
+      "rocket launches create pollution",
+      "phóng tên lửa gây ô nhiễm"
+    ],
+    [
+      "debris around the planet",
+      "rác không gian quanh hành tinh"
+    ],
+    [
+      "prestige projects",
+      "dự án phô trương uy tín"
+    ],
+    [
+      "controlled",
+      "được kiểm soát"
+    ],
+    [
+      "climate monitoring",
+      "giám sát khí hậu"
+    ]
+  ]
+}

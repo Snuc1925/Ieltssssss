@@ -1,0 +1,118 @@
+{
+  "questionId": 73,
+  "text": "Headsets that place users inside a game or a concert are already on sale, and many people expect virtual reality to transform entertainment within twenty years. I believe that it will change some forms of entertainment greatly, although it is unlikely to replace traditional ones.\n\nTo begin with, virtual reality will change entertainment in gaming and live events. Headsets offer immersion that screens cannot, so that players feel inside the story and audiences feel present at events they cannot attend. A fan who cannot travel, for example, can watch a concert in virtual reality as if standing near the stage. As headsets become lighter and cheaper, theme parks, museums and cinemas will offer virtual experiences, and new types of storytelling will appear, in which viewers move around inside a scene. Social platforms in which friends meet as avatars will also grow, since people enjoy shared experiences.\n\nHowever, virtual reality will probably not replace traditional forms. Cost, motion sickness and limited content keep many people away, and wearing a headset for long periods is tiring and isolating. People still enjoy sharing cinemas, concerts and television with others, and a large proportion of audiences prefer to sit back and relax instead of moving and interacting. History offers examples: television did not destroy cinema, and streaming did not end live music. Virtual reality will therefore be an important addition. Developers and studios are already investing heavily in virtual content, which suggests that the choice available to users will improve steadily., not a complete replacement, and it will probably dominate only in gaming.\n\nIn conclusion, virtual reality will change entertainment to a considerable extent over the next twenty years, but traditional forms will survive alongside it.",
+  "analysis": {
+    "type_vi": "Extent: VR sẽ thay đổi giải trí đến đâu trong 20 năm — thay đổi đáng kể nhưng không thay thế",
+    "plan": [
+      {
+        "step": "1. Khung mức độ",
+        "think": "Mở bài nêu thực tế (kính đặt người dùng trong trò chơi, buổi hoà nhạc đã bán); đáp: thay đổi lớn một số hình thức, không thay thế hình thức truyền thống.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Thay đổi",
+        "think": "Đắm chìm mà màn hình không có, người chơi thấy mình trong câu chuyện, khán giả có mặt ở sự kiện không đến được. Ví dụ fan không đi được xem hoà nhạc VR như đứng gần sân khấu. Kính nhẹ hơn, rẻ hơn thì công viên giải trí, bảo tàng, rạp chiếu cung cấp trải nghiệm ảo; kể chuyện mới (người xem di chuyển trong cảnh); mạng xã hội nơi bạn bè gặp nhau bằng avatar.",
+        "refs": [
+          "ID-tech-vr-entertainment",
+          "EX-tech-vr-concert",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không thay thế hình thức truyền thống: chi phí, say chuyển động, nội dung hạn chế; đeo kính lâu mệt và cô lập. Người thích chia sẻ rạp, hoà nhạc, tivi; nhiều khán giả thích ngồi thư giãn. Lịch sử: truyền hình không giết rạp chiếu, streaming không chấm dứt nhạc sống. VR là bổ sung quan trọng, chỉ chiếm ưu thế ở game.",
+        "refs": [
+          "ID-tech-vr-entertainment",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thay đổi đáng kể nhưng hình thức truyền thống tồn tại song song.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-vr-entertainment",
+      "EX-tech-vr-concert"
+    ]
+  },
+  "chunks": [
+    [
+      "Headsets that place users inside a game or a concert",
+      "kính đặt người dùng vào bên trong trò chơi hay buổi hoà nhạc"
+    ],
+    [
+      "transform entertainment",
+      "làm thay đổi giải trí"
+    ],
+    [
+      "virtual reality",
+      "thực tế ảo"
+    ],
+    [
+      "gaming and live events",
+      "trò chơi và sự kiện trực tiếp"
+    ],
+    [
+      "immersion that screens cannot",
+      "sự đắm chìm mà màn hình không có được"
+    ],
+    [
+      "feel present at events they cannot attend",
+      "cảm thấy có mặt tại sự kiện họ không thể đến"
+    ],
+    [
+      "watch a concert in virtual reality",
+      "xem hoà nhạc bằng thực tế ảo"
+    ],
+    [
+      "lighter and cheaper",
+      "nhẹ hơn và rẻ hơn"
+    ],
+    [
+      "theme parks, museums and cinemas",
+      "công viên giải trí, bảo tàng và rạp chiếu phim"
+    ],
+    [
+      "new types of storytelling",
+      "các kiểu kể chuyện mới"
+    ],
+    [
+      "meet as avatars",
+      "gặp nhau dưới dạng hình đại diện"
+    ],
+    [
+      "shared experiences",
+      "trải nghiệm chung"
+    ],
+    [
+      "Cost, motion sickness and limited content",
+      "chi phí, chứng say chuyển động và nội dung hạn chế"
+    ],
+    [
+      "tiring and isolating",
+      "mệt mỏi và gây cô lập"
+    ],
+    [
+      "sit back and relax",
+      "ngả lưng thư giãn"
+    ],
+    [
+      "television did not destroy cinema",
+      "truyền hình không huỷ diệt điện ảnh"
+    ],
+    [
+      "an important addition, not a complete replacement",
+      "một sự bổ sung quan trọng, không phải sự thay thế hoàn toàn"
+    ],
+    [
+      "survive alongside it",
+      "tồn tại song song với nó"
+    ]
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "questionId": 204,
+  "text": "With a single tap, an app can smooth skin, reshape a jaw or brighten eyes, and many feel that photo editing apps create unrealistic beauty standards. I agree with this view, since edited images make unrealistic appearances look normal, although awareness and rules can reduce the harm.\n\nTo begin with, photo editing apps make unrealistic images look normal. Filters smooth skin, change shapes and brighten features so well that edited faces seem real, and young people who compare themselves with them may feel dissatisfied with their own bodies. A teenager who edits every selfie to make her skin flawless, for example, may start to believe that her real face is unattractive. Because many images on social media are edited, often without any label, users see a stream of apparently perfect people and may assume that this is the standard. Studies have linked heavy use of such images to anxiety about appearance, low self-esteem and, in some cases, eating disorders and cosmetic surgery requests.\n\nFurthermore, the pressure affects people of all ages and genders, and it can be reinforced by advertising and celebrities who use the same tools. Editing also changes the ideal over time, so that what is considered beautiful becomes increasingly narrow. However, the apps themselves are not entirely to blame, since people have long manipulated images with make-up and airbrushing. Some users employ filters for fun or creativity, and many people are aware that images are edited. Education about editing in schools, clear labels on altered advertising images and platforms that reduce the promotion of heavy filters can limit the damage. Encouraging people to value diversity and natural appearances also helps.\n\nIn conclusion, I agree that photo editing apps create unrealistic beauty standards, because they make edited looks seem normal, though education and honest labelling can reduce the harm.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: ứng dụng chỉnh ảnh tạo chuẩn đẹp phi thực tế — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giảm nhẹ",
+        "think": "Mở bài nêu khả năng (một chạm làm mịn da, thay hàm, làm sáng mắt) rồi agree + lý do + điều kiện (nhận thức và quy định giảm tác hại).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — ảnh phi thực tế thành bình thường",
+        "think": "Bộ lọc làm mịn da, đổi hình dạng, làm sáng đặc điểm đến mức khuôn mặt chỉnh nhìn như thật; người trẻ so sánh với chúng thấy không hài lòng cơ thể. Ví dụ thiếu nữ chỉnh mọi ảnh tự chụp cho da hoàn hảo có thể tin gương mặt thật xấu. Nhiều ảnh mạng xã hội đã chỉnh, thường không nhãn, người dùng thấy dòng người dường như hoàn hảo, nghĩ là chuẩn; nghiên cứu liên hệ với lo lắng ngoại hình, tự trọng thấp, đôi khi rối loạn ăn uống và nhu cầu phẫu thuật thẩm mỹ.",
+        "refs": [
+          "ID-tech-photo-editing",
+          "EX-tech-filter-selfie",
+          "ID-health-obesity-causes",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Áp lực ảnh hưởng mọi tuổi, giới; củng cố bởi quảng cáo và người nổi tiếng; chuẩn đẹp ngày càng hẹp. Giới hạn: ứng dụng không hoàn toàn đáng trách vì người ta vẫn chỉnh ảnh bằng trang điểm, airbrush từ lâu; một số dùng bộ lọc cho vui, sáng tạo; nhiều người biết ảnh đã chỉnh; giáo dục về chỉnh sửa ở trường, nhãn rõ trên ảnh quảng cáo bị chỉnh, nền tảng giảm quảng bá bộ lọc nặng; khuyến khích trân trọng đa dạng và vẻ tự nhiên.",
+        "refs": [
+          "ID-tech-photo-editing",
+          "ID-gov-hate-speech",
+          "ID-gov-social-awareness",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì làm diện mạo đã chỉnh có vẻ bình thường, giáo dục và nhãn trung thực có thể giảm tác hại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-tech-photo-editing",
+      "EX-tech-filter-selfie"
+    ]
+  },
+  "chunks": [
+    [
+      "With a single tap",
+      "chỉ với một cú chạm"
+    ],
+    [
+      "smooth skin, reshape a jaw or brighten eyes",
+      "làm mịn da, thay đổi đường hàm hoặc làm sáng đôi mắt"
+    ],
+    [
+      "photo editing apps",
+      "ứng dụng chỉnh sửa ảnh"
+    ],
+    [
+      "unrealistic beauty standards",
+      "chuẩn mực sắc đẹp phi thực tế"
+    ],
+    [
+      "make unrealistic images look normal",
+      "làm ảnh phi thực tế trông bình thường"
+    ],
+    [
+      "Filters smooth skin, change shapes and brighten features",
+      "bộ lọc làm mịn da, thay đổi hình dạng và làm sáng nét mặt"
+    ],
+    [
+      "edited faces seem real",
+      "gương mặt đã chỉnh trông như thật"
+    ],
+    [
+      "compare themselves",
+      "so sánh bản thân"
+    ],
+    [
+      "dissatisfied with their own bodies",
+      "không hài lòng với cơ thể mình"
+    ],
+    [
+      "edits every selfie",
+      "chỉnh mọi ảnh tự chụp"
+    ],
+    [
+      "skin flawless",
+      "làn da hoàn hảo"
+    ],
+    [
+      "without any label",
+      "không có nhãn nào"
+    ],
+    [
+      "a stream of apparently perfect people",
+      "dòng người dường như hoàn hảo"
+    ],
+    [
+      "anxiety about appearance, low self-esteem",
+      "lo âu về ngoại hình, lòng tự trọng thấp"
+    ],
+    [
+      "eating disorders and cosmetic surgery requests",
+      "rối loạn ăn uống và yêu cầu phẫu thuật thẩm mỹ"
+    ],
+    [
+      "increasingly narrow",
+      "ngày càng hẹp"
+    ],
+    [
+      "make-up and airbrushing",
+      "trang điểm và chỉnh ảnh bằng airbrush"
+    ],
+    [
+      "clear labels on altered advertising images",
+      "nhãn rõ ràng trên ảnh quảng cáo đã chỉnh"
+    ],
+    [
+      "value diversity and natural appearances",
+      "trân trọng sự đa dạng và vẻ ngoài tự nhiên"
+    ],
+    [
+      "honest labelling",
+      "ghi nhãn trung thực"
+    ]
+  ]
+}
