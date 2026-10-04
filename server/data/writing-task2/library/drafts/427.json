@@ -1,0 +1,126 @@
+{
+  "questionId": 427,
+  "text": "In many societies, buying a house is considered a major life goal, and opinions differ on whether home ownership is a sign of success. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters argue that home ownership reflects achievement. A home shows savings, a steady income and stability. A couple who buy a house after years of work, for example, have shown that they can plan and save, and they gain security and respect in their community. Ownership is also a valuable asset that can be passed on to children, and many people feel proud of having a place that is truly their own. Banks lend only to those with reliable earnings, so owning a property demonstrates financial discipline. In some cultures, family and friends regard a home as proof of responsible adulthood.\n\nOn the other hand, critics argue that success has many forms, and that ownership alone is a poor measure. Many successful people rent by choice, because they value flexibility, travel or the freedom to move for work, and they invest their money in businesses or education. A young doctor who rents a flat near the hospital, for example, may be doing very well financially. High prices also prevent talented young workers from buying, so a lack of a home may reflect the market rather than lack of effort. Mortgages can cause stress and limit freedom. Happiness, health, relationships and meaningful work matter just as much as property.\n\nIn conclusion, both views have merit. Overall, I believe that owning a home can be a sign of success in some cases, but it is not the only or the best measure of a good life.",
+  "analysis": {
+    "type_vi": "Discuss both views: sở hữu nhà có phải dấu hiệu thành công",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu mua nhà là mục tiêu lớn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Là dấu hiệu",
+        "think": "Phản ánh thành tựu: tiết kiệm, thu nhập đều, ổn định; ví dụ cặp vợ chồng mua nhà sau nhiều năm cho thấy biết lập kế hoạch, an toàn, được tôn trọng; tài sản để lại cho con; tự hào; ngân hàng chỉ cho vay người thu nhập tin cậy; một số văn hoá coi là chứng nhận trưởng thành.",
+        "refs": [
+          "ID-city-ownership-success",
+          "ID-city-home-ownership"
+        ]
+      },
+      {
+        "step": "3. Không phải",
+        "think": "Thành công nhiều dạng: nhiều người thành công thuê vì linh hoạt, du lịch, di chuyển, đầu tư kinh doanh; ví dụ bác sĩ trẻ thuê căn hộ gần bệnh viện vẫn khá giả; giá cao ngăn người trẻ giỏi mua; thế chấp căng thẳng; hạnh phúc, sức khoẻ, quan hệ.",
+        "refs": [
+          "ID-city-ownership-success"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đôi khi là dấu hiệu nhưng không phải thước đo duy nhất.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-ownership-success"
+    ]
+  },
+  "chunks": [
+    [
+      "buying a house is considered a major life goal",
+      "mua nhà được xem là mục tiêu lớn của cuộc đời"
+    ],
+    [
+      "home ownership is a sign of success",
+      "sở hữu nhà là dấu hiệu thành công"
+    ],
+    [
+      "reflects achievement",
+      "phản ánh thành tựu"
+    ],
+    [
+      "savings, a steady income and stability",
+      "tiền tiết kiệm, thu nhập ổn định và sự ổn định"
+    ],
+    [
+      "buy a house after years of work",
+      "mua nhà sau nhiều năm làm việc"
+    ],
+    [
+      "plan and save",
+      "lập kế hoạch và tiết kiệm"
+    ],
+    [
+      "security and respect in their community",
+      "sự an toàn và sự tôn trọng trong cộng đồng"
+    ],
+    [
+      "a valuable asset that can be passed on to children",
+      "một tài sản có giá trị có thể truyền lại cho con"
+    ],
+    [
+      "a place that is truly their own",
+      "một nơi thực sự thuộc về họ"
+    ],
+    [
+      "reliable earnings",
+      "thu nhập đáng tin cậy"
+    ],
+    [
+      "financial discipline",
+      "kỷ luật tài chính"
+    ],
+    [
+      "responsible adulthood",
+      "sự trưởng thành có trách nhiệm"
+    ],
+    [
+      "success has many forms",
+      "thành công có nhiều dạng"
+    ],
+    [
+      "rent by choice",
+      "thuê nhà theo lựa chọn"
+    ],
+    [
+      "the freedom to move for work",
+      "sự tự do chuyển chỗ để làm việc"
+    ],
+    [
+      "a young doctor who rents a flat near the hospital",
+      "một bác sĩ trẻ thuê căn hộ gần bệnh viện"
+    ],
+    [
+      "High prices also prevent talented young workers from buying",
+      "giá cao cũng ngăn những người lao động trẻ tài năng mua nhà"
+    ],
+    [
+      "lack of effort",
+      "thiếu nỗ lực"
+    ],
+    [
+      "Happiness, health, relationships and meaningful work",
+      "hạnh phúc, sức khoẻ, các mối quan hệ và công việc ý nghĩa"
+    ],
+    [
+      "the best measure of a good life",
+      "thước đo tốt nhất của cuộc sống tốt đẹp"
+    ]
+  ]
+}

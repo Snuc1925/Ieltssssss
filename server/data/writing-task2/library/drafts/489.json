@@ -1,0 +1,126 @@
+{
+  "questionId": 489,
+  "text": "In many big cities, rent takes half of a young person's salary, and this essay will discuss the causes of high renting rates and suggest solutions, focusing on housing supply and on tenant protection.\n\nTo begin with, high rents result from too little housing and strong demand. Cities attract workers faster than homes are built, investors buy property to hold, and wages lag behind prices. A young graduate who moves to a capital for work, for example, competes with dozens of other applicants for each small flat, so landlords can ask for higher rents. Strict planning rules, high land prices and slow approval of projects also keep building low. Moreover, some owners keep homes empty or rent them to tourists through online platforms, which reduces the number of homes available for residents. Low interest rates have encouraged investors to buy second homes, and this pushes prices up even further.\n\nIn terms of solutions, governments should build more homes and protect tenants. First, new construction and social housing increase supply and give low-income families an alternative to the private market. A city that releases public land for housing and speeds up planning permission, for example, can increase supply within a few years. Second, a tax on empty homes and limits on short-term holiday lets return flats to the long-term market. Third, rent increases can be regulated so that tenants are protected from sudden rises, while housing allowances help those with the lowest incomes. Encouraging people and businesses to move to smaller cities can also reduce pressure on the capital. Taken together, more supply and fair rules stabilise rents.\n\nIn conclusion, high rents arise from shortages and speculation, and they can be reduced through more building and fairer rules for tenants.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: giá thuê nhà cao",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tiền thuê chiếm nửa lương người trẻ; nguyên nhân và giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Thiếu nhà, cầu mạnh: thành phố hút lao động nhanh hơn xây nhà, nhà đầu tư giữ, lương chậm; ví dụ cử nhân lên thủ đô cạnh tranh hàng chục người cho mỗi căn nhỏ, chủ đòi giá cao; quy hoạch chặt, đất đắt, duyệt chậm; bỏ trống, cho khách du lịch thuê; lãi thấp, mua nhà thứ hai; chi phí xây dựng.",
+        "refs": [
+          "ID-city-high-rents",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Xây thêm, bảo vệ người thuê: xây mới, nhà xã hội, thuế nhà trống, hỗ trợ thuê; ví dụ thành phố giải phóng đất công, nhanh cấp phép tăng nguồn cung; nhà xã hội; hạn chế cho thuê ngắn hạn; kiểm soát tăng giá; trợ cấp nhà ở; chuyển người, doanh nghiệp ra thành phố nhỏ.",
+        "refs": [
+          "ID-city-high-rents",
+          "ID-city-housing-regulation",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Do thiếu nhà, đầu cơ; xây nhiều, luật công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-high-rents"
+    ]
+  },
+  "chunks": [
+    [
+      "rent takes half of a young person's salary",
+      "tiền thuê nhà chiếm một nửa lương của người trẻ"
+    ],
+    [
+      "high renting rates",
+      "mức giá thuê nhà cao"
+    ],
+    [
+      "housing supply and on tenant protection",
+      "nguồn cung nhà ở và bảo vệ người thuê"
+    ],
+    [
+      "too little housing and strong demand",
+      "quá ít nhà ở và nhu cầu mạnh"
+    ],
+    [
+      "attract workers faster than homes are built",
+      "thu hút lao động nhanh hơn nhà được xây"
+    ],
+    [
+      "investors buy property to hold",
+      "nhà đầu tư mua bất động sản để giữ"
+    ],
+    [
+      "wages lag behind prices",
+      "tiền lương chậm hơn so với giá cả"
+    ],
+    [
+      "competes with dozens of other applicants",
+      "cạnh tranh với hàng chục người nộp đơn khác"
+    ],
+    [
+      "ask for higher rents",
+      "đòi giá thuê cao hơn"
+    ],
+    [
+      "Strict planning rules, high land prices",
+      "quy hoạch nghiêm ngặt, giá đất cao"
+    ],
+    [
+      "keep homes empty",
+      "để nhà trống"
+    ],
+    [
+      "rent them to tourists",
+      "cho khách du lịch thuê"
+    ],
+    [
+      "Low interest rates",
+      "lãi suất thấp"
+    ],
+    [
+      "second homes",
+      "nhà thứ hai"
+    ],
+    [
+      "New construction, social housing, tax on empty homes and rent support",
+      "xây mới, nhà ở xã hội, thuế nhà trống và hỗ trợ tiền thuê"
+    ],
+    [
+      "releases public land for housing",
+      "giải phóng đất công cho nhà ở"
+    ],
+    [
+      "speeds up planning permission",
+      "đẩy nhanh việc cấp phép quy hoạch"
+    ],
+    [
+      "short-term holiday lets",
+      "cho thuê ngắn hạn kỳ nghỉ"
+    ],
+    [
+      "housing allowances",
+      "trợ cấp nhà ở"
+    ],
+    [
+      "More supply and fair rules stabilise rents",
+      "nguồn cung nhiều hơn và luật công bằng ổn định giá thuê"
+    ]
+  ]
+}

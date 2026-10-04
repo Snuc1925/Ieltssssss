@@ -1,0 +1,119 @@
+{
+  "questionId": 42,
+  "text": "Drivers in big cities spend days of every year in queues, and this essay will suggest practical measures that governments could take to reduce traffic congestion, focusing on charging for road use and on improving alternatives to the car.\n\nTo begin with, governments can cut congestion by charging for road use. Fees at peak times discourage unnecessary trips. A city that charges drivers to enter its centre during rush hour, for example, will see fewer cars, and the money collected can be spent on buses and trains. Higher parking prices in central areas and limits on the number of cars that may enter at certain times work in the same way. Other cities restrict private cars on particular days, or reserve lanes for vehicles with several passengers. Such measures have been successful in some European and Asian cities, where traffic has fallen by a fifth.\n\nIn addition, authorities must improve alternatives to driving. Reliable buses and trains, safe cycle lanes and flexible working hours give people other options. Frequent services at reasonable prices make public transport the natural choice, and park-and-ride sites at the edge of the city allow drivers to switch to buses. Employers can allow staff to work at home on some days or to start earlier, which spreads demand across the day. Equally important, planners should locate homes, shops and offices close together so that fewer long journeys are needed. Combined measures keep traffic moving and also reduce pollution and accidents.\n\nIn conclusion, road charging together with better public transport and flexible work offers the most realistic way to reduce urban congestion.",
+  "analysis": {
+    "type_vi": "Solutions: giảm tắc đường đô thị",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tài xế mất nhiều ngày mỗi năm; hai nhóm: thu phí; cải thiện lựa chọn thay xe.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Thu phí sử dụng đường: giờ cao điểm; ví dụ thành phố thu phí vào trung tâm giờ cao điểm xe ít, tiền chi buýt, tàu; giá đỗ xe cao, hạn chế xe; làn dành xe nhiều người; thành công ở thành phố châu Âu, châu Á giảm 1/5.",
+        "refs": [
+          "ID-city-congestion-solutions",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Cải thiện lựa chọn: buýt, tàu tin cậy, làn xe đạp an toàn, giờ linh hoạt; dịch vụ thường xuyên, giá hợp lý; bãi đỗ ngoại ô; làm việc tại nhà, giờ sớm; quy hoạch nhà, cửa hàng, văn phòng gần nhau; giảm ô nhiễm, tai nạn.",
+        "refs": [
+          "ID-city-congestion-solutions",
+          "ID-work-remote-congestion",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Thu phí đường, giao thông công cộng tốt, giờ linh hoạt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-congestion-solutions"
+    ]
+  },
+  "chunks": [
+    [
+      "spend days of every year in queues",
+      "mất nhiều ngày mỗi năm xếp hàng"
+    ],
+    [
+      "reduce traffic congestion",
+      "giảm tắc nghẽn giao thông"
+    ],
+    [
+      "charging for road use",
+      "thu phí sử dụng đường"
+    ],
+    [
+      "alternatives to the car",
+      "các lựa chọn thay thế xe hơi"
+    ],
+    [
+      "Fees at peak times discourage unnecessary trips",
+      "phí vào giờ cao điểm làm nản các chuyến đi không cần thiết"
+    ],
+    [
+      "charges drivers to enter its centre during rush hour",
+      "thu phí tài xế vào trung tâm giờ cao điểm"
+    ],
+    [
+      "fewer cars",
+      "ít xe hơn"
+    ],
+    [
+      "spent on buses and trains",
+      "chi cho xe buýt và tàu hoả"
+    ],
+    [
+      "Higher parking prices",
+      "giá đỗ xe cao hơn"
+    ],
+    [
+      "restrict private cars on particular days",
+      "hạn chế xe cá nhân vào những ngày nhất định"
+    ],
+    [
+      "reserve lanes for vehicles with several passengers",
+      "dành làn cho xe có nhiều hành khách"
+    ],
+    [
+      "traffic has fallen by a fifth",
+      "lưu lượng giao thông giảm một phần năm"
+    ],
+    [
+      "Reliable buses and trains, safe cycle lanes and flexible working hours",
+      "xe buýt và tàu đáng tin cậy, làn xe đạp an toàn và giờ làm linh hoạt"
+    ],
+    [
+      "park-and-ride sites",
+      "bãi đỗ và đi tiếp bằng phương tiện công cộng"
+    ],
+    [
+      "spreads demand across the day",
+      "trải nhu cầu ra suốt ngày"
+    ],
+    [
+      "locate homes, shops and offices close together",
+      "đặt nhà, cửa hàng và văn phòng gần nhau"
+    ],
+    [
+      "fewer long journeys",
+      "ít chuyến đi dài hơn"
+    ],
+    [
+      "keep traffic moving",
+      "giữ cho giao thông lưu thông"
+    ]
+  ]
+}

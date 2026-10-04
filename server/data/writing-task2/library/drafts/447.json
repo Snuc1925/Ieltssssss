@@ -1,0 +1,121 @@
+{
+  "questionId": 447,
+  "text": "Some residents would like to jog at dawn or walk late at night, while others worry about safety, and opinions differ on whether public parks should be open twenty-four hours a day. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of full-time opening argue that it gives flexibility. Shift workers, joggers and visitors could use green space at any hour. A nurse who finishes work at midnight, for example, could walk through the park to unwind, and early risers could exercise before the heat of the day. Parks that never close are accessible to people who have no garden, which is important for those who live in small flats. Open spaces can also be used for night-time events, stargazing and festivals, and constant use by many people can make an area feel lively and safe. In some warm countries, evenings are the most comfortable time to be outdoors.\n\nOn the other hand, opponents argue that darkness invites problems and costs. Vandalism, noise and crime are more likely at night, and parks need extra lighting and patrols if they stay open. A resident whose home overlooks a park, for example, may be disturbed by groups that gather late and play loud music. Wildlife and plants also need quiet hours, and gates allow staff to clean and repair. Closing at night saves the cost of security staff and reduces the risk of accidents. A sensible compromise is to open the parks for longer hours, with lighting and patrols in the busiest areas, and to keep quiet or sensitive areas closed overnight.\n\nIn conclusion, both views have merit. Overall, I believe that limited night opening in safe, well-lit parks is the best solution.",
+  "analysis": {
+    "type_vi": "Discuss both views: công viên mở 24 giờ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người chạy bộ lúc bình minh, người đi bộ đêm khuya và lo ngại an toàn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Ủng hộ",
+        "think": "Linh hoạt: người làm ca, chạy bộ, khách dùng giờ nào; ví dụ y tá tan ca nửa đêm đi dạo thư giãn, người dậy sớm tập trước nắng; người không vườn; sự kiện đêm, ngắm sao; đông người nên an toàn; nước nóng buổi tối dễ chịu.",
+        "refs": [
+          "ID-city-parks-24h"
+        ]
+      },
+      {
+        "step": "3. Phản đối",
+        "think": "Bóng tối kéo theo vấn đề và chi phí: phá hoại, ồn, tội phạm; cần đèn, tuần tra; ví dụ cư dân nhà nhìn ra công viên bị nhóm tụ tập bật nhạc lớn quấy rầy; động thực vật cần yên tĩnh; nhân viên dọn, sửa; tiết kiệm bảo vệ; thoả hiệp: mở dài hơn, đèn, tuần tra khu đông, đóng khu nhạy cảm.",
+        "refs": [
+          "ID-city-parks-24h"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Mở đêm có giới hạn ở công viên an toàn, sáng đèn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-parks-24h"
+    ]
+  },
+  "chunks": [
+    [
+      "jog at dawn or walk late at night",
+      "chạy bộ lúc bình minh hoặc đi dạo khuya"
+    ],
+    [
+      "public parks should be open twenty-four hours a day",
+      "công viên công cộng nên mở cửa hai mươi bốn giờ mỗi ngày"
+    ],
+    [
+      "gives flexibility",
+      "mang lại sự linh hoạt"
+    ],
+    [
+      "Shift workers, joggers and visitors",
+      "người làm ca, người chạy bộ và du khách"
+    ],
+    [
+      "finishes work at midnight",
+      "tan ca lúc nửa đêm"
+    ],
+    [
+      "walk through the park to unwind",
+      "đi bộ qua công viên để thư giãn"
+    ],
+    [
+      "early risers",
+      "người dậy sớm"
+    ],
+    [
+      "people who have no garden",
+      "những người không có vườn"
+    ],
+    [
+      "night-time events, stargazing and festivals",
+      "sự kiện ban đêm, ngắm sao và lễ hội"
+    ],
+    [
+      "feel lively and safe",
+      "cảm thấy sôi động và an toàn"
+    ],
+    [
+      "darkness invites problems and costs",
+      "bóng tối kéo theo vấn đề và chi phí"
+    ],
+    [
+      "Vandalism, noise and crime",
+      "phá hoại, tiếng ồn và tội phạm"
+    ],
+    [
+      "extra lighting and patrols",
+      "chiếu sáng và tuần tra bổ sung"
+    ],
+    [
+      "overlooks a park",
+      "nhìn ra công viên"
+    ],
+    [
+      "play loud music",
+      "bật nhạc lớn"
+    ],
+    [
+      "Wildlife and plants also need quiet hours",
+      "động thực vật cũng cần giờ yên tĩnh"
+    ],
+    [
+      "clean and repair",
+      "dọn dẹp và sửa chữa"
+    ],
+    [
+      "a sensible compromise",
+      "một thoả hiệp hợp lý"
+    ],
+    [
+      "well-lit parks",
+      "công viên được chiếu sáng tốt"
+    ]
+  ]
+}

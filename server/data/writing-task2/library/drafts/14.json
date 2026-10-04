@@ -1,0 +1,122 @@
+{
+  "questionId": 14,
+  "text": "Millions of people board buses, trains and trams every morning, and many think that public transport has improved people's lives. I agree with this view, since it gives affordable access to work, education and services, although it is not perfect.\n\nTo begin with, public transport improves lives by giving affordable access to opportunity. People without cars can reach jobs and hospitals cheaply, and students can attend distant schools. A cleaner who lives on the edge of a city, for example, can reach an office in the centre by metro for the price of a coffee, instead of buying and maintaining a car. Public transport also helps older people and those with disabilities to remain independent, and it connects villages with towns and markets. In countries where it is reliable, families spend much less of their income on travel.\n\nFurthermore, public transport benefits whole cities. Cities have less congestion and pollution when many people share vehicles, and fewer cars on the road mean fewer accidents. Passengers can also read, work or rest during their journeys instead of concentrating on traffic, which reduces stress. However, service can be crowded, slow or missing in remote areas, and poorly maintained systems can discourage use. Improvements such as frequent services, clean vehicles, safe stations and integrated tickets make the difference. Public transport also creates many jobs in driving, maintenance and engineering, and it supports local shops near stations. Investment in public transport is therefore an investment in opportunity, public health and the environment. Cities that neglect it often find that their roads, air and budgets all suffer.\n\nIn conclusion, I agree that public transport has improved people's lives, and governments should continue to expand and modernise it.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: giao thông công cộng cải thiện đời sống",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng triệu người đi xe buýt, tàu mỗi sáng; agree.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Tiếp cận cơ hội giá rẻ: người không xe đến việc, bệnh viện; ví dụ người dọn dẹp ngoại thành đi tàu điện đến trung tâm bằng giá một ly cà phê; người già, khuyết tật độc lập; nối làng với thị trấn; chi phí đi lại thấp.",
+        "refs": [
+          "ID-city-public-transport-lives",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + hạn chế",
+        "think": "Lợi ích cho thành phố: ít tắc, ô nhiễm, tai nạn; hành khách đọc, nghỉ; hạn chế: đông, chậm, thiếu ở vùng xa, bảo trì kém; dịch vụ thường xuyên, vé tích hợp; đầu tư.",
+        "refs": [
+          "ID-city-public-transport-lives",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý; mở rộng, hiện đại hoá.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-public-transport-lives"
+    ]
+  },
+  "chunks": [
+    [
+      "board buses, trains and trams",
+      "lên xe buýt, tàu hoả và xe điện"
+    ],
+    [
+      "public transport has improved people's lives",
+      "giao thông công cộng đã cải thiện đời sống con người"
+    ],
+    [
+      "affordable access to work, education and services",
+      "khả năng tiếp cận việc làm, giáo dục và dịch vụ với giá phải chăng"
+    ],
+    [
+      "People without cars",
+      "những người không có xe hơi"
+    ],
+    [
+      "reach jobs and hospitals cheaply",
+      "đến nơi làm việc và bệnh viện với chi phí rẻ"
+    ],
+    [
+      "attend distant schools",
+      "đi học ở trường xa"
+    ],
+    [
+      "the edge of a city",
+      "vùng rìa thành phố"
+    ],
+    [
+      "for the price of a coffee",
+      "với giá một ly cà phê"
+    ],
+    [
+      "buying and maintaining a car",
+      "mua và bảo dưỡng xe hơi"
+    ],
+    [
+      "remain independent",
+      "duy trì sự độc lập"
+    ],
+    [
+      "connects villages with towns and markets",
+      "kết nối làng với thị trấn và chợ"
+    ],
+    [
+      "spend much less of their income on travel",
+      "chi ít thu nhập hơn cho việc đi lại"
+    ],
+    [
+      "less congestion and pollution",
+      "ít tắc nghẽn và ô nhiễm hơn"
+    ],
+    [
+      "fewer accidents",
+      "ít tai nạn hơn"
+    ],
+    [
+      "read, work or rest during their journeys",
+      "đọc, làm việc hoặc nghỉ ngơi trong chuyến đi"
+    ],
+    [
+      "crowded, slow or missing",
+      "đông đúc, chậm hoặc không có"
+    ],
+    [
+      "remote areas",
+      "vùng xa xôi"
+    ],
+    [
+      "integrated tickets",
+      "vé tích hợp"
+    ],
+    [
+      "an investment in opportunity, public health and the environment",
+      "khoản đầu tư vào cơ hội, sức khoẻ cộng đồng và môi trường"
+    ]
+  ]
+}

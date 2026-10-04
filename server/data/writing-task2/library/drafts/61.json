@@ -1,0 +1,121 @@
+{
+  "questionId": 61,
+  "text": "Every year, thousands of people die on the roads, and some say that driver's licences should be harder to obtain. I agree to a large extent, since a more demanding test would make roads safer if it concentrates on real skills.\n\nTo begin with, a harder driving test would make roads safer. Longer practice, hazard training and stricter tests reduce reckless young drivers. A learner who must complete fifty hours of supervised driving, including at night and in the rain, for example, will have far more experience when she drives alone for the first time. Many accidents are caused by inexperience and by drivers who misjudge speed and distance, so better preparation could save lives. Some countries use graduated licences, which limit passengers or night driving for new drivers, and they have recorded fewer crashes among young people. Regular retesting of older drivers could also help to identify those whose eyesight or reactions have declined.\n\nHowever, a harder test has drawbacks. Higher costs and difficulty can exclude people who need cars for work, particularly in rural areas where there is no public transport. If the test is difficult but unrelated to the real dangers of the road, it will not improve behaviour, and some people may simply drive without a licence. The quality of training therefore matters more than difficulty alone. Governments should focus on practical skills, such as hazard perception and driving in bad weather, while keeping fees reasonable and offering support for those on low incomes. Strong enforcement against drink driving and speeding is equally important.\n\nIn conclusion, I agree that licences should be harder to obtain, provided that the test is practical, fair and affordable.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bằng lái nên khó hơn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng nghìn người chết đường; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Đường an toàn hơn: thực hành lâu, huấn luyện nguy hiểm, kiểm tra nghiêm; ví dụ người học 50 giờ có giám sát (đêm, mưa) nhiều kinh nghiệm; tai nạn do thiếu kinh nghiệm; bằng lái từng bước; kiểm tra lại người cao tuổi.",
+        "refs": [
+          "ID-city-driving-licence",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chi phí và độ khó loại người cần xe đi làm, nhất là nông thôn; kiểm tra khó nhưng không liên quan thì vô ích; lái không bằng; chất lượng đào tạo quan trọng hơn; thực hành, giá hợp lý, thực thi chống rượu bia.",
+        "refs": [
+          "ID-city-driving-licence",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nếu thực tế, công bằng, giá phải chăng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-driving-licence"
+    ]
+  },
+  "chunks": [
+    [
+      "thousands of people die on the roads",
+      "hàng nghìn người chết trên đường"
+    ],
+    [
+      "driver's licences should be harder to obtain",
+      "bằng lái xe nên khó lấy hơn"
+    ],
+    [
+      "Longer practice, hazard training and stricter tests",
+      "luyện tập lâu hơn, huấn luyện nhận biết nguy hiểm và kỳ thi nghiêm ngặt hơn"
+    ],
+    [
+      "reckless young drivers",
+      "tài xế trẻ liều lĩnh"
+    ],
+    [
+      "fifty hours of supervised driving",
+      "năm mươi giờ lái xe có giám sát"
+    ],
+    [
+      "at night and in the rain",
+      "vào ban đêm và dưới mưa"
+    ],
+    [
+      "drives alone for the first time",
+      "lái xe một mình lần đầu"
+    ],
+    [
+      "inexperience",
+      "sự thiếu kinh nghiệm"
+    ],
+    [
+      "misjudge speed and distance",
+      "đánh giá sai tốc độ và khoảng cách"
+    ],
+    [
+      "graduated licences",
+      "bằng lái theo từng giai đoạn"
+    ],
+    [
+      "fewer crashes among young people",
+      "ít vụ va chạm hơn ở người trẻ"
+    ],
+    [
+      "Regular retesting of older drivers",
+      "kiểm tra lại định kỳ tài xế lớn tuổi"
+    ],
+    [
+      "eyesight or reactions have declined",
+      "thị lực hoặc phản xạ đã suy giảm"
+    ],
+    [
+      "need cars for work",
+      "cần xe hơi để làm việc"
+    ],
+    [
+      "drive without a licence",
+      "lái xe không có bằng"
+    ],
+    [
+      "hazard perception",
+      "nhận biết nguy hiểm"
+    ],
+    [
+      "driving in bad weather",
+      "lái xe trong thời tiết xấu"
+    ],
+    [
+      "drink driving and speeding",
+      "lái xe khi say rượu và chạy quá tốc độ"
+    ],
+    [
+      "practical, fair and affordable",
+      "thực tế, công bằng và giá phải chăng"
+    ]
+  ]
+}

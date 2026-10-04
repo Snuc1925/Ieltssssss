@@ -1,0 +1,125 @@
+{
+  "questionId": 340,
+  "text": "In some cities, residents live behind walls and security gates, while in others streets and parks are open to everyone, and opinions differ on whether gated communities or open neighbourhoods are preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of gated communities argue that they offer security and amenities. Walls and guards give residents a feeling of safety and shared facilities. A family with young children, for example, may feel more comfortable allowing them to play in a private garden or a swimming pool inside a guarded compound than on a public street. Traffic is limited, noise is reduced and strangers cannot enter freely, so that crime is usually lower. Residents often share the cost of maintenance and services, which keeps the area clean and well managed, and property values may be protected by common rules.\n\nOn the other hand, supporters of open neighbourhoods argue that they encourage integration. Gated areas separate social groups, limit public access and weaken contact between neighbours, whereas open areas keep streets lively. A resident of an open street, for example, meets neighbours at the shop, in the park and on the way to school, so that trust develops naturally. Gates may also divert traffic to other roads, block shortcuts and deprive outsiders of parks and paths. Critics add that a sense of safety may not be real, because crime depends more on social conditions than on walls, and that division by income can increase suspicion and inequality.\n\nIn conclusion, both views have merit. Overall, I prefer open neighbourhoods, since they promote community and equality, though good lighting and sensible policing are needed to make people feel safe.",
+  "analysis": {
+    "type_vi": "Discuss both views: khu khép kín hay khu mở",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài tương phản sống sau tường với đường phố, công viên mở.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Khép kín",
+        "think": "An ninh và tiện ích: tường, bảo vệ, cơ sở chung; ví dụ gia đình trẻ cho con chơi ở vườn, bể bơi trong khu có bảo vệ; giao thông hạn chế, ít ồn, người lạ không vào, tội phạm thấp; chia phí bảo trì; giữ giá trị.",
+        "refs": [
+          "ID-city-gated"
+        ]
+      },
+      {
+        "step": "3. Mở",
+        "think": "Hoà nhập: khu khép kín chia nhóm, hạn chế tiếp cận, yếu tương tác; ví dụ cư dân phố mở gặp hàng xóm ở cửa hàng, công viên, đường đến trường tin tưởng tự nhiên; cổng chuyển hướng giao thông, chặn lối tắt; cảm giác an toàn không thật; chia theo thu nhập tăng nghi ngờ, bất bình đẳng.",
+        "refs": [
+          "ID-city-gated"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưa khu mở, cần ánh sáng và tuần tra hợp lý.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-gated"
+    ]
+  },
+  "chunks": [
+    [
+      "live behind walls and security gates",
+      "sống sau tường và cổng an ninh"
+    ],
+    [
+      "gated communities or open neighbourhoods",
+      "khu dân cư có cổng hay khu phố mở"
+    ],
+    [
+      "security and amenities",
+      "an ninh và tiện ích"
+    ],
+    [
+      "Walls and guards",
+      "tường và bảo vệ"
+    ],
+    [
+      "a feeling of safety and shared facilities",
+      "cảm giác an toàn và cơ sở vật chất dùng chung"
+    ],
+    [
+      "a private garden or a swimming pool",
+      "khu vườn riêng hoặc bể bơi"
+    ],
+    [
+      "a guarded compound",
+      "khu có bảo vệ"
+    ],
+    [
+      "strangers cannot enter freely",
+      "người lạ không thể vào tự do"
+    ],
+    [
+      "crime is usually lower",
+      "tội phạm thường thấp hơn"
+    ],
+    [
+      "share the cost of maintenance and services",
+      "chia sẻ chi phí bảo trì và dịch vụ"
+    ],
+    [
+      "property values may be protected",
+      "giá trị tài sản có thể được bảo vệ"
+    ],
+    [
+      "encourage integration",
+      "khuyến khích sự hoà nhập"
+    ],
+    [
+      "Gated areas separate social groups",
+      "khu có cổng chia tách các nhóm xã hội"
+    ],
+    [
+      "limit public access",
+      "hạn chế sự tiếp cận của công chúng"
+    ],
+    [
+      "keep streets lively",
+      "giữ cho đường phố sôi động"
+    ],
+    [
+      "trust develops naturally",
+      "niềm tin phát triển một cách tự nhiên"
+    ],
+    [
+      "divert traffic",
+      "chuyển hướng giao thông"
+    ],
+    [
+      "a sense of safety",
+      "cảm giác an toàn"
+    ],
+    [
+      "suspicion and inequality",
+      "sự nghi ngờ và bất bình đẳng"
+    ],
+    [
+      "good lighting and sensible policing",
+      "ánh sáng tốt và công tác tuần tra hợp lý"
+    ]
+  ]
+}

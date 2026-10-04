@@ -1,0 +1,126 @@
+{
+  "questionId": 249,
+  "text": "In many countries, villages are losing their young people and are becoming silent, and this essay will discuss the causes of rural depopulation and suggest solutions, focusing on jobs and on services.\n\nTo begin with, rural depopulation results from a lack of jobs and services. Young people leave for work and study, farms become less profitable, and schools and clinics close. A young woman who finishes secondary school in a village, for example, must go to a city to attend university, and she may never return because there are few jobs that use her qualifications. Mechanisation has reduced the number of workers needed in agriculture, and small farms struggle against large competitors. As the population falls, shops, buses and banks close, which makes life harder for those who remain and encourages them to leave as well. Poor internet and long distances to hospitals add to the problem, and city life appears more attractive and modern.\n\nIn terms of solutions, investment in jobs and services is needed to keep people. Fast internet, local business support and decent transport can make villages viable. A village with good broadband, for example, can attract remote workers and small firms that sell their products online. Governments can offer tax benefits to businesses that locate in rural areas, support tourism and local food products, and move some public offices out of the capital. Schools and clinics should be kept open or replaced by mobile services, and scholarships can encourage graduates to return as doctors and teachers. Improved roads and buses connect villages to nearby towns. Villages that offer livelihoods retain their residents and even attract new ones.\n\nIn conclusion, rural depopulation is caused by a lack of work and services, and it can be reduced through investment in connectivity, businesses and public facilities.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: dân cư nông thôn giảm",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu làng mất người trẻ; nguyên nhân và giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Thiếu việc, dịch vụ: người trẻ đi học, làm; nông trại ít lợi, trường, trạm y tế đóng; ví dụ nữ sinh học xong ở làng lên thành phố học đại học, ít việc phù hợp; cơ giới hoá, nông trại nhỏ yếu; cửa hàng, buýt, ngân hàng đóng; internet kém, xa bệnh viện; thành phố hấp dẫn.",
+        "refs": [
+          "ID-city-rural-depopulation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Đầu tư việc làm và dịch vụ: internet nhanh, hỗ trợ doanh nghiệp, giao thông; ví dụ làng có băng thông rộng thu hút người làm từ xa, công ty nhỏ; ưu đãi thuế, du lịch, thực phẩm địa phương, đặt cơ quan ngoài thủ đô; giữ trường, trạm y tế hoặc dịch vụ lưu động; học bổng; đường, buýt.",
+        "refs": [
+          "ID-city-rural-depopulation",
+          "ID-tech-broadband-access",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nguyên nhân thiếu việc, dịch vụ; đầu tư kết nối, doanh nghiệp, cơ sở công.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-rural-depopulation"
+    ]
+  },
+  "chunks": [
+    [
+      "villages are losing their young people",
+      "các ngôi làng đang mất đi người trẻ"
+    ],
+    [
+      "rural depopulation",
+      "sự suy giảm dân số nông thôn"
+    ],
+    [
+      "a lack of jobs and services",
+      "thiếu việc làm và dịch vụ"
+    ],
+    [
+      "leave for work and study",
+      "ra đi để làm việc và học tập"
+    ],
+    [
+      "farms become less profitable",
+      "nông trại kém lợi nhuận hơn"
+    ],
+    [
+      "schools and clinics close",
+      "trường học và trạm y tế đóng cửa"
+    ],
+    [
+      "finishes secondary school in a village",
+      "học xong trung học ở một ngôi làng"
+    ],
+    [
+      "few jobs that use her qualifications",
+      "ít công việc dùng đến bằng cấp của cô"
+    ],
+    [
+      "Mechanisation",
+      "cơ giới hoá"
+    ],
+    [
+      "small farms struggle against large competitors",
+      "nông trại nhỏ chật vật trước đối thủ lớn"
+    ],
+    [
+      "shops, buses and banks close",
+      "cửa hàng, xe buýt và ngân hàng đóng cửa"
+    ],
+    [
+      "long distances to hospitals",
+      "khoảng cách xa đến bệnh viện"
+    ],
+    [
+      "Fast internet, local business support and decent transport",
+      "internet nhanh, hỗ trợ doanh nghiệp địa phương và giao thông tử tế"
+    ],
+    [
+      "attract remote workers and small firms",
+      "thu hút người làm việc từ xa và công ty nhỏ"
+    ],
+    [
+      "tax benefits to businesses",
+      "ưu đãi thuế cho doanh nghiệp"
+    ],
+    [
+      "local food products",
+      "sản phẩm thực phẩm địa phương"
+    ],
+    [
+      "move some public offices out of the capital",
+      "chuyển một số cơ quan công ra khỏi thủ đô"
+    ],
+    [
+      "mobile services",
+      "dịch vụ lưu động"
+    ],
+    [
+      "scholarships",
+      "học bổng"
+    ],
+    [
+      "retain their residents",
+      "giữ chân cư dân của mình"
+    ]
+  ]
+}

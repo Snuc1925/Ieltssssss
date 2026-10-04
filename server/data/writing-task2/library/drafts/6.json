@@ -1,0 +1,120 @@
+{
+  "questionId": 6,
+  "text": "Crowded flats, damp rooms and families with no home at all are visible in many cities, and some argue that housing is the main reason for social problems. I agree only to a limited extent, since housing is an important factor, but low income, unemployment and weak education also play major roles.\n\nTo begin with, poor housing contributes to many social problems. Overcrowded, unsafe or unaffordable homes damage health, schooling and family stability. A child who shares one room with five relatives, for example, has no quiet place to study and may fall behind at school. Damp and badly heated flats cause illnesses, and tension within crowded families can lead to conflict or violence. Neighbourhoods with large numbers of run-down buildings often suffer from crime and social neglect, because residents have little stake in the area. People who cannot afford rent may spend most of their income on housing and have little left for food, education or leisure.\n\nHowever, housing is not the only cause. Low income, unemployment and weak education also drive crime and poverty. A person who has a secure home but no job, for example, may still turn to crime or suffer from depression. Many wealthy suburbs have social problems such as drug abuse, whereas some poor communities with strong family and community ties remain peaceful. Housing policy is therefore necessary but insufficient. Governments that want to reduce social problems should combine decent, affordable homes with job creation, good schools and support for families, since each factor reinforces the others.\n\nIn conclusion, housing is one major factor among several, so I agree only to a limited extent that it is the main reason for social problems.",
+  "analysis": {
+    "type_vi": "Extent: nhà ở là nguyên nhân chính của vấn đề xã hội — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hình ảnh căn hộ chật, ẩm; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Nhà tồi đóng góp: chật, mất an toàn, đắt hại sức khoẻ, học tập; ví dụ trẻ chung phòng sáu người không học được; ẩm, lạnh gây bệnh; xung đột; khu nhà xuống cấp tội phạm; tiền thuê chiếm hết thu nhập.",
+        "refs": [
+          "ID-city-housing-social",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Không phải duy nhất: thu nhập thấp, thất nghiệp, giáo dục yếu; ví dụ người có nhà không việc vẫn phạm tội hay trầm cảm; vùng ngoại ô giàu có vấn đề ma tuý; nơi nghèo gắn kết thì yên bình; chính sách nhà ở kết hợp việc làm, trường, hỗ trợ gia đình.",
+        "refs": [
+          "ID-city-housing-social",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Một yếu tố lớn trong nhiều yếu tố.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-housing-social"
+    ]
+  },
+  "chunks": [
+    [
+      "Crowded flats, damp rooms",
+      "căn hộ chật, phòng ẩm"
+    ],
+    [
+      "housing is the main reason for social problems",
+      "nhà ở là nguyên nhân chính của các vấn đề xã hội"
+    ],
+    [
+      "Overcrowded, unsafe or unaffordable homes",
+      "những ngôi nhà quá đông, không an toàn hoặc không đủ khả năng chi trả"
+    ],
+    [
+      "damage health, schooling and family stability",
+      "gây hại sức khoẻ, việc học và sự ổn định gia đình"
+    ],
+    [
+      "shares one room with five relatives",
+      "chung một phòng với năm người thân"
+    ],
+    [
+      "no quiet place to study",
+      "không có chỗ yên tĩnh để học"
+    ],
+    [
+      "fall behind at school",
+      "tụt lại phía sau ở trường"
+    ],
+    [
+      "Damp and badly heated flats",
+      "căn hộ ẩm và sưởi kém"
+    ],
+    [
+      "run-down buildings",
+      "các toà nhà xuống cấp"
+    ],
+    [
+      "social neglect",
+      "sự bỏ mặc xã hội"
+    ],
+    [
+      "spend most of their income on housing",
+      "chi phần lớn thu nhập cho nhà ở"
+    ],
+    [
+      "Low income, unemployment and weak education",
+      "thu nhập thấp, thất nghiệp và giáo dục yếu"
+    ],
+    [
+      "drive crime and poverty",
+      "thúc đẩy tội phạm và nghèo đói"
+    ],
+    [
+      "a secure home but no job",
+      "có nhà ổn định nhưng không có việc"
+    ],
+    [
+      "drug abuse",
+      "lạm dụng ma tuý"
+    ],
+    [
+      "strong family and community ties",
+      "mối liên kết gia đình và cộng đồng mạnh"
+    ],
+    [
+      "necessary but insufficient",
+      "cần thiết nhưng chưa đủ"
+    ],
+    [
+      "decent, affordable homes",
+      "nhà ở tử tế, giá phải chăng"
+    ],
+    [
+      "one major factor among several",
+      "một yếu tố lớn trong nhiều yếu tố"
+    ]
+  ]
+}

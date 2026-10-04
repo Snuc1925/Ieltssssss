@@ -1,0 +1,123 @@
+{
+  "questionId": 499,
+  "text": "In many big cities, a young worker may need to spend half of a salary on rent, and some people argue that housing affordability is a government responsibility. I agree to a large extent, since markets alone leave many people priced out, although private builders must also play a part.\n\nTo begin with, governments should take responsibility for housing affordability because shelter is a basic need. Land shortages and speculation drive prices beyond ordinary incomes, so public housing, rent support, planning reform and tax measures are needed alongside private builders. A nurse or a teacher who cannot afford to live in the city where she works, for example, cannot be replaced by the market, and the whole community suffers when essential workers must leave. Only governments can plan land use, release public land for building and require developers to include affordable flats in new projects. Without such action, housing may become a privilege of the wealthy and of those with inherited property, increasing inequality between generations.\n\nHowever, governments cannot solve the problem alone. Private companies build most homes, and they respond to demand and profit, so policies should encourage them to build more instead of discouraging investment through excessive rules or very strict rent controls. Individuals also have responsibilities, such as saving for a deposit and choosing homes they can afford. Partnerships between the state, builders, charities and local communities generally work best. Stable housing supports health, education and the economy, so the government cannot ignore the issue, but the best results come when the public and private sectors work together.\n\nIn conclusion, I agree that housing affordability is largely a government responsibility, but it should be pursued through cooperation with private builders.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): khả năng chi trả nhà ở là trách nhiệm chính phủ — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người trẻ chi nửa lương cho thuê; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Chỗ ở là nhu cầu cơ bản; đất khan, đầu cơ đẩy giá; cần nhà công, hỗ trợ thuê, cải cách quy hoạch, thuế bên cạnh tư nhân; ví dụ y tá, giáo viên không đủ tiền sống nơi làm việc, thị trường không thay thế, cộng đồng thiệt; chỉ chính phủ quy hoạch đất, giải phóng đất, buộc nhà phát triển gồm căn hộ giá phải chăng; nhà thành đặc quyền người giàu, bất bình đẳng thế hệ.",
+        "refs": [
+          "ID-city-affordability",
+          "ID-city-housing-regulation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Chính phủ không tự giải quyết: công ty tư xây phần lớn nhà, theo cầu và lợi nhuận nên khuyến khích, tránh quy định quá mức, kiểm soát thuê quá chặt; cá nhân tiết kiệm đặt cọc, chọn nhà vừa sức; hợp tác nhà nước, nhà xây, tổ chức từ thiện, cộng đồng.",
+        "refs": [
+          "ID-city-affordability",
+          "ID-env-partnership",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phần lớn là trách nhiệm chính phủ nhưng hợp tác với tư nhân.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-affordability"
+    ]
+  },
+  "chunks": [
+    [
+      "spend half of a salary on rent",
+      "chi một nửa tiền lương cho tiền thuê nhà"
+    ],
+    [
+      "housing affordability is a government responsibility",
+      "khả năng chi trả nhà ở là trách nhiệm của chính phủ"
+    ],
+    [
+      "markets alone leave many people priced out",
+      "chỉ riêng thị trường khiến nhiều người không đủ khả năng mua"
+    ],
+    [
+      "shelter is a basic need",
+      "chỗ ở là nhu cầu cơ bản"
+    ],
+    [
+      "Land shortages and speculation",
+      "sự khan hiếm đất và đầu cơ"
+    ],
+    [
+      "beyond ordinary incomes",
+      "vượt quá thu nhập bình thường"
+    ],
+    [
+      "public housing, rent support, planning reform and tax measures",
+      "nhà ở công, hỗ trợ tiền thuê, cải cách quy hoạch và biện pháp thuế"
+    ],
+    [
+      "cannot afford to live in the city where she works",
+      "không đủ khả năng sống ở thành phố nơi cô làm việc"
+    ],
+    [
+      "essential workers",
+      "những người lao động thiết yếu"
+    ],
+    [
+      "plan land use, release public land for building",
+      "quy hoạch sử dụng đất, giải phóng đất công để xây dựng"
+    ],
+    [
+      "affordable flats in new projects",
+      "căn hộ giá phải chăng trong các dự án mới"
+    ],
+    [
+      "a privilege of the wealthy",
+      "đặc quyền của người giàu"
+    ],
+    [
+      "inherited property",
+      "tài sản thừa kế"
+    ],
+    [
+      "inequality between generations",
+      "bất bình đẳng giữa các thế hệ"
+    ],
+    [
+      "respond to demand and profit",
+      "phản ứng với nhu cầu và lợi nhuận"
+    ],
+    [
+      "excessive rules or very strict rent controls",
+      "quy định quá mức hoặc kiểm soát giá thuê quá chặt"
+    ],
+    [
+      "saving for a deposit",
+      "tiết kiệm tiền đặt cọc"
+    ],
+    [
+      "Partnerships between the state, builders, charities and local communities",
+      "sự hợp tác giữa nhà nước, nhà thầu, tổ chức từ thiện và cộng đồng địa phương"
+    ],
+    [
+      "the public and private sectors work together",
+      "khu vực công và tư cùng làm việc"
+    ]
+  ]
+}

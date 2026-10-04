@@ -1,0 +1,123 @@
+{
+  "questionId": 182,
+  "text": "Cycling is cheap, healthy and clean, but many people do not dare to ride in busy cities, and this essay will suggest practical measures that governments could take to improve road safety for cyclists, focusing on protected infrastructure and on rules and behaviour.\n\nTo begin with, protected lanes and lower speeds are the most effective way to keep cyclists safe. Physical separation from traffic prevents collisions, while lower limits, priority at junctions and driver training reduce risk. A city that builds a lane with kerbs or barriers on a busy road, for example, sees a large fall in injuries among cyclists and an increase in the number who ride. Cycle routes should form a connected network so that riders are not forced to share dangerous junctions or roundabouts with heavy lorries. Speed limits of thirty kilometres an hour in residential streets give drivers more time to react and make crashes less serious. Good lighting and well-maintained surfaces matter as well.\n\nIn addition, authorities should improve rules and behaviour. Lights and helmets protect cyclists themselves, and campaigns can persuade riders to use them. Drivers should be taught to look for cyclists, to leave a safe distance when overtaking and to check before opening doors, and these rules should be included in the driving test. Large lorries can be fitted with mirrors and sensors that remove blind spots. Traffic signals can give cyclists a head start at junctions, and police should punish drivers who endanger them. Equally important, safe routes to schools encourage children to cycle from an early age. Safer roads encourage more people to cycle, which in turn benefits health and reduces pollution.\n\nIn conclusion, protected lanes, lower speeds and clear rules offer the most realistic way to improve safety for cyclists.",
+  "analysis": {
+    "type_vi": "Solutions: an toàn cho người đi xe đạp",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu đi xe đạp rẻ, sạch nhưng nhiều người không dám; hai nhóm: hạ tầng bảo vệ; quy tắc và hành vi.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1",
+        "think": "Làn bảo vệ, giảm tốc độ: tách vật lý; ví dụ thành phố làm làn có bờ hoặc rào trên đường đông giảm thương tích, nhiều người đi hơn; mạng lưới liên tục, không dùng chung ngã tư với xe tải; giới hạn 30 km/h; ánh sáng, mặt đường.",
+        "refs": [
+          "ID-city-cyclist-safety",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2",
+        "think": "Quy tắc và hành vi: đèn, mũ bảo hiểm; tài xế nhìn xe đạp, giữ khoảng cách, kiểm tra cửa; đưa vào thi bằng; xe tải gương, cảm biến; đèn tín hiệu cho xe đạp; cảnh sát phạt; tuyến an toàn đến trường; lợi ích sức khoẻ, ô nhiễm.",
+        "refs": [
+          "ID-city-cyclist-safety",
+          "ID-city-accidents",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Làn bảo vệ, tốc độ thấp, quy tắc rõ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-cyclist-safety"
+    ]
+  },
+  "chunks": [
+    [
+      "Cycling is cheap, healthy and clean",
+      "đi xe đạp rẻ, tốt cho sức khoẻ và sạch"
+    ],
+    [
+      "road safety for cyclists",
+      "an toàn đường bộ cho người đi xe đạp"
+    ],
+    [
+      "protected infrastructure",
+      "hạ tầng được bảo vệ"
+    ],
+    [
+      "Protected lanes and lower speeds",
+      "làn đường được bảo vệ và tốc độ thấp hơn"
+    ],
+    [
+      "Physical separation from traffic prevents collisions",
+      "sự tách biệt vật lý khỏi giao thông ngăn ngừa va chạm"
+    ],
+    [
+      "priority at junctions and driver training",
+      "ưu tiên tại ngã tư và đào tạo tài xế"
+    ],
+    [
+      "kerbs or barriers",
+      "bờ vỉa hoặc rào chắn"
+    ],
+    [
+      "a large fall in injuries among cyclists",
+      "sự giảm mạnh thương tích ở người đi xe đạp"
+    ],
+    [
+      "a connected network",
+      "mạng lưới liên kết"
+    ],
+    [
+      "roundabouts with heavy lorries",
+      "vòng xuyến có xe tải nặng"
+    ],
+    [
+      "thirty kilometres an hour in residential streets",
+      "ba mươi km/giờ ở khu dân cư"
+    ],
+    [
+      "more time to react",
+      "nhiều thời gian hơn để phản ứng"
+    ],
+    [
+      "Lights and helmets",
+      "đèn và mũ bảo hiểm"
+    ],
+    [
+      "leave a safe distance when overtaking",
+      "giữ khoảng cách an toàn khi vượt"
+    ],
+    [
+      "opening doors",
+      "mở cửa xe"
+    ],
+    [
+      "mirrors and sensors that remove blind spots",
+      "gương và cảm biến loại bỏ điểm mù"
+    ],
+    [
+      "a head start at junctions",
+      "xuất phát trước tại ngã tư"
+    ],
+    [
+      "endanger them",
+      "gây nguy hiểm cho họ"
+    ],
+    [
+      "safe routes to schools",
+      "tuyến đường an toàn đến trường"
+    ]
+  ]
+}

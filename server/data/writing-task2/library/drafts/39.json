@@ -1,0 +1,125 @@
+{
+  "questionId": 39,
+  "text": "Sales of electric cars have grown rapidly, and the question is whether their advantages outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, electric cars cut local pollution and running costs. They emit nothing from the exhaust, are quiet and cheap to run. A taxi driver who switches to an electric model, for example, may save a large part of his fuel bill, and residents of a busy street breathe cleaner air and hear less noise. Electric motors also need less maintenance than petrol engines, because they have fewer moving parts. Since transport is a major source of greenhouse gases, the shift to electricity, particularly when it comes from renewable sources, can contribute to climate targets. Many governments also offer tax benefits and free parking for electric vehicles.\n\nOn the negative side, electric cars face high prices and charging limits. Purchase prices, scarce chargers, battery production and electricity from coal reduce their benefit. A person who lives in a flat with no private parking, for example, may find it hard to charge a car overnight, and long journeys require planning around charging stations. The mining of materials for batteries causes environmental and social damage, and old batteries must be recycled. Nevertheless, prices are falling, networks of chargers are growing and batteries are improving in range and lifespan. The net gain also increases as electricity grids become cleaner.\n\nIn conclusion, electric cars have important advantages for air quality and costs, and I believe that they outweigh the disadvantages, provided that governments invest in charging infrastructure and clean electricity.",
+  "analysis": {
+    "type_vi": "A/D: xe điện",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu doanh số tăng nhanh.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Giảm ô nhiễm cục bộ và chi phí: không khí thải, êm, rẻ; ví dụ tài xế taxi chuyển xe điện tiết kiệm nhiên liệu, cư dân thở khí sạch; ít bảo dưỡng; giảm khí nhà kính; ưu đãi thuế, đỗ xe.",
+        "refs": [
+          "ID-city-electric-cars",
+          "ID-tech-ev-subsidy"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Giá cao, ít trạm sạc, sản xuất pin, điện từ than; ví dụ người ở căn hộ không chỗ đỗ riêng khó sạc; đường dài lập kế hoạch; khai thác vật liệu; tái chế pin. Nhưng giá giảm, mạng sạc, pin tốt hơn; lưới điện sạch.",
+        "refs": [
+          "ID-city-electric-cars",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu đầu tư trạm sạc và điện sạch.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-electric-cars"
+    ]
+  },
+  "chunks": [
+    [
+      "Sales of electric cars have grown rapidly",
+      "doanh số xe điện đã tăng nhanh"
+    ],
+    [
+      "cut local pollution and running costs",
+      "giảm ô nhiễm cục bộ và chi phí vận hành"
+    ],
+    [
+      "emit nothing from the exhaust",
+      "không thải gì từ ống xả"
+    ],
+    [
+      "quiet and cheap to run",
+      "êm và rẻ khi vận hành"
+    ],
+    [
+      "switches to an electric model",
+      "chuyển sang mẫu xe điện"
+    ],
+    [
+      "save a large part of his fuel bill",
+      "tiết kiệm một phần lớn hoá đơn nhiên liệu"
+    ],
+    [
+      "breathe cleaner air and hear less noise",
+      "hít không khí sạch hơn và nghe ít tiếng ồn hơn"
+    ],
+    [
+      "fewer moving parts",
+      "ít bộ phận chuyển động hơn"
+    ],
+    [
+      "greenhouse gases",
+      "khí nhà kính"
+    ],
+    [
+      "renewable sources",
+      "nguồn tái tạo"
+    ],
+    [
+      "tax benefits and free parking",
+      "ưu đãi thuế và đỗ xe miễn phí"
+    ],
+    [
+      "high prices and charging limits",
+      "giá cao và hạn chế về sạc"
+    ],
+    [
+      "scarce chargers",
+      "trạm sạc khan hiếm"
+    ],
+    [
+      "battery production and electricity from coal",
+      "sản xuất pin và điện từ than"
+    ],
+    [
+      "a flat with no private parking",
+      "căn hộ không có chỗ đỗ xe riêng"
+    ],
+    [
+      "long journeys require planning",
+      "các chuyến đi dài cần lên kế hoạch"
+    ],
+    [
+      "The mining of materials for batteries",
+      "việc khai thác vật liệu cho pin"
+    ],
+    [
+      "old batteries must be recycled",
+      "pin cũ phải được tái chế"
+    ],
+    [
+      "range and lifespan",
+      "quãng đường và tuổi thọ"
+    ],
+    [
+      "electricity grids become cleaner",
+      "lưới điện trở nên sạch hơn"
+    ]
+  ]
+}

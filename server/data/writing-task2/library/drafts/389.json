@@ -1,0 +1,119 @@
+{
+  "questionId": 389,
+  "text": "For many teenagers, passing the driving test is a milestone, and many people say that learning to drive improves independence. I agree with this view, particularly where public transport is poor, although other forms of transport can also provide freedom.\n\nTo begin with, learning to drive increases independence. A driver can reach work, shops and family without timetables, which matters in villages. A young woman who lives in the countryside, for example, can accept a job twenty kilometres away, visit friends in the evening and take her grandmother to the hospital without waiting for a bus that runs twice a day. Drivers can also travel at any hour, carry heavy luggage and make several stops in a single trip. For people who work shifts, who have small children or who have to visit several places in one day, a car is often the only practical option. Having a licence also widens job opportunities, because some employers require it.\n\nHowever, cars are costly, and good public transport can also give freedom. Buying, insuring and fuelling a car takes a large part of a young person's income, and traffic jams and parking problems limit the convenience in big cities. Residents of cities with frequent trains, trams and cycle lanes, for example, can move around easily without owning a car, and they avoid the stress and the expense. Driving also contributes to pollution and accidents. The value of a licence therefore depends on where one lives. Everyone benefits from being able to drive in an emergency, but in a well-served city, independence may come equally from a transport pass and a bicycle.\n\nIn conclusion, I agree that learning to drive improves independence, especially outside large cities, although the importance of driving is smaller where public transport is excellent.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: học lái xe cải thiện sự độc lập",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thi bằng là cột mốc; agree nhất là nơi GTCC kém.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1",
+        "think": "Tăng độc lập: không phụ thuộc lịch; ví dụ cô gái nông thôn nhận việc cách 20 km, thăm bạn buổi tối, đưa bà đi bệnh viện không chờ buýt hai chuyến ngày; đi giờ nào, chở hành lý, nhiều điểm; người làm ca, có con nhỏ; bằng mở rộng việc.",
+        "refs": [
+          "ID-city-driving-independence",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhượng bộ",
+        "think": "Xe đắt: mua, bảo hiểm, nhiên liệu; tắc, đỗ xe; thành phố có tàu, tàu điện, làn xe đạp đi lại dễ không cần xe; ô nhiễm, tai nạn; giá trị phụ thuộc nơi ở; khẩn cấp biết lái hữu ích.",
+        "refs": [
+          "ID-city-driving-independence",
+          "ID-city-public-transport-lives",
+          "CN-nextPoint-moreover",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý, nhất là ngoài thành phố lớn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-driving-independence"
+    ]
+  },
+  "chunks": [
+    [
+      "passing the driving test is a milestone",
+      "đỗ kỳ thi lái xe là một cột mốc"
+    ],
+    [
+      "learning to drive improves independence",
+      "học lái xe cải thiện sự độc lập"
+    ],
+    [
+      "without timetables",
+      "không cần lịch trình"
+    ],
+    [
+      "lives in the countryside",
+      "sống ở nông thôn"
+    ],
+    [
+      "accept a job twenty kilometres away",
+      "nhận việc cách hai mươi km"
+    ],
+    [
+      "visit friends in the evening",
+      "thăm bạn vào buổi tối"
+    ],
+    [
+      "take her grandmother to the hospital",
+      "đưa bà đến bệnh viện"
+    ],
+    [
+      "a bus that runs twice a day",
+      "chuyến xe buýt chạy hai lần một ngày"
+    ],
+    [
+      "carry heavy luggage",
+      "chở hành lý nặng"
+    ],
+    [
+      "several stops in a single trip",
+      "nhiều điểm dừng trong một chuyến đi"
+    ],
+    [
+      "work shifts",
+      "làm việc theo ca"
+    ],
+    [
+      "the only practical option",
+      "lựa chọn thực tế duy nhất"
+    ],
+    [
+      "widens job opportunities",
+      "mở rộng cơ hội việc làm"
+    ],
+    [
+      "Buying, insuring and fuelling a car",
+      "mua, bảo hiểm và đổ nhiên liệu cho xe"
+    ],
+    [
+      "traffic jams and parking problems",
+      "tắc đường và vấn đề đỗ xe"
+    ],
+    [
+      "frequent trains, trams and cycle lanes",
+      "tàu, xe điện thường xuyên và làn xe đạp"
+    ],
+    [
+      "without owning a car",
+      "mà không cần sở hữu xe hơi"
+    ],
+    [
+      "a transport pass and a bicycle",
+      "một thẻ giao thông và một chiếc xe đạp"
+    ]
+  ]
+}

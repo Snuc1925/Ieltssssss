@@ -1,0 +1,122 @@
+{
+  "questionId": 269,
+  "text": "On many winter days, a grey haze hangs over major cities, and this essay will discuss the causes of traffic pollution in major cities and suggest solutions, focusing on vehicle fleets and on congestion.\n\nTo begin with, traffic pollution comes from old, congested and diesel vehicles. Idling in queues and ageing engines release particles and nitrogen oxides. A diesel bus that crawls through a crowded centre, for example, emits far more fumes per kilometre than the same bus moving freely. Cities with weak public transport force people to drive, and private cars are often used for short trips of only a few kilometres. Poor maintenance and the lack of regular emissions tests mean that many vehicles pollute more than the law allows. In addition, trucks that deliver goods to city centres often use cheap diesel, and tyres and brakes create dust that is harmful to lungs.\n\nIn terms of solutions, cities must cut car use and clean the fleet. Low-emission zones, electric buses, charges and better public transport reduce pollution. A city that bans the oldest vehicles from its centre and charges the rest according to their emissions, for example, quickly sees cleaner air. Governments can subsidise electric vehicles and chargers, replace diesel buses with electric ones and require regular inspections. Safe cycle lanes and pedestrian zones give people healthy alternatives, while fines and stronger standards punish heavy polluters. Planners should also reduce the need to travel by placing homes, jobs and shops close together. Air quality and health improve, and fewer people suffer from asthma and heart disease.\n\nIn conclusion, traffic pollution is caused by old, congested vehicles, and it can be reduced by cleaner transport and less car use.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: ô nhiễm giao thông ở đô thị lớn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu sương mù xám ở thành phố mùa đông.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Xe cũ, tắc, diesel: chạy không tải, động cơ cũ thải hạt, nitơ oxit; ví dụ buýt diesel bò trong trung tâm thải nhiều hơn khi chạy thông; GTCC yếu buộc lái xe, chặng ngắn; thiếu kiểm tra khí thải; xe tải diesel; lốp phanh bụi.",
+        "refs": [
+          "ID-city-traffic-pollution",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Giảm xe, làm sạch đội xe: vùng khí thải thấp, buýt điện, phí, GTCC; ví dụ cấm xe cũ nhất, thu phí theo khí thải không khí sạch; trợ cấp xe điện, trạm sạc; kiểm định; làn xe đạp, khu đi bộ; phạt, tiêu chuẩn; quy hoạch gần; hen, tim.",
+        "refs": [
+          "ID-city-traffic-pollution",
+          "ID-city-congestion-solutions",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Do xe cũ, tắc; giảm bằng phương tiện sạch, ít xe.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-traffic-pollution"
+    ]
+  },
+  "chunks": [
+    [
+      "a grey haze hangs over major cities",
+      "màn sương xám phủ các thành phố lớn"
+    ],
+    [
+      "traffic pollution in major cities",
+      "ô nhiễm giao thông ở các thành phố lớn"
+    ],
+    [
+      "vehicle fleets and congestion",
+      "đội phương tiện và tắc nghẽn"
+    ],
+    [
+      "old, congested and diesel vehicles",
+      "xe cũ, tắc nghẽn và xe chạy dầu"
+    ],
+    [
+      "Idling in queues and ageing engines",
+      "nổ máy chờ trong hàng và động cơ cũ"
+    ],
+    [
+      "particles and nitrogen oxides",
+      "các hạt bụi và nitơ oxit"
+    ],
+    [
+      "crawls through a crowded centre",
+      "bò chậm qua trung tâm đông đúc"
+    ],
+    [
+      "fumes per kilometre",
+      "khí thải mỗi km"
+    ],
+    [
+      "short trips of only a few kilometres",
+      "chuyến đi ngắn chỉ vài km"
+    ],
+    [
+      "regular emissions tests",
+      "kiểm tra khí thải định kỳ"
+    ],
+    [
+      "cheap diesel",
+      "dầu diesel rẻ"
+    ],
+    [
+      "tyres and brakes create dust",
+      "lốp và phanh tạo ra bụi"
+    ],
+    [
+      "Low-emission zones, electric buses, charges",
+      "vùng khí thải thấp, xe buýt điện, phí"
+    ],
+    [
+      "bans the oldest vehicles from its centre",
+      "cấm các xe cũ nhất vào trung tâm"
+    ],
+    [
+      "according to their emissions",
+      "theo lượng khí thải của chúng"
+    ],
+    [
+      "pedestrian zones",
+      "khu vực dành cho người đi bộ"
+    ],
+    [
+      "punish heavy polluters",
+      "phạt những kẻ gây ô nhiễm nặng"
+    ],
+    [
+      "homes, jobs and shops close together",
+      "nhà, việc làm và cửa hàng gần nhau"
+    ],
+    [
+      "asthma and heart disease",
+      "hen suyễn và bệnh tim"
+    ]
+  ]
+}

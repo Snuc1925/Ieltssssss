@@ -1,0 +1,120 @@
+{
+  "questionId": 153,
+  "text": "Test vehicles with no human at the wheel already drive on the streets of a few cities, and the question is how common driverless cars will become within twenty years. I believe that they will become common in some places, but not everywhere.\n\nTo begin with, driverless cars have strong advantages that will push their spread. They can reduce human error and help non-drivers. Since most accidents are caused by tired, distracted or drunk drivers, a computer that never loses attention could save many lives. An elderly man who can no longer drive, for example, would gain independence from a car that takes him to the doctor or to see friends. Companies are investing billions, and early services, known as robotaxis, already operate in limited areas. Cheaper sensors and better artificial intelligence will make the systems more reliable, and fleets of shared driverless vehicles could cut the cost of travel and reduce the need for parking space.\n\nHowever, complex traffic, legal questions, high costs and public trust slow adoption. Machines still struggle with unusual events such as road works, heavy snow or the unpredictable behaviour of cyclists, and they remain vulnerable to hacking. Who is responsible for an accident that involves a driverless car is still unclear, and many people are afraid to give up control. Professional drivers also fear for their jobs, which may cause political resistance. Robotaxis and motorway freight will therefore probably become established first, in well-mapped cities with good weather, while private ownership of fully automatic cars remains rare in rural and older urban areas.\n\nIn conclusion, driverless cars will become common in selected places within twenty years, but they will not replace human drivers everywhere.",
+  "analysis": {
+    "type_vi": "Extent: xe không người lái phổ biến đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu xe thử không người lái; đáp: phổ biến ở một số nơi.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Ưu điểm",
+        "think": "Giảm lỗi người, giúp người không lái xe; tai nạn do mệt, xao nhãng, say; ví dụ người già không lái được có xe đưa đi bác sĩ; robotaxi; cảm biến, AI; xe dùng chung giảm chi phí, chỗ đỗ.",
+        "refs": [
+          "ID-city-driverless",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Hạn chế",
+        "think": "Giao thông phức tạp, pháp lý, chi phí, tin cậy: công trường, tuyết, người đi xe đạp, hack; trách nhiệm khi tai nạn; sợ mất kiểm soát; tài xế mất việc; robotaxi, hàng hoá cao tốc trước, thành phố bản đồ tốt; nông thôn hiếm.",
+        "refs": [
+          "ID-city-driverless",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phổ biến ở nơi chọn lọc.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-driverless"
+    ]
+  },
+  "chunks": [
+    [
+      "no human at the wheel",
+      "không có người cầm lái"
+    ],
+    [
+      "driverless cars",
+      "xe không người lái"
+    ],
+    [
+      "reduce human error and help non-drivers",
+      "giảm lỗi của con người và giúp người không lái xe"
+    ],
+    [
+      "tired, distracted or drunk drivers",
+      "tài xế mệt mỏi, mất tập trung hoặc say rượu"
+    ],
+    [
+      "never loses attention",
+      "không bao giờ mất tập trung"
+    ],
+    [
+      "can no longer drive",
+      "không còn lái xe được nữa"
+    ],
+    [
+      "gain independence",
+      "có được sự độc lập"
+    ],
+    [
+      "robotaxis",
+      "taxi robot"
+    ],
+    [
+      "Cheaper sensors and better artificial intelligence",
+      "cảm biến rẻ hơn và trí tuệ nhân tạo tốt hơn"
+    ],
+    [
+      "fleets of shared driverless vehicles",
+      "đội xe không người lái dùng chung"
+    ],
+    [
+      "parking space",
+      "chỗ đỗ xe"
+    ],
+    [
+      "complex traffic, legal questions, high costs and public trust",
+      "giao thông phức tạp, vấn đề pháp lý, chi phí cao và niềm tin của công chúng"
+    ],
+    [
+      "road works, heavy snow",
+      "công trường đường, tuyết dày"
+    ],
+    [
+      "unpredictable behaviour of cyclists",
+      "hành vi khó lường của người đi xe đạp"
+    ],
+    [
+      "vulnerable to hacking",
+      "dễ bị tấn công mạng"
+    ],
+    [
+      "give up control",
+      "từ bỏ quyền kiểm soát"
+    ],
+    [
+      "Professional drivers",
+      "tài xế chuyên nghiệp"
+    ],
+    [
+      "motorway freight",
+      "vận tải hàng hoá đường cao tốc"
+    ],
+    [
+      "well-mapped cities",
+      "thành phố được lập bản đồ kỹ"
+    ]
+  ]
+}

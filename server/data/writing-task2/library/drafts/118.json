@@ -1,0 +1,121 @@
+{
+  "questionId": 118,
+  "text": "In many cities, people choose between a modern flat in a tower and a house with a garden on the outskirts, and opinions differ on which type of home is better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of apartments argue that they offer convenience and affordability. Flats are usually closer to work, shops and transport and are cheaper and easier to maintain. A young couple who rent a flat near the metro, for example, can walk to the station and avoid the cost of a second car. Many apartment buildings have shared facilities such as gyms, swimming pools and security staff, and the building manager takes care of repairs. For single people and small households, there is no need for a large space that requires cleaning and costly heating.\n\nOn the other hand, supporters of houses argue that they provide space and privacy. Houses give gardens, quiet and room for families but cost more and often lie far from the centre. A family with three children, for example, can use a garden for play, keep pets and have a separate room for each child. Residents have more freedom to decorate, extend and repair their home as they like, and they rarely hear noisy neighbours. A house is also likely to be a better long-term investment in many markets. However, owners must pay for maintenance and often depend on a car to reach work and services.\n\nIn conclusion, both views have merit. Overall, I believe that the choice depends on budget and family stage: flats suit young people and those who want city life, whereas houses are better for families who value space.",
+  "analysis": {
+    "type_vi": "Discuss both views: căn hộ hay nhà riêng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu căn hộ hiện đại vs nhà có vườn ngoại ô.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Căn hộ",
+        "think": "Tiện và rẻ: gần việc, cửa hàng, giao thông; ví dụ cặp trẻ thuê gần tàu điện đi bộ đến ga, khỏi xe thứ hai; phòng gym, bể bơi, bảo vệ, quản lý sửa chữa; người độc thân không cần chỗ lớn.",
+        "refs": [
+          "ID-city-apartments-houses"
+        ]
+      },
+      {
+        "step": "3. Nhà riêng",
+        "think": "Không gian và riêng tư: vườn, yên tĩnh, chỗ cho gia đình nhưng đắt, xa; ví dụ gia đình ba con dùng vườn chơi, nuôi thú, phòng riêng; tự do sửa, ít ồn; đầu tư dài hạn; nhược: bảo trì, phụ thuộc xe.",
+        "refs": [
+          "ID-city-apartments-houses"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ ngân sách và giai đoạn gia đình.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-apartments-houses"
+    ]
+  },
+  "chunks": [
+    [
+      "a modern flat in a tower",
+      "một căn hộ hiện đại trong toà tháp"
+    ],
+    [
+      "a house with a garden on the outskirts",
+      "ngôi nhà có vườn ở vùng ngoại ô"
+    ],
+    [
+      "convenience and affordability",
+      "sự tiện lợi và giá cả phải chăng"
+    ],
+    [
+      "closer to work, shops and transport",
+      "gần nơi làm việc, cửa hàng và giao thông hơn"
+    ],
+    [
+      "cheaper and easier to maintain",
+      "rẻ hơn và dễ bảo trì hơn"
+    ],
+    [
+      "rent a flat near the metro",
+      "thuê căn hộ gần tàu điện ngầm"
+    ],
+    [
+      "avoid the cost of a second car",
+      "tránh chi phí xe hơi thứ hai"
+    ],
+    [
+      "gyms, swimming pools and security staff",
+      "phòng gym, bể bơi và nhân viên bảo vệ"
+    ],
+    [
+      "the building manager takes care of repairs",
+      "quản lý toà nhà lo việc sửa chữa"
+    ],
+    [
+      "costly heating",
+      "chi phí sưởi ấm tốn kém"
+    ],
+    [
+      "space and privacy",
+      "không gian và sự riêng tư"
+    ],
+    [
+      "gardens, quiet and room for families",
+      "vườn, sự yên tĩnh và chỗ cho gia đình"
+    ],
+    [
+      "lie far from the centre",
+      "nằm xa trung tâm"
+    ],
+    [
+      "a separate room for each child",
+      "phòng riêng cho mỗi đứa trẻ"
+    ],
+    [
+      "decorate, extend and repair their home",
+      "trang trí, mở rộng và sửa nhà"
+    ],
+    [
+      "noisy neighbours",
+      "hàng xóm ồn ào"
+    ],
+    [
+      "a better long-term investment",
+      "khoản đầu tư dài hạn tốt hơn"
+    ],
+    [
+      "depend on a car",
+      "phụ thuộc vào xe hơi"
+    ],
+    [
+      "budget and family stage",
+      "ngân sách và giai đoạn của gia đình"
+    ]
+  ]
+}

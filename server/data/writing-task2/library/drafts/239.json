@@ -1,0 +1,120 @@
+{
+  "questionId": 239,
+  "text": "More and more people live in compact cities with tall buildings and few detached houses, and the question is whether the advantages of high-density living outweigh the disadvantages. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, high-density cities use land and energy efficiently. Compact cities make public transport and services economical and save countryside. A district where thousands of people live within walking distance of a metro station, for example, supports frequent trains, and residents can reach shops, schools and hospitals without a car. Shorter journeys mean lower emissions, and sharing walls reduces heating costs. Dense cities also offer more jobs and cultural variety, and they leave fields and forests untouched around them. Economies of scale lower the cost of water, power and waste services per person.\n\nOn the negative side, crowding, noise, costly housing and lack of green space reduce quality of life. A family in a small flat on the twentieth floor, for example, may have no garden and few places for children to play. Housing is expensive because land is scarce, and crowded buses and streets cause stress. Infections spread more easily in crowded places, and noise and pollution may harm health. Nevertheless, good design can offset many of these drawbacks: parks, tree-lined streets, mixed-use developments, high-quality public transport and sound insulation make dense neighbourhoods more pleasant. Cities such as Singapore and Copenhagen show that high density can go together with a high quality of life.\n\nIn conclusion, high-density cities have clear environmental and economic advantages. On balance, I believe that they outweigh the disadvantages, provided that planners protect green space and quality of life.",
+  "analysis": {
+    "type_vi": "A/D: thành phố mật độ cao",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu thành phố nén, nhà cao tầng.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Dùng đất, năng lượng hiệu quả: giao thông công cộng, dịch vụ kinh tế, tiết kiệm nông thôn; ví dụ khu hàng nghìn người đi bộ đến ga metro tàu thường xuyên, không cần xe; chuyến ngắn, giảm khí thải, chung tường giảm sưởi; việc làm, văn hoá; quy mô giảm chi phí.",
+        "refs": [
+          "ID-city-high-density"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Chật, ồn, nhà đắt, thiếu cây xanh; ví dụ gia đình căn hộ tầng 20 không vườn, ít chỗ trẻ chơi; đất khan hiếm; xe buýt đông; bệnh lây; thiết kế tốt: công viên, hàng cây, đa chức năng, cách âm; Singapore, Copenhagen.",
+        "refs": [
+          "ID-city-high-density",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu bảo vệ không gian xanh.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-high-density"
+    ]
+  },
+  "chunks": [
+    [
+      "compact cities with tall buildings",
+      "thành phố nén với các toà nhà cao tầng"
+    ],
+    [
+      "high-density living",
+      "sống ở mật độ cao"
+    ],
+    [
+      "use land and energy efficiently",
+      "sử dụng đất và năng lượng hiệu quả"
+    ],
+    [
+      "economical",
+      "tiết kiệm chi phí"
+    ],
+    [
+      "save countryside",
+      "bảo tồn vùng nông thôn"
+    ],
+    [
+      "within walking distance of a metro station",
+      "trong tầm đi bộ đến ga tàu điện ngầm"
+    ],
+    [
+      "frequent trains",
+      "tàu chạy thường xuyên"
+    ],
+    [
+      "without a car",
+      "không cần xe hơi"
+    ],
+    [
+      "Shorter journeys mean lower emissions",
+      "chuyến đi ngắn hơn nghĩa là khí thải thấp hơn"
+    ],
+    [
+      "sharing walls reduces heating costs",
+      "chung tường làm giảm chi phí sưởi"
+    ],
+    [
+      "cultural variety",
+      "sự đa dạng văn hoá"
+    ],
+    [
+      "Economies of scale",
+      "lợi thế quy mô"
+    ],
+    [
+      "crowding, noise, costly housing and lack of green space",
+      "đông đúc, ồn ào, nhà ở đắt đỏ và thiếu không gian xanh"
+    ],
+    [
+      "a small flat on the twentieth floor",
+      "căn hộ nhỏ ở tầng hai mươi"
+    ],
+    [
+      "land is scarce",
+      "đất đai khan hiếm"
+    ],
+    [
+      "Infections spread more easily",
+      "bệnh nhiễm trùng lây dễ hơn"
+    ],
+    [
+      "parks, tree-lined streets, mixed-use developments",
+      "công viên, đường có hàng cây, khu phát triển đa chức năng"
+    ],
+    [
+      "sound insulation",
+      "cách âm"
+    ],
+    [
+      "quality of life",
+      "chất lượng cuộc sống"
+    ]
+  ]
+}

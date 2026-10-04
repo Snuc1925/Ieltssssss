@@ -1,0 +1,122 @@
+{
+  "questionId": 129,
+  "text": "Road crashes kill more than a million people worldwide each year, and this essay will discuss the causes of traffic accidents and suggest solutions, focusing on driver behaviour and on road conditions.\n\nTo begin with, most accidents come from human behaviour and poor roads. Speeding, drink driving, tiredness and phone use cause crashes, and bad road design and old vehicles increase risk. A driver who sends a message while travelling at fifty kilometres an hour, for example, covers the length of a football pitch without looking at the road. Young men are especially likely to take risks, and long-distance lorry drivers may drive for too many hours without rest. In many developing countries, poor lighting, damaged surfaces, missing signs and mixed traffic of cars, motorbikes and pedestrians make accidents more likely. Vehicles that are badly maintained, with worn tyres or faulty brakes, add to the problem.\n\nIn terms of solutions, both enforcement and engineering are needed. Cameras, penalties, education and better roads reduce harm. Speed cameras and breath tests, together with heavy fines and loss of licences, discourage dangerous behaviour. A city that installs cameras on its busiest roads, for example, often sees a clear fall in deaths within a year. Governments should also improve roads with lighting, barriers, crossings and safer junctions, require regular vehicle inspections and promote safety features such as seat belts and airbags. Schools and media campaigns can teach young people about the dangers of drink and speed. Equally important, strong public transport reduces the number of vehicles on the road and so lowers risk.\n\nIn conclusion, accidents are caused by human behaviour and weak infrastructure, and they can be reduced through enforcement, education and safer roads.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: tai nạn giao thông",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hơn một triệu người chết mỗi năm.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Hành vi con người và đường kém: tốc độ, rượu, mệt, điện thoại; ví dụ nhắn tin ở 50 km/h đi quãng bằng sân bóng không nhìn đường; nam trẻ liều; tài xế xe tải đường dài; ánh sáng kém, mặt đường hỏng, biển thiếu, giao thông hỗn hợp; xe bảo dưỡng kém.",
+        "refs": [
+          "ID-city-accidents",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Thực thi và kỹ thuật: camera, phạt, giáo dục, đường tốt; máy đo tốc độ, thổi nồng độ cồn, phạt nặng; ví dụ thành phố lắp camera đường đông giảm tử vong; cải thiện đường, kiểm định xe; dây an toàn, túi khí; trường, truyền thông; giao thông công cộng giảm xe.",
+        "refs": [
+          "ID-city-accidents",
+          "ID-city-driving-licence",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm nhờ thực thi, giáo dục, đường an toàn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-accidents"
+    ]
+  },
+  "chunks": [
+    [
+      "Road crashes kill more than a million people",
+      "va chạm giao thông giết chết hơn một triệu người"
+    ],
+    [
+      "causes of traffic accidents",
+      "nguyên nhân tai nạn giao thông"
+    ],
+    [
+      "driver behaviour and road conditions",
+      "hành vi của tài xế và điều kiện đường"
+    ],
+    [
+      "Speeding, drink driving, tiredness and phone use",
+      "chạy quá tốc độ, lái xe khi say, mệt mỏi và dùng điện thoại"
+    ],
+    [
+      "bad road design and old vehicles",
+      "thiết kế đường tồi và xe cũ"
+    ],
+    [
+      "sends a message while travelling",
+      "nhắn tin trong khi đang di chuyển"
+    ],
+    [
+      "the length of a football pitch",
+      "chiều dài một sân bóng đá"
+    ],
+    [
+      "take risks",
+      "chấp nhận rủi ro"
+    ],
+    [
+      "long-distance lorry drivers",
+      "tài xế xe tải đường dài"
+    ],
+    [
+      "poor lighting, damaged surfaces, missing signs",
+      "ánh sáng kém, mặt đường hư hỏng, thiếu biển báo"
+    ],
+    [
+      "mixed traffic of cars, motorbikes and pedestrians",
+      "giao thông hỗn hợp xe hơi, xe máy và người đi bộ"
+    ],
+    [
+      "worn tyres or faulty brakes",
+      "lốp mòn hoặc phanh hỏng"
+    ],
+    [
+      "Cameras, penalties, education and better roads",
+      "camera, hình phạt, giáo dục và đường tốt hơn"
+    ],
+    [
+      "Speed cameras and breath tests",
+      "camera đo tốc độ và kiểm tra nồng độ cồn"
+    ],
+    [
+      "heavy fines and loss of licences",
+      "phạt nặng và mất bằng lái"
+    ],
+    [
+      "barriers, crossings and safer junctions",
+      "rào chắn, vạch qua đường và ngã tư an toàn hơn"
+    ],
+    [
+      "regular vehicle inspections",
+      "kiểm định phương tiện định kỳ"
+    ],
+    [
+      "seat belts and airbags",
+      "dây an toàn và túi khí"
+    ],
+    [
+      "media campaigns",
+      "chiến dịch truyền thông"
+    ]
+  ]
+}

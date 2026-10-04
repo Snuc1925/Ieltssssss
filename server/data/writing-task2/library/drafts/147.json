@@ -1,0 +1,121 @@
+{
+  "questionId": 147,
+  "text": "Rental scooters now stand on almost every corner in many cities, and many people say that electric scooters are dangerous. I agree to a large extent, since riders and pedestrians suffer injuries when there are no rules, although scooters also offer clean short-distance travel.\n\nTo begin with, electric scooters are dangerous when used without rules. Riders travel fast on pavements and often without helmets, causing injuries to themselves and pedestrians. A rider who speeds along a crowded pavement at night, for example, may hit an elderly walker, and a fall at twenty-five kilometres an hour can cause serious head injuries. Hospitals in several cities have reported large increases in scooter-related casualties, many involving alcohol. Small wheels make scooters unstable on uneven roads, and drivers often fail to see riders, especially in the dark. Scooters left lying on pavements also become obstacles for blind people and wheelchair users.\n\nHowever, scooters bring benefits that should not be ignored. They reduce car use for short trips, produce no exhaust fumes and are cheap, and they help people to reach stations and shops quickly. If speed limits, lanes and parking rules apply, much of the danger can be reduced. A city that requires helmets, limits speed to fifteen kilometres an hour in busy areas, bans riding on pavements and fines abandoned scooters, for example, can keep the benefits while lowering the risk. Operators can also use technology to slow scooters automatically in crowded zones and to prevent use by drunk riders. Regulation can therefore make them safer without removing them.\n\nIn conclusion, I agree that electric scooters are dangerous in cities, but their risks can be controlled through strict rules and better infrastructure.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: xe scooter điện nguy hiểm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu scooter thuê ở mọi góc phố; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Nguy hiểm",
+        "think": "Không luật: tốc độ trên vỉa hè, không mũ; ví dụ người lái tăng tốc vỉa hè đông ban đêm đâm người già, ngã 25 km/h chấn thương đầu; bệnh viện báo tăng thương tích, rượu; bánh nhỏ không ổn định; tài xế không thấy; scooter bỏ cản người mù, xe lăn.",
+        "refs": [
+          "ID-city-scooters",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích + quy định",
+        "think": "Giảm xe cho chặng ngắn, không khói, rẻ; giới hạn tốc độ, làn, đỗ; ví dụ thành phố bắt mũ bảo hiểm, 15 km/h khu đông, cấm vỉa hè, phạt bỏ xe; công nghệ làm chậm trong vùng đông, ngăn say.",
+        "refs": [
+          "ID-city-scooters",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nguy hiểm nhưng kiểm soát được.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-scooters"
+    ]
+  },
+  "chunks": [
+    [
+      "Rental scooters now stand on almost every corner",
+      "xe scooter cho thuê nay đứng ở hầu hết các góc phố"
+    ],
+    [
+      "electric scooters are dangerous",
+      "xe scooter điện nguy hiểm"
+    ],
+    [
+      "dangerous when used without rules",
+      "nguy hiểm khi dùng không có quy tắc"
+    ],
+    [
+      "travel fast on pavements and often without helmets",
+      "chạy nhanh trên vỉa hè và thường không đội mũ bảo hiểm"
+    ],
+    [
+      "speeds along a crowded pavement at night",
+      "phóng nhanh trên vỉa hè đông đúc ban đêm"
+    ],
+    [
+      "hit an elderly walker",
+      "đâm vào người đi bộ lớn tuổi"
+    ],
+    [
+      "serious head injuries",
+      "chấn thương đầu nghiêm trọng"
+    ],
+    [
+      "scooter-related casualties",
+      "thương vong liên quan đến xe scooter"
+    ],
+    [
+      "Small wheels make scooters unstable",
+      "bánh nhỏ khiến xe scooter không ổn định"
+    ],
+    [
+      "obstacles for blind people and wheelchair users",
+      "chướng ngại cho người mù và người dùng xe lăn"
+    ],
+    [
+      "reduce car use for short trips",
+      "giảm việc dùng ô tô cho các chuyến ngắn"
+    ],
+    [
+      "no exhaust fumes",
+      "không có khói thải"
+    ],
+    [
+      "speed limits, lanes and parking rules",
+      "giới hạn tốc độ, làn đường và quy tắc đỗ xe"
+    ],
+    [
+      "requires helmets",
+      "yêu cầu đội mũ bảo hiểm"
+    ],
+    [
+      "fifteen kilometres an hour in busy areas",
+      "mười lăm km/giờ ở khu vực đông đúc"
+    ],
+    [
+      "bans riding on pavements",
+      "cấm đi trên vỉa hè"
+    ],
+    [
+      "fines abandoned scooters",
+      "phạt xe scooter bị bỏ"
+    ],
+    [
+      "slow scooters automatically in crowded zones",
+      "tự động làm chậm xe scooter ở khu đông người"
+    ],
+    [
+      "prevent use by drunk riders",
+      "ngăn người say rượu sử dụng"
+    ]
+  ]
+}

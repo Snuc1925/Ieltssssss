@@ -1,0 +1,118 @@
+{
+  "questionId": 71,
+  "text": "Governments cannot build everything at once, and opinions differ on whether public spending on transport should be focused on public transport or on roads. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of public transport argue that it serves more people per unit of space. Trains and buses carry many passengers with less pollution and help those without cars. A single metro line, for example, can move as many commuters as several motorways, and it takes cars off the streets. Cities that invest in public transport suffer less congestion and air pollution, and they offer mobility to the poor, the young and the elderly. Since transport produces a large share of greenhouse gases, shifting passengers to trains and buses also supports climate targets. New roads, in contrast, often attract more traffic and soon become full again.\n\nOn the other hand, supporters of roads argue that they remain essential for goods and remote areas. Freight, rural communities and emergency services depend on good roads. A farmer who needs to deliver milk to the market, or an ambulance that has to reach a village, cannot rely on a train. In regions with few people, public transport is expensive and rarely used, whereas well-built roads give everyone access. Buses also need good roads to run on. Maintaining existing roads prevents accidents and costly damage to vehicles.\n\nIn conclusion, both views have merit. Overall, I believe that spending should depend on local needs, but in most cities public transport should receive priority, while rural areas need continued investment in roads.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho giao thông công cộng hay đường",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ không xây hết cùng lúc.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. GTCC",
+        "think": "Phục vụ nhiều người trên diện tích: tàu, buýt chở nhiều, ít ô nhiễm, giúp người không xe; ví dụ một tuyến metro chở bằng nhiều đường cao tốc; giảm tắc, ô nhiễm; người nghèo, trẻ, già; khí nhà kính; đường mới hút thêm xe.",
+        "refs": [
+          "ID-city-transport-vs-roads",
+          "ID-city-public-transport-lives"
+        ]
+      },
+      {
+        "step": "3. Đường",
+        "think": "Thiết yếu cho hàng hoá và vùng xa: vận tải, nông thôn, cấp cứu; ví dụ nông dân giao sữa, xe cấp cứu đến làng; vùng ít dân GTCC đắt ít dùng; buýt cũng cần đường tốt; bảo trì ngăn tai nạn.",
+        "refs": [
+          "ID-city-transport-vs-roads"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ nhu cầu địa phương; thành phố ưu tiên GTCC, nông thôn đường.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-transport-vs-roads"
+    ]
+  },
+  "chunks": [
+    [
+      "public spending on transport",
+      "chi tiêu công cho giao thông"
+    ],
+    [
+      "public transport or on roads",
+      "giao thông công cộng hay đường bộ"
+    ],
+    [
+      "serves more people per unit of space",
+      "phục vụ nhiều người hơn trên mỗi đơn vị diện tích"
+    ],
+    [
+      "carry many passengers with less pollution",
+      "chở nhiều hành khách với ít ô nhiễm hơn"
+    ],
+    [
+      "A single metro line",
+      "một tuyến tàu điện ngầm duy nhất"
+    ],
+    [
+      "move as many commuters as several motorways",
+      "chở số người đi làm bằng nhiều đường cao tốc"
+    ],
+    [
+      "takes cars off the streets",
+      "đưa xe hơi khỏi đường phố"
+    ],
+    [
+      "offer mobility to the poor, the young and the elderly",
+      "đem lại khả năng đi lại cho người nghèo, người trẻ và người già"
+    ],
+    [
+      "attract more traffic",
+      "thu hút thêm giao thông"
+    ],
+    [
+      "essential for goods and remote areas",
+      "thiết yếu cho hàng hoá và vùng xa"
+    ],
+    [
+      "Freight, rural communities and emergency services",
+      "vận tải hàng hoá, cộng đồng nông thôn và dịch vụ khẩn cấp"
+    ],
+    [
+      "deliver milk to the market",
+      "giao sữa ra chợ"
+    ],
+    [
+      "an ambulance that has to reach a village",
+      "xe cứu thương phải đến một ngôi làng"
+    ],
+    [
+      "expensive and rarely used",
+      "đắt đỏ và ít được dùng"
+    ],
+    [
+      "Maintaining existing roads",
+      "bảo trì các con đường hiện có"
+    ],
+    [
+      "costly damage to vehicles",
+      "hư hại tốn kém cho phương tiện"
+    ],
+    [
+      "local needs",
+      "nhu cầu địa phương"
+    ],
+    [
+      "receive priority",
+      "được ưu tiên"
+    ]
+  ]
+}

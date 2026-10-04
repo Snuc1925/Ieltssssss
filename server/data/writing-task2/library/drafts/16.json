@@ -1,0 +1,121 @@
+{
+  "questionId": 16,
+  "text": "More than half of the world's population now lives in cities, and this essay will discuss how urbanisation affects young people compared with older generations, focusing on opportunity and on isolation.\n\nTo begin with, urbanisation brings opportunity to the young. Young adults find jobs, universities and social life in cities. A graduate from a small town, for example, may move to the capital because it offers hundreds of employers, networks and cultural events that her home town cannot match. Cities also provide public transport, nightlife and diverse communities, which many young people enjoy. However, high rents force many to share flats or live far from work, and competition for jobs and housing creates pressure and debt. Insecure contracts and the cost of living mean that some young people struggle to become independent despite the opportunities around them.\n\nFor older generations, the effects are different. Older residents may lose community ties as neighbours move, struggle with crowds and traffic, and benefit mainly from hospitals and specialised services. A pensioner who lives alone on the fifteenth floor of a block, for example, may seldom meet anyone and find stairs and busy streets difficult. Those who move from the countryside to live near their children often feel isolated and miss familiar surroundings. At the same time, cities offer healthcare, shops within walking distance and cultural activities which are useful to older people. Urban planners should therefore provide affordable housing for the young and accessible services, green spaces and meeting places for the old.\n\nIn conclusion, urbanisation offers young people opportunity but also pressure, while for older people it brings services but also isolation, so cities must be planned for every age.",
+  "analysis": {
+    "type_vi": "Opinion: đô thị hoá ảnh hưởng người trẻ so với thế hệ cũ",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hơn nửa dân số ở thành phố; tập trung cơ hội và cô lập.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Người trẻ",
+        "think": "Cơ hội: việc làm, đại học, đời sống xã hội; ví dụ sinh viên thị trấn nhỏ lên thủ đô vì hàng trăm nhà tuyển dụng, sự kiện văn hoá; giao thông, cộng đồng đa dạng; nhưng thuê đắt, cạnh tranh, nợ, hợp đồng bấp bênh.",
+        "refs": [
+          "ID-city-urbanisation-generations",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Người già",
+        "think": "Mất quan hệ cộng đồng, chật chội, giao thông; ví dụ người hưu trí một mình tầng 15 ít gặp ai, cầu thang, phố đông khó; người chuyển từ nông thôn cô đơn; nhưng y tế, cửa hàng gần, văn hoá; quy hoạch: nhà giá phải chăng cho trẻ, dịch vụ dễ tiếp cận, không gian xanh cho già.",
+        "refs": [
+          "ID-city-urbanisation-generations",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Quy hoạch cho mọi lứa tuổi.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-urbanisation-generations"
+    ]
+  },
+  "chunks": [
+    [
+      "More than half of the world's population now lives in cities",
+      "hơn một nửa dân số thế giới hiện sống ở thành phố"
+    ],
+    [
+      "urbanisation affects young people",
+      "đô thị hoá ảnh hưởng đến người trẻ"
+    ],
+    [
+      "older generations",
+      "các thế hệ lớn tuổi hơn"
+    ],
+    [
+      "brings opportunity to the young",
+      "mang lại cơ hội cho người trẻ"
+    ],
+    [
+      "jobs, universities and social life",
+      "việc làm, đại học và đời sống xã hội"
+    ],
+    [
+      "hundreds of employers, networks and cultural events",
+      "hàng trăm nhà tuyển dụng, mạng lưới quan hệ và sự kiện văn hoá"
+    ],
+    [
+      "public transport, nightlife and diverse communities",
+      "giao thông công cộng, cuộc sống về đêm và cộng đồng đa dạng"
+    ],
+    [
+      "high rents force many to share flats",
+      "tiền thuê cao buộc nhiều người ở ghép"
+    ],
+    [
+      "pressure and debt",
+      "áp lực và nợ nần"
+    ],
+    [
+      "Insecure contracts",
+      "hợp đồng không ổn định"
+    ],
+    [
+      "become independent",
+      "trở nên độc lập"
+    ],
+    [
+      "lose community ties",
+      "mất mối liên kết cộng đồng"
+    ],
+    [
+      "struggle with crowds and traffic",
+      "chật vật với đám đông và giao thông"
+    ],
+    [
+      "lives alone on the fifteenth floor",
+      "sống một mình ở tầng mười lăm"
+    ],
+    [
+      "feel isolated",
+      "cảm thấy cô lập"
+    ],
+    [
+      "shops within walking distance",
+      "cửa hàng trong tầm đi bộ"
+    ],
+    [
+      "affordable housing for the young",
+      "nhà ở giá phải chăng cho người trẻ"
+    ],
+    [
+      "green spaces and meeting places",
+      "không gian xanh và nơi gặp gỡ"
+    ],
+    [
+      "planned for every age",
+      "được quy hoạch cho mọi lứa tuổi"
+    ]
+  ]
+}

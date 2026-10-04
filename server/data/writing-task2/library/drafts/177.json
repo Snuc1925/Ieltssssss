@@ -1,0 +1,125 @@
+{
+  "questionId": 177,
+  "text": "Some governments build and manage large numbers of homes for ordinary families, and this essay will discuss the benefits for a country that focuses on public housing, using examples from countries such as Singapore and Austria.\n\nTo begin with, public housing gives stability and lowers housing stress. Affordable state homes protect families from rent shocks, reduce homelessness and let workers live near jobs. In Singapore, for example, most residents live in government-built flats which they can buy at reasonable prices, so that home ownership is widespread and families feel secure. In Vienna, the city owns hundreds of thousands of apartments rented at moderate prices, and tenants rarely have to worry about sudden increases. When housing costs are under control, people can spend more on food, education and savings, which supports the whole economy. Governments also have more influence on the quality and location of homes, so that estates can be built close to public transport.\n\nFurthermore, public housing promotes social cohesion. Well-planned estates keep different income groups together, which reduces segregation and the concentration of poverty. In Singapore, rules on ethnic mix in each block help communities to mingle. Stable housing also improves children's education and health, since families do not need to move repeatedly. Employers benefit because workers can live near their jobs and are less likely to be absent. The main disadvantage is the cost to taxpayers and the risk of poor maintenance, but a country that manages the programme well gains stronger communities and a healthier economy.\n\nIn conclusion, a country that focuses on public housing gains stability, lower housing stress and mixed communities, and these benefits justify the public investment.",
+  "analysis": {
+    "type_vi": "A/D (benefits): lợi ích nhà ở công — ví dụ Singapore, Vienna",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ xây nhiều nhà cho dân thường; lợi ích kèm ví dụ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Ổn định, giảm áp lực nhà ở: bảo vệ gia đình khỏi tăng giá thuê, giảm vô gia cư; ví dụ Singapore căn hộ chính phủ giá hợp lý sở hữu rộng; Vienna thành phố sở hữu hàng trăm nghìn căn cho thuê vừa phải; tiêu dùng, tiết kiệm; chất lượng và vị trí gần giao thông công cộng.",
+        "refs": [
+          "ID-city-public-housing-benefits",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2",
+        "think": "Gắn kết xã hội: khu phối hợp nhóm thu nhập, giảm phân biệt, tập trung nghèo; quy tắc hỗn hợp sắc tộc ở Singapore; giáo dục, sức khoẻ trẻ; lao động gần việc; nhược: chi phí thuế, bảo trì.",
+        "refs": [
+          "ID-city-public-housing-benefits",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ổn định, giảm áp lực, cộng đồng hỗn hợp.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-public-housing-benefits"
+    ]
+  },
+  "chunks": [
+    [
+      "build and manage large numbers of homes for ordinary families",
+      "xây và quản lý số lượng lớn nhà cho các gia đình bình thường"
+    ],
+    [
+      "public housing",
+      "nhà ở công"
+    ],
+    [
+      "stability and lowers housing stress",
+      "sự ổn định và giảm áp lực về nhà ở"
+    ],
+    [
+      "protect families from rent shocks",
+      "bảo vệ các gia đình khỏi cú sốc giá thuê"
+    ],
+    [
+      "reduce homelessness",
+      "giảm vô gia cư"
+    ],
+    [
+      "live near jobs",
+      "sống gần nơi làm việc"
+    ],
+    [
+      "government-built flats",
+      "căn hộ do chính phủ xây"
+    ],
+    [
+      "home ownership is widespread",
+      "việc sở hữu nhà phổ biến"
+    ],
+    [
+      "hundreds of thousands of apartments rented at moderate prices",
+      "hàng trăm nghìn căn hộ cho thuê giá vừa phải"
+    ],
+    [
+      "sudden increases",
+      "những đợt tăng giá đột ngột"
+    ],
+    [
+      "more on food, education and savings",
+      "nhiều hơn cho thực phẩm, giáo dục và tiết kiệm"
+    ],
+    [
+      "the quality and location of homes",
+      "chất lượng và vị trí nhà ở"
+    ],
+    [
+      "close to public transport",
+      "gần giao thông công cộng"
+    ],
+    [
+      "promotes social cohesion",
+      "thúc đẩy sự gắn kết xã hội"
+    ],
+    [
+      "different income groups together",
+      "các nhóm thu nhập khác nhau cùng nhau"
+    ],
+    [
+      "segregation and the concentration of poverty",
+      "sự phân biệt và tập trung nghèo đói"
+    ],
+    [
+      "ethnic mix",
+      "sự pha trộn sắc tộc"
+    ],
+    [
+      "move repeatedly",
+      "chuyển nhà liên tục"
+    ],
+    [
+      "poor maintenance",
+      "bảo trì kém"
+    ],
+    [
+      "a healthier economy",
+      "nền kinh tế khoẻ mạnh hơn"
+    ]
+  ]
+}

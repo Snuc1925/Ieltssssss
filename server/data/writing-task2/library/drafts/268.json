@@ -1,0 +1,120 @@
+{
+  "questionId": 268,
+  "text": "In many countries, owning a home is regarded as a natural goal, and this essay will discuss the advantages and disadvantages of home ownership before explaining my own view.\n\nOn the positive side, owning a home gives security and an asset. Owners avoid rent rises and build wealth as mortgages are repaid. A family that buys a flat in their twenties, for example, may own it outright by retirement, which gives them a place to live and something to leave to their children. Owners cannot be forced to leave at a landlord's wish, and they can decorate, extend and repair their home as they like. Ownership also encourages people to look after their neighbourhood and to take part in local life, because they plan to stay for many years. In many countries, a house is a source of savings that can be used in old age.\n\nOn the negative side, home ownership brings debt and reduces mobility. Large loans, repair bills and the difficulty of moving for work are heavy burdens. A worker who has a mortgage on a house in a declining town, for example, may be unable to sell it and accept a better job elsewhere. Interest rates can rise suddenly and put families in trouble, and house prices can fall, leaving owners with debts higher than the value of their home. Maintenance, insurance and taxes add costs that tenants do not pay. Nevertheless, these risks can be reduced if buyers borrow only what they can afford and keep some savings.\n\nIn conclusion, home ownership offers security but also financial risk. On balance, I believe that it is worthwhile for people with stable jobs and savings, while renting remains a sensible choice for those who need flexibility.",
+  "analysis": {
+    "type_vi": "A/D: sở hữu nhà",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu sở hữu nhà là mục tiêu tự nhiên.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "An toàn và tài sản: tránh tăng giá thuê, xây tài sản khi trả vay; ví dụ gia đình mua căn hộ ở tuổi hai mươi sở hữu hoàn toàn khi hưu, để lại cho con; không bị buộc dọn; tự do sửa; chăm khu phố; nguồn tiết kiệm tuổi già.",
+        "refs": [
+          "ID-city-home-ownership"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Nợ và kém linh hoạt: khoản vay lớn, sửa chữa, khó chuyển việc; ví dụ công nhân có thế chấp ở thị trấn suy thoái không bán được để nhận việc tốt hơn; lãi suất tăng, giá giảm âm vốn; bảo trì, bảo hiểm, thuế; giảm rủi ro bằng vay vừa phải.",
+        "refs": [
+          "ID-city-home-ownership",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đáng với người có việc ổn định, tiết kiệm; thuê hợp người cần linh hoạt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-home-ownership"
+    ]
+  },
+  "chunks": [
+    [
+      "owning a home is regarded as a natural goal",
+      "sở hữu nhà được coi là mục tiêu tự nhiên"
+    ],
+    [
+      "home ownership",
+      "việc sở hữu nhà"
+    ],
+    [
+      "security and an asset",
+      "sự an toàn và một tài sản"
+    ],
+    [
+      "avoid rent rises",
+      "tránh việc tăng tiền thuê"
+    ],
+    [
+      "build wealth as mortgages are repaid",
+      "tích luỹ tài sản khi khoản vay thế chấp được trả"
+    ],
+    [
+      "buys a flat in their twenties",
+      "mua căn hộ ở độ tuổi hai mươi"
+    ],
+    [
+      "own it outright by retirement",
+      "sở hữu hoàn toàn khi nghỉ hưu"
+    ],
+    [
+      "leave to their children",
+      "để lại cho con cái"
+    ],
+    [
+      "forced to leave at a landlord's wish",
+      "bị buộc rời đi theo ý muốn của chủ nhà"
+    ],
+    [
+      "look after their neighbourhood",
+      "chăm sóc khu phố của mình"
+    ],
+    [
+      "a source of savings",
+      "nguồn tiết kiệm"
+    ],
+    [
+      "debt and reduces mobility",
+      "nợ nần và làm giảm tính linh hoạt di chuyển"
+    ],
+    [
+      "Large loans, repair bills",
+      "khoản vay lớn, hoá đơn sửa chữa"
+    ],
+    [
+      "a mortgage on a house in a declining town",
+      "khoản thế chấp cho ngôi nhà ở thị trấn đang suy tàn"
+    ],
+    [
+      "accept a better job elsewhere",
+      "nhận công việc tốt hơn ở nơi khác"
+    ],
+    [
+      "Interest rates can rise suddenly",
+      "lãi suất có thể tăng đột ngột"
+    ],
+    [
+      "debts higher than the value of their home",
+      "khoản nợ cao hơn giá trị căn nhà"
+    ],
+    [
+      "Maintenance, insurance and taxes",
+      "bảo trì, bảo hiểm và thuế"
+    ],
+    [
+      "borrow only what they can afford",
+      "chỉ vay những gì họ có khả năng trả"
+    ]
+  ]
+}

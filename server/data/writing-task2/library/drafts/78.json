@@ -1,0 +1,121 @@
+{
+  "questionId": 78,
+  "text": "Every year, many people leave their villages for big cities, while others do the reverse, and opinions differ on whether city life or countryside life is preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of city life argue that it offers opportunity and variety. Cities have jobs, universities and entertainment, and they provide excellent hospitals, shops and public transport. A young engineer, for example, will find many employers and professional contacts in a city, and she can attend concerts, exhibitions and sports events at weekends. Cities also bring together people of different cultures, which broadens the mind and makes life interesting. For people who value convenience, everything from food delivery to medical specialists is close at hand.\n\nOn the other hand, supporters of the countryside argue that it offers peace and community. Rural areas are quiet, affordable and close-knit but lack services and employment. A family that moves to a village, for example, may afford a house with a garden for the price of a small city flat, and children can play outdoors safely. Fresh air, open space and contact with nature improve health and reduce stress. Neighbours know and help each other, which builds a strong sense of belonging. However, the disadvantages include long journeys to hospitals and schools, limited choice of jobs and fewer cultural activities. Cities, in contrast, are expensive, noisy and polluted.\n\nIn conclusion, both views have merit. Overall, I believe that the choice depends on stage of life and priorities: city life suits young people who are building careers, while the countryside suits families and retired people who value tranquillity.",
+  "analysis": {
+    "type_vi": "Discuss both views: thành phố hay nông thôn",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu người rời làng lên phố và ngược lại.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Thành phố",
+        "think": "Cơ hội và đa dạng: việc, đại học, giải trí, bệnh viện, cửa hàng, giao thông; ví dụ kỹ sư trẻ có nhiều nhà tuyển dụng, hoà nhạc cuối tuần; đa văn hoá; tiện lợi.",
+        "refs": [
+          "ID-city-city-country"
+        ]
+      },
+      {
+        "step": "3. Nông thôn",
+        "think": "Yên bình và cộng đồng: yên tĩnh, rẻ, gắn bó; ví dụ gia đình chuyển về làng mua nhà có vườn giá căn hộ nhỏ, trẻ chơi ngoài trời; không khí, thiên nhiên; hàng xóm giúp nhau; nhược: xa bệnh viện, ít việc, ít văn hoá; thành phố đắt, ồn, ô nhiễm.",
+        "refs": [
+          "ID-city-city-country"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ giai đoạn đời.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-city-country"
+    ]
+  },
+  "chunks": [
+    [
+      "leave their villages for big cities",
+      "rời làng lên thành phố lớn"
+    ],
+    [
+      "city life or countryside life",
+      "cuộc sống thành thị hay nông thôn"
+    ],
+    [
+      "opportunity and variety",
+      "cơ hội và sự đa dạng"
+    ],
+    [
+      "jobs, universities and entertainment",
+      "việc làm, đại học và giải trí"
+    ],
+    [
+      "excellent hospitals, shops and public transport",
+      "bệnh viện, cửa hàng và giao thông công cộng tuyệt vời"
+    ],
+    [
+      "professional contacts",
+      "mối quan hệ nghề nghiệp"
+    ],
+    [
+      "concerts, exhibitions and sports events",
+      "hoà nhạc, triển lãm và sự kiện thể thao"
+    ],
+    [
+      "people of different cultures",
+      "những người thuộc nhiều nền văn hoá"
+    ],
+    [
+      "medical specialists",
+      "bác sĩ chuyên khoa"
+    ],
+    [
+      "close at hand",
+      "ở gần ngay bên"
+    ],
+    [
+      "peace and community",
+      "sự yên bình và cộng đồng"
+    ],
+    [
+      "quiet, affordable and close-knit",
+      "yên tĩnh, giá phải chăng và gắn bó"
+    ],
+    [
+      "lack services and employment",
+      "thiếu dịch vụ và việc làm"
+    ],
+    [
+      "a house with a garden",
+      "ngôi nhà có vườn"
+    ],
+    [
+      "play outdoors safely",
+      "chơi ngoài trời một cách an toàn"
+    ],
+    [
+      "Fresh air, open space and contact with nature",
+      "không khí trong lành, không gian mở và tiếp xúc thiên nhiên"
+    ],
+    [
+      "a strong sense of belonging",
+      "cảm giác gắn bó mạnh mẽ"
+    ],
+    [
+      "Cities, in contrast, are expensive, noisy and polluted",
+      "ngược lại, thành phố đắt đỏ, ồn ào và ô nhiễm"
+    ],
+    [
+      "stage of life and priorities",
+      "giai đoạn cuộc đời và các ưu tiên"
+    ]
+  ]
+}

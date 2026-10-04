@@ -1,0 +1,124 @@
+{
+  "questionId": 297,
+  "text": "Debates about wealth and fairness often focus on who owns land, factories and homes, and some argue that private ownership is the main reason for social problems. I agree only to a limited extent, since private ownership can widen inequality, but it is not the main cause of most social problems.\n\nTo begin with, private ownership can contribute to social problems. Concentrated ownership leaves some people without property or influence. A landlord who owns hundreds of flats, for example, can raise rents until tenants must leave, while a company owner may pay low wages to protect profit. Where a few families own most of the land or businesses, wealth passes from one generation to the next, and poor people find it hard to improve their position. Inequality in turn can lead to resentment, poor health and weaker trust within society. Owners may also neglect their social duties, for example by polluting rivers or ignoring safety rules to save money.\n\nHowever, private ownership also rewards effort and innovation, and problems such as crime or poverty arise mostly from poor education and a lack of opportunity. Countries in which citizens can own property and start businesses generally enjoy more growth and more jobs than those in which the state controls everything. Many social problems exist under every system, including those with little private property, because they depend on family background, schooling, employment and government policy. Fair taxes, strong labour and tenant protection, competition laws and support for those in need can reduce the harm caused by unequal ownership. Reform is therefore more sensible than abolition.\n\nIn conclusion, private ownership is one factor in social problems, but not the main one, so I agree only to a limited extent.",
+  "analysis": {
+    "type_vi": "Extent: sở hữu tư nhân là nguyên nhân chính của vấn đề xã hội — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu tranh luận về ai sở hữu đất, nhà máy; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Sở hữu tập trung gây bất bình đẳng: ví dụ chủ nhà hàng trăm căn tăng giá thuê, chủ công ty trả lương thấp; vài gia đình sở hữu hết đất, giàu truyền đời, người nghèo khó vươn lên; oán giận, sức khoẻ, niềm tin; chủ bỏ qua trách nhiệm xã hội.",
+        "refs": [
+          "ID-city-private-ownership",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Sở hữu tư thưởng nỗ lực, đổi mới; tội phạm, nghèo chủ yếu do giáo dục kém, thiếu cơ hội; nước cho sở hữu tăng trưởng hơn nhà nước kiểm soát; vấn đề xã hội tồn tại ở mọi chế độ; thuế công bằng, bảo vệ lao động, người thuê, luật cạnh tranh; cải cách hơn xoá bỏ.",
+        "refs": [
+          "ID-city-private-ownership",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Một yếu tố, không phải chính.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-private-ownership"
+    ]
+  },
+  "chunks": [
+    [
+      "who owns land, factories and homes",
+      "ai sở hữu đất, nhà máy và nhà ở"
+    ],
+    [
+      "private ownership is the main reason for social problems",
+      "sở hữu tư nhân là nguyên nhân chính của vấn đề xã hội"
+    ],
+    [
+      "widen inequality",
+      "làm rộng thêm bất bình đẳng"
+    ],
+    [
+      "Concentrated ownership",
+      "sự sở hữu tập trung"
+    ],
+    [
+      "without property or influence",
+      "không có tài sản hay ảnh hưởng"
+    ],
+    [
+      "owns hundreds of flats",
+      "sở hữu hàng trăm căn hộ"
+    ],
+    [
+      "raise rents until tenants must leave",
+      "tăng tiền thuê đến khi người thuê phải rời đi"
+    ],
+    [
+      "pay low wages to protect profit",
+      "trả lương thấp để bảo vệ lợi nhuận"
+    ],
+    [
+      "wealth passes from one generation to the next",
+      "của cải truyền từ thế hệ này sang thế hệ khác"
+    ],
+    [
+      "improve their position",
+      "cải thiện vị thế của họ"
+    ],
+    [
+      "resentment, poor health and weaker trust",
+      "sự oán giận, sức khoẻ kém và niềm tin yếu đi"
+    ],
+    [
+      "social duties",
+      "trách nhiệm xã hội"
+    ],
+    [
+      "polluting rivers",
+      "làm ô nhiễm sông ngòi"
+    ],
+    [
+      "rewards effort and innovation",
+      "thưởng cho nỗ lực và đổi mới"
+    ],
+    [
+      "poor education and a lack of opportunity",
+      "giáo dục kém và thiếu cơ hội"
+    ],
+    [
+      "start businesses",
+      "khởi nghiệp"
+    ],
+    [
+      "family background, schooling, employment and government policy",
+      "hoàn cảnh gia đình, giáo dục, việc làm và chính sách chính phủ"
+    ],
+    [
+      "Fair taxes, strong labour and tenant protection",
+      "thuế công bằng, bảo vệ mạnh người lao động và người thuê nhà"
+    ],
+    [
+      "competition laws",
+      "luật cạnh tranh"
+    ],
+    [
+      "Reform is more sensible than abolition",
+      "cải cách hợp lý hơn xoá bỏ"
+    ]
+  ]
+}

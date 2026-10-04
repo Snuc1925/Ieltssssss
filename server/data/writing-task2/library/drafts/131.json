@@ -1,0 +1,120 @@
+{
+  "questionId": 131,
+  "text": "Transport budgets are limited, and opinions differ on whether the government should concentrate its money on roads or on public transport. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of roads argue that they remain essential for goods and remote areas. Freight, rural communities and emergency services depend on good roads. A lorry driver who delivers vegetables to a city market, for example, needs wide, well-maintained roads, and no train can reach every village. In countries with scattered populations, public transport is costly and often empty, whereas a good road network gives everyone access to jobs, schools and hospitals. Roads are also needed for buses and taxis, and cars give people freedom to travel at any time. Poorly maintained roads cause accidents and damage vehicles, so repair is a wise use of money.\n\nOn the other hand, supporters of public transport argue that it serves more people per unit of space. Trains and buses carry many passengers with less pollution and help those without cars. A tram that carries two hundred passengers, for example, replaces dozens of cars and reduces congestion. Building new roads often encourages more traffic, so they fill again within a few years, whereas improved public transport gives people a real alternative. Cheap and frequent services also help the poor, the young and the elderly to reach work and education, and they reduce greenhouse gases.\n\nIn conclusion, both views have merit. Overall, I believe that spending should depend on local needs: public transport should come first in large cities, while rural regions need roads that are well maintained.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho đường hay GTCC (thứ tự đảo so với #71)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu ngân sách hạn chế.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Đường",
+        "think": "Thiết yếu cho hàng hoá, vùng xa: vận tải, nông thôn, cấp cứu; ví dụ tài xế xe tải giao rau chợ cần đường rộng, tàu không đến mọi làng; dân cư phân tán GTCC đắt, trống; đường cho buýt, taxi; tự do; bảo trì tránh tai nạn.",
+        "refs": [
+          "ID-city-transport-vs-roads"
+        ]
+      },
+      {
+        "step": "3. GTCC",
+        "think": "Phục vụ nhiều người: chở nhiều, ít ô nhiễm; ví dụ xe điện 200 hành khách thay hàng chục xe; đường mới hút xe; lựa chọn thực; giá rẻ giúp người nghèo, trẻ, già; giảm khí nhà kính.",
+        "refs": [
+          "ID-city-transport-vs-roads",
+          "ID-city-public-transport-lives"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tuỳ địa phương.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Transport budgets are limited",
+      "ngân sách giao thông có hạn"
+    ],
+    [
+      "concentrate its money on roads",
+      "tập trung tiền vào đường bộ"
+    ],
+    [
+      "delivers vegetables to a city market",
+      "giao rau đến chợ thành phố"
+    ],
+    [
+      "wide, well-maintained roads",
+      "đường rộng được bảo trì tốt"
+    ],
+    [
+      "reach every village",
+      "đến mọi ngôi làng"
+    ],
+    [
+      "scattered populations",
+      "dân cư phân tán"
+    ],
+    [
+      "costly and often empty",
+      "đắt đỏ và thường trống"
+    ],
+    [
+      "jobs, schools and hospitals",
+      "việc làm, trường học và bệnh viện"
+    ],
+    [
+      "freedom to travel at any time",
+      "tự do đi lại bất cứ lúc nào"
+    ],
+    [
+      "cause accidents and damage vehicles",
+      "gây tai nạn và làm hư hại xe cộ"
+    ],
+    [
+      "a wise use of money",
+      "cách dùng tiền khôn ngoan"
+    ],
+    [
+      "A tram that carries two hundred passengers",
+      "một xe điện chở hai trăm hành khách"
+    ],
+    [
+      "replaces dozens of cars",
+      "thay thế hàng chục chiếc xe hơi"
+    ],
+    [
+      "encourages more traffic",
+      "khuyến khích thêm giao thông"
+    ],
+    [
+      "fill again within a few years",
+      "đầy trở lại trong vài năm"
+    ],
+    [
+      "a real alternative",
+      "một lựa chọn thực sự"
+    ],
+    [
+      "Cheap and frequent services",
+      "dịch vụ rẻ và thường xuyên"
+    ],
+    [
+      "reduce greenhouse gases",
+      "giảm khí nhà kính"
+    ],
+    [
+      "public transport should come first in large cities",
+      "giao thông công cộng nên được ưu tiên ở các thành phố lớn"
+    ]
+  ]
+}

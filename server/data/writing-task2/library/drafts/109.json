@@ -1,0 +1,126 @@
+{
+  "questionId": 109,
+  "text": "In wealthy and poor countries alike, people sleep in doorways and parks, and this essay will discuss the causes of homelessness and suggest solutions, focusing on housing costs and on personal crises.\n\nTo begin with, homelessness results from high housing costs and personal crises. Rent increases, job loss, illness, addiction and family breakdown can leave people without shelter. A worker who loses his job, for example, may fall behind with the rent within months and be evicted, while a woman who flees an abusive partner may have nowhere to go. Shortages of cheap homes mean that low-income families spend most of their money on rent and have no savings for emergencies. Mental illness and drug addiction make it harder for people to keep a home, and young people who leave care or who are rejected by their families are particularly at risk. Once homeless, finding work without an address is extremely difficult.\n\nIn terms of solutions, governments need to provide housing and support. Affordable homes, mental health care and job training help people to recover. The most effective approach in several countries is housing first: offering a permanent home immediately, then providing counselling and training. A man who is given a flat and a support worker, for example, is much more likely to find work and stay housed. Authorities can also build more social housing, regulate rents, give temporary help to families who fall behind and provide early support to young people leaving care. Charities, businesses and local communities should work with governments. These measures cost money, but they are cheaper than the cost of emergency healthcare, policing and shelters.\n\nIn conclusion, homelessness comes from housing costs and personal crises, and it can be reduced by affordable housing combined with support.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: vô gia cư",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hình ảnh ngủ ở cửa, công viên; nguyên nhân và giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Giá nhà cao và khủng hoảng cá nhân: tăng giá thuê, mất việc, bệnh, nghiện, gia đình tan vỡ; ví dụ công nhân mất việc nợ tiền thuê bị đuổi, phụ nữ trốn bạn đời bạo hành không có chỗ; thiếu nhà rẻ; bệnh tâm thần, ma tuý; người trẻ rời trung tâm chăm sóc; không địa chỉ khó tìm việc.",
+        "refs": [
+          "ID-city-homelessness",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Nhà ở và hỗ trợ: nhà giá phải chăng, chăm sóc tâm thần, đào tạo nghề; housing first; ví dụ người được cấp căn hộ và nhân viên hỗ trợ dễ có việc; xây nhà xã hội, điều tiết giá thuê, hỗ trợ tạm thời, hỗ trợ sớm; từ thiện, doanh nghiệp, cộng đồng; rẻ hơn chi phí y tế khẩn, cảnh sát.",
+        "refs": [
+          "ID-city-homelessness",
+          "ID-city-housing-regulation",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm nhờ nhà giá phải chăng kèm hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-homelessness"
+    ]
+  },
+  "chunks": [
+    [
+      "sleep in doorways and parks",
+      "ngủ ở cửa ra vào và công viên"
+    ],
+    [
+      "causes of homelessness",
+      "nguyên nhân của tình trạng vô gia cư"
+    ],
+    [
+      "high housing costs and personal crises",
+      "chi phí nhà ở cao và khủng hoảng cá nhân"
+    ],
+    [
+      "Rent increases, job loss, illness, addiction and family breakdown",
+      "tăng tiền thuê, mất việc, bệnh tật, nghiện ngập và gia đình tan vỡ"
+    ],
+    [
+      "without shelter",
+      "không có chỗ ở"
+    ],
+    [
+      "fall behind with the rent",
+      "chậm tiền thuê nhà"
+    ],
+    [
+      "evicted",
+      "bị đuổi khỏi nhà"
+    ],
+    [
+      "flees an abusive partner",
+      "trốn khỏi người bạn đời bạo hành"
+    ],
+    [
+      "Shortages of cheap homes",
+      "thiếu hụt nhà giá rẻ"
+    ],
+    [
+      "no savings for emergencies",
+      "không có tiền tiết kiệm cho trường hợp khẩn cấp"
+    ],
+    [
+      "Mental illness and drug addiction",
+      "bệnh tâm thần và nghiện ma tuý"
+    ],
+    [
+      "leave care",
+      "rời cơ sở chăm sóc"
+    ],
+    [
+      "finding work without an address",
+      "tìm việc mà không có địa chỉ"
+    ],
+    [
+      "Affordable homes, mental health care and job training",
+      "nhà ở giá phải chăng, chăm sóc sức khoẻ tâm thần và đào tạo nghề"
+    ],
+    [
+      "housing first",
+      "ưu tiên nhà ở trước"
+    ],
+    [
+      "a permanent home immediately",
+      "một ngôi nhà ổn định ngay lập tức"
+    ],
+    [
+      "counselling and training",
+      "tư vấn và đào tạo"
+    ],
+    [
+      "a support worker",
+      "nhân viên hỗ trợ"
+    ],
+    [
+      "build more social housing",
+      "xây thêm nhà ở xã hội"
+    ],
+    [
+      "emergency healthcare, policing and shelters",
+      "chăm sóc y tế khẩn cấp, cảnh sát và nơi trú ẩn"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "questionId": 223,
+  "text": "In many neighbourhoods, a building with a hall, a few classrooms and a small sports room serves as a meeting point, and this essay will discuss the role of community centres in urban areas, focusing on social contact and on services for different groups.\n\nTo begin with, community centres bring neighbours together. They offer classes, sport, childcare and advice to people of all ages, reduce loneliness and help newcomers to integrate, although they need steady funding and good management. A woman who has just moved to a city, for example, can join a language class or a cooking club and meet people in her neighbourhood within a week. In large cities, where residents often do not know the people next door, these places create a sense of belonging and trust. Festivals, markets and local meetings held there strengthen community identity and give residents a chance to discuss local problems and to organise improvements.\n\nFurthermore, community centres provide services that cities otherwise lack. Children can do homework in a supervised room after school, teenagers can find a safe alternative to the street, and older people can attend lunch clubs, exercise groups and computer lessons. Migrants can get help with forms and language, and unemployed people can use computers and attend job-search workshops. Because activities are cheap or free, they are open to families on low incomes. However, centres need regular funding, qualified staff and volunteers, or they may close or be used by only a few groups. When they are well managed, they lower social isolation and build stronger communities.\n\nIn conclusion, community centres play an important role in urban areas by connecting people and providing services, and councils should support them.",
+  "analysis": {
+    "type_vi": "Opinion/Discuss: vai trò trung tâm cộng đồng ở đô thị",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài mô tả toà nhà hội trường, lớp học; hai ý: gắn kết xã hội; dịch vụ cho nhiều nhóm.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Kéo hàng xóm lại gần: lớp học, thể thao, giữ trẻ, tư vấn; giảm cô đơn, hoà nhập người mới; ví dụ phụ nữ mới chuyển đến tham gia lớp ngôn ngữ, câu lạc bộ nấu ăn gặp người trong tuần; lễ hội, chợ, họp địa phương.",
+        "refs": [
+          "ID-city-community-centres",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2",
+        "think": "Dịch vụ mà thành phố thiếu: trẻ làm bài, thanh thiếu niên nơi an toàn, người già câu lạc bộ ăn trưa, tập, máy tính; người nhập cư giúp biểu mẫu; người thất nghiệp workshop; phí rẻ; cần kinh phí, nhân viên.",
+        "refs": [
+          "ID-city-community-centres",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Vai trò quan trọng; hội đồng hỗ trợ.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-community-centres"
+    ]
+  },
+  "chunks": [
+    [
+      "a building with a hall, a few classrooms",
+      "toà nhà có hội trường, vài lớp học"
+    ],
+    [
+      "a meeting point",
+      "điểm gặp gỡ"
+    ],
+    [
+      "community centres",
+      "trung tâm cộng đồng"
+    ],
+    [
+      "social contact and services for different groups",
+      "tiếp xúc xã hội và dịch vụ cho các nhóm khác nhau"
+    ],
+    [
+      "bring neighbours together",
+      "kết nối hàng xóm với nhau"
+    ],
+    [
+      "classes, sport, childcare and advice",
+      "lớp học, thể thao, giữ trẻ và tư vấn"
+    ],
+    [
+      "reduce loneliness",
+      "giảm sự cô đơn"
+    ],
+    [
+      "help newcomers to integrate",
+      "giúp người mới đến hoà nhập"
+    ],
+    [
+      "join a language class or a cooking club",
+      "tham gia lớp ngôn ngữ hoặc câu lạc bộ nấu ăn"
+    ],
+    [
+      "a sense of belonging and trust",
+      "cảm giác gắn bó và niềm tin"
+    ],
+    [
+      "Festivals, markets and local meetings",
+      "lễ hội, chợ và các cuộc họp địa phương"
+    ],
+    [
+      "community identity",
+      "bản sắc cộng đồng"
+    ],
+    [
+      "supervised room after school",
+      "phòng có người giám sát sau giờ học"
+    ],
+    [
+      "a safe alternative to the street",
+      "một lựa chọn an toàn thay cho đường phố"
+    ],
+    [
+      "lunch clubs, exercise groups and computer lessons",
+      "câu lạc bộ ăn trưa, nhóm tập thể dục và lớp tin học"
+    ],
+    [
+      "help with forms and language",
+      "giúp đỡ về biểu mẫu và ngôn ngữ"
+    ],
+    [
+      "job-search workshops",
+      "hội thảo tìm việc"
+    ],
+    [
+      "open to families on low incomes",
+      "dành cho các gia đình thu nhập thấp"
+    ],
+    [
+      "qualified staff and volunteers",
+      "nhân viên có chuyên môn và tình nguyện viên"
+    ],
+    [
+      "lower social isolation",
+      "giảm sự cô lập xã hội"
+    ]
+  ]
+}

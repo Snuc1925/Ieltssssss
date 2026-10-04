@@ -1,0 +1,127 @@
+{
+  "questionId": 338,
+  "text": "In many cities, the cost and difficulty of travel decide who can take a job or visit a doctor, and this essay will discuss how public transport improvements can reduce social inequality, focusing on access to opportunity and on cost.\n\nTo begin with, better public transport reduces inequality by connecting poorer areas with jobs and services. People without cars are tied to the jobs, schools and clinics within walking distance, so cheap, reliable routes widen their choices and save the cost of owning a vehicle. A resident of a low-income suburb, for example, who can reach the business district in thirty minutes by tram, can apply for a far wider range of jobs than one who depends on a bus that runs twice an hour. Students gain access to better schools and universities, and patients can attend specialist hospitals. Studies show that people with good transport links are more likely to find work and to earn higher incomes.\n\nFurthermore, public transport lowers costs for poor households. Owning a car costs more than many families earn in a month, because of fuel, insurance and repairs, whereas a monthly pass is cheap. Reduced fares for students, the unemployed and the elderly make the system fairer, and integrated tickets avoid paying more for changing buses. Improvements also reach disabled people and women who may feel unsafe on poorly lit routes, if stations and vehicles are accessible and well monitored. However, improvements must reach the poorest districts, which are often served last, otherwise investment may only benefit wealthy areas. When planned fairly, better transport makes opportunity more equal.\n\nIn conclusion, public transport improvements can reduce social inequality by widening access to jobs and services and by cutting travel costs.",
+  "analysis": {
+    "type_vi": "Opinion: cải thiện GTCC giảm bất bình đẳng thế nào",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chi phí đi lại quyết định ai nhận việc, đi khám; hai ý: tiếp cận cơ hội; chi phí.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Ý 1",
+        "think": "Nối khu nghèo với việc làm, dịch vụ: người không xe bị trói buộc việc, trường, trạm trong tầm đi bộ; ví dụ cư dân ngoại ô nghèo đến khu kinh doanh 30 phút bằng tàu điện ứng tuyển nhiều việc hơn người phụ thuộc buýt hai chuyến mỗi giờ; học sinh trường tốt; bệnh viện chuyên khoa; nghiên cứu: dễ tìm việc, thu nhập cao.",
+        "refs": [
+          "ID-city-transport-inequality",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Ý 2 + điều kiện",
+        "think": "Giảm chi phí cho hộ nghèo: xe tốn hơn nhiều gia đình kiếm một tháng; vé tháng rẻ; giảm giá sinh viên, thất nghiệp, người già; vé tích hợp; người khuyết tật, phụ nữ; cải thiện phải đến khu nghèo nhất kẻo chỉ lợi vùng giàu.",
+        "refs": [
+          "ID-city-transport-inequality",
+          "ID-city-public-transport-lives",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm bất bình đẳng bằng mở rộng tiếp cận và cắt chi phí.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-transport-inequality"
+    ]
+  },
+  "chunks": [
+    [
+      "the cost and difficulty of travel",
+      "chi phí và khó khăn khi đi lại"
+    ],
+    [
+      "reduce social inequality",
+      "giảm bất bình đẳng xã hội"
+    ],
+    [
+      "access to opportunity and on cost",
+      "khả năng tiếp cận cơ hội và chi phí"
+    ],
+    [
+      "connecting poorer areas with jobs and services",
+      "nối các khu nghèo với việc làm và dịch vụ"
+    ],
+    [
+      "People without cars are tied to",
+      "người không có xe bị ràng buộc vào"
+    ],
+    [
+      "within walking distance",
+      "trong tầm đi bộ"
+    ],
+    [
+      "cheap, reliable routes",
+      "tuyến đường rẻ và đáng tin cậy"
+    ],
+    [
+      "widen their choices",
+      "mở rộng lựa chọn của họ"
+    ],
+    [
+      "a low-income suburb",
+      "khu ngoại ô thu nhập thấp"
+    ],
+    [
+      "the business district",
+      "khu trung tâm kinh doanh"
+    ],
+    [
+      "a far wider range of jobs",
+      "phạm vi việc làm rộng hơn nhiều"
+    ],
+    [
+      "better schools and universities",
+      "trường học và đại học tốt hơn"
+    ],
+    [
+      "specialist hospitals",
+      "bệnh viện chuyên khoa"
+    ],
+    [
+      "good transport links",
+      "kết nối giao thông tốt"
+    ],
+    [
+      "fuel, insurance and repairs",
+      "nhiên liệu, bảo hiểm và sửa chữa"
+    ],
+    [
+      "a monthly pass",
+      "vé tháng"
+    ],
+    [
+      "Reduced fares for students, the unemployed and the elderly",
+      "giá vé giảm cho sinh viên, người thất nghiệp và người cao tuổi"
+    ],
+    [
+      "integrated tickets",
+      "vé tích hợp"
+    ],
+    [
+      "poorly lit routes",
+      "tuyến đường thiếu ánh sáng"
+    ],
+    [
+      "make opportunity more equal",
+      "làm cơ hội bình đẳng hơn"
+    ]
+  ]
+}

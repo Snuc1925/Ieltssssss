@@ -1,0 +1,120 @@
+{
+  "questionId": 459,
+  "text": "Several governments have built large numbers of affordable homes, and this essay will discuss the benefits for a country that focuses on affordable housing programmes, using examples such as Finland and Singapore.\n\nTo begin with, affordable housing programmes protect families and the economy. Shelter is a basic need, and when homes are within reach of ordinary incomes, households can spend more on food, education and savings. In Finland, for example, a policy known as housing first offers permanent homes to homeless people, and it has reduced homelessness while saving money on emergency services. When workers can afford to live near their jobs, they spend less time commuting, and employers find it easier to recruit nurses, teachers and shop assistants. Stable housing also improves children's school results and family health, because families are not forced to move repeatedly. Affordable housing reduces debt and stress, which in turn supports the productivity of the whole country.\n\nFurthermore, affordable housing programmes promote social cohesion. Mixed estates, in which people of different incomes live together, reduce segregation and the concentration of poverty. Singapore has built flats for most of its population, with rules that mix ethnic groups in each block, and the result has been a high level of home ownership and social peace. Construction itself creates jobs, and well-planned estates near public transport reduce car use. The drawbacks are the cost to taxpayers and the risk that poor design could create run-down areas, but good management and regular maintenance avoid these problems. Countries that invest in affordable housing gain a more stable and fairer society.\n\nIn conclusion, a country that focuses on affordable housing programmes benefits through stronger families, a healthier economy and more cohesive communities.",
+  "analysis": {
+    "type_vi": "A/D (benefits): chương trình nhà ở giá phải chăng — Phần Lan, Singapore (cùng chủ đề #177, ví dụ khác)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu chính phủ xây nhiều nhà giá phải chăng; lợi ích kèm ví dụ.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-this-essay-will"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1",
+        "think": "Bảo vệ gia đình và kinh tế: nhà ở là nhu cầu cơ bản, hộ tiêu nhiều hơn cho ăn, học, tiết kiệm; ví dụ Phần Lan housing first cho người vô gia cư nhà lâu dài, giảm vô gia cư và tiết kiệm dịch vụ khẩn cấp; công nhân sống gần việc; nhà tuyển dụng tuyển y tá, giáo viên dễ; trẻ học tốt; giảm nợ, stress.",
+        "refs": [
+          "ID-city-public-housing-benefits",
+          "ID-city-homelessness",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2",
+        "think": "Gắn kết xã hội: khu hỗn hợp giảm phân biệt; ví dụ Singapore căn hộ cho đa số dân, trộn sắc tộc từng khối, sở hữu cao, hoà bình; xây dựng tạo việc; khu gần GTCC giảm xe; nhược: chi phí thuế, thiết kế kém.",
+        "refs": [
+          "ID-city-public-housing-benefits",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Gia đình, kinh tế, cộng đồng gắn kết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "built large numbers of affordable homes",
+      "xây số lượng lớn nhà ở giá phải chăng"
+    ],
+    [
+      "affordable housing programmes",
+      "các chương trình nhà ở giá phải chăng"
+    ],
+    [
+      "protect families and the economy",
+      "bảo vệ các gia đình và nền kinh tế"
+    ],
+    [
+      "Shelter is a basic need",
+      "chỗ ở là nhu cầu cơ bản"
+    ],
+    [
+      "within reach of ordinary incomes",
+      "trong tầm với của thu nhập bình thường"
+    ],
+    [
+      "housing first",
+      "ưu tiên nhà ở trước"
+    ],
+    [
+      "offers permanent homes to homeless people",
+      "cung cấp nhà ở lâu dài cho người vô gia cư"
+    ],
+    [
+      "saving money on emergency services",
+      "tiết kiệm tiền cho dịch vụ khẩn cấp"
+    ],
+    [
+      "live near their jobs",
+      "sống gần nơi làm việc"
+    ],
+    [
+      "recruit nurses, teachers and shop assistants",
+      "tuyển y tá, giáo viên và nhân viên bán hàng"
+    ],
+    [
+      "children's school results and family health",
+      "kết quả học tập của trẻ và sức khoẻ gia đình"
+    ],
+    [
+      "reduces debt and stress",
+      "giảm nợ và căng thẳng"
+    ],
+    [
+      "promote social cohesion",
+      "thúc đẩy sự gắn kết xã hội"
+    ],
+    [
+      "Mixed estates",
+      "khu nhà hỗn hợp"
+    ],
+    [
+      "segregation and the concentration of poverty",
+      "sự phân tách và sự tập trung nghèo đói"
+    ],
+    [
+      "mix ethnic groups in each block",
+      "trộn các nhóm sắc tộc trong mỗi khối nhà"
+    ],
+    [
+      "a high level of home ownership and social peace",
+      "tỷ lệ sở hữu nhà cao và hoà bình xã hội"
+    ],
+    [
+      "run-down areas",
+      "các khu xuống cấp"
+    ],
+    [
+      "a more stable and fairer society",
+      "xã hội ổn định và công bằng hơn"
+    ]
+  ]
+}

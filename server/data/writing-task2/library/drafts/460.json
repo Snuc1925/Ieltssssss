@@ -1,0 +1,127 @@
+{
+  "questionId": 460,
+  "text": "Every morning, millions of commuters must choose between riding a bicycle and driving or riding a motorised vehicle, and opinions differ on which is preferable. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of cycling argue that it is cheap, healthy and clean. Cyclists keep fit and avoid traffic jams in compact cities. A worker who cycles ten minutes along a protected lane, for example, arrives refreshed and does not need to search for parking, while a driver may spend half an hour in a queue. Bicycles cost little to buy and nothing to fuel, and they produce no pollution or noise. Regular exercise reduces the risk of heart disease and improves mood, which also lowers health costs for society. In cities that offer good cycle lanes, such as Amsterdam, a large proportion of residents ride every day.\n\nOn the other hand, supporters of motor vehicles argue that they offer speed and comfort over longer distances. Cars and motorbikes are comfortable but costly and polluting, and weather, danger and distance limit cyclists. A person who lives thirty kilometres from the office, for example, cannot realistically cycle every day, and rain, heat or snow make riding unpleasant. Motor vehicles can carry luggage, children and tools, and they offer privacy and protection. In cities with poor cycling infrastructure, riders face real danger from traffic. However, congestion, parking costs and pollution reduce the advantages of cars.\n\nIn conclusion, both views have merit. Overall, I believe that bicycles are the better choice for short urban journeys when safe lanes are provided, whereas motor vehicles remain necessary for long distances and heavy loads.",
+  "analysis": {
+    "type_vi": "Discuss both views: xe đạp hay xe có động cơ đi làm",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu lựa chọn mỗi sáng của hàng triệu người.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Xe đạp",
+        "think": "Rẻ, khoẻ, sạch: giữ dáng, tránh tắc; ví dụ người đạp 10 phút trên làn bảo vệ đến nơi tỉnh táo, không tìm chỗ đỗ, khi tài xế 30 phút xếp hàng; không nhiên liệu, ô nhiễm, ồn; tập thể dục giảm bệnh tim, cải thiện tâm trạng; Amsterdam.",
+        "refs": [
+          "ID-city-bicycle-commute",
+          "ID-city-cyclist-safety"
+        ]
+      },
+      {
+        "step": "3. Xe có động cơ",
+        "think": "Nhanh và thoải mái ở quãng xa: thoải mái nhưng đắt, ô nhiễm; thời tiết, nguy hiểm, quãng đường hạn chế xe đạp; ví dụ người sống cách văn phòng 30 km không đạp hằng ngày; mưa, nóng, tuyết; chở hành lý, trẻ, dụng cụ; riêng tư; hạ tầng xe đạp kém nguy hiểm; nhưng tắc, đỗ, ô nhiễm làm giảm lợi thế.",
+        "refs": [
+          "ID-city-bicycle-commute",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Xe đạp tốt cho chặng ngắn có làn an toàn; xe cơ giới cho đường dài, hàng nặng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-bicycle-commute"
+    ]
+  },
+  "chunks": [
+    [
+      "riding a bicycle and driving or riding a motorised vehicle",
+      "đi xe đạp và lái hay đi xe có động cơ"
+    ],
+    [
+      "commute by bicycle",
+      "đi làm bằng xe đạp"
+    ],
+    [
+      "cheap, healthy and clean",
+      "rẻ, tốt cho sức khoẻ và sạch"
+    ],
+    [
+      "keep fit and avoid traffic jams",
+      "giữ dáng và tránh tắc đường"
+    ],
+    [
+      "a protected lane",
+      "làn đường được bảo vệ"
+    ],
+    [
+      "arrives refreshed",
+      "đến nơi trong trạng thái sảng khoái"
+    ],
+    [
+      "search for parking",
+      "tìm chỗ đỗ xe"
+    ],
+    [
+      "half an hour in a queue",
+      "nửa giờ xếp hàng"
+    ],
+    [
+      "nothing to fuel",
+      "không tốn tiền nhiên liệu"
+    ],
+    [
+      "no pollution or noise",
+      "không ô nhiễm hay tiếng ồn"
+    ],
+    [
+      "heart disease and improves mood",
+      "bệnh tim và cải thiện tâm trạng"
+    ],
+    [
+      "good cycle lanes",
+      "làn xe đạp tốt"
+    ],
+    [
+      "speed and comfort over longer distances",
+      "tốc độ và sự thoải mái ở quãng đường dài hơn"
+    ],
+    [
+      "comfortable but costly and polluting",
+      "thoải mái nhưng đắt đỏ và gây ô nhiễm"
+    ],
+    [
+      "weather, danger and distance",
+      "thời tiết, nguy hiểm và khoảng cách"
+    ],
+    [
+      "thirty kilometres from the office",
+      "cách văn phòng ba mươi km"
+    ],
+    [
+      "rain, heat or snow",
+      "mưa, nóng hoặc tuyết"
+    ],
+    [
+      "carry luggage, children and tools",
+      "chở hành lý, trẻ em và dụng cụ"
+    ],
+    [
+      "poor cycling infrastructure",
+      "hạ tầng xe đạp kém"
+    ],
+    [
+      "congestion, parking costs and pollution",
+      "tắc nghẽn, chi phí đỗ xe và ô nhiễm"
+    ]
+  ]
+}

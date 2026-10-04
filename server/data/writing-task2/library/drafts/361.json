@@ -1,0 +1,125 @@
+{
+  "questionId": 361,
+  "text": "Run-down districts are being cleared and rebuilt in many cities, and the question is whether the advantages of urban renewal projects outweigh the displacement they cause. This essay will discuss both sides before explaining my own view.\n\nOn the positive side, urban renewal improves neighbourhoods. New buildings, services and investment raise safety and property values. A former industrial district that is replaced by modern flats, parks and shops, for example, becomes attractive to businesses and residents, and it provides construction and permanent jobs. Old, unsafe housing without proper sanitation is replaced by healthy homes, and better lighting and design reduce crime. Renewal can also connect neglected areas to the rest of the city through new roads, tram lines and public squares, and it increases the tax revenue that pays for local services.\n\nOn the negative side, rising rents and evictions push out low-income residents and destroy community ties. A family that has lived in a district for thirty years, for example, may be unable to afford the new flats and must move to the outskirts, far from friends, schools and work. Small shops and traditional crafts disappear when the buildings are demolished. Some projects benefit developers and wealthy buyers more than the original residents. Nevertheless, the harm can be reduced if governments guarantee fair compensation, provide new homes in the same district, keep a share of the flats at affordable rents and consult local people from the beginning.\n\nIn conclusion, urban renewal brings real benefits to neighbourhoods and cities. On balance, I believe that the advantages outweigh the displacement only when residents are protected by compensation and the right to return.",
+  "analysis": {
+    "type_vi": "A/D: cải tạo đô thị vs di dời",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu khu xuống cấp bị giải toả, xây lại; hỏi ưu có vượt di dời.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Cải thiện khu phố: nhà mới, dịch vụ, đầu tư, an toàn, giá trị; ví dụ khu công nghiệp cũ thành nhà hiện đại, công viên, cửa hàng hấp dẫn doanh nghiệp, việc làm; nhà không vệ sinh thay lành mạnh; ánh sáng, thiết kế giảm tội phạm; đường, tàu điện nối; thuế.",
+        "refs": [
+          "ID-city-urban-renewal"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Tiền thuê tăng, đuổi, mất cộng đồng; ví dụ gia đình 30 năm không mua nổi căn mới phải ra ngoại ô xa bạn, trường, việc; cửa hàng nhỏ, nghề truyền thống mất; dự án lợi chủ đầu tư hơn dân; giảm hại: bồi thường, nhà mới cùng khu, tỷ lệ giá thuê hợp lý, tham vấn.",
+        "refs": [
+          "ID-city-urban-renewal",
+          "ID-city-housing-regulation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu vượt di dời nếu dân được bảo vệ bồi thường, quyền trở lại.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-urban-renewal"
+    ]
+  },
+  "chunks": [
+    [
+      "Run-down districts are being cleared and rebuilt",
+      "các khu xuống cấp đang được giải toả và xây lại"
+    ],
+    [
+      "urban renewal projects",
+      "dự án cải tạo đô thị"
+    ],
+    [
+      "the displacement they cause",
+      "sự di dời mà chúng gây ra"
+    ],
+    [
+      "New buildings, services and investment raise safety and property values",
+      "toà nhà mới, dịch vụ và đầu tư nâng cao an toàn và giá trị tài sản"
+    ],
+    [
+      "a former industrial district",
+      "một khu công nghiệp cũ"
+    ],
+    [
+      "modern flats, parks and shops",
+      "căn hộ hiện đại, công viên và cửa hàng"
+    ],
+    [
+      "construction and permanent jobs",
+      "việc làm xây dựng và việc làm lâu dài"
+    ],
+    [
+      "Old, unsafe housing without proper sanitation",
+      "nhà ở cũ, không an toàn và thiếu vệ sinh đúng mức"
+    ],
+    [
+      "better lighting and design reduce crime",
+      "ánh sáng và thiết kế tốt hơn giảm tội phạm"
+    ],
+    [
+      "neglected areas",
+      "các khu bị bỏ rơi"
+    ],
+    [
+      "public squares",
+      "quảng trường công cộng"
+    ],
+    [
+      "rising rents and evictions",
+      "tiền thuê tăng và việc đuổi nhà"
+    ],
+    [
+      "destroy community ties",
+      "phá huỷ mối liên kết cộng đồng"
+    ],
+    [
+      "lived in a district for thirty years",
+      "sống ở một khu ba mươi năm"
+    ],
+    [
+      "the outskirts",
+      "vùng ngoại ô"
+    ],
+    [
+      "Small shops and traditional crafts",
+      "cửa hàng nhỏ và nghề thủ công truyền thống"
+    ],
+    [
+      "fair compensation",
+      "bồi thường công bằng"
+    ],
+    [
+      "affordable rents",
+      "giá thuê phải chăng"
+    ],
+    [
+      "consult local people",
+      "tham vấn người dân địa phương"
+    ],
+    [
+      "the right to return",
+      "quyền được quay lại"
+    ]
+  ]
+}

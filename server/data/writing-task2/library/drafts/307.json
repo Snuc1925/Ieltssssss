@@ -1,0 +1,119 @@
+{
+  "questionId": 307,
+  "text": "The balance between cities and villages is changing in every continent, and opinions differ on whether urban or rural life is better. This essay will consider both views before explaining my own opinion.\n\nOn the one hand, supporters of urban life argue that it provides opportunity and services. Cities have jobs, universities and entertainment, and they provide excellent hospitals, shops and public transport. A nurse who lives in a city, for example, can choose among several hospitals, study for a degree in the evening and reach any part of the city by metro. Cultural life is rich, with theatres, museums and restaurants offering something for every taste. People of different backgrounds meet, which encourages open-mindedness, and anyone with ambition can find a niche. For many young adults, the energy of a city is a major attraction.\n\nOn the other hand, supporters of rural life argue that it offers peace, health and community. The countryside is quiet, affordable and close-knit but lacks services and employment. A retired couple in a village, for example, can buy a spacious house with a garden for much less than a small city flat and enjoy clean air and open views. Contact with nature reduces stress, and neighbours generally know and support each other. The pace of life is slower, with less traffic and noise, and children grow up in safer surroundings. On the other hand, long journeys to hospitals and few cultural events can be frustrating, and young people find limited career choices.\n\nIn conclusion, both views have merit. Overall, I believe that urban life is better for people at the start of their careers, whereas rural life suits families and older people, and modern technology makes both choices more flexible.",
+  "analysis": {
+    "type_vi": "Discuss both views: đô thị hay nông thôn (cùng chủ đề #78, góc diễn đạt khác)",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu cán cân thành thị – nông thôn thay đổi.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Đô thị",
+        "think": "Cơ hội và dịch vụ: việc, đại học, giải trí, bệnh viện, GTCC; ví dụ y tá thành phố chọn bệnh viện, học buổi tối, đi metro; văn hoá phong phú; gặp nhiều người, cởi mở; người trẻ yêu năng lượng.",
+        "refs": [
+          "ID-city-city-country"
+        ]
+      },
+      {
+        "step": "3. Nông thôn",
+        "think": "Yên bình, sức khoẻ, cộng đồng: rẻ, gắn bó nhưng thiếu dịch vụ; ví dụ cặp hưu mua nhà rộng có vườn rẻ hơn căn hộ nhỏ, không khí sạch; thiên nhiên giảm stress; hàng xóm; nhịp chậm; trẻ an toàn; nhược: xa bệnh viện, ít văn hoá, ít nghề.",
+        "refs": [
+          "ID-city-city-country"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đô thị khởi đầu nghề; nông thôn cho gia đình, người già; công nghệ linh hoạt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "The balance between cities and villages",
+      "cán cân giữa thành phố và làng quê"
+    ],
+    [
+      "urban or rural life",
+      "cuộc sống đô thị hay nông thôn"
+    ],
+    [
+      "opportunity and services",
+      "cơ hội và dịch vụ"
+    ],
+    [
+      "choose among several hospitals",
+      "chọn giữa nhiều bệnh viện"
+    ],
+    [
+      "study for a degree in the evening",
+      "học lấy bằng vào buổi tối"
+    ],
+    [
+      "reach any part of the city by metro",
+      "đến bất kỳ nơi nào trong thành phố bằng tàu điện ngầm"
+    ],
+    [
+      "theatres, museums and restaurants",
+      "nhà hát, bảo tàng và nhà hàng"
+    ],
+    [
+      "something for every taste",
+      "có thứ phù hợp mọi sở thích"
+    ],
+    [
+      "encourages open-mindedness",
+      "khuyến khích sự cởi mở"
+    ],
+    [
+      "find a niche",
+      "tìm được chỗ đứng"
+    ],
+    [
+      "the energy of a city",
+      "nguồn năng lượng của thành phố"
+    ],
+    [
+      "peace, health and community",
+      "sự yên bình, sức khoẻ và cộng đồng"
+    ],
+    [
+      "a retired couple in a village",
+      "một cặp vợ chồng đã nghỉ hưu ở làng"
+    ],
+    [
+      "a spacious house with a garden",
+      "ngôi nhà rộng có vườn"
+    ],
+    [
+      "clean air and open views",
+      "không khí trong lành và tầm nhìn thoáng đãng"
+    ],
+    [
+      "Contact with nature reduces stress",
+      "tiếp xúc với thiên nhiên làm giảm căng thẳng"
+    ],
+    [
+      "The pace of life is slower",
+      "nhịp sống chậm hơn"
+    ],
+    [
+      "safer surroundings",
+      "môi trường an toàn hơn"
+    ],
+    [
+      "limited career choices",
+      "lựa chọn nghề nghiệp hạn chế"
+    ]
+  ]
+}

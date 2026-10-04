@@ -1,0 +1,125 @@
+{
+  "questionId": 497,
+  "text": "Millions of people rely on buses, trains and trams every day, and this essay will discuss the advantages and disadvantages of public transport before explaining my own view.\n\nOn the positive side, public transport is cheap and clean. Shared vehicles cut costs, congestion and emissions. A commuter who takes the metro, for example, avoids fuel, parking charges and traffic jams, and can read or relax on the way to work. One full train can replace hundreds of cars, which lowers air pollution and the number of accidents. Public transport also gives mobility to people who cannot drive, such as the young, the elderly and those with low incomes or disabilities, and it reduces the need for road space. Cities with good systems are also generally quieter and easier to live in.\n\nOn the negative side, public transport is less flexible than a car. Fixed routes, crowding, delays and limited late services make it inconvenient. A shift worker who finishes at midnight, for example, may find that the last bus has gone, and a parent with heavy shopping and small children may struggle on a crowded tram. Strikes and breakdowns can disrupt journeys, and in some places, passengers feel unsafe at night. Journeys that need several changes can take much longer than the same trip by car, and rural areas are poorly served. Nevertheless, frequent, safe and clean services overcome most of these problems, as the best systems in Europe and Asia show.\n\nIn conclusion, public transport has important advantages for cost, environment and equality. On balance, I believe that these outweigh the disadvantages, provided that governments invest in frequency, safety and coverage.",
+  "analysis": {
+    "type_vi": "A/D: giao thông công cộng",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu hàng triệu người dùng mỗi ngày.",
+        "refs": [
+          "FR-struct-advdis",
+          "FR-on-balance"
+        ]
+      },
+      {
+        "step": "2. Ưu",
+        "think": "Rẻ và sạch: chung phương tiện giảm chi phí, tắc, khí thải; ví dụ người đi metro tránh xăng, phí đỗ, tắc, đọc hay nghỉ; một chuyến tàu thay hàng trăm xe, giảm ô nhiễm, tai nạn; người không lái, người trẻ, già, thu nhập thấp, khuyết tật; ít chỗ đường; thành phố yên tĩnh.",
+        "refs": [
+          "ID-city-public-transport-ad",
+          "ID-city-public-transport-lives"
+        ]
+      },
+      {
+        "step": "3. Nhược",
+        "think": "Kém linh hoạt: tuyến cố định, đông, trễ, ít chuyến muộn; ví dụ người làm ca nửa đêm hết xe buýt cuối, phụ huynh mang đồ nặng, con nhỏ chen xe điện; đình công, hỏng; không an toàn ban đêm; đổi nhiều lần chậm hơn xe; nông thôn kém; dịch vụ thường xuyên, an toàn, sạch khắc phục.",
+        "refs": [
+          "ID-city-public-transport-ad",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ưu hơn nhược nếu đầu tư tần suất, an toàn, phủ sóng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-public-transport-ad"
+    ]
+  },
+  "chunks": [
+    [
+      "rely on buses, trains and trams every day",
+      "phụ thuộc vào xe buýt, tàu hoả và xe điện mỗi ngày"
+    ],
+    [
+      "advantages and disadvantages of public transport",
+      "ưu điểm và nhược điểm của giao thông công cộng"
+    ],
+    [
+      "cheap and clean",
+      "rẻ và sạch"
+    ],
+    [
+      "Shared vehicles cut costs, congestion and emissions",
+      "phương tiện dùng chung giảm chi phí, tắc nghẽn và khí thải"
+    ],
+    [
+      "takes the metro",
+      "đi tàu điện ngầm"
+    ],
+    [
+      "fuel, parking charges and traffic jams",
+      "nhiên liệu, phí đỗ xe và tắc đường"
+    ],
+    [
+      "read or relax on the way to work",
+      "đọc sách hoặc thư giãn trên đường đi làm"
+    ],
+    [
+      "replace hundreds of cars",
+      "thay thế hàng trăm chiếc xe hơi"
+    ],
+    [
+      "people who cannot drive",
+      "những người không thể lái xe"
+    ],
+    [
+      "road space",
+      "không gian đường"
+    ],
+    [
+      "quieter and easier to live in",
+      "yên tĩnh hơn và dễ sống hơn"
+    ],
+    [
+      "less flexible than a car",
+      "kém linh hoạt hơn xe hơi"
+    ],
+    [
+      "Fixed routes, crowding, delays and limited late services",
+      "tuyến cố định, đông đúc, chậm trễ và ít chuyến muộn"
+    ],
+    [
+      "the last bus has gone",
+      "chuyến xe buýt cuối đã đi"
+    ],
+    [
+      "heavy shopping and small children",
+      "đồ mua sắm nặng và trẻ nhỏ"
+    ],
+    [
+      "Strikes and breakdowns",
+      "đình công và sự cố hỏng hóc"
+    ],
+    [
+      "feel unsafe at night",
+      "cảm thấy không an toàn vào ban đêm"
+    ],
+    [
+      "several changes",
+      "nhiều lần đổi chuyến"
+    ],
+    [
+      "rural areas are poorly served",
+      "vùng nông thôn được phục vụ kém"
+    ],
+    [
+      "frequency, safety and coverage",
+      "tần suất, an toàn và phạm vi phủ sóng"
+    ]
+  ]
+}

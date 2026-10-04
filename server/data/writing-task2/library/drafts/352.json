@@ -1,0 +1,120 @@
+{
+  "questionId": 352,
+  "text": "Planning rules decide where homes, shops and factories may be built, and some argue that stricter zoning laws improve city livability. I agree to a limited extent, since strict zoning protects residential quality but can raise housing costs.\n\nTo begin with, zoning can make cities more pleasant. Separating factories from homes, protecting parks and limiting building height make neighbourhoods pleasant. A family whose street is separated from a noisy industrial area, for example, enjoys cleaner air and quieter nights. Zoning also keeps green space from being built over, secures room for schools and clinics, and ensures that new buildings fit with the character of an area. In historic centres, strict rules protect heritage and attract tourism. Without such laws, developers might build tall blocks beside small houses or put polluting factories next to schools, and the public would pay the price in health and quality of life.\n\nHowever, tight limits restrict new homes and push prices up. Rules that allow only detached houses in large areas, or that set high minimum sizes for plots, prevent the construction of flats and make housing unaffordable for young people and workers. Strict separation of uses also forces residents to travel by car to shops and offices, which increases traffic and pollution. Some cities therefore allow mixed-use development, in which homes, shops and small businesses stand together, and permit taller buildings near stations. Flexible, well-designed zoning works best: it should protect the environment and safety while leaving room for growth and diversity.\n\nIn conclusion, stricter zoning laws improve livability to a limited extent, so planners should seek balance and not simply impose more restrictions.",
+  "analysis": {
+    "type_vi": "Extent: quy hoạch phân vùng chặt cải thiện đô thị — agree hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu quy định quyết định xây gì ở đâu; agree hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Phần đúng",
+        "think": "Làm thành phố dễ chịu: tách nhà máy khỏi nhà, bảo vệ công viên, giới hạn chiều cao; ví dụ gia đình có phố cách khu công nghiệp ồn thở sạch, đêm yên; giữ không gian xanh, chỗ cho trường, trạm y tế; trung tâm lịch sử bảo vệ di sản thu hút du lịch; thiếu luật nhà máy gần trường.",
+        "refs": [
+          "ID-city-zoning",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Giới hạn chặt hạn chế nhà mới, đẩy giá: chỉ cho nhà riêng, lô đất lớn ngăn căn hộ; tách chức năng buộc dùng xe, tắc, ô nhiễm; đa chức năng, cao tầng gần ga; linh hoạt, thiết kế tốt.",
+        "refs": [
+          "ID-city-zoning",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện hạn chế; cần cân bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-zoning"
+    ]
+  },
+  "chunks": [
+    [
+      "Planning rules decide where homes, shops and factories may be built",
+      "quy tắc quy hoạch quyết định nơi nhà ở, cửa hàng và nhà máy được xây"
+    ],
+    [
+      "stricter zoning laws",
+      "luật phân vùng nghiêm ngặt hơn"
+    ],
+    [
+      "improve city livability",
+      "cải thiện khả năng sống của thành phố"
+    ],
+    [
+      "Separating factories from homes",
+      "tách nhà máy khỏi khu nhà ở"
+    ],
+    [
+      "protecting parks and limiting building height",
+      "bảo vệ công viên và giới hạn chiều cao toà nhà"
+    ],
+    [
+      "a noisy industrial area",
+      "khu công nghiệp ồn ào"
+    ],
+    [
+      "cleaner air and quieter nights",
+      "không khí sạch hơn và đêm yên tĩnh hơn"
+    ],
+    [
+      "built over",
+      "bị xây lấp lên"
+    ],
+    [
+      "room for schools and clinics",
+      "chỗ cho trường học và trạm y tế"
+    ],
+    [
+      "the character of an area",
+      "đặc trưng của một khu vực"
+    ],
+    [
+      "protect heritage and attract tourism",
+      "bảo vệ di sản và thu hút du lịch"
+    ],
+    [
+      "polluting factories next to schools",
+      "nhà máy gây ô nhiễm cạnh trường học"
+    ],
+    [
+      "tight limits restrict new homes and push prices up",
+      "hạn chế chặt chẽ làm hạn chế nhà mới và đẩy giá lên"
+    ],
+    [
+      "detached houses in large areas",
+      "nhà riêng biệt ở các khu rộng lớn"
+    ],
+    [
+      "minimum sizes for plots",
+      "kích thước tối thiểu của lô đất"
+    ],
+    [
+      "unaffordable for young people and workers",
+      "vượt quá khả năng chi trả của người trẻ và người lao động"
+    ],
+    [
+      "mixed-use development",
+      "phát triển đa chức năng"
+    ],
+    [
+      "taller buildings near stations",
+      "toà nhà cao hơn gần nhà ga"
+    ],
+    [
+      "Flexible, well-designed zoning",
+      "phân vùng linh hoạt và thiết kế tốt"
+    ]
+  ]
+}

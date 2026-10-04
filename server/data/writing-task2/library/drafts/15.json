@@ -1,0 +1,121 @@
+{
+  "questionId": 15,
+  "text": "Rents and house prices have risen sharply in many cities, and some believe that public housing should be regulated by law. I agree to a large extent, since regulation ensures quality and fair allocation, although it must be balanced.\n\nTo begin with, public housing should be regulated by law to ensure quality and fair allocation. Clear rules on standards, rents and eligibility protect tenants and prevent favouritism. A family that waits for years on a list, for example, would be treated unfairly if officials could give flats to friends or to people who pay bribes. Laws can require safe construction, adequate space, heating and repairs, so that residents do not live in unhealthy buildings. They can also set rents according to income and give priority to the poorest families, the elderly and people with disabilities. Since public money is used, citizens have the right to know that it is spent properly.\n\nHowever, excessive regulation can raise costs and discourage building. If every project must pass long approval procedures, or if rent controls are too strict, builders and local authorities may stop constructing new homes, which makes shortages worse. Rules that fix tenants in the same flat for life, regardless of changing income, may also prevent those in greater need from obtaining a home. Balanced legislation, with clear standards but flexible procedures and regular review, keeps public housing effective. Independent bodies should inspect quality and publish information about waiting lists and allocations.\n\nIn conclusion, I agree that public housing should be regulated by law, but regulation should be proportionate so that it protects residents without restricting supply.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): luật điều tiết nhà ở công",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu giá thuê tăng; largely agree.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do",
+        "think": "Chất lượng và phân bổ công bằng: quy tắc tiêu chuẩn, giá thuê, điều kiện bảo vệ người thuê; ví dụ gia đình chờ nhiều năm bất công nếu quan chức ưu ái bạn bè, nhận hối lộ; luật yêu cầu xây an toàn, không gian, sưởi, sửa chữa; giá thuê theo thu nhập, ưu tiên người nghèo, già, khuyết tật; tiền công cần minh bạch.",
+        "refs": [
+          "ID-city-housing-regulation",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Quá nhiều quy định tăng chi phí, giảm xây; thủ tục dài, kiểm soát giá nghiêm; thuê suốt đời cản người cần hơn; luật cân bằng, rà soát; cơ quan độc lập kiểm tra và công bố danh sách chờ.",
+        "refs": [
+          "ID-city-housing-regulation",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Đồng ý nhưng tương xứng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-housing-regulation"
+    ]
+  },
+  "chunks": [
+    [
+      "Rents and house prices have risen sharply",
+      "giá thuê và giá nhà tăng mạnh"
+    ],
+    [
+      "public housing should be regulated by law",
+      "nhà ở công nên được điều tiết bằng luật"
+    ],
+    [
+      "quality and fair allocation",
+      "chất lượng và phân bổ công bằng"
+    ],
+    [
+      "Clear rules on standards, rents and eligibility",
+      "quy tắc rõ ràng về tiêu chuẩn, giá thuê và điều kiện đủ tư cách"
+    ],
+    [
+      "protect tenants and prevent favouritism",
+      "bảo vệ người thuê và ngăn thiên vị"
+    ],
+    [
+      "waits for years on a list",
+      "chờ nhiều năm trong danh sách"
+    ],
+    [
+      "pay bribes",
+      "đưa hối lộ"
+    ],
+    [
+      "safe construction, adequate space, heating and repairs",
+      "xây dựng an toàn, đủ không gian, sưởi ấm và sửa chữa"
+    ],
+    [
+      "unhealthy buildings",
+      "toà nhà không lành mạnh"
+    ],
+    [
+      "set rents according to income",
+      "đặt giá thuê theo thu nhập"
+    ],
+    [
+      "priority to the poorest families, the elderly and people with disabilities",
+      "ưu tiên cho gia đình nghèo nhất, người già và người khuyết tật"
+    ],
+    [
+      "public money is used",
+      "tiền công được sử dụng"
+    ],
+    [
+      "Excessive regulation can raise costs",
+      "quy định quá mức có thể làm tăng chi phí"
+    ],
+    [
+      "long approval procedures",
+      "thủ tục phê duyệt kéo dài"
+    ],
+    [
+      "rent controls",
+      "kiểm soát giá thuê"
+    ],
+    [
+      "new homes",
+      "nhà mới"
+    ],
+    [
+      "Balanced legislation",
+      "luật pháp cân bằng"
+    ],
+    [
+      "Independent bodies should inspect quality",
+      "cơ quan độc lập nên kiểm tra chất lượng"
+    ],
+    [
+      "proportionate",
+      "tương xứng"
+    ]
+  ]
+}

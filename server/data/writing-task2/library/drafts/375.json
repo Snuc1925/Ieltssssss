@@ -1,0 +1,126 @@
+{
+  "questionId": 375,
+  "text": "Sensors, cameras and apps are already used to manage traffic, lighting and rubbish in a growing number of cities, and the question is how far smart cities will improve quality of life within twenty years. I believe that they will improve it considerably, although privacy and cost limit the gain.\n\nTo begin with, smart cities will improve efficiency and convenience. Sensors manage traffic, lighting and waste and online services save time. A traffic system that adjusts signals according to real-time flows, for example, can shorten journeys, cut fuel use and reduce air pollution. Smart meters help households to save electricity and water, and apps show when the next bus will arrive or where a parking space is free. Digital services allow citizens to pay taxes, report faults and obtain permits without queuing, and sensors can warn of floods or gas leaks and send help quickly. Elderly residents may also benefit from monitoring systems that detect falls.\n\nHowever, constant data collection and high costs worry citizens and may leave poorer districts behind. Cameras and sensors that track movements raise concerns about privacy, and databases can be hacked or misused by companies and authorities. Installing and maintaining the technology is expensive, so wealthy districts may be improved first while others lack even basic services. Residents without smartphones or digital skills may be excluded from services which are available only online. Quality of life will therefore improve most where technology serves residents, with strong rules on data protection, open decision-making and attention to everyone's needs, and not where it is introduced for its own sake.\n\nIn conclusion, smart cities will considerably improve efficiency and convenience over the next twenty years, but they must protect privacy and fairness.",
+  "analysis": {
+    "type_vi": "Extent: thành phố thông minh cải thiện chất lượng sống đến đâu",
+    "plan": [
+      {
+        "step": "1. Khung",
+        "think": "Mở bài nêu cảm biến, camera, ứng dụng quản lý giao thông, ánh sáng, rác; đáp: cải thiện đáng kể nhưng riêng tư, chi phí hạn chế.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lợi ích",
+        "think": "Hiệu quả, tiện: cảm biến quản lý giao thông, đèn, rác; ví dụ hệ thống điều chỉnh tín hiệu theo luồng thực rút ngắn chuyến, giảm xăng, ô nhiễm; công tơ thông minh; ứng dụng xe buýt, chỗ đỗ; dịch vụ số nộp thuế, báo lỗi; cảnh báo lũ, rò rỉ khí; người già phát hiện ngã.",
+        "refs": [
+          "ID-city-smart-cities",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Thu thập dữ liệu liên tục, chi phí cao: camera theo dõi di chuyển, dữ liệu bị hack; đắt nên khu giàu trước; người không điện thoại, kỹ năng số bị loại; quy tắc bảo vệ dữ liệu, quyết định mở, chú ý mọi người.",
+        "refs": [
+          "ID-city-smart-cities",
+          "ID-tech-privacy-disappearing",
+          "ID-tech-digital-divide",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện đáng kể nhưng phải bảo vệ riêng tư, công bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-city-smart-cities"
+    ]
+  },
+  "chunks": [
+    [
+      "Sensors, cameras and apps",
+      "cảm biến, camera và ứng dụng"
+    ],
+    [
+      "manage traffic, lighting and rubbish",
+      "quản lý giao thông, chiếu sáng và rác"
+    ],
+    [
+      "smart cities",
+      "thành phố thông minh"
+    ],
+    [
+      "improve quality of life",
+      "cải thiện chất lượng cuộc sống"
+    ],
+    [
+      "efficiency and convenience",
+      "hiệu quả và sự tiện lợi"
+    ],
+    [
+      "adjusts signals according to real-time flows",
+      "điều chỉnh tín hiệu theo luồng giao thông thời gian thực"
+    ],
+    [
+      "shorten journeys, cut fuel use",
+      "rút ngắn hành trình, giảm tiêu thụ nhiên liệu"
+    ],
+    [
+      "Smart meters",
+      "công tơ thông minh"
+    ],
+    [
+      "when the next bus will arrive",
+      "khi nào xe buýt kế tiếp đến"
+    ],
+    [
+      "a parking space is free",
+      "có chỗ đỗ xe trống"
+    ],
+    [
+      "pay taxes, report faults and obtain permits",
+      "nộp thuế, báo lỗi và xin giấy phép"
+    ],
+    [
+      "warn of floods or gas leaks",
+      "cảnh báo lũ lụt hoặc rò rỉ khí gas"
+    ],
+    [
+      "monitoring systems that detect falls",
+      "hệ thống giám sát phát hiện té ngã"
+    ],
+    [
+      "constant data collection and high costs",
+      "thu thập dữ liệu liên tục và chi phí cao"
+    ],
+    [
+      "track movements",
+      "theo dõi sự di chuyển"
+    ],
+    [
+      "hacked or misused",
+      "bị tấn công hoặc lạm dụng"
+    ],
+    [
+      "wealthy districts may be improved first",
+      "các khu giàu có thể được cải thiện trước"
+    ],
+    [
+      "without smartphones or digital skills",
+      "không có điện thoại thông minh hay kỹ năng số"
+    ],
+    [
+      "data protection",
+      "bảo vệ dữ liệu"
+    ],
+    [
+      "for its own sake",
+      "vì chính nó"
+    ]
+  ]
+}
