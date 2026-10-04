@@ -1,0 +1,129 @@
+{
+  "questionId": 358,
+  "text": "In many cities, police officers spend most of their time in cars, responding to emergency calls, but some forces now assign officers to walk the same streets and talk to residents. This essay will explain two key ways in which community policing affects public safety: by building trust and information, and by preventing crime before it happens.\n\nFirst and foremost, community policing builds trust between officers and residents. Officers who walk the same streets, meet shopkeepers and talk to young people learn about local problems early, and residents who trust them are more willing to share information. An officer who walks the same neighbourhood every day, for example, may learn about a bullying problem from a shopkeeper before it becomes serious. Trust also encourages victims and witnesses, who may otherwise be afraid, to come forward. In communities that have been suspicious of the police, regular friendly contact can repair relations that were damaged by past incidents.\n\nIn addition, community policing helps to prevent crime. Officers who know the area can recognise unusual behaviour, work with schools and youth groups, and deal with small problems such as graffiti and vandalism that can otherwise create an atmosphere in which more serious crimes occur. Residents who feel safer go out more, which makes streets livelier and discourages offenders. However, it has limits. It needs more officers and training, and it may not suit emergencies or large areas. If officers are moved too often, relationships do not form. It also works best when communities are involved in decisions, not simply informed.\n\nTo sum up, community policing improves public safety by building trust and by helping to prevent crime, provided that it is properly staffed and supported. For these reasons, it deserves continued investment.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: cảnh sát cộng đồng ảnh hưởng thế nào đến an ninh công cộng",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how… impact'",
+        "think": "Mở bài so sánh cảnh sát tuần tra bằng xe với cảnh sát đi bộ nói chuyện cư dân; báo hai cách: xây niềm tin và thông tin; ngăn tội phạm. Khác đề 412 (tập trung 'trust') ở chỗ nhấn an ninh tổng thể.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — niềm tin và thông tin",
+        "think": "Cảnh sát đi bộ cùng phố, gặp chủ cửa hàng, nói chuyện thanh niên biết vấn đề sớm; cư dân tin thì chia sẻ thông tin. Ví dụ sĩ quan đi bộ mỗi ngày biết vấn đề bắt nạt từ chủ cửa hàng. Niềm tin khuyến khích nạn nhân và nhân chứng đến trình báo; sửa chữa quan hệ bị tổn thương.",
+        "refs": [
+          "ID-cr-community-policing",
+          "EX-cr-beat-officer"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — ngăn tội phạm + giới hạn",
+        "think": "Nhận ra hành vi bất thường, làm việc với trường và nhóm thanh niên, xử lý vấn đề nhỏ (vẽ bậy, phá hoại) vốn tạo bầu không khí cho tội nặng; cư dân thấy an toàn ra ngoài nhiều hơn. Giới hạn: cần thêm sĩ quan và đào tạo; không hợp tình huống khẩn cấp hay khu vực rộng; điều chuyển quá nhiều thì quan hệ không hình thành; cần cộng đồng tham gia quyết định.",
+        "refs": [
+          "ID-cr-community-policing",
+          "ID-cr-youth-clubs",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện an ninh nhờ niềm tin và phòng tội phạm nếu đủ nhân lực; xứng đáng được đầu tư tiếp.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-community-policing",
+      "EX-cr-beat-officer"
+    ]
+  },
+  "chunks": [
+    [
+      "community policing",
+      "cảnh sát cộng đồng"
+    ],
+    [
+      "impacts public safety",
+      "ảnh hưởng đến an ninh công cộng"
+    ],
+    [
+      "responding to emergency calls",
+      "đáp ứng các cuộc gọi khẩn cấp"
+    ],
+    [
+      "building trust and information",
+      "xây dựng niềm tin và thông tin"
+    ],
+    [
+      "preventing crime before it happens",
+      "ngăn tội phạm trước khi xảy ra"
+    ],
+    [
+      "builds trust between officers and residents",
+      "xây dựng niềm tin giữa sĩ quan và cư dân"
+    ],
+    [
+      "walk the same streets",
+      "đi bộ cùng các con phố"
+    ],
+    [
+      "meet shopkeepers",
+      "gặp chủ cửa hàng"
+    ],
+    [
+      "learn about local problems early",
+      "biết vấn đề địa phương sớm"
+    ],
+    [
+      "willing to share information",
+      "sẵn lòng chia sẻ thông tin"
+    ],
+    [
+      "a bullying problem",
+      "vấn đề bắt nạt"
+    ],
+    [
+      "come forward",
+      "đứng ra trình báo"
+    ],
+    [
+      "victims and witnesses",
+      "nạn nhân và nhân chứng"
+    ],
+    [
+      "repair relations that were damaged",
+      "sửa chữa quan hệ bị tổn hại"
+    ],
+    [
+      "recognise unusual behaviour",
+      "nhận ra hành vi bất thường"
+    ],
+    [
+      "graffiti and vandalism",
+      "vẽ bậy và phá hoại"
+    ],
+    [
+      "create an atmosphere",
+      "tạo ra bầu không khí"
+    ],
+    [
+      "feel safer",
+      "cảm thấy an toàn hơn"
+    ],
+    [
+      "more officers and training",
+      "thêm sĩ quan và đào tạo"
+    ],
+    [
+      "involved in decisions",
+      "được tham gia vào quyết định"
+    ]
+  ]
+}

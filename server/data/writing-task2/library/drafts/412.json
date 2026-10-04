@@ -1,0 +1,126 @@
+{
+  "questionId": 412,
+  "text": "Police work depends heavily on cooperation from the public, and some argue that community policing builds trust. I largely agree, since regular contact between officers and residents encourages cooperation, although trust also depends on how fairly and respectfully the police behave.\n\nTo begin with, community policing builds trust between officers and residents. Officers who walk the same streets, meet shopkeepers and talk to young people learn about local problems early, and residents who trust them are more willing to share information. An officer who walks the same neighbourhood every day, for example, may learn about a bullying problem from a shopkeeper before it becomes serious. When people see the police as familiar neighbours who listen rather than as strangers who arrive only after a crime, they feel respected and are more willing to report offences and act as witnesses. Over time, this builds a relationship of mutual respect that is valuable in emergencies.\n\nFurthermore, community policing can improve relations with groups that have been suspicious of the police, such as young people and ethnic minorities. Regular meetings, open days and joint projects such as sports events give both sides a chance to understand each other. However, contact alone does not guarantee trust. Trust also depends on how fairly and respectfully officers behave. If residents experience rudeness, discrimination or abuse, friendly events will not repair the damage, and officers who are moved too often cannot form relationships. Police forces should therefore combine community engagement with accountability, training and honest handling of complaints.\n\nIn conclusion, community policing builds trust to a large extent by creating regular, friendly contact, provided that it is accompanied by fair and respectful behaviour.",
+  "analysis": {
+    "type_vi": "Extent: cảnh sát cộng đồng xây dựng niềm tin — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu nền tảng (công việc cảnh sát phụ thuộc hợp tác của công chúng) rồi largely agree + giới hạn (niềm tin còn phụ thuộc cách cảnh sát cư xử).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — quan hệ và hợp tác",
+        "think": "Tái dùng ý đề 358 nhưng tập trung niềm tin: sĩ quan đi bộ, gặp chủ cửa hàng biết vấn đề sớm; ví dụ vấn đề bắt nạt; thấy cảnh sát như hàng xóm quen biết biết lắng nghe thay vì người lạ chỉ đến sau tội phạm thì cảm thấy được tôn trọng, sẵn lòng báo tội, làm nhân chứng; xây quan hệ tôn trọng lẫn nhau.",
+        "refs": [
+          "ID-cr-community-policing",
+          "EX-cr-beat-officer",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Cải thiện quan hệ với nhóm từng nghi ngờ cảnh sát (người trẻ, dân tộc thiểu số): họp thường xuyên, ngày mở cửa, dự án chung như sự kiện thể thao. Giới hạn: tiếp xúc không đảm bảo niềm tin; thô lỗ, phân biệt đối xử, lạm dụng làm hỏng; sĩ quan điều chuyển quá nhiều; cần kết hợp trách nhiệm giải trình, đào tạo, xử lý khiếu nại trung thực.",
+        "refs": [
+          "ID-cr-community-policing",
+          "ID-cr-report-protect",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Xây niềm tin ở mức độ lớn nếu kèm cư xử công bằng, tôn trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "cooperation from the public",
+      "sự hợp tác của công chúng"
+    ],
+    [
+      "builds trust",
+      "xây dựng niềm tin"
+    ],
+    [
+      "regular contact between officers and residents",
+      "tiếp xúc thường xuyên giữa sĩ quan và cư dân"
+    ],
+    [
+      "encourages cooperation",
+      "khuyến khích hợp tác"
+    ],
+    [
+      "how fairly and respectfully the police behave",
+      "cách cảnh sát cư xử công bằng và tôn trọng"
+    ],
+    [
+      "familiar neighbours who listen",
+      "những người hàng xóm quen thuộc biết lắng nghe"
+    ],
+    [
+      "strangers who arrive only after a crime",
+      "người lạ chỉ đến sau khi có tội phạm"
+    ],
+    [
+      "feel respected",
+      "cảm thấy được tôn trọng"
+    ],
+    [
+      "act as witnesses",
+      "làm nhân chứng"
+    ],
+    [
+      "mutual respect",
+      "sự tôn trọng lẫn nhau"
+    ],
+    [
+      "valuable in emergencies",
+      "có giá trị trong tình huống khẩn cấp"
+    ],
+    [
+      "groups that have been suspicious of the police",
+      "các nhóm từng nghi ngờ cảnh sát"
+    ],
+    [
+      "ethnic minorities",
+      "dân tộc thiểu số"
+    ],
+    [
+      "open days and joint projects",
+      "ngày mở cửa và dự án chung"
+    ],
+    [
+      "contact alone does not guarantee trust",
+      "chỉ tiếp xúc không đảm bảo niềm tin"
+    ],
+    [
+      "rudeness, discrimination or abuse",
+      "thô lỗ, phân biệt đối xử hay lạm dụng"
+    ],
+    [
+      "repair the damage",
+      "sửa chữa thiệt hại"
+    ],
+    [
+      "moved too often",
+      "bị điều chuyển quá thường xuyên"
+    ],
+    [
+      "accountability, training and honest handling of complaints",
+      "trách nhiệm giải trình, đào tạo và xử lý khiếu nại trung thực"
+    ],
+    [
+      "regular, friendly contact",
+      "tiếp xúc thường xuyên, thân thiện"
+    ]
+  ]
+}

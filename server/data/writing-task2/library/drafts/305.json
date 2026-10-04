@@ -1,0 +1,131 @@
+{
+  "questionId": 305,
+  "text": "Laws work only when people obey them and when someone enforces them, and opinions differ on whether individuals should be responsible for upholding the law or whether society and government should take primary responsibility. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that a law is only as strong as the willingness of citizens to follow it. Most laws are obeyed voluntarily, since people pay taxes, drive within limits and respect others' property without any officer watching them, and police could never monitor everyone all the time. Citizens who report crimes, serve on juries and refuse to take part in dishonest practices make the system work. A driver who stops at a red light on an empty road, for example, shows a respect for rules that no number of cameras could produce. A society in which people obey the law only from fear of punishment would be unstable and costly to run.\n\nOn the other hand, advocates of government responsibility point out that individuals cannot enforce laws themselves. Only the state can make fair laws, investigate crimes, bring suspects to court and punish offenders in a way that is lawful and consistent. Private individuals who take the law into their own hands risk violence, mistakes and revenge. Governments must also ensure that laws are clear, that police act fairly and that courts are independent, so that people trust the system and are willing to cooperate. An angry crowd that punishes a suspected thief, for instance, shows what can happen without proper institutions.\n\nIn conclusion, both views have merit. Overall, I believe that governments should take primary responsibility for making and enforcing laws, while individuals support them by obeying them and cooperating with the authorities.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm chính về thực thi pháp luật",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu nguyên lý (luật chỉ có tác dụng khi được tuân thủ và có người thực thi) rồi hai phe; ý kiến riêng chính phủ chịu trách nhiệm chính, cá nhân hỗ trợ.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Luật mạnh bằng sự sẵn lòng tuân thủ của công dân: phần lớn luật được tuân thủ tự nguyện (đóng thuế, lái xe trong giới hạn, tôn trọng tài sản); cảnh sát không thể giám sát mọi người; báo tội phạm, làm bồi thẩm, từ chối gian lận. Ví dụ tài xế dừng đèn đỏ trên đường vắng. Xã hội chỉ tuân thủ vì sợ phạt sẽ bất ổn, tốn kém.",
+        "refs": [
+          "ID-cr-upholding-law",
+          "ID-env-ind-habits",
+          "EX-cr-red-light"
+        ]
+      },
+      {
+        "step": "3. Chính phủ",
+        "think": "Cá nhân không tự thực thi luật: chỉ nhà nước ban hành luật công bằng, điều tra, đưa ra toà, trừng phạt hợp pháp và nhất quán; cá nhân tự xử gây bạo lực, sai lầm, trả thù; chính phủ đảm bảo luật rõ, cảnh sát công bằng, toà độc lập để dân tin và hợp tác. Ví dụ đám đông giận dữ trừng phạt nghi phạm.",
+        "refs": [
+          "ID-cr-upholding-law",
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ chịu trách nhiệm chính; cá nhân hỗ trợ bằng tuân thủ và hợp tác.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-upholding-law",
+      "EX-cr-red-light"
+    ]
+  },
+  "chunks": [
+    [
+      "Laws work only when people obey them",
+      "luật chỉ hiệu quả khi người ta tuân thủ"
+    ],
+    [
+      "upholding the law",
+      "giữ gìn luật pháp"
+    ],
+    [
+      "take primary responsibility",
+      "chịu trách nhiệm chính"
+    ],
+    [
+      "supporters of individual responsibility",
+      "người ủng hộ trách nhiệm cá nhân"
+    ],
+    [
+      "as strong as the willingness of citizens",
+      "mạnh bằng sự sẵn lòng của công dân"
+    ],
+    [
+      "obeyed voluntarily",
+      "được tuân thủ tự nguyện"
+    ],
+    [
+      "respect others' property",
+      "tôn trọng tài sản người khác"
+    ],
+    [
+      "monitor everyone all the time",
+      "giám sát mọi người mọi lúc"
+    ],
+    [
+      "report crimes, serve on juries",
+      "báo tội phạm, làm bồi thẩm đoàn"
+    ],
+    [
+      "a red light on an empty road",
+      "đèn đỏ trên con đường vắng"
+    ],
+    [
+      "from fear of punishment",
+      "vì sợ bị phạt"
+    ],
+    [
+      "unstable and costly to run",
+      "bất ổn và tốn kém để vận hành"
+    ],
+    [
+      "enforce laws themselves",
+      "tự thực thi luật"
+    ],
+    [
+      "investigate crimes, bring suspects to court",
+      "điều tra tội phạm, đưa nghi phạm ra toà"
+    ],
+    [
+      "lawful and consistent",
+      "hợp pháp và nhất quán"
+    ],
+    [
+      "take the law into their own hands",
+      "tự tay thực thi pháp luật"
+    ],
+    [
+      "revenge",
+      "sự trả thù"
+    ],
+    [
+      "courts are independent",
+      "toà án độc lập"
+    ],
+    [
+      "trust the system",
+      "tin vào hệ thống"
+    ],
+    [
+      "an angry crowd",
+      "đám đông giận dữ"
+    ]
+  ]
+}

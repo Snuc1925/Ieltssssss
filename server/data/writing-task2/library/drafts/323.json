@@ -1,0 +1,130 @@
+{
+  "questionId": 323,
+  "text": "Many parents were smacked as children and still believe that a light slap is a normal part of discipline, but some people say that physical punishment by parents should be illegal. I agree with this view, since hitting children harms them and teaches that violence solves problems, although the law should focus on support rather than punishment.\n\nTo begin with, hitting children harms them and teaches them that violence solves problems. Physical punishment can cause injury, fear and anxiety, and children who are hit are more likely to be aggressive, whereas calm explanation and consistent consequences teach self-control. A child who is smacked for shouting, for example, may learn that adults solve problems by hitting, and may copy that behaviour at school. Research in many countries has linked physical punishment with poorer mental health and behaviour problems, and it can damage the trust between parent and child. There is no evidence that it works better than other methods.\n\nFurthermore, children should have the same protection from assault as adults. It is illegal to hit another adult, and it is hard to justify why a smaller and more vulnerable person should receive less protection. Many countries, including Sweden and New Zealand, have banned physical punishment and have found that attitudes changed without large numbers of prosecutions. However, a ban is hard to enforce in the privacy of the home. Many parents who slap a child are stressed rather than cruel, and prosecuting them may harm the family further. The law should therefore set a clear standard while concentrating on parenting classes, advice and support, with prosecution reserved for serious cases. Alternatives such as time-outs and rewards can replace smacking.\n\nIn conclusion, I agree that physical punishment by parents should be illegal, because it harms children and sets a poor example, provided that the law is used mainly to educate and support families.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: trừng phạt thể xác của cha mẹ nên bị cấm — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu thực tế (nhiều cha mẹ từng bị đánh khi nhỏ và coi một cái tát nhẹ là bình thường) rồi agree + lý do + điều kiện (luật tập trung hỗ trợ).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — gây hại và dạy bạo lực",
+        "think": "Đánh trẻ gây chấn thương, sợ hãi, lo âu; trẻ bị đánh hung hăng hơn; giải thích bình tĩnh và hệ quả nhất quán dạy tự chủ. Ví dụ trẻ bị tát vì la hét học rằng người lớn giải quyết bằng đánh và bắt chước ở trường. Nghiên cứu nhiều nước liên hệ với sức khoẻ tâm thần kém, vấn đề hành vi, mất lòng tin; không có bằng chứng hiệu quả hơn.",
+        "refs": [
+          "ID-cr-physical-punish",
+          "EX-cr-slap-child",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — quyền bảo vệ ngang người lớn + nhượng bộ",
+        "think": "Đánh người lớn là bất hợp pháp nên khó biện minh trẻ nhỏ yếu hơn được bảo vệ ít hơn; Thuỵ Điển, New Zealand đã cấm và thái độ thay đổi mà ít truy tố. Giới hạn: khó thực thi trong gia đình; nhiều cha mẹ căng thẳng chứ không tàn nhẫn; truy tố có thể hại gia đình; luật đặt chuẩn rõ nhưng tập trung lớp học làm cha mẹ, tư vấn, hỗ trợ; truy tố cho ca nghiêm trọng.",
+        "refs": [
+          "ID-cr-physical-limits",
+          "ID-health-gov-tools",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì hại trẻ và là gương xấu, với điều kiện luật chủ yếu để giáo dục, hỗ trợ gia đình.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-physical-punish",
+      "ID-cr-physical-limits",
+      "EX-cr-slap-child"
+    ]
+  },
+  "chunks": [
+    [
+      "physical punishment by parents",
+      "trừng phạt thể xác của cha mẹ"
+    ],
+    [
+      "a light slap",
+      "cái tát nhẹ"
+    ],
+    [
+      "a normal part of discipline",
+      "một phần bình thường của kỷ luật"
+    ],
+    [
+      "hitting children harms them",
+      "đánh trẻ gây hại cho chúng"
+    ],
+    [
+      "teaches them that violence solves problems",
+      "dạy chúng rằng bạo lực giải quyết vấn đề"
+    ],
+    [
+      "injury, fear and anxiety",
+      "chấn thương, sợ hãi và lo âu"
+    ],
+    [
+      "more likely to be aggressive",
+      "dễ hung hăng hơn"
+    ],
+    [
+      "calm explanation and consistent consequences",
+      "giải thích bình tĩnh và hệ quả nhất quán"
+    ],
+    [
+      "teach self-control",
+      "dạy tính tự chủ"
+    ],
+    [
+      "copy that behaviour at school",
+      "bắt chước hành vi đó ở trường"
+    ],
+    [
+      "poorer mental health and behaviour problems",
+      "sức khoẻ tâm thần kém và vấn đề hành vi"
+    ],
+    [
+      "damage the trust between parent and child",
+      "làm hỏng niềm tin giữa cha mẹ và con"
+    ],
+    [
+      "the same protection from assault as adults",
+      "sự bảo vệ khỏi hành hung như người lớn"
+    ],
+    [
+      "a smaller and more vulnerable person",
+      "người nhỏ bé và dễ tổn thương hơn"
+    ],
+    [
+      "attitudes changed",
+      "thái độ đã thay đổi"
+    ],
+    [
+      "hard to enforce in the privacy of the home",
+      "khó thực thi trong sự riêng tư của gia đình"
+    ],
+    [
+      "stressed rather than cruel",
+      "căng thẳng chứ không tàn nhẫn"
+    ],
+    [
+      "prosecuting them",
+      "truy tố họ"
+    ],
+    [
+      "parenting classes, advice and support",
+      "lớp làm cha mẹ, lời khuyên và hỗ trợ"
+    ],
+    [
+      "time-outs and rewards",
+      "cho nghỉ và phần thưởng"
+    ]
+  ]
+}

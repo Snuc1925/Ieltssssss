@@ -1,0 +1,128 @@
+{
+  "questionId": 130,
+  "text": "Politicians often respond to rising crime by promising longer sentences, and some argue that harsher penalties reduce crime. I agree only to a limited extent, since the certainty of being caught deters more than the severity of the sentence, although serious offenders must be kept from harming others.\n\nTo begin with, the certainty of being caught deters crime more than the severity of the sentence. Offenders rarely expect to be caught, so longer sentences have little effect on their decisions. A thief who believes that he will probably not be caught, for example, is hardly influenced by whether the maximum sentence is five or ten years. Many crimes are committed on impulse, under the influence of drugs or alcohol, or in anger, when people do not think about penalties at all. Studies in several countries suggest that visible policing and a high chance of arrest do more to prevent crime than heavier punishment.\n\nFurthermore, harsh penalties have costs. Prisons are expensive, overcrowded and often teach new crimes to those who enter them, so released prisoners may commit more offences, and long sentences leave families without support. However, penalties are not meaningless. Serious and violent offenders need long sentences to protect the public, and clear punishments express society's disapproval and give justice to victims. The strongest approach combines a high chance of detection, swift and fair trials, proportionate sentences and rehabilitation, such as education and job training in prison. This reduces reoffending more effectively than severity alone. Resources spent on police and courts are therefore often better value than extra years in prison.\n\nIn conclusion, harsher penalties reduce crime only to a limited extent, because deterrence depends more on certainty than severity, though serious crimes still require firm punishment.",
+  "analysis": {
+    "type_vi": "Extent: hình phạt nặng hơn giảm tội phạm — đồng ý ở mức độ hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung Extent với lập trường hạn chế",
+        "think": "Mở bài nêu bối cảnh (chính trị gia hứa án dài hơn khi tội phạm tăng) rồi 'agree only to a limited extent'.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — xác suất bị bắt quan trọng hơn mức án",
+        "think": "Kẻ phạm tội hiếm khi nghĩ sẽ bị bắt nên án dài ít ảnh hưởng; nhiều tội phạm bột phát, dưới ảnh hưởng ma tuý, rượu, giận dữ; nghiên cứu cho thấy cảnh sát dễ thấy và khả năng bị bắt cao hiệu quả hơn hình phạt nặng. Ví dụ kẻ trộm tin sẽ không bị bắt không bị ảnh hưởng bởi án năm hay mười năm.",
+        "refs": [
+          "ID-cr-harsh-penalties",
+          "EX-cr-thief-no-fear",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Nhà tù tốn kém, quá tải, dạy tội mới; gia đình mất chỗ dựa. Nhượng bộ: hình phạt không vô nghĩa; tội nghiêm trọng, bạo lực cần án dài bảo vệ công chúng; thể hiện sự phản đối của xã hội. Tốt nhất: khả năng bị phát hiện cao, xét xử nhanh công bằng, án tương xứng, phục hồi.",
+        "refs": [
+          "ID-cr-harsh-penalties",
+          "ID-cr-policing-social",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm tội phạm chỉ ở mức hạn chế vì răn đe phụ thuộc xác suất hơn mức độ nghiêm khắc; tội nghiêm trọng vẫn cần trừng phạt cứng rắn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-harsh-penalties",
+      "EX-cr-thief-no-fear"
+    ]
+  },
+  "chunks": [
+    [
+      "rising crime",
+      "tội phạm gia tăng"
+    ],
+    [
+      "longer sentences",
+      "án dài hơn"
+    ],
+    [
+      "harsher penalties reduce crime",
+      "hình phạt nặng hơn giảm tội phạm"
+    ],
+    [
+      "to a limited extent",
+      "ở mức độ hạn chế"
+    ],
+    [
+      "the certainty of being caught",
+      "sự chắc chắn bị bắt"
+    ],
+    [
+      "the severity of the sentence",
+      "mức độ nghiêm khắc của bản án"
+    ],
+    [
+      "deters crime",
+      "răn đe tội phạm"
+    ],
+    [
+      "rarely expect to be caught",
+      "hiếm khi nghĩ mình bị bắt"
+    ],
+    [
+      "on impulse",
+      "bốc đồng"
+    ],
+    [
+      "under the influence of drugs or alcohol",
+      "dưới ảnh hưởng của ma tuý hoặc rượu"
+    ],
+    [
+      "visible policing",
+      "công tác cảnh sát nhìn thấy được"
+    ],
+    [
+      "a high chance of arrest",
+      "khả năng bị bắt cao"
+    ],
+    [
+      "overcrowded",
+      "quá tải"
+    ],
+    [
+      "teach new crimes",
+      "dạy tội phạm mới"
+    ],
+    [
+      "leave families without support",
+      "để gia đình không có chỗ dựa"
+    ],
+    [
+      "keep the public safe",
+      "bảo vệ công chúng"
+    ],
+    [
+      "express society's disapproval",
+      "thể hiện sự phản đối của xã hội"
+    ],
+    [
+      "give justice to victims",
+      "mang công lý cho nạn nhân"
+    ],
+    [
+      "swift and fair trials",
+      "xét xử nhanh và công bằng"
+    ],
+    [
+      "proportionate sentences and rehabilitation",
+      "án tương xứng và phục hồi"
+    ]
+  ]
+}

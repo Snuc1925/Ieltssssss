@@ -1,0 +1,129 @@
+{
+  "questionId": 491,
+  "text": "Safe streets, honest dealings and fair trials depend on police, courts and prisons that work well, and in my opinion countries should invest more in law enforcement and the legal system. I believe this because a well-funded system catches more offenders and delivers justice faster, and because it protects citizens and economic activity.\n\nTo begin with, a well-funded law enforcement system catches more offenders and delivers justice faster. Trained detectives, modern forensic technology and enough judges reduce backlogs, so that victims see results and offenders expect to be caught. A victim who must wait three years for a trial, for example, may lose faith in the justice system, while a suspect who is held for months without a hearing suffers an injustice of his own. Investment in training also raises standards of fairness and reduces wrongful convictions, and well-paid officers are less open to bribery. Technology such as DNA testing and digital forensics makes it possible to solve crimes that once went unpunished.\n\nFurthermore, an effective justice system supports economic and social life. Businesses invest where contracts are enforced and property is protected, and citizens who feel safe are more willing to work, trade and take part in community life. Courts that resolve disputes quickly save time and money for ordinary people, and legal aid ensures that poorer citizens are not denied justice. However, investment should be balanced with prevention and fair treatment. Spending only on arrests and prisons will not solve the root causes of crime, and a system that is not accountable can abuse its power. Money should therefore be spent wisely, alongside programmes for education, jobs and rehabilitation.\n\nIn conclusion, I believe that countries should invest more in law enforcement and the legal system, because it delivers safety and fairness, provided that spending is balanced and carefully supervised.",
+  "analysis": {
+    "type_vi": "Opinion: có nên đầu tư nhiều hơn vào thực thi pháp luật và hệ thống pháp lý — agree có điều kiện",
+    "plan": [
+      {
+        "step": "1. Khung Opinion",
+        "think": "Mở bài nêu điều kiện của xã hội an toàn (cảnh sát, toà án, nhà tù hoạt động tốt) rồi lập trường + hai lý do (bắt nhiều và công lý nhanh; hỗ trợ kinh tế xã hội) + điều kiện (cân bằng với phòng ngừa).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bắt nhiều hơn, công lý nhanh hơn",
+        "think": "Thám tử được đào tạo, công nghệ pháp y hiện đại, đủ thẩm phán giảm tồn đọng; nạn nhân thấy kết quả và kẻ phạm tội kỳ vọng bị bắt. Ví dụ nạn nhân chờ ba năm mới xét xử mất niềm tin; nghi phạm bị giam hàng tháng không có phiên toà cũng bị bất công. Đào tạo nâng chuẩn công bằng, giảm kết án oan; công chức được trả lương tốt ít hối lộ; DNA, pháp y số.",
+        "refs": [
+          "ID-cr-invest-enforcement",
+          "EX-cr-court-backlog",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — hỗ trợ kinh tế xã hội + điều kiện",
+        "think": "Doanh nghiệp đầu tư khi hợp đồng được thực thi và tài sản được bảo vệ; công dân thấy an toàn sẵn sàng làm việc, buôn bán, tham gia cộng đồng; toà giải quyết tranh chấp nhanh tiết kiệm thời gian tiền bạc; trợ giúp pháp lý. Điều kiện: cân bằng với phòng ngừa và đối xử công bằng; chỉ chi cho bắt giữ và nhà tù không giải quyết gốc rễ; hệ thống không chịu trách nhiệm giải trình có thể lạm quyền.",
+        "refs": [
+          "ID-cr-invest-enforcement",
+          "ID-cr-city-solutions",
+          "ID-cr-policing-social",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nên đầu tư nhiều hơn với điều kiện chi tiêu cân bằng và giám sát cẩn thận.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-invest-enforcement",
+      "EX-cr-court-backlog"
+    ]
+  },
+  "chunks": [
+    [
+      "Safe streets, honest dealings and fair trials",
+      "đường phố an toàn, giao dịch trung thực và xét xử công bằng"
+    ],
+    [
+      "invest more in law enforcement and the legal system",
+      "đầu tư nhiều hơn vào thực thi pháp luật và hệ thống pháp lý"
+    ],
+    [
+      "catches more offenders and delivers justice faster",
+      "bắt nhiều kẻ phạm tội hơn và thực thi công lý nhanh hơn"
+    ],
+    [
+      "protects citizens and economic activity",
+      "bảo vệ công dân và hoạt động kinh tế"
+    ],
+    [
+      "Trained detectives",
+      "thám tử được đào tạo"
+    ],
+    [
+      "modern forensic technology",
+      "công nghệ pháp y hiện đại"
+    ],
+    [
+      "reduce backlogs",
+      "giảm tồn đọng"
+    ],
+    [
+      "victims see results",
+      "nạn nhân thấy kết quả"
+    ],
+    [
+      "offenders expect to be caught",
+      "kẻ phạm tội kỳ vọng sẽ bị bắt"
+    ],
+    [
+      "lose faith in the justice system",
+      "mất niềm tin vào hệ thống tư pháp"
+    ],
+    [
+      "held for months without a hearing",
+      "bị giam hàng tháng không có phiên toà"
+    ],
+    [
+      "reduces wrongful convictions",
+      "giảm kết án oan"
+    ],
+    [
+      "open to bribery",
+      "dễ bị hối lộ"
+    ],
+    [
+      "DNA testing and digital forensics",
+      "xét nghiệm DNA và pháp y kỹ thuật số"
+    ],
+    [
+      "went unpunished",
+      "không bị trừng phạt"
+    ],
+    [
+      "contracts are enforced and property is protected",
+      "hợp đồng được thực thi và tài sản được bảo vệ"
+    ],
+    [
+      "resolve disputes quickly",
+      "giải quyết tranh chấp nhanh"
+    ],
+    [
+      "legal aid",
+      "trợ giúp pháp lý"
+    ],
+    [
+      "the root causes of crime",
+      "nguyên nhân gốc rễ của tội phạm"
+    ],
+    [
+      "abuse its power",
+      "lạm dụng quyền lực"
+    ]
+  ]
+}

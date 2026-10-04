@@ -1,0 +1,129 @@
+{
+  "questionId": 175,
+  "text": "In some countries the state may execute people convicted of the most serious crimes, and some believe that the death penalty deters crime. I disagree with this view, since there is no clear evidence that it works better than long imprisonment, and the risks of the punishment are very high.\n\nTo begin with, there is no clear evidence that the death penalty deters crime better than long imprisonment. Many serious crimes are committed in anger or without expecting capture, so offenders do not weigh the penalty at all. Comparisons between regions with and without the death penalty have not shown consistently lower murder rates in the places that execute criminals. Terrorists and organised criminals may even welcome martyrdom. What deters most offenders is the fear of being caught, not the exact punishment that follows. In practice, the death penalty is also rarely applied, which weakens any threat that it might carry.\n\nFurthermore, the punishment is irreversible. Courts sometimes make mistakes, and a man who is executed and later proved innocent, for example, cannot be given back his life. Evidence suggests that poor defendants and members of minority groups are more likely to be sentenced to death, which raises serious concerns about fairness. Many people also believe that the state should not take life, and the costs of lengthy appeals can exceed those of life imprisonment. Supporters argue that the death penalty gives justice to victims and permanently protects society. However, life imprisonment without release also protects the public, while allowing mistakes to be corrected.\n\nIn conclusion, I disagree that the death penalty deters crime, because the evidence is weak and the risk of executing the innocent is too serious to accept.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: án tử hình răn đe tội phạm — disagree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu nội dung (nhà nước có thể xử tử người phạm tội nghiêm trọng nhất) rồi disagree + hai lý do (không có bằng chứng rõ; không thể đảo ngược).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thiếu bằng chứng răn đe",
+        "think": "Nhiều tội nghiêm trọng làm khi giận dữ hoặc không nghĩ bị bắt nên không cân nhắc hình phạt; so sánh vùng có và không có án tử hình không cho thấy tỷ lệ giết người luôn thấp hơn; khủng bố có thể coi là tử vì đạo; điều răn đe là sợ bị bắt; hiếm khi thi hành làm yếu mối đe doạ.",
+        "refs": [
+          "ID-cr-death-penalty",
+          "ID-cr-harsh-penalties",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — không thể đảo ngược + phản bác",
+        "think": "Toà đôi khi sai; người bị xử tử rồi chứng minh vô tội không thể trả lại mạng sống; bị cáo nghèo và nhóm thiểu số dễ bị tuyên án tử hơn nên lo ngại công bằng; nhiều người cho rằng nhà nước không nên lấy mạng; chi phí kháng cáo có thể cao hơn tù chung thân. Nhượng bộ: người ủng hộ nói mang công lý và bảo vệ vĩnh viễn; nhưng tù chung thân cũng bảo vệ và cho phép sửa sai.",
+        "refs": [
+          "ID-cr-death-penalty",
+          "EX-cr-wrongful-conviction",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì bằng chứng yếu, rủi ro xử tử người vô tội quá nghiêm trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-death-penalty",
+      "EX-cr-wrongful-conviction"
+    ]
+  },
+  "chunks": [
+    [
+      "the death penalty deters crime",
+      "án tử hình răn đe tội phạm"
+    ],
+    [
+      "convicted of the most serious crimes",
+      "bị kết án tội nghiêm trọng nhất"
+    ],
+    [
+      "no clear evidence",
+      "không có bằng chứng rõ ràng"
+    ],
+    [
+      "long imprisonment",
+      "tù dài hạn"
+    ],
+    [
+      "committed in anger",
+      "gây ra khi tức giận"
+    ],
+    [
+      "without expecting capture",
+      "không nghĩ bị bắt"
+    ],
+    [
+      "weigh the penalty",
+      "cân nhắc hình phạt"
+    ],
+    [
+      "murder rates",
+      "tỷ lệ giết người"
+    ],
+    [
+      "regions with and without the death penalty",
+      "vùng có và không có án tử hình"
+    ],
+    [
+      "welcome martyrdom",
+      "đón nhận cái chết vì lý tưởng"
+    ],
+    [
+      "the fear of being caught",
+      "nỗi sợ bị bắt"
+    ],
+    [
+      "rarely applied",
+      "hiếm khi được áp dụng"
+    ],
+    [
+      "irreversible",
+      "không thể đảo ngược"
+    ],
+    [
+      "make mistakes",
+      "phạm sai lầm"
+    ],
+    [
+      "proved innocent",
+      "được chứng minh vô tội"
+    ],
+    [
+      "given back his life",
+      "được trả lại mạng sống"
+    ],
+    [
+      "poor defendants and members of minority groups",
+      "bị cáo nghèo và thành viên nhóm thiểu số"
+    ],
+    [
+      "raises serious concerns about fairness",
+      "gây lo ngại nghiêm trọng về sự công bằng"
+    ],
+    [
+      "lengthy appeals",
+      "kháng cáo kéo dài"
+    ],
+    [
+      "permanently protects society",
+      "bảo vệ xã hội vĩnh viễn"
+    ]
+  ]
+}

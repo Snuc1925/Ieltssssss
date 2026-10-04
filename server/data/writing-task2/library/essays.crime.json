@@ -1,0 +1,1800 @@
+{
+  "topic": "crime",
+  "passScore": 7,
+  "essays": [
+    {
+      "questionId": 49,
+      "qtype": "Causes / Solutions",
+      "question": "What are the causes of crime in large cities? What solutions can be proposed?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:09.639Z",
+          "words": 282,
+          "text": "Large cities offer opportunities and excitement, but many of them also suffer from high levels of theft, violence and drug-related crime. This essay will analyse the principal causes and propose realistic solutions.\n\nCrime in large cities is driven by inequality, unemployment and weak social ties. Where some people see wealth around them but have no job or prospects, and where neighbours do not know one another, gangs, drugs and theft become more attractive and harder to detect. A teenager who leaves school with no qualifications and no job, for example, may be drawn by a gang that offers money and belonging. In addition, crowded housing, poor schools and the easy availability of drugs and alcohol increase the risk, and the anonymity of city life makes offenders feel safe from being recognised. Families may also be under strain, leaving young people with little guidance. As a result, crime tends to concentrate in a few deprived districts.\n\nTo address this issue, governments should tackle the causes of crime as well as punish offenders. Jobs, education and youth programmes give people a stake in society, better lighting and street design make public places safer, and treatment for addiction reduces the crimes that feed it. In addition, community policing, in which officers get to know the residents they serve, helps to build trust and gives early warning of problems. Faster and fairer courts, together with support for former prisoners to find work, reduce reoffending. These measures cost less than building more prisons, and the improvement lasts longer.\n\nIn conclusion, crime in large cities stems mainly from inequality, unemployment and weak community ties, but investment in opportunity, safer design and community policing offers a realistic way forward.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết của bạn có cấu trúc tốt, lập luận rõ ràng và giải quyết trọn vẹn yêu cầu đề bài về nguyên nhân và giải pháp cho tội phạm đô thị. Để đạt điểm cao hơn, bạn cần chú ý cải thiện độ chính xác ngữ pháp và nâng cấp một số từ vựng lên mức học thuật.",
+            "weaknesses": [
+              "Một số câu ghép dài chứa quá nhiều mệnh đề, dễ dẫn đến lỗi ngắt câu.",
+              "Thiếu một số từ vựng chuyên sâu hơn ở phần diễn giải hậu quả.",
+              "Cách dùng dấu câu trong các câu liệt kê dài cần được chuẩn hóa."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt cả hai phần của câu hỏi (nguyên nhân và giải pháp). Các ý tưởng được phát triển hợp lý và có ví dụ minh họa rõ ràng.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng theo đúng cấu trúc bài luận. Các liên từ và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi.",
+              "lexicalResource": "Từ vựng phong phú và phù hợp với chủ đề tội phạm đô thị (deprived districts, reoffending, community policing). Tuy nhiên, có thể dùng thêm một số cụm từ học thuật nâng cao hơn ở phần giải pháp.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức. Lỗi ngữ pháp rất ít, chủ yếu là lỗi về dấu câu hoặc sự hòa hợp nhỏ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tội phạm ở thành phố lớn",
+        "plan": [
+          {
+            "step": "1. Khung nguyên nhân + giải pháp",
+            "think": "Mở bài nêu hai mặt của thành phố lớn (cơ hội và hào hứng; trộm cắp, bạo lực, tội phạm ma tuý); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+            "refs": [
+              "FR-struct-causes-solutions",
+              "PH-stems-from",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nguyên nhân",
+            "think": "Bất bình đẳng, thất nghiệp, quan hệ xã hội lỏng lẻo; người thấy giàu có xung quanh mà không có việc; hàng xóm không biết nhau. Ví dụ thiếu niên không bằng cấp, không việc bị băng nhóm lôi kéo. Nhà ở đông, trường kém, ma tuý rượu dễ có; ẩn danh; gia đình căng thẳng; tội phạm tập trung ở khu nghèo.",
+            "refs": [
+              "ID-cr-city-causes",
+              "EX-cr-jobless-teen",
+              "PH-cause-contribute",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "3. Giải pháp",
+            "think": "Giải quyết nguyên nhân chứ không chỉ trừng phạt: việc làm, giáo dục, chương trình thanh niên, chiếu sáng và thiết kế phố, điều trị nghiện; cảnh sát cộng đồng; toà án nhanh và công bằng; hỗ trợ cựu tù nhân tìm việc; rẻ hơn xây thêm nhà tù.",
+            "refs": [
+              "ID-cr-city-solutions",
+              "ID-health-gov-tools",
+              "PH-tackle-source",
+              "PH-prevention-costly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-city-causes",
+          "ID-cr-city-solutions",
+          "EX-cr-jobless-teen",
+          "PH-theft-violence-and-drug-related-crime",
+          "PH-driven-by-inequality-unemployment-and-weak-s",
+          "PH-no-job-or-prospects",
+          "PH-neighbours-do-not-know-one-another",
+          "PH-gangs-drugs-and-theft-become-more-attractive",
+          "PH-harder-to-detect",
+          "PH-leaves-school-with-no-qualifications",
+          "PH-a-gang-that-offers-money-and-belonging",
+          "PH-crowded-housing",
+          "PH-easy-availability-of-drugs-and-alcohol",
+          "PH-the-anonymity-of-city-life",
+          "PH-feel-safe-from-being-recognised",
+          "PH-under-strain",
+          "PH-concentrate-in-a-few-deprived-districts",
+          "PH-a-stake-in-society",
+          "PH-better-lighting-and-street-design",
+          "PH-treatment-for-addiction",
+          "PH-community-policing",
+          "PH-reduce-reoffending"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 90,
+      "qtype": "Extent",
+      "question": "Some argue that stricter gun control reduces crime. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:09.356Z",
+          "words": 283,
+          "text": "In several countries, serious crimes involving firearms regularly make the news, and some argue that stricter gun control reduces crime. I largely agree, since fewer guns make violence less deadly, although gun control alone cannot remove crime.\n\nTo begin with, stricter gun control makes violent crime less deadly. Fewer guns in circulation and checks on buyers make it harder for dangerous people to obtain weapons and reduce deaths in arguments and accidents. An argument between neighbours, for example, is far less likely to end in a death if neither has easy access to a gun. Countries with strict licensing, background checks and limits on ownership, such as Japan and the United Kingdom, tend to have far fewer gun deaths than countries where guns are widely available. Gun control also reduces suicides and accidental shootings, which make up a large share of firearm deaths.\n\nFurthermore, controls make it harder for criminals to arm themselves, since many illegal guns begin as legal ones that were stolen or sold carelessly. However, gun control has limits. Determined criminals can still find illegal guns, particularly where borders are open and black markets are well established, and strict laws are of little use if they are not enforced. Crime also has other causes, such as poverty, drugs and gangs, which require different solutions. Gun laws should therefore be accompanied by tracing of weapons, penalties for illegal sales, and programmes that tackle gangs and unemployment. Public support for the laws and clear rules for lawful owners, such as hunters, also make them easier to apply.\n\nIn conclusion, stricter gun control reduces crime and deaths to a large extent, but it works best as part of a wider strategy against violence.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có bố cục chặt chẽ, từ vựng tốt và ngữ pháp vững chắc, thể hiện rõ quan điểm cá nhân đối với đề bài. Người viết cần mở rộng thêm về các giải pháp toàn diện để cải thiện điểm Task Response.",
+            "weaknesses": [
+              "Phần bàn luận về các nguyên nhân khác gây ra tội phạm còn hơi ngắn và chưa được phân tích sâu.",
+              "Một số luận điểm ví dụ có thể được cụ thể hóa hơn thay vì liệt kê chung chung."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng đồng ý phần lớn (largely agree), đưa ra cả lập luận ủng hộ và sự nhìn nhận về giới hạn của luật súng đạn. Tuy nhiên, phần phân tích nguyên nhân gốc rễ của tội phạm chưa được phát triển sâu thêm.",
+              "coherenceCohesion": "Các đoạn văn được tổ chức rất tốt với câu chủ đề rõ ràng và các từ nối hiệu quả như 'To begin with', 'Furthermore', và 'In conclusion'. Sự chuyển ý giữa lợi ích và hạn chế của kiểm soát súng mượt mà.",
+              "lexicalResource": "Sử dụng từ vựng phong phú và chính xác liên quan đến chủ đề như 'firearms', 'in circulation', 'background checks', và 'black markets'. Tuy nhiên, có thể dùng thêm các collocation nâng cao hơn để đạt band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức dài và chính xác. Ngữ pháp và dấu câu được kiểm soát tốt, hầu như không có lỗi sai cơ bản."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: kiểm soát súng nghiêm ngặt giảm tội phạm — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài bằng bối cảnh (tội phạm dùng súng thường lên báo) rồi largely agree + lý do (ít súng, bạo lực ít chết người) + giới hạn (kiểm soát súng một mình không xoá được tội phạm).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — bạo lực ít chết người",
+            "think": "Ít súng lưu hành và kiểm tra người mua khó cho kẻ nguy hiểm kiếm vũ khí; giảm chết trong tranh cãi và tai nạn. Ví dụ tranh cãi giữa hàng xóm ít kết thúc bằng cái chết nếu không ai dễ có súng. Nước có cấp phép nghiêm (Nhật, Anh) ít chết do súng; giảm tự tử và bắn nhầm.",
+            "refs": [
+              "ID-cr-gun-control",
+              "EX-cr-gun-argument",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Khó cho tội phạm trang bị vì nhiều súng bất hợp pháp từng là hợp pháp bị trộm hoặc bán cẩu thả. Giới hạn: kẻ quyết tâm vẫn tìm được súng chợ đen, biên giới mở; luật không thực thi ít tác dụng; tội phạm có nguyên nhân khác (nghèo, ma tuý, băng nhóm); truy vết vũ khí, phạt bán trái phép, chương trình chống băng nhóm và thất nghiệp.",
+            "refs": [
+              "ID-cr-city-solutions",
+              "ID-env-gov-rules",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Giảm tội phạm và tử vong ở mức độ lớn nhưng hiệu quả nhất khi là một phần của chiến lược rộng hơn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-gun-control",
+          "EX-cr-gun-argument",
+          "PH-serious-crimes-involving-firearms",
+          "PH-stricter-gun-control",
+          "PH-make-violence-less-deadly",
+          "PH-fewer-guns-in-circulation",
+          "PH-checks-on-buyers",
+          "PH-obtain-weapons",
+          "PH-deaths-in-arguments-and-accidents",
+          "PH-easy-access-to-a-gun",
+          "PH-strict-licensing-background-checks-and-limit",
+          "PH-far-fewer-gun-deaths",
+          "PH-widely-available",
+          "PH-suicides-and-accidental-shootings",
+          "PH-arm-themselves",
+          "PH-stolen-or-sold-carelessly",
+          "PH-determined-criminals",
+          "PH-illegal-guns",
+          "PH-black-markets-are-well-established",
+          "PH-not-enforced",
+          "PH-tracing-of-weapons",
+          "PH-a-wider-strategy-against-violence"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 91,
+      "qtype": "Discuss both views",
+      "question": "Is it better to focus government spending on policing or on social services? Discuss and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:09.859Z",
+          "words": 283,
+          "text": "Opinions are divided as to whether public money should be spent mainly on policing or on social services. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of policing argue that police respond to crime at once. Officers deter offenders, protect victims and catch criminals, and the presence of patrols makes residents feel safe enough to go out, shop and invest in their neighbourhood. A town with regular patrols, for example, tends to experience fewer break-ins and less vandalism, and a quick response can save lives when violence occurs. Residents who feel secure are more likely to work, trade and send their children to school, so safety is the foundation of everyday life. Police also deal with emergencies that no other service can handle, from road accidents to terrorism.\n\nOn the other hand, supporters of social services point out that they help to prevent crime by dealing with its causes. Jobs, mental health care, housing support and youth services reduce the pressures that lead people to crime in the first place, and they cost far less than arrests, trials and prison sentences. A young person who is helped into training, for instance, is less likely to join a gang and may become a taxpayer instead of an offender. Social services also help victims and reduce reoffending, so their effect lasts longer than short-term deterrence. However, their results take years to appear, and the public often demands visible action.\n\nIn conclusion, both views have merit. Overall, I believe that a balanced budget gives the best results, with enough police to ensure immediate safety and a growing share for social services that prevent crime in the long term.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của đề bài 'Discuss both views' với văn phong trang trọng, bố cục mạch lạc và lập luận thuyết phục. Dù đạt điểm khá tốt về cấu trúc và từ vựng, bài viết vẫn có thể cải thiện bằng cách sử dụng các cấu trúc câu phức tạp hơn và từ vựng mang tính học thuật cao hơn.",
+            "weaknesses": [
+              "Một số luận điểm còn hơi an toàn, thiếu sự bứt phá về mặt tư duy phản biện.",
+              "Từ vựng chủ yếu ở mức độ thông dụng trong chủ đề, ít các collocation nâng cao.",
+              "Thiếu các cấu trúc ngữ pháp phức tạp như đảo ngữ hay mệnh đề phân từ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận cả hai quan điểm và đưa ra quan điểm cá nhân rõ ràng ở phần mở bài và kết bài. Các luận điểm được phát triển khá tốt với ví dụ cụ thể, tuy nhiên phần phân tích có thể được đào sâu hơn nữa về mặt tác động dài hạn.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với các phần mở bài, thân bài và kết bài chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ dàng theo dõi dòng suy nghĩ.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều từ và cụm từ liên quan đến chủ đề tội phạm và dịch vụ xã hội như 'deter offenders', 'break-ins', 'reoffending'. Tuy nhiên, thiếu các cấu trúc từ vựng thực sự nâng cao (advanced vocabulary) để vươn lên band 8.0.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu ghép và câu phức được kiểm soát tốt. Ngữ pháp chính xác cao, hầu như không có lỗi sai cơ bản ngoại trừ một vài điểm có thể mượt mà hơn."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: chi cho cảnh sát hay dịch vụ xã hội",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Dùng cấu trúc các đề 'chi tiêu chính phủ' đã làm (31, 498, 51, 151): mỗi thân bài một phía; ý kiến riêng cân bằng.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe cảnh sát",
+            "think": "Cảnh sát phản ứng ngay: răn đe, bảo vệ nạn nhân, bắt tội phạm; tuần tra khiến cư dân thấy an toàn để ra ngoài, mua sắm, đầu tư; phản ứng nhanh cứu mạng; an toàn là nền tảng cuộc sống. Ví dụ thị trấn tuần tra đều có ít trộm đột nhập hơn. Cảnh sát xử lý khẩn cấp không dịch vụ nào thay được.",
+            "refs": [
+              "ID-cr-policing-social",
+              "ID-health-foundation"
+            ]
+          },
+          {
+            "step": "3. Phe dịch vụ xã hội",
+            "think": "Phòng tội phạm bằng giải quyết nguyên nhân: việc làm, chăm sóc tâm thần, nhà ở, dịch vụ thanh niên; rẻ hơn bắt giữ, xét xử, tù; ví dụ thanh niên được đào tạo ít vào băng nhóm. Giúp nạn nhân, giảm tái phạm; nhưng kết quả mất nhiều năm, công chúng đòi hành động thấy được.",
+            "refs": [
+              "ID-cr-policing-social",
+              "ID-cr-city-solutions",
+              "ID-health-prevention-cheaper"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Ngân sách cân bằng: đủ cảnh sát cho an toàn trước mắt và phần ngày càng lớn cho dịch vụ xã hội phòng tội phạm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-policing-social",
+          "PH-social-services",
+          "PH-supporters-of-policing",
+          "PH-respond-to-crime-at-once",
+          "PH-deter-offenders-protect-victims",
+          "PH-the-presence-of-patrols",
+          "PH-feel-safe-enough-to-go-out",
+          "PH-fewer-break-ins-and-less-vandalism",
+          "PH-a-quick-response-can-save-lives",
+          "PH-deal-with-emergencies",
+          "PH-help-to-prevent-crime",
+          "PH-dealing-with-its-causes",
+          "PH-jobs-mental-health-care-housing-support-and",
+          "PH-arrests-trials-and-prison-sentences",
+          "PH-join-a-gang",
+          "PH-visible-action",
+          "PH-a-balanced-budget"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 130,
+      "qtype": "Extent",
+      "question": "Some argue that harsher penalties reduce crime. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:14.057Z",
+          "words": 288,
+          "text": "Politicians often respond to rising crime by promising longer sentences, and some argue that harsher penalties reduce crime. I agree only to a limited extent, since the certainty of being caught deters more than the severity of the sentence, although serious offenders must be kept from harming others.\n\nTo begin with, the certainty of being caught deters crime more than the severity of the sentence. Offenders rarely expect to be caught, so longer sentences have little effect on their decisions. A thief who believes that he will probably not be caught, for example, is hardly influenced by whether the maximum sentence is five or ten years. Many crimes are committed on impulse, under the influence of drugs or alcohol, or in anger, when people do not think about penalties at all. Studies in several countries suggest that visible policing and a high chance of arrest do more to prevent crime than heavier punishment.\n\nFurthermore, harsh penalties have costs. Prisons are expensive, overcrowded and often teach new crimes to those who enter them, so released prisoners may commit more offences, and long sentences leave families without support. However, penalties are not meaningless. Serious and violent offenders need long sentences to protect the public, and clear punishments express society's disapproval and give justice to victims. The strongest approach combines a high chance of detection, swift and fair trials, proportionate sentences and rehabilitation, such as education and job training in prison. This reduces reoffending more effectively than severity alone. Resources spent on police and courts are therefore often better value than extra years in prison.\n\nIn conclusion, harsher penalties reduce crime only to a limited extent, because deterrence depends more on certainty than severity, though serious crimes still require firm punishment.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt với lập luận sắc sảo, bố cục chặt chẽ và ngữ pháp, từ vựng vững vàng. Người viết đã trả lời trọn vẹn yêu cầu đề bài ở mức độ Band 7.5+.",
+            "weaknesses": [
+              "Một số câu ví dụ có thể được mở rộng thêm một chút để tăng tính thuyết phục.",
+              "Phần kết luận có thể nhấn mạnh thêm một ý khái quát để tạo ấn tượng mạnh hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời rất tốt câu hỏi 'to what extent', nêu rõ quan điểm đồng ý một phần và đưa ra các lý do thuyết phục. Các luận điểm được phát triển logic, kết hợp giữa yếu tố chắc chắn bị bắt và tác động của hình phạt nghiêm khắc.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, các đoạn được phân chia rõ ràng theo từng ý chính. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi dòng suy nghĩ của tác giả.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề pháp luật và tội phạm (ví dụ: certainty of being caught, severity of the sentence, proportionate sentences). Sử dụng từ ngữ chính xác và tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác gần như tuyệt đối, không có lỗi lặp cấu trúc hay sai sót nghiêm trọng."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: hình phạt nặng hơn giảm tội phạm — đồng ý ở mức độ hạn chế",
+        "plan": [
+          {
+            "step": "1. Khung Extent với lập trường hạn chế",
+            "think": "Mở bài nêu bối cảnh (chính trị gia hứa án dài hơn khi tội phạm tăng) rồi 'agree only to a limited extent'.",
+            "refs": [
+              "FR-struct-extent"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — xác suất bị bắt quan trọng hơn mức án",
+            "think": "Kẻ phạm tội hiếm khi nghĩ sẽ bị bắt nên án dài ít ảnh hưởng; nhiều tội phạm bột phát, dưới ảnh hưởng ma tuý, rượu, giận dữ; nghiên cứu cho thấy cảnh sát dễ thấy và khả năng bị bắt cao hiệu quả hơn hình phạt nặng. Ví dụ kẻ trộm tin sẽ không bị bắt không bị ảnh hưởng bởi án năm hay mười năm.",
+            "refs": [
+              "ID-cr-harsh-penalties",
+              "EX-cr-thief-no-fear",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + nhượng bộ",
+            "think": "Nhà tù tốn kém, quá tải, dạy tội mới; gia đình mất chỗ dựa. Nhượng bộ: hình phạt không vô nghĩa; tội nghiêm trọng, bạo lực cần án dài bảo vệ công chúng; thể hiện sự phản đối của xã hội. Tốt nhất: khả năng bị phát hiện cao, xét xử nhanh công bằng, án tương xứng, phục hồi.",
+            "refs": [
+              "ID-cr-harsh-penalties",
+              "ID-cr-policing-social",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Giảm tội phạm chỉ ở mức hạn chế vì răn đe phụ thuộc xác suất hơn mức độ nghiêm khắc; tội nghiêm trọng vẫn cần trừng phạt cứng rắn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-harsh-penalties",
+          "EX-cr-thief-no-fear",
+          "PH-rising-crime",
+          "PH-longer-sentences",
+          "PH-harsher-penalties-reduce-crime",
+          "PH-the-certainty-of-being-caught",
+          "PH-the-severity-of-the-sentence",
+          "PH-deters-crime",
+          "PH-rarely-expect-to-be-caught",
+          "PH-on-impulse",
+          "PH-under-the-influence-of-drugs-or-alcohol",
+          "PH-visible-policing",
+          "PH-a-high-chance-of-arrest",
+          "PH-overcrowded",
+          "PH-teach-new-crimes",
+          "PH-leave-families-without-support",
+          "PH-express-society-s-disapproval",
+          "PH-give-justice-to-victims",
+          "PH-swift-and-fair-trials",
+          "PH-proportionate-sentences-and-rehabilitation"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 175,
+      "qtype": "Agree / Disagree",
+      "question": "Some believe that the death penalty deters crime. To what extent do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:14.567Z",
+          "words": 281,
+          "text": "In some countries the state may execute people convicted of the most serious crimes, and some believe that the death penalty deters crime. I disagree with this view, since there is no clear evidence that it works better than long imprisonment, and the risks of the punishment are very high.\n\nTo begin with, there is no clear evidence that the death penalty deters crime better than long imprisonment. Many serious crimes are committed in anger or without expecting capture, so offenders do not weigh the penalty at all. Comparisons between regions with and without the death penalty have not shown consistently lower murder rates in the places that execute criminals. Terrorists and organised criminals may even welcome martyrdom. What deters most offenders is the fear of being caught, not the exact punishment that follows. In practice, the death penalty is also rarely applied, which weakens any threat that it might carry.\n\nFurthermore, the punishment is irreversible. Courts sometimes make mistakes, and a man who is executed and later proved innocent, for example, cannot be given back his life. Evidence suggests that poor defendants and members of minority groups are more likely to be sentenced to death, which raises serious concerns about fairness. Many people also believe that the state should not take life, and the costs of lengthy appeals can exceed those of life imprisonment. Supporters argue that the death penalty gives justice to victims and permanently protects society. However, life imprisonment without release also protects the public, while allowing mistakes to be corrected.\n\nIn conclusion, I disagree that the death penalty deters crime, because the evidence is weak and the risk of executing the innocent is too serious to accept.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của đề bài dạng Agree/Disgree với văn phong trang trọng, lập luận rõ ràng và ngữ pháp, từ vựng ổn định ở mức Band 7.0. Để đạt điểm cao hơn, bạn cần tập trung chặt chẽ hơn vào khía cạnh 'răn đe' (deterrence) ở phần thân bài và nâng cấp một số cấu trúc câu.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai ôm đồm quá nhiều ý ngoài khía cạnh răn đe (như án oan, chi phí kháng cáo, công bằng xã hội).",
+              "Một số luận điểm có thể được khai thác sâu hơn thay vì liệt kê nhiều ý ngắn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm đề bài, có lập trường rõ ràng và các ý kiến được phát triển khá tốt với các luận điểm logic. Tuy nhiên, phần thân bài kết hợp nhiều ý (vừa nói về sự răn đe, vừa nói về sự bất công và án oan) có thể làm giảm độ tập trung vào từ khóa 'determ crime' của đề bài.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, chia đoạn rõ ràng từ mở bài, thân bài đến kết bài. Các từ nối được sử dụng tự nhiên và hiệu quả, giúp dẫn dắt người đọc qua các luận điểm một cách mượt mà.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều từ và cụm từ chủ đề như 'deters crime', 'irreversible', 'martyrdom', 'lengthy appeals'. Tuy nhiên, một số cụm từ chưa thực sự đạt độ sắc bén của band 8.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt và sử dụng chính xác. Không có lỗi ngữ pháp lớn nào ảnh hưởng đến việc đọc hiểu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: án tử hình răn đe tội phạm — disagree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến",
+            "think": "Mở bài nêu nội dung (nhà nước có thể xử tử người phạm tội nghiêm trọng nhất) rồi disagree + hai lý do (không có bằng chứng rõ; không thể đảo ngược).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-disagree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — thiếu bằng chứng răn đe",
+            "think": "Nhiều tội nghiêm trọng làm khi giận dữ hoặc không nghĩ bị bắt nên không cân nhắc hình phạt; so sánh vùng có và không có án tử hình không cho thấy tỷ lệ giết người luôn thấp hơn; khủng bố có thể coi là tử vì đạo; điều răn đe là sợ bị bắt; hiếm khi thi hành làm yếu mối đe doạ.",
+            "refs": [
+              "ID-cr-death-penalty",
+              "ID-cr-harsh-penalties",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — không thể đảo ngược + phản bác",
+            "think": "Toà đôi khi sai; người bị xử tử rồi chứng minh vô tội không thể trả lại mạng sống; bị cáo nghèo và nhóm thiểu số dễ bị tuyên án tử hơn nên lo ngại công bằng; nhiều người cho rằng nhà nước không nên lấy mạng; chi phí kháng cáo có thể cao hơn tù chung thân. Nhượng bộ: người ủng hộ nói mang công lý và bảo vệ vĩnh viễn; nhưng tù chung thân cũng bảo vệ và cho phép sửa sai.",
+            "refs": [
+              "ID-cr-death-penalty",
+              "EX-cr-wrongful-conviction",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Disagree vì bằng chứng yếu, rủi ro xử tử người vô tội quá nghiêm trọng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-death-penalty",
+          "EX-cr-wrongful-conviction",
+          "PH-the-death-penalty-deters-crime",
+          "PH-convicted-of-the-most-serious-crimes",
+          "PH-no-clear-evidence",
+          "PH-long-imprisonment",
+          "PH-committed-in-anger",
+          "PH-without-expecting-capture",
+          "PH-weigh-the-penalty",
+          "PH-murder-rates",
+          "PH-regions-with-and-without-the-death-penalty",
+          "PH-welcome-martyrdom",
+          "PH-the-fear-of-being-caught",
+          "PH-rarely-applied",
+          "PH-irreversible",
+          "PH-make-mistakes",
+          "PH-proved-innocent",
+          "PH-given-back-his-life",
+          "PH-poor-defendants-and-members-of-minority-grou",
+          "PH-raises-serious-concerns-about-fairness",
+          "PH-lengthy-appeals",
+          "PH-permanently-protects-society"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 181,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that video games promote violence. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:14.864Z",
+          "words": 286,
+          "text": "After every violent incident involving young people, someone blames video games, and some people say that they promote violence. I disagree with this view, since the evidence that games cause real violence is weak, and other factors matter far more.\n\nTo begin with, evidence that video games cause real violence is weak. Hundreds of millions of people play violent games without harming anyone, and violent crime has fallen in several countries as gaming has grown. A teenager who plays a shooting game with friends in the evening, for example, usually treats it as entertainment, as he would a film. Large studies have found, at most, small and short-lived increases in aggression after playing, comparable to those after watching a competitive sport. Most players understand that what happens on a screen is fiction and have no wish to copy it, and many games involve cooperation, planning and creativity.\n\nFurthermore, real violence has far more serious causes. Family background, poverty, abuse, mental illness, drug use and access to weapons are much stronger predictors, and blaming games distracts attention from these problems. When a violent offender happens to play games, this reflects how common games are among young people, not that they caused the crime. However, games are not harmless for everyone. Very young children should not play adult games, extreme content may disturb vulnerable players, and long hours of play can affect sleep and school work. Parents should check age ratings, set time limits and talk to children about what they play. These practical steps are more effective than blaming the medium.\n\nIn conclusion, I disagree that video games promote violence, because the evidence is weak and other factors matter more, though sensible limits for children are wise.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng khá tốt, đạt khoảng band 7.0 với lập luận chặt chẽ và văn phong mạch lạc. Tuy nhiên, việc đưa phần quản lý của phụ huynh vào thân bài làm giảm độ tập trung của ý kiến.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai đề cập đến việc phụ huynh kiểm soát thời gian chơi, hơi lạc đề so với câu hỏi chính về việc game kích động bạo lực.",
+              "Một số ví dụ còn chung chung, chưa đủ sức nặng để minh họa cho luận điểm lớn.",
+              "Thiếu các cấu trúc câu phức nâng cao hơn (như đảo ngữ hoặc mệnh đề phân từ)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài và có lập trường hoàn toàn không đồng tình được duy trì xuyên suốt. Các luận điểm được phát triển tốt, tuy nhiên đoạn 3 có phần lan man sang việc quản lý thời gian chơi của trẻ em, điều này làm phân tán sự tập trung vào luận điểm chính.",
+              "coherenceCohesion": "Bài viết có bố cục rõ ràng với phần mở bài, thân bài và kết bài chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ dàng theo dõi mạch logic.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề tranh luận xã hội. Học viên sử dụng được một số cụm từ hay (predictors, short-lived increases in aggression), tuy nhiên thỉnh thoảng còn dùng từ mang tính liệt kê chưa đạt độ tinh tế cao.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Ngữ pháp chính xác với rất ít lỗi, thể hiện sự kiểm soát tốt các thì và mệnh đề quan hệ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: trò chơi điện tử khuyến khích bạo lực — disagree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến",
+            "think": "Mở bài nêu thói quen đổ lỗi (mỗi vụ bạo lực thanh niên lại có người đổ cho trò chơi) rồi disagree + hai lý do (bằng chứng yếu; nguyên nhân thật mạnh hơn).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-disagree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — bằng chứng yếu",
+            "think": "Hàng trăm triệu người chơi không hại ai; tội phạm bạo lực giảm ở nhiều nước khi chơi game tăng. Ví dụ thiếu niên chơi game bắn súng với bạn buổi tối xem như giải trí. Nghiên cứu lớn chỉ thấy tăng hung hăng nhỏ, ngắn; người chơi hiểu đó là hư cấu; nhiều game cần hợp tác, lập kế hoạch, sáng tạo.",
+            "refs": [
+              "ID-cr-video-games",
+              "EX-cr-game-evening",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — nguyên nhân thật + nhượng bộ",
+            "think": "Gia đình, nghèo, bị lạm dụng, bệnh tâm thần, ma tuý, tiếp cận vũ khí dự báo mạnh hơn; đổ lỗi cho game làm xao nhãng. Nhượng bộ: không vô hại với mọi người: trẻ nhỏ không nên chơi game người lớn, nội dung cực đoan, chơi nhiều giờ ảnh hưởng ngủ và học; cha mẹ xem phân loại độ tuổi, đặt giới hạn thời gian, trò chuyện.",
+            "refs": [
+              "ID-cr-poverty-choice",
+              "ID-health-environment-shapes",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Disagree vì bằng chứng yếu và nguyên nhân khác quan trọng hơn; giới hạn hợp lý cho trẻ em là khôn ngoan.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-video-games",
+          "EX-cr-game-evening",
+          "PH-violent-incident-involving-young-people",
+          "PH-video-games-promote-violence",
+          "PH-the-evidence-is-weak",
+          "PH-play-violent-games-without-harming-anyone",
+          "PH-violent-crime-has-fallen",
+          "PH-a-shooting-game",
+          "PH-treats-it-as-entertainment",
+          "PH-small-and-short-lived-increases-in-aggressio",
+          "PH-comparable-to-those-after-watching-a-competi",
+          "PH-fiction",
+          "PH-cooperation-planning-and-creativity",
+          "PH-far-more-serious-causes",
+          "PH-family-background-poverty-abuse",
+          "PH-mental-illness-drug-use-and-access-to-weapon",
+          "PH-stronger-predictors",
+          "PH-distracts-attention-from-these-problems",
+          "PH-vulnerable-players",
+          "PH-check-age-ratings-set-time-limits",
+          "PH-sensible-limits-for-children"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 272,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for preventing identity theft, or should society/government take action? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:18.383Z",
+          "words": 282,
+          "text": "Millions of people have had their names, bank details or passwords stolen and used by criminals, and opinions differ on who should be responsible for preventing identity theft. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that individuals can do a great deal to protect themselves. People can use strong and different passwords, avoid clicking on suspicious links, check their bank statements regularly and shred documents that contain personal details. A person who receives an email that appears to come from the bank, for example, may give away passwords unless he or she has been warned about such tricks. Careful behaviour online, such as limiting the information shared on social media, makes it harder for criminals to impersonate someone. Since criminals rely on carelessness, a cautious public is the first line of defence.\n\nOn the other hand, advocates of action by society and government point out that individuals cannot protect data they do not control. Banks, retailers and online services store enormous amounts of information, and a single hack can expose millions of customers. Only these organisations can secure their systems, and only governments can pass laws that require companies to protect data, punish offenders and cooperate across borders to catch them. Police need specialist skills and international agreements to trace criminals who operate from other countries. Victims, meanwhile, often spend months repairing their records, and they need legal support and quick routes to restore their identity.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, since institutions must secure data and punish criminals while individuals take sensible precautions.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, lập luận chặt chẽ, từ vựng phong phú và ngữ pháp vững vàng. Để đạt band điểm cao hơn, người viết có thể tinh chỉnh một số lỗi nhỏ về diễn đạt và tăng tính sắc bén trong việc phân tích.",
+            "weaknesses": [
+              "Một số câu ví dụ có thể được tinh gọn hơn để làm nổi bật luận điểm chính",
+              "Phần kết luận có phần lặp lại ý của thân bài mà chưa mở rộng thêm góc nhìn sâu sắc hơn"
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt dạng câu hỏi Discuss both views, có đưa ra quan điểm cá nhân rõ ràng ở phần mở bài, thân bài và kết luận. Các luận điểm được phát triển logic và thuyết phục.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với các từ nối và cấu trúc chuyển ý tự nhiên giữa các đoạn. Các đoạn thân bài tập trung vào từng quan điểm một cách cân đối.",
+              "lexicalResource": "Sử dụng từ vựng phong phú, tự nhiên và chính xác liên quan đến chủ đề bảo mật và tội phạm mạng. Các cụm từ như 'impersonate someone' hay 'first line of defence' rất đắt giá.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, ngữ pháp chính xác hầu như tuyệt đối. Không có lỗi ngữ pháp nghiêm trọng nào ảnh hưởng đến việc đọc hiểu."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: ngăn chặn trộm danh tính — cá nhân hay xã hội / chính phủ",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm (dùng lại mô hình 'cá nhân vs chính phủ' đã dùng ở môi trường và y tế)",
+            "think": "Mở bài nêu thực tế (hàng triệu người bị lấy tên, thông tin ngân hàng, mật khẩu); mỗi thân bài một phía; kết luận kết hợp.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Mật khẩu mạnh khác nhau, tránh nhấp liên kết đáng ngờ, kiểm tra sao kê, huỷ tài liệu có thông tin; ví dụ người nhận email giả ngân hàng có thể đưa mật khẩu nếu chưa được cảnh báo; hạn chế chia sẻ trên mạng xã hội; công chúng thận trọng là tuyến phòng thủ đầu tiên.",
+            "refs": [
+              "ID-cr-identity-theft",
+              "EX-cr-phishing-email",
+              "ID-env-ind-habits"
+            ]
+          },
+          {
+            "step": "3. Xã hội và chính phủ",
+            "think": "Cá nhân không bảo vệ được dữ liệu mình không kiểm soát: ngân hàng, cửa hàng, dịch vụ trực tuyến lưu lượng thông tin khổng lồ; một vụ tấn công làm lộ hàng triệu khách; chỉ tổ chức này bảo mật hệ thống; chính phủ ra luật, trừng phạt, hợp tác xuyên biên giới; nạn nhân cần hỗ trợ pháp lý.",
+            "refs": [
+              "ID-cr-identity-theft",
+              "ID-env-ind-limits",
+              "ID-env-gov-rules"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Kết hợp: tổ chức bảo mật dữ liệu và trừng phạt tội phạm; cá nhân thận trọng.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-identity-theft",
+          "EX-cr-phishing-email",
+          "PH-had-their-names-bank-details-or-passwords-st",
+          "PH-preventing-identity-theft",
+          "PH-protect-themselves",
+          "PH-strong-and-different-passwords",
+          "PH-suspicious-links",
+          "PH-check-their-bank-statements-regularly",
+          "PH-shred-documents",
+          "PH-appears-to-come-from-the-bank",
+          "PH-give-away-passwords",
+          "PH-limiting-the-information-shared-on-social-me",
+          "PH-impersonate-someone",
+          "PH-the-first-line-of-defence",
+          "PH-data-they-do-not-control",
+          "PH-a-single-hack-can-expose-millions-of-custome",
+          "PH-secure-their-systems",
+          "PH-pass-laws",
+          "PH-cooperate-across-borders",
+          "PH-trace-criminals-who-operate-from-other-count",
+          "PH-repairing-their-records"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 292,
+      "qtype": "Discuss both views",
+      "question": "Some people believe that crime is mainly caused by poverty and lack of education. Others think criminals are personally responsible. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:19.267Z",
+          "words": 301,
+          "text": "When a crime shocks the public, people ask whether it is the result of social conditions or of a wrong choice, and opinions are divided as to whether crime is mainly caused by poverty and lack of education or whether criminals are personally responsible. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who blame social conditions argue that poverty and poor education raise the risk of crime. People with no job and no prospects face stronger temptation and fewer legitimate options, and schools in poor areas may fail to give children the skills they need. A teenager who leaves school with no qualifications and no job, for example, may be drawn by a gang that offers money and belonging. Studies often show that crime rates are higher in deprived districts, where unemployment, poor housing and family breakdown combine. From this point of view, improving schools and creating jobs would reduce crime more effectively than punishment.\n\nOn the other hand, supporters of personal responsibility point out that poverty does not excuse crime. Most poor people obey the law, and crime also occurs among the wealthy, for example in fraud and corruption. Every offender makes a choice, and treating criminals as victims of circumstance can weaken respect for the law and ignore the harm done to real victims. Courts should therefore hold people accountable for their actions. A person who steals when he could have asked for help, for instance, has made a decision that others in the same position avoided. Accountability also gives offenders the dignity of being treated as responsible adults.\n\nIn conclusion, both views have merit. Personally, I believe that social conditions raise the risk of crime, but individuals remain responsible for their choices, so both opportunity and accountability must be addressed.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết của bạn có chất lượng rất tốt, đạt tiêu chuẩn band 7.5-8.0 với lập luận chặt chẽ, từ vựng tự nhiên và ngữ pháp vững chắc. Bố cục bài rõ ràng giúp người đọc dễ theo dõi các góc nhìn khác nhau của vấn đề.",
+            "weaknesses": [
+              "Phần thân bài thứ nhất ví dụ hơi thiên về trường hợp cá nhân (teenager) trong khi luận điểm nói về diện rộng hơn.",
+              "Quan điểm cá nhân ở kết luận hơi trung lập, có thể đào sâu hơn tính tương hỗ giữa hai yếu tố."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài Discuss both views. Lập trường cá nhân được thể hiện rõ ràng ở phần mở bài, thân bài và kết luận. Các ý tưởng được phát triển đầy đủ và có sức thuyết phục.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với các đoạn văn được phân chia hợp lý. Các từ nối và phương tiện liên kết (On the one hand, On the other hand, In conclusion) được sử dụng linh hoạt và tự nhiên.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ chủ đề (legitimate options, deprived districts, hold people accountable). Tuy nhiên, có thể thêm một số từ vựng nâng cao hơn về tội phạm học để đạt band cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, sử dụng thành thạo các câu phức và mệnh đề quan hệ. Độ chính xác cao, hầu như không có lỗi ngữ pháp lớn."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: tội phạm chủ yếu do nghèo và thiếu giáo dục hay do trách nhiệm cá nhân",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu câu hỏi chung (do hoàn cảnh xã hội hay lựa chọn sai) rồi hai phe; ý kiến riêng kết hợp: hoàn cảnh nâng rủi ro nhưng cá nhân vẫn chịu trách nhiệm.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe hoàn cảnh xã hội",
+            "think": "Nghèo và giáo dục kém tăng rủi ro: người không việc, không triển vọng đối mặt cám dỗ mạnh, ít lựa chọn hợp pháp; trường ở khu nghèo không đủ kỹ năng. Ví dụ thiếu niên bị băng nhóm lôi kéo. Nghiên cứu cho thấy tội phạm cao ở khu nghèo; cải thiện trường học và việc làm hiệu quả hơn trừng phạt.",
+            "refs": [
+              "ID-cr-city-causes",
+              "ID-cr-poverty-choice",
+              "EX-cr-jobless-teen"
+            ]
+          },
+          {
+            "step": "3. Phe trách nhiệm cá nhân",
+            "think": "Nghèo không biện minh cho tội phạm: đa số người nghèo tuân thủ luật; tội phạm cũng xảy ra ở người giàu (gian lận, tham nhũng); mỗi người phạm tội đều lựa chọn; coi tội phạm là nạn nhân hoàn cảnh làm yếu sự tôn trọng pháp luật và bỏ qua nạn nhân thật. Ví dụ người trộm thay vì xin giúp. Trách nhiệm cho người phạm tội phẩm giá của người trưởng thành có trách nhiệm.",
+            "refs": [
+              "ID-cr-poverty-choice",
+              "ID-cr-harsh-penalties"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Hoàn cảnh nâng rủi ro nhưng cá nhân vẫn chịu trách nhiệm; cần giải quyết cả cơ hội và trách nhiệm giải trình.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-poverty-choice",
+          "PH-a-crime-shocks-the-public",
+          "PH-social-conditions",
+          "PH-a-wrong-choice",
+          "PH-mainly-caused-by-poverty-and-lack-of-educati",
+          "PH-personally-responsible",
+          "PH-raise-the-risk-of-crime",
+          "PH-stronger-temptation-and-fewer-legitimate-opt",
+          "PH-fail-to-give-children-the-skills-they-need",
+          "PH-crime-rates-are-higher-in-deprived-districts",
+          "PH-unemployment-poor-housing-and-family-breakdo",
+          "PH-more-effectively-than-punishment",
+          "PH-does-not-excuse-crime",
+          "PH-most-poor-people-obey-the-law",
+          "PH-fraud-and-corruption",
+          "PH-makes-a-choice",
+          "PH-victims-of-circumstance",
+          "PH-weaken-respect-for-the-law",
+          "PH-hold-people-accountable-for-their-actions",
+          "PH-responsible-adults",
+          "PH-opportunity-and-accountability"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 293,
+      "qtype": "Discuss both views",
+      "question": "Some people prefer crime prevention measures while others prefer stricter punishments. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:20.124Z",
+          "words": 278,
+          "text": "When crime rises, governments face a choice between preventing it and punishing it, and some people prefer crime prevention measures while others prefer stricter punishments. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of prevention argue that stopping crime before it happens is cheaper and kinder than dealing with its consequences. Better street lighting, security cameras, youth programmes, drug treatment and job training reduce the opportunities and pressures that lead people to offend. A neighbourhood with a youth club and well-lit streets, for example, may see fewer incidents because young people have somewhere to go and offenders feel watched. Preventing a crime also saves the victim from suffering, and costs far less than arrests, trials and prison. Prevention can also strengthen communities, since residents who feel responsible for their area tend to look out for one another.\n\nOn the other hand, supporters of stricter punishment emphasise justice and protection. Offenders who harm others should be held accountable, and firm penalties show victims that society takes their suffering seriously. Long sentences keep dangerous people away from the public, and the prospect of a heavy penalty may deter some people from offending. Prevention is slow and uncertain, and people who have decided to commit a serious crime may not be influenced by programmes. A violent offender who is released early and attacks again, for instance, shows the cost of lenient treatment. Many citizens want to see visible consequences for wrongdoing.\n\nIn conclusion, both views have merit. Personally, I believe that prevention should receive greater emphasis because it is more effective in the long term, while proportionate punishment remains necessary for serious crimes.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận chặt chẽ và trả lời đúng trọng tâm đề bài 'Discuss both views'. Ngôn ngữ và ngữ pháp ở mức khá giỏi, tuy nhiên cần mở rộng thêm các từ vựng học thuật để nâng cao chất lượng bài viết.",
+            "weaknesses": [
+              "Một số ý tưởng và cách diễn đạt còn hơi cơ bản, thiếu các cấu trúc câu phức tạp nâng cao.",
+              "Từ vựng mang tính học thuật cao (advanced vocabulary) chưa xuất hiện nhiều."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã thảo luận đầy đủ cả hai quan điểm và đưa ra ý kiến cá nhân rõ ràng ở phần mở bài và kết bài. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với 4 đoạn rõ ràng. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi dòng suy nghĩ.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề tội phạm (như 'offend', 'deter', 'lenient treatment', 'proportionate punishment'). Tuy nhiên, cần thêm các cụm từ học thuật nâng cao hơn để đạt điểm cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức. Ngữ pháp chính xác, lỗi sai không đáng kể."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: biện pháp phòng ngừa tội phạm hay trừng phạt nghiêm khắc hơn",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu lựa chọn của chính phủ khi tội phạm tăng (phòng hay phạt); mỗi thân bài một phía; ý kiến riêng nghiêng về phòng ngừa nhưng giữ trừng phạt cho tội nghiêm trọng.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe phòng ngừa",
+            "think": "Ngăn tội phạm trước khi xảy ra rẻ và nhân văn hơn; đèn đường, camera, chương trình thanh niên, điều trị ma tuý, đào tạo nghề giảm cơ hội và áp lực; ví dụ khu phố có câu lạc bộ thanh niên và đèn sáng ít sự cố hơn; bảo vệ nạn nhân khỏi đau khổ; củng cố cộng đồng.",
+            "refs": [
+              "ID-cr-city-solutions",
+              "ID-cr-policing-social",
+              "ID-health-prevention-cheaper",
+              "ID-env-recycle-convenient"
+            ]
+          },
+          {
+            "step": "3. Phe trừng phạt",
+            "think": "Công lý và bảo vệ: người hại người khác phải chịu trách nhiệm; hình phạt cứng rắn cho nạn nhân thấy xã hội coi trọng đau khổ của họ; án dài giữ người nguy hiểm xa công chúng; răn đe một số người. Phòng ngừa chậm và không chắc; người đã quyết phạm tội nặng có thể không bị chương trình ảnh hưởng. Ví dụ kẻ bạo lực được thả sớm tấn công lần nữa.",
+            "refs": [
+              "ID-cr-harsh-penalties"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nhấn mạnh phòng ngừa vì hiệu quả dài hạn, trừng phạt tương xứng cho tội nghiêm trọng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-crime-prevention-measures",
+          "PH-stricter-punishments",
+          "PH-stopping-crime-before-it-happens",
+          "PH-cheaper-and-kinder",
+          "PH-dealing-with-its-consequences",
+          "PH-better-street-lighting-security-cameras",
+          "PH-youth-programmes-drug-treatment-and-job-trai",
+          "PH-the-opportunities-and-pressures-that-lead-pe",
+          "PH-offenders-feel-watched",
+          "PH-saves-the-victim-from-suffering",
+          "PH-look-out-for-one-another",
+          "PH-justice-and-protection",
+          "PH-held-accountable",
+          "PH-takes-their-suffering-seriously",
+          "PH-keep-dangerous-people-away-from-the-public",
+          "PH-the-prospect-of-a-heavy-penalty",
+          "PH-slow-and-uncertain",
+          "PH-released-early-and-attacks-again",
+          "PH-lenient-treatment",
+          "PH-proportionate-punishment"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 305,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for upholding the law, or should society/government take primary responsibility? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:14:23.093Z",
+          "words": 296,
+          "text": "Laws work only when people obey them and when someone enforces them, and opinions differ on whether individuals should be responsible for upholding the law or whether society and government should take primary responsibility. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual responsibility argue that a law is only as strong as the willingness of citizens to follow it. Most laws are obeyed voluntarily, since people pay taxes, drive within limits and respect others' property without any officer watching them, and police could never monitor everyone all the time. Citizens who report crimes, serve on juries and refuse to take part in dishonest practices make the system work. A driver who stops at a red light on an empty road, for example, shows a respect for rules that no number of cameras could produce. A society in which people obey the law only from fear of punishment would be unstable and costly to run.\n\nOn the other hand, advocates of government responsibility point out that individuals cannot enforce laws themselves. Only the state can make fair laws, investigate crimes, bring suspects to court and punish offenders in a way that is lawful and consistent. Private individuals who take the law into their own hands risk violence, mistakes and revenge. Governments must also ensure that laws are clear, that police act fairly and that courts are independent, so that people trust the system and are willing to cooperate. An angry crowd that punishes a suspected thief, for instance, shows what can happen without proper institutions.\n\nIn conclusion, both views have merit. Overall, I believe that governments should take primary responsibility for making and enforcing laws, while individuals support them by obeying them and cooperating with the authorities.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của dạng đề Discuss both views với văn phong học thuật, lập luận logic, từ vựng và ngữ pháp ở mức tốt, đạt khoảng band 7.5.",
+            "weaknesses": [
+              "Phần mở bài có phần hơi rập khuôn (This essay will consider both perspectives before explaining my own opinion).",
+              "Quan điểm cá nhân ở phần kết luận có thể được hé lộ ngay từ phần mở bài để tăng tính nhất quán."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận cả hai quan điểm và đưa ra lập trường rõ ràng ở phần kết luận. Các luận điểm được phát triển hợp lý với các ví dụ cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng gồm 4 đoạn tiêu chuẩn, các câu liên kết mượt mà và sử dụng linh hoạt các từ nối (On the one hand, On the other hand, In conclusion).",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ tự nhiên và chính xác liên quan đến pháp luật (upholding the law, voluntary obedience, take the law into their own hands). Chính tả hoàn hảo.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu ghép và câu phức được sử dụng chính xác. Ngữ pháp vững chắc, không có lỗi cấu trúc lớn."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân hay xã hội / chính phủ chịu trách nhiệm chính về thực thi pháp luật",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu nguyên lý (luật chỉ có tác dụng khi được tuân thủ và có người thực thi) rồi hai phe; ý kiến riêng chính phủ chịu trách nhiệm chính, cá nhân hỗ trợ.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Luật mạnh bằng sự sẵn lòng tuân thủ của công dân: phần lớn luật được tuân thủ tự nguyện (đóng thuế, lái xe trong giới hạn, tôn trọng tài sản); cảnh sát không thể giám sát mọi người; báo tội phạm, làm bồi thẩm, từ chối gian lận. Ví dụ tài xế dừng đèn đỏ trên đường vắng. Xã hội chỉ tuân thủ vì sợ phạt sẽ bất ổn, tốn kém.",
+            "refs": [
+              "ID-cr-upholding-law",
+              "ID-env-ind-habits",
+              "EX-cr-red-light"
+            ]
+          },
+          {
+            "step": "3. Chính phủ",
+            "think": "Cá nhân không tự thực thi luật: chỉ nhà nước ban hành luật công bằng, điều tra, đưa ra toà, trừng phạt hợp pháp và nhất quán; cá nhân tự xử gây bạo lực, sai lầm, trả thù; chính phủ đảm bảo luật rõ, cảnh sát công bằng, toà độc lập để dân tin và hợp tác. Ví dụ đám đông giận dữ trừng phạt nghi phạm.",
+            "refs": [
+              "ID-cr-upholding-law",
+              "ID-env-ind-limits",
+              "ID-env-gov-rules"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính phủ chịu trách nhiệm chính; cá nhân hỗ trợ bằng tuân thủ và hợp tác.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-upholding-law",
+          "EX-cr-red-light",
+          "PH-laws-work-only-when-people-obey-them",
+          "PH-upholding-the-law",
+          "PH-take-primary-responsibility",
+          "PH-supporters-of-individual-responsibility",
+          "PH-as-strong-as-the-willingness-of-citizens",
+          "PH-obeyed-voluntarily",
+          "PH-respect-others-property",
+          "PH-monitor-everyone-all-the-time",
+          "PH-report-crimes-serve-on-juries",
+          "PH-a-red-light-on-an-empty-road",
+          "PH-from-fear-of-punishment",
+          "PH-unstable-and-costly-to-run",
+          "PH-enforce-laws-themselves",
+          "PH-investigate-crimes-bring-suspects-to-court",
+          "PH-lawful-and-consistent",
+          "PH-take-the-law-into-their-own-hands",
+          "PH-revenge",
+          "PH-courts-are-independent",
+          "PH-trust-the-system",
+          "PH-an-angry-crowd"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 312,
+      "qtype": "Extent",
+      "question": "Some argue that stricter traffic laws reduce accidents. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:30.955Z",
+          "words": 279,
+          "text": "Every year, traffic accidents kill and injure millions of people, and some argue that stricter traffic laws reduce accidents. I largely agree, since rules on speed, seat belts and drink-driving save lives when they are enforced, although laws alone cannot solve the problem.\n\nTo begin with, stricter traffic laws save lives when they are enforced. Speed limits, seat-belt rules and drink-driving laws, backed by cameras and checks, change how people drive. A stretch of road with speed cameras, for example, often sees far fewer serious crashes because drivers slow down. Many countries that introduced compulsory seat belts, lower alcohol limits and penalty points have recorded large falls in deaths, even while the number of vehicles increased. Strict rules also send a clear message about what is acceptable, and the fear of losing a licence encourages caution. Mobile phone bans can further reduce distraction at the wheel.\n\nFurthermore, laws give police the power to remove dangerous drivers from the road. However, laws alone are not enough. Road design, vehicle safety, driver education and road maintenance also have a large effect on accidents, and rules that are not enforced are easily ignored. Where police are few or corruption is common, drivers soon learn that the law has no teeth. Accidents are also caused by tiredness, poor visibility and bad weather, which laws cannot change directly. Governments should therefore combine strict laws with safer roads, better public transport, driver training and regular vehicle checks. A crossing with lights and barriers, for instance, protects pedestrians whatever the law says.\n\nIn conclusion, stricter traffic laws reduce accidents to a large extent, provided that they are enforced and supported by safe roads and good education.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng khá tốt, đạt khoảng band 7.0 với lập luận chặt chẽ và từ vựng phong phú về chủ đề giao thông. Tuy nhiên, việc sắp xếp ý trong thân bài hơi mất cân đối và cần cải thiện thêm độ sâu của các luận điểm.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai chứa đựng quá nhiều ý phụ (về thiết kế đường, giáo dục, thời tiết) làm phân tán trọng tâm.",
+              "Ví dụ đưa ra đôi chỗ còn chung chung, chưa đủ chiều sâu để làm rõ lập luận."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời rõ ràng câu hỏi 'To what extent do you agree?', đưa ra quan điểm đồng tình phần lớn nhưng cũng bổ sung góc nhìn về các yếu tố khác. Tuy nhiên, các ý chưa được phân chia cân đối giữa các đoạn thân bài.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng với các phần mở đầu, thân bài và kết luận được phân chia hợp lý. Các từ nối được sử dụng tự nhiên, giúp mạch văn trôi chảy và dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ chính xác liên quan đến chủ đề giao thông như 'compulsory seat belts', 'penalty points', và 'distraction at the wheel'. Một số cụm từ diễn đạt tự nhiên và mang tính học thuật.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Lỗi ngữ pháp rất ít, các thì và cấu trúc điều kiện được sử dụng chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: luật giao thông nghiêm hơn giảm tai nạn — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài nêu quy mô tai nạn (hằng năm giết và làm bị thương hàng triệu người) rồi largely agree + lý do + giới hạn (luật một mình không đủ).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do — luật cứu mạng khi được thực thi",
+            "think": "Giới hạn tốc độ, dây an toàn, luật lái xe sau uống rượu cùng camera và kiểm tra thay đổi cách lái; ví dụ đoạn đường có camera tốc độ ít tai nạn nghiêm trọng; nhiều nước giảm mạnh tử vong dù xe tăng; thông điệp rõ về điều chấp nhận được; sợ mất bằng; cấm điện thoại; cho cảnh sát quyền loại tài xế nguy hiểm.",
+            "refs": [
+              "ID-cr-traffic-laws",
+              "EX-cr-speed-camera",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Giới hạn",
+            "think": "Thiết kế đường, an toàn xe, giáo dục lái xe, bảo trì đường cũng ảnh hưởng lớn; luật không thực thi dễ bị phớt lờ; nơi ít cảnh sát hoặc tham nhũng tài xế biết luật không có răng; mệt, tầm nhìn kém, thời tiết xấu luật không thay đổi trực tiếp; kết hợp đường an toàn hơn, giao thông công cộng, đào tạo, kiểm tra xe. Ví dụ vạch qua đường có đèn và rào chắn.",
+            "refs": [
+              "ID-cr-traffic-laws",
+              "ID-env-gov-infrastructure",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Giảm tai nạn ở mức độ lớn nếu thực thi và có đường an toàn, giáo dục tốt.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-traffic-laws",
+          "EX-cr-speed-camera",
+          "PH-traffic-accidents-kill-and-injure-millions-o",
+          "PH-stricter-traffic-laws",
+          "PH-save-lives-when-they-are-enforced",
+          "PH-speed-seat-belts-and-drink-driving",
+          "PH-backed-by-cameras-and-checks",
+          "PH-change-how-people-drive",
+          "PH-speed-cameras",
+          "PH-far-fewer-serious-crashes",
+          "PH-compulsory-seat-belts",
+          "PH-lower-alcohol-limits-and-penalty-points",
+          "PH-large-falls-in-deaths",
+          "PH-a-clear-message-about-what-is-acceptable",
+          "PH-the-fear-of-losing-a-licence",
+          "PH-distraction-at-the-wheel",
+          "PH-remove-dangerous-drivers-from-the-road",
+          "PH-road-design-vehicle-safety-driver-education",
+          "PH-easily-ignored",
+          "PH-the-law-has-no-teeth",
+          "PH-tiredness-poor-visibility-and-bad-weather",
+          "PH-safe-roads-and-good-education"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 323,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that physical punishment by parents should be illegal. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:31.564Z",
+          "words": 311,
+          "text": "Many parents were smacked as children and still believe that a light slap is a normal part of discipline, but some people say that physical punishment by parents should be illegal. I agree with this view, since hitting children harms them and teaches that violence solves problems, although the law should focus on support rather than punishment.\n\nTo begin with, hitting children harms them and teaches them that violence solves problems. Physical punishment can cause injury, fear and anxiety, and children who are hit are more likely to be aggressive, whereas calm explanation and consistent consequences teach self-control. A child who is smacked for shouting, for example, may learn that adults solve problems by hitting, and may copy that behaviour at school. Research in many countries has linked physical punishment with poorer mental health and behaviour problems, and it can damage the trust between parent and child. There is no evidence that it works better than other methods.\n\nFurthermore, children should have the same protection from assault as adults. It is illegal to hit another adult, and it is hard to justify why a smaller and more vulnerable person should receive less protection. Many countries, including Sweden and New Zealand, have banned physical punishment and have found that attitudes changed without large numbers of prosecutions. However, a ban is hard to enforce in the privacy of the home. Many parents who slap a child are stressed rather than cruel, and prosecuting them may harm the family further. The law should therefore set a clear standard while concentrating on parenting classes, advice and support, with prosecution reserved for serious cases. Alternatives such as time-outs and rewards can replace smacking.\n\nIn conclusion, I agree that physical punishment by parents should be illegal, because it harms children and sets a poor example, provided that the law is used mainly to educate and support families.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của đề bài về mặt cấu trúc, từ vựng và ngữ pháp, đạt mức điểm tương đối cao. Lập trường rõ ràng và các luận điểm được phát triển logic, mặc dù phần luận giải về vai trò của luật pháp cần được tinh chỉnh để không làm loãng quan điểm.",
+            "weaknesses": [
+              "Đưa ý kiến về việc 'luật pháp nên tập trung hỗ trợ thay vì trừng phạt' vào ngay phần mở bài và thân bài làm giảm độ sắc bén của lập trường 'đồng ý hoàn toàn'.",
+              "Một số câu ghép hơi dài và chứa quá nhiều ý tưởng, có thể gây quá tải thông tin cho người đọc."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi đề bài với lập trường hoàn toàn đồng ý. Tuy nhiên, việc bạn đưa ý kiến về việc luật pháp nên tập trung hỗ trợ thay vì trừng phạt ngay từ phần mở bài và thân bài làm cho quan điểm đồng ý có phần mâu thuẫn nhẹ, nhưng nhìn chung bạn vẫn bảo vệ thành công lập trường của mình.",
+              "coherenceCohesion": "Các đoạn văn được tổ chức rất logic với câu chủ đề rõ ràng. Các liên từ và phương tiện liên kết được sử dụng tự nhiên, giúp bài viết mạch lạc từ đầu đến cuối.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ liên quan đến chủ đề nuôi dạy con cái và luật pháp. Chính tả tốt và cáccollocation tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác, hiếm khi xuất hiện lỗi sai."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: trừng phạt thể xác của cha mẹ nên bị cấm — agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + giới hạn",
+            "think": "Mở bài nêu thực tế (nhiều cha mẹ từng bị đánh khi nhỏ và coi một cái tát nhẹ là bình thường) rồi agree + lý do + điều kiện (luật tập trung hỗ trợ).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — gây hại và dạy bạo lực",
+            "think": "Đánh trẻ gây chấn thương, sợ hãi, lo âu; trẻ bị đánh hung hăng hơn; giải thích bình tĩnh và hệ quả nhất quán dạy tự chủ. Ví dụ trẻ bị tát vì la hét học rằng người lớn giải quyết bằng đánh và bắt chước ở trường. Nghiên cứu nhiều nước liên hệ với sức khoẻ tâm thần kém, vấn đề hành vi, mất lòng tin; không có bằng chứng hiệu quả hơn.",
+            "refs": [
+              "ID-cr-physical-punish",
+              "EX-cr-slap-child",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — quyền bảo vệ ngang người lớn + nhượng bộ",
+            "think": "Đánh người lớn là bất hợp pháp nên khó biện minh trẻ nhỏ yếu hơn được bảo vệ ít hơn; Thuỵ Điển, New Zealand đã cấm và thái độ thay đổi mà ít truy tố. Giới hạn: khó thực thi trong gia đình; nhiều cha mẹ căng thẳng chứ không tàn nhẫn; truy tố có thể hại gia đình; luật đặt chuẩn rõ nhưng tập trung lớp học làm cha mẹ, tư vấn, hỗ trợ; truy tố cho ca nghiêm trọng.",
+            "refs": [
+              "ID-cr-physical-limits",
+              "ID-health-gov-tools",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Agree vì hại trẻ và là gương xấu, với điều kiện luật chủ yếu để giáo dục, hỗ trợ gia đình.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-physical-punish",
+          "ID-cr-physical-limits",
+          "EX-cr-slap-child",
+          "PH-physical-punishment-by-parents",
+          "PH-a-light-slap",
+          "PH-a-normal-part-of-discipline",
+          "PH-hitting-children-harms-them",
+          "PH-teaches-them-that-violence-solves-problems",
+          "PH-injury-fear-and-anxiety",
+          "PH-more-likely-to-be-aggressive",
+          "PH-calm-explanation-and-consistent-consequences",
+          "PH-teach-self-control",
+          "PH-copy-that-behaviour-at-school",
+          "PH-poorer-mental-health-and-behaviour-problems",
+          "PH-damage-the-trust-between-parent-and-child",
+          "PH-the-same-protection-from-assault-as-adults",
+          "PH-a-smaller-and-more-vulnerable-person",
+          "PH-attitudes-changed",
+          "PH-hard-to-enforce-in-the-privacy-of-the-home",
+          "PH-stressed-rather-than-cruel",
+          "PH-prosecuting-them",
+          "PH-parenting-classes-advice-and-support",
+          "PH-time-outs-and-rewards"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 334,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for reporting wrongdoing, or should society/government enforce it? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:30.753Z",
+          "words": 285,
+          "text": "Fraud, abuse and dangerous practices often continue because those who know about them stay silent, and opinions differ on whether individuals should be responsible for reporting wrongdoing or whether society and government should enforce it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual reporting argue that people inside an organisation often know about wrongdoing before anyone else. Colleagues see fraud, abuse or unsafe practices first, and an authority that has no information cannot act. An accountant who notices false invoices at her firm, for example, may be the only person who can stop the crime. A culture in which people speak up also discourages misconduct, since offenders know that others are watching. Many scandals, from unsafe food factories to financial fraud, were exposed by employees who refused to look away, and society owes them respect.\n\nOn the other hand, advocates of enforcement by government point out that reporting is risky for the individual. Fear of losing a job, being bullied or being punished stops many people from speaking, and those who do report sometimes suffer for years. It is also unfair to expect ordinary people to do the work of investigators, who have training and legal powers. Governments can set up independent agencies that inspect workplaces and audit organisations without waiting for complaints, and pass laws that protect whistleblowers and punish those who retaliate. Safe hotlines and legal advice make it easier to come forward.\n\nIn conclusion, both views have merit. Overall, I believe that governments should take the main responsibility by enforcing the law and protecting those who report, while individuals should be encouraged to speak up when it is safe to do so.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, bố cục rõ ràng, ngữ pháp vững vàng và từ vựng phù hợp với chủ đề. Người viết cần tinh chỉnh một số lỗi nhỏ về diễn đạt và nâng cấp từ vựng để đạt mức điểm cao hơn.",
+            "weaknesses": [
+              "Một số câu văn có thể được cô đọng và sắc sảo hơn.",
+              "Thiếu một số từ vựng học thuật mang tính chuyên sâu hơn ở band 8+."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt dạng đề discuss both views, phân tích cả hai chiều và đưa ra quan điểm cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển logic và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với 4 đoạn rõ ràng, sử dụng các từ nối hiệu quả để chuyển ý giữa các đoạn. Các câu chủ đề và phát triển ý được liên kết chặt chẽ.",
+              "lexicalResource": "Từ vựng khá phong phú và tự nhiên, sử dụng chính xác các thuật ngữ liên quan đến chủ đề như 'wrongdoing', 'misconduct', 'whistleblowers', 'independent agencies'. Tuy nhiên, có thể bổ sung thêm một số collocation cao cấp hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức, với độ chính xác cao. Việc sử dụng thì và các mệnh đề quan hệ, trạng ngữ được kiểm soát tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân báo cáo sai phạm hay xã hội / chính phủ thực thi",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu hiện tượng sai phạm tiếp diễn vì người biết giữ im lặng; mỗi thân bài một phía; ý kiến riêng chính phủ chịu trách nhiệm chính, bảo vệ người tố giác, khuyến khích cá nhân lên tiếng khi an toàn.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân báo cáo",
+            "think": "Người trong tổ chức thường biết sai phạm trước; đồng nghiệp thấy gian lận, lạm dụng, thực hành không an toàn trước; cơ quan không có thông tin không hành động được. Ví dụ kế toán nhận ra hoá đơn giả có thể là người duy nhất chặn tội. Văn hoá lên tiếng ngăn sai phạm; nhiều bê bối được người lao động phơi bày.",
+            "refs": [
+              "ID-cr-report-protect",
+              "EX-cr-colleague-fraud",
+              "ID-env-public-reporting"
+            ]
+          },
+          {
+            "step": "3. Chính phủ thực thi",
+            "think": "Báo cáo rủi ro cho cá nhân: sợ mất việc, bị bắt nạt, bị trừng phạt, có người chịu nhiều năm; không công bằng bắt người thường làm việc của điều tra viên; chính phủ lập cơ quan độc lập thanh tra, kiểm toán không chờ khiếu nại; luật bảo vệ người tố giác và phạt trả đũa; đường dây nóng và tư vấn pháp lý.",
+            "refs": [
+              "ID-cr-report-protect",
+              "ID-env-ind-limits",
+              "ID-env-gov-rules"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính phủ chịu trách nhiệm chính; cá nhân lên tiếng khi an toàn.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-report-protect",
+          "EX-cr-colleague-fraud",
+          "PH-fraud-abuse-and-dangerous-practices",
+          "PH-stay-silent",
+          "PH-reporting-wrongdoing",
+          "PH-supporters-of-individual-reporting",
+          "PH-inside-an-organisation",
+          "PH-know-about-wrongdoing-before-anyone-else",
+          "PH-unsafe-practices",
+          "PH-an-authority-that-has-no-information-cannot",
+          "PH-false-invoices",
+          "PH-stop-the-crime",
+          "PH-speak-up",
+          "PH-discourages-misconduct",
+          "PH-refused-to-look-away",
+          "PH-reporting-is-risky",
+          "PH-losing-a-job-being-bullied-or-being-punished",
+          "PH-suffer-for-years",
+          "PH-independent-agencies",
+          "PH-audit-organisations",
+          "PH-protect-whistleblowers-and-punish-those-who",
+          "PH-safe-hotlines-and-legal-advice"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 358,
+      "qtype": "Opinion",
+      "question": "Discuss how community policing impacts public safety.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:36.189Z",
+          "words": 289,
+          "text": "In many cities, police officers spend most of their time in cars, responding to emergency calls, but some forces now assign officers to walk the same streets and talk to residents. This essay will explain two key ways in which community policing affects public safety: by building trust and information, and by preventing crime before it happens.\n\nFirst and foremost, community policing builds trust between officers and residents. Officers who walk the same streets, meet shopkeepers and talk to young people learn about local problems early, and residents who trust them are more willing to share information. An officer who walks the same neighbourhood every day, for example, may learn about a bullying problem from a shopkeeper before it becomes serious. Trust also encourages victims and witnesses, who may otherwise be afraid, to come forward. In communities that have been suspicious of the police, regular friendly contact can repair relations that were damaged by past incidents.\n\nIn addition, community policing helps to prevent crime. Officers who know the area can recognise unusual behaviour, work with schools and youth groups, and deal with small problems such as graffiti and vandalism that can otherwise create an atmosphere in which more serious crimes occur. Residents who feel safer go out more, which makes streets livelier and discourages offenders. However, it has limits. It needs more officers and training, and it may not suit emergencies or large areas. If officers are moved too often, relationships do not form. It also works best when communities are involved in decisions, not simply informed.\n\nTo sum up, community policing improves public safety by building trust and by helping to prevent crime, provided that it is properly staffed and supported. For these reasons, it deserves continued investment.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có bố cục tốt, lập luận chặt chẽ và giải quyết trọn vẹn yêu cầu đề bài về chủ đề cảnh sát cộng đồng. Dù vẫn còn một số điểm nhỏ cần cải thiện về sự phân bố ý và vốn từ vựng, bài viết đạt mức độ hoàn thiện khá cao.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai chứa cả lợi ích lẫn hạn chế (nhưng nhìn chung vẫn chấp nhận được nếu phân tích mượt mà hơn).",
+              "Một số từ ngữ bị lặp lại nhiều lần như 'streets', 'officers'."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi về tác động của cảnh sát khu vực đối với an toàn công cộng, đưa ra các luận điểm rõ ràng về niềm tin, thông tin và phòng ngừa tội phạm. Có phần thảo luận về các hạn chế ở đoạn thân bài thứ hai, giúp bài viết cân bằng và toàn diện hơn.",
+              "coherenceCohesion": "Các đoạn văn được tổ chức hợp lý với câu chủ đề rõ ràng và các từ nối hiệu quả như 'First and foremost' và 'In addition'. Tuy nhiên, việc nhồi nhét cả phần lợi ích lẫn hạn chế trong cùng một đoạn thân bài thứ hai làm suy giảm tính mạch lạc đôi chút.",
+              "lexicalResource": "Sử dụng từ vựng ở mức khá tốt với các cụm từ chủ đề liên quan đến tội phạm và thực thi pháp luật như 'community policing', 'emergency calls', và 'prevent crime'. Tuy nhiên, một số cụm từ còn lặp lại và thiếu các từ vựng học thuật nâng cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp tốt giữa câu đơn và câu phức với các mệnh đề quan hệ và điều kiện. Độ chính xác cao, chỉ mắc một vài lỗi nhỏ không đáng kể về dấu câu hoặc cấu trúc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: cảnh sát cộng đồng ảnh hưởng thế nào đến an ninh công cộng",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how… impact'",
+            "think": "Mở bài so sánh cảnh sát tuần tra bằng xe với cảnh sát đi bộ nói chuyện cư dân; báo hai cách: xây niềm tin và thông tin; ngăn tội phạm. Khác đề 412 (tập trung 'trust') ở chỗ nhấn an ninh tổng thể.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — niềm tin và thông tin",
+            "think": "Cảnh sát đi bộ cùng phố, gặp chủ cửa hàng, nói chuyện thanh niên biết vấn đề sớm; cư dân tin thì chia sẻ thông tin. Ví dụ sĩ quan đi bộ mỗi ngày biết vấn đề bắt nạt từ chủ cửa hàng. Niềm tin khuyến khích nạn nhân và nhân chứng đến trình báo; sửa chữa quan hệ bị tổn thương.",
+            "refs": [
+              "ID-cr-community-policing",
+              "EX-cr-beat-officer"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — ngăn tội phạm + giới hạn",
+            "think": "Nhận ra hành vi bất thường, làm việc với trường và nhóm thanh niên, xử lý vấn đề nhỏ (vẽ bậy, phá hoại) vốn tạo bầu không khí cho tội nặng; cư dân thấy an toàn ra ngoài nhiều hơn. Giới hạn: cần thêm sĩ quan và đào tạo; không hợp tình huống khẩn cấp hay khu vực rộng; điều chuyển quá nhiều thì quan hệ không hình thành; cần cộng đồng tham gia quyết định.",
+            "refs": [
+              "ID-cr-community-policing",
+              "ID-cr-youth-clubs",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Cải thiện an ninh nhờ niềm tin và phòng tội phạm nếu đủ nhân lực; xứng đáng được đầu tư tiếp.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-community-policing",
+          "EX-cr-beat-officer",
+          "PH-responding-to-emergency-calls",
+          "PH-building-trust-and-information",
+          "PH-preventing-crime-before-it-happens",
+          "PH-builds-trust-between-officers-and-residents",
+          "PH-walk-the-same-streets",
+          "PH-meet-shopkeepers",
+          "PH-learn-about-local-problems-early",
+          "PH-willing-to-share-information",
+          "PH-a-bullying-problem",
+          "PH-come-forward",
+          "PH-victims-and-witnesses",
+          "PH-repair-relations-that-were-damaged",
+          "PH-recognise-unusual-behaviour",
+          "PH-graffiti-and-vandalism",
+          "PH-create-an-atmosphere",
+          "PH-feel-safer",
+          "PH-more-officers-and-training",
+          "PH-involved-in-decisions"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 365,
+      "qtype": "Opinion",
+      "question": "Discuss the role of youth clubs in preventing crime.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:36.357Z",
+          "words": 299,
+          "text": "Many offences by young people happen in the late afternoon and evening, when school is over and parents are still at work, and youth clubs try to fill this gap. This essay will explain two key ways in which youth clubs help to prevent crime: by offering safe places and positive activities, and by building skills and relationships.\n\nFirst and foremost, youth clubs give young people safe places, positive activities and role models. Sport, music and mentoring fill the unsupervised hours when many offences occur, and give young people a sense of belonging that gangs might otherwise provide. A youth club that opens until ten at night, for example, gives teenagers somewhere to go instead of wandering the streets. Because they are busy and supervised, young people have fewer opportunities and less boredom, which is a common reason for vandalism and petty theft. Adults who run the clubs also notice early signs of trouble at home or school and can offer help.\n\nIn addition, youth clubs build skills and relationships that reduce the pull of crime. Team games teach cooperation and self-control, workshops teach practical skills such as cooking, music or computing, and mentors show that there are alternatives to violence. Young people who feel valued and who have friends outside gangs are less likely to take risks. However, clubs reduce crime only if they reach those most at risk and are properly funded. Some teenagers stay away, and clubs that are poorly run or underfunded may close, which disappoints the young people who rely on them. Clubs must therefore be free or cheap, welcoming and led by well-trained, reliable staff.\n\nTo sum up, youth clubs can help to prevent crime by providing safe activities and by building skills and positive relationships. For these reasons, they deserve sustained funding.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt độ dài vượt mức tối thiểu và phân tích sâu sắc vai trò của câu lạc bộ thanh thiếu niên trong việc phòng chống tội phạm. Tuy nhiên, việc tinh chỉnh một số cấu trúc câu và từ vựng sẽ giúp bài viết đạt độ hoàn thiện cao hơn.",
+            "weaknesses": [
+              "Một số câu ghép dài có thể được cô đọng lại để tăng tính súc tích.",
+              "Cần thêm các từ vựng học thuật cấp độ cao hơn (C1/C2) ở phần phân tích tác động."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi thảo luận về vai trò của câu lạc bộ thanh thiếu niên trong việc ngăn chặn tội phạm. Lập trường rõ ràng từ mở bài đến kết bài, các ý chính được phát triển logic và có ví dụ thực tế minh họa tốt.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc đoạn văn chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ dàng theo dõi mạch luận điểm.",
+              "lexicalResource": "Từ vựng phong phú và phù hợp với chủ đề xã hội (offences, unsupervised hours, vandalism, petty theft, pull of crime). Các cụm từ kết hợp (collocations) tự nhiên và chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu ghép và câu phức. Ngữ pháp chính xác, các thì và cấu trúc mệnh đề quan hệ được sử dụng rất thành thạo."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của câu lạc bộ thanh niên trong phòng chống tội phạm",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài nêu thời điểm nhiều vụ phạm pháp của người trẻ xảy ra (chiều tối, sau giờ học, cha mẹ đi làm) rồi báo hai cách: chỗ an toàn và hoạt động tích cực; xây kỹ năng và quan hệ.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — chỗ an toàn, hoạt động tích cực",
+            "think": "Thể thao, âm nhạc, người hướng dẫn lấp giờ không giám sát; cảm giác thuộc về thay cho băng nhóm; ví dụ câu lạc bộ mở đến mười giờ tối. Bận và có người giám sát nên ít cơ hội và ít chán (lý do phổ biến của phá hoại, trộm vặt); người lớn nhận ra dấu hiệu rắc rối ở nhà, ở trường.",
+            "refs": [
+              "ID-cr-youth-clubs",
+              "EX-cr-evening-club",
+              "ID-sport-youth"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — kỹ năng, quan hệ + giới hạn",
+            "think": "Trò chơi đội dạy hợp tác, tự chủ; hội thảo dạy kỹ năng (nấu ăn, nhạc, tin học); người hướng dẫn cho thấy lựa chọn thay thế bạo lực; người trẻ có bạn ngoài băng nhóm ít liều. Giới hạn: chỉ giảm tội phạm nếu đến được nhóm nguy cơ và đủ kinh phí; một số thiếu niên tránh xa; câu lạc bộ kém có thể đóng; cần miễn phí hoặc rẻ, thân thiện, nhân viên được đào tạo.",
+            "refs": [
+              "ID-cr-youth-clubs",
+              "ID-cr-city-solutions",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Giúp phòng tội phạm nhờ hoạt động an toàn và quan hệ tích cực; xứng đáng được tài trợ lâu dài.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-youth-clubs",
+          "EX-cr-evening-club",
+          "PH-offences-by-young-people",
+          "PH-school-is-over-and-parents-are-still-at-work",
+          "PH-youth-clubs",
+          "PH-safe-places-and-positive-activities",
+          "PH-building-skills-and-relationships",
+          "PH-safe-places-positive-activities-and-role-mod",
+          "PH-fill-the-unsupervised-hours",
+          "PH-a-sense-of-belonging-that-gangs-might-otherw",
+          "PH-wandering-the-streets",
+          "PH-busy-and-supervised",
+          "PH-boredom",
+          "PH-vandalism-and-petty-theft",
+          "PH-early-signs-of-trouble-at-home-or-school",
+          "PH-cooperation-and-self-control",
+          "PH-practical-skills",
+          "PH-alternatives-to-violence",
+          "PH-take-risks",
+          "PH-reach-those-most-at-risk",
+          "PH-properly-funded"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 412,
+      "qtype": "Extent",
+      "question": "Some argue that community policing builds trust. To what extent do you agree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:36.209Z",
+          "words": 276,
+          "text": "Police work depends heavily on cooperation from the public, and some argue that community policing builds trust. I largely agree, since regular contact between officers and residents encourages cooperation, although trust also depends on how fairly and respectfully the police behave.\n\nTo begin with, community policing builds trust between officers and residents. Officers who walk the same streets, meet shopkeepers and talk to young people learn about local problems early, and residents who trust them are more willing to share information. An officer who walks the same neighbourhood every day, for example, may learn about a bullying problem from a shopkeeper before it becomes serious. When people see the police as familiar neighbours who listen rather than as strangers who arrive only after a crime, they feel respected and are more willing to report offences and act as witnesses. Over time, this builds a relationship of mutual respect that is valuable in emergencies.\n\nFurthermore, community policing can improve relations with groups that have been suspicious of the police, such as young people and ethnic minorities. Regular meetings, open days and joint projects such as sports events give both sides a chance to understand each other. However, contact alone does not guarantee trust. Trust also depends on how fairly and respectfully officers behave. If residents experience rudeness, discrimination or abuse, friendly events will not repair the damage, and officers who are moved too often cannot form relationships. Police forces should therefore combine community engagement with accountability, training and honest handling of complaints.\n\nIn conclusion, community policing builds trust to a large extent by creating regular, friendly contact, provided that it is accompanied by fair and respectful behaviour.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn đạt chất lượng tốt, bố cục chặt chẽ và lập luận rõ ràng về chủ đề cảnh sát khu vực. Để đạt band điểm cao hơn, bạn cần làm sắc bén hơn nữa các lập luận và sử dụng từ vựng mang tính học thuật cao hơn.",
+            "weaknesses": [
+              "Một số ví dụ hơi mang tính kể chuyện thay vì phân tích sâu sắc.",
+              "Cách dùng từ đôi chỗ còn an toàn, thiếu các cấu trúc từ vựng học thuật xuất sắc."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng đồng ý phần lớn (largely agree), đưa ra quan điểm rõ ràng ngay từ mở bài và phát triển các luận điểm thuyết phục. Các ý chính về việc xây dựng mối quan hệ và sự công bằng đều được phân tích hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc 4 đoạn rõ ràng. Các từ nối và phương tiện liên kết (To begin with, Furthermore, In conclusion) được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ liên quan đến chủ đề (cooperation from the public, community policing, mutual respect, ethnic minorities). Tuy nhiên, vẫn thiếu một số từ vựng nâng cao hiếm gặp hơn ở band 8.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức (dù dài nhưng rõ nghĩa). Ngữ pháp và các thì được kiểm soát tốt, rất ít lỗi sai sót nhỏ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: cảnh sát cộng đồng xây dựng niềm tin — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài nêu nền tảng (công việc cảnh sát phụ thuộc hợp tác của công chúng) rồi largely agree + giới hạn (niềm tin còn phụ thuộc cách cảnh sát cư xử).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — quan hệ và hợp tác",
+            "think": "Tái dùng ý đề 358 nhưng tập trung niềm tin: sĩ quan đi bộ, gặp chủ cửa hàng biết vấn đề sớm; ví dụ vấn đề bắt nạt; thấy cảnh sát như hàng xóm quen biết biết lắng nghe thay vì người lạ chỉ đến sau tội phạm thì cảm thấy được tôn trọng, sẵn lòng báo tội, làm nhân chứng; xây quan hệ tôn trọng lẫn nhau.",
+            "refs": [
+              "ID-cr-community-policing",
+              "EX-cr-beat-officer",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Cải thiện quan hệ với nhóm từng nghi ngờ cảnh sát (người trẻ, dân tộc thiểu số): họp thường xuyên, ngày mở cửa, dự án chung như sự kiện thể thao. Giới hạn: tiếp xúc không đảm bảo niềm tin; thô lỗ, phân biệt đối xử, lạm dụng làm hỏng; sĩ quan điều chuyển quá nhiều; cần kết hợp trách nhiệm giải trình, đào tạo, xử lý khiếu nại trung thực.",
+            "refs": [
+              "ID-cr-community-policing",
+              "ID-cr-report-protect",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Xây niềm tin ở mức độ lớn nếu kèm cư xử công bằng, tôn trọng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-cooperation-from-the-public",
+          "PH-builds-trust",
+          "PH-regular-contact-between-officers-and-residen",
+          "PH-encourages-cooperation",
+          "PH-how-fairly-and-respectfully-the-police-behav",
+          "PH-familiar-neighbours-who-listen",
+          "PH-strangers-who-arrive-only-after-a-crime",
+          "PH-feel-respected",
+          "PH-act-as-witnesses",
+          "PH-valuable-in-emergencies",
+          "PH-groups-that-have-been-suspicious-of-the-poli",
+          "PH-ethnic-minorities",
+          "PH-open-days-and-joint-projects",
+          "PH-contact-alone-does-not-guarantee-trust",
+          "PH-rudeness-discrimination-or-abuse",
+          "PH-repair-the-damage",
+          "PH-moved-too-often",
+          "PH-accountability-training-and-honest-handling",
+          "PH-regular-friendly-contact"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 454,
+      "qtype": "Discuss both views",
+      "question": "Should individuals be responsible for reporting corruption, or should society/government ensure transparency? Discuss.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:42.315Z",
+          "words": 286,
+          "text": "Corruption wastes public money, damages trust and holds back development, and opinions differ on whether individuals should be responsible for reporting it or whether society and government should ensure transparency. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual reporting argue that people who witness corruption have a duty to speak. Officials and employees often see bribes, false invoices or favouritism long before outsiders do, and a society where such behaviour is tolerated will never change. An accountant who notices false invoices at her firm, for example, may be the only person who can stop the crime. When citizens refuse to pay bribes and report those who demand them, corruption becomes riskier, and a culture of honesty can spread. Journalists and activists who expose corruption have often made reforms possible.\n\nOn the other hand, advocates of government transparency point out that reporting is dangerous and cannot be the main defence. People who report powerful officials may lose their jobs, face threats or be ignored if the same corrupt system receives their complaint. Governments must make public spending transparent. Open contracts, published budgets, independent audits and a free press make it harder to hide corruption, and independent agencies can investigate without fear of the people they examine. A city that publishes every building contract online, for example, allows journalists and citizens to spot suspicious prices. Laws that protect whistleblowers and punish retaliation are also essential.\n\nIn conclusion, both views have merit. Overall, I believe that governments must take the lead by ensuring transparency and independent investigation, while citizens support them by refusing to take part in corruption and by reporting it when it is safe to do so.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, bố cục mạch lạc và lập luận chặt chẽ về một chủ đề xã hội phức tạp. Người viết cần tinh chỉnh một chút về cách diễn đạt từ vựng và làm rõ quan điểm cá nhân ngay từ phần mở bài để đạt điểm cao hơn.",
+            "weaknesses": [
+              "Mở bài chưa hé lộ trước quan điểm cá nhân mà chỉ viết chung chung 'my own opinion'.",
+              "Một số cụm từ dùng lặp lại hoặc chưa đạt độ tự nhiên cao nhất ở mức band 8+."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt dạng câu hỏi Discuss both views, phân tích cả hai chiều hướng và đưa ra quan điểm cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển logic, tuy nhiên phần quan điểm cá nhân ở thân bài chưa được hé lộ rõ ở phần mở bài (chỉ nói chung chung là 'my own opinion').",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng, sử dụng linh hoạt các từ nối chuyển ý (On the one hand, On the other hand, In conclusion). Các ý tưởng trong từng đoạn được sắp xếp mạch lạc, dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng ở mức khá tốt, sử dụng chính xác nhiều từ chủ đề tham nhũng (bribes, false invoices, favouritism, transparency, independent audits, whistleblowers). Tuy nhiên, một số cụm từ còn khá thông thường, chưa đạt độ tinh tế của band 8.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, câu ghép và câu phức được sử dụng thành thạo với rất ít lỗi sai. Các thì được dùng chính xác, sự hòa hợp chủ ngữ và động từ tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: cá nhân báo cáo tham nhũng hay xã hội / chính phủ đảm bảo minh bạch (góc khác đề 334: minh bạch công và cơ quan độc lập)",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu tác hại tham nhũng (lãng phí tiền công, hại niềm tin, kìm hãm phát triển) rồi hai phe; tránh lặp hoàn toàn đề 334 bằng cách nhấn minh bạch ngân sách, hợp đồng.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Cá nhân",
+            "think": "Người chứng kiến tham nhũng có nghĩa vụ lên tiếng; quan chức và nhân viên thấy hối lộ, hoá đơn giả, thiên vị trước người ngoài; xã hội dung thứ sẽ không đổi; công dân từ chối hối lộ và tố cáo người đòi làm tham nhũng rủi ro hơn; văn hoá trung thực lan rộng; nhà báo và nhà hoạt động mở đường cải cách. Ví dụ kế toán phát hiện hoá đơn giả.",
+            "refs": [
+              "ID-cr-report-protect",
+              "EX-cr-colleague-fraud"
+            ]
+          },
+          {
+            "step": "3. Chính phủ minh bạch",
+            "think": "Báo cáo nguy hiểm, không thể là phòng tuyến chính: người tố cáo quan chức quyền lực mất việc, bị đe doạ hoặc bị bỏ qua nếu hệ thống tham nhũng nhận đơn; chính phủ công khai chi tiêu: hợp đồng mở, ngân sách công bố, kiểm toán độc lập, báo chí tự do, cơ quan độc lập; ví dụ thành phố công bố mọi hợp đồng xây dựng; luật bảo vệ người tố giác.",
+            "refs": [
+              "ID-cr-transparency",
+              "EX-cr-open-contracts",
+              "ID-env-gov-rules"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính phủ dẫn đầu bằng minh bạch và điều tra độc lập; công dân hỗ trợ bằng từ chối tham gia và báo cáo khi an toàn.",
+            "refs": [
+              "ID-env-partnership",
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-transparency",
+          "EX-cr-open-contracts",
+          "PH-corruption-wastes-public-money",
+          "PH-damages-trust-and-holds-back-development",
+          "PH-reporting-it",
+          "PH-ensure-transparency",
+          "PH-witness-corruption",
+          "PH-a-duty-to-speak",
+          "PH-bribes-false-invoices-or-favouritism",
+          "PH-a-society-where-such-behaviour-is-tolerated",
+          "PH-refuse-to-pay-bribes",
+          "PH-a-culture-of-honesty",
+          "PH-made-reforms-possible",
+          "PH-face-threats",
+          "PH-the-same-corrupt-system",
+          "PH-open-contracts-published-budgets-independent",
+          "PH-a-free-press",
+          "PH-hide-corruption",
+          "PH-investigate-without-fear",
+          "PH-suspicious-prices",
+          "PH-punish-retaliation"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 491,
+      "qtype": "Opinion",
+      "question": "In your opinion, should countries invest more in law enforcement and the legal system? Explain why.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:16:41.097Z",
+          "words": 301,
+          "text": "Safe streets, honest dealings and fair trials depend on police, courts and prisons that work well, and in my opinion countries should invest more in law enforcement and the legal system. I believe this because a well-funded system catches more offenders and delivers justice faster, and because it protects citizens and economic activity.\n\nTo begin with, a well-funded law enforcement system catches more offenders and delivers justice faster. Trained detectives, modern forensic technology and enough judges reduce backlogs, so that victims see results and offenders expect to be caught. A victim who must wait three years for a trial, for example, may lose faith in the justice system, while a suspect who is held for months without a hearing suffers an injustice of his own. Investment in training also raises standards of fairness and reduces wrongful convictions, and well-paid officers are less open to bribery. Technology such as DNA testing and digital forensics makes it possible to solve crimes that once went unpunished.\n\nFurthermore, an effective justice system supports economic and social life. Businesses invest where contracts are enforced and property is protected, and citizens who feel safe are more willing to work, trade and take part in community life. Courts that resolve disputes quickly save time and money for ordinary people, and legal aid ensures that poorer citizens are not denied justice. However, investment should be balanced with prevention and fair treatment. Spending only on arrests and prisons will not solve the root causes of crime, and a system that is not accountable can abuse its power. Money should therefore be spent wisely, alongside programmes for education, jobs and rehabilitation.\n\nIn conclusion, I believe that countries should invest more in law enforcement and the legal system, because it delivers safety and fairness, provided that spending is balanced and carefully supervised.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt với cấu trúc chặt chẽ, lập luận thuyết phục và từ vựng phong phú về chủ đề pháp luật. Việc bổ sung góc nhìn cân bằng về việc đầu tư kết hợp giáo dục giúp bài viết mang tính khách quan và đạt điểm cao hơn.",
+            "weaknesses": [
+              "Phần mở bài hơi ngắn, có thể mở rộng thêm một câu dẫn dắt chung.",
+              "Một số câu ghép có cấu trúc khá dài, đôi chỗ có thể ngắt câu để tạo điểm nhấn mạnh mẽ hơn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi của đề bài với lập trường rõ ràng được duy trì xuyên suốt. Các luận điểm được phát triển tốt, có đưa ra ví dụ và góc nhìn cân bằng ở đoạn thân bài thứ hai (nhắc đến việc kết hợp với phòng ngừa tội phạm).",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với cấu trúc đoạn văn rõ ràng, từ nối được sử dụng tự nhiên và hiệu quả. Các ý tưởng phát triển tuần tự từ việc xử lý tội phạm đến tác động kinh tế xã hội.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng nhiều cụm từ pháp lý và xã hội chính xác như 'forensic technology', 'wrongful convictions', 'legal aid'. Chính tả tốt và các collocation tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức dài được kiểm soát tốt với độ chính xác cao về thì, mạo từ và sự hòa hợp chủ ngữ. Ít lỗi ngữ pháp xuất hiện trong bài."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion: có nên đầu tư nhiều hơn vào thực thi pháp luật và hệ thống pháp lý — agree có điều kiện",
+        "plan": [
+          {
+            "step": "1. Khung Opinion",
+            "think": "Mở bài nêu điều kiện của xã hội an toàn (cảnh sát, toà án, nhà tù hoạt động tốt) rồi lập trường + hai lý do (bắt nhiều và công lý nhanh; hỗ trợ kinh tế xã hội) + điều kiện (cân bằng với phòng ngừa).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — bắt nhiều hơn, công lý nhanh hơn",
+            "think": "Thám tử được đào tạo, công nghệ pháp y hiện đại, đủ thẩm phán giảm tồn đọng; nạn nhân thấy kết quả và kẻ phạm tội kỳ vọng bị bắt. Ví dụ nạn nhân chờ ba năm mới xét xử mất niềm tin; nghi phạm bị giam hàng tháng không có phiên toà cũng bị bất công. Đào tạo nâng chuẩn công bằng, giảm kết án oan; công chức được trả lương tốt ít hối lộ; DNA, pháp y số.",
+            "refs": [
+              "ID-cr-invest-enforcement",
+              "EX-cr-court-backlog",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — hỗ trợ kinh tế xã hội + điều kiện",
+            "think": "Doanh nghiệp đầu tư khi hợp đồng được thực thi và tài sản được bảo vệ; công dân thấy an toàn sẵn sàng làm việc, buôn bán, tham gia cộng đồng; toà giải quyết tranh chấp nhanh tiết kiệm thời gian tiền bạc; trợ giúp pháp lý. Điều kiện: cân bằng với phòng ngừa và đối xử công bằng; chỉ chi cho bắt giữ và nhà tù không giải quyết gốc rễ; hệ thống không chịu trách nhiệm giải trình có thể lạm quyền.",
+            "refs": [
+              "ID-cr-invest-enforcement",
+              "ID-cr-city-solutions",
+              "ID-cr-policing-social",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nên đầu tư nhiều hơn với điều kiện chi tiêu cân bằng và giám sát cẩn thận.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-cr-invest-enforcement",
+          "EX-cr-court-backlog",
+          "PH-safe-streets-honest-dealings-and-fair-trials",
+          "PH-invest-more-in-law-enforcement-and-the-legal",
+          "PH-catches-more-offenders-and-delivers-justice",
+          "PH-protects-citizens-and-economic-activity",
+          "PH-trained-detectives",
+          "PH-modern-forensic-technology",
+          "PH-reduce-backlogs",
+          "PH-victims-see-results",
+          "PH-offenders-expect-to-be-caught",
+          "PH-lose-faith-in-the-justice-system",
+          "PH-held-for-months-without-a-hearing",
+          "PH-reduces-wrongful-convictions",
+          "PH-open-to-bribery",
+          "PH-dna-testing-and-digital-forensics",
+          "PH-went-unpunished",
+          "PH-contracts-are-enforced-and-property-is-prote",
+          "PH-resolve-disputes-quickly",
+          "PH-legal-aid",
+          "PH-the-root-causes-of-crime",
+          "PH-abuse-its-power"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    }
+  ]
+}

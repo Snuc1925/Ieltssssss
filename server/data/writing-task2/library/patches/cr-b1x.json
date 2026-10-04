@@ -1,0 +1,6 @@
+{
+"entries": [
+ {"id":"ID-cr-upholding-law","type":"idea","topics":["crime","society","government"],"tags":["law","responsibility"],"stance":"caveat","label_vi":"Giữ gìn pháp luật: công dân tuân thủ tự nguyện và hợp tác; nhà nước ban hành, điều tra, xét xử công bằng","claim":"A law is only as strong as the willingness of citizens to follow it.","because":"Most laws are obeyed voluntarily and police cannot watch everyone, but only the state can make fair laws, investigate crimes and punish offenders lawfully.","result":"Citizens and government each carry part of the responsibility.","example_ids":["EX-cr-red-light"],"fits":["Discuss both views"],"reuse_vi":"Đề trách nhiệm thực thi pháp luật."},
+ {"id":"EX-cr-red-light","type":"example","topics":["crime","society"],"text":"A driver who stops at a red light on an empty road, for example, shows a respect for rules that no number of cameras could produce.","caution_vi":"Ví dụ giả định."}
+]
+}

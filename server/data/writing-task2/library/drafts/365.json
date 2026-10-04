@@ -1,0 +1,130 @@
+{
+  "questionId": 365,
+  "text": "Many offences by young people happen in the late afternoon and evening, when school is over and parents are still at work, and youth clubs try to fill this gap. This essay will explain two key ways in which youth clubs help to prevent crime: by offering safe places and positive activities, and by building skills and relationships.\n\nFirst and foremost, youth clubs give young people safe places, positive activities and role models. Sport, music and mentoring fill the unsupervised hours when many offences occur, and give young people a sense of belonging that gangs might otherwise provide. A youth club that opens until ten at night, for example, gives teenagers somewhere to go instead of wandering the streets. Because they are busy and supervised, young people have fewer opportunities and less boredom, which is a common reason for vandalism and petty theft. Adults who run the clubs also notice early signs of trouble at home or school and can offer help.\n\nIn addition, youth clubs build skills and relationships that reduce the pull of crime. Team games teach cooperation and self-control, workshops teach practical skills such as cooking, music or computing, and mentors show that there are alternatives to violence. Young people who feel valued and who have friends outside gangs are less likely to take risks. However, clubs reduce crime only if they reach those most at risk and are properly funded. Some teenagers stay away, and clubs that are poorly run or underfunded may close, which disappoints the young people who rely on them. Clubs must therefore be free or cheap, welcoming and led by well-trained, reliable staff.\n\nTo sum up, youth clubs can help to prevent crime by providing safe activities and by building skills and positive relationships. For these reasons, they deserve sustained funding.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của câu lạc bộ thanh niên trong phòng chống tội phạm",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu thời điểm nhiều vụ phạm pháp của người trẻ xảy ra (chiều tối, sau giờ học, cha mẹ đi làm) rồi báo hai cách: chỗ an toàn và hoạt động tích cực; xây kỹ năng và quan hệ.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — chỗ an toàn, hoạt động tích cực",
+        "think": "Thể thao, âm nhạc, người hướng dẫn lấp giờ không giám sát; cảm giác thuộc về thay cho băng nhóm; ví dụ câu lạc bộ mở đến mười giờ tối. Bận và có người giám sát nên ít cơ hội và ít chán (lý do phổ biến của phá hoại, trộm vặt); người lớn nhận ra dấu hiệu rắc rối ở nhà, ở trường.",
+        "refs": [
+          "ID-cr-youth-clubs",
+          "EX-cr-evening-club",
+          "ID-sport-youth"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — kỹ năng, quan hệ + giới hạn",
+        "think": "Trò chơi đội dạy hợp tác, tự chủ; hội thảo dạy kỹ năng (nấu ăn, nhạc, tin học); người hướng dẫn cho thấy lựa chọn thay thế bạo lực; người trẻ có bạn ngoài băng nhóm ít liều. Giới hạn: chỉ giảm tội phạm nếu đến được nhóm nguy cơ và đủ kinh phí; một số thiếu niên tránh xa; câu lạc bộ kém có thể đóng; cần miễn phí hoặc rẻ, thân thiện, nhân viên được đào tạo.",
+        "refs": [
+          "ID-cr-youth-clubs",
+          "ID-cr-city-solutions",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giúp phòng tội phạm nhờ hoạt động an toàn và quan hệ tích cực; xứng đáng được tài trợ lâu dài.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-youth-clubs",
+      "EX-cr-evening-club"
+    ]
+  },
+  "chunks": [
+    [
+      "offences by young people",
+      "vụ phạm pháp của người trẻ"
+    ],
+    [
+      "school is over and parents are still at work",
+      "tan học và cha mẹ vẫn đang đi làm"
+    ],
+    [
+      "youth clubs",
+      "câu lạc bộ thanh niên"
+    ],
+    [
+      "help to prevent crime",
+      "giúp ngăn tội phạm"
+    ],
+    [
+      "safe places and positive activities",
+      "nơi an toàn và hoạt động tích cực"
+    ],
+    [
+      "building skills and relationships",
+      "xây dựng kỹ năng và quan hệ"
+    ],
+    [
+      "safe places, positive activities and role models",
+      "nơi an toàn, hoạt động tích cực và hình mẫu"
+    ],
+    [
+      "fill the unsupervised hours",
+      "lấp những giờ không có người giám sát"
+    ],
+    [
+      "a sense of belonging that gangs might otherwise provide",
+      "cảm giác thuộc về mà băng nhóm lẽ ra mang lại"
+    ],
+    [
+      "wandering the streets",
+      "lang thang ngoài phố"
+    ],
+    [
+      "busy and supervised",
+      "bận rộn và có người giám sát"
+    ],
+    [
+      "boredom",
+      "sự chán nản"
+    ],
+    [
+      "vandalism and petty theft",
+      "phá hoại và trộm vặt"
+    ],
+    [
+      "early signs of trouble at home or school",
+      "dấu hiệu sớm của rắc rối ở nhà hoặc trường"
+    ],
+    [
+      "cooperation and self-control",
+      "hợp tác và tự chủ"
+    ],
+    [
+      "practical skills",
+      "kỹ năng thực tế"
+    ],
+    [
+      "alternatives to violence",
+      "lựa chọn thay thế cho bạo lực"
+    ],
+    [
+      "take risks",
+      "liều lĩnh"
+    ],
+    [
+      "reach those most at risk",
+      "tiếp cận những người có nguy cơ cao nhất"
+    ],
+    [
+      "properly funded",
+      "được tài trợ đầy đủ"
+    ]
+  ]
+}

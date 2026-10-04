@@ -1,0 +1,128 @@
+{
+  "questionId": 91,
+  "text": "Opinions are divided as to whether public money should be spent mainly on policing or on social services. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of policing argue that police respond to crime at once. Officers deter offenders, protect victims and catch criminals, and the presence of patrols makes residents feel safe enough to go out, shop and invest in their neighbourhood. A town with regular patrols, for example, tends to experience fewer break-ins and less vandalism, and a quick response can save lives when violence occurs. Residents who feel secure are more likely to work, trade and send their children to school, so safety is the foundation of everyday life. Police also deal with emergencies that no other service can handle, from road accidents to terrorism.\n\nOn the other hand, supporters of social services point out that they help to prevent crime by dealing with its causes. Jobs, mental health care, housing support and youth services reduce the pressures that lead people to crime in the first place, and they cost far less than arrests, trials and prison sentences. A young person who is helped into training, for instance, is less likely to join a gang and may become a taxpayer instead of an offender. Social services also help victims and reduce reoffending, so their effect lasts longer than short-term deterrence. However, their results take years to appear, and the public often demands visible action.\n\nIn conclusion, both views have merit. Overall, I believe that a balanced budget gives the best results, with enough police to ensure immediate safety and a growing share for social services that prevent crime in the long term.",
+  "analysis": {
+    "type_vi": "Discuss both views: chi cho cảnh sát hay dịch vụ xã hội",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Dùng cấu trúc các đề 'chi tiêu chính phủ' đã làm (31, 498, 51, 151): mỗi thân bài một phía; ý kiến riêng cân bằng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe cảnh sát",
+        "think": "Cảnh sát phản ứng ngay: răn đe, bảo vệ nạn nhân, bắt tội phạm; tuần tra khiến cư dân thấy an toàn để ra ngoài, mua sắm, đầu tư; phản ứng nhanh cứu mạng; an toàn là nền tảng cuộc sống. Ví dụ thị trấn tuần tra đều có ít trộm đột nhập hơn. Cảnh sát xử lý khẩn cấp không dịch vụ nào thay được.",
+        "refs": [
+          "ID-cr-policing-social",
+          "ID-health-foundation"
+        ]
+      },
+      {
+        "step": "3. Phe dịch vụ xã hội",
+        "think": "Phòng tội phạm bằng giải quyết nguyên nhân: việc làm, chăm sóc tâm thần, nhà ở, dịch vụ thanh niên; rẻ hơn bắt giữ, xét xử, tù; ví dụ thanh niên được đào tạo ít vào băng nhóm. Giúp nạn nhân, giảm tái phạm; nhưng kết quả mất nhiều năm, công chúng đòi hành động thấy được.",
+        "refs": [
+          "ID-cr-policing-social",
+          "ID-cr-city-solutions",
+          "ID-health-prevention-cheaper"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Ngân sách cân bằng: đủ cảnh sát cho an toàn trước mắt và phần ngày càng lớn cho dịch vụ xã hội phòng tội phạm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-policing-social"
+    ]
+  },
+  "chunks": [
+    [
+      "policing",
+      "công tác cảnh sát"
+    ],
+    [
+      "social services",
+      "dịch vụ xã hội"
+    ],
+    [
+      "supporters of policing",
+      "người ủng hộ công tác cảnh sát"
+    ],
+    [
+      "respond to crime at once",
+      "phản ứng với tội phạm ngay lập tức"
+    ],
+    [
+      "deter offenders, protect victims",
+      "răn đe kẻ phạm tội, bảo vệ nạn nhân"
+    ],
+    [
+      "the presence of patrols",
+      "sự hiện diện của tuần tra"
+    ],
+    [
+      "feel safe enough to go out",
+      "cảm thấy đủ an toàn để ra ngoài"
+    ],
+    [
+      "regular patrols",
+      "tuần tra thường xuyên"
+    ],
+    [
+      "fewer break-ins and less vandalism",
+      "ít đột nhập và phá hoại hơn"
+    ],
+    [
+      "a quick response can save lives",
+      "phản ứng nhanh có thể cứu mạng"
+    ],
+    [
+      "the foundation of everyday life",
+      "nền tảng của cuộc sống hằng ngày"
+    ],
+    [
+      "deal with emergencies",
+      "xử lý tình huống khẩn cấp"
+    ],
+    [
+      "help to prevent crime",
+      "giúp ngăn tội phạm"
+    ],
+    [
+      "dealing with its causes",
+      "giải quyết nguyên nhân của nó"
+    ],
+    [
+      "Jobs, mental health care, housing support and youth services",
+      "việc làm, chăm sóc tâm thần, hỗ trợ nhà ở và dịch vụ thanh niên"
+    ],
+    [
+      "arrests, trials and prison sentences",
+      "bắt giữ, xét xử và án tù"
+    ],
+    [
+      "join a gang",
+      "gia nhập băng nhóm"
+    ],
+    [
+      "reduce reoffending",
+      "giảm tái phạm"
+    ],
+    [
+      "visible action",
+      "hành động nhìn thấy được"
+    ],
+    [
+      "a balanced budget",
+      "ngân sách cân bằng"
+    ]
+  ]
+}

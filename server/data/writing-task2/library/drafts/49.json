@@ -1,0 +1,132 @@
+{
+  "questionId": 49,
+  "text": "Large cities offer opportunities and excitement, but many of them also suffer from high levels of theft, violence and drug-related crime. This essay will analyse the principal causes and propose realistic solutions.\n\nCrime in large cities is driven by inequality, unemployment and weak social ties. Where some people see wealth around them but have no job or prospects, and where neighbours do not know one another, gangs, drugs and theft become more attractive and harder to detect. A teenager who leaves school with no qualifications and no job, for example, may be drawn by a gang that offers money and belonging. In addition, crowded housing, poor schools and the easy availability of drugs and alcohol increase the risk, and the anonymity of city life makes offenders feel safe from being recognised. Families may also be under strain, leaving young people with little guidance. As a result, crime tends to concentrate in a few deprived districts.\n\nTo address this issue, governments should tackle the causes of crime as well as punish offenders. Jobs, education and youth programmes give people a stake in society, better lighting and street design make public places safer, and treatment for addiction reduces the crimes that feed it. In addition, community policing, in which officers get to know the residents they serve, helps to build trust and gives early warning of problems. Faster and fairer courts, together with support for former prisoners to find work, reduce reoffending. These measures cost less than building more prisons, and the improvement lasts longer.\n\nIn conclusion, crime in large cities stems mainly from inequality, unemployment and weak community ties, but investment in opportunity, safer design and community policing offers a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tội phạm ở thành phố lớn",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu hai mặt của thành phố lớn (cơ hội và hào hứng; trộm cắp, bạo lực, tội phạm ma tuý); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Bất bình đẳng, thất nghiệp, quan hệ xã hội lỏng lẻo; người thấy giàu có xung quanh mà không có việc; hàng xóm không biết nhau. Ví dụ thiếu niên không bằng cấp, không việc bị băng nhóm lôi kéo. Nhà ở đông, trường kém, ma tuý rượu dễ có; ẩn danh; gia đình căng thẳng; tội phạm tập trung ở khu nghèo.",
+        "refs": [
+          "ID-cr-city-causes",
+          "EX-cr-jobless-teen",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Giải quyết nguyên nhân chứ không chỉ trừng phạt: việc làm, giáo dục, chương trình thanh niên, chiếu sáng và thiết kế phố, điều trị nghiện; cảnh sát cộng đồng; toà án nhanh và công bằng; hỗ trợ cựu tù nhân tìm việc; rẻ hơn xây thêm nhà tù.",
+        "refs": [
+          "ID-cr-city-solutions",
+          "ID-health-gov-tools",
+          "PH-tackle-source",
+          "PH-prevention-costly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-city-causes",
+      "ID-cr-city-solutions",
+      "EX-cr-jobless-teen"
+    ]
+  },
+  "chunks": [
+    [
+      "theft, violence and drug-related crime",
+      "trộm cắp, bạo lực và tội phạm liên quan ma tuý"
+    ],
+    [
+      "causes of crime in large cities",
+      "nguyên nhân tội phạm ở thành phố lớn"
+    ],
+    [
+      "driven by inequality, unemployment and weak social ties",
+      "bị thúc đẩy bởi bất bình đẳng, thất nghiệp và quan hệ xã hội lỏng lẻo"
+    ],
+    [
+      "no job or prospects",
+      "không có việc làm hay triển vọng"
+    ],
+    [
+      "neighbours do not know one another",
+      "hàng xóm không biết nhau"
+    ],
+    [
+      "gangs, drugs and theft become more attractive",
+      "băng nhóm, ma tuý và trộm cắp trở nên hấp dẫn hơn"
+    ],
+    [
+      "harder to detect",
+      "khó phát hiện hơn"
+    ],
+    [
+      "leaves school with no qualifications",
+      "rời trường không có bằng cấp"
+    ],
+    [
+      "a gang that offers money and belonging",
+      "băng nhóm cho tiền và cảm giác thuộc về"
+    ],
+    [
+      "crowded housing",
+      "nhà ở chật chội"
+    ],
+    [
+      "easy availability of drugs and alcohol",
+      "dễ có ma tuý và rượu"
+    ],
+    [
+      "the anonymity of city life",
+      "sự ẩn danh của cuộc sống thành phố"
+    ],
+    [
+      "feel safe from being recognised",
+      "cảm thấy an toàn không bị nhận ra"
+    ],
+    [
+      "under strain",
+      "chịu áp lực"
+    ],
+    [
+      "concentrate in a few deprived districts",
+      "tập trung ở vài khu nghèo"
+    ],
+    [
+      "a stake in society",
+      "một phần lợi ích trong xã hội"
+    ],
+    [
+      "better lighting and street design",
+      "chiếu sáng và thiết kế phố tốt hơn"
+    ],
+    [
+      "treatment for addiction",
+      "điều trị nghiện"
+    ],
+    [
+      "community policing",
+      "cảnh sát cộng đồng"
+    ],
+    [
+      "reduce reoffending",
+      "giảm tái phạm"
+    ]
+  ]
+}

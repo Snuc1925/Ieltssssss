@@ -1,0 +1,126 @@
+{
+  "questionId": 293,
+  "text": "When crime rises, governments face a choice between preventing it and punishing it, and some people prefer crime prevention measures while others prefer stricter punishments. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of prevention argue that stopping crime before it happens is cheaper and kinder than dealing with its consequences. Better street lighting, security cameras, youth programmes, drug treatment and job training reduce the opportunities and pressures that lead people to offend. A neighbourhood with a youth club and well-lit streets, for example, may see fewer incidents because young people have somewhere to go and offenders feel watched. Preventing a crime also saves the victim from suffering, and costs far less than arrests, trials and prison. Prevention can also strengthen communities, since residents who feel responsible for their area tend to look out for one another.\n\nOn the other hand, supporters of stricter punishment emphasise justice and protection. Offenders who harm others should be held accountable, and firm penalties show victims that society takes their suffering seriously. Long sentences keep dangerous people away from the public, and the prospect of a heavy penalty may deter some people from offending. Prevention is slow and uncertain, and people who have decided to commit a serious crime may not be influenced by programmes. A violent offender who is released early and attacks again, for instance, shows the cost of lenient treatment. Many citizens want to see visible consequences for wrongdoing.\n\nIn conclusion, both views have merit. Personally, I believe that prevention should receive greater emphasis because it is more effective in the long term, while proportionate punishment remains necessary for serious crimes.",
+  "analysis": {
+    "type_vi": "Discuss both views: biện pháp phòng ngừa tội phạm hay trừng phạt nghiêm khắc hơn",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu lựa chọn của chính phủ khi tội phạm tăng (phòng hay phạt); mỗi thân bài một phía; ý kiến riêng nghiêng về phòng ngừa nhưng giữ trừng phạt cho tội nghiêm trọng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe phòng ngừa",
+        "think": "Ngăn tội phạm trước khi xảy ra rẻ và nhân văn hơn; đèn đường, camera, chương trình thanh niên, điều trị ma tuý, đào tạo nghề giảm cơ hội và áp lực; ví dụ khu phố có câu lạc bộ thanh niên và đèn sáng ít sự cố hơn; bảo vệ nạn nhân khỏi đau khổ; củng cố cộng đồng.",
+        "refs": [
+          "ID-cr-city-solutions",
+          "ID-cr-policing-social",
+          "ID-health-prevention-cheaper",
+          "ID-env-recycle-convenient"
+        ]
+      },
+      {
+        "step": "3. Phe trừng phạt",
+        "think": "Công lý và bảo vệ: người hại người khác phải chịu trách nhiệm; hình phạt cứng rắn cho nạn nhân thấy xã hội coi trọng đau khổ của họ; án dài giữ người nguy hiểm xa công chúng; răn đe một số người. Phòng ngừa chậm và không chắc; người đã quyết phạm tội nặng có thể không bị chương trình ảnh hưởng. Ví dụ kẻ bạo lực được thả sớm tấn công lần nữa.",
+        "refs": [
+          "ID-cr-harsh-penalties"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhấn mạnh phòng ngừa vì hiệu quả dài hạn, trừng phạt tương xứng cho tội nghiêm trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "crime prevention measures",
+      "biện pháp phòng ngừa tội phạm"
+    ],
+    [
+      "stricter punishments",
+      "hình phạt nghiêm khắc hơn"
+    ],
+    [
+      "stopping crime before it happens",
+      "ngăn tội phạm trước khi xảy ra"
+    ],
+    [
+      "cheaper and kinder",
+      "rẻ hơn và nhân văn hơn"
+    ],
+    [
+      "dealing with its consequences",
+      "xử lý hậu quả của nó"
+    ],
+    [
+      "Better street lighting, security cameras",
+      "đèn đường tốt hơn, camera an ninh"
+    ],
+    [
+      "youth programmes, drug treatment and job training",
+      "chương trình thanh niên, điều trị ma tuý và đào tạo nghề"
+    ],
+    [
+      "the opportunities and pressures that lead people to offend",
+      "cơ hội và áp lực khiến người ta phạm tội"
+    ],
+    [
+      "offenders feel watched",
+      "kẻ phạm tội cảm thấy bị theo dõi"
+    ],
+    [
+      "saves the victim from suffering",
+      "cứu nạn nhân khỏi đau khổ"
+    ],
+    [
+      "look out for one another",
+      "trông chừng lẫn nhau"
+    ],
+    [
+      "justice and protection",
+      "công lý và sự bảo vệ"
+    ],
+    [
+      "held accountable",
+      "bị buộc chịu trách nhiệm"
+    ],
+    [
+      "takes their suffering seriously",
+      "coi trọng nỗi đau của họ"
+    ],
+    [
+      "keep dangerous people away from the public",
+      "giữ người nguy hiểm xa công chúng"
+    ],
+    [
+      "the prospect of a heavy penalty",
+      "viễn cảnh về hình phạt nặng"
+    ],
+    [
+      "slow and uncertain",
+      "chậm và không chắc chắn"
+    ],
+    [
+      "released early and attacks again",
+      "được thả sớm và tấn công lần nữa"
+    ],
+    [
+      "lenient treatment",
+      "cách xử lý khoan dung"
+    ],
+    [
+      "proportionate punishment",
+      "hình phạt tương xứng"
+    ]
+  ]
+}

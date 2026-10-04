@@ -1,0 +1,129 @@
+{
+  "questionId": 312,
+  "text": "Every year, traffic accidents kill and injure millions of people, and some argue that stricter traffic laws reduce accidents. I largely agree, since rules on speed, seat belts and drink-driving save lives when they are enforced, although laws alone cannot solve the problem.\n\nTo begin with, stricter traffic laws save lives when they are enforced. Speed limits, seat-belt rules and drink-driving laws, backed by cameras and checks, change how people drive. A stretch of road with speed cameras, for example, often sees far fewer serious crashes because drivers slow down. Many countries that introduced compulsory seat belts, lower alcohol limits and penalty points have recorded large falls in deaths, even while the number of vehicles increased. Strict rules also send a clear message about what is acceptable, and the fear of losing a licence encourages caution. Mobile phone bans can further reduce distraction at the wheel.\n\nFurthermore, laws give police the power to remove dangerous drivers from the road. However, laws alone are not enough. Road design, vehicle safety, driver education and road maintenance also have a large effect on accidents, and rules that are not enforced are easily ignored. Where police are few or corruption is common, drivers soon learn that the law has no teeth. Accidents are also caused by tiredness, poor visibility and bad weather, which laws cannot change directly. Governments should therefore combine strict laws with safer roads, better public transport, driver training and regular vehicle checks. A crossing with lights and barriers, for instance, protects pedestrians whatever the law says.\n\nIn conclusion, stricter traffic laws reduce accidents to a large extent, provided that they are enforced and supported by safe roads and good education.",
+  "analysis": {
+    "type_vi": "Extent: luật giao thông nghiêm hơn giảm tai nạn — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu quy mô tai nạn (hằng năm giết và làm bị thương hàng triệu người) rồi largely agree + lý do + giới hạn (luật một mình không đủ).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do — luật cứu mạng khi được thực thi",
+        "think": "Giới hạn tốc độ, dây an toàn, luật lái xe sau uống rượu cùng camera và kiểm tra thay đổi cách lái; ví dụ đoạn đường có camera tốc độ ít tai nạn nghiêm trọng; nhiều nước giảm mạnh tử vong dù xe tăng; thông điệp rõ về điều chấp nhận được; sợ mất bằng; cấm điện thoại; cho cảnh sát quyền loại tài xế nguy hiểm.",
+        "refs": [
+          "ID-cr-traffic-laws",
+          "EX-cr-speed-camera",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Giới hạn",
+        "think": "Thiết kế đường, an toàn xe, giáo dục lái xe, bảo trì đường cũng ảnh hưởng lớn; luật không thực thi dễ bị phớt lờ; nơi ít cảnh sát hoặc tham nhũng tài xế biết luật không có răng; mệt, tầm nhìn kém, thời tiết xấu luật không thay đổi trực tiếp; kết hợp đường an toàn hơn, giao thông công cộng, đào tạo, kiểm tra xe. Ví dụ vạch qua đường có đèn và rào chắn.",
+        "refs": [
+          "ID-cr-traffic-laws",
+          "ID-env-gov-infrastructure",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm tai nạn ở mức độ lớn nếu thực thi và có đường an toàn, giáo dục tốt.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-traffic-laws",
+      "EX-cr-speed-camera"
+    ]
+  },
+  "chunks": [
+    [
+      "traffic accidents kill and injure millions of people",
+      "tai nạn giao thông giết và làm bị thương hàng triệu người"
+    ],
+    [
+      "stricter traffic laws",
+      "luật giao thông nghiêm hơn"
+    ],
+    [
+      "save lives when they are enforced",
+      "cứu mạng khi được thực thi"
+    ],
+    [
+      "speed, seat belts and drink-driving",
+      "tốc độ, dây an toàn và lái xe sau uống rượu"
+    ],
+    [
+      "backed by cameras and checks",
+      "được hỗ trợ bởi camera và kiểm tra"
+    ],
+    [
+      "change how people drive",
+      "thay đổi cách người ta lái xe"
+    ],
+    [
+      "speed cameras",
+      "camera tốc độ"
+    ],
+    [
+      "far fewer serious crashes",
+      "ít tai nạn nghiêm trọng hơn hẳn"
+    ],
+    [
+      "compulsory seat belts",
+      "dây an toàn bắt buộc"
+    ],
+    [
+      "lower alcohol limits and penalty points",
+      "giới hạn nồng độ cồn thấp hơn và điểm phạt"
+    ],
+    [
+      "large falls in deaths",
+      "tử vong giảm mạnh"
+    ],
+    [
+      "a clear message about what is acceptable",
+      "thông điệp rõ về điều có thể chấp nhận"
+    ],
+    [
+      "the fear of losing a licence",
+      "nỗi sợ mất bằng lái"
+    ],
+    [
+      "distraction at the wheel",
+      "xao nhãng khi lái xe"
+    ],
+    [
+      "remove dangerous drivers from the road",
+      "loại tài xế nguy hiểm khỏi đường"
+    ],
+    [
+      "Road design, vehicle safety, driver education",
+      "thiết kế đường, an toàn xe, giáo dục lái xe"
+    ],
+    [
+      "easily ignored",
+      "dễ bị phớt lờ"
+    ],
+    [
+      "the law has no teeth",
+      "luật không có răng"
+    ],
+    [
+      "tiredness, poor visibility and bad weather",
+      "mệt mỏi, tầm nhìn kém và thời tiết xấu"
+    ],
+    [
+      "safe roads and good education",
+      "đường an toàn và giáo dục tốt"
+    ]
+  ]
+}

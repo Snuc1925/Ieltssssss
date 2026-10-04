@@ -1,0 +1,130 @@
+{
+  "questionId": 454,
+  "text": "Corruption wastes public money, damages trust and holds back development, and opinions differ on whether individuals should be responsible for reporting it or whether society and government should ensure transparency. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual reporting argue that people who witness corruption have a duty to speak. Officials and employees often see bribes, false invoices or favouritism long before outsiders do, and a society where such behaviour is tolerated will never change. An accountant who notices false invoices at her firm, for example, may be the only person who can stop the crime. When citizens refuse to pay bribes and report those who demand them, corruption becomes riskier, and a culture of honesty can spread. Journalists and activists who expose corruption have often made reforms possible.\n\nOn the other hand, advocates of government transparency point out that reporting is dangerous and cannot be the main defence. People who report powerful officials may lose their jobs, face threats or be ignored if the same corrupt system receives their complaint. Governments must make public spending transparent. Open contracts, published budgets, independent audits and a free press make it harder to hide corruption, and independent agencies can investigate without fear of the people they examine. A city that publishes every building contract online, for example, allows journalists and citizens to spot suspicious prices. Laws that protect whistleblowers and punish retaliation are also essential.\n\nIn conclusion, both views have merit. Overall, I believe that governments must take the lead by ensuring transparency and independent investigation, while citizens support them by refusing to take part in corruption and by reporting it when it is safe to do so.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân báo cáo tham nhũng hay xã hội / chính phủ đảm bảo minh bạch (góc khác đề 334: minh bạch công và cơ quan độc lập)",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu tác hại tham nhũng (lãng phí tiền công, hại niềm tin, kìm hãm phát triển) rồi hai phe; tránh lặp hoàn toàn đề 334 bằng cách nhấn minh bạch ngân sách, hợp đồng.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Người chứng kiến tham nhũng có nghĩa vụ lên tiếng; quan chức và nhân viên thấy hối lộ, hoá đơn giả, thiên vị trước người ngoài; xã hội dung thứ sẽ không đổi; công dân từ chối hối lộ và tố cáo người đòi làm tham nhũng rủi ro hơn; văn hoá trung thực lan rộng; nhà báo và nhà hoạt động mở đường cải cách. Ví dụ kế toán phát hiện hoá đơn giả.",
+        "refs": [
+          "ID-cr-report-protect",
+          "EX-cr-colleague-fraud"
+        ]
+      },
+      {
+        "step": "3. Chính phủ minh bạch",
+        "think": "Báo cáo nguy hiểm, không thể là phòng tuyến chính: người tố cáo quan chức quyền lực mất việc, bị đe doạ hoặc bị bỏ qua nếu hệ thống tham nhũng nhận đơn; chính phủ công khai chi tiêu: hợp đồng mở, ngân sách công bố, kiểm toán độc lập, báo chí tự do, cơ quan độc lập; ví dụ thành phố công bố mọi hợp đồng xây dựng; luật bảo vệ người tố giác.",
+        "refs": [
+          "ID-cr-transparency",
+          "EX-cr-open-contracts",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ dẫn đầu bằng minh bạch và điều tra độc lập; công dân hỗ trợ bằng từ chối tham gia và báo cáo khi an toàn.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-transparency",
+      "EX-cr-open-contracts"
+    ]
+  },
+  "chunks": [
+    [
+      "Corruption wastes public money",
+      "tham nhũng lãng phí tiền công"
+    ],
+    [
+      "damages trust and holds back development",
+      "làm hỏng niềm tin và kìm hãm phát triển"
+    ],
+    [
+      "reporting it",
+      "báo cáo nó"
+    ],
+    [
+      "ensure transparency",
+      "đảm bảo tính minh bạch"
+    ],
+    [
+      "witness corruption",
+      "chứng kiến tham nhũng"
+    ],
+    [
+      "a duty to speak",
+      "nghĩa vụ lên tiếng"
+    ],
+    [
+      "bribes, false invoices or favouritism",
+      "hối lộ, hoá đơn giả hoặc thiên vị"
+    ],
+    [
+      "a society where such behaviour is tolerated",
+      "một xã hội dung thứ hành vi như vậy"
+    ],
+    [
+      "refuse to pay bribes",
+      "từ chối đưa hối lộ"
+    ],
+    [
+      "a culture of honesty",
+      "văn hoá trung thực"
+    ],
+    [
+      "exposed corruption",
+      "phơi bày tham nhũng"
+    ],
+    [
+      "made reforms possible",
+      "giúp cải cách khả thi"
+    ],
+    [
+      "face threats",
+      "đối mặt đe doạ"
+    ],
+    [
+      "the same corrupt system",
+      "chính hệ thống tham nhũng đó"
+    ],
+    [
+      "Open contracts, published budgets, independent audits",
+      "hợp đồng công khai, ngân sách được công bố, kiểm toán độc lập"
+    ],
+    [
+      "a free press",
+      "báo chí tự do"
+    ],
+    [
+      "hide corruption",
+      "che giấu tham nhũng"
+    ],
+    [
+      "investigate without fear",
+      "điều tra không sợ hãi"
+    ],
+    [
+      "suspicious prices",
+      "giá đáng ngờ"
+    ],
+    [
+      "punish retaliation",
+      "trừng phạt hành vi trả đũa"
+    ]
+  ]
+}

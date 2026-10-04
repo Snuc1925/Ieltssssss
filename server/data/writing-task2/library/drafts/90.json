@@ -1,0 +1,129 @@
+{
+  "questionId": 90,
+  "text": "In several countries, serious crimes involving firearms regularly make the news, and some argue that stricter gun control reduces crime. I largely agree, since fewer guns make violence less deadly, although gun control alone cannot remove crime.\n\nTo begin with, stricter gun control makes violent crime less deadly. Fewer guns in circulation and checks on buyers make it harder for dangerous people to obtain weapons and reduce deaths in arguments and accidents. An argument between neighbours, for example, is far less likely to end in a death if neither has easy access to a gun. Countries with strict licensing, background checks and limits on ownership, such as Japan and the United Kingdom, tend to have far fewer gun deaths than countries where guns are widely available. Gun control also reduces suicides and accidental shootings, which make up a large share of firearm deaths.\n\nFurthermore, controls make it harder for criminals to arm themselves, since many illegal guns begin as legal ones that were stolen or sold carelessly. However, gun control has limits. Determined criminals can still find illegal guns, particularly where borders are open and black markets are well established, and strict laws are of little use if they are not enforced. Crime also has other causes, such as poverty, drugs and gangs, which require different solutions. Gun laws should therefore be accompanied by tracing of weapons, penalties for illegal sales, and programmes that tackle gangs and unemployment. Public support for the laws and clear rules for lawful owners, such as hunters, also make them easier to apply.\n\nIn conclusion, stricter gun control reduces crime and deaths to a large extent, but it works best as part of a wider strategy against violence.",
+  "analysis": {
+    "type_vi": "Extent: kiểm soát súng nghiêm ngặt giảm tội phạm — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài bằng bối cảnh (tội phạm dùng súng thường lên báo) rồi largely agree + lý do (ít súng, bạo lực ít chết người) + giới hạn (kiểm soát súng một mình không xoá được tội phạm).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bạo lực ít chết người",
+        "think": "Ít súng lưu hành và kiểm tra người mua khó cho kẻ nguy hiểm kiếm vũ khí; giảm chết trong tranh cãi và tai nạn. Ví dụ tranh cãi giữa hàng xóm ít kết thúc bằng cái chết nếu không ai dễ có súng. Nước có cấp phép nghiêm (Nhật, Anh) ít chết do súng; giảm tự tử và bắn nhầm.",
+        "refs": [
+          "ID-cr-gun-control",
+          "EX-cr-gun-argument",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Khó cho tội phạm trang bị vì nhiều súng bất hợp pháp từng là hợp pháp bị trộm hoặc bán cẩu thả. Giới hạn: kẻ quyết tâm vẫn tìm được súng chợ đen, biên giới mở; luật không thực thi ít tác dụng; tội phạm có nguyên nhân khác (nghèo, ma tuý, băng nhóm); truy vết vũ khí, phạt bán trái phép, chương trình chống băng nhóm và thất nghiệp.",
+        "refs": [
+          "ID-cr-city-solutions",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Giảm tội phạm và tử vong ở mức độ lớn nhưng hiệu quả nhất khi là một phần của chiến lược rộng hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-gun-control",
+      "EX-cr-gun-argument"
+    ]
+  },
+  "chunks": [
+    [
+      "serious crimes involving firearms",
+      "tội phạm nghiêm trọng liên quan súng"
+    ],
+    [
+      "stricter gun control",
+      "kiểm soát súng nghiêm ngặt hơn"
+    ],
+    [
+      "make violence less deadly",
+      "làm bạo lực ít chết người hơn"
+    ],
+    [
+      "Fewer guns in circulation",
+      "ít súng lưu hành hơn"
+    ],
+    [
+      "checks on buyers",
+      "kiểm tra người mua"
+    ],
+    [
+      "obtain weapons",
+      "có được vũ khí"
+    ],
+    [
+      "deaths in arguments and accidents",
+      "tử vong trong tranh cãi và tai nạn"
+    ],
+    [
+      "easy access to a gun",
+      "dễ tiếp cận súng"
+    ],
+    [
+      "strict licensing, background checks and limits on ownership",
+      "cấp phép nghiêm, kiểm tra lý lịch và giới hạn sở hữu"
+    ],
+    [
+      "far fewer gun deaths",
+      "ít tử vong do súng hơn hẳn"
+    ],
+    [
+      "widely available",
+      "sẵn có rộng rãi"
+    ],
+    [
+      "suicides and accidental shootings",
+      "tự tử và bắn nhầm"
+    ],
+    [
+      "arm themselves",
+      "tự trang bị vũ khí"
+    ],
+    [
+      "stolen or sold carelessly",
+      "bị trộm hoặc bán cẩu thả"
+    ],
+    [
+      "Determined criminals",
+      "tội phạm quyết tâm"
+    ],
+    [
+      "illegal guns",
+      "súng bất hợp pháp"
+    ],
+    [
+      "black markets are well established",
+      "chợ đen đã ăn sâu"
+    ],
+    [
+      "not enforced",
+      "không được thực thi"
+    ],
+    [
+      "tracing of weapons",
+      "truy vết vũ khí"
+    ],
+    [
+      "a wider strategy against violence",
+      "chiến lược rộng hơn chống bạo lực"
+    ]
+  ]
+}

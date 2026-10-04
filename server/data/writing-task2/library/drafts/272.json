@@ -1,0 +1,131 @@
+{
+  "questionId": 272,
+  "text": "Millions of people have had their names, bank details or passwords stolen and used by criminals, and opinions differ on who should be responsible for preventing identity theft. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of personal responsibility argue that individuals can do a great deal to protect themselves. People can use strong and different passwords, avoid clicking on suspicious links, check their bank statements regularly and shred documents that contain personal details. A person who receives an email that appears to come from the bank, for example, may give away passwords unless he or she has been warned about such tricks. Careful behaviour online, such as limiting the information shared on social media, makes it harder for criminals to impersonate someone. Since criminals rely on carelessness, a cautious public is the first line of defence.\n\nOn the other hand, advocates of action by society and government point out that individuals cannot protect data they do not control. Banks, retailers and online services store enormous amounts of information, and a single hack can expose millions of customers. Only these organisations can secure their systems, and only governments can pass laws that require companies to protect data, punish offenders and cooperate across borders to catch them. Police need specialist skills and international agreements to trace criminals who operate from other countries. Victims, meanwhile, often spend months repairing their records, and they need legal support and quick routes to restore their identity.\n\nIn conclusion, both views have merit. Overall, I believe that the most effective approach combines official leadership with personal action, since institutions must secure data and punish criminals while individuals take sensible precautions.",
+  "analysis": {
+    "type_vi": "Discuss both views: ngăn chặn trộm danh tính — cá nhân hay xã hội / chính phủ",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm (dùng lại mô hình 'cá nhân vs chính phủ' đã dùng ở môi trường và y tế)",
+        "think": "Mở bài nêu thực tế (hàng triệu người bị lấy tên, thông tin ngân hàng, mật khẩu); mỗi thân bài một phía; kết luận kết hợp.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân",
+        "think": "Mật khẩu mạnh khác nhau, tránh nhấp liên kết đáng ngờ, kiểm tra sao kê, huỷ tài liệu có thông tin; ví dụ người nhận email giả ngân hàng có thể đưa mật khẩu nếu chưa được cảnh báo; hạn chế chia sẻ trên mạng xã hội; công chúng thận trọng là tuyến phòng thủ đầu tiên.",
+        "refs": [
+          "ID-cr-identity-theft",
+          "EX-cr-phishing-email",
+          "ID-env-ind-habits"
+        ]
+      },
+      {
+        "step": "3. Xã hội và chính phủ",
+        "think": "Cá nhân không bảo vệ được dữ liệu mình không kiểm soát: ngân hàng, cửa hàng, dịch vụ trực tuyến lưu lượng thông tin khổng lồ; một vụ tấn công làm lộ hàng triệu khách; chỉ tổ chức này bảo mật hệ thống; chính phủ ra luật, trừng phạt, hợp tác xuyên biên giới; nạn nhân cần hỗ trợ pháp lý.",
+        "refs": [
+          "ID-cr-identity-theft",
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kết hợp: tổ chức bảo mật dữ liệu và trừng phạt tội phạm; cá nhân thận trọng.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-identity-theft",
+      "EX-cr-phishing-email"
+    ]
+  },
+  "chunks": [
+    [
+      "had their names, bank details or passwords stolen",
+      "bị trộm tên, thông tin ngân hàng hoặc mật khẩu"
+    ],
+    [
+      "preventing identity theft",
+      "ngăn trộm danh tính"
+    ],
+    [
+      "supporters of personal responsibility",
+      "người ủng hộ trách nhiệm cá nhân"
+    ],
+    [
+      "protect themselves",
+      "tự bảo vệ mình"
+    ],
+    [
+      "strong and different passwords",
+      "mật khẩu mạnh và khác nhau"
+    ],
+    [
+      "suspicious links",
+      "liên kết đáng ngờ"
+    ],
+    [
+      "check their bank statements regularly",
+      "kiểm tra sao kê ngân hàng thường xuyên"
+    ],
+    [
+      "shred documents",
+      "huỷ tài liệu bằng máy cắt"
+    ],
+    [
+      "appears to come from the bank",
+      "có vẻ đến từ ngân hàng"
+    ],
+    [
+      "give away passwords",
+      "tiết lộ mật khẩu"
+    ],
+    [
+      "limiting the information shared on social media",
+      "hạn chế thông tin chia sẻ trên mạng xã hội"
+    ],
+    [
+      "impersonate someone",
+      "mạo danh ai đó"
+    ],
+    [
+      "the first line of defence",
+      "tuyến phòng thủ đầu tiên"
+    ],
+    [
+      "data they do not control",
+      "dữ liệu họ không kiểm soát"
+    ],
+    [
+      "a single hack can expose millions of customers",
+      "một vụ tấn công có thể làm lộ hàng triệu khách hàng"
+    ],
+    [
+      "secure their systems",
+      "bảo mật hệ thống của họ"
+    ],
+    [
+      "pass laws",
+      "ban hành luật"
+    ],
+    [
+      "cooperate across borders",
+      "hợp tác xuyên biên giới"
+    ],
+    [
+      "trace criminals who operate from other countries",
+      "truy vết tội phạm hoạt động từ nước khác"
+    ],
+    [
+      "repairing their records",
+      "khôi phục hồ sơ của mình"
+    ]
+  ]
+}

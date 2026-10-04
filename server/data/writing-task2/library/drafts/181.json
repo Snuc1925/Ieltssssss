@@ -1,0 +1,129 @@
+{
+  "questionId": 181,
+  "text": "After every violent incident involving young people, someone blames video games, and some people say that they promote violence. I disagree with this view, since the evidence that games cause real violence is weak, and other factors matter far more.\n\nTo begin with, evidence that video games cause real violence is weak. Hundreds of millions of people play violent games without harming anyone, and violent crime has fallen in several countries as gaming has grown. A teenager who plays a shooting game with friends in the evening, for example, usually treats it as entertainment, as he would a film. Large studies have found, at most, small and short-lived increases in aggression after playing, comparable to those after watching a competitive sport. Most players understand that what happens on a screen is fiction and have no wish to copy it, and many games involve cooperation, planning and creativity.\n\nFurthermore, real violence has far more serious causes. Family background, poverty, abuse, mental illness, drug use and access to weapons are much stronger predictors, and blaming games distracts attention from these problems. When a violent offender happens to play games, this reflects how common games are among young people, not that they caused the crime. However, games are not harmless for everyone. Very young children should not play adult games, extreme content may disturb vulnerable players, and long hours of play can affect sleep and school work. Parents should check age ratings, set time limits and talk to children about what they play. These practical steps are more effective than blaming the medium.\n\nIn conclusion, I disagree that video games promote violence, because the evidence is weak and other factors matter more, though sensible limits for children are wise.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: trò chơi điện tử khuyến khích bạo lực — disagree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu thói quen đổ lỗi (mỗi vụ bạo lực thanh niên lại có người đổ cho trò chơi) rồi disagree + hai lý do (bằng chứng yếu; nguyên nhân thật mạnh hơn).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — bằng chứng yếu",
+        "think": "Hàng trăm triệu người chơi không hại ai; tội phạm bạo lực giảm ở nhiều nước khi chơi game tăng. Ví dụ thiếu niên chơi game bắn súng với bạn buổi tối xem như giải trí. Nghiên cứu lớn chỉ thấy tăng hung hăng nhỏ, ngắn; người chơi hiểu đó là hư cấu; nhiều game cần hợp tác, lập kế hoạch, sáng tạo.",
+        "refs": [
+          "ID-cr-video-games",
+          "EX-cr-game-evening",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — nguyên nhân thật + nhượng bộ",
+        "think": "Gia đình, nghèo, bị lạm dụng, bệnh tâm thần, ma tuý, tiếp cận vũ khí dự báo mạnh hơn; đổ lỗi cho game làm xao nhãng. Nhượng bộ: không vô hại với mọi người: trẻ nhỏ không nên chơi game người lớn, nội dung cực đoan, chơi nhiều giờ ảnh hưởng ngủ và học; cha mẹ xem phân loại độ tuổi, đặt giới hạn thời gian, trò chuyện.",
+        "refs": [
+          "ID-cr-poverty-choice",
+          "ID-health-environment-shapes",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì bằng chứng yếu và nguyên nhân khác quan trọng hơn; giới hạn hợp lý cho trẻ em là khôn ngoan.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-video-games",
+      "EX-cr-game-evening"
+    ]
+  },
+  "chunks": [
+    [
+      "violent incident involving young people",
+      "vụ bạo lực liên quan người trẻ"
+    ],
+    [
+      "video games promote violence",
+      "trò chơi điện tử khuyến khích bạo lực"
+    ],
+    [
+      "the evidence is weak",
+      "bằng chứng yếu"
+    ],
+    [
+      "Hundreds of millions of people",
+      "hàng trăm triệu người"
+    ],
+    [
+      "play violent games without harming anyone",
+      "chơi game bạo lực mà không hại ai"
+    ],
+    [
+      "violent crime has fallen",
+      "tội phạm bạo lực đã giảm"
+    ],
+    [
+      "a shooting game",
+      "trò chơi bắn súng"
+    ],
+    [
+      "treats it as entertainment",
+      "coi đó là giải trí"
+    ],
+    [
+      "small and short-lived increases in aggression",
+      "tăng hung hăng nhỏ và ngắn ngủi"
+    ],
+    [
+      "comparable to those after watching a competitive sport",
+      "tương đương sau khi xem thể thao đối kháng"
+    ],
+    [
+      "fiction",
+      "hư cấu"
+    ],
+    [
+      "cooperation, planning and creativity",
+      "hợp tác, lập kế hoạch và sáng tạo"
+    ],
+    [
+      "far more serious causes",
+      "nguyên nhân nghiêm trọng hơn nhiều"
+    ],
+    [
+      "Family background, poverty, abuse",
+      "bối cảnh gia đình, nghèo, bị lạm dụng"
+    ],
+    [
+      "mental illness, drug use and access to weapons",
+      "bệnh tâm thần, dùng ma tuý và tiếp cận vũ khí"
+    ],
+    [
+      "stronger predictors",
+      "yếu tố dự báo mạnh hơn"
+    ],
+    [
+      "distracts attention from these problems",
+      "làm xao nhãng khỏi những vấn đề này"
+    ],
+    [
+      "vulnerable players",
+      "người chơi dễ tổn thương"
+    ],
+    [
+      "check age ratings, set time limits",
+      "kiểm tra phân loại độ tuổi, đặt giới hạn thời gian"
+    ],
+    [
+      "sensible limits for children",
+      "giới hạn hợp lý cho trẻ em"
+    ]
+  ]
+}

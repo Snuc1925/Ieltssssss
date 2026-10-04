@@ -1,0 +1,131 @@
+{
+  "questionId": 334,
+  "text": "Fraud, abuse and dangerous practices often continue because those who know about them stay silent, and opinions differ on whether individuals should be responsible for reporting wrongdoing or whether society and government should enforce it. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of individual reporting argue that people inside an organisation often know about wrongdoing before anyone else. Colleagues see fraud, abuse or unsafe practices first, and an authority that has no information cannot act. An accountant who notices false invoices at her firm, for example, may be the only person who can stop the crime. A culture in which people speak up also discourages misconduct, since offenders know that others are watching. Many scandals, from unsafe food factories to financial fraud, were exposed by employees who refused to look away, and society owes them respect.\n\nOn the other hand, advocates of enforcement by government point out that reporting is risky for the individual. Fear of losing a job, being bullied or being punished stops many people from speaking, and those who do report sometimes suffer for years. It is also unfair to expect ordinary people to do the work of investigators, who have training and legal powers. Governments can set up independent agencies that inspect workplaces and audit organisations without waiting for complaints, and pass laws that protect whistleblowers and punish those who retaliate. Safe hotlines and legal advice make it easier to come forward.\n\nIn conclusion, both views have merit. Overall, I believe that governments should take the main responsibility by enforcing the law and protecting those who report, while individuals should be encouraged to speak up when it is safe to do so.",
+  "analysis": {
+    "type_vi": "Discuss both views: cá nhân báo cáo sai phạm hay xã hội / chính phủ thực thi",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu hiện tượng sai phạm tiếp diễn vì người biết giữ im lặng; mỗi thân bài một phía; ý kiến riêng chính phủ chịu trách nhiệm chính, bảo vệ người tố giác, khuyến khích cá nhân lên tiếng khi an toàn.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Cá nhân báo cáo",
+        "think": "Người trong tổ chức thường biết sai phạm trước; đồng nghiệp thấy gian lận, lạm dụng, thực hành không an toàn trước; cơ quan không có thông tin không hành động được. Ví dụ kế toán nhận ra hoá đơn giả có thể là người duy nhất chặn tội. Văn hoá lên tiếng ngăn sai phạm; nhiều bê bối được người lao động phơi bày.",
+        "refs": [
+          "ID-cr-report-protect",
+          "EX-cr-colleague-fraud",
+          "ID-env-public-reporting"
+        ]
+      },
+      {
+        "step": "3. Chính phủ thực thi",
+        "think": "Báo cáo rủi ro cho cá nhân: sợ mất việc, bị bắt nạt, bị trừng phạt, có người chịu nhiều năm; không công bằng bắt người thường làm việc của điều tra viên; chính phủ lập cơ quan độc lập thanh tra, kiểm toán không chờ khiếu nại; luật bảo vệ người tố giác và phạt trả đũa; đường dây nóng và tư vấn pháp lý.",
+        "refs": [
+          "ID-cr-report-protect",
+          "ID-env-ind-limits",
+          "ID-env-gov-rules"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính phủ chịu trách nhiệm chính; cá nhân lên tiếng khi an toàn.",
+        "refs": [
+          "ID-env-partnership",
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-report-protect",
+      "EX-cr-colleague-fraud"
+    ]
+  },
+  "chunks": [
+    [
+      "Fraud, abuse and dangerous practices",
+      "gian lận, lạm dụng và thực hành nguy hiểm"
+    ],
+    [
+      "stay silent",
+      "giữ im lặng"
+    ],
+    [
+      "reporting wrongdoing",
+      "báo cáo sai phạm"
+    ],
+    [
+      "supporters of individual reporting",
+      "người ủng hộ việc cá nhân báo cáo"
+    ],
+    [
+      "inside an organisation",
+      "bên trong một tổ chức"
+    ],
+    [
+      "know about wrongdoing before anyone else",
+      "biết sai phạm trước bất kỳ ai"
+    ],
+    [
+      "unsafe practices",
+      "thực hành không an toàn"
+    ],
+    [
+      "an authority that has no information cannot act",
+      "cơ quan không có thông tin thì không thể hành động"
+    ],
+    [
+      "false invoices",
+      "hoá đơn giả"
+    ],
+    [
+      "stop the crime",
+      "chặn tội phạm"
+    ],
+    [
+      "speak up",
+      "lên tiếng"
+    ],
+    [
+      "discourages misconduct",
+      "ngăn hành vi sai trái"
+    ],
+    [
+      "refused to look away",
+      "từ chối nhắm mắt làm ngơ"
+    ],
+    [
+      "reporting is risky",
+      "báo cáo là rủi ro"
+    ],
+    [
+      "losing a job, being bullied or being punished",
+      "mất việc, bị bắt nạt hoặc bị trừng phạt"
+    ],
+    [
+      "suffer for years",
+      "chịu đựng nhiều năm"
+    ],
+    [
+      "independent agencies",
+      "cơ quan độc lập"
+    ],
+    [
+      "audit organisations",
+      "kiểm toán các tổ chức"
+    ],
+    [
+      "protect whistleblowers and punish those who retaliate",
+      "bảo vệ người tố giác và phạt người trả đũa"
+    ],
+    [
+      "Safe hotlines and legal advice",
+      "đường dây nóng an toàn và tư vấn pháp lý"
+    ]
+  ]
+}

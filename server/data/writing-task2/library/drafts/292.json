@@ -1,0 +1,128 @@
+{
+  "questionId": 292,
+  "text": "When a crime shocks the public, people ask whether it is the result of social conditions or of a wrong choice, and opinions are divided as to whether crime is mainly caused by poverty and lack of education or whether criminals are personally responsible. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, those who blame social conditions argue that poverty and poor education raise the risk of crime. People with no job and no prospects face stronger temptation and fewer legitimate options, and schools in poor areas may fail to give children the skills they need. A teenager who leaves school with no qualifications and no job, for example, may be drawn by a gang that offers money and belonging. Studies often show that crime rates are higher in deprived districts, where unemployment, poor housing and family breakdown combine. From this point of view, improving schools and creating jobs would reduce crime more effectively than punishment.\n\nOn the other hand, supporters of personal responsibility point out that poverty does not excuse crime. Most poor people obey the law, and crime also occurs among the wealthy, for example in fraud and corruption. Every offender makes a choice, and treating criminals as victims of circumstance can weaken respect for the law and ignore the harm done to real victims. Courts should therefore hold people accountable for their actions. A person who steals when he could have asked for help, for instance, has made a decision that others in the same position avoided. Accountability also gives offenders the dignity of being treated as responsible adults.\n\nIn conclusion, both views have merit. Personally, I believe that social conditions raise the risk of crime, but individuals remain responsible for their choices, so both opportunity and accountability must be addressed.",
+  "analysis": {
+    "type_vi": "Discuss both views: tội phạm chủ yếu do nghèo và thiếu giáo dục hay do trách nhiệm cá nhân",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu câu hỏi chung (do hoàn cảnh xã hội hay lựa chọn sai) rồi hai phe; ý kiến riêng kết hợp: hoàn cảnh nâng rủi ro nhưng cá nhân vẫn chịu trách nhiệm.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe hoàn cảnh xã hội",
+        "think": "Nghèo và giáo dục kém tăng rủi ro: người không việc, không triển vọng đối mặt cám dỗ mạnh, ít lựa chọn hợp pháp; trường ở khu nghèo không đủ kỹ năng. Ví dụ thiếu niên bị băng nhóm lôi kéo. Nghiên cứu cho thấy tội phạm cao ở khu nghèo; cải thiện trường học và việc làm hiệu quả hơn trừng phạt.",
+        "refs": [
+          "ID-cr-city-causes",
+          "ID-cr-poverty-choice",
+          "EX-cr-jobless-teen"
+        ]
+      },
+      {
+        "step": "3. Phe trách nhiệm cá nhân",
+        "think": "Nghèo không biện minh cho tội phạm: đa số người nghèo tuân thủ luật; tội phạm cũng xảy ra ở người giàu (gian lận, tham nhũng); mỗi người phạm tội đều lựa chọn; coi tội phạm là nạn nhân hoàn cảnh làm yếu sự tôn trọng pháp luật và bỏ qua nạn nhân thật. Ví dụ người trộm thay vì xin giúp. Trách nhiệm cho người phạm tội phẩm giá của người trưởng thành có trách nhiệm.",
+        "refs": [
+          "ID-cr-poverty-choice",
+          "ID-cr-harsh-penalties"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Hoàn cảnh nâng rủi ro nhưng cá nhân vẫn chịu trách nhiệm; cần giải quyết cả cơ hội và trách nhiệm giải trình.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-cr-poverty-choice"
+    ]
+  },
+  "chunks": [
+    [
+      "a crime shocks the public",
+      "một vụ án gây sốc dư luận"
+    ],
+    [
+      "social conditions",
+      "điều kiện xã hội"
+    ],
+    [
+      "a wrong choice",
+      "một lựa chọn sai"
+    ],
+    [
+      "mainly caused by poverty and lack of education",
+      "chủ yếu do nghèo và thiếu giáo dục"
+    ],
+    [
+      "personally responsible",
+      "chịu trách nhiệm cá nhân"
+    ],
+    [
+      "raise the risk of crime",
+      "nâng rủi ro phạm tội"
+    ],
+    [
+      "stronger temptation and fewer legitimate options",
+      "cám dỗ mạnh hơn và ít lựa chọn hợp pháp hơn"
+    ],
+    [
+      "fail to give children the skills they need",
+      "không trang bị cho trẻ kỹ năng cần thiết"
+    ],
+    [
+      "crime rates are higher in deprived districts",
+      "tỷ lệ tội phạm cao ở khu nghèo"
+    ],
+    [
+      "unemployment, poor housing and family breakdown",
+      "thất nghiệp, nhà ở tồi và gia đình tan vỡ"
+    ],
+    [
+      "more effectively than punishment",
+      "hiệu quả hơn trừng phạt"
+    ],
+    [
+      "does not excuse crime",
+      "không biện minh cho tội phạm"
+    ],
+    [
+      "Most poor people obey the law",
+      "đa số người nghèo tuân thủ luật"
+    ],
+    [
+      "fraud and corruption",
+      "gian lận và tham nhũng"
+    ],
+    [
+      "makes a choice",
+      "đưa ra lựa chọn"
+    ],
+    [
+      "victims of circumstance",
+      "nạn nhân của hoàn cảnh"
+    ],
+    [
+      "weaken respect for the law",
+      "làm yếu sự tôn trọng pháp luật"
+    ],
+    [
+      "hold people accountable for their actions",
+      "buộc người ta chịu trách nhiệm về hành động của mình"
+    ],
+    [
+      "responsible adults",
+      "người trưởng thành có trách nhiệm"
+    ],
+    [
+      "opportunity and accountability",
+      "cơ hội và trách nhiệm giải trình"
+    ]
+  ]
+}
