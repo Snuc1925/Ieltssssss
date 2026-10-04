@@ -1,0 +1,129 @@
+{
+  "questionId": 416,
+  "text": "From climate strikes to campaigns for equality, young people are leading many protest movements, and many people think that youth activism is important for social change. I agree with this view, since young people bring energy, fresh ideas and a long-term stake, although their impact depends on how well they work with others.\n\nTo begin with, young people bring energy, fresh ideas and a long-term stake to social change. They will live with the consequences of today's decisions on climate, housing and jobs, they are skilled at using social media, and they often challenge habits that older generations accept. Students who leave lessons to demand action on climate change, for example, can put the issue on the front page of newspapers and force politicians to respond. Young people are also less tied to existing institutions and interests, so they are more willing to suggest bold solutions. Many past reforms, from student movements against war to campaigns for civil rights, began with the energy of the young.\n\nFurthermore, activism teaches young people civic skills that last a lifetime, such as organising, debating and cooperating, and many activists later become community leaders or politicians. However, activism has limits. Young people may lack experience of how laws are made, and online campaigns can be shallow, with likes and shares that do not lead to action. Movements can fade when attention moves on. Their impact is greatest when they work with experienced organisations, build clear demands and keep their efforts going over time, and when adults listen to them seriously. Schools and governments can help by creating youth councils and consultations.\n\nIn conclusion, I agree that youth activism is important for social change, because young people bring energy and ideas, provided that their efforts are sustained and taken seriously.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: hoạt động thanh niên quan trọng cho thay đổi xã hội — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu ví dụ (biểu tình khí hậu, chiến dịch bình đẳng do người trẻ dẫn dắt) rồi agree + lý do + giới hạn (phụ thuộc cách phối hợp).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — năng lượng, ý tưởng, lợi ích dài hạn",
+        "think": "Người trẻ sống với hậu quả quyết định hôm nay về khí hậu, nhà ở, việc làm; giỏi mạng xã hội; thách thức thói quen người lớn chấp nhận. Ví dụ học sinh bỏ lớp đòi hành động khí hậu đưa vấn đề lên trang nhất. Ít bị ràng buộc với thể chế và lợi ích nên dám đề xuất giải pháp táo bạo; nhiều cải cách quá khứ bắt đầu từ sức trẻ.",
+        "refs": [
+          "ID-gov-youth-activism",
+          "EX-gov-student-strike",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Hoạt động dạy kỹ năng công dân suốt đời (tổ chức, tranh luận, hợp tác); nhiều nhà hoạt động sau thành lãnh đạo cộng đồng, chính trị gia. Giới hạn: thiếu kinh nghiệm về cách luật được làm; chiến dịch trực tuyến hời hợt (like, share); phong trào phai khi chú ý chuyển hướng. Cần phối hợp tổ chức giàu kinh nghiệm, yêu sách rõ, duy trì lâu, người lớn lắng nghe nghiêm túc; hội đồng thanh niên, tham vấn.",
+        "refs": [
+          "ID-gov-youth-activism",
+          "ID-gov-protests",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Agree vì người trẻ mang năng lượng và ý tưởng, với điều kiện nỗ lực bền bỉ và được coi trọng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-youth-activism",
+      "EX-gov-student-strike"
+    ]
+  },
+  "chunks": [
+    [
+      "climate strikes",
+      "đình công vì khí hậu"
+    ],
+    [
+      "youth activism",
+      "hoạt động của thanh niên"
+    ],
+    [
+      "important for social change",
+      "quan trọng cho thay đổi xã hội"
+    ],
+    [
+      "bring energy, fresh ideas and a long-term stake",
+      "mang năng lượng, ý tưởng mới và lợi ích dài hạn"
+    ],
+    [
+      "live with the consequences",
+      "sống với hậu quả"
+    ],
+    [
+      "climate, housing and jobs",
+      "khí hậu, nhà ở và việc làm"
+    ],
+    [
+      "skilled at using social media",
+      "giỏi dùng mạng xã hội"
+    ],
+    [
+      "challenge habits that older generations accept",
+      "thách thức thói quen mà thế hệ lớn tuổi chấp nhận"
+    ],
+    [
+      "leave lessons to demand action",
+      "bỏ lớp để đòi hành động"
+    ],
+    [
+      "front page of newspapers",
+      "trang nhất của báo"
+    ],
+    [
+      "force politicians to respond",
+      "buộc chính trị gia phải đáp lại"
+    ],
+    [
+      "less tied to existing institutions",
+      "ít bị ràng buộc với thể chế hiện có"
+    ],
+    [
+      "bold solutions",
+      "giải pháp táo bạo"
+    ],
+    [
+      "civic skills that last a lifetime",
+      "kỹ năng công dân kéo dài suốt đời"
+    ],
+    [
+      "organising, debating and cooperating",
+      "tổ chức, tranh luận và hợp tác"
+    ],
+    [
+      "community leaders or politicians",
+      "lãnh đạo cộng đồng hoặc chính trị gia"
+    ],
+    [
+      "likes and shares that do not lead to action",
+      "lượt thích và chia sẻ không dẫn đến hành động"
+    ],
+    [
+      "fade when attention moves on",
+      "phai nhạt khi sự chú ý chuyển hướng"
+    ],
+    [
+      "clear demands",
+      "yêu sách rõ ràng"
+    ],
+    [
+      "youth councils and consultations",
+      "hội đồng thanh niên và tham vấn"
+    ]
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "questionId": 331,
+  "text": "Corruption by officials, from small bribes to large-scale theft of public money, damages development in many countries. This essay will analyse the principal causes of corruption in public office and propose realistic solutions.\n\nCorruption grows where power is unchecked and punishment is weak. Officials with low pay and wide discretion are tempted by bribes, secrecy hides wrongdoing, and a culture that tolerates favours makes it seem normal. An official who is paid very little and controls permits, for example, may be tempted to ask for a bribe to approve an application. In addition, weak courts and poorly supported anti-corruption agencies mean that offenders rarely face punishment, and complicated rules create more opportunities for officials to demand payment for ordinary services. When citizens expect to pay bribes, corruption becomes self-reinforcing, and public money is wasted while trust in government falls.\n\nTo address this issue, governments should combine transparency, independent oversight and certain punishment. Open contracts and published budgets expose abuse, independent agencies investigate without fear, fair salaries reduce temptation, and protected whistleblowers make reporting safe. Simplifying procedures and moving services online reduces the face-to-face contact in which bribes are asked for. In addition, courts must be independent, so that powerful people cannot escape punishment, and a free press and education can build a culture that rejects corruption. Reform takes time, but countries that have reduced corruption, by following such steps, have seen public services improve and investment rise.\n\nIn conclusion, corruption in public office stems mainly from unchecked power, low pay and weak punishment, but transparency, independent oversight and fair rules offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tham nhũng trong cơ quan công quyền",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu phạm vi (từ hối lộ nhỏ đến trộm cắp tiền công quy mô lớn) và tác hại phát triển; thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Quyền lực không kiểm soát, hình phạt yếu; quan chức lương thấp, toàn quyền quyết định bị cám dỗ hối lộ; bí mật che giấu sai phạm; văn hoá dung thứ việc nhờ vả. Ví dụ quan chức lương rất thấp kiểm soát giấy phép có thể đòi hối lộ. Toà yếu, cơ quan chống tham nhũng ít hỗ trợ; quy tắc phức tạp thêm cơ hội đòi tiền; công dân kỳ vọng trả hối lộ thì tham nhũng tự củng cố.",
+        "refs": [
+          "ID-gov-corruption-causes",
+          "EX-gov-licence-bribe",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Minh bạch, giám sát độc lập, hình phạt chắc chắn: hợp đồng mở, ngân sách công bố, cơ quan độc lập điều tra không sợ hãi, lương công bằng, bảo vệ người tố giác; đơn giản hoá thủ tục, chuyển dịch vụ lên mạng giảm tiếp xúc trực tiếp; toà độc lập, báo chí tự do, giáo dục tạo văn hoá bác bỏ tham nhũng.",
+        "refs": [
+          "ID-gov-corruption-solutions",
+          "ID-cr-transparency",
+          "ID-cr-report-protect",
+          "PH-tackle-source"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-corruption-causes",
+      "ID-gov-corruption-solutions",
+      "EX-gov-licence-bribe"
+    ]
+  },
+  "chunks": [
+    [
+      "Corruption by officials",
+      "tham nhũng của quan chức"
+    ],
+    [
+      "small bribes to large-scale theft of public money",
+      "từ hối lộ nhỏ đến trộm cắp tiền công quy mô lớn"
+    ],
+    [
+      "corruption in public office",
+      "tham nhũng trong cơ quan công quyền"
+    ],
+    [
+      "unchecked and punishment is weak",
+      "không được kiểm soát và hình phạt yếu"
+    ],
+    [
+      "low pay and wide discretion",
+      "lương thấp và quyền tự quyết rộng"
+    ],
+    [
+      "tempted by bribes",
+      "bị cám dỗ bởi hối lộ"
+    ],
+    [
+      "secrecy hides wrongdoing",
+      "bí mật che giấu sai phạm"
+    ],
+    [
+      "tolerates favours",
+      "dung thứ việc nhờ vả"
+    ],
+    [
+      "controls permits",
+      "kiểm soát giấy phép"
+    ],
+    [
+      "approve an application",
+      "phê duyệt một đơn"
+    ],
+    [
+      "weak courts",
+      "toà án yếu kém"
+    ],
+    [
+      "anti-corruption agencies",
+      "cơ quan chống tham nhũng"
+    ],
+    [
+      "rarely face punishment",
+      "hiếm khi bị trừng phạt"
+    ],
+    [
+      "self-reinforcing",
+      "tự củng cố"
+    ],
+    [
+      "trust in government falls",
+      "niềm tin vào chính phủ giảm"
+    ],
+    [
+      "Open contracts and published budgets expose abuse",
+      "hợp đồng công khai và ngân sách công bố phơi bày lạm dụng"
+    ],
+    [
+      "fair salaries",
+      "mức lương công bằng"
+    ],
+    [
+      "face-to-face contact",
+      "tiếp xúc trực tiếp"
+    ],
+    [
+      "escape punishment",
+      "thoát khỏi hình phạt"
+    ],
+    [
+      "a culture that rejects corruption",
+      "văn hoá bác bỏ tham nhũng"
+    ]
+  ]
+}

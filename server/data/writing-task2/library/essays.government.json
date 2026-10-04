@@ -1,0 +1,2006 @@
+{
+  "topic": "government",
+  "passScore": 7,
+  "essays": [
+    {
+      "questionId": 63,
+      "qtype": "Opinion",
+      "question": "Discuss the role of the internet in promoting free speech.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:44.221Z",
+          "words": 299,
+          "text": "Not long ago, a handful of newspapers and television channels decided which opinions reached the public, but today anyone with a phone can publish a message to the world. This essay will explain two key ways in which the internet promotes free speech: by giving ordinary people a platform and by making it easier to share information and organise.\n\nFirst and foremost, the internet gives ordinary people a platform that no one controls. Anyone with a connection can publish opinions, share news and organise with others without needing a newspaper or broadcaster, which helps those whose views are ignored or suppressed. A blogger who posts photographs of illegal logging, for example, can reach thousands of people even if the local newspaper stays silent. In countries where the press is restricted, citizens use social media and messaging apps to report events and debate openly, and minority groups can find audiences that traditional media would not give them. Voices from remote regions can be heard worldwide.\n\nIn addition, the internet makes it easier to share information and to organise. Posts and videos can spread to millions in hours, protests and petitions can be arranged quickly, and people with similar concerns can find one another across borders. Encrypted tools also protect journalists and activists. However, the same freedom brings problems. Rumour, harassment and hate speech spread easily, and some governments block websites or monitor users to silence critics. Free speech online therefore needs protection from both abuse and censorship, with clear laws, transparency from platforms and digital skills for users who must decide which sources to trust.\n\nTo sum up, the internet promotes free speech by giving everyone a voice and by making information easy to share, although it requires careful safeguards. For these reasons, open access to it should be protected.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng khá tốt, lập luận chặt chẽ và từ vựng phong phú, vượt qua yêu cầu về độ dài tối thiểu. Việc bổ sung thảo luận về thách thức ở phần thân bài giúp bài viết cân bằng hơn, tuy nhiên cần chú ý không làm loãng trọng tâm chính của đề bài.",
+            "weaknesses": [
+              "Phần thảo luận về mặt trái (rumour, hate speech, censorship) ở cuối đoạn 2 có phần lấn át chủ đề chính là 'promoting free speech'.",
+              "Một số từ vựng còn mang tính mô tả chung chung, thiếu sự sắc bén của văn phong học thuật cao cấp."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài, thảo luận rõ ràng vai trò của internet trong việc thúc đẩy tự do ngôn luận. Quan điểm được giữ vững xuyên suốt bài và có cân nhắc đến mặt trái ở đoạn thân bài thứ hai.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở đầu, các đoạn thân bài và kết luận rõ ràng. Các liên từ và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi mạch lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề công nghệ và xã hội (như 'suppressed', 'encrypted tools', 'censorship'). Tuy nhiên, một số cụm từ còn khá cơ bản và có thể nâng cấp thêm để đạt band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn và câu phức với độ chính xác cao. Ngữ pháp và các thì được sử dụng rất ổn định, không có lỗi lặp cấu trúc nghiêm trọng."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của internet trong thúc đẩy tự do ngôn luận",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài so sánh quá khứ (vài tờ báo, kênh truyền hình quyết định ý kiến nào đến công chúng) với hiện nay (ai có điện thoại cũng đăng được); báo hai cách: tạo nền tảng; dễ chia sẻ và tổ chức.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — nền tảng không ai kiểm soát",
+            "think": "Ai có kết nối cũng đăng ý kiến, chia sẻ tin, tổ chức không cần báo hay đài; giúp người bị phớt lờ hoặc bị đàn áp. Ví dụ blogger đăng ảnh chặt rừng bất hợp pháp tiếp cận hàng nghìn người dù báo địa phương im lặng. Nước hạn chế báo chí: công dân dùng mạng xã hội, ứng dụng nhắn tin; nhóm thiểu số có khán giả.",
+            "refs": [
+              "ID-gov-internet-speech",
+              "EX-gov-blogger-exposes"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — chia sẻ, tổ chức + giới hạn",
+            "think": "Bài đăng và video lan tới hàng triệu trong vài giờ; biểu tình, kiến nghị tổ chức nhanh; người cùng mối quan tâm tìm nhau xuyên biên giới; công cụ mã hoá bảo vệ nhà báo. Giới hạn: tin đồn, quấy rối, ngôn luận thù ghét; chính phủ chặn trang web, theo dõi người dùng; cần luật rõ, minh bạch từ nền tảng, kỹ năng số.",
+            "refs": [
+              "ID-gov-internet-speech",
+              "ID-gov-censorship",
+              "ID-gov-hate-speech",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Internet thúc đẩy tự do ngôn luận nhưng cần biện pháp bảo vệ; nên bảo vệ truy cập mở.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-internet-speech",
+          "EX-gov-blogger-exposes",
+          "PH-a-handful-of-newspapers-and-television-chann",
+          "PH-promotes-free-speech",
+          "PH-a-platform-that-no-one-controls",
+          "PH-publish-opinions-share-news-and-organise",
+          "PH-views-are-ignored-or-suppressed",
+          "PH-illegal-logging",
+          "PH-stays-silent",
+          "PH-the-press-is-restricted",
+          "PH-report-events-and-debate-openly",
+          "PH-minority-groups",
+          "PH-voices-from-remote-regions",
+          "PH-share-information-and-organise",
+          "PH-spread-to-millions-in-hours",
+          "PH-petitions-can-be-arranged-quickly",
+          "PH-find-one-another-across-borders",
+          "PH-rumour-harassment-and-hate-speech",
+          "PH-block-websites-or-monitor-users",
+          "PH-silence-critics",
+          "PH-transparency-from-platforms",
+          "PH-open-access"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 67,
+      "qtype": "Agree / Disagree",
+      "question": "Many people say that migration benefits the host country. Do you agree or disagree? Give reasons and examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:45.015Z",
+          "words": 281,
+          "text": "Millions of people move to other countries every year to work, study or escape danger, and many people say that migration benefits the host country. I agree with this view, since migrants fill gaps in the workforce and contribute to the economy and culture, although the benefits depend on good planning.\n\nTo begin with, migrants fill gaps in the workforce and contribute to the economy. They work in hospitals, farms, construction and technology where employers cannot find enough staff, pay taxes, start businesses and help ageing countries to keep their workforce. A hospital that depends on nurses from abroad, for example, would struggle to keep its wards open without them. Studies in several countries have shown that immigrants often take jobs that local people are unwilling or unable to do, and they spend money, which creates demand for goods and services. Skilled migrants also bring knowledge and links with other countries that help trade and innovation.\n\nFurthermore, migration enriches society. New foods, languages and ideas increase diversity and creativity, and contact between cultures can reduce prejudice. However, migration brings challenges that need planning. Housing, schools and health services may come under pressure in areas where many newcomers settle, wages for some low-paid local workers may be affected, and integration is difficult if newcomers do not speak the language or face discrimination. These problems are manageable if governments invest in services, offer language classes, recognise foreign qualifications and enforce laws against discrimination. Well-managed migration benefits both newcomers and residents, while neglect can cause resentment.\n\nIn conclusion, I agree that migration benefits the host country, because it fills workforce gaps and enriches society, provided that it is managed with proper support for integration.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt khoảng band 7.0 với bố cục chặt chẽ, lập luận thuyết phục và ngữ pháp vững chắc. Để cải thiện, người viết cần nâng cấp vốn từ vựng học thuật và đào sâu hơn vào các khía cạnh kinh tế - xã hội.",
+            "weaknesses": [
+              "Ví dụ đưa ra còn hơi chung chung, chưa cụ thể hóa bằng một trường hợp thực tế rõ ràng.",
+              "Thiếu các từ nối nâng cao để tạo sự chuyển ý mượt mà hơn giữa các đoạn.",
+              "Một số câu ghép dài dòng có thể được rút gọn để tăng sức nặng cho luận điểm."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi, có lập trường rõ ràng từ đầu và duy trì suốt bài. Ý tưởng phát triển khá đầy đủ, có đưa ra ví dụ và xét đến cả mặt thách thức để làm rõ góc nhìn.",
+              "coherenceCohesion": "Bố cục rõ ràng với các đoạn thân bài và kết luận được phân chia hợp lý. Các từ nối và phương tiện liên kết được sử dụng mượt mà, giúp người đọc dễ theo dõi mạch văn.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng đúng các cụm từ phổ biến như 'fill gaps in the workforce', 'ageing countries', và 'enriches society'. Tuy nhiên, thiếu một số từ vựng mang tính học thuật cao hơn để vươn lên band 8+.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn, câu ghép đến câu phức với các mệnh đề quan hệ và trạng ngữ chỉ điều kiện. Lỗi ngữ pháp rất ít, các thì và sự hòa hợp chủ ngữ được kiểm soát tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: di cư có lợi cho nước nhận — agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến",
+            "think": "Mở bài nêu quy mô (hàng triệu người chuyển nước mỗi năm để làm việc, học tập, tránh nguy hiểm) rồi agree + lý do + điều kiện (lập kế hoạch tốt).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — lực lượng lao động và kinh tế",
+            "think": "Người nhập cư lấp chỗ thiếu: bệnh viện, nông trại, xây dựng, công nghệ; nộp thuế, lập doanh nghiệp, giúp nước già giữ lực lượng lao động. Ví dụ bệnh viện phụ thuộc y tá nước ngoài khó mở khoa. Làm việc người địa phương không muốn hoặc không làm được; chi tiêu tạo cầu; người có kỹ năng mang tri thức và liên kết với nước khác.",
+            "refs": [
+              "ID-gov-migration",
+              "EX-gov-nurse-migrant",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — làm giàu xã hội + thách thức",
+            "think": "Món ăn, ngôn ngữ, ý tưởng mới tăng đa dạng, sáng tạo, giảm định kiến. Thách thức: nhà ở, trường học, y tế chịu áp lực ở nơi nhiều người mới định cư; lương một số lao động địa phương thấp bị ảnh hưởng; hoà nhập khó nếu không nói được ngôn ngữ hoặc bị phân biệt. Giải pháp: đầu tư dịch vụ, lớp ngôn ngữ, công nhận bằng cấp nước ngoài, luật chống phân biệt.",
+            "refs": [
+              "ID-gov-migration",
+              "ID-gov-language-policy",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Di cư có lợi nếu được quản lý với hỗ trợ hoà nhập.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-migration",
+          "EX-gov-nurse-migrant",
+          "PH-move-to-other-countries-every-year",
+          "PH-work-study-or-escape-danger",
+          "PH-migration-benefits-the-host-country",
+          "PH-fill-gaps-in-the-workforce",
+          "PH-hospitals-farms-construction-and-technology",
+          "PH-cannot-find-enough-staff",
+          "PH-pay-taxes-start-businesses",
+          "PH-keep-their-workforce",
+          "PH-nurses-from-abroad",
+          "PH-keep-its-wards-open",
+          "PH-unwilling-or-unable-to-do",
+          "PH-links-with-other-countries",
+          "PH-enriches-society",
+          "PH-diversity-and-creativity",
+          "PH-come-under-pressure",
+          "PH-wages-for-some-low-paid-local-workers",
+          "PH-recognise-foreign-qualifications",
+          "PH-proper-support-for-integration"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 76,
+      "qtype": "Opinion",
+      "question": "Discuss how media coverage affects public opinion during elections.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:53.088Z",
+          "words": 286,
+          "text": "Most voters never meet a candidate and learn about them through newspapers, television and the internet, so media coverage has great power in elections. This essay will explain two key ways in which media coverage affects public opinion during elections: by deciding which issues voters think about, and by shaping how they see candidates.\n\nFirst and foremost, media coverage decides which issues voters think about and how they see candidates. By choosing what to report, how to frame it and whom to interview, newspapers and broadcasters shape priorities. If the media spend weeks on immigration and little on health care, voters may come to feel that immigration is the main issue, whatever their own concerns. A headline that announces which candidate is ahead, for example, can encourage some voters to follow the winner and others to stay at home. Coverage also affects how voters judge a candidate's personality, since a single mistake that is replayed endlessly can damage a reputation more than years of careful policy work.\n\nIn addition, the way in which elections are reported often favours drama over detail. Coverage that treats the campaign as a horse race, focusing on opinion polls and personal conflicts, can crowd out discussion of policy, and partisan outlets may present only one side. However, a diverse media offers corrections. Independent fact-checking, public broadcasters with a duty of balance, and a free press that investigates candidates from all parties help voters to form their own views. Citizens should also compare several sources and be aware that every outlet has its own perspective.\n\nTo sum up, media coverage strongly affects public opinion during elections by shaping priorities and images, so diversity and honesty in the media are essential to democracy.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận chặt chẽ và đáp ứng tốt yêu cầu của đề bài về mặt nội dung lẫn hình thức. Người viết cần cải thiện thêm sự tinh tế trong từ vựng và đa dạng hóa cấu trúc câu để đạt điểm số cao hơn.",
+            "weaknesses": [
+              "Một số ý ở đoạn thân bài đầu tiên bị lặp lại ý nghĩa (định hình vấn đề và hình ảnh ứng cử viên).",
+              "Thiếu các cấu trúc ngữ pháp nâng cao như câu đảo ngữ hoặc mệnh đề phân từ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt câu hỏi thảo luận về ảnh hưởng của truyền thông đối với dư luận trong các kỳ bầu cử. Các ý chính được phát triển khá rõ ràng, đưa ra được các khía cạnh về việc định hình vấn đề và hình ảnh ứng cử viên.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở bài, thân bài và kết bài rõ ràng. Các liên kết từ được sử dụng tự nhiên, giúp các đoạn văn chuyển ý mượt mà.",
+              "lexicalResource": "Vốn từ vựng phong phú và phù hợp với chủ đề chính trị - xã hội. Tuy nhiên, vẫn thiếu một số collocation nâng cao đặc trưng để đạt mức band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, sử dụng tốt các mệnh đề quan hệ và câu phức. Lỗi ngữ pháp không đáng kể, các thì và sự hòa hợp chủ ngữ - động từ được đảm bảo tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: truyền thông ảnh hưởng dư luận trong bầu cử như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu hiện thực (hầu hết cử tri không gặp ứng viên, biết qua báo, truyền hình, internet) nên truyền thông có sức mạnh; báo hai cách: quyết định vấn đề được nghĩ tới; định hình hình ảnh ứng viên.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — chương trình nghị sự và hình ảnh",
+            "think": "Chọn đưa tin gì, đóng khung thế nào, phỏng vấn ai định hình ưu tiên; nếu nhiều tuần nói về nhập cư, ít về y tế thì cử tri thấy nhập cư là vấn đề chính. Ví dụ tiêu đề cho biết ứng viên dẫn đầu khiến người theo người thắng, người ở nhà. Một sai lầm được phát lại vô tận làm hại danh tiếng hơn nhiều năm chính sách tốt.",
+            "refs": [
+              "ID-gov-media-elections",
+              "EX-gov-poll-headline"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — kịch tính hơn chi tiết + đa dạng sửa chữa",
+            "think": "Coi chiến dịch như cuộc đua ngựa, tập trung thăm dò và xung đột cá nhân lấn át chính sách; kênh thiên vị chỉ trình bày một phía. Tuy nhiên truyền thông đa dạng sửa chữa: kiểm chứng độc lập, đài công có nghĩa vụ cân bằng, báo chí tự do điều tra mọi đảng; công dân so sánh nhiều nguồn.",
+            "refs": [
+              "ID-gov-media-elections",
+              "ID-gov-social-awareness",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Truyền thông ảnh hưởng mạnh dư luận; cần đa dạng và trung thực.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-media-elections",
+          "EX-gov-poll-headline",
+          "PH-learn-about-them-through-newspapers-televisi",
+          "PH-media-coverage-affects-public-opinion",
+          "PH-decides-which-issues-voters-think-about",
+          "PH-shaping-how-they-see-candidates",
+          "PH-what-to-report-how-to-frame-it-and-whom-to-i",
+          "PH-shape-priorities",
+          "PH-the-main-issue",
+          "PH-announces-which-candidate-is-ahead",
+          "PH-follow-the-winner",
+          "PH-stay-at-home",
+          "PH-a-single-mistake-that-is-replayed-endlessly",
+          "PH-damage-a-reputation",
+          "PH-favours-drama-over-detail",
+          "PH-a-horse-race",
+          "PH-opinion-polls-and-personal-conflicts",
+          "PH-crowd-out-discussion-of-policy",
+          "PH-partisan-outlets",
+          "PH-independent-fact-checking",
+          "PH-a-duty-of-balance",
+          "PH-investigates-candidates-from-all-parties"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 106,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that social media increases political awareness?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:48.890Z",
+          "words": 270,
+          "text": "Politicians now post on social media every day, and some people believe that these platforms make citizens more politically aware. I largely agree, since they make information faster and easier to share, although awareness does not always mean understanding.\n\nTo begin with, social media makes political information faster, cheaper and easier to share. News, debates and campaign messages reach young people who rarely read newspapers, and ordinary citizens can question politicians directly. A student who sees a politician's speech shared by friends, for example, may follow the story further, although she may also see only views that she already agrees with. Hashtags and live videos bring attention to issues that traditional media might ignore, and campaigns on topics such as climate change or equality have reached millions. Participation has risen in several countries as young voters learn about elections and registration deadlines online.\n\nFurthermore, social media allows people to discuss politics and to organise. Online communities help citizens to find others who share their concerns and to join petitions and demonstrations. However, awareness is not always understanding. Algorithms tend to show people content that confirms their existing views, creating echo chambers, and false stories can spread faster than corrections. Engagement may also be shallow, such as pressing a like button rather than taking action. To get the full benefit, users should compare several sources, schools should teach media literacy, and platforms should be more transparent about how they rank content.\n\nIn conclusion, social media increases political awareness to a large extent by making information accessible, but its benefits depend on users and platforms ensuring that it is accurate and balanced.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng khá tốt với tư duy lập luận sắc sảo, bố cục rõ ràng và ngữ pháp vững chắc. Để cải thiện lên band cao hơn, bạn cần đào sâu thêm về từ vựng học thuật và kiểm soát chặt chẽ hơn các luận điểm đối lập.",
+            "weaknesses": [
+              "Một số câu ghép có xu hướng hơi dài dòng và chứa quá nhiều ý phụ.",
+              "Thiếu các từ nối nâng cao để liên kết giữa các mệnh đề đối lập một cách tinh tế hơn.",
+              "Phạm vi từ vựng chưa thực sự đột phá, còn dùng nhiều từ thông dụng."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi và có lập trường rõ ràng từ mở bài. Bạn đã cân bằng được cả hai mặt của vấn đề (lợi ích và hạn chế) để làm rõ mức độ đồng tình.",
+              "coherenceCohesion": "Bố cục bài viết rất mạch lạc, chia đoạn hợp lý và sử dụng các từ nối hiệu quả. Các ý tưởng được triển khai logic từ mở bài, thân bài đến kết bài.",
+              "lexicalResource": "Từ vựng khá phong phú và tự nhiên, phù hợp với chủ đề chính trị và mạng xã hội. Tuy nhiên, vẫn thiếu một số cụm từ học thuật nâng cao (advanced collocations) để đạt band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức. Ngữ pháp chính xác, hiếm khi mắc lỗi cấu trúc cơ bản."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree (Extent): mạng xã hội tăng hiểu biết chính trị — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến",
+            "think": "Mở bài nêu thực tế (chính trị gia đăng mạng xã hội mỗi ngày) rồi largely agree + giới hạn (nhận thức không luôn là hiểu biết).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — thông tin nhanh, rẻ, dễ chia sẻ",
+            "think": "Tin, tranh luận, thông điệp vận động đến người trẻ ít đọc báo; công dân hỏi trực tiếp chính trị gia. Ví dụ sinh viên thấy bài phát biểu do bạn chia sẻ có thể theo dõi tiếp, nhưng chỉ thấy quan điểm mình đồng ý. Hashtag, video trực tiếp đưa vấn đề truyền thông truyền thống bỏ qua; chiến dịch khí hậu, bình đẳng đến hàng triệu; người trẻ biết bầu cử, hạn đăng ký.",
+            "refs": [
+              "ID-gov-social-awareness",
+              "EX-gov-student-news-feed",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Cho phép thảo luận chính trị và tổ chức; cộng đồng trực tuyến giúp công dân tìm người cùng mối quan tâm, tham gia kiến nghị, biểu tình. Giới hạn: thuật toán cho xem nội dung xác nhận quan điểm sẵn có tạo buồng vang; tin giả lan nhanh hơn đính chính; tham gia hời hợt như bấm thích. Giải pháp: so sánh nhiều nguồn, dạy kiến thức truyền thông, nền tảng minh bạch cách xếp hạng.",
+            "refs": [
+              "ID-gov-social-awareness",
+              "ID-gov-media-elections",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tăng nhận thức ở mức độ lớn nhưng phụ thuộc người dùng và nền tảng bảo đảm chính xác, cân bằng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-social-awareness",
+          "EX-gov-student-news-feed",
+          "PH-post-on-social-media-every-day",
+          "PH-politically-aware",
+          "PH-faster-cheaper-and-easier-to-share",
+          "PH-campaign-messages",
+          "PH-rarely-read-newspapers",
+          "PH-question-politicians-directly",
+          "PH-follow-the-story-further",
+          "PH-views-that-she-already-agrees-with",
+          "PH-hashtags-and-live-videos",
+          "PH-traditional-media-might-ignore",
+          "PH-climate-change-or-equality",
+          "PH-registration-deadlines",
+          "PH-join-petitions-and-demonstrations",
+          "PH-share-their-concerns",
+          "PH-awareness-is-not-always-understanding",
+          "PH-algorithms",
+          "PH-confirms-their-existing-views",
+          "PH-echo-chambers",
+          "PH-spread-faster-than-corrections",
+          "PH-compare-several-sources"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 136,
+      "qtype": "Opinion",
+      "question": "Discuss how technology influences voting behaviour.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:49.712Z",
+          "words": 292,
+          "text": "In recent elections, campaigns have been fought as much on phones and laptops as on doorsteps, and technology has changed how people decide whom to vote for. This essay will explain two key ways in which technology influences voting behaviour: by changing how voters get information and by changing how campaigns reach them.\n\nFirst and foremost, technology shapes how voters learn about candidates. Social media spreads both information and false stories, and online tools make registration and research easier. A student who looks up the policies of every party in a few minutes, for example, is better informed than a voter of fifty years ago who relied on a single newspaper. Websites compare manifestos, fact-checkers examine claims, and live streaming lets voters watch debates wherever they are. However, the same tools can mislead, since search results and feeds may show people only what confirms their opinions, and deliberately false stories can influence undecided voters.\n\nIn addition, technology changes how campaigns reach voters. Parties use data to target messages at individuals, based on age, job and interests, so that a voter who receives advertisements aimed at his age, job and neighbourhood, for example, sees a very different campaign from his neighbour. Targeted messages can motivate groups who are normally ignored, but they can also be misleading, since the public cannot easily see or challenge what others are being told. Automated accounts can create the impression of widespread support. Voters therefore need skills to judge sources, and regulators should require campaigns to be transparent about who is paying for advertisements and how data are used.\n\nTo sum up, technology influences voting behaviour by changing how people learn about politics and how campaigns persuade them. For these reasons, it deserves both encouragement and careful regulation.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng tốt với bố cục mạch lạc, lập luận chặt chẽ và ngữ pháp vững vàng. Tuy nhiên, để đạt mức điểm cao hơn (band 8+), học sinh cần nâng cấp vốn từ vựng mang tính học thuật cao hơn và giảm bớt các cách diễn đạt mang tính liệt kê.",
+            "weaknesses": [
+              "Một số câu diễn đạt còn hơi dài dòng và lặp từ ngữ (target messages, campaign).",
+              "Thiếu các từ vựng học thuật chuyên sâu (advanced lexical items) về lĩnh vực chính trị."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm đề bài, phân tích rõ hai khía cạnh ảnh hưởng của công nghệ đến hành vi bỏ phiếu. Lập trường được duy trì xuyên suốt và phát triển ý đầy đủ, đáp ứng tốt yêu cầu độ dài.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng với phần mở bài, hai đoạn thân bài và kết luận. Các liên từ và phương tiện liên kết được sử dụng mượt mà, giúp bài văn mạch lạc.",
+              "lexicalResource": "Từ vựng được dùng chính xác, có một số cụm từ hay liên quan đến chính trị và công nghệ (manifestos, fact-checkers, targeted messages). Tuy nhiên, một số cụm từ còn khá phổ thông và thiếu các collocation nâng cao.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức. Ngữ pháp chính xác với rất ít lỗi, các thì và mệnh đề quan hệ được kiểm soát tốt."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: công nghệ ảnh hưởng hành vi bỏ phiếu như thế nào",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu bối cảnh (chiến dịch tranh cử đấu trên điện thoại, laptop nhiều như trước cửa nhà dân); báo hai cách: thay đổi cách cử tri lấy thông tin; thay đổi cách chiến dịch tiếp cận cử tri.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — thông tin",
+            "think": "Mạng xã hội lan thông tin lẫn tin giả; công cụ trực tuyến giúp đăng ký, nghiên cứu dễ hơn. Ví dụ sinh viên tra chính sách mọi đảng trong vài phút hiểu biết hơn cử tri năm mươi năm trước chỉ dựa một tờ báo. Trang so sánh cương lĩnh, kiểm chứng sự thật, phát trực tiếp tranh luận. Giới hạn: kết quả tìm kiếm và bảng tin chỉ cho thấy điều xác nhận quan điểm, tin giả ảnh hưởng người chưa quyết.",
+            "refs": [
+              "ID-gov-tech-voting",
+              "ID-gov-social-awareness",
+              "EX-gov-targeted-ad"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — chiến dịch + giới hạn",
+            "think": "Đảng dùng dữ liệu nhắm thông điệp theo tuổi, nghề, sở thích: cử tri nhận quảng cáo nhắm tuổi, nghề, khu phố thấy chiến dịch khác hàng xóm. Thông điệp nhắm đích có thể thúc đẩy nhóm bị bỏ qua nhưng cũng gây hiểu lầm vì công chúng khó thấy, phản biện; tài khoản tự động tạo ấn tượng ủng hộ rộng. Cần kỹ năng đánh giá nguồn, quy định minh bạch về người trả tiền quảng cáo và dùng dữ liệu.",
+            "refs": [
+              "ID-gov-tech-voting",
+              "ID-gov-media-elections",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Công nghệ thay đổi cách người ta biết về chính trị và cách chiến dịch thuyết phục; cần khuyến khích và điều tiết cẩn thận.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-tech-voting",
+          "EX-gov-targeted-ad",
+          "PH-fought-as-much-on-phones-and-laptops-as-on-d",
+          "PH-influences-voting-behaviour",
+          "PH-how-voters-get-information",
+          "PH-how-campaigns-reach-them",
+          "PH-learn-about-candidates",
+          "PH-spreads-both-information-and-false-stories",
+          "PH-registration-and-research-easier",
+          "PH-the-policies-of-every-party",
+          "PH-relied-on-a-single-newspaper",
+          "PH-compare-manifestos",
+          "PH-fact-checkers-examine-claims",
+          "PH-watch-debates",
+          "PH-show-people-only-what-confirms-their-opinion",
+          "PH-undecided-voters",
+          "PH-target-messages-at-individuals",
+          "PH-age-job-and-interests",
+          "PH-groups-who-are-normally-ignored",
+          "PH-automated-accounts",
+          "PH-the-impression-of-widespread-support",
+          "PH-transparent-about-who-is-paying"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 226,
+      "qtype": "Agree / Disagree",
+      "question": "To what extent do you agree or disagree that voting should be compulsory?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:54.543Z",
+          "words": 294,
+          "text": "In some countries, citizens who do not vote are fined, and some people argue that voting should be compulsory. I disagree with this view, since compelling people to vote treats a right as a duty and may produce uninformed choices, although I would like turnout to be high.\n\nTo begin with, compelling people to vote treats a right as a duty and may produce uninformed choices. Citizens who are forced to attend a polling station may vote randomly or leave the paper blank, resent the state and lose the sense that voting is a free expression of opinion. A person who dislikes every candidate but must still go to the polling station, for example, may simply tick a name at random. Such votes do not make the result more representative, and they may favour candidates whose names are more familiar. In a free society, the right to take part in politics should include the right to choose not to take part, as with other freedoms such as speech and religion.\n\nFurthermore, compulsion treats the symptom, not the cause. Low turnout usually reflects distrust, dissatisfaction with the choice offered or practical difficulties, and forcing people to vote does not address these problems. Supporters point out that compulsory voting increases turnout and makes governments more representative, as in Australia, where participation is very high. That is a real advantage. However, the same result can be achieved by making voting easier and more meaningful through weekend elections, early and postal voting, better civic education and more responsive politics. Fines also fall hardest on those with the least money.\n\nIn conclusion, I disagree that voting should be compulsory, because it limits freedom and produces uninformed votes, and the focus should be on making participation easier and more attractive.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, lập luận sắc bén và cấu trúc chặt chẽ. Người viết thể hiện khả năng diễn đạt ý tưởng mạch lạc bằng tiếng Anh học thuật.",
+            "weaknesses": [
+              "Một số câu trong phần mở bài lặp lại ý tưởng một cách hơi máy móc so với câu chủ đề của thân bài 1.",
+              "Ý kiến trái chiều được giải quyết khá nhanh ở cuối thân bài 2, có thể đào sâu hơn chút nữa."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời trực tiếp câu hỏi đề bài với lập trường không đồng ý rất rõ ràng. Các luận điểm được phát triển logic, có đề cập đến ý kiến trái chiều (Australia) và phản biện lại thuyết phục.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở bài, thân bài và kết luận rõ ràng. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi mạch luận điểm.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng chính xác các thuật ngữ liên quan đến chủ đề chính trị và bầu cử. Các collocation tự nhiên giúp nâng cao chất lượng bài viết.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Ngữ pháp chính xác gần như tuyệt đối, không có lỗi lặp cấu trúc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: bỏ phiếu nên bắt buộc — disagree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + nhượng bộ",
+            "think": "Mở bài nêu thực tế (một số nước phạt người không bỏ phiếu) rồi disagree + lý do (coi quyền như nghĩa vụ, phiếu thiếu hiểu biết) + thừa nhận muốn tỷ lệ tham gia cao.",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-disagree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — quyền thành nghĩa vụ",
+            "think": "Công dân bị buộc đến điểm bỏ phiếu có thể bỏ ngẫu nhiên hoặc để phiếu trắng, bực bội và mất cảm giác bỏ phiếu là biểu đạt tự do. Ví dụ người ghét mọi ứng viên vẫn phải đến, đánh dấu ngẫu nhiên. Phiếu như vậy không làm kết quả đại diện hơn, có thể ưu ái tên quen; quyền tham gia chính trị nên gồm quyền không tham gia như tự do ngôn luận, tôn giáo.",
+            "refs": [
+              "ID-gov-compulsory-vote",
+              "EX-gov-random-vote",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + nhượng bộ",
+            "think": "Bắt buộc chữa triệu chứng không phải nguyên nhân: tỷ lệ thấp phản ánh mất lòng tin, không hài lòng với lựa chọn, khó khăn thực tế. Nhượng bộ: người ủng hộ nói bắt buộc tăng tham gia và chính phủ đại diện hơn (Úc). Phản bác: dễ và có ý nghĩa hơn qua bầu cử cuối tuần, bỏ phiếu sớm, bưu điện, giáo dục công dân, chính trị đáp ứng hơn; tiền phạt đè nặng lên người ít tiền.",
+            "refs": [
+              "ID-gov-voting-access",
+              "ID-gov-turnout-causes",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Disagree vì hạn chế tự do và phiếu thiếu hiểu biết; nên làm tham gia dễ và hấp dẫn hơn.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-compulsory-vote",
+          "EX-gov-random-vote",
+          "PH-citizens-who-do-not-vote-are-fined",
+          "PH-voting-should-be-compulsory",
+          "PH-treats-a-right-as-a-duty",
+          "PH-produce-uninformed-choices",
+          "PH-forced-to-attend-a-polling-station",
+          "PH-leave-the-paper-blank",
+          "PH-resent-the-state",
+          "PH-a-free-expression-of-opinion",
+          "PH-dislikes-every-candidate",
+          "PH-tick-a-name-at-random",
+          "PH-more-representative",
+          "PH-the-right-to-choose-not-to-take-part",
+          "PH-treats-the-symptom-not-the-cause",
+          "PH-distrust-dissatisfaction-with-the-choice-off",
+          "PH-practical-difficulties",
+          "PH-increases-turnout",
+          "PH-participation-is-very-high",
+          "PH-weekend-elections-early-and-postal-voting",
+          "PH-more-responsive-politics",
+          "PH-fall-hardest-on-those-with-the-least-money"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 231,
+      "qtype": "Discuss both views",
+      "question": "Is it better to focus government spending on emergency services or on prevention programs? Discuss and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:35.278Z",
+          "words": 285,
+          "text": "Opinions are divided as to whether public money should be spent mainly on emergency services or on prevention programmes. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of emergency services argue that they save lives at the moment when everything else has failed. Fire crews, ambulances and rescue teams reach people in danger within minutes, and some accidents and disasters happen however much prevention is in place. A person who suffers a heart attack, for example, may survive only if an ambulance arrives within minutes. Cutting these services would put lives at immediate risk, and the public expects the state to respond whenever help is needed. Emergency workers also provide reassurance, because people feel safer when they know that help will come quickly. Well-equipped services also deal with events that no prevention could stop, such as earthquakes and sudden illness.\n\nOn the other hand, supporters of prevention point out that it stops harm before it happens and costs far less than repairing damage. Safety education, building standards, health screening and crime-prevention programmes reduce the number of emergencies in the first place, and the savings continue year after year. A town that builds flood walls and drains, for example, may avoid damage that would cost far more to repair after every storm. Prevention also reduces suffering that cannot be measured in money, such as injuries, bereavement and lost homes. Preventing a fire is better than extinguishing it.\n\nIn conclusion, both views have merit. Personally, I believe that a balanced budget is best: emergency services must be fully funded because they are essential, but a growing share should go to prevention because it reduces the need for emergency help.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt yêu cầu về độ dài và hoàn thành tốt nhiệm vụ thảo luận hai chiều kết hợp nêu quan điểm cá nhân. Ngữ pháp và từ vựng ổn định, tư duy triển khai ý mạch lạc.",
+            "weaknesses": [
+              "Một số luận điểm lặp lại ý nghĩa tương tự nhau (ví dụ: cứu người khẩn cấp vs tránh tai nạn bất ngờ).",
+              "Phần kết luận có thể mở rộng thêm một chút về tầm nhìn dài hạn thay vì chỉ tóm tắt lại.",
+              "Thiếu các từ vựng học thuật cấp cao hơn (C1/C2) ở một số vị trí."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu của đề bài, thảo luận cả hai quan điểm và đưa ra ý kiến cá nhân rõ ràng ở phần kết luận. Các luận điểm được phát triển hợp lý và có ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn rõ ràng, sử dụng các từ nối hiệu quả để chuyển ý giữa các đoạn. Các đại từ quy chiếu và mạch ý trong từng đoạn được duy trì tốt.",
+              "lexicalResource": "Từ vựng phong phú, liên quan đến chủ đề (emergency services, prevention programmes, safety education, flood walls). Các cụm từ được sử dụng tự nhiên và chính xác.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, được kiểm soát tốt với độ chính xác cao. Việc sử dụng thì và các mệnh đề quan hệ hoàn toàn chuẩn xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: chi cho dịch vụ khẩn cấp hay chương trình phòng ngừa",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Dùng cấu trúc các đề chi tiêu chính phủ trước; phe khẩn cấp dùng ý cứu mạng ngay; phe phòng ngừa dùng ý rẻ và lâu dài.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe khẩn cấp",
+            "think": "Cứu hoả, cứu thương, đội cứu hộ đến trong vài phút; một số tai nạn thiên tai vẫn xảy ra dù phòng ngừa tốt; ví dụ người đau tim sống sót nếu xe cứu thương đến trong vài phút; cắt giảm đặt tính mạng vào rủi ro ngay; công chúng kỳ vọng nhà nước ứng phó; trấn an; xử lý sự kiện không phòng được (động đất, bệnh đột ngột).",
+            "refs": [
+              "ID-gov-emergency-response",
+              "EX-gov-ambulance-minutes",
+              "ID-health-treatment-now"
+            ]
+          },
+          {
+            "step": "3. Phe phòng ngừa",
+            "think": "Ngăn tác hại trước khi xảy ra, rẻ hơn sửa thiệt hại; giáo dục an toàn, tiêu chuẩn xây dựng, sàng lọc sức khoẻ, chương trình phòng tội phạm giảm số ca khẩn cấp; tiết kiệm kéo dài hằng năm; ví dụ thị trấn xây tường chắn lũ và cống thoát nước; giảm đau khổ không đo bằng tiền; phòng cháy tốt hơn chữa cháy.",
+            "refs": [
+              "ID-gov-prevention",
+              "EX-gov-flood-defence",
+              "ID-health-prevention-cheaper"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Ngân sách cân bằng: khẩn cấp được tài trợ đầy đủ vì thiết yếu, phần ngày càng lớn cho phòng ngừa.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-emergency-response",
+          "ID-gov-prevention",
+          "EX-gov-ambulance-minutes",
+          "EX-gov-flood-defence",
+          "PH-emergency-services",
+          "PH-prevention-programmes",
+          "PH-supporters-of-emergency-services",
+          "PH-save-lives-at-the-moment-when-everything-els",
+          "PH-fire-crews-ambulances-and-rescue-teams",
+          "PH-reach-people-in-danger-within-minutes",
+          "PH-however-much-prevention-is-in-place",
+          "PH-suffers-a-heart-attack",
+          "PH-put-lives-at-immediate-risk",
+          "PH-respond-whenever-help-is-needed",
+          "PH-provide-reassurance",
+          "PH-sudden-illness",
+          "PH-stops-harm-before-it-happens",
+          "PH-costs-far-less-than-repairing-damage",
+          "PH-safety-education-building-standards",
+          "PH-health-screening",
+          "PH-the-savings-continue-year-after-year",
+          "PH-flood-walls-and-drains",
+          "PH-injuries-bereavement-and-lost-homes"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 262,
+      "qtype": "Causes / Solutions",
+      "question": "How can governments make voting more accessible? Suggest practical measures.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:54.538Z",
+          "words": 285,
+          "text": "In many democracies, a large share of eligible citizens never vote, and some of them are kept away by practical obstacles such as long queues, strict deadlines and inconvenient hours. This essay will suggest practical measures that governments could take, focusing on making it easier to cast a vote and on making information and registration simpler.\n\nTo begin with, governments should remove the practical obstacles that stop people from voting. More polling stations, early and postal voting, weekend or holiday elections, transport for older and disabled voters and automatic registration make it easier to take part. A nurse who works night shifts, for example, can vote during a week of early voting instead of missing the single election day. Longer opening hours and mobile polling stations in rural areas help people who live far from a town. Voting by post or secure online systems can suit people who are away from home, such as students and workers abroad, provided that safeguards against fraud are in place.\n\nIn addition, authorities should make registration and information simple. Automatic or same-day registration removes a barrier that stops many young people and those who move home often, and reminders by text message can encourage participation. Clear guides in several languages and plain language help new citizens and people with limited education to understand how to vote. Equally important, polling places should be accessible to wheelchair users, with assistance available for those who are blind or have difficulty reading. Measures like these cost little compared with the democratic benefits, and they help ensure that governments represent the whole population.\n\nIn conclusion, widening opportunities to vote and simplifying registration and information offer the most realistic way of making voting more accessible.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7.5,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của một bài Task 2 dạng Causes/Solutions (tập trung vào Solutions), với lập luận sắc bén, từ vựng phù hợp và cấu trúc ngữ pháp vững chắc. Điểm số dao động quanh mức 7.5.",
+            "weaknesses": [
+              "Đoạn thân bài thứ nhất liệt kê hơi nhiều ý trong một câu (long list), làm giảm độ mượt mà của mạch văn.",
+              "Một số từ vựng lặp lại ở phần thân bài và kết luận."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt yêu cầu của đề bài bằng cách đưa ra các giải pháp thực tế và thiết thực để chính phủ cải thiện khả năng tiếp cận bầu cử. Các ý chính được phát triển logic, có ví dụ minh họa rõ ràng và đáp ứng đủ độ dài tối thiểu.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với phần mở bài, thân bài và kết bài chuẩn mực. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp các đoạn văn gắn kết chặt chẽ.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng tốt các từ ngữ liên quan đến chủ đề chính trị và xã hội (eligible citizens, practical obstacles, polling stations, automatic registration). Tuy nhiên, có thể nâng cấp thêm một số cụm từ mang tính học thuật cao hơn.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt và ít lỗi. Các thì được sử dụng chính xác xuyên suốt bài viết."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Solutions only: chính phủ làm bỏ phiếu dễ tiếp cận hơn",
+        "plan": [
+          {
+            "step": "1. Khung giải pháp",
+            "think": "Mở bài nêu vấn đề (nhiều dân chủ có tỷ lệ cử tri không đi bầu cao, một số vì rào cản thực tế: xếp hàng dài, hạn nghiêm, giờ bất tiện); hai nhóm: gỡ rào cản bỏ phiếu thực tế; đơn giản hoá đăng ký và thông tin.",
+            "refs": [
+              "FR-struct-solutions",
+              "FR-this-essay-will",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nhóm 1 — gỡ rào cản thực tế",
+            "think": "Thêm điểm bỏ phiếu, bỏ phiếu sớm và qua bưu điện, bầu cử cuối tuần hoặc ngày nghỉ, hỗ trợ đi lại, đăng ký tự động. Ví dụ y tá trực đêm bỏ phiếu trong tuần bỏ phiếu sớm. Giờ mở cửa dài hơn, điểm bỏ phiếu lưu động ở nông thôn; bỏ phiếu bưu điện hoặc trực tuyến an toàn cho người xa nhà, với biện pháp chống gian lận.",
+            "refs": [
+              "ID-gov-voting-access",
+              "EX-gov-early-voting",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Nhóm 2 — đăng ký và thông tin",
+            "think": "Đăng ký tự động hoặc cùng ngày gỡ rào cản cho người trẻ và người hay chuyển nhà; nhắc qua tin nhắn; hướng dẫn nhiều thứ tiếng và ngôn ngữ đơn giản; điểm bỏ phiếu cho người ngồi xe lăn, hỗ trợ người mù, khó đọc; chi phí thấp so với lợi ích dân chủ.",
+            "refs": [
+              "ID-gov-voting-access",
+              "ID-gov-turnout-causes",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai nhóm.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-voting-access",
+          "EX-gov-early-voting",
+          "PH-a-large-share-of-eligible-citizens-never-vot",
+          "PH-practical-obstacles",
+          "PH-long-queues-strict-deadlines-and-inconvenien",
+          "PH-more-accessible",
+          "PH-cast-a-vote",
+          "PH-remove-the-practical-obstacles",
+          "PH-more-polling-stations",
+          "PH-early-and-postal-voting",
+          "PH-weekend-or-holiday-elections",
+          "PH-transport-for-older-and-disabled-voters",
+          "PH-automatic-registration",
+          "PH-works-night-shifts",
+          "PH-mobile-polling-stations",
+          "PH-safeguards-against-fraud",
+          "PH-same-day-registration",
+          "PH-move-home-often",
+          "PH-reminders-by-text-message",
+          "PH-plain-language",
+          "PH-accessible-to-wheelchair-users",
+          "PH-represent-the-whole-population"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 289,
+      "qtype": "Causes / Solutions",
+      "question": "What are the causes of low voter turnout? What solutions can be proposed?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:58.415Z",
+          "words": 282,
+          "text": "In many democracies, fewer than two-thirds of eligible voters take part in elections, and in some local elections the figure is far lower. This essay will analyse the principal causes and propose realistic solutions.\n\nLow turnout reflects distrust, a feeling that votes do not matter and practical obstacles. Voters who believe that politicians are all the same or that the result will not change their lives see little point in taking part, and registration rules, long queues and working hours make voting inconvenient. A worker who sees a queue of two hours outside the polling station, for example, may decide that his time is better spent elsewhere. In addition, young people and those on low incomes, who often feel ignored by parties, are the least likely to vote, and weak civic education leaves many unsure how the system works or why it matters. As a result, their interests are underrepresented, which increases their sense of exclusion in a damaging cycle.\n\nTo address this issue, governments should make voting easier and politics more relevant. Early and postal voting, weekend elections and automatic registration remove practical barriers, while civic education in schools teaches young people how decisions are made and why participation matters. In addition, parties should engage directly with young and poorer communities, and electoral reform, such as more proportional systems, can make votes count more. Greater transparency about money in politics and tougher action against corruption would help to rebuild trust. Campaigns by independent bodies can also remind people of election dates and explain how to vote.\n\nIn conclusion, low voter turnout stems mainly from distrust and inconvenience, but easier voting, civic education and more responsive politics offer a realistic way forward.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết của bạn có cấu trúc tốt, ngữ pháp vững và từ vựng phong phú, đáp ứng khá tốt yêu cầu của dạng bài Causes and Solutions. Để đạt điểm cao hơn, bạn cần tách bạch các nguyên nhân thành các luận điểm rõ ràng hơn và nâng cấp một số từ vựng.",
+            "weaknesses": [
+              "Đoạn thân bài thứ nhất gộp quá nhiều nguyên nhân (distrust, inconvenience, weak civic education) vào chung một đoạn làm cấu trúc phân tích bị loãng.",
+              "Một số giải pháp lặp lại ý tưởng về mặt cấu trúc diễn đạt.",
+              "Thiếu sự nhấn mạnh mạnh mẽ vào tác động của từng nguyên nhân."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt cả hai phần của câu hỏi (nguyên nhân và giải pháp). Các ý được phát triển khá rõ ràng, tuy nhiên việc phân tích nguyên nhân gộp chung trong một đoạn lớn khiến luận điểm chưa được tách biệt thật rạch ròi.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các liên từ và phương tiện nối được sử dụng tự nhiên, giúp mạch văn trôi chảy.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng linh hoạt các cụm từ theo chủ đề chính trị và xã hội (eligible voters, voter turnout, practical obstacles, civic education). Tuy nhiên, một số cụm từ diễn đạt chưa đạt độ tinh tế cao nhất của mức band 8.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp tốt giữa câu đơn, câu ghép và câu phức. Lỗi ngữ pháp rất ít, các thì và cấu trúc mệnh đề quan hệ được dùng chính xác."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Causes/Solutions: nguyên nhân và giải pháp cho tỷ lệ cử tri đi bầu thấp",
+        "plan": [
+          {
+            "step": "1. Khung nguyên nhân + giải pháp",
+            "think": "Mở bài nêu số liệu mô tả (ít hơn hai phần ba cử tri đủ điều kiện tham gia, một số bầu cử địa phương thấp hơn nhiều); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+            "refs": [
+              "FR-struct-causes-solutions",
+              "PH-stems-from",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nguyên nhân",
+            "think": "Mất lòng tin, cảm giác phiếu không có giá trị, rào cản thực tế; cử tri tin chính trị gia như nhau hoặc kết quả không đổi cuộc sống không thấy ý nghĩa; quy tắc đăng ký, hàng chờ dài, giờ làm bất tiện. Ví dụ công nhân thấy hàng chờ hai giờ quyết định dành thời gian nơi khác. Người trẻ, thu nhập thấp thường bị đảng phớt lờ nên ít bỏ phiếu; giáo dục công dân yếu; lợi ích bị đại diện thiếu làm tăng cảm giác bị loại trừ.",
+            "refs": [
+              "ID-gov-turnout-causes",
+              "EX-gov-long-queue",
+              "PH-cause-contribute",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "3. Giải pháp",
+            "think": "Bỏ phiếu dễ hơn và chính trị liên quan hơn: bỏ phiếu sớm, bưu điện, cuối tuần, đăng ký tự động; giáo dục công dân ở trường; đảng tiếp cận trực tiếp cộng đồng trẻ và nghèo; cải cách bầu cử (tỷ lệ hơn) để phiếu có giá trị; minh bạch tiền trong chính trị, chống tham nhũng; chiến dịch của cơ quan độc lập nhắc ngày bầu và hướng dẫn.",
+            "refs": [
+              "ID-gov-voting-access",
+              "ID-cr-transparency",
+              "PH-tackle-source"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-turnout-causes",
+          "EX-gov-long-queue",
+          "PH-fewer-than-two-thirds-of-eligible-voters",
+          "PH-take-part-in-elections",
+          "PH-low-voter-turnout",
+          "PH-distrust-a-feeling-that-votes-do-not-matter",
+          "PH-politicians-are-all-the-same",
+          "PH-will-not-change-their-lives",
+          "PH-see-little-point-in-taking-part",
+          "PH-registration-rules-long-queues-and-working-h",
+          "PH-a-queue-of-two-hours",
+          "PH-on-low-incomes",
+          "PH-feel-ignored-by-parties",
+          "PH-weak-civic-education",
+          "PH-unsure-how-the-system-works",
+          "PH-their-interests-are-underrepresented",
+          "PH-civic-education-in-schools",
+          "PH-more-proportional-systems",
+          "PH-make-votes-count-more",
+          "PH-transparency-about-money-in-politics",
+          "PH-rebuild-trust"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 331,
+      "qtype": "Causes / Solutions",
+      "question": "What are the causes of corruption in public office? What solutions can be proposed?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:39.384Z",
+          "words": 265,
+          "text": "Corruption by officials, from small bribes to large-scale theft of public money, damages development in many countries. This essay will analyse the principal causes of corruption in public office and propose realistic solutions.\n\nCorruption grows where power is unchecked and punishment is weak. Officials with low pay and wide discretion are tempted by bribes, secrecy hides wrongdoing, and a culture that tolerates favours makes it seem normal. An official who is paid very little and controls permits, for example, may be tempted to ask for a bribe to approve an application. In addition, weak courts and poorly supported anti-corruption agencies mean that offenders rarely face punishment, and complicated rules create more opportunities for officials to demand payment for ordinary services. When citizens expect to pay bribes, corruption becomes self-reinforcing, and public money is wasted while trust in government falls.\n\nTo address this issue, governments should combine transparency, independent oversight and certain punishment. Open contracts and published budgets expose abuse, independent agencies investigate without fear, fair salaries reduce temptation, and protected whistleblowers make reporting safe. Simplifying procedures and moving services online reduces the face-to-face contact in which bribes are asked for. In addition, courts must be independent, so that powerful people cannot escape punishment, and a free press and education can build a culture that rejects corruption. Reform takes time, but countries that have reduced corruption, by following such steps, have seen public services improve and investment rise.\n\nIn conclusion, corruption in public office stems mainly from unchecked power, low pay and weak punishment, but transparency, independent oversight and fair rules offer a realistic way forward.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận chặt chẽ và từ vựng phong phú về chủ đề tham nhũng. Dù có một số lỗi nhỏ về dấu câu và cấu trúc, bài viết vẫn đạt mức điểm khá cao nhờ trả lời trọn vẹn yêu cầu đề bài.",
+            "weaknesses": [
+              "Đoạn thân bài thứ nhất chứa câu quá dài, lạm dụng dấu phẩy để nối ý.",
+              "Một số ý tưởng giải pháp còn liệt kê nhiều thay vì phân tích sâu hơn.",
+              "Thiếu sự đa dạng trong các từ nối chuyển ý giữa các đoạn."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt cả hai phần của câu hỏi (nguyên nhân và giải pháp). Các ý tưởng được phát triển logic và có ví dụ minh họa rõ ràng, bám sát trọng tâm đề bài.",
+              "coherenceCohesion": "Bố cục bài viết chuẩn mực với 4 đoạn rõ ràng. Các câu được liên kết mượt mà bằng từ nối và đại từ quan hệ, tuy nhiên thân bài thứ nhất hơi lạm dụng cấu trúc câu dài với nhiều mệnh đề nối bằng dấu phẩy.",
+              "lexicalResource": "Sử dụng nhiều từ vựng chủ đề tốt như 'unchecked power', 'discretion', 'self-reinforcing', 'whistleblowers'. Tuy nhiên, một số cụm từ còn lặp lại và thiếu các collocation nâng cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, sử dụng tốt các mệnh đề quan hệ và câu ghép. Vẫn còn vài lỗi nhỏ về dấu câu và sự hòa hợp giữa chủ ngữ và động từ trong các câu dài."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Causes/Solutions: nguyên nhân và giải pháp tham nhũng trong cơ quan công quyền",
+        "plan": [
+          {
+            "step": "1. Khung nguyên nhân + giải pháp",
+            "think": "Mở bài nêu phạm vi (từ hối lộ nhỏ đến trộm cắp tiền công quy mô lớn) và tác hại phát triển; thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+            "refs": [
+              "FR-struct-causes-solutions",
+              "PH-stems-from",
+              "PH-realistic-way-forward"
+            ]
+          },
+          {
+            "step": "2. Nguyên nhân",
+            "think": "Quyền lực không kiểm soát, hình phạt yếu; quan chức lương thấp, toàn quyền quyết định bị cám dỗ hối lộ; bí mật che giấu sai phạm; văn hoá dung thứ việc nhờ vả. Ví dụ quan chức lương rất thấp kiểm soát giấy phép có thể đòi hối lộ. Toà yếu, cơ quan chống tham nhũng ít hỗ trợ; quy tắc phức tạp thêm cơ hội đòi tiền; công dân kỳ vọng trả hối lộ thì tham nhũng tự củng cố.",
+            "refs": [
+              "ID-gov-corruption-causes",
+              "EX-gov-licence-bribe",
+              "PH-cause-contribute",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "3. Giải pháp",
+            "think": "Minh bạch, giám sát độc lập, hình phạt chắc chắn: hợp đồng mở, ngân sách công bố, cơ quan độc lập điều tra không sợ hãi, lương công bằng, bảo vệ người tố giác; đơn giản hoá thủ tục, chuyển dịch vụ lên mạng giảm tiếp xúc trực tiếp; toà độc lập, báo chí tự do, giáo dục tạo văn hoá bác bỏ tham nhũng.",
+            "refs": [
+              "ID-gov-corruption-solutions",
+              "ID-cr-transparency",
+              "ID-cr-report-protect",
+              "PH-tackle-source"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-corruption-causes",
+          "ID-gov-corruption-solutions",
+          "EX-gov-licence-bribe",
+          "PH-corruption-by-officials",
+          "PH-small-bribes-to-large-scale-theft-of-public",
+          "PH-corruption-in-public-office",
+          "PH-unchecked-and-punishment-is-weak",
+          "PH-low-pay-and-wide-discretion",
+          "PH-tempted-by-bribes",
+          "PH-secrecy-hides-wrongdoing",
+          "PH-tolerates-favours",
+          "PH-controls-permits",
+          "PH-approve-an-application",
+          "PH-weak-courts",
+          "PH-anti-corruption-agencies",
+          "PH-rarely-face-punishment",
+          "PH-self-reinforcing",
+          "PH-trust-in-government-falls",
+          "PH-open-contracts-and-published-budgets-expose",
+          "PH-face-to-face-contact",
+          "PH-escape-punishment",
+          "PH-a-culture-that-rejects-corruption"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 342,
+      "qtype": "Extent",
+      "question": "To what extent should governments control online hate speech? Give reasons for your answer.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:48.290Z",
+          "words": 301,
+          "text": "Online platforms allow people to insult others about their race, religion or origin in front of millions, and some argue that governments should control online hate speech. I largely agree, since it causes real harm and companies cannot be left to regulate themselves, although controls must be carefully limited.\n\nTo begin with, online hate speech causes real harm and should be limited by law. Abuse aimed at a person's race, religion or identity can drive victims offline, spread fear and sometimes lead to violence. A woman who receives hundreds of abusive messages about her religion, for example, may stop speaking in public altogether, which damages free expression rather than protecting it. Hatred spread online has been linked to attacks on minorities in several countries, and young people who see such content may come to accept it as normal. Companies that profit from engagement have little reason to remove content that attracts attention, so they cannot be trusted to regulate themselves.\n\nFurthermore, governments are the only bodies able to set clear, consistent rules and to enforce them across platforms. Laws can require companies to remove illegal content quickly, report seriously dangerous threats and publish information on how they moderate. However, controls have risks. Definitions of hate speech can be vague, and governments may use them to silence criticism or minority opinions. Rules must therefore be narrow and clearly defined, restricted to threats, incitement to violence and abuse that targets people for who they are, with oversight by independent courts and a right of appeal. Education about respectful behaviour online is also important, because laws alone cannot change attitudes.\n\nIn conclusion, governments should control online hate speech to a large extent, because it harms people and platforms will not solve the problem themselves, provided that the rules are narrow and protect legitimate debate.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, có tư duy phản biện sắc sảo và đáp ứng đầy đủ yêu cầu của một bài IELTS Writing Task 2 band 7.5-8.0. Lập luận chặt chẽ, từ vựng và ngữ pháp vững chắc.",
+            "weaknesses": [
+              "Một số câu có thể được cô đọng hơn để tăng độ súc tích.",
+              "Phần kết luận lặp lại ý của phần mở bài và thân bài hơi nhiều."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo hướng 'to what extent', nêu rõ quan điểm đồng ý phần lớn nhưng có điều kiện. Các luận điểm được phát triển logic, có ví dụ minh họa cụ thể và cân nhắc đến mặt trái của việc kiểm soát.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với các đoạn văn thân bài được phân chia hợp lý. Các từ nối và phương tiện liên kết được sử dụng tự nhiên, giúp người đọc dễ theo dõi mạch lập luận.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ chuyên Academic như 'drive victims offline', 'incitement to violence', 'independent courts'. Lỗi chính tả không có, việc diễn đạt tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, từ câu đơn đến câu phức, mệnh đề quan hệ và cấu trúc điều kiện. Ngữ pháp chính xác gần như tuyệt đối, không có lỗi lặp cấu trúc hay sai thì."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Extent: chính phủ nên kiểm soát ngôn luận thù ghét trực tuyến đến mức nào — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài nêu thực tế (người ta xúc phạm về chủng tộc, tôn giáo, nguồn gốc trước hàng triệu người) rồi largely agree + lý do + giới hạn (hạn chế phải cẩn thận).",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — gây hại thật",
+            "think": "Lạm dụng nhắm vào chủng tộc, tôn giáo, danh tính có thể đẩy nạn nhân ngoại tuyến, gieo sợ hãi và đôi khi dẫn tới bạo lực. Ví dụ người phụ nữ nhận hàng trăm tin nhắn lăng mạ về tôn giáo ngừng nói trước công chúng — hại cả tự do biểu đạt. Hận thù trên mạng liên hệ với các vụ tấn công người thiểu số; người trẻ coi là bình thường; công ty kiếm lời từ tương tác ít có lý do gỡ.",
+            "refs": [
+              "ID-gov-hate-speech",
+              "EX-gov-hate-posts",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — chỉ chính phủ đặt quy tắc chung + giới hạn",
+            "think": "Luật yêu cầu công ty gỡ nội dung bất hợp pháp nhanh, báo đe doạ nghiêm trọng, công bố cách kiểm duyệt. Giới hạn: định nghĩa mơ hồ, chính phủ có thể dùng để bịt miệng phê phán; quy tắc hẹp, rõ (đe doạ, kích động bạo lực, lăng mạ nhắm vào người vì họ là ai), có toà độc lập giám sát và quyền kháng nghị; giáo dục về cư xử tôn trọng.",
+            "refs": [
+              "ID-gov-hate-speech",
+              "ID-gov-censorship",
+              "ID-env-gov-rules",
+              "CN-nextPoint-furthermore"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Kiểm soát ở mức độ lớn vì hại người và nền tảng không tự giải quyết, với điều kiện quy tắc hẹp, bảo vệ tranh luận chính đáng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-hate-speech",
+          "EX-gov-hate-posts",
+          "PH-insult-others-about-their-race-religion-or-o",
+          "PH-online-hate-speech",
+          "PH-causes-real-harm",
+          "PH-cannot-be-left-to-regulate-themselves",
+          "PH-carefully-limited",
+          "PH-abuse-aimed-at-a-person-s-race-religion-or-i",
+          "PH-drive-victims-offline",
+          "PH-spread-fear",
+          "PH-lead-to-violence",
+          "PH-stop-speaking-in-public-altogether",
+          "PH-damages-free-expression-rather-than-protecti",
+          "PH-attacks-on-minorities",
+          "PH-accept-it-as-normal",
+          "PH-profit-from-engagement",
+          "PH-clear-consistent-rules",
+          "PH-remove-illegal-content-quickly",
+          "PH-definitions-of-hate-speech-can-be-vague",
+          "PH-silence-criticism-or-minority-opinions",
+          "PH-oversight-by-independent-courts-and-a-right",
+          "PH-legitimate-debate"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 347,
+      "qtype": "Discuss both views",
+      "question": "Some people believe that public protests are a vital part of democracy. Others disagree. Discuss both views and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:39.196Z",
+          "words": 278,
+          "text": "Marches, strikes and sit-ins are familiar parts of political life, and opinions differ on whether public protests are a vital part of democracy. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that peaceful protest lets citizens speak between elections. Marches and demonstrations show politicians how strongly people feel, have helped to win rights such as votes for women and civil rights, and give a voice to groups that are ignored by parties and newspapers. A peaceful march of thousands of people through the capital, for example, shows politicians that an issue cannot be ignored. In a democracy, power belongs to the people, and the freedom to gather and express views openly is itself a basic right. Where protest is banned, governments often grow less accountable, which is why authoritarian regimes fear it so much.\n\nOn the other hand, critics point out that protests can cause disruption and sometimes violence. Roads and businesses may be blocked, ordinary people may be harmed, and the small group who take part may not represent the majority. Disruption or violence can also turn public opinion against a cause. In a democracy, there are other channels, such as elections, petitions, courts and elected representatives, through which concerns can be raised and settled by law. Decisions made under the pressure of crowds may not be well considered, and protests can be organised by groups that are well-funded rather than widely supported.\n\nIn conclusion, both views have merit. Personally, I believe that peaceful protest is a vital part of democracy, because it gives citizens a voice, provided that it remains lawful and respects the rights of others.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết hoàn thành tốt yêu cầu của đề bài về cả nội dung lẫn hình thức với văn phong học thuật, lập luận logic và rõ ràng. Dù vậy, việc cải thiện sự tinh tế trong từ vựng và mở rộng các cấu trúc câu phức tạp hơn sẽ giúp nâng cao điểm số.",
+            "weaknesses": [
+              "Một số ví dụ còn chung chung, chưa thực sự sâu sắc.",
+              "Lựa chọn từ vựng ở mức độ an toàn, thiếu các collocation độc đáo."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời đầy đủ yêu cầu của đề bài dạng Discuss both views and give your opinion. Lập trường của người viết rõ ràng và được duy trì xuyên suốt từ mở bài đến kết bài.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với 4 đoạn rõ ràng. Các câu chuyển ý và từ nối được sử dụng tự nhiên, giúp người đọc dễ theo dõi luận điểm.",
+              "lexicalResource": "Từ vựng phong phú, liên quan sát với chủ đề chính trị và xã hội (authoritarian regimes, accountable, public opinion, disruption). Tuy nhiên, có thể thêm một vài cụm từ học thuật nâng cao hơn để đạt band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, sử dụng linh hoạt các mệnh đề quan hệ và câu phức. Ngữ pháp chính xác, hầu như không có lỗi sai cấu trúc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: biểu tình công cộng có phải phần thiết yếu của dân chủ",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Mở bài nêu các hình thức (diễu hành, đình công, ngồi biểu tình) rồi hai phe; ý kiến riêng 'thiết yếu nếu hoà bình và hợp pháp'.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe ủng hộ",
+            "think": "Biểu tình hoà bình cho công dân lên tiếng giữa các kỳ bầu cử; diễu hành cho chính trị gia thấy mức độ cảm xúc, đã giúp giành quyền (phụ nữ bầu cử, dân quyền), cho tiếng nói nhóm bị đảng và báo phớt lờ. Ví dụ cuộc diễu hành hàng nghìn người cho thấy vấn đề không thể bỏ qua. Dân chủ quyền lực thuộc về dân; tự do tụ tập là quyền cơ bản; nơi cấm biểu tình chính phủ kém trách nhiệm giải trình.",
+            "refs": [
+              "ID-gov-protests",
+              "EX-gov-peaceful-march"
+            ]
+          },
+          {
+            "step": "3. Phe phê phán",
+            "think": "Biểu tình có thể gây gián đoạn, đôi khi bạo lực; chặn đường và doanh nghiệp, hại người thường; nhóm nhỏ có thể không đại diện đa số; gián đoạn hay bạo lực làm dư luận quay lưng; dân chủ có kênh khác (bầu cử, kiến nghị, toà án, đại biểu); quyết định dưới áp lực đám đông có thể thiếu cân nhắc; biểu tình có thể do nhóm có tiền tổ chức.",
+            "refs": [
+              "ID-gov-protests",
+              "ID-gov-youth-activism"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Biểu tình hoà bình là phần thiết yếu của dân chủ nếu hợp pháp và tôn trọng quyền người khác.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-protests",
+          "EX-gov-peaceful-march",
+          "PH-marches-strikes-and-sit-ins",
+          "PH-public-protests",
+          "PH-a-vital-part-of-democracy",
+          "PH-peaceful-protest",
+          "PH-speak-between-elections",
+          "PH-show-politicians-how-strongly-people-feel",
+          "PH-votes-for-women-and-civil-rights",
+          "PH-give-a-voice-to-groups-that-are-ignored",
+          "PH-cannot-be-ignored",
+          "PH-power-belongs-to-the-people",
+          "PH-the-freedom-to-gather",
+          "PH-less-accountable",
+          "PH-authoritarian-regimes",
+          "PH-cause-disruption-and-sometimes-violence",
+          "PH-blocked",
+          "PH-turn-public-opinion-against-a-cause",
+          "PH-other-channels",
+          "PH-petitions-courts-and-elected-representatives",
+          "PH-pressure-of-crowds",
+          "PH-lawful-and-respects-the-rights-of-others"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 353,
+      "qtype": "Discuss both views",
+      "question": "Is it better to focus government spending on emergency response or on long-term prevention? Discuss and give your opinion.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:34.242Z",
+          "words": 279,
+          "text": "Floods, earthquakes and storms cause enormous damage every year, and opinions differ on whether governments should focus on emergency response after a disaster or on long-term prevention. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of emergency response argue that rescue and relief save lives at the moment of greatest need. Search teams, field hospitals, food and shelter must be ready within hours, and when a disaster strikes the public expects an immediate and visible response. A family trapped by floodwater, for example, can only be rescued by trained crews with boats and helicopters, however many defences were planned. Emergency response also protects order, since people who are hungry and without shelter may panic. Some disasters, such as earthquakes, cannot be predicted, so response capacity is always necessary.\n\nOn the other hand, supporters of long-term prevention point out that preparing in advance reduces damage and costs far less than repairing it. Flood defences, strict building standards, early warning systems and better land planning mean that fewer people are in danger when a hazard arrives. A town that builds flood walls and drains, for example, may avoid damage that would cost far more to repair after every storm. Climate change is also making disasters more frequent, so investment in resilience becomes increasingly urgent. Money spent on prevention often protects homes, jobs and public services as well as lives, and the benefits continue for decades.\n\nIn conclusion, both views have merit. Overall, I believe that prevention should receive the larger share of long-term spending, because it reduces losses, while a well-funded emergency response must be maintained for the events that cannot be prevented.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết có chất lượng tốt, cấu trúc rõ ràng và lập luận chặt chẽ về việc phân bổ ngân sách chính phủ cho ứng phó khẩn cấp và phòng ngừa thảm họa. Tuy nhiên, việc tinh chỉnh một vài lỗi nhỏ về cách diễn đạt và mở rộng liên kết từ sẽ giúp bài viết đạt điểm cao hơn.",
+            "weaknesses": [
+              "Quan điểm cá nhân ở phần kết luận đưa ra ý 'larger share of long-term spending' hơi mới, chưa được chuẩn bị kỹ ở các đoạn thân bài.",
+              "Một số câu ví dụ dài có thể được ngắt nhịp tốt hơn để tăng độ trôi chảy."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết đã trả lời tốt dạng bài Discuss both views và đưa ra quan điểm cá nhân rõ ràng ở phần mở bài lẫn kết bài. Các luận điểm được phát triển đầy đủ với ví dụ cụ thể, tuy nhiên phần phân chia ngân sách có thể được đào sâu hơn ở phần thân bài.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, rõ ràng với các đoạn văn được phân tách hợp lý. Các từ nối chuyển ý như 'On the one hand', 'On the other hand', 'In conclusion' được sử dụng hiệu quả và tự nhiên.",
+              "lexicalResource": "Vốn từ vựng phong phú, liên quan tốt đến chủ đề thảm họa và ngân sách chính phủ (ví dụ: 'emergency response', 'long-term prevention', 'resilience', 'early warning systems'). Sử dụng từ chính xác và tự nhiên.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức (ví dụ: mệnh đề trạng ngữ chỉ thời gian, mệnh đề quan hệ). Ngữ pháp chính xác, không có lỗi cấu trúc nghiêm trọng ảnh hưởng đến người đọc."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Discuss both views: ứng phó khẩn cấp hay phòng ngừa dài hạn (thiên tai; khác đề 231 là dịch vụ khẩn cấp thường ngày)",
+        "plan": [
+          {
+            "step": "1. Khung hai quan điểm",
+            "think": "Đề 353 tập trung thiên tai (lũ, động đất, bão); mở bài nêu thiệt hại mỗi năm rồi hai phe; tái dùng khung 231 nhưng ví dụ thiên tai.",
+            "refs": [
+              "FR-struct-both",
+              "FR-open-opinions-are-divided-as-to-whether",
+              "CN-firstPoint-on-the-one-hand",
+              "CN-nextPoint-on-the-other-hand"
+            ]
+          },
+          {
+            "step": "2. Phe ứng phó",
+            "think": "Cứu hộ và cứu trợ cứu mạng vào lúc cần nhất; đội tìm kiếm, bệnh viện dã chiến, thức ăn, nơi trú phải sẵn trong vài giờ; công chúng kỳ vọng phản ứng tức thì. Ví dụ gia đình kẹt trong nước lũ chỉ được cứu bởi đội có thuyền, trực thăng. Bảo vệ trật tự; thiên tai như động đất không dự báo được nên luôn cần khả năng ứng phó.",
+            "refs": [
+              "ID-gov-emergency-response",
+              "ID-gov-disaster-prep"
+            ]
+          },
+          {
+            "step": "3. Phe phòng ngừa dài hạn",
+            "think": "Chuẩn bị trước giảm thiệt hại và rẻ hơn sửa chữa: đê chống lũ, tiêu chuẩn xây dựng nghiêm, cảnh báo sớm, quy hoạch đất; biến đổi khí hậu làm thiên tai thường hơn nên đầu tư khả năng chống chịu cấp bách; bảo vệ cả nhà cửa, việc làm, dịch vụ công; lợi ích kéo dài hàng chục năm.",
+            "refs": [
+              "ID-gov-prevention",
+              "EX-gov-flood-defence",
+              "ID-env-adaptation"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Phòng ngừa nên nhận phần lớn hơn của chi tiêu dài hạn nhưng vẫn duy trì ứng phó đủ kinh phí cho sự kiện không phòng được.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-floods-earthquakes-and-storms",
+          "PH-emergency-response-after-a-disaster",
+          "PH-long-term-prevention",
+          "PH-rescue-and-relief",
+          "PH-the-moment-of-greatest-need",
+          "PH-search-teams-field-hospitals-food-and-shelte",
+          "PH-ready-within-hours",
+          "PH-an-immediate-and-visible-response",
+          "PH-trapped-by-floodwater",
+          "PH-boats-and-helicopters",
+          "PH-protects-order",
+          "PH-cannot-be-predicted",
+          "PH-response-capacity",
+          "PH-preparing-in-advance",
+          "PH-flood-defences-strict-building-standards",
+          "PH-better-land-planning",
+          "PH-more-frequent",
+          "PH-investment-in-resilience",
+          "PH-homes-jobs-and-public-services"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 378,
+      "qtype": "Opinion",
+      "question": "Discuss how language policy can affect national unity.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:44.916Z",
+          "words": 291,
+          "text": "Many countries are home to several languages, and governments must decide which to use in schools, courts and official documents. This essay will explain two key ways in which language policy can affect national unity: by helping people to communicate and share opportunities, and by affecting how minority groups feel about their place in the nation.\n\nFirst and foremost, a shared language can unite a country, but forcing it can divide. A common language gives everyone access to education, jobs and public services, and it makes it easier for people from different regions to understand one another and to take part in national debates. In a country where citizens speak several languages and cannot communicate, the lack of a common tongue may create separate communities that know little about each other. A national language taught in all schools, for example, lets a young person from a remote village apply for a job in the capital. Shared language can also be a symbol of belonging.\n\nIn addition, language policy affects how minority groups feel. Suppressing minority languages makes people feel that their identity is threatened, and may produce resentment and even separatist movements. A region whose road signs and schools use both the national and the local language, for example, lets residents feel that their culture is respected. Evidence from countries with several official languages suggests that bilingual policies can maintain unity while keeping diversity. However, they require resources for teachers, translators and materials. Governments should therefore promote a common language while protecting others, so that all citizens feel valued.\n\nTo sum up, language policy can strengthen or weaken national unity depending on whether it respects diversity as well as promoting shared communication. For these reasons, policies should be designed with care.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết có cấu trúc tốt, lập luận rõ ràng và đáp ứng đầy đủ yêu cầu của đề bài về mặt nội dung lẫn hình thức. Để đạt điểm cao hơn, người viết cần nâng cấp sự tinh tế trong từ vựng và đa dạng hóa các cấu trúc ngữ pháp phức tạp.",
+            "weaknesses": [
+              "Một số luận điểm còn có tính khái quát cao, thiếu sự đột phá trong tư duy phản biện.",
+              "Lựa chọn từ vựng đôi khi còn mang tính an toàn, chưa sử dụng nhiều các collocation nâng cao.",
+              "Vẫn còn một số lỗi diễn đạt nhỏ chưa hoàn toàn tự nhiên như người bản xứ."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận được cả hai chiều hướng tác động của chính sách ngôn ngữ đến sự thống nhất quốc gia. Các ý chính được phát triển hợp lý với các ví dụ cụ thể, vượt qua yêu cầu tối thiểu về số từ.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng gồm 4 phần mở bài, hai thân bài và kết bài. Các câu chuyển ý được sử dụng mượt mà, giúp người đọc theo dõi mạch lạc logic.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ liên quan đến chủ đề như 'national unity', 'minority groups', 'separatist movements'. Tuy nhiên, một số cụm từ chưa thực sự đạt độ tinh tế cao cấp (band 8+).",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp linh hoạt giữa câu đơn, câu phức và câu ghép. Ngữ pháp nhìn chung chính xác, chỉ có một vài lỗi nhỏ về cách dùng mạo từ hoặc giới từ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: chính sách ngôn ngữ ảnh hưởng thế nào đến thống nhất quốc gia",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss how'",
+            "think": "Mở bài nêu thực tế nhiều nước có nhiều ngôn ngữ nên chính phủ phải chọn (trường, toà, văn bản); báo hai cách: giúp giao tiếp và chia sẻ cơ hội; ảnh hưởng cảm giác của nhóm thiểu số.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — ngôn ngữ chung",
+            "think": "Ngôn ngữ chung cho mọi người tiếp cận giáo dục, việc làm, dịch vụ công; người từ các vùng hiểu nhau và tham gia tranh luận quốc gia; thiếu ngôn ngữ chung có thể tạo cộng đồng riêng ít biết nhau. Ví dụ ngôn ngữ quốc gia dạy ở mọi trường cho thanh niên làng xa xin việc ở thủ đô. Ngôn ngữ chung là biểu tượng thuộc về.",
+            "refs": [
+              "ID-gov-language-policy",
+              "ID-gov-migration"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — nhóm thiểu số + giới hạn",
+            "think": "Dập tắt ngôn ngữ thiểu số khiến người ta cảm thấy danh tính bị đe doạ, gây bực bội, thậm chí phong trào ly khai. Ví dụ vùng có biển báo và trường dùng cả ngôn ngữ quốc gia và địa phương khiến cư dân thấy văn hoá được tôn trọng. Chính sách song ngữ giữ thống nhất mà vẫn đa dạng; cần nguồn lực cho giáo viên, phiên dịch, tài liệu; chính phủ thúc đẩy ngôn ngữ chung và bảo vệ ngôn ngữ khác.",
+            "refs": [
+              "ID-gov-language-policy",
+              "EX-gov-bilingual-signs",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Chính sách có thể củng cố hoặc làm yếu thống nhất tuỳ vào việc tôn trọng đa dạng; nên thiết kế cẩn thận.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-language-policy",
+          "EX-gov-bilingual-signs",
+          "PH-home-to-several-languages",
+          "PH-language-policy",
+          "PH-national-unity",
+          "PH-schools-courts-and-official-documents",
+          "PH-helping-people-to-communicate-and-share-oppo",
+          "PH-a-shared-language-can-unite-a-country",
+          "PH-forcing-it-can-divide",
+          "PH-access-to-education-jobs-and-public-services",
+          "PH-understand-one-another",
+          "PH-take-part-in-national-debates",
+          "PH-separate-communities-that-know-little-about",
+          "PH-a-remote-village",
+          "PH-a-symbol-of-belonging",
+          "PH-suppressing-minority-languages",
+          "PH-identity-is-threatened",
+          "PH-resentment-and-even-separatist-movements",
+          "PH-road-signs-and-schools-use-both",
+          "PH-respects-diversity",
+          "PH-teachers-translators-and-materials"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 397,
+      "qtype": "Agree / Disagree",
+      "question": "Some believe that compulsory military service benefits society. To what extent do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:44.300Z",
+          "words": 293,
+          "text": "Some countries require young adults to spend a year or more in the armed forces, and some believe that compulsory military service benefits society. I agree only to a limited extent, since it can teach discipline and bring citizens together, although it has serious costs and professional forces are often more effective.\n\nTo begin with, compulsory service can teach discipline and bring citizens from different backgrounds together. Recruits learn teamwork, fitness and practical skills and meet people they would never otherwise meet. A recruit from a farming village sharing a barracks with a student from the capital, for example, learns about a very different way of life, which may reduce prejudice and strengthen national feeling. Service can also give young people who are drifting a sense of direction and training in trades such as mechanics or first aid. In countries facing real military threats, a large trained reserve provides security.\n\nHowever, the costs are significant. Recruits lose time for study and work, and many do not want to be there, which can reduce morale and make forces less effective than smaller professional armies that are well trained and motivated. Compulsion limits personal freedom, and some people object on grounds of conscience. Unequal treatment of men and women, or of rich and poor who find ways to avoid service, can create resentment. If the aim is to build skills and community, other forms of national service, such as volunteering in hospitals or environmental projects, may bring similar benefits without the need to carry weapons. Governments should therefore weigh benefits against costs carefully.\n\nIn conclusion, compulsory military service benefits society only to a limited extent, because the advantages of discipline and social mixing are outweighed in many countries by the costs and by better alternatives.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết có chất lượng tốt, đạt mức điểm cao nhờ lập luận chặt chẽ, từ vựng tự nhiên và ngữ pháp chuẩn xác. Việc giữ vững lập trường 'đồng ý một phần' xuyên suốt giúp bài viết thuyết phục.",
+            "weaknesses": [
+              "Một số câu có xu hướng kéo dài, hơi dày đặc thông tin.",
+              "Phần kết luận có thể nhấn mạnh thêm một chút về giải pháp thay thế."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt dạng đề 'To what extent do you agree or disagree' bằng cách đưa ra quan điểm đồng ý một phần (limited extent). Các luận điểm cho cả hai phía đều được phát triển và minh chứng rõ ràng.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn văn rõ ràng, sử dụng từ nối tự nhiên và hiệu quả. Việc phân chia ý giữa lợi ích và tác hại giúp người đọc theo dõi rất dễ dàng.",
+              "lexicalResource": "Từ vựng phong phú, sử dụng chính xác các cụm từ chuyên ngành và học thuật như 'armed forces', 'compulsory military service', 'prejudice', 'professional armies'. Lỗi chính tả và dùng từ không có.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kết hợp linh hoạt câu đơn và câu phức với độ chính xác cao. Các mệnh đề quan hệ và cấu trúc điều kiện được sử dụng mượt mà."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree (Extent): nghĩa vụ quân sự bắt buộc có lợi cho xã hội — đồng ý hạn chế",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến hạn chế",
+            "think": "Mở bài nêu thực tế (một số nước yêu cầu thanh niên phục vụ quân đội một năm trở lên) rồi 'agree only to a limited extent' + lý do + nhượng bộ.",
+            "refs": [
+              "FR-struct-extent"
+            ]
+          },
+          {
+            "step": "2. Lợi ích",
+            "think": "Dạy kỷ luật, đưa công dân khác nhau lại gần: học làm việc nhóm, thể lực, kỹ năng thực tế, gặp người không bao giờ gặp. Ví dụ tân binh từ làng nông nghiệp cùng doanh trại với sinh viên thủ đô biết cách sống khác, giảm định kiến, củng cố tinh thần quốc gia. Giúp thanh niên lạc hướng có định hướng, đào tạo nghề; nước đối mặt đe doạ thật có lực lượng dự bị lớn.",
+            "refs": [
+              "ID-gov-military-service",
+              "EX-gov-conscript-mix",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Chi phí và phương án thay thế",
+            "think": "Tân binh mất thời gian học và làm; nhiều người không muốn nên giảm tinh thần, kém hiệu quả hơn quân đội chuyên nghiệp nhỏ được huấn luyện và có động lực; hạn chế tự do; phản đối vì lương tâm; đối xử bất bình đẳng nam nữ, giàu nghèo gây bực bội. Phục vụ quốc gia dạng khác (tình nguyện bệnh viện, dự án môi trường) có thể mang lợi ích tương tự mà không cầm vũ khí.",
+            "refs": [
+              "ID-gov-national-service",
+              "ID-gov-military-service",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Có lợi ở mức hạn chế vì lợi thế bị chi phí và phương án tốt hơn vượt qua ở nhiều nước.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-military-service",
+          "EX-gov-conscript-mix",
+          "PH-spend-a-year-or-more-in-the-armed-forces",
+          "PH-compulsory-military-service",
+          "PH-benefits-society",
+          "PH-teach-discipline",
+          "PH-bring-citizens-from-different-backgrounds-to",
+          "PH-teamwork-fitness-and-practical-skills",
+          "PH-meet-people-they-would-never-otherwise-meet",
+          "PH-a-farming-village",
+          "PH-a-very-different-way-of-life",
+          "PH-strengthen-national-feeling",
+          "PH-drifting",
+          "PH-a-sense-of-direction",
+          "PH-real-military-threats",
+          "PH-a-large-trained-reserve",
+          "PH-lose-time-for-study-and-work",
+          "PH-reduce-morale",
+          "PH-smaller-professional-armies",
+          "PH-object-on-grounds-of-conscience",
+          "PH-volunteering-in-hospitals-or-environmental-p"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 416,
+      "qtype": "Agree / Disagree",
+      "question": "Many people think that youth activism is important for social change. Do you agree? Explain with examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:40.542Z",
+          "words": 295,
+          "text": "From climate strikes to campaigns for equality, young people are leading many protest movements, and many people think that youth activism is important for social change. I agree with this view, since young people bring energy, fresh ideas and a long-term stake, although their impact depends on how well they work with others.\n\nTo begin with, young people bring energy, fresh ideas and a long-term stake to social change. They will live with the consequences of today's decisions on climate, housing and jobs, they are skilled at using social media, and they often challenge habits that older generations accept. Students who leave lessons to demand action on climate change, for example, can put the issue on the front page of newspapers and force politicians to respond. Young people are also less tied to existing institutions and interests, so they are more willing to suggest bold solutions. Many past reforms, from student movements against war to campaigns for civil rights, began with the energy of the young.\n\nFurthermore, activism teaches young people civic skills that last a lifetime, such as organising, debating and cooperating, and many activists later become community leaders or politicians. However, activism has limits. Young people may lack experience of how laws are made, and online campaigns can be shallow, with likes and shares that do not lead to action. Movements can fade when attention moves on. Their impact is greatest when they work with experienced organisations, build clear demands and keep their efforts going over time, and when adults listen to them seriously. Schools and governments can help by creating youth councils and consultations.\n\nIn conclusion, I agree that youth activism is important for social change, because young people bring energy and ideas, provided that their efforts are sustained and taken seriously.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7
+            },
+            "summary": "Bài viết có bố cục tốt, lập luận rõ ràng và hoàn thành tốt yêu cầu của đề bài về mặt nội dung lẫn độ dài. Để đạt band cao hơn, học sinh cần khắc phục một vài lỗi ngữ pháp nhỏ như lỗi ngắt câu và kiểm soát mạch ý trong các đoạn thân bài tập trung hơn.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai ôm đồm quá nhiều ý (kỹ năng, giới hạn, giải pháp của trường học) dẫn đến việc triển khai hơi dàn trải.",
+              "Mắc lỗi ngắt câu (comma splice) trong một số câu phức."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi, có lập trường đồng ý rõ ràng và đưa ra các lý lẽ hợp lý kèm ví dụ. Tuy nhiên, phần thảo luận về các giới hạn (limits) ở đoạn thân bài thứ hai làm phân tán một phần sự tập trung vào câu hỏi chính (youth activism is important), dù nó tạo ra góc nhìn đa chiều.",
+              "coherenceCohesion": "Các đoạn văn được tổ chức tốt với các từ nối phù hợp như 'To begin with', 'Furthermore', và 'In conclusion'. Luồng suy nghĩ mạch lạc, tuy nhiên đoạn thân bài thứ hai chứa đựng khá nhiều ý khác nhau (kỹ năng công dân, giới hạn, giải pháp từ nhà trường) làm đoạn hơi dài và dày đặc thông tin.",
+              "lexicalResource": "Từ vựng phong phú và phù hợp với chủ đề xã hội (climate strikes, long-term stake, civil rights, existing institutions). Có một số cụm từ tự nhiên, tuy nhiên có thể nâng cấp thêm một số collocation học thuật hơn để đạt band cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, kết hợp tốt giữa câu đơn và câu phức. Có lỗi chấm câu nhẹ (comma splice) trong câu ghép, và một số chỗ liên kết mệnh đề chưa thực sự hoàn hảo nhưng nhìn chung ngữ pháp vững vàng."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: hoạt động thanh niên quan trọng cho thay đổi xã hội — agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến",
+            "think": "Mở bài nêu ví dụ (biểu tình khí hậu, chiến dịch bình đẳng do người trẻ dẫn dắt) rồi agree + lý do + giới hạn (phụ thuộc cách phối hợp).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-firmly-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — năng lượng, ý tưởng, lợi ích dài hạn",
+            "think": "Người trẻ sống với hậu quả quyết định hôm nay về khí hậu, nhà ở, việc làm; giỏi mạng xã hội; thách thức thói quen người lớn chấp nhận. Ví dụ học sinh bỏ lớp đòi hành động khí hậu đưa vấn đề lên trang nhất. Ít bị ràng buộc với thể chế và lợi ích nên dám đề xuất giải pháp táo bạo; nhiều cải cách quá khứ bắt đầu từ sức trẻ.",
+            "refs": [
+              "ID-gov-youth-activism",
+              "EX-gov-student-strike",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Hoạt động dạy kỹ năng công dân suốt đời (tổ chức, tranh luận, hợp tác); nhiều nhà hoạt động sau thành lãnh đạo cộng đồng, chính trị gia. Giới hạn: thiếu kinh nghiệm về cách luật được làm; chiến dịch trực tuyến hời hợt (like, share); phong trào phai khi chú ý chuyển hướng. Cần phối hợp tổ chức giàu kinh nghiệm, yêu sách rõ, duy trì lâu, người lớn lắng nghe nghiêm túc; hội đồng thanh niên, tham vấn.",
+            "refs": [
+              "ID-gov-youth-activism",
+              "ID-gov-protests",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Agree vì người trẻ mang năng lượng và ý tưởng, với điều kiện nỗ lực bền bỉ và được coi trọng.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-youth-activism",
+          "EX-gov-student-strike",
+          "PH-climate-strikes",
+          "PH-youth-activism",
+          "PH-important-for-social-change",
+          "PH-bring-energy-fresh-ideas-and-a-long-term-sta",
+          "PH-live-with-the-consequences",
+          "PH-climate-housing-and-jobs",
+          "PH-skilled-at-using-social-media",
+          "PH-challenge-habits-that-older-generations-acce",
+          "PH-leave-lessons-to-demand-action",
+          "PH-front-page-of-newspapers",
+          "PH-force-politicians-to-respond",
+          "PH-less-tied-to-existing-institutions",
+          "PH-bold-solutions",
+          "PH-civic-skills-that-last-a-lifetime",
+          "PH-organising-debating-and-cooperating",
+          "PH-community-leaders-or-politicians",
+          "PH-likes-and-shares-that-do-not-lead-to-action",
+          "PH-fade-when-attention-moves-on",
+          "PH-clear-demands",
+          "PH-youth-councils-and-consultations"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 439,
+      "qtype": "Advantages / Disadvantages",
+      "question": "What are the benefits for a country that focuses on disaster preparedness? Use examples.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:34.225Z",
+          "words": 300,
+          "text": "Earthquakes, floods, storms and epidemics can strike any country, and some governments invest heavily in being ready for them. This essay will outline two principal benefits for a country that focuses on disaster preparedness: protection of lives and health, and reduced economic damage and faster recovery.\n\nFirst and foremost, preparing for disasters saves lives and reduces injuries. Early warning systems, evacuation plans, strict building codes and stored supplies mean that fewer people are hurt and communities recover faster. A country in an earthquake zone that enforces strict building codes, for example, loses far fewer lives than one that does not, because houses and schools remain standing. Regular drills teach residents what to do, and clear communication prevents panic. As a result, hospitals are not overwhelmed, and people receive help sooner. Communities that know their risks and have rescue teams trained in advance are better able to protect their most vulnerable members.\n\nIn addition, preparedness reduces economic damage and speeds recovery. Every unit of money spent on preparation can save many times as much on repair, because protected homes, factories and roads suffer less harm and businesses can reopen sooner. Insurance schemes and emergency funds ensure that families are not pushed into poverty. Public confidence also rises when people see that their government is ready, which supports stability and investment. Although preparing requires investment in equipment, training and planning, and some of it may never be used, the cost is small compared with the losses from a major disaster. Coastal countries that built sea walls and warning systems after severe storms, for instance, have been able to protect cities that were once highly vulnerable.\n\nTo sum up, disaster preparedness brings clear benefits to a country, above all lives saved and lower economic losses. For these reasons, it deserves sustained public support.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 8,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 8,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Bài viết đạt chất lượng tốt, cấu trúc chuẩn mực với văn phong học thuật phù hợp cho IELTS Writing Task 2. Lập luận chặt chẽ, từ vựng phong phú và ngữ pháp vững chắc giúp bài viết dễ dàng đạt điểm cao.",
+            "weaknesses": [
+              "Ví dụ đưa ra chủ yếu mang tính chung chung (a country in an earthquake zone, coastal countries) thay vì ví dụ thực tế cụ thể (ví dụ: Nhật Bản).",
+              "Phần kết bài khá ngắn gọn, chưa đọng lại nhiều dư âm."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời rất tốt câu hỏi của đề bài về lợi ích của công tác chuẩn bị phòng chống thảm họa. Các luận điểm được phát triển rõ ràng với ví dụ minh họa cụ thể.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc, các đoạn được phân chia hợp lý theo từng ý chính. Từ nối và các phương tiện liên kết được sử dụng tự nhiên và hiệu quả.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác nhiều từ, cụm từ chuyên ngành về thảm họa (disaster preparedness, early warning systems, evacuation plans, strict building codes). Chính tả hoàn toàn chính xác.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, kiểm soát tốt các câu phức và mệnh đề quan hệ. Độ chính xác cao, không có lỗi ngữ pháp đáng kể nào."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chuẩn bị thiên tai — dùng ví dụ",
+        "plan": [
+          {
+            "step": "1. Khung 'benefits'",
+            "think": "Mở bài nêu các thảm hoạ có thể xảy ra ở bất kỳ nước nào (động đất, lũ, bão, dịch bệnh); báo hai lợi ích: bảo vệ tính mạng và sức khoẻ; giảm thiệt hại kinh tế và phục hồi nhanh.",
+            "refs": [
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Lợi ích 1 — cứu mạng",
+            "think": "Cảnh báo sớm, kế hoạch sơ tán, quy chuẩn xây dựng nghiêm, dự trữ vật tư nên ít người bị thương, cộng đồng phục hồi nhanh. Ví dụ nước ở vùng động đất thực thi quy chuẩn nghiêm mất ít mạng người hơn vì nhà và trường còn đứng. Diễn tập dạy cư dân; truyền thông rõ tránh hoảng loạn; bệnh viện không quá tải.",
+            "refs": [
+              "ID-gov-disaster-prep",
+              "EX-gov-quake-code",
+              "ID-gov-prevention"
+            ]
+          },
+          {
+            "step": "3. Lợi ích 2 — kinh tế + nhượng bộ",
+            "think": "Mỗi đồng chi cho chuẩn bị tiết kiệm nhiều lần cho sửa chữa; nhà, nhà máy, đường được bảo vệ ít thiệt hại, doanh nghiệp mở lại sớm; bảo hiểm và quỹ khẩn cấp tránh đẩy gia đình vào nghèo; niềm tin công chúng; nhượng bộ chi phí và có thứ không bao giờ dùng nhưng nhỏ so với tổn thất; ví dụ nước ven biển xây đê và cảnh báo sau bão lớn.",
+            "refs": [
+              "ID-gov-disaster-prep",
+              "ID-env-econ-longterm",
+              "ID-env-adaptation"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-disaster-prep",
+          "EX-gov-quake-code",
+          "PH-earthquakes-floods-storms-and-epidemics",
+          "PH-disaster-preparedness",
+          "PH-protection-of-lives-and-health",
+          "PH-reduced-economic-damage-and-faster-recovery",
+          "PH-saves-lives-and-reduces-injuries",
+          "PH-early-warning-systems-evacuation-plans",
+          "PH-strict-building-codes",
+          "PH-stored-supplies",
+          "PH-communities-recover-faster",
+          "PH-an-earthquake-zone",
+          "PH-remain-standing",
+          "PH-regular-drills",
+          "PH-prevents-panic",
+          "PH-hospitals-are-not-overwhelmed",
+          "PH-rescue-teams-trained-in-advance",
+          "PH-most-vulnerable-members",
+          "PH-save-many-times-as-much-on-repair",
+          "PH-reopen-sooner",
+          "PH-insurance-schemes-and-emergency-funds",
+          "PH-pushed-into-poverty"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 457,
+      "qtype": "Agree / Disagree",
+      "question": "Some believe that national service improves civic responsibility. To what extent do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:22:48.501Z",
+          "words": 308,
+          "text": "In several countries, young people are required or encouraged to give a year of their time to national service, either in the armed forces or in community roles, and some believe that national service improves civic responsibility. I largely agree, since it can teach young people to serve others, although it works only if the service is meaningful.\n\nTo begin with, national service can strengthen civic responsibility if it is meaningful. Young people who spend a year helping in hospitals, schools or emergency teams see the needs of their community, learn to cooperate and often keep volunteering afterwards. A school leaver who spends a year helping in a care home, for example, may continue to volunteer for years afterwards, and will understand ageing and illness far better than a person who has never been in such a place. Working with people from different backgrounds also reduces prejudice and builds a sense that citizens depend on one another. Experience of duty teaches that rights come with responsibilities.\n\nFurthermore, service gives young people practical skills and confidence that make them more active citizens, such as teamwork, leadership and problem-solving. Those who take part often feel more connected to their country and more willing to vote, volunteer and take part in public life. However, the effect depends on design. Pointless or forced tasks may create resentment instead, and compulsion may make some young people dislike the idea of service. Programmes should offer real choices between military, social and environmental roles, provide training and recognition, and ensure that those with disabilities or caring duties can take part in suitable ways. Evidence of long-term effects on civic behaviour is still limited, so schemes should be evaluated.\n\nIn conclusion, national service improves civic responsibility to a large extent when it is meaningful and offers choice, but poorly designed schemes can have the opposite effect.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7.5,
+              "grammar": 8
+            },
+            "summary": "Đây là một bài viết có chất lượng tốt, lập luận chặt chẽ, từ vựng và ngữ pháp sử dụng vững vàng. Người viết đã đưa ra quan điểm cân bằng khi vừa ủng hộ nghĩa vụ quốc gia vừa nêu rõ điều kiện để nó đạt hiệu quả.",
+            "weaknesses": [
+              "Phần thân bài thứ nhất hơi dài, có thể tách nhỏ ý để bố cục cân đối hơn.",
+              "Một số từ vựng lặp lại ở cả mở bài và kết luận (civic responsibility, meaningful)."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt câu hỏi theo dạng To what extent do you agree or disagree, thể hiện rõ lập trường đồng ý phần lớn (largely agree). Các ý kiến được phát triển đầy đủ, có ví dụ và điều kiện đi kèm hợp lý.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với phần mở bài, thân bài và kết luận rõ ràng. Các câu được liên kết chặt chẽ bằng từ nối và đại từ quan hệ.",
+              "lexicalResource": "Từ vựng được sử dụng tự nhiên, chính xác và phù hợp với chủ đề civic responsibility. Các cụm từ collocation tốt như 'serve others', 'reduce prejudice', 'sense of duty'.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, từ câu đơn đến câu phức đều được kiểm soát tốt. Lỗi ngữ pháp rất ít và không ảnh hưởng đến việc truyền tải ý nghĩa."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree (Extent): nghĩa vụ quốc gia cải thiện trách nhiệm công dân — largely agree (góc khác đề 397: dân sự và trách nhiệm công dân)",
+        "plan": [
+          {
+            "step": "1. Khung Extent",
+            "think": "Mở bài nêu hình thức (quân đội hoặc vai trò cộng đồng) rồi largely agree + lý do + giới hạn (phải có ý nghĩa). Khác đề 397 ở chỗ đề cao dịch vụ cộng đồng và hiệu quả đối với hành vi công dân.",
+            "refs": [
+              "FR-struct-extent",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — thấy nhu cầu cộng đồng",
+            "think": "Người trẻ dành một năm giúp ở bệnh viện, trường học, đội khẩn cấp thấy nhu cầu cộng đồng, học hợp tác và thường tiếp tục tình nguyện. Ví dụ người rời trường làm một năm ở nhà dưỡng lão có thể tiếp tục tình nguyện nhiều năm, hiểu già và bệnh hơn. Làm việc với người khác xuất thân giảm định kiến; học rằng quyền đi kèm trách nhiệm.",
+            "refs": [
+              "ID-gov-national-service",
+              "EX-gov-year-service",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 + giới hạn",
+            "think": "Mang lại kỹ năng và tự tin (làm việc nhóm, lãnh đạo, giải quyết vấn đề); người tham gia gắn bó với đất nước, sẵn sàng bỏ phiếu, tình nguyện. Giới hạn: phụ thuộc thiết kế; nhiệm vụ vô nghĩa hoặc ép buộc gây bực bội; chương trình cần lựa chọn thật giữa quân sự, xã hội, môi trường; đào tạo và ghi nhận; người khuyết tật hoặc bận chăm sóc tham gia theo cách phù hợp; bằng chứng dài hạn còn hạn chế nên cần đánh giá.",
+            "refs": [
+              "ID-gov-national-service",
+              "ID-gov-military-service",
+              "CN-nextPoint-furthermore",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Cải thiện ở mức độ lớn khi có ý nghĩa và có lựa chọn; chương trình thiết kế kém có thể gây tác dụng ngược.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-national-service",
+          "EX-gov-year-service",
+          "PH-national-service",
+          "PH-give-a-year-of-their-time",
+          "PH-civic-responsibility",
+          "PH-serve-others",
+          "PH-only-if-the-service-is-meaningful",
+          "PH-helping-in-hospitals-schools-or-emergency-te",
+          "PH-see-the-needs-of-their-community",
+          "PH-keep-volunteering-afterwards",
+          "PH-a-school-leaver",
+          "PH-a-care-home",
+          "PH-understand-ageing-and-illness",
+          "PH-from-different-backgrounds",
+          "PH-citizens-depend-on-one-another",
+          "PH-rights-come-with-responsibilities",
+          "PH-teamwork-leadership-and-problem-solving",
+          "PH-feel-more-connected-to-their-country",
+          "PH-take-part-in-public-life",
+          "PH-pointless-or-forced-tasks",
+          "PH-real-choices",
+          "PH-evaluated"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 492,
+      "qtype": "Opinion",
+      "question": "Discuss the role of technology in improving free speech.",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:43.590Z",
+          "words": 282,
+          "text": "Mobile phones, social media and translation tools have changed how people speak out, and technology is often described as a friend of free speech. This essay will outline two key ways in which technology improves free speech: by widening access and by protecting those who speak.\n\nFirst and foremost, technology widens access to speech and to audiences. Cheap smartphones, video platforms and blogs give ordinary people a platform that no one controls, so a farmer, a student or a nurse can describe what is happening in their community. Translation tools allow messages to cross language barriers, and live streaming lets witnesses show events as they happen. A student who films an incident and posts it online, for example, may expose abuse that official media would never mention. Because a single post can reach thousands, groups that were once ignored can now organise petitions and campaigns.\n\nIn addition, technology can protect people who speak. Encrypted messaging allows journalists, activists and ordinary citizens to communicate safely under hostile regimes, and tools that hide identity help whistleblowers to share evidence without being traced. Archives and cloud storage keep records safe even if an authority tries to delete them. However, technology also creates new threats. Governments use filtering, facial recognition and spyware to monitor critics, and platforms can silence voices through automated moderation or opaque rules. Online abuse can force people into silence. Technology therefore improves free speech only when it is accompanied by privacy laws, open rules for platforms and independent courts.\n\nTo sum up, technology improves free speech by widening access and offering protection, provided that it is governed by fair laws. For these reasons, the right to use secure technology should be defended.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng tốt với lập luận mạch lạc, từ vựng phù hợp và ngữ pháp vững chắc. Việc phân tích sâu hơn về cả mặt tích cực lẫn tiêu cực của công nghệ đối với tự do ngôn luận sẽ giúp bài viết đạt điểm cao hơn.",
+            "weaknesses": [
+              "Đoạn thân bài thứ hai hơi dài và ôm đồm khi vừa nói về bảo vệ người nói, vừa nói về mối đe dọa từ chính phủ.",
+              "Thiếu sự phát triển sâu hơn về mặt trái của công nghệ trong phần mở bài.",
+              "Một số diễn đạt còn mang tính văn nói nhẹ nhàng."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời tốt yêu cầu đề bài, thảo luận rõ ràng vai trò của công nghệ trong việc cải thiện tự do ngôn luận. Tuy nhiên, việc đưa phần phản biện (rủi ro của công nghệ) vào cuối thân bài thứ hai thay vì phát triển thành một hướng đi cân bằng hơn làm phần thân bài hơi mất cân đối.",
+              "coherenceCohesion": "Bố cục bài viết rõ ràng với phần mở bài, thân bài và kết bài chuẩn mực. Các đoạn văn được liên kết tốt bằng các từ nối như 'First and foremost', 'In addition', và 'To sum up'.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng chính xác các cụm từ chủ đề như 'widened access', 'encrypted messaging', 'hostile regimes', và 'automated moderation'. Tuy nhiên, có thể dùng thêm một số từ vựng học thuật cấp cao hơn.",
+              "grammar": "Cấu trúc câu đa dạng, sử dụng linh hoạt các mệnh đề quan hệ, câu điều kiện và câu phức. Ngữ pháp chính xác với rất ít lỗi nhỏ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Opinion/discuss: vai trò của công nghệ trong cải thiện tự do ngôn luận (góc khác đề 63: tiếp cận rộng và bảo vệ người nói; internet vs công nghệ nói chung)",
+        "plan": [
+          {
+            "step": "1. Khung 'discuss role'",
+            "think": "Mở bài nêu công cụ cụ thể (điện thoại, mạng xã hội, công cụ dịch) và quan niệm 'công nghệ là bạn của tự do ngôn luận'; báo hai cách: mở rộng tiếp cận; bảo vệ người lên tiếng.",
+            "refs": [
+              "FR-struct-discuss-role",
+              "FR-this-essay-will",
+              "CN-firstPoint-first-and-foremost",
+              "CN-nextPoint-in-addition"
+            ]
+          },
+          {
+            "step": "2. Cách 1 — mở rộng tiếp cận",
+            "think": "Điện thoại rẻ, nền tảng video, blog cho người thường tiếng nói; nông dân, sinh viên, y tá mô tả cộng đồng; công cụ dịch vượt rào ngôn ngữ; phát trực tiếp cho nhân chứng. Ví dụ sinh viên quay sự việc đăng mạng phơi bày lạm dụng mà báo chính thức không nhắc.",
+            "refs": [
+              "ID-gov-internet-speech",
+              "EX-gov-blogger-exposes",
+              "ID-health-telemedicine"
+            ]
+          },
+          {
+            "step": "3. Cách 2 — bảo vệ người lên tiếng + giới hạn",
+            "think": "Nhắn tin mã hoá cho nhà báo, nhà hoạt động giao tiếp an toàn dưới chế độ thù địch; công cụ ẩn danh cho người tố giác; lưu trữ đám mây giữ bằng chứng. Giới hạn: chính phủ dùng bộ lọc, nhận diện khuôn mặt, phần mềm gián điệp; nền tảng im lặng bằng kiểm duyệt tự động; quấy rối trực tuyến; cần luật quyền riêng tư, quy tắc mở, toà độc lập.",
+            "refs": [
+              "ID-gov-censorship",
+              "ID-cr-identity-theft",
+              "ID-gov-hate-speech",
+              "CN-concession-nevertheless"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Cải thiện tự do ngôn luận khi được điều chỉnh bởi luật công bằng; nên bảo vệ quyền dùng công nghệ an toàn.",
+            "refs": [
+              "CN-concluding-to-sum-up"
+            ]
+          }
+        ],
+        "newEntries": [
+          "PH-mobile-phones-social-media-and-translation-t",
+          "PH-speak-out",
+          "PH-a-friend-of-free-speech",
+          "PH-widening-access",
+          "PH-protecting-those-who-speak",
+          "PH-cheap-smartphones-video-platforms-and-blogs",
+          "PH-describe-what-is-happening-in-their-communit",
+          "PH-cross-language-barriers",
+          "PH-live-streaming",
+          "PH-witnesses-show-events-as-they-happen",
+          "PH-expose-abuse",
+          "PH-official-media",
+          "PH-organise-petitions-and-campaigns",
+          "PH-encrypted-messaging",
+          "PH-under-hostile-regimes",
+          "PH-share-evidence-without-being-traced",
+          "PH-filtering-facial-recognition-and-spyware",
+          "PH-automated-moderation-or-opaque-rules",
+          "PH-force-people-into-silence",
+          "PH-privacy-laws"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    },
+    {
+      "questionId": 495,
+      "qtype": "Agree / Disagree",
+      "question": "Some people say that censorship is a waste of time and money. Do you agree or disagree?",
+      "versions": [
+        {
+          "n": 1,
+          "at": "2026-10-04T02:19:43.875Z",
+          "words": 285,
+          "text": "Some governments block websites, ban books and control newspapers, and some people say that censorship is a waste of time and money. I largely agree, since broad censorship rarely achieves its aim, although a narrow set of controls can be justified.\n\nTo begin with, broad censorship wastes money and rarely achieves its aim. Determined people find ways around blocks, officials must spend large sums on monitoring, and hiding information damages public trust. A blocked website, for example, is often accessible again within hours through a different address or a virtual private network. Banning a book or film often increases curiosity, so that it is read or watched more widely than it would otherwise have been. Large teams of staff and technology are needed to scan content, and mistakes are common, so legitimate information is blocked together with harmful material. The cost could be used for schools or hospitals.\n\nFurthermore, censorship has serious side effects. It stops citizens from learning facts about their own government, hides problems that need to be solved and teaches people to distrust official information. Societies that allow open debate tend to find mistakes earlier and correct them. However, a narrow set of content, such as child abuse, direct incitement to violence and terrorist recruitment, justifies control, because the harm is severe and immediate. Even in these cases, rules should be clear, decisions should be made by courts or independent bodies, and the public should be able to challenge them. Education and media literacy are often more effective than bans in protecting people from harmful or false information.\n\nIn conclusion, general censorship is largely a waste of time and money, but carefully targeted restrictions on the most harmful material can be justified.",
+          "note": "",
+          "grade": {
+            "engine": "gemini",
+            "overall": 7.5,
+            "bands": {
+              "taskResponse": 7.5,
+              "coherenceCohesion": 7.5,
+              "lexicalResource": 7,
+              "grammar": 7.5
+            },
+            "summary": "Bài viết đạt chất lượng tốt, cấu trúc chặt chẽ và lập luận thuyết phục về chủ đề kiểm duyệt thông tin. Người viết cần tinh chỉnh thêm về từ vựng và sự liên kết câu để vươn lên mức điểm cao hơn.",
+            "weaknesses": [
+              "Một số câu trong phần thân bài có quá nhiều ý liệt kê liên tiếp.",
+              "Thiếu một vài từ nối mang tính học thuật cao hơn ở cấp độ Band 8."
+            ],
+            "feedback": {
+              "taskResponse": "Bài viết trả lời đúng trọng tâm đề bài, đưa ra lập trường 'largely agree' rất rõ ràng và phát triển các luận điểm thuyết phục. Phân tích được cả mặt vô ích của kiểm duyệt rộng rãi lẫn ngoại lệ cho các nội dung độc hại.",
+              "coherenceCohesion": "Bố cục bài viết mạch lạc với các đoạn rõ ràng, sử dụng các từ nối hợp lý như 'To begin with', 'Furthermore', và 'In conclusion'. Sự phát triển ý trong từng đoạn logic và dễ theo dõi.",
+              "lexicalResource": "Vốn từ vựng phong phú, sử dụng tốt các cụm từ chuyên môn như 'broad censorship', 'virtual private network', 'incitement to violence'. Tuy nhiên, một số cụm từ chưa đạt độ tinh tế cao nhất của band 8+.",
+              "grammar": "Cấu trúc ngữ pháp đa dạng, câu phức và câu ghép được sử dụng chính xác. Kiểm soát tốt các thì và sự hòa hợp giữa chủ ngữ và động từ."
+            }
+          }
+        }
+      ],
+      "analysis": {
+        "type_vi": "Agree/Disagree: kiểm duyệt là lãng phí thời gian và tiền bạc — largely agree",
+        "plan": [
+          {
+            "step": "1. Khung ý kiến + giới hạn",
+            "think": "Mở bài nêu hành vi (chặn trang web, cấm sách, kiểm soát báo) rồi largely agree + nhượng bộ (một số hạn chế hẹp có thể biện minh).",
+            "refs": [
+              "FR-struct-opinion",
+              "FR-stance-i-largely-agree-with-this-view"
+            ]
+          },
+          {
+            "step": "2. Lý do 1 — lãng phí tiền và hiếm đạt mục đích",
+            "think": "Người quyết tâm tìm cách lách; quan chức chi nhiều cho giám sát; che giấu thông tin hại lòng tin. Ví dụ trang bị chặn thường truy cập lại sau vài giờ bằng địa chỉ khác hoặc VPN. Cấm sách tăng tò mò; cần nhiều nhân viên và công nghệ quét; sai sót chặn cả thông tin hợp pháp; tiền có thể dùng cho trường học, bệnh viện.",
+            "refs": [
+              "ID-gov-censorship",
+              "EX-gov-blocked-site",
+              "CN-firstPoint-to-begin-with"
+            ]
+          },
+          {
+            "step": "3. Lý do 2 — tác dụng phụ + nhượng bộ",
+            "think": "Chặn công dân biết sự thật về chính phủ, che giấu vấn đề cần giải quyết, dạy người ta không tin thông tin chính thức; xã hội tranh luận mở phát hiện sai sớm hơn. Nhượng bộ: nội dung rất hẹp (lạm dụng trẻ em, kích động bạo lực trực tiếp, tuyển mộ khủng bố) biện minh được vì hại nghiêm trọng và tức thì; quy tắc rõ, toà hoặc cơ quan độc lập quyết định, có thể kháng nghị; giáo dục và kỹ năng truyền thông hiệu quả hơn lệnh cấm.",
+            "refs": [
+              "ID-gov-censorship",
+              "ID-gov-hate-speech",
+              "CN-nextPoint-furthermore",
+              "CN-concession-admittedly"
+            ]
+          },
+          {
+            "step": "4. Kết luận",
+            "think": "Kiểm duyệt rộng phần lớn là lãng phí nhưng hạn chế có mục tiêu với nội dung hại nhất có thể biện minh.",
+            "refs": [
+              "CN-concluding-in-conclusion"
+            ]
+          }
+        ],
+        "newEntries": [
+          "ID-gov-censorship",
+          "EX-gov-blocked-site",
+          "PH-block-websites-ban-books-and-control-newspap",
+          "PH-broad-censorship",
+          "PH-rarely-achieves-its-aim",
+          "PH-find-ways-around-blocks",
+          "PH-spend-large-sums-on-monitoring",
+          "PH-damages-public-trust",
+          "PH-a-virtual-private-network",
+          "PH-increases-curiosity",
+          "PH-scan-content",
+          "PH-legitimate-information-is-blocked",
+          "PH-learning-facts-about-their-own-government",
+          "PH-hides-problems-that-need-to-be-solved",
+          "PH-distrust-official-information",
+          "PH-child-abuse-direct-incitement-to-violence",
+          "PH-severe-and-immediate",
+          "PH-decisions-should-be-made-by-courts-or-indepe",
+          "PH-media-literacy",
+          "PH-carefully-targeted-restrictions"
+        ]
+      },
+      "final": 1,
+      "passed": true
+    }
+  ]
+}

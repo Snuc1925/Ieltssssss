@@ -1,0 +1,129 @@
+{
+  "questionId": 262,
+  "text": "In many democracies, a large share of eligible citizens never vote, and some of them are kept away by practical obstacles such as long queues, strict deadlines and inconvenient hours. This essay will suggest practical measures that governments could take, focusing on making it easier to cast a vote and on making information and registration simpler.\n\nTo begin with, governments should remove the practical obstacles that stop people from voting. More polling stations, early and postal voting, weekend or holiday elections, transport for older and disabled voters and automatic registration make it easier to take part. A nurse who works night shifts, for example, can vote during a week of early voting instead of missing the single election day. Longer opening hours and mobile polling stations in rural areas help people who live far from a town. Voting by post or secure online systems can suit people who are away from home, such as students and workers abroad, provided that safeguards against fraud are in place.\n\nIn addition, authorities should make registration and information simple. Automatic or same-day registration removes a barrier that stops many young people and those who move home often, and reminders by text message can encourage participation. Clear guides in several languages and plain language help new citizens and people with limited education to understand how to vote. Equally important, polling places should be accessible to wheelchair users, with assistance available for those who are blind or have difficulty reading. Measures like these cost little compared with the democratic benefits, and they help ensure that governments represent the whole population.\n\nIn conclusion, widening opportunities to vote and simplifying registration and information offer the most realistic way of making voting more accessible.",
+  "analysis": {
+    "type_vi": "Solutions only: chính phủ làm bỏ phiếu dễ tiếp cận hơn",
+    "plan": [
+      {
+        "step": "1. Khung giải pháp",
+        "think": "Mở bài nêu vấn đề (nhiều dân chủ có tỷ lệ cử tri không đi bầu cao, một số vì rào cản thực tế: xếp hàng dài, hạn nghiêm, giờ bất tiện); hai nhóm: gỡ rào cản bỏ phiếu thực tế; đơn giản hoá đăng ký và thông tin.",
+        "refs": [
+          "FR-struct-solutions",
+          "FR-this-essay-will",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nhóm 1 — gỡ rào cản thực tế",
+        "think": "Thêm điểm bỏ phiếu, bỏ phiếu sớm và qua bưu điện, bầu cử cuối tuần hoặc ngày nghỉ, hỗ trợ đi lại, đăng ký tự động. Ví dụ y tá trực đêm bỏ phiếu trong tuần bỏ phiếu sớm. Giờ mở cửa dài hơn, điểm bỏ phiếu lưu động ở nông thôn; bỏ phiếu bưu điện hoặc trực tuyến an toàn cho người xa nhà, với biện pháp chống gian lận.",
+        "refs": [
+          "ID-gov-voting-access",
+          "EX-gov-early-voting",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Nhóm 2 — đăng ký và thông tin",
+        "think": "Đăng ký tự động hoặc cùng ngày gỡ rào cản cho người trẻ và người hay chuyển nhà; nhắc qua tin nhắn; hướng dẫn nhiều thứ tiếng và ngôn ngữ đơn giản; điểm bỏ phiếu cho người ngồi xe lăn, hỗ trợ người mù, khó đọc; chi phí thấp so với lợi ích dân chủ.",
+        "refs": [
+          "ID-gov-voting-access",
+          "ID-gov-turnout-causes",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai nhóm.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-voting-access",
+      "EX-gov-early-voting"
+    ]
+  },
+  "chunks": [
+    [
+      "a large share of eligible citizens never vote",
+      "phần lớn công dân đủ điều kiện chưa bao giờ bỏ phiếu"
+    ],
+    [
+      "practical obstacles",
+      "rào cản thực tế"
+    ],
+    [
+      "long queues, strict deadlines and inconvenient hours",
+      "hàng chờ dài, hạn chót nghiêm ngặt và giờ bất tiện"
+    ],
+    [
+      "more accessible",
+      "dễ tiếp cận hơn"
+    ],
+    [
+      "cast a vote",
+      "bỏ một lá phiếu"
+    ],
+    [
+      "remove the practical obstacles",
+      "gỡ bỏ rào cản thực tế"
+    ],
+    [
+      "More polling stations",
+      "thêm điểm bỏ phiếu"
+    ],
+    [
+      "early and postal voting",
+      "bỏ phiếu sớm và qua bưu điện"
+    ],
+    [
+      "weekend or holiday elections",
+      "bầu cử cuối tuần hoặc ngày lễ"
+    ],
+    [
+      "transport for older and disabled voters",
+      "phương tiện đi lại cho cử tri lớn tuổi và khuyết tật"
+    ],
+    [
+      "automatic registration",
+      "đăng ký tự động"
+    ],
+    [
+      "works night shifts",
+      "làm ca đêm"
+    ],
+    [
+      "mobile polling stations",
+      "điểm bỏ phiếu lưu động"
+    ],
+    [
+      "safeguards against fraud",
+      "biện pháp phòng chống gian lận"
+    ],
+    [
+      "same-day registration",
+      "đăng ký cùng ngày"
+    ],
+    [
+      "move home often",
+      "hay chuyển nhà"
+    ],
+    [
+      "reminders by text message",
+      "nhắc nhở bằng tin nhắn"
+    ],
+    [
+      "plain language",
+      "ngôn ngữ đơn giản"
+    ],
+    [
+      "accessible to wheelchair users",
+      "dễ tiếp cận cho người dùng xe lăn"
+    ],
+    [
+      "represent the whole population",
+      "đại diện cho toàn bộ dân cư"
+    ]
+  ]
+}

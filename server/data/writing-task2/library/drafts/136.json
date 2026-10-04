@@ -1,0 +1,130 @@
+{
+  "questionId": 136,
+  "text": "In recent elections, campaigns have been fought as much on phones and laptops as on doorsteps, and technology has changed how people decide whom to vote for. This essay will explain two key ways in which technology influences voting behaviour: by changing how voters get information and by changing how campaigns reach them.\n\nFirst and foremost, technology shapes how voters learn about candidates. Social media spreads both information and false stories, and online tools make registration and research easier. A student who looks up the policies of every party in a few minutes, for example, is better informed than a voter of fifty years ago who relied on a single newspaper. Websites compare manifestos, fact-checkers examine claims, and live streaming lets voters watch debates wherever they are. However, the same tools can mislead, since search results and feeds may show people only what confirms their opinions, and deliberately false stories can influence undecided voters.\n\nIn addition, technology changes how campaigns reach voters. Parties use data to target messages at individuals, based on age, job and interests, so that a voter who receives advertisements aimed at his age, job and neighbourhood, for example, sees a very different campaign from his neighbour. Targeted messages can motivate groups who are normally ignored, but they can also be misleading, since the public cannot easily see or challenge what others are being told. Automated accounts can create the impression of widespread support. Voters therefore need skills to judge sources, and regulators should require campaigns to be transparent about who is paying for advertisements and how data are used.\n\nTo sum up, technology influences voting behaviour by changing how people learn about politics and how campaigns persuade them. For these reasons, it deserves both encouragement and careful regulation.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: công nghệ ảnh hưởng hành vi bỏ phiếu như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu bối cảnh (chiến dịch tranh cử đấu trên điện thoại, laptop nhiều như trước cửa nhà dân); báo hai cách: thay đổi cách cử tri lấy thông tin; thay đổi cách chiến dịch tiếp cận cử tri.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — thông tin",
+        "think": "Mạng xã hội lan thông tin lẫn tin giả; công cụ trực tuyến giúp đăng ký, nghiên cứu dễ hơn. Ví dụ sinh viên tra chính sách mọi đảng trong vài phút hiểu biết hơn cử tri năm mươi năm trước chỉ dựa một tờ báo. Trang so sánh cương lĩnh, kiểm chứng sự thật, phát trực tiếp tranh luận. Giới hạn: kết quả tìm kiếm và bảng tin chỉ cho thấy điều xác nhận quan điểm, tin giả ảnh hưởng người chưa quyết.",
+        "refs": [
+          "ID-gov-tech-voting",
+          "ID-gov-social-awareness",
+          "EX-gov-targeted-ad"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — chiến dịch + giới hạn",
+        "think": "Đảng dùng dữ liệu nhắm thông điệp theo tuổi, nghề, sở thích: cử tri nhận quảng cáo nhắm tuổi, nghề, khu phố thấy chiến dịch khác hàng xóm. Thông điệp nhắm đích có thể thúc đẩy nhóm bị bỏ qua nhưng cũng gây hiểu lầm vì công chúng khó thấy, phản biện; tài khoản tự động tạo ấn tượng ủng hộ rộng. Cần kỹ năng đánh giá nguồn, quy định minh bạch về người trả tiền quảng cáo và dùng dữ liệu.",
+        "refs": [
+          "ID-gov-tech-voting",
+          "ID-gov-media-elections",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Công nghệ thay đổi cách người ta biết về chính trị và cách chiến dịch thuyết phục; cần khuyến khích và điều tiết cẩn thận.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-tech-voting",
+      "EX-gov-targeted-ad"
+    ]
+  },
+  "chunks": [
+    [
+      "fought as much on phones and laptops as on doorsteps",
+      "đấu trên điện thoại và laptop nhiều như trước cửa nhà dân"
+    ],
+    [
+      "influences voting behaviour",
+      "ảnh hưởng hành vi bỏ phiếu"
+    ],
+    [
+      "how voters get information",
+      "cách cử tri lấy thông tin"
+    ],
+    [
+      "how campaigns reach them",
+      "cách chiến dịch tiếp cận họ"
+    ],
+    [
+      "learn about candidates",
+      "tìm hiểu về ứng cử viên"
+    ],
+    [
+      "spreads both information and false stories",
+      "lan truyền cả thông tin lẫn tin giả"
+    ],
+    [
+      "registration and research easier",
+      "đăng ký và tìm hiểu dễ hơn"
+    ],
+    [
+      "the policies of every party",
+      "chính sách của mọi đảng"
+    ],
+    [
+      "relied on a single newspaper",
+      "chỉ dựa vào một tờ báo"
+    ],
+    [
+      "compare manifestos",
+      "so sánh cương lĩnh"
+    ],
+    [
+      "fact-checkers examine claims",
+      "người kiểm chứng sự thật xem xét các tuyên bố"
+    ],
+    [
+      "watch debates",
+      "xem các cuộc tranh luận"
+    ],
+    [
+      "show people only what confirms their opinions",
+      "chỉ cho người ta thấy điều xác nhận ý kiến của họ"
+    ],
+    [
+      "undecided voters",
+      "cử tri chưa quyết định"
+    ],
+    [
+      "target messages at individuals",
+      "nhắm thông điệp tới từng cá nhân"
+    ],
+    [
+      "age, job and interests",
+      "tuổi, nghề nghiệp và sở thích"
+    ],
+    [
+      "groups who are normally ignored",
+      "những nhóm thường bị bỏ qua"
+    ],
+    [
+      "Automated accounts",
+      "tài khoản tự động"
+    ],
+    [
+      "the impression of widespread support",
+      "ấn tượng về sự ủng hộ rộng rãi"
+    ],
+    [
+      "transparent about who is paying",
+      "minh bạch về ai đang trả tiền"
+    ]
+  ]
+}

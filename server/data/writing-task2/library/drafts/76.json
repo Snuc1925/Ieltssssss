@@ -1,0 +1,129 @@
+{
+  "questionId": 76,
+  "text": "Most voters never meet a candidate and learn about them through newspapers, television and the internet, so media coverage has great power in elections. This essay will explain two key ways in which media coverage affects public opinion during elections: by deciding which issues voters think about, and by shaping how they see candidates.\n\nFirst and foremost, media coverage decides which issues voters think about and how they see candidates. By choosing what to report, how to frame it and whom to interview, newspapers and broadcasters shape priorities. If the media spend weeks on immigration and little on health care, voters may come to feel that immigration is the main issue, whatever their own concerns. A headline that announces which candidate is ahead, for example, can encourage some voters to follow the winner and others to stay at home. Coverage also affects how voters judge a candidate's personality, since a single mistake that is replayed endlessly can damage a reputation more than years of careful policy work.\n\nIn addition, the way in which elections are reported often favours drama over detail. Coverage that treats the campaign as a horse race, focusing on opinion polls and personal conflicts, can crowd out discussion of policy, and partisan outlets may present only one side. However, a diverse media offers corrections. Independent fact-checking, public broadcasters with a duty of balance, and a free press that investigates candidates from all parties help voters to form their own views. Citizens should also compare several sources and be aware that every outlet has its own perspective.\n\nTo sum up, media coverage strongly affects public opinion during elections by shaping priorities and images, so diversity and honesty in the media are essential to democracy.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: truyền thông ảnh hưởng dư luận trong bầu cử như thế nào",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu hiện thực (hầu hết cử tri không gặp ứng viên, biết qua báo, truyền hình, internet) nên truyền thông có sức mạnh; báo hai cách: quyết định vấn đề được nghĩ tới; định hình hình ảnh ứng viên.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — chương trình nghị sự và hình ảnh",
+        "think": "Chọn đưa tin gì, đóng khung thế nào, phỏng vấn ai định hình ưu tiên; nếu nhiều tuần nói về nhập cư, ít về y tế thì cử tri thấy nhập cư là vấn đề chính. Ví dụ tiêu đề cho biết ứng viên dẫn đầu khiến người theo người thắng, người ở nhà. Một sai lầm được phát lại vô tận làm hại danh tiếng hơn nhiều năm chính sách tốt.",
+        "refs": [
+          "ID-gov-media-elections",
+          "EX-gov-poll-headline"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — kịch tính hơn chi tiết + đa dạng sửa chữa",
+        "think": "Coi chiến dịch như cuộc đua ngựa, tập trung thăm dò và xung đột cá nhân lấn át chính sách; kênh thiên vị chỉ trình bày một phía. Tuy nhiên truyền thông đa dạng sửa chữa: kiểm chứng độc lập, đài công có nghĩa vụ cân bằng, báo chí tự do điều tra mọi đảng; công dân so sánh nhiều nguồn.",
+        "refs": [
+          "ID-gov-media-elections",
+          "ID-gov-social-awareness",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Truyền thông ảnh hưởng mạnh dư luận; cần đa dạng và trung thực.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-media-elections",
+      "EX-gov-poll-headline"
+    ]
+  },
+  "chunks": [
+    [
+      "learn about them through newspapers, television and the internet",
+      "biết về họ qua báo, truyền hình và internet"
+    ],
+    [
+      "media coverage affects public opinion",
+      "đưa tin của truyền thông ảnh hưởng dư luận"
+    ],
+    [
+      "decides which issues voters think about",
+      "quyết định vấn đề cử tri nghĩ tới"
+    ],
+    [
+      "shaping how they see candidates",
+      "định hình cách họ nhìn ứng viên"
+    ],
+    [
+      "what to report, how to frame it and whom to interview",
+      "đưa tin gì, đóng khung thế nào và phỏng vấn ai"
+    ],
+    [
+      "shape priorities",
+      "định hình ưu tiên"
+    ],
+    [
+      "the main issue",
+      "vấn đề chính"
+    ],
+    [
+      "announces which candidate is ahead",
+      "thông báo ứng viên nào đang dẫn đầu"
+    ],
+    [
+      "follow the winner",
+      "chạy theo người thắng"
+    ],
+    [
+      "stay at home",
+      "ở nhà"
+    ],
+    [
+      "a single mistake that is replayed endlessly",
+      "một sai lầm được phát lại không ngừng"
+    ],
+    [
+      "damage a reputation",
+      "làm hại danh tiếng"
+    ],
+    [
+      "favours drama over detail",
+      "thiên về kịch tính hơn chi tiết"
+    ],
+    [
+      "a horse race",
+      "cuộc đua ngựa"
+    ],
+    [
+      "opinion polls and personal conflicts",
+      "thăm dò dư luận và xung đột cá nhân"
+    ],
+    [
+      "crowd out discussion of policy",
+      "lấn át thảo luận chính sách"
+    ],
+    [
+      "partisan outlets",
+      "các kênh thiên vị đảng phái"
+    ],
+    [
+      "Independent fact-checking",
+      "kiểm chứng độc lập"
+    ],
+    [
+      "a duty of balance",
+      "nghĩa vụ cân bằng"
+    ],
+    [
+      "investigates candidates from all parties",
+      "điều tra ứng viên của mọi đảng"
+    ]
+  ]
+}

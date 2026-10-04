@@ -1,0 +1,129 @@
+{
+  "questionId": 67,
+  "text": "Millions of people move to other countries every year to work, study or escape danger, and many people say that migration benefits the host country. I agree with this view, since migrants fill gaps in the workforce and contribute to the economy and culture, although the benefits depend on good planning.\n\nTo begin with, migrants fill gaps in the workforce and contribute to the economy. They work in hospitals, farms, construction and technology where employers cannot find enough staff, pay taxes, start businesses and help ageing countries to keep their workforce. A hospital that depends on nurses from abroad, for example, would struggle to keep its wards open without them. Studies in several countries have shown that immigrants often take jobs that local people are unwilling or unable to do, and they spend money, which creates demand for goods and services. Skilled migrants also bring knowledge and links with other countries that help trade and innovation.\n\nFurthermore, migration enriches society. New foods, languages and ideas increase diversity and creativity, and contact between cultures can reduce prejudice. However, migration brings challenges that need planning. Housing, schools and health services may come under pressure in areas where many newcomers settle, wages for some low-paid local workers may be affected, and integration is difficult if newcomers do not speak the language or face discrimination. These problems are manageable if governments invest in services, offer language classes, recognise foreign qualifications and enforce laws against discrimination. Well-managed migration benefits both newcomers and residents, while neglect can cause resentment.\n\nIn conclusion, I agree that migration benefits the host country, because it fills workforce gaps and enriches society, provided that it is managed with proper support for integration.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: di cư có lợi cho nước nhận — agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu quy mô (hàng triệu người chuyển nước mỗi năm để làm việc, học tập, tránh nguy hiểm) rồi agree + lý do + điều kiện (lập kế hoạch tốt).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-firmly-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lực lượng lao động và kinh tế",
+        "think": "Người nhập cư lấp chỗ thiếu: bệnh viện, nông trại, xây dựng, công nghệ; nộp thuế, lập doanh nghiệp, giúp nước già giữ lực lượng lao động. Ví dụ bệnh viện phụ thuộc y tá nước ngoài khó mở khoa. Làm việc người địa phương không muốn hoặc không làm được; chi tiêu tạo cầu; người có kỹ năng mang tri thức và liên kết với nước khác.",
+        "refs": [
+          "ID-gov-migration",
+          "EX-gov-nurse-migrant",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — làm giàu xã hội + thách thức",
+        "think": "Món ăn, ngôn ngữ, ý tưởng mới tăng đa dạng, sáng tạo, giảm định kiến. Thách thức: nhà ở, trường học, y tế chịu áp lực ở nơi nhiều người mới định cư; lương một số lao động địa phương thấp bị ảnh hưởng; hoà nhập khó nếu không nói được ngôn ngữ hoặc bị phân biệt. Giải pháp: đầu tư dịch vụ, lớp ngôn ngữ, công nhận bằng cấp nước ngoài, luật chống phân biệt.",
+        "refs": [
+          "ID-gov-migration",
+          "ID-gov-language-policy",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Di cư có lợi nếu được quản lý với hỗ trợ hoà nhập.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-migration",
+      "EX-gov-nurse-migrant"
+    ]
+  },
+  "chunks": [
+    [
+      "move to other countries every year",
+      "chuyển sang nước khác mỗi năm"
+    ],
+    [
+      "work, study or escape danger",
+      "làm việc, học tập hoặc tránh nguy hiểm"
+    ],
+    [
+      "migration benefits the host country",
+      "di cư có lợi cho nước nhận"
+    ],
+    [
+      "fill gaps in the workforce",
+      "lấp chỗ trống trong lực lượng lao động"
+    ],
+    [
+      "hospitals, farms, construction and technology",
+      "bệnh viện, nông trại, xây dựng và công nghệ"
+    ],
+    [
+      "cannot find enough staff",
+      "không tìm đủ nhân viên"
+    ],
+    [
+      "pay taxes, start businesses",
+      "đóng thuế, lập doanh nghiệp"
+    ],
+    [
+      "keep their workforce",
+      "giữ lực lượng lao động"
+    ],
+    [
+      "nurses from abroad",
+      "y tá từ nước ngoài"
+    ],
+    [
+      "keep its wards open",
+      "giữ các khoa hoạt động"
+    ],
+    [
+      "unwilling or unable to do",
+      "không muốn hoặc không thể làm"
+    ],
+    [
+      "create demand for goods and services",
+      "tạo cầu về hàng hoá và dịch vụ"
+    ],
+    [
+      "links with other countries",
+      "mối liên hệ với các nước khác"
+    ],
+    [
+      "enriches society",
+      "làm giàu xã hội"
+    ],
+    [
+      "diversity and creativity",
+      "đa dạng và sáng tạo"
+    ],
+    [
+      "reduce prejudice",
+      "giảm định kiến"
+    ],
+    [
+      "come under pressure",
+      "chịu áp lực"
+    ],
+    [
+      "wages for some low-paid local workers",
+      "lương của một số lao động địa phương thấp"
+    ],
+    [
+      "recognise foreign qualifications",
+      "công nhận bằng cấp nước ngoài"
+    ],
+    [
+      "proper support for integration",
+      "hỗ trợ hoà nhập đúng mức"
+    ]
+  ]
+}

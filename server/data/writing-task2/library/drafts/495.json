@@ -1,0 +1,129 @@
+{
+  "questionId": 495,
+  "text": "Some governments block websites, ban books and control newspapers, and some people say that censorship is a waste of time and money. I largely agree, since broad censorship rarely achieves its aim, although a narrow set of controls can be justified.\n\nTo begin with, broad censorship wastes money and rarely achieves its aim. Determined people find ways around blocks, officials must spend large sums on monitoring, and hiding information damages public trust. A blocked website, for example, is often accessible again within hours through a different address or a virtual private network. Banning a book or film often increases curiosity, so that it is read or watched more widely than it would otherwise have been. Large teams of staff and technology are needed to scan content, and mistakes are common, so legitimate information is blocked together with harmful material. The cost could be used for schools or hospitals.\n\nFurthermore, censorship has serious side effects. It stops citizens from learning facts about their own government, hides problems that need to be solved and teaches people to distrust official information. Societies that allow open debate tend to find mistakes earlier and correct them. However, a narrow set of content, such as child abuse, direct incitement to violence and terrorist recruitment, justifies control, because the harm is severe and immediate. Even in these cases, rules should be clear, decisions should be made by courts or independent bodies, and the public should be able to challenge them. Education and media literacy are often more effective than bans in protecting people from harmful or false information.\n\nIn conclusion, general censorship is largely a waste of time and money, but carefully targeted restrictions on the most harmful material can be justified.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: kiểm duyệt là lãng phí thời gian và tiền bạc — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + giới hạn",
+        "think": "Mở bài nêu hành vi (chặn trang web, cấm sách, kiểm soát báo) rồi largely agree + nhượng bộ (một số hạn chế hẹp có thể biện minh).",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — lãng phí tiền và hiếm đạt mục đích",
+        "think": "Người quyết tâm tìm cách lách; quan chức chi nhiều cho giám sát; che giấu thông tin hại lòng tin. Ví dụ trang bị chặn thường truy cập lại sau vài giờ bằng địa chỉ khác hoặc VPN. Cấm sách tăng tò mò; cần nhiều nhân viên và công nghệ quét; sai sót chặn cả thông tin hợp pháp; tiền có thể dùng cho trường học, bệnh viện.",
+        "refs": [
+          "ID-gov-censorship",
+          "EX-gov-blocked-site",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — tác dụng phụ + nhượng bộ",
+        "think": "Chặn công dân biết sự thật về chính phủ, che giấu vấn đề cần giải quyết, dạy người ta không tin thông tin chính thức; xã hội tranh luận mở phát hiện sai sớm hơn. Nhượng bộ: nội dung rất hẹp (lạm dụng trẻ em, kích động bạo lực trực tiếp, tuyển mộ khủng bố) biện minh được vì hại nghiêm trọng và tức thì; quy tắc rõ, toà hoặc cơ quan độc lập quyết định, có thể kháng nghị; giáo dục và kỹ năng truyền thông hiệu quả hơn lệnh cấm.",
+        "refs": [
+          "ID-gov-censorship",
+          "ID-gov-hate-speech",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kiểm duyệt rộng phần lớn là lãng phí nhưng hạn chế có mục tiêu với nội dung hại nhất có thể biện minh.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-censorship",
+      "EX-gov-blocked-site"
+    ]
+  },
+  "chunks": [
+    [
+      "block websites, ban books and control newspapers",
+      "chặn trang web, cấm sách và kiểm soát báo chí"
+    ],
+    [
+      "a waste of time and money",
+      "lãng phí thời gian và tiền bạc"
+    ],
+    [
+      "broad censorship",
+      "kiểm duyệt rộng"
+    ],
+    [
+      "rarely achieves its aim",
+      "hiếm khi đạt mục đích"
+    ],
+    [
+      "find ways around blocks",
+      "tìm cách lách các lệnh chặn"
+    ],
+    [
+      "spend large sums on monitoring",
+      "chi những khoản lớn cho giám sát"
+    ],
+    [
+      "damages public trust",
+      "làm hại lòng tin của công chúng"
+    ],
+    [
+      "a virtual private network",
+      "mạng riêng ảo"
+    ],
+    [
+      "increases curiosity",
+      "làm tăng sự tò mò"
+    ],
+    [
+      "scan content",
+      "quét nội dung"
+    ],
+    [
+      "legitimate information is blocked",
+      "thông tin hợp pháp bị chặn"
+    ],
+    [
+      "learning facts about their own government",
+      "biết sự thật về chính phủ của mình"
+    ],
+    [
+      "hides problems that need to be solved",
+      "che giấu vấn đề cần giải quyết"
+    ],
+    [
+      "distrust official information",
+      "không tin thông tin chính thức"
+    ],
+    [
+      "open debate",
+      "tranh luận mở"
+    ],
+    [
+      "child abuse, direct incitement to violence",
+      "lạm dụng trẻ em, kích động bạo lực trực tiếp"
+    ],
+    [
+      "severe and immediate",
+      "nghiêm trọng và tức thì"
+    ],
+    [
+      "decisions should be made by courts or independent bodies",
+      "quyết định nên do toà hoặc cơ quan độc lập đưa ra"
+    ],
+    [
+      "media literacy",
+      "kiến thức truyền thông"
+    ],
+    [
+      "carefully targeted restrictions",
+      "hạn chế được nhắm mục tiêu cẩn thận"
+    ]
+  ]
+}

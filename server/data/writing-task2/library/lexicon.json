@@ -62133,6 +62133,5360 @@
       "text": "abuse its power",
       "meaning_vi": "lạm dụng quyền lực",
       "from": 491
+    },
+    {
+      "id": "ID-gov-internet-speech",
+      "type": "idea",
+      "topics": [
+        "government",
+        "technology",
+        "media"
+      ],
+      "tags": [
+        "free-speech",
+        "internet"
+      ],
+      "stance": "pro",
+      "label_vi": "Internet cho mọi người tiếng nói không cần người gác cổng; hỗ trợ người bất đồng chính kiến; nhưng tin giả, quấy rối, chính phủ chặn và theo dõi",
+      "claim": "The internet gives ordinary people a platform that no one controls.",
+      "because": "Anyone with a connection can publish opinions, share news and organise with others without needing a newspaper or broadcaster, which helps those whose views are ignored or suppressed.",
+      "result": "The same freedom allows rumour, harassment and surveillance by governments.",
+      "example_ids": [
+        "EX-gov-blogger-exposes"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề internet và tự do ngôn luận."
+    },
+    {
+      "id": "ID-gov-censorship",
+      "type": "idea",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "tags": [
+        "censorship"
+      ],
+      "stance": "con",
+      "label_vi": "Kiểm duyệt: khó hiệu quả (dễ lách), tốn tiền, che giấu sự thật, giảm niềm tin; nhưng nội dung cực hại (lạm dụng trẻ em, kích động) cần hạn chế",
+      "claim": "Broad censorship wastes money and rarely achieves its aim.",
+      "because": "Determined people find ways around blocks, officials must spend large sums on monitoring, and hiding information damages public trust, although a narrow set of content such as child abuse and direct incitement to violence justifies control.",
+      "result": "Targeted rules are more defensible than general censorship.",
+      "example_ids": [
+        "EX-gov-blocked-site"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề kiểm duyệt."
+    },
+    {
+      "id": "ID-gov-hate-speech",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society",
+        "media"
+      ],
+      "tags": [
+        "hate-speech"
+      ],
+      "stance": "caveat",
+      "label_vi": "Ngôn luận thù ghét trực tuyến: gây hại, kích động bạo lực, nền tảng tự điều chỉnh không đủ; nhưng nguy cơ hạn chế tự do, định nghĩa mơ hồ",
+      "claim": "Online hate speech causes real harm and should be limited by law.",
+      "because": "Abuse aimed at a person's race, religion or identity can drive victims offline, spread fear and sometimes lead to violence, and companies that profit from engagement cannot be left to regulate themselves.",
+      "result": "Rules must be narrow and clearly defined, with oversight by courts, to protect legitimate debate.",
+      "example_ids": [
+        "EX-gov-hate-posts"
+      ],
+      "fits": [
+        "Extent"
+      ],
+      "reuse_vi": "Đề kiểm soát ngôn luận thù ghét."
+    },
+    {
+      "id": "ID-gov-social-awareness",
+      "type": "idea",
+      "topics": [
+        "government",
+        "media",
+        "technology"
+      ],
+      "tags": [
+        "social-media",
+        "politics"
+      ],
+      "stance": "pro",
+      "label_vi": "Mạng xã hội tăng hiểu biết chính trị: tin nhanh, dễ chia sẻ, thu hút người trẻ; nhưng buồng vang, tin giả, tham gia hời hợt",
+      "claim": "Social media makes political information faster, cheaper and easier to share.",
+      "because": "News, debates and campaign messages reach young people who rarely read newspapers, and ordinary citizens can question politicians directly, but echo chambers, false stories and shallow engagement limit the benefit.",
+      "result": "Awareness grows, but not always understanding.",
+      "example_ids": [
+        "EX-gov-student-news-feed"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề mạng xã hội và chính trị."
+    },
+    {
+      "id": "ID-gov-tech-voting",
+      "type": "idea",
+      "topics": [
+        "government",
+        "technology",
+        "media"
+      ],
+      "tags": [
+        "voting",
+        "technology"
+      ],
+      "stance": "caveat",
+      "label_vi": "Công nghệ ảnh hưởng bỏ phiếu: quảng cáo nhắm đích, thông tin trên mạng, đăng ký trực tuyến, tin giả và bot; nhưng cũng giúp cử tri tìm hiểu",
+      "claim": "Technology shapes how voters learn about candidates and decide.",
+      "because": "Parties use data to target messages at individuals, social media spreads both information and false stories, and online tools make registration and research easier.",
+      "result": "Voters need skills to judge sources, and rules should make campaigning transparent.",
+      "example_ids": [
+        "EX-gov-targeted-ad"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề công nghệ và hành vi bỏ phiếu."
+    },
+    {
+      "id": "ID-gov-media-elections",
+      "type": "idea",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "tags": [
+        "elections",
+        "media"
+      ],
+      "stance": "caveat",
+      "label_vi": "Truyền thông ảnh hưởng dư luận trong bầu cử: đặt chương trình nghị sự, cách đóng khung, hình ảnh ứng viên, 'cuộc đua ngựa', thiên vị; cần đa dạng và kiểm chứng",
+      "claim": "Media coverage decides which issues voters think about and how they see candidates.",
+      "because": "By choosing what to report, how to frame it and whom to interview, newspapers and broadcasters shape priorities, and a focus on personality and opinion polls can crowd out policy.",
+      "result": "A diverse media and independent fact-checking help voters to form their own views.",
+      "example_ids": [
+        "EX-gov-poll-headline"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề truyền thông và bầu cử."
+    },
+    {
+      "id": "ID-gov-compulsory-vote",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "voting",
+        "compulsory"
+      ],
+      "stance": "con",
+      "label_vi": "Bắt buộc bỏ phiếu: tăng tỷ lệ tham gia, đại diện hơn; nhưng hạn chế tự do, phiếu thiếu hiểu biết, bực bội; nên làm bỏ phiếu dễ dàng",
+      "claim": "Compelling people to vote treats a right as a duty and may produce uninformed choices.",
+      "because": "Citizens who are forced to attend a polling station may vote randomly or leave the paper blank, resent the state and lose the sense that voting is a free expression of opinion.",
+      "result": "Making voting easy and meaningful raises turnout without compulsion.",
+      "example_ids": [
+        "EX-gov-random-vote"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề bỏ phiếu bắt buộc."
+    },
+    {
+      "id": "ID-gov-voting-access",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "voting",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Dễ bỏ phiếu: thêm điểm bỏ phiếu, bỏ phiếu sớm, bưu điện, trực tuyến an toàn, ngày nghỉ, hỗ trợ người già và khuyết tật, tự động đăng ký, thông tin nhiều ngôn ngữ",
+      "claim": "Governments should remove the practical obstacles that stop people from voting.",
+      "because": "More polling stations, early and postal voting, weekend or holiday elections, transport for older and disabled voters and automatic registration make it easier to take part.",
+      "result": "Turnout rises among workers, young people and minorities.",
+      "example_ids": [
+        "EX-gov-early-voting"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề làm bỏ phiếu dễ tiếp cận."
+    },
+    {
+      "id": "ID-gov-turnout-causes",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "voting",
+        "cause"
+      ],
+      "stance": "cause",
+      "label_vi": "Nguyên nhân tỷ lệ cử tri thấp: thờ ơ, mất lòng tin, cảm giác phiếu không có giá trị, bất tiện (đăng ký, xếp hàng, giờ làm), thiếu giáo dục công dân",
+      "claim": "Low turnout reflects distrust, a feeling that votes do not matter and practical obstacles.",
+      "because": "Voters who believe that politicians are all the same or that the result will not change their lives see little point in taking part, and registration rules, long queues and working hours make voting inconvenient.",
+      "result": "Young and poorer citizens are the least likely to vote, so their interests are underrepresented.",
+      "example_ids": [
+        "EX-gov-long-queue"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề nguyên nhân bỏ phiếu thấp."
+    },
+    {
+      "id": "EX-gov-blogger-exposes",
+      "type": "example",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "text": "A blogger who posts photographs of illegal logging, for example, can reach thousands of people even if the local newspaper stays silent.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-blocked-site",
+      "type": "example",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "text": "A blocked website, for example, is often accessible again within hours through a different address or a virtual private network.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-hate-posts",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A woman who receives hundreds of abusive messages about her religion, for example, may stop speaking in public altogether.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-student-news-feed",
+      "type": "example",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "text": "A student who sees a politician's speech shared by friends, for example, may follow the story further, although she may also see only views that she already agrees with.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-targeted-ad",
+      "type": "example",
+      "topics": [
+        "government",
+        "technology"
+      ],
+      "text": "A voter who receives advertisements aimed at his age, job and neighbourhood, for example, sees a very different campaign from his neighbour.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-poll-headline",
+      "type": "example",
+      "topics": [
+        "government",
+        "media"
+      ],
+      "text": "A headline that announces which candidate is ahead, for example, can encourage some voters to follow the winner and others to stay at home.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-random-vote",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A person who dislikes every candidate but must still go to the polling station, for example, may simply tick a name at random.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-early-voting",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A nurse who works night shifts, for example, can vote during a week of early voting instead of missing the single election day.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-long-queue",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A worker who sees a queue of two hours outside the polling station, for example, may decide that his time is better spent elsewhere.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "PH-a-handful-of-newspapers-and-television-chann",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a handful of newspapers and television channels",
+      "meaning_vi": "một vài tờ báo và kênh truyền hình",
+      "from": 63
+    },
+    {
+      "id": "PH-promotes-free-speech",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "promotes free speech",
+      "meaning_vi": "thúc đẩy tự do ngôn luận",
+      "from": 63
+    },
+    {
+      "id": "PH-a-platform-that-no-one-controls",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a platform that no one controls",
+      "meaning_vi": "nền tảng không ai kiểm soát",
+      "from": 63
+    },
+    {
+      "id": "PH-publish-opinions-share-news-and-organise",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "publish opinions, share news and organise",
+      "meaning_vi": "đăng ý kiến, chia sẻ tin và tổ chức",
+      "from": 63
+    },
+    {
+      "id": "PH-views-are-ignored-or-suppressed",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "views are ignored or suppressed",
+      "meaning_vi": "quan điểm bị phớt lờ hoặc bị đàn áp",
+      "from": 63
+    },
+    {
+      "id": "PH-illegal-logging",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "illegal logging",
+      "meaning_vi": "khai thác gỗ trái phép",
+      "from": 63
+    },
+    {
+      "id": "PH-stays-silent",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stays silent",
+      "meaning_vi": "giữ im lặng",
+      "from": 63
+    },
+    {
+      "id": "PH-the-press-is-restricted",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the press is restricted",
+      "meaning_vi": "báo chí bị hạn chế",
+      "from": 63
+    },
+    {
+      "id": "PH-report-events-and-debate-openly",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "report events and debate openly",
+      "meaning_vi": "đưa tin sự kiện và tranh luận công khai",
+      "from": 63
+    },
+    {
+      "id": "PH-minority-groups",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "minority groups",
+      "meaning_vi": "nhóm thiểu số",
+      "from": 63
+    },
+    {
+      "id": "PH-voices-from-remote-regions",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Voices from remote regions",
+      "meaning_vi": "tiếng nói từ vùng xa",
+      "from": 63
+    },
+    {
+      "id": "PH-share-information-and-organise",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share information and organise",
+      "meaning_vi": "chia sẻ thông tin và tổ chức",
+      "from": 63
+    },
+    {
+      "id": "PH-spread-to-millions-in-hours",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spread to millions in hours",
+      "meaning_vi": "lan tới hàng triệu trong vài giờ",
+      "from": 63
+    },
+    {
+      "id": "PH-petitions-can-be-arranged-quickly",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "petitions can be arranged quickly",
+      "meaning_vi": "kiến nghị có thể được tổ chức nhanh",
+      "from": 63
+    },
+    {
+      "id": "PH-find-one-another-across-borders",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "find one another across borders",
+      "meaning_vi": "tìm thấy nhau xuyên biên giới",
+      "from": 63
+    },
+    {
+      "id": "PH-rumour-harassment-and-hate-speech",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Rumour, harassment and hate speech",
+      "meaning_vi": "tin đồn, quấy rối và ngôn luận thù ghét",
+      "from": 63
+    },
+    {
+      "id": "PH-block-websites-or-monitor-users",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "block websites or monitor users",
+      "meaning_vi": "chặn trang web hoặc theo dõi người dùng",
+      "from": 63
+    },
+    {
+      "id": "PH-silence-critics",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "silence critics",
+      "meaning_vi": "bịt miệng người phê phán",
+      "from": 63
+    },
+    {
+      "id": "PH-transparency-from-platforms",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "transparency from platforms",
+      "meaning_vi": "sự minh bạch từ các nền tảng",
+      "from": 63
+    },
+    {
+      "id": "PH-open-access",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "open access",
+      "meaning_vi": "truy cập mở",
+      "from": 63
+    },
+    {
+      "id": "PH-learn-about-them-through-newspapers-televisi",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn about them through newspapers, television and the internet",
+      "meaning_vi": "biết về họ qua báo, truyền hình và internet",
+      "from": 76
+    },
+    {
+      "id": "PH-media-coverage-affects-public-opinion",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "media coverage affects public opinion",
+      "meaning_vi": "đưa tin của truyền thông ảnh hưởng dư luận",
+      "from": 76
+    },
+    {
+      "id": "PH-decides-which-issues-voters-think-about",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "decides which issues voters think about",
+      "meaning_vi": "quyết định vấn đề cử tri nghĩ tới",
+      "from": 76
+    },
+    {
+      "id": "PH-shaping-how-they-see-candidates",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shaping how they see candidates",
+      "meaning_vi": "định hình cách họ nhìn ứng viên",
+      "from": 76
+    },
+    {
+      "id": "PH-what-to-report-how-to-frame-it-and-whom-to-i",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "what to report, how to frame it and whom to interview",
+      "meaning_vi": "đưa tin gì, đóng khung thế nào và phỏng vấn ai",
+      "from": 76
+    },
+    {
+      "id": "PH-shape-priorities",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "shape priorities",
+      "meaning_vi": "định hình ưu tiên",
+      "from": 76
+    },
+    {
+      "id": "PH-the-main-issue",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the main issue",
+      "meaning_vi": "vấn đề chính",
+      "from": 76
+    },
+    {
+      "id": "PH-announces-which-candidate-is-ahead",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "announces which candidate is ahead",
+      "meaning_vi": "thông báo ứng viên nào đang dẫn đầu",
+      "from": 76
+    },
+    {
+      "id": "PH-follow-the-winner",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "follow the winner",
+      "meaning_vi": "chạy theo người thắng",
+      "from": 76
+    },
+    {
+      "id": "PH-stay-at-home",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stay at home",
+      "meaning_vi": "ở nhà",
+      "from": 76
+    },
+    {
+      "id": "PH-a-single-mistake-that-is-replayed-endlessly",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a single mistake that is replayed endlessly",
+      "meaning_vi": "một sai lầm được phát lại không ngừng",
+      "from": 76
+    },
+    {
+      "id": "PH-damage-a-reputation",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "damage a reputation",
+      "meaning_vi": "làm hại danh tiếng",
+      "from": 76
+    },
+    {
+      "id": "PH-favours-drama-over-detail",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "favours drama over detail",
+      "meaning_vi": "thiên về kịch tính hơn chi tiết",
+      "from": 76
+    },
+    {
+      "id": "PH-a-horse-race",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a horse race",
+      "meaning_vi": "cuộc đua ngựa",
+      "from": 76
+    },
+    {
+      "id": "PH-opinion-polls-and-personal-conflicts",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "opinion polls and personal conflicts",
+      "meaning_vi": "thăm dò dư luận và xung đột cá nhân",
+      "from": 76
+    },
+    {
+      "id": "PH-crowd-out-discussion-of-policy",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "crowd out discussion of policy",
+      "meaning_vi": "lấn át thảo luận chính sách",
+      "from": 76
+    },
+    {
+      "id": "PH-partisan-outlets",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "partisan outlets",
+      "meaning_vi": "các kênh thiên vị đảng phái",
+      "from": 76
+    },
+    {
+      "id": "PH-independent-fact-checking",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Independent fact-checking",
+      "meaning_vi": "kiểm chứng độc lập",
+      "from": 76
+    },
+    {
+      "id": "PH-a-duty-of-balance",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a duty of balance",
+      "meaning_vi": "nghĩa vụ cân bằng",
+      "from": 76
+    },
+    {
+      "id": "PH-investigates-candidates-from-all-parties",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "investigates candidates from all parties",
+      "meaning_vi": "điều tra ứng viên của mọi đảng",
+      "from": 76
+    },
+    {
+      "id": "PH-post-on-social-media-every-day",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "post on social media every day",
+      "meaning_vi": "đăng bài trên mạng xã hội mỗi ngày",
+      "from": 106
+    },
+    {
+      "id": "PH-politically-aware",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "politically aware",
+      "meaning_vi": "có hiểu biết chính trị",
+      "from": 106
+    },
+    {
+      "id": "PH-faster-cheaper-and-easier-to-share",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "faster, cheaper and easier to share",
+      "meaning_vi": "nhanh hơn, rẻ hơn và dễ chia sẻ hơn",
+      "from": 106
+    },
+    {
+      "id": "PH-campaign-messages",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "campaign messages",
+      "meaning_vi": "thông điệp vận động",
+      "from": 106
+    },
+    {
+      "id": "PH-rarely-read-newspapers",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rarely read newspapers",
+      "meaning_vi": "hiếm khi đọc báo",
+      "from": 106
+    },
+    {
+      "id": "PH-question-politicians-directly",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "question politicians directly",
+      "meaning_vi": "hỏi thẳng chính trị gia",
+      "from": 106
+    },
+    {
+      "id": "PH-follow-the-story-further",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "follow the story further",
+      "meaning_vi": "theo dõi câu chuyện sâu hơn",
+      "from": 106
+    },
+    {
+      "id": "PH-views-that-she-already-agrees-with",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "views that she already agrees with",
+      "meaning_vi": "quan điểm mà cô ấy đã đồng tình",
+      "from": 106
+    },
+    {
+      "id": "PH-hashtags-and-live-videos",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Hashtags and live videos",
+      "meaning_vi": "hashtag và video trực tiếp",
+      "from": 106
+    },
+    {
+      "id": "PH-traditional-media-might-ignore",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "traditional media might ignore",
+      "meaning_vi": "truyền thông truyền thống có thể bỏ qua",
+      "from": 106
+    },
+    {
+      "id": "PH-climate-change-or-equality",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "climate change or equality",
+      "meaning_vi": "biến đổi khí hậu hoặc bình đẳng",
+      "from": 106
+    },
+    {
+      "id": "PH-registration-deadlines",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "registration deadlines",
+      "meaning_vi": "hạn đăng ký",
+      "from": 106
+    },
+    {
+      "id": "PH-join-petitions-and-demonstrations",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "join petitions and demonstrations",
+      "meaning_vi": "tham gia kiến nghị và biểu tình",
+      "from": 106
+    },
+    {
+      "id": "PH-share-their-concerns",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share their concerns",
+      "meaning_vi": "chia sẻ mối quan tâm",
+      "from": 106
+    },
+    {
+      "id": "PH-awareness-is-not-always-understanding",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "awareness is not always understanding",
+      "meaning_vi": "nhận thức không phải lúc nào cũng là hiểu biết",
+      "from": 106
+    },
+    {
+      "id": "PH-algorithms",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Algorithms",
+      "meaning_vi": "thuật toán",
+      "from": 106
+    },
+    {
+      "id": "PH-confirms-their-existing-views",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "confirms their existing views",
+      "meaning_vi": "xác nhận quan điểm sẵn có",
+      "from": 106
+    },
+    {
+      "id": "PH-echo-chambers",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "echo chambers",
+      "meaning_vi": "buồng vang",
+      "from": 106
+    },
+    {
+      "id": "PH-spread-faster-than-corrections",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spread faster than corrections",
+      "meaning_vi": "lan nhanh hơn đính chính",
+      "from": 106
+    },
+    {
+      "id": "PH-compare-several-sources",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "compare several sources",
+      "meaning_vi": "so sánh nhiều nguồn",
+      "from": 106
+    },
+    {
+      "id": "PH-fought-as-much-on-phones-and-laptops-as-on-d",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fought as much on phones and laptops as on doorsteps",
+      "meaning_vi": "đấu trên điện thoại và laptop nhiều như trước cửa nhà dân",
+      "from": 136
+    },
+    {
+      "id": "PH-influences-voting-behaviour",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "influences voting behaviour",
+      "meaning_vi": "ảnh hưởng hành vi bỏ phiếu",
+      "from": 136
+    },
+    {
+      "id": "PH-how-voters-get-information",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "how voters get information",
+      "meaning_vi": "cách cử tri lấy thông tin",
+      "from": 136
+    },
+    {
+      "id": "PH-how-campaigns-reach-them",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "how campaigns reach them",
+      "meaning_vi": "cách chiến dịch tiếp cận họ",
+      "from": 136
+    },
+    {
+      "id": "PH-learn-about-candidates",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learn about candidates",
+      "meaning_vi": "tìm hiểu về ứng cử viên",
+      "from": 136
+    },
+    {
+      "id": "PH-spreads-both-information-and-false-stories",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spreads both information and false stories",
+      "meaning_vi": "lan truyền cả thông tin lẫn tin giả",
+      "from": 136
+    },
+    {
+      "id": "PH-registration-and-research-easier",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "registration and research easier",
+      "meaning_vi": "đăng ký và tìm hiểu dễ hơn",
+      "from": 136
+    },
+    {
+      "id": "PH-the-policies-of-every-party",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the policies of every party",
+      "meaning_vi": "chính sách của mọi đảng",
+      "from": 136
+    },
+    {
+      "id": "PH-relied-on-a-single-newspaper",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "relied on a single newspaper",
+      "meaning_vi": "chỉ dựa vào một tờ báo",
+      "from": 136
+    },
+    {
+      "id": "PH-compare-manifestos",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "compare manifestos",
+      "meaning_vi": "so sánh cương lĩnh",
+      "from": 136
+    },
+    {
+      "id": "PH-fact-checkers-examine-claims",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fact-checkers examine claims",
+      "meaning_vi": "người kiểm chứng sự thật xem xét các tuyên bố",
+      "from": 136
+    },
+    {
+      "id": "PH-watch-debates",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "watch debates",
+      "meaning_vi": "xem các cuộc tranh luận",
+      "from": 136
+    },
+    {
+      "id": "PH-show-people-only-what-confirms-their-opinion",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "show people only what confirms their opinions",
+      "meaning_vi": "chỉ cho người ta thấy điều xác nhận ý kiến của họ",
+      "from": 136
+    },
+    {
+      "id": "PH-undecided-voters",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "undecided voters",
+      "meaning_vi": "cử tri chưa quyết định",
+      "from": 136
+    },
+    {
+      "id": "PH-target-messages-at-individuals",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "target messages at individuals",
+      "meaning_vi": "nhắm thông điệp tới từng cá nhân",
+      "from": 136
+    },
+    {
+      "id": "PH-age-job-and-interests",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "age, job and interests",
+      "meaning_vi": "tuổi, nghề nghiệp và sở thích",
+      "from": 136
+    },
+    {
+      "id": "PH-groups-who-are-normally-ignored",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "groups who are normally ignored",
+      "meaning_vi": "những nhóm thường bị bỏ qua",
+      "from": 136
+    },
+    {
+      "id": "PH-automated-accounts",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Automated accounts",
+      "meaning_vi": "tài khoản tự động",
+      "from": 136
+    },
+    {
+      "id": "PH-the-impression-of-widespread-support",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the impression of widespread support",
+      "meaning_vi": "ấn tượng về sự ủng hộ rộng rãi",
+      "from": 136
+    },
+    {
+      "id": "PH-transparent-about-who-is-paying",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "transparent about who is paying",
+      "meaning_vi": "minh bạch về ai đang trả tiền",
+      "from": 136
+    },
+    {
+      "id": "PH-citizens-who-do-not-vote-are-fined",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "citizens who do not vote are fined",
+      "meaning_vi": "công dân không đi bỏ phiếu bị phạt",
+      "from": 226
+    },
+    {
+      "id": "PH-voting-should-be-compulsory",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "voting should be compulsory",
+      "meaning_vi": "bỏ phiếu nên bắt buộc",
+      "from": 226
+    },
+    {
+      "id": "PH-treats-a-right-as-a-duty",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "treats a right as a duty",
+      "meaning_vi": "coi một quyền như một nghĩa vụ",
+      "from": 226
+    },
+    {
+      "id": "PH-produce-uninformed-choices",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "produce uninformed choices",
+      "meaning_vi": "tạo ra lựa chọn thiếu hiểu biết",
+      "from": 226
+    },
+    {
+      "id": "PH-forced-to-attend-a-polling-station",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "forced to attend a polling station",
+      "meaning_vi": "bị buộc đến điểm bỏ phiếu",
+      "from": 226
+    },
+    {
+      "id": "PH-leave-the-paper-blank",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "leave the paper blank",
+      "meaning_vi": "để phiếu trắng",
+      "from": 226
+    },
+    {
+      "id": "PH-resent-the-state",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "resent the state",
+      "meaning_vi": "bực bội với nhà nước",
+      "from": 226
+    },
+    {
+      "id": "PH-a-free-expression-of-opinion",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a free expression of opinion",
+      "meaning_vi": "sự biểu đạt tự do của ý kiến",
+      "from": 226
+    },
+    {
+      "id": "PH-dislikes-every-candidate",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "dislikes every candidate",
+      "meaning_vi": "không thích mọi ứng viên",
+      "from": 226
+    },
+    {
+      "id": "PH-tick-a-name-at-random",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tick a name at random",
+      "meaning_vi": "đánh dấu một cái tên ngẫu nhiên",
+      "from": 226
+    },
+    {
+      "id": "PH-more-representative",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more representative",
+      "meaning_vi": "đại diện hơn",
+      "from": 226
+    },
+    {
+      "id": "PH-the-right-to-choose-not-to-take-part",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the right to choose not to take part",
+      "meaning_vi": "quyền chọn không tham gia",
+      "from": 226
+    },
+    {
+      "id": "PH-treats-the-symptom-not-the-cause",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "treats the symptom, not the cause",
+      "meaning_vi": "chữa triệu chứng chứ không phải nguyên nhân",
+      "from": 226
+    },
+    {
+      "id": "PH-distrust-dissatisfaction-with-the-choice-off",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "distrust, dissatisfaction with the choice offered",
+      "meaning_vi": "mất lòng tin, không hài lòng với lựa chọn được đưa ra",
+      "from": 226
+    },
+    {
+      "id": "PH-practical-difficulties",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "practical difficulties",
+      "meaning_vi": "khó khăn thực tế",
+      "from": 226
+    },
+    {
+      "id": "PH-increases-turnout",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "increases turnout",
+      "meaning_vi": "tăng tỷ lệ cử tri đi bầu",
+      "from": 226
+    },
+    {
+      "id": "PH-participation-is-very-high",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "participation is very high",
+      "meaning_vi": "tỷ lệ tham gia rất cao",
+      "from": 226
+    },
+    {
+      "id": "PH-weekend-elections-early-and-postal-voting",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "weekend elections, early and postal voting",
+      "meaning_vi": "bầu cử cuối tuần, bỏ phiếu sớm và qua bưu điện",
+      "from": 226
+    },
+    {
+      "id": "PH-more-responsive-politics",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more responsive politics",
+      "meaning_vi": "nền chính trị đáp ứng tốt hơn",
+      "from": 226
+    },
+    {
+      "id": "PH-fall-hardest-on-those-with-the-least-money",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fall hardest on those with the least money",
+      "meaning_vi": "đè nặng nhất lên người ít tiền nhất",
+      "from": 226
+    },
+    {
+      "id": "PH-a-large-share-of-eligible-citizens-never-vot",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a large share of eligible citizens never vote",
+      "meaning_vi": "phần lớn công dân đủ điều kiện chưa bao giờ bỏ phiếu",
+      "from": 262
+    },
+    {
+      "id": "PH-practical-obstacles",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "practical obstacles",
+      "meaning_vi": "rào cản thực tế",
+      "from": 262
+    },
+    {
+      "id": "PH-long-queues-strict-deadlines-and-inconvenien",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "long queues, strict deadlines and inconvenient hours",
+      "meaning_vi": "hàng chờ dài, hạn chót nghiêm ngặt và giờ bất tiện",
+      "from": 262
+    },
+    {
+      "id": "PH-more-accessible",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more accessible",
+      "meaning_vi": "dễ tiếp cận hơn",
+      "from": 262
+    },
+    {
+      "id": "PH-cast-a-vote",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cast a vote",
+      "meaning_vi": "bỏ một lá phiếu",
+      "from": 262
+    },
+    {
+      "id": "PH-remove-the-practical-obstacles",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "remove the practical obstacles",
+      "meaning_vi": "gỡ bỏ rào cản thực tế",
+      "from": 262
+    },
+    {
+      "id": "PH-more-polling-stations",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "More polling stations",
+      "meaning_vi": "thêm điểm bỏ phiếu",
+      "from": 262
+    },
+    {
+      "id": "PH-early-and-postal-voting",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "early and postal voting",
+      "meaning_vi": "bỏ phiếu sớm và qua bưu điện",
+      "from": 262
+    },
+    {
+      "id": "PH-weekend-or-holiday-elections",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "weekend or holiday elections",
+      "meaning_vi": "bầu cử cuối tuần hoặc ngày lễ",
+      "from": 262
+    },
+    {
+      "id": "PH-transport-for-older-and-disabled-voters",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "transport for older and disabled voters",
+      "meaning_vi": "phương tiện đi lại cho cử tri lớn tuổi và khuyết tật",
+      "from": 262
+    },
+    {
+      "id": "PH-automatic-registration",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "automatic registration",
+      "meaning_vi": "đăng ký tự động",
+      "from": 262
+    },
+    {
+      "id": "PH-works-night-shifts",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "works night shifts",
+      "meaning_vi": "làm ca đêm",
+      "from": 262
+    },
+    {
+      "id": "PH-mobile-polling-stations",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "mobile polling stations",
+      "meaning_vi": "điểm bỏ phiếu lưu động",
+      "from": 262
+    },
+    {
+      "id": "PH-safeguards-against-fraud",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "safeguards against fraud",
+      "meaning_vi": "biện pháp phòng chống gian lận",
+      "from": 262
+    },
+    {
+      "id": "PH-same-day-registration",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "same-day registration",
+      "meaning_vi": "đăng ký cùng ngày",
+      "from": 262
+    },
+    {
+      "id": "PH-move-home-often",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "move home often",
+      "meaning_vi": "hay chuyển nhà",
+      "from": 262
+    },
+    {
+      "id": "PH-reminders-by-text-message",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reminders by text message",
+      "meaning_vi": "nhắc nhở bằng tin nhắn",
+      "from": 262
+    },
+    {
+      "id": "PH-plain-language",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "plain language",
+      "meaning_vi": "ngôn ngữ đơn giản",
+      "from": 262
+    },
+    {
+      "id": "PH-accessible-to-wheelchair-users",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "accessible to wheelchair users",
+      "meaning_vi": "dễ tiếp cận cho người dùng xe lăn",
+      "from": 262
+    },
+    {
+      "id": "PH-represent-the-whole-population",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "represent the whole population",
+      "meaning_vi": "đại diện cho toàn bộ dân cư",
+      "from": 262
+    },
+    {
+      "id": "PH-fewer-than-two-thirds-of-eligible-voters",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fewer than two-thirds of eligible voters",
+      "meaning_vi": "ít hơn hai phần ba cử tri đủ điều kiện",
+      "from": 289
+    },
+    {
+      "id": "PH-take-part-in-elections",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take part in elections",
+      "meaning_vi": "tham gia bầu cử",
+      "from": 289
+    },
+    {
+      "id": "PH-low-voter-turnout",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "low voter turnout",
+      "meaning_vi": "tỷ lệ cử tri đi bầu thấp",
+      "from": 289
+    },
+    {
+      "id": "PH-distrust-a-feeling-that-votes-do-not-matter",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "distrust, a feeling that votes do not matter",
+      "meaning_vi": "mất lòng tin, cảm giác phiếu bầu không có giá trị",
+      "from": 289
+    },
+    {
+      "id": "PH-politicians-are-all-the-same",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "politicians are all the same",
+      "meaning_vi": "chính trị gia ai cũng như nhau",
+      "from": 289
+    },
+    {
+      "id": "PH-will-not-change-their-lives",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "will not change their lives",
+      "meaning_vi": "sẽ không thay đổi cuộc sống của họ",
+      "from": 289
+    },
+    {
+      "id": "PH-see-little-point-in-taking-part",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "see little point in taking part",
+      "meaning_vi": "thấy ít ý nghĩa khi tham gia",
+      "from": 289
+    },
+    {
+      "id": "PH-registration-rules-long-queues-and-working-h",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "registration rules, long queues and working hours",
+      "meaning_vi": "quy định đăng ký, hàng chờ dài và giờ làm việc",
+      "from": 289
+    },
+    {
+      "id": "PH-a-queue-of-two-hours",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a queue of two hours",
+      "meaning_vi": "hàng chờ hai giờ",
+      "from": 289
+    },
+    {
+      "id": "PH-on-low-incomes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "on low incomes",
+      "meaning_vi": "có thu nhập thấp",
+      "from": 289
+    },
+    {
+      "id": "PH-feel-ignored-by-parties",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "feel ignored by parties",
+      "meaning_vi": "cảm thấy bị các đảng phớt lờ",
+      "from": 289
+    },
+    {
+      "id": "PH-weak-civic-education",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "weak civic education",
+      "meaning_vi": "giáo dục công dân yếu",
+      "from": 289
+    },
+    {
+      "id": "PH-unsure-how-the-system-works",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "unsure how the system works",
+      "meaning_vi": "không chắc hệ thống vận hành thế nào",
+      "from": 289
+    },
+    {
+      "id": "PH-their-interests-are-underrepresented",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "their interests are underrepresented",
+      "meaning_vi": "lợi ích của họ ít được đại diện",
+      "from": 289
+    },
+    {
+      "id": "PH-civic-education-in-schools",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "civic education in schools",
+      "meaning_vi": "giáo dục công dân ở trường",
+      "from": 289
+    },
+    {
+      "id": "PH-more-proportional-systems",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more proportional systems",
+      "meaning_vi": "hệ thống tỷ lệ hơn",
+      "from": 289
+    },
+    {
+      "id": "PH-make-votes-count-more",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "make votes count more",
+      "meaning_vi": "làm cho phiếu bầu có giá trị hơn",
+      "from": 289
+    },
+    {
+      "id": "PH-transparency-about-money-in-politics",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "transparency about money in politics",
+      "meaning_vi": "minh bạch về tiền trong chính trị",
+      "from": 289
+    },
+    {
+      "id": "PH-rebuild-trust",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rebuild trust",
+      "meaning_vi": "xây dựng lại lòng tin",
+      "from": 289
+    },
+    {
+      "id": "PH-insult-others-about-their-race-religion-or-o",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "insult others about their race, religion or origin",
+      "meaning_vi": "xúc phạm người khác về chủng tộc, tôn giáo hoặc nguồn gốc",
+      "from": 342
+    },
+    {
+      "id": "PH-online-hate-speech",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "online hate speech",
+      "meaning_vi": "ngôn luận thù ghét trực tuyến",
+      "from": 342
+    },
+    {
+      "id": "PH-causes-real-harm",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "causes real harm",
+      "meaning_vi": "gây hại thật sự",
+      "from": 342
+    },
+    {
+      "id": "PH-cannot-be-left-to-regulate-themselves",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot be left to regulate themselves",
+      "meaning_vi": "không thể để tự điều chỉnh",
+      "from": 342
+    },
+    {
+      "id": "PH-carefully-limited",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "carefully limited",
+      "meaning_vi": "được giới hạn cẩn thận",
+      "from": 342
+    },
+    {
+      "id": "PH-abuse-aimed-at-a-person-s-race-religion-or-i",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Abuse aimed at a person's race, religion or identity",
+      "meaning_vi": "lăng mạ nhắm vào chủng tộc, tôn giáo hay danh tính của một người",
+      "from": 342
+    },
+    {
+      "id": "PH-drive-victims-offline",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "drive victims offline",
+      "meaning_vi": "đẩy nạn nhân ra khỏi mạng",
+      "from": 342
+    },
+    {
+      "id": "PH-spread-fear",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spread fear",
+      "meaning_vi": "gieo rắc sợ hãi",
+      "from": 342
+    },
+    {
+      "id": "PH-lead-to-violence",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lead to violence",
+      "meaning_vi": "dẫn đến bạo lực",
+      "from": 342
+    },
+    {
+      "id": "PH-stop-speaking-in-public-altogether",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stop speaking in public altogether",
+      "meaning_vi": "ngừng nói trước công chúng hoàn toàn",
+      "from": 342
+    },
+    {
+      "id": "PH-damages-free-expression-rather-than-protecti",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "damages free expression rather than protecting it",
+      "meaning_vi": "làm hại tự do biểu đạt thay vì bảo vệ",
+      "from": 342
+    },
+    {
+      "id": "PH-attacks-on-minorities",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "attacks on minorities",
+      "meaning_vi": "các vụ tấn công người thiểu số",
+      "from": 342
+    },
+    {
+      "id": "PH-accept-it-as-normal",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "accept it as normal",
+      "meaning_vi": "chấp nhận nó là bình thường",
+      "from": 342
+    },
+    {
+      "id": "PH-profit-from-engagement",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "profit from engagement",
+      "meaning_vi": "kiếm lời từ tương tác",
+      "from": 342
+    },
+    {
+      "id": "PH-clear-consistent-rules",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "clear, consistent rules",
+      "meaning_vi": "quy tắc rõ ràng, nhất quán",
+      "from": 342
+    },
+    {
+      "id": "PH-remove-illegal-content-quickly",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "remove illegal content quickly",
+      "meaning_vi": "gỡ nội dung bất hợp pháp nhanh chóng",
+      "from": 342
+    },
+    {
+      "id": "PH-definitions-of-hate-speech-can-be-vague",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Definitions of hate speech can be vague",
+      "meaning_vi": "định nghĩa ngôn luận thù ghét có thể mơ hồ",
+      "from": 342
+    },
+    {
+      "id": "PH-silence-criticism-or-minority-opinions",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "silence criticism or minority opinions",
+      "meaning_vi": "bịt miệng phê phán hoặc ý kiến thiểu số",
+      "from": 342
+    },
+    {
+      "id": "PH-oversight-by-independent-courts-and-a-right",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "oversight by independent courts and a right of appeal",
+      "meaning_vi": "giám sát bởi toà độc lập và quyền kháng cáo",
+      "from": 342
+    },
+    {
+      "id": "PH-legitimate-debate",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "legitimate debate",
+      "meaning_vi": "tranh luận chính đáng",
+      "from": 342
+    },
+    {
+      "id": "PH-mobile-phones-social-media-and-translation-t",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Mobile phones, social media and translation tools",
+      "meaning_vi": "điện thoại, mạng xã hội và công cụ dịch",
+      "from": 492
+    },
+    {
+      "id": "PH-speak-out",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "speak out",
+      "meaning_vi": "lên tiếng",
+      "from": 492
+    },
+    {
+      "id": "PH-a-friend-of-free-speech",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a friend of free speech",
+      "meaning_vi": "người bạn của tự do ngôn luận",
+      "from": 492
+    },
+    {
+      "id": "PH-widening-access",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "widening access",
+      "meaning_vi": "mở rộng tiếp cận",
+      "from": 492
+    },
+    {
+      "id": "PH-protecting-those-who-speak",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "protecting those who speak",
+      "meaning_vi": "bảo vệ người lên tiếng",
+      "from": 492
+    },
+    {
+      "id": "PH-cheap-smartphones-video-platforms-and-blogs",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Cheap smartphones, video platforms and blogs",
+      "meaning_vi": "điện thoại giá rẻ, nền tảng video và blog",
+      "from": 492
+    },
+    {
+      "id": "PH-describe-what-is-happening-in-their-communit",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "describe what is happening in their community",
+      "meaning_vi": "mô tả điều đang xảy ra trong cộng đồng",
+      "from": 492
+    },
+    {
+      "id": "PH-cross-language-barriers",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cross language barriers",
+      "meaning_vi": "vượt rào cản ngôn ngữ",
+      "from": 492
+    },
+    {
+      "id": "PH-live-streaming",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "live streaming",
+      "meaning_vi": "phát trực tiếp",
+      "from": 492
+    },
+    {
+      "id": "PH-witnesses-show-events-as-they-happen",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "witnesses show events as they happen",
+      "meaning_vi": "nhân chứng cho thấy sự việc khi nó diễn ra",
+      "from": 492
+    },
+    {
+      "id": "PH-expose-abuse",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "expose abuse",
+      "meaning_vi": "phơi bày lạm dụng",
+      "from": 492
+    },
+    {
+      "id": "PH-official-media",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "official media",
+      "meaning_vi": "truyền thông chính thức",
+      "from": 492
+    },
+    {
+      "id": "PH-organise-petitions-and-campaigns",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "organise petitions and campaigns",
+      "meaning_vi": "tổ chức kiến nghị và chiến dịch",
+      "from": 492
+    },
+    {
+      "id": "PH-encrypted-messaging",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Encrypted messaging",
+      "meaning_vi": "nhắn tin mã hoá",
+      "from": 492
+    },
+    {
+      "id": "PH-under-hostile-regimes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "under hostile regimes",
+      "meaning_vi": "dưới chế độ thù địch",
+      "from": 492
+    },
+    {
+      "id": "PH-share-evidence-without-being-traced",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "share evidence without being traced",
+      "meaning_vi": "chia sẻ bằng chứng mà không bị truy vết",
+      "from": 492
+    },
+    {
+      "id": "PH-filtering-facial-recognition-and-spyware",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "filtering, facial recognition and spyware",
+      "meaning_vi": "bộ lọc, nhận diện khuôn mặt và phần mềm gián điệp",
+      "from": 492
+    },
+    {
+      "id": "PH-automated-moderation-or-opaque-rules",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "automated moderation or opaque rules",
+      "meaning_vi": "kiểm duyệt tự động hoặc quy tắc mờ ám",
+      "from": 492
+    },
+    {
+      "id": "PH-force-people-into-silence",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "force people into silence",
+      "meaning_vi": "buộc người ta im lặng",
+      "from": 492
+    },
+    {
+      "id": "PH-privacy-laws",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "privacy laws",
+      "meaning_vi": "luật quyền riêng tư",
+      "from": 492
+    },
+    {
+      "id": "PH-block-websites-ban-books-and-control-newspap",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "block websites, ban books and control newspapers",
+      "meaning_vi": "chặn trang web, cấm sách và kiểm soát báo chí",
+      "from": 495
+    },
+    {
+      "id": "PH-broad-censorship",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "broad censorship",
+      "meaning_vi": "kiểm duyệt rộng",
+      "from": 495
+    },
+    {
+      "id": "PH-rarely-achieves-its-aim",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rarely achieves its aim",
+      "meaning_vi": "hiếm khi đạt mục đích",
+      "from": 495
+    },
+    {
+      "id": "PH-find-ways-around-blocks",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "find ways around blocks",
+      "meaning_vi": "tìm cách lách các lệnh chặn",
+      "from": 495
+    },
+    {
+      "id": "PH-spend-large-sums-on-monitoring",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spend large sums on monitoring",
+      "meaning_vi": "chi những khoản lớn cho giám sát",
+      "from": 495
+    },
+    {
+      "id": "PH-damages-public-trust",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "damages public trust",
+      "meaning_vi": "làm hại lòng tin của công chúng",
+      "from": 495
+    },
+    {
+      "id": "PH-a-virtual-private-network",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a virtual private network",
+      "meaning_vi": "mạng riêng ảo",
+      "from": 495
+    },
+    {
+      "id": "PH-increases-curiosity",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "increases curiosity",
+      "meaning_vi": "làm tăng sự tò mò",
+      "from": 495
+    },
+    {
+      "id": "PH-scan-content",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "scan content",
+      "meaning_vi": "quét nội dung",
+      "from": 495
+    },
+    {
+      "id": "PH-legitimate-information-is-blocked",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "legitimate information is blocked",
+      "meaning_vi": "thông tin hợp pháp bị chặn",
+      "from": 495
+    },
+    {
+      "id": "PH-learning-facts-about-their-own-government",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "learning facts about their own government",
+      "meaning_vi": "biết sự thật về chính phủ của mình",
+      "from": 495
+    },
+    {
+      "id": "PH-hides-problems-that-need-to-be-solved",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hides problems that need to be solved",
+      "meaning_vi": "che giấu vấn đề cần giải quyết",
+      "from": 495
+    },
+    {
+      "id": "PH-distrust-official-information",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "distrust official information",
+      "meaning_vi": "không tin thông tin chính thức",
+      "from": 495
+    },
+    {
+      "id": "PH-child-abuse-direct-incitement-to-violence",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "child abuse, direct incitement to violence",
+      "meaning_vi": "lạm dụng trẻ em, kích động bạo lực trực tiếp",
+      "from": 495
+    },
+    {
+      "id": "PH-severe-and-immediate",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "severe and immediate",
+      "meaning_vi": "nghiêm trọng và tức thì",
+      "from": 495
+    },
+    {
+      "id": "PH-decisions-should-be-made-by-courts-or-indepe",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "decisions should be made by courts or independent bodies",
+      "meaning_vi": "quyết định nên do toà hoặc cơ quan độc lập đưa ra",
+      "from": 495
+    },
+    {
+      "id": "PH-media-literacy",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "media literacy",
+      "meaning_vi": "kiến thức truyền thông",
+      "from": 495
+    },
+    {
+      "id": "PH-carefully-targeted-restrictions",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "carefully targeted restrictions",
+      "meaning_vi": "hạn chế được nhắm mục tiêu cẩn thận",
+      "from": 495
+    },
+    {
+      "id": "ID-gov-emergency-response",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "emergency",
+        "spending"
+      ],
+      "stance": "pro",
+      "label_vi": "Dịch vụ khẩn cấp cứu mạng ngay: cứu hoả, cứu thương, cảnh sát; sự cố vẫn xảy ra dù phòng ngừa tốt",
+      "claim": "Emergency services save lives at the moment when everything else has failed.",
+      "because": "Fire crews, ambulances and rescue teams reach people in danger within minutes, and some accidents and disasters happen however much prevention is in place.",
+      "result": "Cutting them would put lives at immediate risk.",
+      "example_ids": [
+        "EX-gov-ambulance-minutes"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề chi cho cứu hộ / khẩn cấp vs phòng ngừa."
+    },
+    {
+      "id": "ID-gov-prevention",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society",
+        "economy"
+      ],
+      "tags": [
+        "prevention",
+        "spending"
+      ],
+      "stance": "pro",
+      "label_vi": "Phòng ngừa rẻ và lâu dài hơn: giáo dục an toàn, quy chuẩn xây dựng, đê điều, y tế; ngăn thương vong từ đầu",
+      "claim": "Prevention stops harm before it happens and costs far less than repairing damage.",
+      "because": "Safety education, building standards, flood defences and health programmes reduce the number of emergencies in the first place, and the savings continue year after year.",
+      "result": "A balanced budget gives both immediate protection and long-term security.",
+      "example_ids": [
+        "EX-gov-flood-defence"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề phòng ngừa vs khẩn cấp."
+    },
+    {
+      "id": "ID-gov-disaster-prep",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society",
+        "economy"
+      ],
+      "tags": [
+        "disaster",
+        "preparedness"
+      ],
+      "stance": "pro",
+      "label_vi": "Chuẩn bị thiên tai: cứu mạng, giảm thiệt hại kinh tế, phục hồi nhanh, tăng niềm tin công chúng",
+      "claim": "Preparing for disasters saves lives and reduces economic damage.",
+      "because": "Early warning systems, evacuation plans, strict building codes and stored supplies mean that fewer people are hurt and communities recover faster.",
+      "result": "Every unit of money spent on preparation saves many times as much on repair.",
+      "example_ids": [
+        "EX-gov-quake-code"
+      ],
+      "fits": [
+        "Advantages / Disadvantages"
+      ],
+      "reuse_vi": "Đề chuẩn bị ứng phó thiên tai."
+    },
+    {
+      "id": "ID-gov-corruption-causes",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "corruption",
+        "cause"
+      ],
+      "stance": "cause",
+      "label_vi": "Nguyên nhân tham nhũng: lương thấp, quyền lực không kiểm soát, thiếu minh bạch, hình phạt yếu, văn hoá dung thứ",
+      "claim": "Corruption grows where power is unchecked and punishment is weak.",
+      "because": "Officials with low pay and wide discretion are tempted by bribes, secrecy hides wrongdoing, and a culture that tolerates favours makes it seem normal.",
+      "result": "Public money is wasted and trust in government falls.",
+      "example_ids": [
+        "EX-gov-licence-bribe"
+      ],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Đề nguyên nhân tham nhũng."
+    },
+    {
+      "id": "ID-gov-corruption-solutions",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "corruption",
+        "solution"
+      ],
+      "stance": "solution",
+      "label_vi": "Giải pháp: minh bạch, cơ quan chống tham nhũng độc lập, bảo vệ người tố giác, lương đủ sống, hình phạt chắc chắn, giáo dục",
+      "claim": "Transparency, independent oversight and certain punishment reduce corruption.",
+      "because": "Open contracts and audits expose abuse, independent agencies investigate without fear, fair salaries reduce temptation, and protected whistleblowers make reporting safe.",
+      "result": "Public money is spent on its purpose and trust recovers.",
+      "example_ids": [],
+      "fits": [
+        "Causes / Solutions"
+      ],
+      "reuse_vi": "Giải pháp chống tham nhũng."
+    },
+    {
+      "id": "ID-gov-protests",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "protest",
+        "democracy"
+      ],
+      "stance": "pro",
+      "label_vi": "Biểu tình là phần thiết yếu của dân chủ: tiếng nói ngoài bầu cử, gây áp lực, thay đổi lịch sử; nhưng gây gián đoạn, bạo lực, có kênh khác",
+      "claim": "Peaceful protest lets citizens speak between elections.",
+      "because": "Marches and demonstrations show politicians how strongly people feel, have helped to win rights such as votes for women and civil rights, and give a voice to groups that are ignored.",
+      "result": "Disruption or violence, however, can turn public opinion against a cause.",
+      "example_ids": [
+        "EX-gov-peaceful-march"
+      ],
+      "fits": [
+        "Discuss both views"
+      ],
+      "reuse_vi": "Đề biểu tình, dân chủ."
+    },
+    {
+      "id": "ID-gov-youth-activism",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society",
+        "education"
+      ],
+      "tags": [
+        "youth",
+        "activism"
+      ],
+      "stance": "pro",
+      "label_vi": "Hoạt động của thanh niên: năng lượng, ý tưởng mới, lợi ích dài hạn (khí hậu); nhưng thiếu kinh nghiệm, hoạt động hời hợt trên mạng",
+      "claim": "Young people bring energy, fresh ideas and a long-term stake to social change.",
+      "because": "They will live with the consequences of today's decisions on climate, housing and jobs, they are skilled at using social media, and they often challenge habits that older generations accept.",
+      "result": "Their impact grows when they work with institutions and sustain their efforts.",
+      "example_ids": [
+        "EX-gov-student-strike"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề hoạt động thanh niên."
+    },
+    {
+      "id": "ID-gov-migration",
+      "type": "idea",
+      "topics": [
+        "government",
+        "economy",
+        "society"
+      ],
+      "tags": [
+        "migration"
+      ],
+      "stance": "pro",
+      "label_vi": "Di cư có lợi cho nước nhận: lấp thiếu lao động, đóng thuế, kỹ năng, đa dạng, dân số già; thách thức: dịch vụ, hoà nhập, lương",
+      "claim": "Migrants fill gaps in the workforce and contribute to the economy.",
+      "because": "They work in hospitals, farms, construction and technology where employers cannot find enough staff, pay taxes, start businesses and help ageing countries to keep their workforce, although housing, schools and integration need planning.",
+      "result": "Benefits are greatest when newcomers are helped to learn the language and find suitable work.",
+      "example_ids": [
+        "EX-gov-nurse-migrant"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề di cư."
+    },
+    {
+      "id": "ID-gov-language-policy",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society",
+        "education"
+      ],
+      "tags": [
+        "language",
+        "unity"
+      ],
+      "stance": "caveat",
+      "label_vi": "Chính sách ngôn ngữ và thống nhất quốc gia: ngôn ngữ chung giúp giao tiếp, việc làm, giáo dục; ép buộc làm mất ngôn ngữ thiểu số, bực bội; chính sách đa ngôn ngữ",
+      "claim": "A shared language can unite a country, but forcing it can divide.",
+      "because": "A common language gives everyone access to education, jobs and public services, yet suppressing minority languages makes people feel that their identity is threatened.",
+      "result": "Policies that promote a national language while respecting others are more likely to build unity.",
+      "example_ids": [
+        "EX-gov-bilingual-signs"
+      ],
+      "fits": [
+        "Opinion"
+      ],
+      "reuse_vi": "Đề chính sách ngôn ngữ."
+    },
+    {
+      "id": "ID-gov-military-service",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "military",
+        "national-service"
+      ],
+      "stance": "caveat",
+      "label_vi": "Nghĩa vụ quân sự: kỷ luật, kỹ năng, hoà nhập xã hội, phòng thủ; nhưng mất học tập và nghề nghiệp, cưỡng ép, chi phí, quân đội chuyên nghiệp hơn",
+      "claim": "Compulsory service can teach discipline and bring citizens from different backgrounds together.",
+      "because": "Recruits learn teamwork, fitness and practical skills and meet people they would never otherwise meet, but they lose time for study and work, and many countries find professional forces more effective.",
+      "result": "The benefits depend on how well the programme is designed and whether alternatives are offered.",
+      "example_ids": [
+        "EX-gov-conscript-mix"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề nghĩa vụ quân sự / dân sự."
+    },
+    {
+      "id": "ID-gov-national-service",
+      "type": "idea",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "tags": [
+        "civic",
+        "service"
+      ],
+      "stance": "pro",
+      "label_vi": "Nghĩa vụ quốc gia (dân sự hoặc quân sự) tăng trách nhiệm công dân: phục vụ cộng đồng, hiểu xã hội, đóng góp; cần lựa chọn và ý nghĩa",
+      "claim": "National service can strengthen civic responsibility if it is meaningful.",
+      "because": "Young people who spend a year helping in hospitals, schools or emergency teams see the needs of their community, learn to cooperate and often keep volunteering afterwards.",
+      "result": "Pointless or forced tasks may create resentment instead.",
+      "example_ids": [
+        "EX-gov-year-service"
+      ],
+      "fits": [
+        "Agree / Disagree"
+      ],
+      "reuse_vi": "Đề nghĩa vụ quốc gia và trách nhiệm công dân."
+    },
+    {
+      "id": "EX-gov-ambulance-minutes",
+      "type": "example",
+      "topics": [
+        "government",
+        "health"
+      ],
+      "text": "A person who suffers a heart attack, for example, may survive only if an ambulance arrives within minutes.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-flood-defence",
+      "type": "example",
+      "topics": [
+        "government",
+        "environment"
+      ],
+      "text": "A town that builds flood walls and drains, for example, may avoid damage that would cost far more to repair after every storm.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-quake-code",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A country in an earthquake zone that enforces strict building codes, for example, loses far fewer lives than one that does not.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-licence-bribe",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "An official who is paid very little and controls permits, for example, may be tempted to ask for a bribe to approve an application.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-peaceful-march",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A peaceful march of thousands of people through the capital, for example, shows politicians that an issue cannot be ignored.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-student-strike",
+      "type": "example",
+      "topics": [
+        "government",
+        "environment"
+      ],
+      "text": "Students who leave lessons to demand action on climate change, for example, can put the issue on the front page of newspapers.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-nurse-migrant",
+      "type": "example",
+      "topics": [
+        "government",
+        "health"
+      ],
+      "text": "A hospital that depends on nurses from abroad, for example, would struggle to keep its wards open without them.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-bilingual-signs",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A region whose road signs and schools use both the national and the local language, for example, lets residents feel that their culture is respected.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-conscript-mix",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A recruit from a farming village sharing a barracks with a student from the capital, for example, learns about a very different way of life.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "EX-gov-year-service",
+      "type": "example",
+      "topics": [
+        "government",
+        "society"
+      ],
+      "text": "A school leaver who spends a year helping in a care home, for example, may continue to volunteer for years afterwards.",
+      "caution_vi": "Ví dụ giả định."
+    },
+    {
+      "id": "PH-move-to-other-countries-every-year",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "move to other countries every year",
+      "meaning_vi": "chuyển sang nước khác mỗi năm",
+      "from": 67
+    },
+    {
+      "id": "PH-work-study-or-escape-danger",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "work, study or escape danger",
+      "meaning_vi": "làm việc, học tập hoặc tránh nguy hiểm",
+      "from": 67
+    },
+    {
+      "id": "PH-migration-benefits-the-host-country",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "migration benefits the host country",
+      "meaning_vi": "di cư có lợi cho nước nhận",
+      "from": 67
+    },
+    {
+      "id": "PH-fill-gaps-in-the-workforce",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fill gaps in the workforce",
+      "meaning_vi": "lấp chỗ trống trong lực lượng lao động",
+      "from": 67
+    },
+    {
+      "id": "PH-hospitals-farms-construction-and-technology",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hospitals, farms, construction and technology",
+      "meaning_vi": "bệnh viện, nông trại, xây dựng và công nghệ",
+      "from": 67
+    },
+    {
+      "id": "PH-cannot-find-enough-staff",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot find enough staff",
+      "meaning_vi": "không tìm đủ nhân viên",
+      "from": 67
+    },
+    {
+      "id": "PH-pay-taxes-start-businesses",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pay taxes, start businesses",
+      "meaning_vi": "đóng thuế, lập doanh nghiệp",
+      "from": 67
+    },
+    {
+      "id": "PH-keep-their-workforce",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep their workforce",
+      "meaning_vi": "giữ lực lượng lao động",
+      "from": 67
+    },
+    {
+      "id": "PH-nurses-from-abroad",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "nurses from abroad",
+      "meaning_vi": "y tá từ nước ngoài",
+      "from": 67
+    },
+    {
+      "id": "PH-keep-its-wards-open",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep its wards open",
+      "meaning_vi": "giữ các khoa hoạt động",
+      "from": 67
+    },
+    {
+      "id": "PH-unwilling-or-unable-to-do",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "unwilling or unable to do",
+      "meaning_vi": "không muốn hoặc không thể làm",
+      "from": 67
+    },
+    {
+      "id": "PH-links-with-other-countries",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "links with other countries",
+      "meaning_vi": "mối liên hệ với các nước khác",
+      "from": 67
+    },
+    {
+      "id": "PH-enriches-society",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "enriches society",
+      "meaning_vi": "làm giàu xã hội",
+      "from": 67
+    },
+    {
+      "id": "PH-diversity-and-creativity",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "diversity and creativity",
+      "meaning_vi": "đa dạng và sáng tạo",
+      "from": 67
+    },
+    {
+      "id": "PH-come-under-pressure",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "come under pressure",
+      "meaning_vi": "chịu áp lực",
+      "from": 67
+    },
+    {
+      "id": "PH-wages-for-some-low-paid-local-workers",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "wages for some low-paid local workers",
+      "meaning_vi": "lương của một số lao động địa phương thấp",
+      "from": 67
+    },
+    {
+      "id": "PH-recognise-foreign-qualifications",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "recognise foreign qualifications",
+      "meaning_vi": "công nhận bằng cấp nước ngoài",
+      "from": 67
+    },
+    {
+      "id": "PH-proper-support-for-integration",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "proper support for integration",
+      "meaning_vi": "hỗ trợ hoà nhập đúng mức",
+      "from": 67
+    },
+    {
+      "id": "PH-emergency-services",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "emergency services",
+      "meaning_vi": "dịch vụ khẩn cấp",
+      "from": 231
+    },
+    {
+      "id": "PH-prevention-programmes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "prevention programmes",
+      "meaning_vi": "chương trình phòng ngừa",
+      "from": 231
+    },
+    {
+      "id": "PH-supporters-of-emergency-services",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "supporters of emergency services",
+      "meaning_vi": "người ủng hộ dịch vụ khẩn cấp",
+      "from": 231
+    },
+    {
+      "id": "PH-save-lives-at-the-moment-when-everything-els",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "save lives at the moment when everything else has failed",
+      "meaning_vi": "cứu mạng vào lúc mọi thứ khác đã thất bại",
+      "from": 231
+    },
+    {
+      "id": "PH-fire-crews-ambulances-and-rescue-teams",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Fire crews, ambulances and rescue teams",
+      "meaning_vi": "đội cứu hoả, xe cứu thương và đội cứu hộ",
+      "from": 231
+    },
+    {
+      "id": "PH-reach-people-in-danger-within-minutes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reach people in danger within minutes",
+      "meaning_vi": "đến với người gặp nguy trong vài phút",
+      "from": 231
+    },
+    {
+      "id": "PH-however-much-prevention-is-in-place",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "however much prevention is in place",
+      "meaning_vi": "dù có phòng ngừa đến đâu",
+      "from": 231
+    },
+    {
+      "id": "PH-suffers-a-heart-attack",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "suffers a heart attack",
+      "meaning_vi": "bị đau tim",
+      "from": 231
+    },
+    {
+      "id": "PH-put-lives-at-immediate-risk",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "put lives at immediate risk",
+      "meaning_vi": "đặt tính mạng vào rủi ro tức thì",
+      "from": 231
+    },
+    {
+      "id": "PH-respond-whenever-help-is-needed",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respond whenever help is needed",
+      "meaning_vi": "ứng phó bất cứ khi nào cần giúp đỡ",
+      "from": 231
+    },
+    {
+      "id": "PH-provide-reassurance",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "provide reassurance",
+      "meaning_vi": "mang lại sự yên tâm",
+      "from": 231
+    },
+    {
+      "id": "PH-sudden-illness",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "sudden illness",
+      "meaning_vi": "bệnh đột ngột",
+      "from": 231
+    },
+    {
+      "id": "PH-stops-harm-before-it-happens",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stops harm before it happens",
+      "meaning_vi": "ngăn tác hại trước khi xảy ra",
+      "from": 231
+    },
+    {
+      "id": "PH-costs-far-less-than-repairing-damage",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "costs far less than repairing damage",
+      "meaning_vi": "tốn ít hơn nhiều so với sửa chữa thiệt hại",
+      "from": 231
+    },
+    {
+      "id": "PH-safety-education-building-standards",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Safety education, building standards",
+      "meaning_vi": "giáo dục an toàn, tiêu chuẩn xây dựng",
+      "from": 231
+    },
+    {
+      "id": "PH-health-screening",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "health screening",
+      "meaning_vi": "sàng lọc sức khoẻ",
+      "from": 231
+    },
+    {
+      "id": "PH-the-savings-continue-year-after-year",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the savings continue year after year",
+      "meaning_vi": "khoản tiết kiệm tiếp diễn hằng năm",
+      "from": 231
+    },
+    {
+      "id": "PH-flood-walls-and-drains",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "flood walls and drains",
+      "meaning_vi": "tường chắn lũ và cống thoát nước",
+      "from": 231
+    },
+    {
+      "id": "PH-injuries-bereavement-and-lost-homes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "injuries, bereavement and lost homes",
+      "meaning_vi": "thương tích, mất người thân và mất nhà",
+      "from": 231
+    },
+    {
+      "id": "PH-corruption-by-officials",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Corruption by officials",
+      "meaning_vi": "tham nhũng của quan chức",
+      "from": 331
+    },
+    {
+      "id": "PH-small-bribes-to-large-scale-theft-of-public",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "small bribes to large-scale theft of public money",
+      "meaning_vi": "từ hối lộ nhỏ đến trộm cắp tiền công quy mô lớn",
+      "from": 331
+    },
+    {
+      "id": "PH-corruption-in-public-office",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "corruption in public office",
+      "meaning_vi": "tham nhũng trong cơ quan công quyền",
+      "from": 331
+    },
+    {
+      "id": "PH-unchecked-and-punishment-is-weak",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "unchecked and punishment is weak",
+      "meaning_vi": "không được kiểm soát và hình phạt yếu",
+      "from": 331
+    },
+    {
+      "id": "PH-low-pay-and-wide-discretion",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "low pay and wide discretion",
+      "meaning_vi": "lương thấp và quyền tự quyết rộng",
+      "from": 331
+    },
+    {
+      "id": "PH-tempted-by-bribes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tempted by bribes",
+      "meaning_vi": "bị cám dỗ bởi hối lộ",
+      "from": 331
+    },
+    {
+      "id": "PH-secrecy-hides-wrongdoing",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "secrecy hides wrongdoing",
+      "meaning_vi": "bí mật che giấu sai phạm",
+      "from": 331
+    },
+    {
+      "id": "PH-tolerates-favours",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "tolerates favours",
+      "meaning_vi": "dung thứ việc nhờ vả",
+      "from": 331
+    },
+    {
+      "id": "PH-controls-permits",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "controls permits",
+      "meaning_vi": "kiểm soát giấy phép",
+      "from": 331
+    },
+    {
+      "id": "PH-approve-an-application",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "approve an application",
+      "meaning_vi": "phê duyệt một đơn",
+      "from": 331
+    },
+    {
+      "id": "PH-weak-courts",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "weak courts",
+      "meaning_vi": "toà án yếu kém",
+      "from": 331
+    },
+    {
+      "id": "PH-anti-corruption-agencies",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "anti-corruption agencies",
+      "meaning_vi": "cơ quan chống tham nhũng",
+      "from": 331
+    },
+    {
+      "id": "PH-rarely-face-punishment",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rarely face punishment",
+      "meaning_vi": "hiếm khi bị trừng phạt",
+      "from": 331
+    },
+    {
+      "id": "PH-self-reinforcing",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "self-reinforcing",
+      "meaning_vi": "tự củng cố",
+      "from": 331
+    },
+    {
+      "id": "PH-trust-in-government-falls",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "trust in government falls",
+      "meaning_vi": "niềm tin vào chính phủ giảm",
+      "from": 331
+    },
+    {
+      "id": "PH-open-contracts-and-published-budgets-expose",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Open contracts and published budgets expose abuse",
+      "meaning_vi": "hợp đồng công khai và ngân sách công bố phơi bày lạm dụng",
+      "from": 331
+    },
+    {
+      "id": "PH-face-to-face-contact",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "face-to-face contact",
+      "meaning_vi": "tiếp xúc trực tiếp",
+      "from": 331
+    },
+    {
+      "id": "PH-escape-punishment",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "escape punishment",
+      "meaning_vi": "thoát khỏi hình phạt",
+      "from": 331
+    },
+    {
+      "id": "PH-a-culture-that-rejects-corruption",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a culture that rejects corruption",
+      "meaning_vi": "văn hoá bác bỏ tham nhũng",
+      "from": 331
+    },
+    {
+      "id": "PH-marches-strikes-and-sit-ins",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Marches, strikes and sit-ins",
+      "meaning_vi": "diễu hành, đình công và ngồi biểu tình",
+      "from": 347
+    },
+    {
+      "id": "PH-public-protests",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "public protests",
+      "meaning_vi": "biểu tình công khai",
+      "from": 347
+    },
+    {
+      "id": "PH-a-vital-part-of-democracy",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a vital part of democracy",
+      "meaning_vi": "phần thiết yếu của dân chủ",
+      "from": 347
+    },
+    {
+      "id": "PH-peaceful-protest",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "peaceful protest",
+      "meaning_vi": "biểu tình hoà bình",
+      "from": 347
+    },
+    {
+      "id": "PH-speak-between-elections",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "speak between elections",
+      "meaning_vi": "lên tiếng giữa các kỳ bầu cử",
+      "from": 347
+    },
+    {
+      "id": "PH-show-politicians-how-strongly-people-feel",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "show politicians how strongly people feel",
+      "meaning_vi": "cho chính trị gia thấy người dân cảm nhận mạnh thế nào",
+      "from": 347
+    },
+    {
+      "id": "PH-votes-for-women-and-civil-rights",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "votes for women and civil rights",
+      "meaning_vi": "quyền bầu cử cho phụ nữ và dân quyền",
+      "from": 347
+    },
+    {
+      "id": "PH-give-a-voice-to-groups-that-are-ignored",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give a voice to groups that are ignored",
+      "meaning_vi": "cho tiếng nói những nhóm bị phớt lờ",
+      "from": 347
+    },
+    {
+      "id": "PH-cannot-be-ignored",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot be ignored",
+      "meaning_vi": "không thể bị phớt lờ",
+      "from": 347
+    },
+    {
+      "id": "PH-power-belongs-to-the-people",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "power belongs to the people",
+      "meaning_vi": "quyền lực thuộc về người dân",
+      "from": 347
+    },
+    {
+      "id": "PH-the-freedom-to-gather",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the freedom to gather",
+      "meaning_vi": "tự do tụ tập",
+      "from": 347
+    },
+    {
+      "id": "PH-less-accountable",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "less accountable",
+      "meaning_vi": "ít chịu trách nhiệm hơn",
+      "from": 347
+    },
+    {
+      "id": "PH-authoritarian-regimes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "authoritarian regimes",
+      "meaning_vi": "các chế độ độc tài",
+      "from": 347
+    },
+    {
+      "id": "PH-cause-disruption-and-sometimes-violence",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cause disruption and sometimes violence",
+      "meaning_vi": "gây gián đoạn và đôi khi bạo lực",
+      "from": 347
+    },
+    {
+      "id": "PH-blocked",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "blocked",
+      "meaning_vi": "bị chặn",
+      "from": 347
+    },
+    {
+      "id": "PH-turn-public-opinion-against-a-cause",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "turn public opinion against a cause",
+      "meaning_vi": "làm dư luận quay lưng với một sự nghiệp",
+      "from": 347
+    },
+    {
+      "id": "PH-other-channels",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "other channels",
+      "meaning_vi": "các kênh khác",
+      "from": 347
+    },
+    {
+      "id": "PH-petitions-courts-and-elected-representatives",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "petitions, courts and elected representatives",
+      "meaning_vi": "kiến nghị, toà án và đại biểu dân cử",
+      "from": 347
+    },
+    {
+      "id": "PH-pressure-of-crowds",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pressure of crowds",
+      "meaning_vi": "áp lực của đám đông",
+      "from": 347
+    },
+    {
+      "id": "PH-lawful-and-respects-the-rights-of-others",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lawful and respects the rights of others",
+      "meaning_vi": "hợp pháp và tôn trọng quyền của người khác",
+      "from": 347
+    },
+    {
+      "id": "PH-floods-earthquakes-and-storms",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Floods, earthquakes and storms",
+      "meaning_vi": "lũ lụt, động đất và bão",
+      "from": 353
+    },
+    {
+      "id": "PH-emergency-response-after-a-disaster",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "emergency response after a disaster",
+      "meaning_vi": "ứng phó khẩn cấp sau thiên tai",
+      "from": 353
+    },
+    {
+      "id": "PH-long-term-prevention",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "long-term prevention",
+      "meaning_vi": "phòng ngừa dài hạn",
+      "from": 353
+    },
+    {
+      "id": "PH-rescue-and-relief",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rescue and relief",
+      "meaning_vi": "cứu hộ và cứu trợ",
+      "from": 353
+    },
+    {
+      "id": "PH-the-moment-of-greatest-need",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "the moment of greatest need",
+      "meaning_vi": "thời điểm cần nhất",
+      "from": 353
+    },
+    {
+      "id": "PH-search-teams-field-hospitals-food-and-shelte",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Search teams, field hospitals, food and shelter",
+      "meaning_vi": "đội tìm kiếm, bệnh viện dã chiến, thức ăn và nơi trú",
+      "from": 353
+    },
+    {
+      "id": "PH-ready-within-hours",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "ready within hours",
+      "meaning_vi": "sẵn sàng trong vài giờ",
+      "from": 353
+    },
+    {
+      "id": "PH-an-immediate-and-visible-response",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "an immediate and visible response",
+      "meaning_vi": "phản ứng tức thì và thấy được",
+      "from": 353
+    },
+    {
+      "id": "PH-trapped-by-floodwater",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "trapped by floodwater",
+      "meaning_vi": "kẹt trong nước lũ",
+      "from": 353
+    },
+    {
+      "id": "PH-boats-and-helicopters",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "boats and helicopters",
+      "meaning_vi": "thuyền và trực thăng",
+      "from": 353
+    },
+    {
+      "id": "PH-protects-order",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "protects order",
+      "meaning_vi": "bảo vệ trật tự",
+      "from": 353
+    },
+    {
+      "id": "PH-cannot-be-predicted",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "cannot be predicted",
+      "meaning_vi": "không thể dự báo",
+      "from": 353
+    },
+    {
+      "id": "PH-response-capacity",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "response capacity",
+      "meaning_vi": "năng lực ứng phó",
+      "from": 353
+    },
+    {
+      "id": "PH-preparing-in-advance",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "preparing in advance",
+      "meaning_vi": "chuẩn bị trước",
+      "from": 353
+    },
+    {
+      "id": "PH-flood-defences-strict-building-standards",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Flood defences, strict building standards",
+      "meaning_vi": "đê chống lũ, tiêu chuẩn xây dựng nghiêm ngặt",
+      "from": 353
+    },
+    {
+      "id": "PH-better-land-planning",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "better land planning",
+      "meaning_vi": "quy hoạch đất tốt hơn",
+      "from": 353
+    },
+    {
+      "id": "PH-more-frequent",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "more frequent",
+      "meaning_vi": "thường xuyên hơn",
+      "from": 353
+    },
+    {
+      "id": "PH-investment-in-resilience",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "investment in resilience",
+      "meaning_vi": "đầu tư vào khả năng chống chịu",
+      "from": 353
+    },
+    {
+      "id": "PH-homes-jobs-and-public-services",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "homes, jobs and public services",
+      "meaning_vi": "nhà cửa, việc làm và dịch vụ công",
+      "from": 353
+    },
+    {
+      "id": "PH-home-to-several-languages",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "home to several languages",
+      "meaning_vi": "có nhiều ngôn ngữ",
+      "from": 378
+    },
+    {
+      "id": "PH-language-policy",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "language policy",
+      "meaning_vi": "chính sách ngôn ngữ",
+      "from": 378
+    },
+    {
+      "id": "PH-national-unity",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "national unity",
+      "meaning_vi": "sự thống nhất quốc gia",
+      "from": 378
+    },
+    {
+      "id": "PH-schools-courts-and-official-documents",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "schools, courts and official documents",
+      "meaning_vi": "trường học, toà án và văn bản chính thức",
+      "from": 378
+    },
+    {
+      "id": "PH-helping-people-to-communicate-and-share-oppo",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "helping people to communicate and share opportunities",
+      "meaning_vi": "giúp mọi người giao tiếp và chia sẻ cơ hội",
+      "from": 378
+    },
+    {
+      "id": "PH-a-shared-language-can-unite-a-country",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a shared language can unite a country",
+      "meaning_vi": "ngôn ngữ chung có thể đoàn kết một đất nước",
+      "from": 378
+    },
+    {
+      "id": "PH-forcing-it-can-divide",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "forcing it can divide",
+      "meaning_vi": "ép buộc nó có thể chia rẽ",
+      "from": 378
+    },
+    {
+      "id": "PH-access-to-education-jobs-and-public-services",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "access to education, jobs and public services",
+      "meaning_vi": "tiếp cận giáo dục, việc làm và dịch vụ công",
+      "from": 378
+    },
+    {
+      "id": "PH-understand-one-another",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "understand one another",
+      "meaning_vi": "hiểu nhau",
+      "from": 378
+    },
+    {
+      "id": "PH-take-part-in-national-debates",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take part in national debates",
+      "meaning_vi": "tham gia tranh luận quốc gia",
+      "from": 378
+    },
+    {
+      "id": "PH-separate-communities-that-know-little-about",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "separate communities that know little about each other",
+      "meaning_vi": "những cộng đồng riêng biệt ít hiểu nhau",
+      "from": 378
+    },
+    {
+      "id": "PH-a-remote-village",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a remote village",
+      "meaning_vi": "một ngôi làng xa xôi",
+      "from": 378
+    },
+    {
+      "id": "PH-a-symbol-of-belonging",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a symbol of belonging",
+      "meaning_vi": "biểu tượng của sự thuộc về",
+      "from": 378
+    },
+    {
+      "id": "PH-suppressing-minority-languages",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Suppressing minority languages",
+      "meaning_vi": "dập tắt ngôn ngữ thiểu số",
+      "from": 378
+    },
+    {
+      "id": "PH-identity-is-threatened",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "identity is threatened",
+      "meaning_vi": "bản sắc bị đe doạ",
+      "from": 378
+    },
+    {
+      "id": "PH-resentment-and-even-separatist-movements",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "resentment and even separatist movements",
+      "meaning_vi": "sự bực bội và thậm chí các phong trào ly khai",
+      "from": 378
+    },
+    {
+      "id": "PH-road-signs-and-schools-use-both",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "road signs and schools use both",
+      "meaning_vi": "biển báo và trường học dùng cả hai",
+      "from": 378
+    },
+    {
+      "id": "PH-respects-diversity",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "respects diversity",
+      "meaning_vi": "tôn trọng sự đa dạng",
+      "from": 378
+    },
+    {
+      "id": "PH-teachers-translators-and-materials",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "teachers, translators and materials",
+      "meaning_vi": "giáo viên, phiên dịch và tài liệu",
+      "from": 378
+    },
+    {
+      "id": "PH-spend-a-year-or-more-in-the-armed-forces",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "spend a year or more in the armed forces",
+      "meaning_vi": "phục vụ trong lực lượng vũ trang một năm trở lên",
+      "from": 397
+    },
+    {
+      "id": "PH-compulsory-military-service",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "compulsory military service",
+      "meaning_vi": "nghĩa vụ quân sự bắt buộc",
+      "from": 397
+    },
+    {
+      "id": "PH-benefits-society",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "benefits society",
+      "meaning_vi": "có lợi cho xã hội",
+      "from": 397
+    },
+    {
+      "id": "PH-teach-discipline",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "teach discipline",
+      "meaning_vi": "dạy kỷ luật",
+      "from": 397
+    },
+    {
+      "id": "PH-bring-citizens-from-different-backgrounds-to",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bring citizens from different backgrounds together",
+      "meaning_vi": "đưa công dân từ các xuất thân khác nhau lại gần nhau",
+      "from": 397
+    },
+    {
+      "id": "PH-teamwork-fitness-and-practical-skills",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "teamwork, fitness and practical skills",
+      "meaning_vi": "làm việc nhóm, thể lực và kỹ năng thực tế",
+      "from": 397
+    },
+    {
+      "id": "PH-meet-people-they-would-never-otherwise-meet",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "meet people they would never otherwise meet",
+      "meaning_vi": "gặp những người họ sẽ không bao giờ gặp",
+      "from": 397
+    },
+    {
+      "id": "PH-a-farming-village",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a farming village",
+      "meaning_vi": "một làng nông nghiệp",
+      "from": 397
+    },
+    {
+      "id": "PH-a-very-different-way-of-life",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a very different way of life",
+      "meaning_vi": "lối sống rất khác",
+      "from": 397
+    },
+    {
+      "id": "PH-strengthen-national-feeling",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "strengthen national feeling",
+      "meaning_vi": "củng cố tinh thần quốc gia",
+      "from": 397
+    },
+    {
+      "id": "PH-drifting",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "drifting",
+      "meaning_vi": "lạc hướng",
+      "from": 397
+    },
+    {
+      "id": "PH-a-sense-of-direction",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a sense of direction",
+      "meaning_vi": "cảm giác có định hướng",
+      "from": 397
+    },
+    {
+      "id": "PH-real-military-threats",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "real military threats",
+      "meaning_vi": "mối đe doạ quân sự thực sự",
+      "from": 397
+    },
+    {
+      "id": "PH-a-large-trained-reserve",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a large trained reserve",
+      "meaning_vi": "lực lượng dự bị lớn được huấn luyện",
+      "from": 397
+    },
+    {
+      "id": "PH-lose-time-for-study-and-work",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "lose time for study and work",
+      "meaning_vi": "mất thời gian học tập và làm việc",
+      "from": 397
+    },
+    {
+      "id": "PH-reduce-morale",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reduce morale",
+      "meaning_vi": "giảm tinh thần",
+      "from": 397
+    },
+    {
+      "id": "PH-smaller-professional-armies",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "smaller professional armies",
+      "meaning_vi": "quân đội chuyên nghiệp nhỏ hơn",
+      "from": 397
+    },
+    {
+      "id": "PH-object-on-grounds-of-conscience",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "object on grounds of conscience",
+      "meaning_vi": "phản đối vì lương tâm",
+      "from": 397
+    },
+    {
+      "id": "PH-volunteering-in-hospitals-or-environmental-p",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "volunteering in hospitals or environmental projects",
+      "meaning_vi": "làm tình nguyện ở bệnh viện hoặc dự án môi trường",
+      "from": 397
+    },
+    {
+      "id": "PH-climate-strikes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "climate strikes",
+      "meaning_vi": "đình công vì khí hậu",
+      "from": 416
+    },
+    {
+      "id": "PH-youth-activism",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "youth activism",
+      "meaning_vi": "hoạt động của thanh niên",
+      "from": 416
+    },
+    {
+      "id": "PH-important-for-social-change",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "important for social change",
+      "meaning_vi": "quan trọng cho thay đổi xã hội",
+      "from": 416
+    },
+    {
+      "id": "PH-bring-energy-fresh-ideas-and-a-long-term-sta",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bring energy, fresh ideas and a long-term stake",
+      "meaning_vi": "mang năng lượng, ý tưởng mới và lợi ích dài hạn",
+      "from": 416
+    },
+    {
+      "id": "PH-live-with-the-consequences",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "live with the consequences",
+      "meaning_vi": "sống với hậu quả",
+      "from": 416
+    },
+    {
+      "id": "PH-climate-housing-and-jobs",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "climate, housing and jobs",
+      "meaning_vi": "khí hậu, nhà ở và việc làm",
+      "from": 416
+    },
+    {
+      "id": "PH-skilled-at-using-social-media",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "skilled at using social media",
+      "meaning_vi": "giỏi dùng mạng xã hội",
+      "from": 416
+    },
+    {
+      "id": "PH-challenge-habits-that-older-generations-acce",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "challenge habits that older generations accept",
+      "meaning_vi": "thách thức thói quen mà thế hệ lớn tuổi chấp nhận",
+      "from": 416
+    },
+    {
+      "id": "PH-leave-lessons-to-demand-action",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "leave lessons to demand action",
+      "meaning_vi": "bỏ lớp để đòi hành động",
+      "from": 416
+    },
+    {
+      "id": "PH-front-page-of-newspapers",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "front page of newspapers",
+      "meaning_vi": "trang nhất của báo",
+      "from": 416
+    },
+    {
+      "id": "PH-force-politicians-to-respond",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "force politicians to respond",
+      "meaning_vi": "buộc chính trị gia phải đáp lại",
+      "from": 416
+    },
+    {
+      "id": "PH-less-tied-to-existing-institutions",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "less tied to existing institutions",
+      "meaning_vi": "ít bị ràng buộc với thể chế hiện có",
+      "from": 416
+    },
+    {
+      "id": "PH-bold-solutions",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "bold solutions",
+      "meaning_vi": "giải pháp táo bạo",
+      "from": 416
+    },
+    {
+      "id": "PH-civic-skills-that-last-a-lifetime",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "civic skills that last a lifetime",
+      "meaning_vi": "kỹ năng công dân kéo dài suốt đời",
+      "from": 416
+    },
+    {
+      "id": "PH-organising-debating-and-cooperating",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "organising, debating and cooperating",
+      "meaning_vi": "tổ chức, tranh luận và hợp tác",
+      "from": 416
+    },
+    {
+      "id": "PH-community-leaders-or-politicians",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "community leaders or politicians",
+      "meaning_vi": "lãnh đạo cộng đồng hoặc chính trị gia",
+      "from": 416
+    },
+    {
+      "id": "PH-likes-and-shares-that-do-not-lead-to-action",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "likes and shares that do not lead to action",
+      "meaning_vi": "lượt thích và chia sẻ không dẫn đến hành động",
+      "from": 416
+    },
+    {
+      "id": "PH-fade-when-attention-moves-on",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "fade when attention moves on",
+      "meaning_vi": "phai nhạt khi sự chú ý chuyển hướng",
+      "from": 416
+    },
+    {
+      "id": "PH-clear-demands",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "clear demands",
+      "meaning_vi": "yêu sách rõ ràng",
+      "from": 416
+    },
+    {
+      "id": "PH-youth-councils-and-consultations",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "youth councils and consultations",
+      "meaning_vi": "hội đồng thanh niên và tham vấn",
+      "from": 416
+    },
+    {
+      "id": "PH-earthquakes-floods-storms-and-epidemics",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Earthquakes, floods, storms and epidemics",
+      "meaning_vi": "động đất, lũ, bão và dịch bệnh",
+      "from": 439
+    },
+    {
+      "id": "PH-disaster-preparedness",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "disaster preparedness",
+      "meaning_vi": "sự chuẩn bị ứng phó thiên tai",
+      "from": 439
+    },
+    {
+      "id": "PH-protection-of-lives-and-health",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "protection of lives and health",
+      "meaning_vi": "bảo vệ tính mạng và sức khoẻ",
+      "from": 439
+    },
+    {
+      "id": "PH-reduced-economic-damage-and-faster-recovery",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reduced economic damage and faster recovery",
+      "meaning_vi": "thiệt hại kinh tế thấp hơn và phục hồi nhanh hơn",
+      "from": 439
+    },
+    {
+      "id": "PH-saves-lives-and-reduces-injuries",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "saves lives and reduces injuries",
+      "meaning_vi": "cứu mạng người và giảm thương tích",
+      "from": 439
+    },
+    {
+      "id": "PH-early-warning-systems-evacuation-plans",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Early warning systems, evacuation plans",
+      "meaning_vi": "hệ thống cảnh báo sớm, kế hoạch sơ tán",
+      "from": 439
+    },
+    {
+      "id": "PH-strict-building-codes",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "strict building codes",
+      "meaning_vi": "quy chuẩn xây dựng nghiêm ngặt",
+      "from": 439
+    },
+    {
+      "id": "PH-stored-supplies",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "stored supplies",
+      "meaning_vi": "vật tư dự trữ",
+      "from": 439
+    },
+    {
+      "id": "PH-communities-recover-faster",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "communities recover faster",
+      "meaning_vi": "cộng đồng phục hồi nhanh hơn",
+      "from": 439
+    },
+    {
+      "id": "PH-an-earthquake-zone",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "an earthquake zone",
+      "meaning_vi": "vùng động đất",
+      "from": 439
+    },
+    {
+      "id": "PH-remain-standing",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "remain standing",
+      "meaning_vi": "vẫn đứng vững",
+      "from": 439
+    },
+    {
+      "id": "PH-regular-drills",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Regular drills",
+      "meaning_vi": "các buổi diễn tập thường xuyên",
+      "from": 439
+    },
+    {
+      "id": "PH-prevents-panic",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "prevents panic",
+      "meaning_vi": "ngăn hoảng loạn",
+      "from": 439
+    },
+    {
+      "id": "PH-hospitals-are-not-overwhelmed",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "hospitals are not overwhelmed",
+      "meaning_vi": "bệnh viện không bị quá tải",
+      "from": 439
+    },
+    {
+      "id": "PH-rescue-teams-trained-in-advance",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rescue teams trained in advance",
+      "meaning_vi": "đội cứu hộ được đào tạo trước",
+      "from": 439
+    },
+    {
+      "id": "PH-most-vulnerable-members",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "most vulnerable members",
+      "meaning_vi": "những thành viên dễ tổn thương nhất",
+      "from": 439
+    },
+    {
+      "id": "PH-save-many-times-as-much-on-repair",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "save many times as much on repair",
+      "meaning_vi": "tiết kiệm nhiều lần chi phí sửa chữa",
+      "from": 439
+    },
+    {
+      "id": "PH-reopen-sooner",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "reopen sooner",
+      "meaning_vi": "mở cửa lại sớm hơn",
+      "from": 439
+    },
+    {
+      "id": "PH-insurance-schemes-and-emergency-funds",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Insurance schemes and emergency funds",
+      "meaning_vi": "chương trình bảo hiểm và quỹ khẩn cấp",
+      "from": 439
+    },
+    {
+      "id": "PH-pushed-into-poverty",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "pushed into poverty",
+      "meaning_vi": "bị đẩy vào nghèo đói",
+      "from": 439
+    },
+    {
+      "id": "PH-national-service",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "national service",
+      "meaning_vi": "nghĩa vụ quốc gia",
+      "from": 457
+    },
+    {
+      "id": "PH-give-a-year-of-their-time",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "give a year of their time",
+      "meaning_vi": "dành một năm thời gian của họ",
+      "from": 457
+    },
+    {
+      "id": "PH-civic-responsibility",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "civic responsibility",
+      "meaning_vi": "trách nhiệm công dân",
+      "from": 457
+    },
+    {
+      "id": "PH-serve-others",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "serve others",
+      "meaning_vi": "phục vụ người khác",
+      "from": 457
+    },
+    {
+      "id": "PH-only-if-the-service-is-meaningful",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "only if the service is meaningful",
+      "meaning_vi": "chỉ khi việc phục vụ có ý nghĩa",
+      "from": 457
+    },
+    {
+      "id": "PH-helping-in-hospitals-schools-or-emergency-te",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "helping in hospitals, schools or emergency teams",
+      "meaning_vi": "giúp ở bệnh viện, trường học hoặc đội khẩn cấp",
+      "from": 457
+    },
+    {
+      "id": "PH-see-the-needs-of-their-community",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "see the needs of their community",
+      "meaning_vi": "thấy nhu cầu của cộng đồng",
+      "from": 457
+    },
+    {
+      "id": "PH-keep-volunteering-afterwards",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "keep volunteering afterwards",
+      "meaning_vi": "tiếp tục làm tình nguyện sau đó",
+      "from": 457
+    },
+    {
+      "id": "PH-a-school-leaver",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a school leaver",
+      "meaning_vi": "người vừa rời trường",
+      "from": 457
+    },
+    {
+      "id": "PH-a-care-home",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "a care home",
+      "meaning_vi": "nhà dưỡng lão",
+      "from": 457
+    },
+    {
+      "id": "PH-understand-ageing-and-illness",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "understand ageing and illness",
+      "meaning_vi": "hiểu về tuổi già và bệnh tật",
+      "from": 457
+    },
+    {
+      "id": "PH-from-different-backgrounds",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "from different backgrounds",
+      "meaning_vi": "từ các xuất thân khác nhau",
+      "from": 457
+    },
+    {
+      "id": "PH-citizens-depend-on-one-another",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "citizens depend on one another",
+      "meaning_vi": "công dân phụ thuộc vào nhau",
+      "from": 457
+    },
+    {
+      "id": "PH-rights-come-with-responsibilities",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "rights come with responsibilities",
+      "meaning_vi": "quyền đi kèm trách nhiệm",
+      "from": 457
+    },
+    {
+      "id": "PH-teamwork-leadership-and-problem-solving",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "teamwork, leadership and problem-solving",
+      "meaning_vi": "làm việc nhóm, lãnh đạo và giải quyết vấn đề",
+      "from": 457
+    },
+    {
+      "id": "PH-feel-more-connected-to-their-country",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "feel more connected to their country",
+      "meaning_vi": "cảm thấy gắn bó hơn với đất nước",
+      "from": 457
+    },
+    {
+      "id": "PH-take-part-in-public-life",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "take part in public life",
+      "meaning_vi": "tham gia đời sống công cộng",
+      "from": 457
+    },
+    {
+      "id": "PH-pointless-or-forced-tasks",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "Pointless or forced tasks",
+      "meaning_vi": "nhiệm vụ vô nghĩa hoặc bị ép buộc",
+      "from": 457
+    },
+    {
+      "id": "PH-real-choices",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "real choices",
+      "meaning_vi": "lựa chọn thực sự",
+      "from": 457
+    },
+    {
+      "id": "PH-evaluated",
+      "type": "phrase",
+      "topics": [
+        "government",
+        "general"
+      ],
+      "role": "collocation",
+      "text": "evaluated",
+      "meaning_vi": "được đánh giá",
+      "from": 457
     }
   ]
 }

@@ -1,0 +1,130 @@
+{
+  "questionId": 63,
+  "text": "Not long ago, a handful of newspapers and television channels decided which opinions reached the public, but today anyone with a phone can publish a message to the world. This essay will explain two key ways in which the internet promotes free speech: by giving ordinary people a platform and by making it easier to share information and organise.\n\nFirst and foremost, the internet gives ordinary people a platform that no one controls. Anyone with a connection can publish opinions, share news and organise with others without needing a newspaper or broadcaster, which helps those whose views are ignored or suppressed. A blogger who posts photographs of illegal logging, for example, can reach thousands of people even if the local newspaper stays silent. In countries where the press is restricted, citizens use social media and messaging apps to report events and debate openly, and minority groups can find audiences that traditional media would not give them. Voices from remote regions can be heard worldwide.\n\nIn addition, the internet makes it easier to share information and to organise. Posts and videos can spread to millions in hours, protests and petitions can be arranged quickly, and people with similar concerns can find one another across borders. Encrypted tools also protect journalists and activists. However, the same freedom brings problems. Rumour, harassment and hate speech spread easily, and some governments block websites or monitor users to silence critics. Free speech online therefore needs protection from both abuse and censorship, with clear laws, transparency from platforms and digital skills for users who must decide which sources to trust.\n\nTo sum up, the internet promotes free speech by giving everyone a voice and by making information easy to share, although it requires careful safeguards. For these reasons, open access to it should be protected.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của internet trong thúc đẩy tự do ngôn luận",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài so sánh quá khứ (vài tờ báo, kênh truyền hình quyết định ý kiến nào đến công chúng) với hiện nay (ai có điện thoại cũng đăng được); báo hai cách: tạo nền tảng; dễ chia sẻ và tổ chức.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — nền tảng không ai kiểm soát",
+        "think": "Ai có kết nối cũng đăng ý kiến, chia sẻ tin, tổ chức không cần báo hay đài; giúp người bị phớt lờ hoặc bị đàn áp. Ví dụ blogger đăng ảnh chặt rừng bất hợp pháp tiếp cận hàng nghìn người dù báo địa phương im lặng. Nước hạn chế báo chí: công dân dùng mạng xã hội, ứng dụng nhắn tin; nhóm thiểu số có khán giả.",
+        "refs": [
+          "ID-gov-internet-speech",
+          "EX-gov-blogger-exposes"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — chia sẻ, tổ chức + giới hạn",
+        "think": "Bài đăng và video lan tới hàng triệu trong vài giờ; biểu tình, kiến nghị tổ chức nhanh; người cùng mối quan tâm tìm nhau xuyên biên giới; công cụ mã hoá bảo vệ nhà báo. Giới hạn: tin đồn, quấy rối, ngôn luận thù ghét; chính phủ chặn trang web, theo dõi người dùng; cần luật rõ, minh bạch từ nền tảng, kỹ năng số.",
+        "refs": [
+          "ID-gov-internet-speech",
+          "ID-gov-censorship",
+          "ID-gov-hate-speech",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Internet thúc đẩy tự do ngôn luận nhưng cần biện pháp bảo vệ; nên bảo vệ truy cập mở.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-internet-speech",
+      "EX-gov-blogger-exposes"
+    ]
+  },
+  "chunks": [
+    [
+      "a handful of newspapers and television channels",
+      "một vài tờ báo và kênh truyền hình"
+    ],
+    [
+      "promotes free speech",
+      "thúc đẩy tự do ngôn luận"
+    ],
+    [
+      "a platform that no one controls",
+      "nền tảng không ai kiểm soát"
+    ],
+    [
+      "publish opinions, share news and organise",
+      "đăng ý kiến, chia sẻ tin và tổ chức"
+    ],
+    [
+      "views are ignored or suppressed",
+      "quan điểm bị phớt lờ hoặc bị đàn áp"
+    ],
+    [
+      "illegal logging",
+      "khai thác gỗ trái phép"
+    ],
+    [
+      "stays silent",
+      "giữ im lặng"
+    ],
+    [
+      "the press is restricted",
+      "báo chí bị hạn chế"
+    ],
+    [
+      "report events and debate openly",
+      "đưa tin sự kiện và tranh luận công khai"
+    ],
+    [
+      "minority groups",
+      "nhóm thiểu số"
+    ],
+    [
+      "Voices from remote regions",
+      "tiếng nói từ vùng xa"
+    ],
+    [
+      "share information and organise",
+      "chia sẻ thông tin và tổ chức"
+    ],
+    [
+      "spread to millions in hours",
+      "lan tới hàng triệu trong vài giờ"
+    ],
+    [
+      "petitions can be arranged quickly",
+      "kiến nghị có thể được tổ chức nhanh"
+    ],
+    [
+      "find one another across borders",
+      "tìm thấy nhau xuyên biên giới"
+    ],
+    [
+      "Rumour, harassment and hate speech",
+      "tin đồn, quấy rối và ngôn luận thù ghét"
+    ],
+    [
+      "block websites or monitor users",
+      "chặn trang web hoặc theo dõi người dùng"
+    ],
+    [
+      "silence critics",
+      "bịt miệng người phê phán"
+    ],
+    [
+      "transparency from platforms",
+      "sự minh bạch từ các nền tảng"
+    ],
+    [
+      "open access",
+      "truy cập mở"
+    ]
+  ]
+}

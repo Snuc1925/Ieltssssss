@@ -1,0 +1,129 @@
+{
+  "questionId": 439,
+  "text": "Earthquakes, floods, storms and epidemics can strike any country, and some governments invest heavily in being ready for them. This essay will outline two principal benefits for a country that focuses on disaster preparedness: protection of lives and health, and reduced economic damage and faster recovery.\n\nFirst and foremost, preparing for disasters saves lives and reduces injuries. Early warning systems, evacuation plans, strict building codes and stored supplies mean that fewer people are hurt and communities recover faster. A country in an earthquake zone that enforces strict building codes, for example, loses far fewer lives than one that does not, because houses and schools remain standing. Regular drills teach residents what to do, and clear communication prevents panic. As a result, hospitals are not overwhelmed, and people receive help sooner. Communities that know their risks and have rescue teams trained in advance are better able to protect their most vulnerable members.\n\nIn addition, preparedness reduces economic damage and speeds recovery. Every unit of money spent on preparation can save many times as much on repair, because protected homes, factories and roads suffer less harm and businesses can reopen sooner. Insurance schemes and emergency funds ensure that families are not pushed into poverty. Public confidence also rises when people see that their government is ready, which supports stability and investment. Although preparing requires investment in equipment, training and planning, and some of it may never be used, the cost is small compared with the losses from a major disaster. Coastal countries that built sea walls and warning systems after severe storms, for instance, have been able to protect cities that were once highly vulnerable.\n\nTo sum up, disaster preparedness brings clear benefits to a country, above all lives saved and lower economic losses. For these reasons, it deserves sustained public support.",
+  "analysis": {
+    "type_vi": "Benefits: lợi ích cho quốc gia tập trung vào chuẩn bị thiên tai — dùng ví dụ",
+    "plan": [
+      {
+        "step": "1. Khung 'benefits'",
+        "think": "Mở bài nêu các thảm hoạ có thể xảy ra ở bất kỳ nước nào (động đất, lũ, bão, dịch bệnh); báo hai lợi ích: bảo vệ tính mạng và sức khoẻ; giảm thiệt hại kinh tế và phục hồi nhanh.",
+        "refs": [
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Lợi ích 1 — cứu mạng",
+        "think": "Cảnh báo sớm, kế hoạch sơ tán, quy chuẩn xây dựng nghiêm, dự trữ vật tư nên ít người bị thương, cộng đồng phục hồi nhanh. Ví dụ nước ở vùng động đất thực thi quy chuẩn nghiêm mất ít mạng người hơn vì nhà và trường còn đứng. Diễn tập dạy cư dân; truyền thông rõ tránh hoảng loạn; bệnh viện không quá tải.",
+        "refs": [
+          "ID-gov-disaster-prep",
+          "EX-gov-quake-code",
+          "ID-gov-prevention"
+        ]
+      },
+      {
+        "step": "3. Lợi ích 2 — kinh tế + nhượng bộ",
+        "think": "Mỗi đồng chi cho chuẩn bị tiết kiệm nhiều lần cho sửa chữa; nhà, nhà máy, đường được bảo vệ ít thiệt hại, doanh nghiệp mở lại sớm; bảo hiểm và quỹ khẩn cấp tránh đẩy gia đình vào nghèo; niềm tin công chúng; nhượng bộ chi phí và có thứ không bao giờ dùng nhưng nhỏ so với tổn thất; ví dụ nước ven biển xây đê và cảnh báo sau bão lớn.",
+        "refs": [
+          "ID-gov-disaster-prep",
+          "ID-env-econ-longterm",
+          "ID-env-adaptation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tóm hai lợi ích; cụm 'deserves sustained public support'.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-disaster-prep",
+      "EX-gov-quake-code"
+    ]
+  },
+  "chunks": [
+    [
+      "Earthquakes, floods, storms and epidemics",
+      "động đất, lũ, bão và dịch bệnh"
+    ],
+    [
+      "disaster preparedness",
+      "sự chuẩn bị ứng phó thiên tai"
+    ],
+    [
+      "protection of lives and health",
+      "bảo vệ tính mạng và sức khoẻ"
+    ],
+    [
+      "reduced economic damage and faster recovery",
+      "thiệt hại kinh tế thấp hơn và phục hồi nhanh hơn"
+    ],
+    [
+      "saves lives and reduces injuries",
+      "cứu mạng người và giảm thương tích"
+    ],
+    [
+      "Early warning systems, evacuation plans",
+      "hệ thống cảnh báo sớm, kế hoạch sơ tán"
+    ],
+    [
+      "strict building codes",
+      "quy chuẩn xây dựng nghiêm ngặt"
+    ],
+    [
+      "stored supplies",
+      "vật tư dự trữ"
+    ],
+    [
+      "communities recover faster",
+      "cộng đồng phục hồi nhanh hơn"
+    ],
+    [
+      "an earthquake zone",
+      "vùng động đất"
+    ],
+    [
+      "remain standing",
+      "vẫn đứng vững"
+    ],
+    [
+      "Regular drills",
+      "các buổi diễn tập thường xuyên"
+    ],
+    [
+      "prevents panic",
+      "ngăn hoảng loạn"
+    ],
+    [
+      "hospitals are not overwhelmed",
+      "bệnh viện không bị quá tải"
+    ],
+    [
+      "rescue teams trained in advance",
+      "đội cứu hộ được đào tạo trước"
+    ],
+    [
+      "most vulnerable members",
+      "những thành viên dễ tổn thương nhất"
+    ],
+    [
+      "save many times as much on repair",
+      "tiết kiệm nhiều lần chi phí sửa chữa"
+    ],
+    [
+      "reopen sooner",
+      "mở cửa lại sớm hơn"
+    ],
+    [
+      "Insurance schemes and emergency funds",
+      "chương trình bảo hiểm và quỹ khẩn cấp"
+    ],
+    [
+      "pushed into poverty",
+      "bị đẩy vào nghèo đói"
+    ]
+  ]
+}

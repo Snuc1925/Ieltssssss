@@ -1,0 +1,129 @@
+{
+  "questionId": 226,
+  "text": "In some countries, citizens who do not vote are fined, and some people argue that voting should be compulsory. I disagree with this view, since compelling people to vote treats a right as a duty and may produce uninformed choices, although I would like turnout to be high.\n\nTo begin with, compelling people to vote treats a right as a duty and may produce uninformed choices. Citizens who are forced to attend a polling station may vote randomly or leave the paper blank, resent the state and lose the sense that voting is a free expression of opinion. A person who dislikes every candidate but must still go to the polling station, for example, may simply tick a name at random. Such votes do not make the result more representative, and they may favour candidates whose names are more familiar. In a free society, the right to take part in politics should include the right to choose not to take part, as with other freedoms such as speech and religion.\n\nFurthermore, compulsion treats the symptom, not the cause. Low turnout usually reflects distrust, dissatisfaction with the choice offered or practical difficulties, and forcing people to vote does not address these problems. Supporters point out that compulsory voting increases turnout and makes governments more representative, as in Australia, where participation is very high. That is a real advantage. However, the same result can be achieved by making voting easier and more meaningful through weekend elections, early and postal voting, better civic education and more responsive politics. Fines also fall hardest on those with the least money.\n\nIn conclusion, I disagree that voting should be compulsory, because it limits freedom and produces uninformed votes, and the focus should be on making participation easier and more attractive.",
+  "analysis": {
+    "type_vi": "Agree/Disagree: bỏ phiếu nên bắt buộc — disagree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến + nhượng bộ",
+        "think": "Mở bài nêu thực tế (một số nước phạt người không bỏ phiếu) rồi disagree + lý do (coi quyền như nghĩa vụ, phiếu thiếu hiểu biết) + thừa nhận muốn tỷ lệ tham gia cao.",
+        "refs": [
+          "FR-struct-opinion",
+          "FR-stance-i-disagree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — quyền thành nghĩa vụ",
+        "think": "Công dân bị buộc đến điểm bỏ phiếu có thể bỏ ngẫu nhiên hoặc để phiếu trắng, bực bội và mất cảm giác bỏ phiếu là biểu đạt tự do. Ví dụ người ghét mọi ứng viên vẫn phải đến, đánh dấu ngẫu nhiên. Phiếu như vậy không làm kết quả đại diện hơn, có thể ưu ái tên quen; quyền tham gia chính trị nên gồm quyền không tham gia như tự do ngôn luận, tôn giáo.",
+        "refs": [
+          "ID-gov-compulsory-vote",
+          "EX-gov-random-vote",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + nhượng bộ",
+        "think": "Bắt buộc chữa triệu chứng không phải nguyên nhân: tỷ lệ thấp phản ánh mất lòng tin, không hài lòng với lựa chọn, khó khăn thực tế. Nhượng bộ: người ủng hộ nói bắt buộc tăng tham gia và chính phủ đại diện hơn (Úc). Phản bác: dễ và có ý nghĩa hơn qua bầu cử cuối tuần, bỏ phiếu sớm, bưu điện, giáo dục công dân, chính trị đáp ứng hơn; tiền phạt đè nặng lên người ít tiền.",
+        "refs": [
+          "ID-gov-voting-access",
+          "ID-gov-turnout-causes",
+          "CN-nextPoint-furthermore",
+          "CN-concession-admittedly"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Disagree vì hạn chế tự do và phiếu thiếu hiểu biết; nên làm tham gia dễ và hấp dẫn hơn.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-compulsory-vote",
+      "EX-gov-random-vote"
+    ]
+  },
+  "chunks": [
+    [
+      "citizens who do not vote are fined",
+      "công dân không đi bỏ phiếu bị phạt"
+    ],
+    [
+      "voting should be compulsory",
+      "bỏ phiếu nên bắt buộc"
+    ],
+    [
+      "treats a right as a duty",
+      "coi một quyền như một nghĩa vụ"
+    ],
+    [
+      "produce uninformed choices",
+      "tạo ra lựa chọn thiếu hiểu biết"
+    ],
+    [
+      "forced to attend a polling station",
+      "bị buộc đến điểm bỏ phiếu"
+    ],
+    [
+      "leave the paper blank",
+      "để phiếu trắng"
+    ],
+    [
+      "resent the state",
+      "bực bội với nhà nước"
+    ],
+    [
+      "a free expression of opinion",
+      "sự biểu đạt tự do của ý kiến"
+    ],
+    [
+      "dislikes every candidate",
+      "không thích mọi ứng viên"
+    ],
+    [
+      "tick a name at random",
+      "đánh dấu một cái tên ngẫu nhiên"
+    ],
+    [
+      "more representative",
+      "đại diện hơn"
+    ],
+    [
+      "the right to choose not to take part",
+      "quyền chọn không tham gia"
+    ],
+    [
+      "treats the symptom, not the cause",
+      "chữa triệu chứng chứ không phải nguyên nhân"
+    ],
+    [
+      "distrust, dissatisfaction with the choice offered",
+      "mất lòng tin, không hài lòng với lựa chọn được đưa ra"
+    ],
+    [
+      "practical difficulties",
+      "khó khăn thực tế"
+    ],
+    [
+      "increases turnout",
+      "tăng tỷ lệ cử tri đi bầu"
+    ],
+    [
+      "participation is very high",
+      "tỷ lệ tham gia rất cao"
+    ],
+    [
+      "weekend elections, early and postal voting",
+      "bầu cử cuối tuần, bỏ phiếu sớm và qua bưu điện"
+    ],
+    [
+      "more responsive politics",
+      "nền chính trị đáp ứng tốt hơn"
+    ],
+    [
+      "fall hardest on those with the least money",
+      "đè nặng nhất lên người ít tiền nhất"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "questionId": 397,
+  "text": "Some countries require young adults to spend a year or more in the armed forces, and some believe that compulsory military service benefits society. I agree only to a limited extent, since it can teach discipline and bring citizens together, although it has serious costs and professional forces are often more effective.\n\nTo begin with, compulsory service can teach discipline and bring citizens from different backgrounds together. Recruits learn teamwork, fitness and practical skills and meet people they would never otherwise meet. A recruit from a farming village sharing a barracks with a student from the capital, for example, learns about a very different way of life, which may reduce prejudice and strengthen national feeling. Service can also give young people who are drifting a sense of direction and training in trades such as mechanics or first aid. In countries facing real military threats, a large trained reserve provides security.\n\nHowever, the costs are significant. Recruits lose time for study and work, and many do not want to be there, which can reduce morale and make forces less effective than smaller professional armies that are well trained and motivated. Compulsion limits personal freedom, and some people object on grounds of conscience. Unequal treatment of men and women, or of rich and poor who find ways to avoid service, can create resentment. If the aim is to build skills and community, other forms of national service, such as volunteering in hospitals or environmental projects, may bring similar benefits without the need to carry weapons. Governments should therefore weigh benefits against costs carefully.\n\nIn conclusion, compulsory military service benefits society only to a limited extent, because the advantages of discipline and social mixing are outweighed in many countries by the costs and by better alternatives.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): nghĩa vụ quân sự bắt buộc có lợi cho xã hội — đồng ý hạn chế",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến hạn chế",
+        "think": "Mở bài nêu thực tế (một số nước yêu cầu thanh niên phục vụ quân đội một năm trở lên) rồi 'agree only to a limited extent' + lý do + nhượng bộ.",
+        "refs": [
+          "FR-struct-extent"
+        ]
+      },
+      {
+        "step": "2. Lợi ích",
+        "think": "Dạy kỷ luật, đưa công dân khác nhau lại gần: học làm việc nhóm, thể lực, kỹ năng thực tế, gặp người không bao giờ gặp. Ví dụ tân binh từ làng nông nghiệp cùng doanh trại với sinh viên thủ đô biết cách sống khác, giảm định kiến, củng cố tinh thần quốc gia. Giúp thanh niên lạc hướng có định hướng, đào tạo nghề; nước đối mặt đe doạ thật có lực lượng dự bị lớn.",
+        "refs": [
+          "ID-gov-military-service",
+          "EX-gov-conscript-mix",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Chi phí và phương án thay thế",
+        "think": "Tân binh mất thời gian học và làm; nhiều người không muốn nên giảm tinh thần, kém hiệu quả hơn quân đội chuyên nghiệp nhỏ được huấn luyện và có động lực; hạn chế tự do; phản đối vì lương tâm; đối xử bất bình đẳng nam nữ, giàu nghèo gây bực bội. Phục vụ quốc gia dạng khác (tình nguyện bệnh viện, dự án môi trường) có thể mang lợi ích tương tự mà không cầm vũ khí.",
+        "refs": [
+          "ID-gov-national-service",
+          "ID-gov-military-service",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Có lợi ở mức hạn chế vì lợi thế bị chi phí và phương án tốt hơn vượt qua ở nhiều nước.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-military-service",
+      "EX-gov-conscript-mix"
+    ]
+  },
+  "chunks": [
+    [
+      "spend a year or more in the armed forces",
+      "phục vụ trong lực lượng vũ trang một năm trở lên"
+    ],
+    [
+      "compulsory military service",
+      "nghĩa vụ quân sự bắt buộc"
+    ],
+    [
+      "benefits society",
+      "có lợi cho xã hội"
+    ],
+    [
+      "to a limited extent",
+      "ở mức độ hạn chế"
+    ],
+    [
+      "teach discipline",
+      "dạy kỷ luật"
+    ],
+    [
+      "bring citizens from different backgrounds together",
+      "đưa công dân từ các xuất thân khác nhau lại gần nhau"
+    ],
+    [
+      "teamwork, fitness and practical skills",
+      "làm việc nhóm, thể lực và kỹ năng thực tế"
+    ],
+    [
+      "meet people they would never otherwise meet",
+      "gặp những người họ sẽ không bao giờ gặp"
+    ],
+    [
+      "a farming village",
+      "một làng nông nghiệp"
+    ],
+    [
+      "a very different way of life",
+      "lối sống rất khác"
+    ],
+    [
+      "strengthen national feeling",
+      "củng cố tinh thần quốc gia"
+    ],
+    [
+      "drifting",
+      "lạc hướng"
+    ],
+    [
+      "a sense of direction",
+      "cảm giác có định hướng"
+    ],
+    [
+      "real military threats",
+      "mối đe doạ quân sự thực sự"
+    ],
+    [
+      "a large trained reserve",
+      "lực lượng dự bị lớn được huấn luyện"
+    ],
+    [
+      "lose time for study and work",
+      "mất thời gian học tập và làm việc"
+    ],
+    [
+      "reduce morale",
+      "giảm tinh thần"
+    ],
+    [
+      "smaller professional armies",
+      "quân đội chuyên nghiệp nhỏ hơn"
+    ],
+    [
+      "object on grounds of conscience",
+      "phản đối vì lương tâm"
+    ],
+    [
+      "volunteering in hospitals or environmental projects",
+      "làm tình nguyện ở bệnh viện hoặc dự án môi trường"
+    ]
+  ]
+}

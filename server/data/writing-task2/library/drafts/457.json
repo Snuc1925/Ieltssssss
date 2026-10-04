@@ -1,0 +1,129 @@
+{
+  "questionId": 457,
+  "text": "In several countries, young people are required or encouraged to give a year of their time to national service, either in the armed forces or in community roles, and some believe that national service improves civic responsibility. I largely agree, since it can teach young people to serve others, although it works only if the service is meaningful.\n\nTo begin with, national service can strengthen civic responsibility if it is meaningful. Young people who spend a year helping in hospitals, schools or emergency teams see the needs of their community, learn to cooperate and often keep volunteering afterwards. A school leaver who spends a year helping in a care home, for example, may continue to volunteer for years afterwards, and will understand ageing and illness far better than a person who has never been in such a place. Working with people from different backgrounds also reduces prejudice and builds a sense that citizens depend on one another. Experience of duty teaches that rights come with responsibilities.\n\nFurthermore, service gives young people practical skills and confidence that make them more active citizens, such as teamwork, leadership and problem-solving. Those who take part often feel more connected to their country and more willing to vote, volunteer and take part in public life. However, the effect depends on design. Pointless or forced tasks may create resentment instead, and compulsion may make some young people dislike the idea of service. Programmes should offer real choices between military, social and environmental roles, provide training and recognition, and ensure that those with disabilities or caring duties can take part in suitable ways. Evidence of long-term effects on civic behaviour is still limited, so schemes should be evaluated.\n\nIn conclusion, national service improves civic responsibility to a large extent when it is meaningful and offers choice, but poorly designed schemes can have the opposite effect.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): nghĩa vụ quốc gia cải thiện trách nhiệm công dân — largely agree (góc khác đề 397: dân sự và trách nhiệm công dân)",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu hình thức (quân đội hoặc vai trò cộng đồng) rồi largely agree + lý do + giới hạn (phải có ý nghĩa). Khác đề 397 ở chỗ đề cao dịch vụ cộng đồng và hiệu quả đối với hành vi công dân.",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thấy nhu cầu cộng đồng",
+        "think": "Người trẻ dành một năm giúp ở bệnh viện, trường học, đội khẩn cấp thấy nhu cầu cộng đồng, học hợp tác và thường tiếp tục tình nguyện. Ví dụ người rời trường làm một năm ở nhà dưỡng lão có thể tiếp tục tình nguyện nhiều năm, hiểu già và bệnh hơn. Làm việc với người khác xuất thân giảm định kiến; học rằng quyền đi kèm trách nhiệm.",
+        "refs": [
+          "ID-gov-national-service",
+          "EX-gov-year-service",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Mang lại kỹ năng và tự tin (làm việc nhóm, lãnh đạo, giải quyết vấn đề); người tham gia gắn bó với đất nước, sẵn sàng bỏ phiếu, tình nguyện. Giới hạn: phụ thuộc thiết kế; nhiệm vụ vô nghĩa hoặc ép buộc gây bực bội; chương trình cần lựa chọn thật giữa quân sự, xã hội, môi trường; đào tạo và ghi nhận; người khuyết tật hoặc bận chăm sóc tham gia theo cách phù hợp; bằng chứng dài hạn còn hạn chế nên cần đánh giá.",
+        "refs": [
+          "ID-gov-national-service",
+          "ID-gov-military-service",
+          "CN-nextPoint-furthermore",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện ở mức độ lớn khi có ý nghĩa và có lựa chọn; chương trình thiết kế kém có thể gây tác dụng ngược.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-national-service",
+      "EX-gov-year-service"
+    ]
+  },
+  "chunks": [
+    [
+      "national service",
+      "nghĩa vụ quốc gia"
+    ],
+    [
+      "give a year of their time",
+      "dành một năm thời gian của họ"
+    ],
+    [
+      "civic responsibility",
+      "trách nhiệm công dân"
+    ],
+    [
+      "serve others",
+      "phục vụ người khác"
+    ],
+    [
+      "only if the service is meaningful",
+      "chỉ khi việc phục vụ có ý nghĩa"
+    ],
+    [
+      "helping in hospitals, schools or emergency teams",
+      "giúp ở bệnh viện, trường học hoặc đội khẩn cấp"
+    ],
+    [
+      "see the needs of their community",
+      "thấy nhu cầu của cộng đồng"
+    ],
+    [
+      "keep volunteering afterwards",
+      "tiếp tục làm tình nguyện sau đó"
+    ],
+    [
+      "a school leaver",
+      "người vừa rời trường"
+    ],
+    [
+      "a care home",
+      "nhà dưỡng lão"
+    ],
+    [
+      "understand ageing and illness",
+      "hiểu về tuổi già và bệnh tật"
+    ],
+    [
+      "from different backgrounds",
+      "từ các xuất thân khác nhau"
+    ],
+    [
+      "citizens depend on one another",
+      "công dân phụ thuộc vào nhau"
+    ],
+    [
+      "rights come with responsibilities",
+      "quyền đi kèm trách nhiệm"
+    ],
+    [
+      "teamwork, leadership and problem-solving",
+      "làm việc nhóm, lãnh đạo và giải quyết vấn đề"
+    ],
+    [
+      "feel more connected to their country",
+      "cảm thấy gắn bó hơn với đất nước"
+    ],
+    [
+      "take part in public life",
+      "tham gia đời sống công cộng"
+    ],
+    [
+      "Pointless or forced tasks",
+      "nhiệm vụ vô nghĩa hoặc bị ép buộc"
+    ],
+    [
+      "real choices",
+      "lựa chọn thực sự"
+    ],
+    [
+      "evaluated",
+      "được đánh giá"
+    ]
+  ]
+}

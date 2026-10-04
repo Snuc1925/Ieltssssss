@@ -1,0 +1,128 @@
+{
+  "questionId": 106,
+  "text": "Politicians now post on social media every day, and some people believe that these platforms make citizens more politically aware. I largely agree, since they make information faster and easier to share, although awareness does not always mean understanding.\n\nTo begin with, social media makes political information faster, cheaper and easier to share. News, debates and campaign messages reach young people who rarely read newspapers, and ordinary citizens can question politicians directly. A student who sees a politician's speech shared by friends, for example, may follow the story further, although she may also see only views that she already agrees with. Hashtags and live videos bring attention to issues that traditional media might ignore, and campaigns on topics such as climate change or equality have reached millions. Participation has risen in several countries as young voters learn about elections and registration deadlines online.\n\nFurthermore, social media allows people to discuss politics and to organise. Online communities help citizens to find others who share their concerns and to join petitions and demonstrations. However, awareness is not always understanding. Algorithms tend to show people content that confirms their existing views, creating echo chambers, and false stories can spread faster than corrections. Engagement may also be shallow, such as pressing a like button rather than taking action. To get the full benefit, users should compare several sources, schools should teach media literacy, and platforms should be more transparent about how they rank content.\n\nIn conclusion, social media increases political awareness to a large extent by making information accessible, but its benefits depend on users and platforms ensuring that it is accurate and balanced.",
+  "analysis": {
+    "type_vi": "Agree/Disagree (Extent): mạng xã hội tăng hiểu biết chính trị — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung ý kiến",
+        "think": "Mở bài nêu thực tế (chính trị gia đăng mạng xã hội mỗi ngày) rồi largely agree + giới hạn (nhận thức không luôn là hiểu biết).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — thông tin nhanh, rẻ, dễ chia sẻ",
+        "think": "Tin, tranh luận, thông điệp vận động đến người trẻ ít đọc báo; công dân hỏi trực tiếp chính trị gia. Ví dụ sinh viên thấy bài phát biểu do bạn chia sẻ có thể theo dõi tiếp, nhưng chỉ thấy quan điểm mình đồng ý. Hashtag, video trực tiếp đưa vấn đề truyền thông truyền thống bỏ qua; chiến dịch khí hậu, bình đẳng đến hàng triệu; người trẻ biết bầu cử, hạn đăng ký.",
+        "refs": [
+          "ID-gov-social-awareness",
+          "EX-gov-student-news-feed",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 + giới hạn",
+        "think": "Cho phép thảo luận chính trị và tổ chức; cộng đồng trực tuyến giúp công dân tìm người cùng mối quan tâm, tham gia kiến nghị, biểu tình. Giới hạn: thuật toán cho xem nội dung xác nhận quan điểm sẵn có tạo buồng vang; tin giả lan nhanh hơn đính chính; tham gia hời hợt như bấm thích. Giải pháp: so sánh nhiều nguồn, dạy kiến thức truyền thông, nền tảng minh bạch cách xếp hạng.",
+        "refs": [
+          "ID-gov-social-awareness",
+          "ID-gov-media-elections",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Tăng nhận thức ở mức độ lớn nhưng phụ thuộc người dùng và nền tảng bảo đảm chính xác, cân bằng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-social-awareness",
+      "EX-gov-student-news-feed"
+    ]
+  },
+  "chunks": [
+    [
+      "post on social media every day",
+      "đăng bài trên mạng xã hội mỗi ngày"
+    ],
+    [
+      "politically aware",
+      "có hiểu biết chính trị"
+    ],
+    [
+      "faster, cheaper and easier to share",
+      "nhanh hơn, rẻ hơn và dễ chia sẻ hơn"
+    ],
+    [
+      "campaign messages",
+      "thông điệp vận động"
+    ],
+    [
+      "rarely read newspapers",
+      "hiếm khi đọc báo"
+    ],
+    [
+      "question politicians directly",
+      "hỏi thẳng chính trị gia"
+    ],
+    [
+      "follow the story further",
+      "theo dõi câu chuyện sâu hơn"
+    ],
+    [
+      "views that she already agrees with",
+      "quan điểm mà cô ấy đã đồng tình"
+    ],
+    [
+      "Hashtags and live videos",
+      "hashtag và video trực tiếp"
+    ],
+    [
+      "traditional media might ignore",
+      "truyền thông truyền thống có thể bỏ qua"
+    ],
+    [
+      "climate change or equality",
+      "biến đổi khí hậu hoặc bình đẳng"
+    ],
+    [
+      "registration deadlines",
+      "hạn đăng ký"
+    ],
+    [
+      "join petitions and demonstrations",
+      "tham gia kiến nghị và biểu tình"
+    ],
+    [
+      "share their concerns",
+      "chia sẻ mối quan tâm"
+    ],
+    [
+      "awareness is not always understanding",
+      "nhận thức không phải lúc nào cũng là hiểu biết"
+    ],
+    [
+      "Algorithms",
+      "thuật toán"
+    ],
+    [
+      "confirms their existing views",
+      "xác nhận quan điểm sẵn có"
+    ],
+    [
+      "echo chambers",
+      "buồng vang"
+    ],
+    [
+      "spread faster than corrections",
+      "lan nhanh hơn đính chính"
+    ],
+    [
+      "compare several sources",
+      "so sánh nhiều nguồn"
+    ]
+  ]
+}

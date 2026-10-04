@@ -1,0 +1,128 @@
+{
+  "questionId": 347,
+  "text": "Marches, strikes and sit-ins are familiar parts of political life, and opinions differ on whether public protests are a vital part of democracy. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters argue that peaceful protest lets citizens speak between elections. Marches and demonstrations show politicians how strongly people feel, have helped to win rights such as votes for women and civil rights, and give a voice to groups that are ignored by parties and newspapers. A peaceful march of thousands of people through the capital, for example, shows politicians that an issue cannot be ignored. In a democracy, power belongs to the people, and the freedom to gather and express views openly is itself a basic right. Where protest is banned, governments often grow less accountable, which is why authoritarian regimes fear it so much.\n\nOn the other hand, critics point out that protests can cause disruption and sometimes violence. Roads and businesses may be blocked, ordinary people may be harmed, and the small group who take part may not represent the majority. Disruption or violence can also turn public opinion against a cause. In a democracy, there are other channels, such as elections, petitions, courts and elected representatives, through which concerns can be raised and settled by law. Decisions made under the pressure of crowds may not be well considered, and protests can be organised by groups that are well-funded rather than widely supported.\n\nIn conclusion, both views have merit. Personally, I believe that peaceful protest is a vital part of democracy, because it gives citizens a voice, provided that it remains lawful and respects the rights of others.",
+  "analysis": {
+    "type_vi": "Discuss both views: biểu tình công cộng có phải phần thiết yếu của dân chủ",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Mở bài nêu các hình thức (diễu hành, đình công, ngồi biểu tình) rồi hai phe; ý kiến riêng 'thiết yếu nếu hoà bình và hợp pháp'.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ủng hộ",
+        "think": "Biểu tình hoà bình cho công dân lên tiếng giữa các kỳ bầu cử; diễu hành cho chính trị gia thấy mức độ cảm xúc, đã giúp giành quyền (phụ nữ bầu cử, dân quyền), cho tiếng nói nhóm bị đảng và báo phớt lờ. Ví dụ cuộc diễu hành hàng nghìn người cho thấy vấn đề không thể bỏ qua. Dân chủ quyền lực thuộc về dân; tự do tụ tập là quyền cơ bản; nơi cấm biểu tình chính phủ kém trách nhiệm giải trình.",
+        "refs": [
+          "ID-gov-protests",
+          "EX-gov-peaceful-march"
+        ]
+      },
+      {
+        "step": "3. Phe phê phán",
+        "think": "Biểu tình có thể gây gián đoạn, đôi khi bạo lực; chặn đường và doanh nghiệp, hại người thường; nhóm nhỏ có thể không đại diện đa số; gián đoạn hay bạo lực làm dư luận quay lưng; dân chủ có kênh khác (bầu cử, kiến nghị, toà án, đại biểu); quyết định dưới áp lực đám đông có thể thiếu cân nhắc; biểu tình có thể do nhóm có tiền tổ chức.",
+        "refs": [
+          "ID-gov-protests",
+          "ID-gov-youth-activism"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Biểu tình hoà bình là phần thiết yếu của dân chủ nếu hợp pháp và tôn trọng quyền người khác.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-protests",
+      "EX-gov-peaceful-march"
+    ]
+  },
+  "chunks": [
+    [
+      "Marches, strikes and sit-ins",
+      "diễu hành, đình công và ngồi biểu tình"
+    ],
+    [
+      "public protests",
+      "biểu tình công khai"
+    ],
+    [
+      "a vital part of democracy",
+      "phần thiết yếu của dân chủ"
+    ],
+    [
+      "peaceful protest",
+      "biểu tình hoà bình"
+    ],
+    [
+      "speak between elections",
+      "lên tiếng giữa các kỳ bầu cử"
+    ],
+    [
+      "show politicians how strongly people feel",
+      "cho chính trị gia thấy người dân cảm nhận mạnh thế nào"
+    ],
+    [
+      "votes for women and civil rights",
+      "quyền bầu cử cho phụ nữ và dân quyền"
+    ],
+    [
+      "give a voice to groups that are ignored",
+      "cho tiếng nói những nhóm bị phớt lờ"
+    ],
+    [
+      "cannot be ignored",
+      "không thể bị phớt lờ"
+    ],
+    [
+      "power belongs to the people",
+      "quyền lực thuộc về người dân"
+    ],
+    [
+      "the freedom to gather",
+      "tự do tụ tập"
+    ],
+    [
+      "less accountable",
+      "ít chịu trách nhiệm hơn"
+    ],
+    [
+      "authoritarian regimes",
+      "các chế độ độc tài"
+    ],
+    [
+      "cause disruption and sometimes violence",
+      "gây gián đoạn và đôi khi bạo lực"
+    ],
+    [
+      "blocked",
+      "bị chặn"
+    ],
+    [
+      "turn public opinion against a cause",
+      "làm dư luận quay lưng với một sự nghiệp"
+    ],
+    [
+      "other channels",
+      "các kênh khác"
+    ],
+    [
+      "petitions, courts and elected representatives",
+      "kiến nghị, toà án và đại biểu dân cử"
+    ],
+    [
+      "pressure of crowds",
+      "áp lực của đám đông"
+    ],
+    [
+      "lawful and respects the rights of others",
+      "hợp pháp và tôn trọng quyền của người khác"
+    ]
+  ]
+}

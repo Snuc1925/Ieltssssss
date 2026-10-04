@@ -1,0 +1,128 @@
+{
+  "questionId": 492,
+  "text": "Mobile phones, social media and translation tools have changed how people speak out, and technology is often described as a friend of free speech. This essay will outline two key ways in which technology improves free speech: by widening access and by protecting those who speak.\n\nFirst and foremost, technology widens access to speech and to audiences. Cheap smartphones, video platforms and blogs give ordinary people a platform that no one controls, so a farmer, a student or a nurse can describe what is happening in their community. Translation tools allow messages to cross language barriers, and live streaming lets witnesses show events as they happen. A student who films an incident and posts it online, for example, may expose abuse that official media would never mention. Because a single post can reach thousands, groups that were once ignored can now organise petitions and campaigns.\n\nIn addition, technology can protect people who speak. Encrypted messaging allows journalists, activists and ordinary citizens to communicate safely under hostile regimes, and tools that hide identity help whistleblowers to share evidence without being traced. Archives and cloud storage keep records safe even if an authority tries to delete them. However, technology also creates new threats. Governments use filtering, facial recognition and spyware to monitor critics, and platforms can silence voices through automated moderation or opaque rules. Online abuse can force people into silence. Technology therefore improves free speech only when it is accompanied by privacy laws, open rules for platforms and independent courts.\n\nTo sum up, technology improves free speech by widening access and offering protection, provided that it is governed by fair laws. For these reasons, the right to use secure technology should be defended.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: vai trò của công nghệ trong cải thiện tự do ngôn luận (góc khác đề 63: tiếp cận rộng và bảo vệ người nói; internet vs công nghệ nói chung)",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss role'",
+        "think": "Mở bài nêu công cụ cụ thể (điện thoại, mạng xã hội, công cụ dịch) và quan niệm 'công nghệ là bạn của tự do ngôn luận'; báo hai cách: mở rộng tiếp cận; bảo vệ người lên tiếng.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — mở rộng tiếp cận",
+        "think": "Điện thoại rẻ, nền tảng video, blog cho người thường tiếng nói; nông dân, sinh viên, y tá mô tả cộng đồng; công cụ dịch vượt rào ngôn ngữ; phát trực tiếp cho nhân chứng. Ví dụ sinh viên quay sự việc đăng mạng phơi bày lạm dụng mà báo chính thức không nhắc.",
+        "refs": [
+          "ID-gov-internet-speech",
+          "EX-gov-blogger-exposes",
+          "ID-health-telemedicine"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — bảo vệ người lên tiếng + giới hạn",
+        "think": "Nhắn tin mã hoá cho nhà báo, nhà hoạt động giao tiếp an toàn dưới chế độ thù địch; công cụ ẩn danh cho người tố giác; lưu trữ đám mây giữ bằng chứng. Giới hạn: chính phủ dùng bộ lọc, nhận diện khuôn mặt, phần mềm gián điệp; nền tảng im lặng bằng kiểm duyệt tự động; quấy rối trực tuyến; cần luật quyền riêng tư, quy tắc mở, toà độc lập.",
+        "refs": [
+          "ID-gov-censorship",
+          "ID-cr-identity-theft",
+          "ID-gov-hate-speech",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Cải thiện tự do ngôn luận khi được điều chỉnh bởi luật công bằng; nên bảo vệ quyền dùng công nghệ an toàn.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Mobile phones, social media and translation tools",
+      "điện thoại, mạng xã hội và công cụ dịch"
+    ],
+    [
+      "speak out",
+      "lên tiếng"
+    ],
+    [
+      "a friend of free speech",
+      "người bạn của tự do ngôn luận"
+    ],
+    [
+      "widening access",
+      "mở rộng tiếp cận"
+    ],
+    [
+      "protecting those who speak",
+      "bảo vệ người lên tiếng"
+    ],
+    [
+      "Cheap smartphones, video platforms and blogs",
+      "điện thoại giá rẻ, nền tảng video và blog"
+    ],
+    [
+      "describe what is happening in their community",
+      "mô tả điều đang xảy ra trong cộng đồng"
+    ],
+    [
+      "cross language barriers",
+      "vượt rào cản ngôn ngữ"
+    ],
+    [
+      "live streaming",
+      "phát trực tiếp"
+    ],
+    [
+      "witnesses show events as they happen",
+      "nhân chứng cho thấy sự việc khi nó diễn ra"
+    ],
+    [
+      "expose abuse",
+      "phơi bày lạm dụng"
+    ],
+    [
+      "official media",
+      "truyền thông chính thức"
+    ],
+    [
+      "organise petitions and campaigns",
+      "tổ chức kiến nghị và chiến dịch"
+    ],
+    [
+      "Encrypted messaging",
+      "nhắn tin mã hoá"
+    ],
+    [
+      "under hostile regimes",
+      "dưới chế độ thù địch"
+    ],
+    [
+      "share evidence without being traced",
+      "chia sẻ bằng chứng mà không bị truy vết"
+    ],
+    [
+      "filtering, facial recognition and spyware",
+      "bộ lọc, nhận diện khuôn mặt và phần mềm gián điệp"
+    ],
+    [
+      "automated moderation or opaque rules",
+      "kiểm duyệt tự động hoặc quy tắc mờ ám"
+    ],
+    [
+      "force people into silence",
+      "buộc người ta im lặng"
+    ],
+    [
+      "privacy laws",
+      "luật quyền riêng tư"
+    ]
+  ]
+}

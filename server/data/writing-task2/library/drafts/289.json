@@ -1,0 +1,130 @@
+{
+  "questionId": 289,
+  "text": "In many democracies, fewer than two-thirds of eligible voters take part in elections, and in some local elections the figure is far lower. This essay will analyse the principal causes and propose realistic solutions.\n\nLow turnout reflects distrust, a feeling that votes do not matter and practical obstacles. Voters who believe that politicians are all the same or that the result will not change their lives see little point in taking part, and registration rules, long queues and working hours make voting inconvenient. A worker who sees a queue of two hours outside the polling station, for example, may decide that his time is better spent elsewhere. In addition, young people and those on low incomes, who often feel ignored by parties, are the least likely to vote, and weak civic education leaves many unsure how the system works or why it matters. As a result, their interests are underrepresented, which increases their sense of exclusion in a damaging cycle.\n\nTo address this issue, governments should make voting easier and politics more relevant. Early and postal voting, weekend elections and automatic registration remove practical barriers, while civic education in schools teaches young people how decisions are made and why participation matters. In addition, parties should engage directly with young and poorer communities, and electoral reform, such as more proportional systems, can make votes count more. Greater transparency about money in politics and tougher action against corruption would help to rebuild trust. Campaigns by independent bodies can also remind people of election dates and explain how to vote.\n\nIn conclusion, low voter turnout stems mainly from distrust and inconvenience, but easier voting, civic education and more responsive politics offer a realistic way forward.",
+  "analysis": {
+    "type_vi": "Causes/Solutions: nguyên nhân và giải pháp cho tỷ lệ cử tri đi bầu thấp",
+    "plan": [
+      {
+        "step": "1. Khung nguyên nhân + giải pháp",
+        "think": "Mở bài nêu số liệu mô tả (ít hơn hai phần ba cử tri đủ điều kiện tham gia, một số bầu cử địa phương thấp hơn nhiều); thân bài 1 nguyên nhân, thân bài 2 giải pháp.",
+        "refs": [
+          "FR-struct-causes-solutions",
+          "PH-stems-from",
+          "PH-realistic-way-forward"
+        ]
+      },
+      {
+        "step": "2. Nguyên nhân",
+        "think": "Mất lòng tin, cảm giác phiếu không có giá trị, rào cản thực tế; cử tri tin chính trị gia như nhau hoặc kết quả không đổi cuộc sống không thấy ý nghĩa; quy tắc đăng ký, hàng chờ dài, giờ làm bất tiện. Ví dụ công nhân thấy hàng chờ hai giờ quyết định dành thời gian nơi khác. Người trẻ, thu nhập thấp thường bị đảng phớt lờ nên ít bỏ phiếu; giáo dục công dân yếu; lợi ích bị đại diện thiếu làm tăng cảm giác bị loại trừ.",
+        "refs": [
+          "ID-gov-turnout-causes",
+          "EX-gov-long-queue",
+          "PH-cause-contribute",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "3. Giải pháp",
+        "think": "Bỏ phiếu dễ hơn và chính trị liên quan hơn: bỏ phiếu sớm, bưu điện, cuối tuần, đăng ký tự động; giáo dục công dân ở trường; đảng tiếp cận trực tiếp cộng đồng trẻ và nghèo; cải cách bầu cử (tỷ lệ hơn) để phiếu có giá trị; minh bạch tiền trong chính trị, chống tham nhũng; chiến dịch của cơ quan độc lập nhắc ngày bầu và hướng dẫn.",
+        "refs": [
+          "ID-gov-voting-access",
+          "ID-cr-transparency",
+          "PH-tackle-source"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Nhắc lại nguyên nhân chính và hướng giải quyết.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-turnout-causes",
+      "EX-gov-long-queue"
+    ]
+  },
+  "chunks": [
+    [
+      "fewer than two-thirds of eligible voters",
+      "ít hơn hai phần ba cử tri đủ điều kiện"
+    ],
+    [
+      "take part in elections",
+      "tham gia bầu cử"
+    ],
+    [
+      "low voter turnout",
+      "tỷ lệ cử tri đi bầu thấp"
+    ],
+    [
+      "distrust, a feeling that votes do not matter",
+      "mất lòng tin, cảm giác phiếu bầu không có giá trị"
+    ],
+    [
+      "politicians are all the same",
+      "chính trị gia ai cũng như nhau"
+    ],
+    [
+      "will not change their lives",
+      "sẽ không thay đổi cuộc sống của họ"
+    ],
+    [
+      "see little point in taking part",
+      "thấy ít ý nghĩa khi tham gia"
+    ],
+    [
+      "registration rules, long queues and working hours",
+      "quy định đăng ký, hàng chờ dài và giờ làm việc"
+    ],
+    [
+      "a queue of two hours",
+      "hàng chờ hai giờ"
+    ],
+    [
+      "on low incomes",
+      "có thu nhập thấp"
+    ],
+    [
+      "feel ignored by parties",
+      "cảm thấy bị các đảng phớt lờ"
+    ],
+    [
+      "weak civic education",
+      "giáo dục công dân yếu"
+    ],
+    [
+      "unsure how the system works",
+      "không chắc hệ thống vận hành thế nào"
+    ],
+    [
+      "their interests are underrepresented",
+      "lợi ích của họ ít được đại diện"
+    ],
+    [
+      "a sense of exclusion",
+      "cảm giác bị loại trừ"
+    ],
+    [
+      "civic education in schools",
+      "giáo dục công dân ở trường"
+    ],
+    [
+      "more proportional systems",
+      "hệ thống tỷ lệ hơn"
+    ],
+    [
+      "make votes count more",
+      "làm cho phiếu bầu có giá trị hơn"
+    ],
+    [
+      "transparency about money in politics",
+      "minh bạch về tiền trong chính trị"
+    ],
+    [
+      "rebuild trust",
+      "xây dựng lại lòng tin"
+    ]
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questionId": 353,
+  "text": "Floods, earthquakes and storms cause enormous damage every year, and opinions differ on whether governments should focus on emergency response after a disaster or on long-term prevention. This essay will consider both perspectives before explaining my own opinion.\n\nOn the one hand, supporters of emergency response argue that rescue and relief save lives at the moment of greatest need. Search teams, field hospitals, food and shelter must be ready within hours, and when a disaster strikes the public expects an immediate and visible response. A family trapped by floodwater, for example, can only be rescued by trained crews with boats and helicopters, however many defences were planned. Emergency response also protects order, since people who are hungry and without shelter may panic. Some disasters, such as earthquakes, cannot be predicted, so response capacity is always necessary.\n\nOn the other hand, supporters of long-term prevention point out that preparing in advance reduces damage and costs far less than repairing it. Flood defences, strict building standards, early warning systems and better land planning mean that fewer people are in danger when a hazard arrives. A town that builds flood walls and drains, for example, may avoid damage that would cost far more to repair after every storm. Climate change is also making disasters more frequent, so investment in resilience becomes increasingly urgent. Money spent on prevention often protects homes, jobs and public services as well as lives, and the benefits continue for decades.\n\nIn conclusion, both views have merit. Overall, I believe that prevention should receive the larger share of long-term spending, because it reduces losses, while a well-funded emergency response must be maintained for the events that cannot be prevented.",
+  "analysis": {
+    "type_vi": "Discuss both views: ứng phó khẩn cấp hay phòng ngừa dài hạn (thiên tai; khác đề 231 là dịch vụ khẩn cấp thường ngày)",
+    "plan": [
+      {
+        "step": "1. Khung hai quan điểm",
+        "think": "Đề 353 tập trung thiên tai (lũ, động đất, bão); mở bài nêu thiệt hại mỗi năm rồi hai phe; tái dùng khung 231 nhưng ví dụ thiên tai.",
+        "refs": [
+          "FR-struct-both",
+          "FR-open-opinions-are-divided-as-to-whether",
+          "CN-firstPoint-on-the-one-hand",
+          "CN-nextPoint-on-the-other-hand"
+        ]
+      },
+      {
+        "step": "2. Phe ứng phó",
+        "think": "Cứu hộ và cứu trợ cứu mạng vào lúc cần nhất; đội tìm kiếm, bệnh viện dã chiến, thức ăn, nơi trú phải sẵn trong vài giờ; công chúng kỳ vọng phản ứng tức thì. Ví dụ gia đình kẹt trong nước lũ chỉ được cứu bởi đội có thuyền, trực thăng. Bảo vệ trật tự; thiên tai như động đất không dự báo được nên luôn cần khả năng ứng phó.",
+        "refs": [
+          "ID-gov-emergency-response",
+          "ID-gov-disaster-prep"
+        ]
+      },
+      {
+        "step": "3. Phe phòng ngừa dài hạn",
+        "think": "Chuẩn bị trước giảm thiệt hại và rẻ hơn sửa chữa: đê chống lũ, tiêu chuẩn xây dựng nghiêm, cảnh báo sớm, quy hoạch đất; biến đổi khí hậu làm thiên tai thường hơn nên đầu tư khả năng chống chịu cấp bách; bảo vệ cả nhà cửa, việc làm, dịch vụ công; lợi ích kéo dài hàng chục năm.",
+        "refs": [
+          "ID-gov-prevention",
+          "EX-gov-flood-defence",
+          "ID-env-adaptation"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Phòng ngừa nên nhận phần lớn hơn của chi tiêu dài hạn nhưng vẫn duy trì ứng phó đủ kinh phí cho sự kiện không phòng được.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": []
+  },
+  "chunks": [
+    [
+      "Floods, earthquakes and storms",
+      "lũ lụt, động đất và bão"
+    ],
+    [
+      "emergency response after a disaster",
+      "ứng phó khẩn cấp sau thiên tai"
+    ],
+    [
+      "long-term prevention",
+      "phòng ngừa dài hạn"
+    ],
+    [
+      "rescue and relief",
+      "cứu hộ và cứu trợ"
+    ],
+    [
+      "the moment of greatest need",
+      "thời điểm cần nhất"
+    ],
+    [
+      "Search teams, field hospitals, food and shelter",
+      "đội tìm kiếm, bệnh viện dã chiến, thức ăn và nơi trú"
+    ],
+    [
+      "ready within hours",
+      "sẵn sàng trong vài giờ"
+    ],
+    [
+      "an immediate and visible response",
+      "phản ứng tức thì và thấy được"
+    ],
+    [
+      "trapped by floodwater",
+      "kẹt trong nước lũ"
+    ],
+    [
+      "boats and helicopters",
+      "thuyền và trực thăng"
+    ],
+    [
+      "protects order",
+      "bảo vệ trật tự"
+    ],
+    [
+      "cannot be predicted",
+      "không thể dự báo"
+    ],
+    [
+      "response capacity",
+      "năng lực ứng phó"
+    ],
+    [
+      "preparing in advance",
+      "chuẩn bị trước"
+    ],
+    [
+      "Flood defences, strict building standards",
+      "đê chống lũ, tiêu chuẩn xây dựng nghiêm ngặt"
+    ],
+    [
+      "early warning systems",
+      "hệ thống cảnh báo sớm"
+    ],
+    [
+      "better land planning",
+      "quy hoạch đất tốt hơn"
+    ],
+    [
+      "more frequent",
+      "thường xuyên hơn"
+    ],
+    [
+      "investment in resilience",
+      "đầu tư vào khả năng chống chịu"
+    ],
+    [
+      "homes, jobs and public services",
+      "nhà cửa, việc làm và dịch vụ công"
+    ]
+  ]
+}

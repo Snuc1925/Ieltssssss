@@ -1,0 +1,129 @@
+{
+  "questionId": 378,
+  "text": "Many countries are home to several languages, and governments must decide which to use in schools, courts and official documents. This essay will explain two key ways in which language policy can affect national unity: by helping people to communicate and share opportunities, and by affecting how minority groups feel about their place in the nation.\n\nFirst and foremost, a shared language can unite a country, but forcing it can divide. A common language gives everyone access to education, jobs and public services, and it makes it easier for people from different regions to understand one another and to take part in national debates. In a country where citizens speak several languages and cannot communicate, the lack of a common tongue may create separate communities that know little about each other. A national language taught in all schools, for example, lets a young person from a remote village apply for a job in the capital. Shared language can also be a symbol of belonging.\n\nIn addition, language policy affects how minority groups feel. Suppressing minority languages makes people feel that their identity is threatened, and may produce resentment and even separatist movements. A region whose road signs and schools use both the national and the local language, for example, lets residents feel that their culture is respected. Evidence from countries with several official languages suggests that bilingual policies can maintain unity while keeping diversity. However, they require resources for teachers, translators and materials. Governments should therefore promote a common language while protecting others, so that all citizens feel valued.\n\nTo sum up, language policy can strengthen or weaken national unity depending on whether it respects diversity as well as promoting shared communication. For these reasons, policies should be designed with care.",
+  "analysis": {
+    "type_vi": "Opinion/discuss: chính sách ngôn ngữ ảnh hưởng thế nào đến thống nhất quốc gia",
+    "plan": [
+      {
+        "step": "1. Khung 'discuss how'",
+        "think": "Mở bài nêu thực tế nhiều nước có nhiều ngôn ngữ nên chính phủ phải chọn (trường, toà, văn bản); báo hai cách: giúp giao tiếp và chia sẻ cơ hội; ảnh hưởng cảm giác của nhóm thiểu số.",
+        "refs": [
+          "FR-struct-discuss-role",
+          "FR-this-essay-will",
+          "CN-firstPoint-first-and-foremost",
+          "CN-nextPoint-in-addition"
+        ]
+      },
+      {
+        "step": "2. Cách 1 — ngôn ngữ chung",
+        "think": "Ngôn ngữ chung cho mọi người tiếp cận giáo dục, việc làm, dịch vụ công; người từ các vùng hiểu nhau và tham gia tranh luận quốc gia; thiếu ngôn ngữ chung có thể tạo cộng đồng riêng ít biết nhau. Ví dụ ngôn ngữ quốc gia dạy ở mọi trường cho thanh niên làng xa xin việc ở thủ đô. Ngôn ngữ chung là biểu tượng thuộc về.",
+        "refs": [
+          "ID-gov-language-policy",
+          "ID-gov-migration"
+        ]
+      },
+      {
+        "step": "3. Cách 2 — nhóm thiểu số + giới hạn",
+        "think": "Dập tắt ngôn ngữ thiểu số khiến người ta cảm thấy danh tính bị đe doạ, gây bực bội, thậm chí phong trào ly khai. Ví dụ vùng có biển báo và trường dùng cả ngôn ngữ quốc gia và địa phương khiến cư dân thấy văn hoá được tôn trọng. Chính sách song ngữ giữ thống nhất mà vẫn đa dạng; cần nguồn lực cho giáo viên, phiên dịch, tài liệu; chính phủ thúc đẩy ngôn ngữ chung và bảo vệ ngôn ngữ khác.",
+        "refs": [
+          "ID-gov-language-policy",
+          "EX-gov-bilingual-signs",
+          "CN-concession-nevertheless"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Chính sách có thể củng cố hoặc làm yếu thống nhất tuỳ vào việc tôn trọng đa dạng; nên thiết kế cẩn thận.",
+        "refs": [
+          "CN-concluding-to-sum-up"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-language-policy",
+      "EX-gov-bilingual-signs"
+    ]
+  },
+  "chunks": [
+    [
+      "home to several languages",
+      "có nhiều ngôn ngữ"
+    ],
+    [
+      "language policy",
+      "chính sách ngôn ngữ"
+    ],
+    [
+      "national unity",
+      "sự thống nhất quốc gia"
+    ],
+    [
+      "schools, courts and official documents",
+      "trường học, toà án và văn bản chính thức"
+    ],
+    [
+      "helping people to communicate and share opportunities",
+      "giúp mọi người giao tiếp và chia sẻ cơ hội"
+    ],
+    [
+      "a shared language can unite a country",
+      "ngôn ngữ chung có thể đoàn kết một đất nước"
+    ],
+    [
+      "forcing it can divide",
+      "ép buộc nó có thể chia rẽ"
+    ],
+    [
+      "access to education, jobs and public services",
+      "tiếp cận giáo dục, việc làm và dịch vụ công"
+    ],
+    [
+      "understand one another",
+      "hiểu nhau"
+    ],
+    [
+      "take part in national debates",
+      "tham gia tranh luận quốc gia"
+    ],
+    [
+      "separate communities that know little about each other",
+      "những cộng đồng riêng biệt ít hiểu nhau"
+    ],
+    [
+      "a remote village",
+      "một ngôi làng xa xôi"
+    ],
+    [
+      "a symbol of belonging",
+      "biểu tượng của sự thuộc về"
+    ],
+    [
+      "Suppressing minority languages",
+      "dập tắt ngôn ngữ thiểu số"
+    ],
+    [
+      "identity is threatened",
+      "bản sắc bị đe doạ"
+    ],
+    [
+      "resentment and even separatist movements",
+      "sự bực bội và thậm chí các phong trào ly khai"
+    ],
+    [
+      "road signs and schools use both",
+      "biển báo và trường học dùng cả hai"
+    ],
+    [
+      "respects diversity",
+      "tôn trọng sự đa dạng"
+    ],
+    [
+      "teachers, translators and materials",
+      "giáo viên, phiên dịch và tài liệu"
+    ],
+    [
+      "feel valued",
+      "cảm thấy được trân trọng"
+    ]
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "questionId": 342,
+  "text": "Online platforms allow people to insult others about their race, religion or origin in front of millions, and some argue that governments should control online hate speech. I largely agree, since it causes real harm and companies cannot be left to regulate themselves, although controls must be carefully limited.\n\nTo begin with, online hate speech causes real harm and should be limited by law. Abuse aimed at a person's race, religion or identity can drive victims offline, spread fear and sometimes lead to violence. A woman who receives hundreds of abusive messages about her religion, for example, may stop speaking in public altogether, which damages free expression rather than protecting it. Hatred spread online has been linked to attacks on minorities in several countries, and young people who see such content may come to accept it as normal. Companies that profit from engagement have little reason to remove content that attracts attention, so they cannot be trusted to regulate themselves.\n\nFurthermore, governments are the only bodies able to set clear, consistent rules and to enforce them across platforms. Laws can require companies to remove illegal content quickly, report seriously dangerous threats and publish information on how they moderate. However, controls have risks. Definitions of hate speech can be vague, and governments may use them to silence criticism or minority opinions. Rules must therefore be narrow and clearly defined, restricted to threats, incitement to violence and abuse that targets people for who they are, with oversight by independent courts and a right of appeal. Education about respectful behaviour online is also important, because laws alone cannot change attitudes.\n\nIn conclusion, governments should control online hate speech to a large extent, because it harms people and platforms will not solve the problem themselves, provided that the rules are narrow and protect legitimate debate.",
+  "analysis": {
+    "type_vi": "Extent: chính phủ nên kiểm soát ngôn luận thù ghét trực tuyến đến mức nào — largely agree",
+    "plan": [
+      {
+        "step": "1. Khung Extent",
+        "think": "Mở bài nêu thực tế (người ta xúc phạm về chủng tộc, tôn giáo, nguồn gốc trước hàng triệu người) rồi largely agree + lý do + giới hạn (hạn chế phải cẩn thận).",
+        "refs": [
+          "FR-struct-extent",
+          "FR-stance-i-largely-agree-with-this-view"
+        ]
+      },
+      {
+        "step": "2. Lý do 1 — gây hại thật",
+        "think": "Lạm dụng nhắm vào chủng tộc, tôn giáo, danh tính có thể đẩy nạn nhân ngoại tuyến, gieo sợ hãi và đôi khi dẫn tới bạo lực. Ví dụ người phụ nữ nhận hàng trăm tin nhắn lăng mạ về tôn giáo ngừng nói trước công chúng — hại cả tự do biểu đạt. Hận thù trên mạng liên hệ với các vụ tấn công người thiểu số; người trẻ coi là bình thường; công ty kiếm lời từ tương tác ít có lý do gỡ.",
+        "refs": [
+          "ID-gov-hate-speech",
+          "EX-gov-hate-posts",
+          "CN-firstPoint-to-begin-with"
+        ]
+      },
+      {
+        "step": "3. Lý do 2 — chỉ chính phủ đặt quy tắc chung + giới hạn",
+        "think": "Luật yêu cầu công ty gỡ nội dung bất hợp pháp nhanh, báo đe doạ nghiêm trọng, công bố cách kiểm duyệt. Giới hạn: định nghĩa mơ hồ, chính phủ có thể dùng để bịt miệng phê phán; quy tắc hẹp, rõ (đe doạ, kích động bạo lực, lăng mạ nhắm vào người vì họ là ai), có toà độc lập giám sát và quyền kháng nghị; giáo dục về cư xử tôn trọng.",
+        "refs": [
+          "ID-gov-hate-speech",
+          "ID-gov-censorship",
+          "ID-env-gov-rules",
+          "CN-nextPoint-furthermore"
+        ]
+      },
+      {
+        "step": "4. Kết luận",
+        "think": "Kiểm soát ở mức độ lớn vì hại người và nền tảng không tự giải quyết, với điều kiện quy tắc hẹp, bảo vệ tranh luận chính đáng.",
+        "refs": [
+          "CN-concluding-in-conclusion"
+        ]
+      }
+    ],
+    "newEntries": [
+      "ID-gov-hate-speech",
+      "EX-gov-hate-posts"
+    ]
+  },
+  "chunks": [
+    [
+      "insult others about their race, religion or origin",
+      "xúc phạm người khác về chủng tộc, tôn giáo hoặc nguồn gốc"
+    ],
+    [
+      "online hate speech",
+      "ngôn luận thù ghét trực tuyến"
+    ],
+    [
+      "causes real harm",
+      "gây hại thật sự"
+    ],
+    [
+      "cannot be left to regulate themselves",
+      "không thể để tự điều chỉnh"
+    ],
+    [
+      "carefully limited",
+      "được giới hạn cẩn thận"
+    ],
+    [
+      "Abuse aimed at a person's race, religion or identity",
+      "lăng mạ nhắm vào chủng tộc, tôn giáo hay danh tính của một người"
+    ],
+    [
+      "drive victims offline",
+      "đẩy nạn nhân ra khỏi mạng"
+    ],
+    [
+      "spread fear",
+      "gieo rắc sợ hãi"
+    ],
+    [
+      "lead to violence",
+      "dẫn đến bạo lực"
+    ],
+    [
+      "stop speaking in public altogether",
+      "ngừng nói trước công chúng hoàn toàn"
+    ],
+    [
+      "damages free expression rather than protecting it",
+      "làm hại tự do biểu đạt thay vì bảo vệ"
+    ],
+    [
+      "attacks on minorities",
+      "các vụ tấn công người thiểu số"
+    ],
+    [
+      "accept it as normal",
+      "chấp nhận nó là bình thường"
+    ],
+    [
+      "profit from engagement",
+      "kiếm lời từ tương tác"
+    ],
+    [
+      "clear, consistent rules",
+      "quy tắc rõ ràng, nhất quán"
+    ],
+    [
+      "remove illegal content quickly",
+      "gỡ nội dung bất hợp pháp nhanh chóng"
+    ],
+    [
+      "Definitions of hate speech can be vague",
+      "định nghĩa ngôn luận thù ghét có thể mơ hồ"
+    ],
+    [
+      "silence criticism or minority opinions",
+      "bịt miệng phê phán hoặc ý kiến thiểu số"
+    ],
+    [
+      "oversight by independent courts and a right of appeal",
+      "giám sát bởi toà độc lập và quyền kháng cáo"
+    ],
+    [
+      "legitimate debate",
+      "tranh luận chính đáng"
+    ]
+  ]
+}
