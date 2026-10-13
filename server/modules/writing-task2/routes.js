@@ -27,7 +27,7 @@ async function requireQuestion(req, res) {
   return question;
 }
 
-router.get('/library/:topic(' + LIBRARY_TOPICS.join('|') + ')', async (req, res, next) => {
+router.get('/library/:topic(all|' + LIBRARY_TOPICS.join('|') + ')', async (req, res, next) => {
   try {
     res.json(await getLibrary(req.params.topic));
   } catch (err) {

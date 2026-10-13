@@ -850,7 +850,7 @@
   var STANCE_VI = { pro: 'ủng hộ', con: 'phản đối / nhược điểm', cause: 'nguyên nhân', solution: 'giải pháp', caveat: 'giới hạn / nhượng bộ', rebuttal: 'phản bác' };
   var TOPIC_VI = { education: 'Education',environment: 'Environment & Energy',health: 'Health & Sport',transport: 'Transport, Housing & Cities',technology: 'Technology & Science',travel: 'Travel & Tourism',economy: 'Economy & Business',media: 'Media & Advertising',work: 'Work & Careers',arts: 'Arts & Culture',family: 'Family & Society',crime: 'Crime & Law',government: 'Government & Politics' };
   var MASTERY = ['Chưa nhớ', 'Mơ hồ', 'Đã thuộc'];
-  var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'education', topicSel: 'education',
+  var ST = { loaded: false, loading: false, error: '', entries: [], byId: {}, essays: [], byQ: {}, progress: {}, pass: 7, usage: {}, topic: 'all', topicSel: 'all', ftopic: '',
     tab: 'essays', q: '', ftype: '', fpass: '', sel: null, ver: null, color: true, practice: false, reveal: false, recall: '', openRef: null,
     lq: '', ltype: '', ltopic: '', luse: '', lshow: 60 };
   var sroot = $('#study-root');
@@ -868,6 +868,21 @@
     return '<button type="button" class="refchip ty-' + e.type + (cls || '') + '" data-act="sref" data-id="' + esc(id) + '" title="' + esc(TYPE_VI[e.type] + ': ' + entryLabel(e)) + '">' + esc(shortText(entryLabel(e), 44)) + '</button>';
   }
 
+  // Chế độ "Tất cả" không kèm vùng tô: tải chủ đề của bài đang mở rồi gắn marks vào các bài cùng chủ đề.
+  var marksLoaded = {};
+  async function ensureMarks(rec) {
+    var v = rec && rec.versions[rec.versions.length - 1];
+    if (!rec || !rec.topic || (v && v.marks) || marksLoaded[rec.topic]) return;
+    marksLoaded[rec.topic] = 1;
+    try {
+      var d = await req('GET', WRITE_API + '/library/' + rec.topic);
+      d.essays.forEach(function (r) {
+        var t = ST.byQ[r.questionId]; if (!t) return;
+        t.versions.forEach(function (ver, i) { if (r.versions[i]) ver.marks = r.versions[i].marks; });
+      });
+      if (ST.sel === rec.questionId) drawStudy();
+    } catch (e) { delete marksLoaded[rec.topic]; }
+  }
   async function ensureStudy() {
     if (ST.loaded || ST.loading) return;
     ST.loading = true; drawStudy();
@@ -894,7 +909,7 @@
     }).join('');
   }
   function stKpis() {
-    var rs = ST.essays, n = rs.length;
+    var rs = ST.essays.filter(function (r) { return !ST.ftopic || r.topic === ST.ftopic; }), n = rs.length;
     var passed = rs.filter(function (r) { return r.versions.length && latest(r).grade.overall >= ST.pass; }).length;
     var avg = function (f) { var xs = rs.map(f).filter(function (x) { return x != null; }); return xs.length ? (xs.reduce(function (a, b) { return a + b; }, 0) / xs.length).toFixed(1) : '–'; };
     var mastered = rs.filter(function (r) { return level(r.questionId) === 2; }).length;
@@ -911,6 +926,7 @@
   function sFiltered() {
     var q = ST.q.trim().toLowerCase().replace(/^#/, '');
     return ST.essays.filter(function (r) {
+      if (ST.ftopic && r.topic !== ST.ftopic) return false;
       if (ST.ftype && r.qtype !== ST.ftype) return false;
       if (ST.fpass === 'ok' && latest(r).grade.overall < ST.pass) return false;
       if (ST.fpass === 'no' && latest(r).grade.overall >= ST.pass) return false;
@@ -930,14 +946,15 @@
   function updateStList() {
     var list = sFiltered(), el = $('#s-list'); if (!el) return;
     $('#s-count').textContent = list.length + ' / ' + ST.essays.length + ' bài';
-    $('#s-clear').hidden = !(ST.q || ST.ftype || ST.fpass);
+    $('#s-clear').hidden = !(ST.q || ST.ftopic || ST.ftype || ST.fpass);
     el.innerHTML = list.length ? list.map(essayRowHtml).join('') : '<div class="empty"><h2>Không có bài nào khớp</h2><p>Thử bỏ bớt bộ lọc.</p></div>';
   }
   function essaysTabHtml() {
-    var types = {}; ST.essays.forEach(function (r) { types[r.qtype] = 1; });
+    var types = {}; ST.essays.forEach(function (r) { if (!ST.ftopic || r.topic === ST.ftopic) types[r.qtype] = 1; });
     var opt = function (arr, cur, all) { return '<option value="">' + all + '</option>' + arr.map(function (v) { return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(v) + '</option>'; }).join(''); };
     return '<p class="hint" style="padding:0;margin:0 0 12px">Mỗi bài được viết từ thư viện, chấm bằng bộ chấm (Gemini, tự chuyển DeepSeek khi hết quota), chưa đạt thì viết lại. Ô điểm đầu là bộ chấm chính, ô thứ hai là DeepSeek chấm chéo.</p>' +
       '<div class="toolbar"><label class="search"><span class="sr">Tìm bài</span>' + ICON.search + '<input id="s-q" type="search" placeholder="Tìm theo nội dung hoặc số đề" autocomplete="off" value="' + esc(ST.q) + '"></label>' +
+      '<select class="field sel" id="s-tp" aria-label="Chủ đề"><option value="">Tất cả chủ đề</option>' + Object.keys(TOPIC_VI).map(function (k) { return '<option value="' + k + '"' + (k === ST.ftopic ? ' selected' : '') + '>' + esc(TOPIC_VI[k]) + '</option>'; }).join('') + '</select>' +
       '<select class="field sel" id="s-ft" aria-label="Question type">' + opt(Object.keys(types), ST.ftype, 'Tất cả question type') + '</select>' +
       '<select class="field sel" id="s-fp" aria-label="Kết quả"><option value="">Mọi kết quả</option><option value="ok"' + (ST.fpass === 'ok' ? ' selected' : '') + '>Đạt</option><option value="no"' + (ST.fpass === 'no' ? ' selected' : '') + '>Chưa đạt</option></select>' +
       '<button type="button" class="btn btn-ghost btn-sm" data-act="sclear" id="s-clear" hidden>Xóa bộ lọc</button></div>' +
@@ -1089,8 +1106,7 @@
     }
     if (ST.sel != null && ST.byQ[ST.sel] && ST.tab === 'essays') { sroot.innerHTML = stDetailHtml(ST.byQ[ST.sel]); return; }
     var tabs = [['essays', 'Bài mẫu đã chấm'], ['library', 'Thư viện']];
-    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">' + esc(TOPIC_VI[ST.topicSel] || ST.topicSel) + ' · bài mẫu viết từ thư viện, chấm bằng AI, kèm tư duy xử lý từng bài</p></div>' +
-        '<div class="study-seg" role="group" aria-label="Chủ đề">' + Object.keys(TOPIC_VI).map(function (k) { return '<button type="button" data-act="stopic" data-t="' + k + '" aria-pressed="' + (ST.topicSel === k) + '">' + esc(TOPIC_VI[k]) + '</button>'; }).join('') + '</div></div>' +
+    sroot.innerHTML = '<div class="w-head"><div><h1 class="w-title">Study</h1><p class="sub">' + 'Bài mẫu viết từ thư viện, chấm bằng AI, kèm tư duy xử lý từng bài</p></div></div>' +
       stKpis() + '<div class="study-seg" role="group" aria-label="Chế độ xem" style="margin-top:18px">' +
       tabs.map(function (t) { return '<button type="button" data-act="stab" data-t="' + t[0] + '" aria-pressed="' + (ST.tab === t[0]) + '">' + t[1] + '</button>'; }).join('') + '</div>' +
       '<div id="s-body">' + (ST.tab === 'essays' ? essaysTabHtml() : libTabHtml()) + '</div>';
@@ -1118,11 +1134,11 @@
     var act = b.dataset.act;
     if (act === 'stopic') { if (b.dataset.t !== ST.topicSel) { ST.topicSel = b.dataset.t; ST.loaded = false; ST.sel = null; ST.q = ST.ftype = ST.fpass = ''; ensureStudy(); } }
     else if (act === 'stab') { ST.tab = b.dataset.t; ST.sel = null; drawStudy(); }
-    else if (act === 'sopen') { var id = Number(b.dataset.id); if (id && ST.byQ[id]) { ST.tab = 'essays'; ST.sel = id; ST.ver = null; ST.reveal = false; ST.recall = ''; ST.openRef = null; drawStudy(); window.scrollTo(0, 0); } }
+    else if (act === 'sopen') { var id = Number(b.dataset.id); if (id && ST.byQ[id]) { ST.tab = 'essays'; ST.sel = id; ST.ver = null; ST.reveal = false; ST.recall = ''; ST.openRef = null; drawStudy(); window.scrollTo(0, 0); ensureMarks(ST.byQ[id]); } }
     else if (act === 'sback') { ST.sel = null; drawStudy(); }
     else if (act === 'sref') showRef(b.dataset.id);
     else if (act === 'sver') { ST.ver = Number(b.dataset.i); drawStudy(); }
-    else if (act === 'sclear') { ST.q = ST.ftype = ST.fpass = ''; drawStudy(); }
+    else if (act === 'sclear') { ST.q = ST.ftopic = ST.ftype = ST.fpass = ''; drawStudy(); }
     else if (act === 'lclear') { ST.lq = ST.ltype = ST.ltopic = ST.luse = ''; ST.lshow = 60; drawStudy(); }
     else if (act === 'lmore') { ST.lshow += 60; updateLibList(); }
     else if (act === 'scolor') { ST.color = !ST.color; drawStudy(); }
@@ -1139,7 +1155,8 @@
   });
   sroot.addEventListener('change', function (e) {
     var id = e.target.id;
-    if (id === 's-ft') { ST.ftype = e.target.value; updateStList(); }
+    if (id === 's-tp') { ST.ftopic = e.target.value; ST.ftype = ''; drawStudy(); }
+    else if (id === 's-ft') { ST.ftype = e.target.value; updateStList(); }
     else if (id === 's-fp') { ST.fpass = e.target.value; updateStList(); }
     else if (id === 'l-t') { ST.ltype = e.target.value; ST.lshow = 60; updateLibList(); }
     else if (id === 'l-tp') { ST.ltopic = e.target.value; ST.lshow = 60; updateLibList(); }

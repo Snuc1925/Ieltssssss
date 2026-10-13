@@ -36,6 +36,7 @@ export function setProgress(id, level) {
 export const LIBRARY_TOPICS = ['education','environment','health','transport','technology','travel','economy','media','work','arts','family','crime','government'];
 
 export async function getLibrary(topic = 'education') {
+  if (topic === 'all') return getAllLibrary();
   if (!LIBRARY_TOPICS.includes(topic)) topic = 'education';
   const [lexicon, store, progress] = await Promise.all([
     readJson(path.join(DIR, 'lexicon.json')),
@@ -48,4 +49,16 @@ export async function getLibrary(topic = 'education') {
     versions: rec.versions.map((v) => ({ ...v, marks: computeMarks(v.text, lexicon.entries) })),
   }));
   return { topic: store.topic || topic, passScore: store.passScore || 7, entries: lexicon.entries, essays, progress };
+}
+
+// Gộp mọi chủ đề cho tab Study "Tất cả": không tính vùng tô (nặng), client tải lại theo chủ đề khi mở một bài.
+async function getAllLibrary() {
+  const [lexicon, progress, stores] = await Promise.all([
+    readJson(path.join(DIR, 'lexicon.json')),
+    readJson(PROGRESS, {}),
+    Promise.all(LIBRARY_TOPICS.map((t) => readJson(path.join(DIR, `essays.${t}.json`), { topic: t, passScore: 7, essays: [] }))),
+  ]);
+  const essays = [];
+  stores.forEach((st, i) => st.essays.forEach((rec) => essays.push({ ...rec, topic: LIBRARY_TOPICS[i] })));
+  return { topic: 'all', passScore: 7, entries: lexicon.entries, essays, progress };
 }
